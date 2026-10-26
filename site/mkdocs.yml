@@ -2,7 +2,7 @@
 # The pages live at the repo root, so site/build.sh copies them into _docs/ first (MkDocs can't use its own folder).
 site_name: "Typewriters & Patents"
 site_url: https://leonardchau.com/typewriters-patents/
-site_description: "An open library of typewriter history: 10,201 patents (US 1829–1951, Germany 1877–1950) with drawings and plain-English summaries, 1,109 machines with makers, prices and features, an interactive timeline by country and kind, and guides to index, type-element and typebar typewriters."
+site_description: "An open library of typewriter history: 10,201 patents (US 1829–1951, Germany 1877–1950) with drawings and plain-English summaries, 1,045 machines with makers, prices and features, an interactive timeline by country and kind, and guides to index, type-element and typebar typewriters."
 repo_url: https://github.com/dairyking98/typewriters-patents
 edit_uri: ""
 docs_dir: ../_docs
