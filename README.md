@@ -1,44 +1,65 @@
 # Typewriters & Patents
 
-A browsable library of 10,201 typewriter patents (the US list 1829–1951 and German patents 1877–1950), 1,045 historical machines (from Dingwerth's *Lexikon historischer Schreibmaschinen*, facts only) and the mechanisms they use: typebar, type-element and index machines, with the most depth on **index typewriters**. 1,910 patents were read and summarised.
+The history of the typewriter through its patents and machines: 10,201 patents (US 1829–1951, Germany 1877–1950) with drawings and plain-English summaries, 1,045 machines with makers, years, prices and features, and the mechanisms they used, from the first experiments to the electric office machine. Typebar, type-element and index machines are all here; index typewriters get the most depth.
 
-Browse it here on GitHub, or clone it and open the folder as an [Obsidian](https://obsidian.md) vault (tags, backlinks, graph view, and live tables in `views/*.base`).
+## Start here
 
-## Timelines
+<div class="grid cards" markdown>
 
-- [Timeline browser](explore/timeline.md): every dated machine by country (or all together), patents per year and when features appear; click a year to see what was made then (on the site)
-- [The American typewriter, landmark by landmark](views/american-timeline.md): Sholes & Glidden to the IBM Executive, and which machine brought the shift key, visible writing, the tabulator, the backspace…, with sources
-- [Typewriter features through time](views/typewriter-features.md): shift, ribbon, bell, margins, tabulator, backspace and more: when each appeared, when it became standard, and what survives today
-- [Decade by decade](views/timeline.md): mechanism features first seen, index machines, key patents
+-   **[The American typewriter](views/american-timeline.md)**
 
-## Guides
+    ---
 
-- [The master timeline](guides/master-timeline.md): index, type-element and typebar machines together, era by era
-- [Typebar typewriters](guides/typebar-typewriters.md) · [Type-element typewriters](guides/type-element-typewriters.md)
-- Index machines: [What is an index typewriter?](guides/index-typewriters.md) · [How index machines work](guides/how-index-machines-work.md) · [Index-machine features](guides/timeline-of-features.md) · [German index typewriters](guides/german-index-typewriters.md)
-- [All guides](guides/README.md)
+    Sholes & Glidden to the IBM Executive, landmark by landmark: which machine brought the shift key, visible writing, the tabulator and the backspace.
 
-## Views
+-   **[Timeline browser](explore/timeline.md)**
 
-- [Index machines](views/index-machines.md): the 89 index machines by type carrier, with their patents and mechanisms
-- [Mechanisms](views/mechanisms.md): 90 mechanism features by subsystem: how common, first seen, peak decade. By subsystem: [SEL](views/sel.md) · [ELEM](views/elem.md) · [SHIFT](views/shift.md) · [IMP](views/imp.md) · [INK](views/ink.md) · [ESC](views/esc.md) · [PAP](views/pap.md) · [FRM](views/frm.md) · [USE](views/use.md)
-- [Inventors](views/inventors.md)
+    ---
 
-## Everything
+    Every machine as a dot by year, by country or by kind, with patents and features; click a year to see what was made then.
 
-| Folder | What |
-|---|---|
-| [patents/](patents/) | one page per patent: data, drawings, a summary of how it works, similar patents |
-| [machines/](machines/) | one page per machine, with the patents linked to it |
-| [features/](features/) | one page per mechanism feature, with every patent that shows it |
-| [people/](people/) · [companies/](companies/) | inventors and assignees |
-| [families/](families/) | patents grouped by Google Patents' similar-document links |
+-   **[Typewriter features through time](views/typewriter-features.md)**
 
-## How it was made, and what to trust
+    ---
 
-- Patent data, text and drawings: Google Patents; German patent lists and original scans: DEPATISnet (DPMA). Patent documents are public domain; the drawings are linked from Google, not copied.
-- Summaries ("reading"), feature tags and machine links were made by machine from OCR and Google's translation of old German patents. Check the patent and its drawings before relying on a detail.
-- Patent-to-machine links marked low or medium are inferences from the inventor's name. Dates of old German patents without a listed date are estimated from the patent number; titles starting with ~ were derived from the text.
-- Machine facts come from Dingwerth's Lexikon (1997); its text is not reproduced here.
-- Generated: don't edit by hand, corrections are welcome as issues.
-- Full list of sources and credits: [Sources and credits](about/sources.md).
+    Shift, ribbon, bell, margins, tabulator, backspace: when each appeared, became standard, and what survives today.
+
+-   **[The master timeline](guides/master-timeline.md)**
+
+    ---
+
+    Index, type-element and typebar machines side by side, era by era.
+
+</div>
+
+## Explore
+
+<div class="grid cards" markdown>
+
+-   **[Guides](guides/README.md)**
+
+    ---
+
+    Readable introductions: typebar typewriters, type-element typewriters, and four guides on index machines.
+
+-   **[Machines & mechanisms](views/README.md)**
+
+    ---
+
+    The 89 index machines by type carrier, 90 mechanism features by subsystem, the inventors.
+
+-   **[Machines A–Z](machines/README.md)**
+
+    ---
+
+    All 1,045 machines, oldest first, each with its facts and patents.
+
+-   **[Patents A–Z](patents/README.md)**
+
+    ---
+
+    All 10,201 patents, oldest first; 1,910 read and summarised in full.
+
+</div>
+
+Everything else is under [Browse](browse/README.md) (people, companies, patent families, tags), and the search box at the top finds any machine, patent, inventor or page. Where it all comes from: [About](about/README.md) and [Sources and credits](about/sources.md).

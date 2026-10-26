@@ -15,6 +15,7 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.indexes
+    - navigation.footer
     - search.suggest
     - search.highlight
     - toc.follow
@@ -52,41 +53,46 @@ validation:
     unrecognized_links: ignore
 nav:
   - Home: README.md
+  - Timelines:
+      - timelines/README.md
+      - The American typewriter: views/american-timeline.md
+      - The master timeline: guides/master-timeline.md
+      - Typewriter features through time: views/typewriter-features.md
+      - Timeline browser: explore/timeline.md
+      - Decade by decade: views/timeline.md
   - Guides:
       - guides/README.md
-      - The master timeline: guides/master-timeline.md
       - Typebar typewriters: guides/typebar-typewriters.md
       - Type-element typewriters: guides/type-element-typewriters.md
-      - Index machines:
+      - Index typewriters:
           - What is an index typewriter?: guides/index-typewriters.md
           - How index machines work: guides/how-index-machines-work.md
           - Index-machine features: guides/timeline-of-features.md
           - German index typewriters: guides/german-index-typewriters.md
-  - Timelines:
-      - Timeline browser: explore/timeline.md
-      - The American typewriter: views/american-timeline.md
-      - Typewriter features: views/typewriter-features.md
-      - Decade by decade: views/timeline.md
-  - Views:
+  - Machines & mechanisms:
+      - views/README.md
       - Index machines: views/index-machines.md
       - Mechanisms: views/mechanisms.md
       - Inventors: views/inventors.md
-      - Selection: views/sel.md
-      - Type element: views/elem.md
-      - Shift: views/shift.md
-      - Impression: views/imp.md
-      - Inking: views/ink.md
-      - Escapement: views/esc.md
-      - Paper: views/pap.md
-      - Frame: views/frm.md
-      - Uses: views/use.md
+      - By subsystem:
+          - Selection: views/sel.md
+          - Type element: views/elem.md
+          - Shift: views/shift.md
+          - Impression: views/imp.md
+          - Inking: views/ink.md
+          - Escapement and spacing: views/esc.md
+          - Paper and carriage: views/pap.md
+          - Frame: views/frm.md
+          - Uses: views/use.md
   - Browse:
-      - Patents: patents/README.md
+      - browse/README.md
       - Machines: machines/README.md
-      - Features: features/README.md
+      - Patents: patents/README.md
+      - Mechanism features: features/README.md
       - People: people/README.md
       - Companies: companies/README.md
-      - Families: families/README.md
+      - Patent families: families/README.md
       - Tags: tags.md
   - About:
+      - about/README.md
       - Sources and credits: about/sources.md
