@@ -20,7 +20,7 @@ See also [Typewriter features through time](typewriter-features.md) (when each f
 | 1878 | Remington No. 2 adds the shift key: [Remington No. 2](../machines/remington-2.md) | [Shift key (case shift)](typewriter-features.md) |
 | 1878 | Sholes patents the QWERTY keyboard: Sholes type-writer (keyboard patent) | [QWERTY keyboard](typewriter-features.md) |
 | 1880 | Hammond patent: interchangeable type shuttle: Hammond No. 1 (Ideal keyboard) | [Interchangeable type](typewriter-features.md) |
-| 1881 | Caligraph: first double-keyboard machine: [Caligraph (No. 1 caps only; No. 2 upper and lower case)](../machines/caligraph-1.md) |  |
+| 1881 | Caligraph: first double-keyboard machine: Caligraph No. 1 (caps only) and Caligraph No. 2 (upper and lower case) |  |
 | 1883 | Crandall type-sleeve machine: Crandall No. 1 (patent: three-bank Crandall) | [Interchangeable type](typewriter-features.md) |
 | 1887 | Yost: ink pad instead of a ribbon: [Yost No. 1](../machines/yost-1.md) |  |
 | 1889 | Columbia Bar-Lock: early downstrike visible writer: Columbia Bar-Lock | [Visible writing](typewriter-features.md) |
@@ -165,7 +165,7 @@ Sources: [gutenberg.org](https://www.gutenberg.org/ebooks/60794), [princeton.edu
 
 The Caligraph gives every character its own key (a double keyboard) instead of a shift, the first such commercial typebar machine.
 
-**Machine:** [Caligraph 1](../machines/caligraph-1.md) · **Confidence:** medium
+**Machine:** Caligraph No. 1 (caps only) and Caligraph No. 2 (upper and lower case) (American Writing Machine Co. (New York)) · **Confidence:** medium
 
 Sources: [antiquetypewriters.com](https://www.antiquetypewriters.com/typewriter/calligraph-2/), [gutenberg.org](https://www.gutenberg.org/ebooks/60794)
 
