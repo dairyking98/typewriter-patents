@@ -1,8 +1,10 @@
-# IMP:hammer-behind
+# Hammer behind the paper
+
+*Impression feature · code `IMP:hammer-behind`*
 
 A hammer strikes from behind the paper into the type
 
-**235 patents**, 1868–1950. Often together with: [SEL:selector-locking](../features/sel-selector-locking.md) (98), [SEL:keyboard-full](../features/sel-keyboard-full.md) (97), [INK:ribbon](../features/ink-ribbon.md) (80), [ESC:print-and-space](../features/esc-print-and-space.md) (73), [ESC:pawl-rack](../features/esc-pawl-rack.md) (70), [SEL:differential-drive](../features/sel-differential-drive.md) (67), [SHIFT:axial](../features/shift-axial.md) (67), [IMP:spring-energy](../features/imp-spring-energy.md) (61)
+**236 patents**, 1868–1950. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (98), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (97), [Ink ribbon](../features/ink-ribbon.md) (80), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (73), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (70), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (67), [Shift by sliding the element](../features/shift-axial.md) (67), [Spring-powered blow](../features/imp-spring-energy.md) (61)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (3), [Gardner](../machines/gardner.md) (3), [Lasar](../machines/lasar.md) (2), [Chicago 2](../machines/chicago-2.md) (2), [Munson 1](../machines/munson-1.md) (2), [International 2](../machines/international-2.md) (1), [Travis](../machines/travis.md) (1), [Commercial Visible 1](../machines/commercial-visible-1.md) (1), [Commercial Visible 6](../machines/commercial-visible-6.md) (1), [Eagle](../machines/eagle.md) (1), [Moya Visible 1](../machines/moya-visible-1.md) (1), [Moya Visible 2](../machines/moya-visible-2.md) (1), [Thürey 1, 2](../machines/thurey-1-2.md) (1), [Sterling 2](../machines/sterling-2.md) (1)
 
@@ -218,6 +220,7 @@ A hammer strikes from behind the paper into the type
 | [DE448004](../patents/DE448004.md) | 1927 |  | A second cam on the lifting disc of the printing unit shaft releases the document button and hammer lock again just after printing, so the hammer is blocked for the empty stroke. |
 | [DE450831](../patents/DE450831.md) | 1927 |  | The print hammer is held by pawls and released by a push rod on the checkout gear only at the print point, then returns to rest automatically after printing; the drawer release and print release are interlocked with the angle levers. |
 | [DE451133](../patents/DE451133.md) | 1927 | Nationalbank, Darmstaedter Und | Mount the type pins and their springs in a comb-shaped holder frame that is a unit insert dropped between the cheeks of the forked head of the type carrier rail. |
+| [DE453166](../patents/DE453166.md) | 1927 |  | A contact in the pressure circuit, opened mechanically by the wheel advance and lever, interrupts the hammer magnet at the right moment. |
 | [DE464196](../patents/DE464196.md) | 1928 |  | Two rows of amount type wheels, each split into groups, are set from one rack set; only the printing hammers facing the active groups are released to strike. |
 | [DE469128](../patents/DE469128.md) | 1929 | Loewenbuck, Sebastian | Use one rotary stop arm that swings against a pen (stylus) inserted into a hole in a depressible letter board, so the pen position stops the type wheel and the same press prints. |
 | [DE508609](../patents/DE508609.md) | 1930 | Tauschek, Gustav | Extra hammers placed between type carriers strike dotted lines on the paper between digits, with a rail holding them until release, drawing column rules. |

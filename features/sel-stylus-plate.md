@@ -1,8 +1,10 @@
-# SEL:stylus-plate
+# Stylus on a letter plate
+
+*Selection feature · code `SEL:stylus-plate`*
 
 Stylus touched to a plate or balance-beam letter field
 
-**7 patents**, 1879–1933. Often together with: [IMP:electric](../features/imp-electric.md) (3), [INK:ribbon](../features/ink-ribbon.md) (3), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (3), [ESC:pawl-rack](../features/esc-pawl-rack.md) (3), [IMP:element-to-platen](../features/imp-element-to-platen.md) (3), [ESC:print-and-space](../features/esc-print-and-space.md) (3), [SEL:pointer-chart](../features/sel-pointer-chart.md) (2), [SEL:pointer-press-prints](../features/sel-pointer-press-prints.md) (2)
+**7 patents**, 1879–1933. Often together with: [Electric drive](../features/imp-electric.md) (3), [Ink ribbon](../features/ink-ribbon.md) (3), [Ribbon feed](../features/ink-ribbon-feed.md) (3), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (3), [Element struck to the platen](../features/imp-element-to-platen.md) (3), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (3), [Pointer over a chart](../features/sel-pointer-chart.md) (2), [Press the pointer to print](../features/sel-pointer-press-prints.md) (2)
 
 **Machines:** [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (1), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (1), [Odell 1 B](../machines/odell-1-b.md) (1), [Odell 2](../machines/odell-2.md) (1), [Odell 3](../machines/odell-3.md) (1), [Odell 4](../machines/odell-4.md) (1), [Gundka 3](../machines/gundka-3.md) (1), [Gundka 5](../machines/gundka-5.md) (1)
 

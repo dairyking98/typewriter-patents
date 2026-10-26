@@ -10,13 +10,13 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 **First seen:**
 
-- 1829: [ELEM:sector-segment](../features/elem-sector-segment.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): Curved type sector or segment (e.g. Hammond shuttle)
-- 1829: [ESC:print-and-space](../features/esc-print-and-space.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): The single print action also spaces the carriage
-- 1829: [IMP:element-to-platen](../features/imp-element-to-platen.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): The element swings or moves to the platen to print
-- 1829: [IMP:print-lever](../features/imp-print-lever.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): A separate print key or lever performs the impression
-- 1829: [INK:pad](../features/ink-pad.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): Felt or ink pad inking the type
-- 1829: [PAP:line-indicator](../features/pap-line-indicator.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): Line or point indicator and scale
-- 1829: [SEL:pointer-chart](../features/sel-pointer-chart.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): Pointer or stylus moved over a flat character chart; a separate key or lever prints
+- 1829: [Type sector or segment](../features/elem-sector-segment.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): Curved type sector or segment (e.g. Hammond shuttle)
+- 1829: [Prints and spaces in one stroke](../features/esc-print-and-space.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): The single print action also spaces the carriage
+- 1829: [Element struck to the platen](../features/imp-element-to-platen.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): The element swings or moves to the platen to print
+- 1829: [Separate print key or lever](../features/imp-print-lever.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): A separate print key or lever performs the impression
+- 1829: [Ink pad](../features/ink-pad.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): Felt or ink pad inking the type
+- 1829: [Line and point indicator](../features/pap-line-indicator.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): Line or point indicator and scale
+- 1829: [Pointer over a chart](../features/sel-pointer-chart.md) in [USX5581](../patents/USX5581.md) (Burt, Wiliam A.): Pointer or stylus moved over a flat character chart; a separate key or lever prints
 
 **Index machines:** [Burt](../machines/burt.md) (1829, type segment)
 
@@ -26,20 +26,20 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 **First seen:**
 
-- 1843: [ELEM:individual-slugs](../features/elem-individual-slugs.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Separate type slugs or plungers selected and driven individually
-- 1843: [ELEM:wheel-rim](../features/elem-wheel-rim.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Types on the rim of a wheel (face parallel to axis)
-- 1843: [ESC:pawl-rack](../features/esc-pawl-rack.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Escapement by pawl or dogs on a rack
-- 1843: [ESC:space-key](../features/esc-space-key.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Separate space key or bar
-- 1843: [ESC:variable-spacing](../features/esc-variable-spacing.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Proportional or variable letter spacing
-- 1843: [FRM:adjustment-wear](../features/frm-adjustment-wear.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Adjustment or wear take-up provisions
-- 1843: [IMP:press-through](../features/imp-press-through.md) in [US3228](../patents/US3228.md) (Thurber, Charles): The operator's force presses the type through directly
-- 1843: [INK:roller](../features/ink-roller.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Ink roller touching the type
-- 1843: [PAP:flat-bed](../features/pap-flat-bed.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Flat paper bed or the machine travelling over the paper or a book
-- 1843: [PAP:line-space](../features/pap-line-space.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Line-space ratchet and pawl
-- 1843: [SEL:index-wheel](../features/sel-index-wheel.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Hand wheel carrying the characters turned directly (the element is the index)
-- 1843: [USE:blind](../features/use-blind.md) in [US3228](../patents/US3228.md) (Thurber, Charles): For the blind (embossing
-- 1845: [FRM:frame-construction](../features/frm-frame-construction.md) in [US4271](../patents/US4271.md) (Thurber, Charles): Frame or casing construction (cast
-- 1845: [SEL:linear-slider](../features/sel-linear-slider.md) in [US4271](../patents/US4271.md) (Thurber, Charles): Slider or carriage moved along a straight index
+- 1843: [Separate type slugs or plungers](../features/elem-individual-slugs.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Separate type slugs or plungers selected and driven individually
+- 1843: [Type wheel (types on the rim)](../features/elem-wheel-rim.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Types on the rim of a wheel (face parallel to axis)
+- 1843: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Escapement by pawl or dogs on a rack
+- 1843: [Space key or bar](../features/esc-space-key.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Separate space key or bar
+- 1843: [Proportional spacing](../features/esc-variable-spacing.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Proportional or variable letter spacing
+- 1843: [Adjustment and wear take-up](../features/frm-adjustment-wear.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Adjustment or wear take-up provisions
+- 1843: [Hand presses the type through](../features/imp-press-through.md) in [US3228](../patents/US3228.md) (Thurber, Charles): The operator's force presses the type through directly
+- 1843: [Ink roller](../features/ink-roller.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Ink roller touching the type
+- 1843: [Flat bed or book typewriter](../features/pap-flat-bed.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Flat paper bed or the machine travelling over the paper or a book
+- 1843: [Line spacing](../features/pap-line-space.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Line-space ratchet and pawl
+- 1843: [Hand-turned type wheel](../features/sel-index-wheel.md) in [US3228](../patents/US3228.md) (Thurber, Charles): Hand wheel carrying the characters turned directly (the element is the index)
+- 1843: [For the blind](../features/use-blind.md) in [US3228](../patents/US3228.md) (Thurber, Charles): For the blind (embossing
+- 1845: [Frame construction](../features/frm-frame-construction.md) in [US4271](../patents/US4271.md) (Thurber, Charles): Frame or casing construction (cast
+- 1845: [Slider along a straight index](../features/sel-linear-slider.md) in [US4271](../patents/US4271.md) (Thurber, Charles): Slider or carriage moved along a straight index
 
 ## 1850s
 
@@ -47,27 +47,27 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 **First seen:**
 
-- 1850: [ELEM:plate-flat](../features/elem-plate-flat.md) in [US7771](../patents/US7771.md) (Eddy, Oliver T.): Flat type plate or matrix of characters
-- 1850: [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) in [US7652](../patents/US7652.md) (Fairbank, John B.): Small keyboard where each key picks a position and shift keys pick the row
-- 1852: [ELEM:metal-type](../features/elem-metal-type.md) in [US8980](../patents/US8980.md) (Jones, John M.): Metal types (cast or stamped)
-- 1852: [ESC:bell](../features/esc-bell.md) in [US8980](../patents/US8980.md) (Jones, John M.): Bell near the line end
-- 1852: [ESC:carriage-return](../features/esc-carriage-return.md) in [US8980](../patents/US8980.md) (Jones, John M.): Carriage return lever or mechanism (often with line space)
-- 1852: [PAP:platen-roller](../features/pap-platen-roller.md) in [US8980](../patents/US8980.md) (Jones, John M.): Roller platen
-- 1852: [SEL:pointer-hole](../features/sel-pointer-hole.md) in [US8980](../patents/US8980.md) (Jones, John M.): Pointer dropped into a hole or notch for each character; locates the carrier
-- 1852: [SEL:pointer-press-prints](../features/sel-pointer-press-prints.md) in [US8980](../patents/US8980.md) (Jones, John M.): Pressing the pointer itself prints (select and print in one motion)
-- 1854: [ELEM:interchangeable](../features/elem-interchangeable.md) in [US10995](../patents/US10995.md) (Thomas, Robert S.): Element made to be removed and replaced (fonts or languages)
-- 1854: [ELEM:linear-bar](../features/elem-linear-bar.md) in [US10995](../patents/US10995.md) (Thomas, Robert S.): Types along a straight bar or rule
-- 1854: [SEL:selector-locking](../features/sel-selector-locking.md) in [US10995](../patents/US10995.md) (Thomas, Robert S.): Detent or locking that holds the selected position during printing
-- 1856: [ELEM:alignment-lock](../features/elem-alignment-lock.md) in [US14919](../patents/US14919.md) (Jones, John M.): Locking pin or tooth that aligns the type exactly at the print point
-- 1856: [ELEM:typebar](../features/elem-typebar.md) in [US15164](../patents/US15164.md) (Beach, A. Ely): Pivoted typebars (one or two characters each)
-- 1856: [ESC:spring-drum](../features/esc-spring-drum.md) in [US15164](../patents/US15164.md) (Beach, A. Ely): Carriage pulled by a mainspring or drum
-- 1856: [IMP:anvil-backing](../features/imp-anvil-backing.md) in [US15164](../patents/US15164.md) (Beach, A. Ely): Backing
-- 1856: [IMP:platen-to-element](../features/imp-platen-to-element.md) in [US14907](../patents/US14907.md) (Cooper, John H.): The platen or paper moves into a stationary element
-- 1856: [INK:carbon](../features/ink-carbon.md) in [US15164](../patents/US15164.md) (Beach, A. Ely): Carbon paper or inked strip instead of ribbon
-- 1856: [PAP:feed-rollers](../features/pap-feed-rollers.md) in [US14907](../patents/US14907.md) (Cooper, John H.): Feed rollers and paper release
-- 1856: [SEL:dial](../features/sel-dial.md) in [US14907](../patents/US14907.md) (Cooper, John H.): Dial or knob turned to the character; carrier coupled rotationally
-- 1856: [SEL:keyboard-full](../features/sel-keyboard-full.md) in [US15164](../patents/US15164.md) (Beach, A. Ely): One key per character (typebar-style keyboard)
-- 1858: [ELEM:disc-face](../features/elem-disc-face.md) in [US20081](../patents/US20081.md) (MacElheran, John): Types on the face of a disc (face perpendicular to axis)
+- 1850: [Flat type plate](../features/elem-plate-flat.md) in [US7771](../patents/US7771.md) (Eddy, Oliver T.): Flat type plate or matrix of characters
+- 1850: [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) in [US7652](../patents/US7652.md) (Fairbank, John B.): Small keyboard where each key picks a position and shift keys pick the row
+- 1852: [Metal type](../features/elem-metal-type.md) in [US8980](../patents/US8980.md) (Jones, John M.): Metal types (cast or stamped)
+- 1852: [Line-end bell](../features/esc-bell.md) in [US8980](../patents/US8980.md) (Jones, John M.): Bell near the line end
+- 1852: [Carriage return](../features/esc-carriage-return.md) in [US8980](../patents/US8980.md) (Jones, John M.): Carriage return lever or mechanism (often with line space)
+- 1852: [Roller platen](../features/pap-platen-roller.md) in [US8980](../patents/US8980.md) (Jones, John M.): Roller platen
+- 1852: [Pointer into a hole or notch](../features/sel-pointer-hole.md) in [US8980](../patents/US8980.md) (Jones, John M.): Pointer dropped into a hole or notch for each character; locates the carrier
+- 1852: [Press the pointer to print](../features/sel-pointer-press-prints.md) in [US8980](../patents/US8980.md) (Jones, John M.): Pressing the pointer itself prints (select and print in one motion)
+- 1854: [Interchangeable element](../features/elem-interchangeable.md) in [US10995](../patents/US10995.md) (Thomas, Robert S.): Element made to be removed and replaced (fonts or languages)
+- 1854: [Straight type bar or rule](../features/elem-linear-bar.md) in [US10995](../patents/US10995.md) (Thomas, Robert S.): Types along a straight bar or rule
+- 1854: [Selection locked for printing](../features/sel-selector-locking.md) in [US10995](../patents/US10995.md) (Thomas, Robert S.): Detent or locking that holds the selected position during printing
+- 1856: [Alignment lock at the print point](../features/elem-alignment-lock.md) in [US14919](../patents/US14919.md) (Jones, John M.): Locking pin or tooth that aligns the type exactly at the print point
+- 1856: [Typebars](../features/elem-typebar.md) in [US15164](../patents/US15164.md) (Beach, A. Ely): Pivoted typebars (one or two characters each)
+- 1856: [Mainspring-drawn carriage](../features/esc-spring-drum.md) in [US15164](../patents/US15164.md) (Beach, A. Ely): Carriage pulled by a mainspring or drum
+- 1856: [Backing or anvil behind the paper](../features/imp-anvil-backing.md) in [US15164](../patents/US15164.md) (Beach, A. Ely): Backing
+- 1856: [Platen pressed to the element](../features/imp-platen-to-element.md) in [US14907](../patents/US14907.md) (Cooper, John H.): The platen or paper moves into a stationary element
+- 1856: [Carbon paper or inked strip](../features/ink-carbon.md) in [US15164](../patents/US15164.md) (Beach, A. Ely): Carbon paper or inked strip instead of ribbon
+- 1856: [Feed rollers and paper release](../features/pap-feed-rollers.md) in [US14907](../patents/US14907.md) (Cooper, John H.): Feed rollers and paper release
+- 1856: [Dial or knob](../features/sel-dial.md) in [US14907](../patents/US14907.md) (Cooper, John H.): Dial or knob turned to the character; carrier coupled rotationally
+- 1856: [Full keyboard, a key per character](../features/sel-keyboard-full.md) in [US15164](../patents/US15164.md) (Beach, A. Ely): One key per character (typebar-style keyboard)
+- 1858: [Type disc (types on the face)](../features/elem-disc-face.md) in [US20081](../patents/US20081.md) (MacElheran, John): Types on the face of a disc (face perpendicular to axis)
 
 **Index machines:** [Hughes Typograph](../machines/hughes-typograph.md) (1850, ), [Cooper](../machines/cooper.md) (1856, ), [Hood](../machines/hood.md) (1857, type wheel)
 
@@ -77,52 +77,52 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 **First seen:**
 
-- 1863: [ELEM:element-construction](../features/elem-element-construction.md) in [US39296](../patents/US39296.md) (Livermoore, Benjamin): How the element itself is made or assembled
-- 1863: [FRM:compact-portable](../features/frm-compact-portable.md) in [US39296](../patents/US39296.md) (Livermoore, Benjamin): Small
-- 1866: [IMP:impression-adjust](../features/imp-impression-adjust.md) in [US57182](../patents/US57182.md) (Peeler, Abner): Adjustment of impression force or depth
-- 1867: [ESC:margin-stop](../features/esc-margin-stop.md) in [US65807](../patents/US65807.md) (Hall, Thomas): Margin stops or line lock
-- 1867: [INK:ribbon](../features/ink-ribbon.md) in [US65807](../patents/US65807.md) (Hall, Thomas): Ribbon between type and paper
-- 1867: [PAP:manifold](../features/pap-manifold.md) in [US65807](../patents/US65807.md) (Hall, Thomas): Carbon copies or manifolding emphasis
-- 1868: [ESC:escape-wheel](../features/esc-escape-wheel.md) in [US79868](../patents/US79868.md) (Sholes - Glidden - Soulé, C. Latham - Carlos - Samuel W.): Escape wheel or star wheel escapement with fixed and loose dogs
-- 1868: [FRM:few-parts](../features/frm-few-parts.md) in [US79265](../patents/US79265.md) (Sholes - Glidden - Soulé, C. Latham - Carlos - Samuel W.): Explicit aim of few parts
-- 1868: [IMP:hammer-behind](../features/imp-hammer-behind.md) in [US81000](../patents/US81000.md) (Pratt, John): A hammer strikes from behind the paper into the type
-- 1868: [IMP:spring-energy](../features/imp-spring-energy.md) in [US81000](../patents/US81000.md) (Pratt, John): Impression by a spring cocked and released (force independent of the hand)
-- 1868: [INK:ribbon-feed](../features/ink-ribbon-feed.md) in [US79265](../patents/US79265.md) (Sholes - Glidden - Soulé, C. Latham - Carlos - Samuel W.): Ribbon feed mechanism (pawl
-- 1868: [PAP:paper-guide](../features/pap-paper-guide.md) in [US79265](../patents/US79265.md) (Sholes - Glidden - Soulé, C. Latham - Carlos - Samuel W.): Paper table
-- 1868: [SEL:differential-drive](../features/sel-differential-drive.md) in [US81000](../patents/US81000.md) (Pratt, John): Keys or levers drive the carrier through differential gearing or racks to a position
-- 1868: [SEL:dummy-keyboard](../features/sel-dummy-keyboard.md) in [US81000](../patents/US81000.md) (Pratt, John): Keys that only set the carrier position (index by keys); one print action
-- 1868: [USE:stenotype](../features/use-stenotype.md) in [US81000](../patents/US81000.md) (Pratt, John): Shorthand or stenographic machine
+- 1863: [How the element is made](../features/elem-element-construction.md) in [US39296](../patents/US39296.md) (Livermoore, Benjamin): How the element itself is made or assembled
+- 1863: [Portable or compact](../features/frm-compact-portable.md) in [US39296](../patents/US39296.md) (Livermoore, Benjamin): Small
+- 1866: [Impression adjustment](../features/imp-impression-adjust.md) in [US57182](../patents/US57182.md) (Peeler, Abner): Adjustment of impression force or depth
+- 1867: [Margin stops](../features/esc-margin-stop.md) in [US65807](../patents/US65807.md) (Hall, Thomas): Margin stops or line lock
+- 1867: [Ink ribbon](../features/ink-ribbon.md) in [US65807](../patents/US65807.md) (Hall, Thomas): Ribbon between type and paper
+- 1867: [Carbon copies](../features/pap-manifold.md) in [US65807](../patents/US65807.md) (Hall, Thomas): Carbon copies or manifolding emphasis
+- 1868: [Escape-wheel escapement](../features/esc-escape-wheel.md) in [US79868](../patents/US79868.md) (Sholes - Glidden - Soulé, C. Latham - Carlos - Samuel W.): Escape wheel or star wheel escapement with fixed and loose dogs
+- 1868: [Few parts, low cost](../features/frm-few-parts.md) in [US79265](../patents/US79265.md) (Sholes - Glidden - Soulé, C. Latham - Carlos - Samuel W.): Explicit aim of few parts
+- 1868: [Hammer behind the paper](../features/imp-hammer-behind.md) in [US81000](../patents/US81000.md) (Pratt, John): A hammer strikes from behind the paper into the type
+- 1868: [Spring-powered blow](../features/imp-spring-energy.md) in [US81000](../patents/US81000.md) (Pratt, John): Impression by a spring cocked and released (force independent of the hand)
+- 1868: [Ribbon feed](../features/ink-ribbon-feed.md) in [US79265](../patents/US79265.md) (Sholes - Glidden - Soulé, C. Latham - Carlos - Samuel W.): Ribbon feed mechanism (pawl
+- 1868: [Paper table and guides](../features/pap-paper-guide.md) in [US79265](../patents/US79265.md) (Sholes - Glidden - Soulé, C. Latham - Carlos - Samuel W.): Paper table
+- 1868: [Keys drive the element by racks or gears](../features/sel-differential-drive.md) in [US81000](../patents/US81000.md) (Pratt, John): Keys or levers drive the carrier through differential gearing or racks to a position
+- 1868: [Keys that only set the element](../features/sel-dummy-keyboard.md) in [US81000](../patents/US81000.md) (Pratt, John): Keys that only set the carrier position (index by keys); one print action
+- 1868: [Shorthand machine](../features/use-stenotype.md) in [US81000](../patents/US81000.md) (Pratt, John): Shorthand or stenographic machine
 
 **Index machines:** [Cox](../machines/cox.md) (1860, type wheel)
 
 ## 1870s
 
-76 patents (0 German), 73 read, 2 index-type.
+76 patents (0 German), 76 read, 2 index-type.
 
 **First seen:**
 
-- 1870: [FRM:cover-enclosure](../features/frm-cover-enclosure.md) in [US109161](../patents/US109161.md) (Washburn, Charles A.): Cover or enclosure of the mechanism
-- 1871: [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) in [US118491](../patents/US118491.md) (Sholes, C. Latham): Automatic ribbon reversing
-- 1871: [SEL:arc-arm](../features/sel-arc-arm.md) in [US115287](../patents/US115287.md) (Draper, Robert E.): Arm swung over an arc or semicircular scale to choose the character
-- 1872: [ELEM:sphere](../features/elem-sphere.md) in [US125952](../patents/US125952.md) (Hansen, Hans Rasmus Malling Johan): Types on a sphere or hemisphere
-- 1872: [ESC:moving-print-head](../features/esc-moving-print-head.md) in [US133841](../patents/US133841.md) (Edison, Thomas A.): The print head moves along a fixed paper carriage
-- 1872: [IMP:electric](../features/imp-electric.md) in [US125952](../patents/US125952.md) (Hansen, Hans Rasmus Malling Johan): Electric or magnetic drive of the impression
-- 1872: [USE:telegraph-printer](../features/use-telegraph-printer.md) in [US133841](../patents/US133841.md) (Edison, Thomas A.): Printing telegraph or remote printing
-- 1875: [ELEM:cylinder-multirow](../features/elem-cylinder-multirow.md) in [US169757](../patents/US169757.md) (Alissoff, Michael): Type cylinder with several rows along its length
-- 1875: [ELEM:hub-keying](../features/elem-hub-keying.md) in [US171408](../patents/US171408.md) (Morgan, George H.): How the element mounts and keys to its shaft or hub
-- 1875: [ESC:carriage-release](../features/esc-carriage-release.md) in [US170233](../patents/US170233.md) (Case, Warren H.): Carriage release
-- 1875: [SHIFT:axial](../features/shift-axial.md) in [US171408](../patents/US171408.md) (Morgan, George H.): Element slides along its axis to change case or row
-- 1875: [SHIFT:platen](../features/shift-platen.md) in [US170239](../patents/US170239.md) (Crandall, Lucien S.): Platen or carriage moves to change case
-- 1875: [SHIFT:rotary](../features/shift-rotary.md) in [US171408](../patents/US171408.md) (Morgan, George H.): Element turns by a fixed angle to change case
-- 1875: [SHIFT:triple](../features/shift-triple.md) in [US171408](../patents/US171408.md) (Morgan, George H.): Three cases or more (e.g. lower / caps / figures)
-- 1875: [USE:accessory](../features/use-accessory.md) in [US171139](../patents/US171139.md) (Johnson, William C.): Attachment or accessory for an existing typewriter
-- 1876: [FRM:cleaning-access](../features/frm-cleaning-access.md) in [US183905](../patents/US183905.md) (Conrad, Hiram): Access for cleaning or element removal
-- 1876: [FRM:writing-visible](../features/frm-writing-visible.md) in [US175584](../patents/US175584.md) (Arnold, Benjamin): Writing visible to the operator while typing
-- 1876: [USE:toy](../features/use-toy.md) in [US175661](../patents/US175661.md) (Calahan, Edward A.): Toy or educational machine
-- 1878: [ELEM:ring](../features/elem-ring.md) in [US209684](../patents/US209684.md) (Hitter, Jean A.): Types on a ring or annulus
-- 1879: [ELEM:rubber-type](../features/elem-rubber-type.md) in [US217444](../patents/US217444.md) (Brown, Charles T.): Elastic or rubber types
-- 1879: [SEL:stylus-plate](../features/sel-stylus-plate.md) in [US220356](../patents/US220356.md) (Driesslein, Charles L.): Stylus touched to a plate or balance-beam letter field
-- 1879: [USE:special-script](../features/use-special-script.md) in [US217210](../patents/US217210.md) (Grant, Henry M.): Non-Latin scripts
+- 1870: [Cover or case](../features/frm-cover-enclosure.md) in [US109161](../patents/US109161.md) (Washburn, Charles A.): Cover or enclosure of the mechanism
+- 1871: [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) in [US118491](../patents/US118491.md) (Sholes, C. Latham): Automatic ribbon reversing
+- 1871: [Arm swung over an arc](../features/sel-arc-arm.md) in [US115287](../patents/US115287.md) (Draper, Robert E.): Arm swung over an arc or semicircular scale to choose the character
+- 1872: [Rubber type](../features/elem-rubber-type.md) in [US125787](../patents/US125787.md) (Cable, Wheeler): Elastic or rubber types
+- 1872: [Type sphere](../features/elem-sphere.md) in [US125952](../patents/US125952.md) (Hansen, Hans Rasmus Malling Johan): Types on a sphere or hemisphere
+- 1872: [Moving print head](../features/esc-moving-print-head.md) in [US133841](../patents/US133841.md) (Edison, Thomas A.): The print head moves along a fixed paper carriage
+- 1872: [Electric drive](../features/imp-electric.md) in [US125952](../patents/US125952.md) (Hansen, Hans Rasmus Malling Johan): Electric or magnetic drive of the impression
+- 1872: [Printing telegraph](../features/use-telegraph-printer.md) in [US133841](../patents/US133841.md) (Edison, Thomas A.): Printing telegraph or remote printing
+- 1875: [Multi-row type cylinder](../features/elem-cylinder-multirow.md) in [US169757](../patents/US169757.md) (Alissoff, Michael): Type cylinder with several rows along its length
+- 1875: [Element mounting on its hub](../features/elem-hub-keying.md) in [US171408](../patents/US171408.md) (Morgan, George H.): How the element mounts and keys to its shaft or hub
+- 1875: [Carriage release](../features/esc-carriage-release.md) in [US170233](../patents/US170233.md) (Case, Warren H.): Carriage release
+- 1875: [Shift by sliding the element](../features/shift-axial.md) in [US171408](../patents/US171408.md) (Morgan, George H.): Element slides along its axis to change case or row
+- 1875: [Shift by moving the platen](../features/shift-platen.md) in [US170239](../patents/US170239.md) (Crandall, Lucien S.): Platen or carriage moves to change case
+- 1875: [Shift by turning the element](../features/shift-rotary.md) in [US171408](../patents/US171408.md) (Morgan, George H.): Element turns by a fixed angle to change case
+- 1875: [Three or more cases](../features/shift-triple.md) in [US171408](../patents/US171408.md) (Morgan, George H.): Three cases or more (e.g. lower / caps / figures)
+- 1875: [Attachment or accessory](../features/use-accessory.md) in [US171139](../patents/US171139.md) (Johnson, William C.): Attachment or accessory for an existing typewriter
+- 1876: [Cleaning access](../features/frm-cleaning-access.md) in [US183905](../patents/US183905.md) (Conrad, Hiram): Access for cleaning or element removal
+- 1876: [Visible writing](../features/frm-writing-visible.md) in [US175584](../patents/US175584.md) (Arnold, Benjamin): Writing visible to the operator while typing
+- 1876: [Toy or teaching machine](../features/use-toy.md) in [US175661](../patents/US175661.md) (Calahan, Edward A.): Toy or educational machine
+- 1878: [Type ring](../features/elem-ring.md) in [US209684](../patents/US209684.md) (Hitter, Jean A.): Types on a ring or annulus
+- 1879: [Stylus on a letter plate](../features/sel-stylus-plate.md) in [US220356](../patents/US220356.md) (Driesslein, Charles L.): Stylus touched to a plate or balance-beam letter field
+- 1879: [Special scripts and characters](../features/use-special-script.md) in [US217210](../patents/US217210.md) (Grant, Henry M.): Non-Latin scripts
 
 **Index machines:** [Alisow](../machines/alisow.md) (1872, type wheel), [Brady-Warner](../machines/brady-warner.md) (1878, type wheel)
 
@@ -133,19 +133,19 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1880s
 
-449 patents (49 German), 445 read, 31 index-type.
+449 patents (49 German), 448 read, 31 index-type.
 
 **First seen:**
 
-- 1880: [INK:ribbon-color](../features/ink-ribbon-color.md) in [US229707](../patents/US229707.md) (Jenne, William K.): Two-colour ribbon change
-- 1880: [INK:ribbon-lift](../features/ink-ribbon-lift.md) in [US224183](../patents/US224183.md) (Hammond, James B.): Ribbon lift or vibrator to the print point
-- 1880: [SEL:chart-interchangeable](../features/sel-chart-interchangeable.md) in [US232741](../patents/US232741.md) (McKinley, Carl): Index chart or scale swapped with the element for other fonts or languages
-- 1881: [USE:book-typewriter](../features/use-book-typewriter.md) in [DE16716](../patents/DE16716.md): Book or flat-bed typewriter for bound records
-- 1883: [SHIFT:lock](../features/shift-lock.md) in [US284231](../patents/US284231.md) (Pritchard, Arthur W.): Shift lock
-- 1884: [ESC:backspace](../features/esc-backspace.md) in [US309272](../patents/US309272.md) (Whitcomb, James A.): Backspace
-- 1885: [INK:disc](../features/ink-disc.md) in [DE33343](../patents/DE33343.md): Ink disc
-- 1886: [ELEM:band](../features/elem-band.md) in [US347373](../patents/US347373.md) (Perkins, Willis J.): Flexible type band or belt
-- 1886: [USE:check-writer](../features/use-check-writer.md) in [US334264](../patents/US334264.md) (Montgommery, James M., Jr.): Check writer or amount printer
+- 1880: [Two-colour ribbon](../features/ink-ribbon-color.md) in [US229707](../patents/US229707.md) (Jenne, William K.): Two-colour ribbon change
+- 1880: [Ribbon lift](../features/ink-ribbon-lift.md) in [US224183](../patents/US224183.md) (Hammond, James B.): Ribbon lift or vibrator to the print point
+- 1880: [Interchangeable chart](../features/sel-chart-interchangeable.md) in [US232741](../patents/US232741.md) (McKinley, Carl): Index chart or scale swapped with the element for other fonts or languages
+- 1881: [Book typewriter](../features/use-book-typewriter.md) in [DE16716](../patents/DE16716.md): Book or flat-bed typewriter for bound records
+- 1883: [Shift lock](../features/shift-lock.md) in [US284231](../patents/US284231.md) (Pritchard, Arthur W.): Shift lock
+- 1884: [Backspace](../features/esc-backspace.md) in [US309272](../patents/US309272.md) (Whitcomb, James A.): Backspace
+- 1885: [Ink disc](../features/ink-disc.md) in [DE33343](../patents/DE33343.md): Ink disc
+- 1886: [Flexible type band](../features/elem-band.md) in [US347373](../patents/US347373.md) (Perkins, Willis J.): Flexible type band or belt
+- 1886: [Check writer](../features/use-check-writer.md) in [US334264](../patents/US334264.md) (Montgommery, James M., Jr.): Check writer or amount printer
 
 **Index machines:** [Horton Index](../machines/horton-index.md) (1883, type plate), [Columbia Index 1](../machines/columbia-index-1.md) (1884, type wheel), [Mc Loughlin](../machines/mc-loughlin.md) (1884, type plate), [Westphalia](../machines/westphalia.md) (1884, linear type rule), [Columbia Index 2](../machines/columbia-index-2.md) (1885, type wheel), [Cookson](../machines/cookson.md) (1885, type ring), [Herrington](../machines/herrington.md) (1885, type wheel), [Morris](../machines/morris.md) (1885, type plate), [Pocket](../machines/pocket-2.md) (1885, type wheel), [La Parisienne](../machines/la-parisienne.md) (1886, type band), [World 1](../machines/world-1.md) (1886, type plate), [Pocket](../machines/pocket.md) (1887, type disc), [Velograph 2](../machines/velograph-2.md) (1887, type disc), [Crown Index 1](../machines/crown-index-1.md) (1888, type wheel)
 
@@ -162,12 +162,12 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1890s
 
-1490 patents (75 German), 1440 read, 55 index-type.
+1490 patents (75 German), 1489 read, 55 index-type.
 
 **First seen:**
 
-- 1890: [ESC:tabulator](../features/esc-tabulator.md) in [US436916](../patents/US436916.md) (Gathright, Josiah B.): Tabulator
-- 1890: [USE:calculating](../features/use-calculating.md) in [US441232](../patents/US441232.md) (Felt, Dorr E.): Combined with adding or calculating
+- 1890: [Tabulator](../features/esc-tabulator.md) in [US436916](../patents/US436916.md) (Gathright, Josiah B.): Tabulator
+- 1890: [Typewriter with adding machine](../features/use-calculating.md) in [US441232](../patents/US441232.md) (Felt, Dorr E.): Combined with adding or calculating
 
 **Index machines:** [Dollar Typewriter](../machines/dollar-typewriter.md) (1890, type wheel), [Soennecken](../machines/soennecken.md) (1890, linear type rule), [World 2](../machines/world-2.md) (1890, type plate), [Smith, F. W.](../machines/smith-f-w.md) (1891, type disc), [Simplex Type Writer](../machines/simplex-type-writer.md) (1892, type disc), [American Index](../machines/american-index.md) (1893, type ring), [Crown Index 2](../machines/crown-index-2.md) (1894, type wheel), [Edland 2](../machines/edland-2.md) (1894, type disc), [Larson](../machines/larson.md) (1894, type wheel), [Victor Index](../machines/victor-index.md) (1894, type wheel), [Büttner](../machines/buttner.md) (1896, type wheel), [Eureka](../machines/eureka.md) (1896, type wheel), [Eureka](../machines/eureka-2.md) (1896, type ring), [Kochendörfer Index](../machines/kochendorfer-index.md) (1896, type plate), [Beger & Markworth](../machines/beger-markworth.md) (1897, type wheel), [Edelmann](../machines/edelmann.md) (1897, type wheel), [Volksschreibmaschine](../machines/volksschreibmaschine.md) (1898, type wheel), [Chinese (A)](../machines/chinese-a.md) (1899, type wheel), [Dart](../machines/dart.md) (1899, type wheel), [New Simplex 2](../machines/new-simplex-2.md) (1899, type disc)
 
@@ -184,7 +184,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1900s
 
-2431 patents (99 German), 2416 read, 26 index-type.
+2431 patents (99 German), 2430 read, 26 index-type.
 
 **Index machines:** [Simplex Little Giant](../machines/simplex-little-giant.md) (1900, type disc), [Niagara](../machines/niagara.md) (1901, type wheel), [Simplex Special A](../machines/simplex-special-a.md) (1901, type disc), [Coffman](../machines/coffman.md) (1902, type band), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) (1902, index (pointer)), [Mignon 1](../machines/mignon-1.md) (1902, type cylinder), [Mignon 2](../machines/mignon-2.md) (1904, type cylinder), [Officine Galileo](../machines/officine-galileo.md) (1904, type wheel), [Simplex Spezial 1](../machines/simplex-spezial-1.md) (1906, type disc), [Picht Index](../machines/picht-index.md) (1907, type wheel), [Taurus Type](../machines/taurus-type.md) (1908, type wheel)
 
@@ -201,7 +201,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1910s
 
-2122 patents (113 German), 2083 read, 15 index-type.
+2122 patents (113 German), 2121 read, 15 index-type.
 
 **Index machines:** [Darling (A)](../machines/darling-a.md) (1910, type wheel), [Darling (B)](../machines/darling-b.md) (1910, type disc), [Famos](../machines/famos.md) (1910, type wheel), [Trebla](../machines/trebla.md) (1910, type wheel), [Nouveau Siècle](../machines/nouveau-siecle.md) (1912, type disc), [Aktiv](../machines/aktiv.md) (1913, type wheel), [Mignon 3](../machines/mignon-3.md) (1913, type cylinder), [Virotyp (B)](../machines/virotyp-b.md) (1914, type disc), [Nippon](../machines/nippon.md) (1917, ), [Yu Ess](../machines/yu-ess.md) (1918, type cylinder), [Gerda 1](../machines/gerda-1.md) (1919, type wheel), [Heady](../machines/heady.md) (1919, type wheel)
 
@@ -218,7 +218,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1920s
 
-1502 patents (1498 German), 1429 read, 26 index-type.
+1502 patents (1498 German), 1500 read, 26 index-type.
 
 **Index machines:** [Chinese (B)](../machines/chinese-b.md) (1920, individual type), [Gescha](../machines/gescha.md) (1920, type wheel), [Junior GSN](../machines/junior-gsn.md) (1920, type wheel), [Gerda 2](../machines/gerda-2.md) (1921, type wheel), [Hogar](../machines/hogar.md) (1921, type cylinder), [Die kleine Gundka](../machines/die-kleine-gundka.md) (1924, index (pointer + type wheel)), [Mignon 4](../machines/mignon-4.md) (1924, type cylinder), [Typen](../machines/typen.md) (1924, type wheel), [Karli 1 Einreihig](../machines/karli-1-einreihig.md) (1927, individual type), [Karli 2 Zweireihig](../machines/karli-2-zweireihig.md) (1928, individual type)
 
@@ -235,7 +235,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1930s
 
-1363 patents (1359 German), 1303 read, 10 index-type.
+1363 patents (1359 German), 1362 read, 10 index-type.
 
 **Index machines:** [Ludolf](../machines/ludolf.md) (1930, type disc), [Pellaton](../machines/pellaton.md) (1932, type wheel), [Olympia Plurotyp](../machines/olympia-plurotyp.md) (1933, type cylinder), [Carissima](../machines/carissima.md) (1934, type wheel), [Dial De Luxe](../machines/dial-de-luxe.md) (1934, type wheel), [Junior Typewriter](../machines/junior-typewriter.md) (1935, type wheel), [Tip-Tip](../machines/tip-tip.md) (1936, type cylinder), [Shimada](../machines/shimada.md) (1938, ), [Shimada 2](../machines/shimada-2.md) (1938, )
 
@@ -252,7 +252,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1940s
 
-675 patents (673 German), 638 read, 4 index-type.
+675 patents (673 German), 672 read, 4 index-type.
 
 **Key patents:**
 
@@ -263,7 +263,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1950s
 
-67 patents (66 German), 62 read, 1 index-type.
+67 patents (66 German), 66 read, 1 index-type.
 
 **Index machines:** [Chinese (C) Optima](../machines/chinese-c-optima.md) (1955, ), [Optima (Chinese)](../machines/optima-chinese.md) (1955, individual type)
 

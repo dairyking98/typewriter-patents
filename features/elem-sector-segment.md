@@ -1,8 +1,10 @@
-# ELEM:sector-segment
+# Type sector or segment
+
+*Type element feature · code `ELEM:sector-segment`*
 
 Curved type sector or segment (e.g. Hammond shuttle)
 
-**172 patents**, 1829–1950. Often together with: [IMP:hammer-behind](../features/imp-hammer-behind.md) (55), [SEL:selector-locking](../features/sel-selector-locking.md) (54), [ESC:print-and-space](../features/esc-print-and-space.md) (48), [INK:ribbon](../features/ink-ribbon.md) (46), [SEL:keyboard-full](../features/sel-keyboard-full.md) (44), [ESC:pawl-rack](../features/esc-pawl-rack.md) (43), [ESC:space-key](../features/esc-space-key.md) (42), [ELEM:interchangeable](../features/elem-interchangeable.md) (33)
+**173 patents**, 1829–1950. Often together with: [Hammer behind the paper](../features/imp-hammer-behind.md) (55), [Selection locked for printing](../features/sel-selector-locking.md) (54), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (48), [Ink ribbon](../features/ink-ribbon.md) (46), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (44), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (43), [Space key or bar](../features/esc-space-key.md) (42), [Interchangeable element](../features/elem-interchangeable.md) (33)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (3), [Gardner](../machines/gardner.md) (1), [American Index](../machines/american-index.md) (1)
 
@@ -98,6 +100,7 @@ Curved type sector or segment (e.g. Hammond shuttle)
 | [US688744](../patents/US688744.md) | 1901 | Mosher, Charles P. | A type-bar with a slit, adjustable split hub carrying a V-groove for anti-friction balls, pivoted on an arc-shaped segment with V-grooves, so the bar is rigid laterally and swings freely. |
 | [US691189](../patents/US691189.md) | 1902 | Sears, Charles | A fixed finger enters a groove in the oscillating type segment to stop it moving up or down at the impression point, with a paper-moving shield. |
 | [US699325](../patents/US699325.md) | 1902 | Horstmann - Wendt, Richard - Wilhelm | Keys rest loose on spring-loaded plungers and depress a frame that drives a bolt against a spring, with a platen-hammer held by a latch on a frame projection until the release. The OCR cuts off before the release action is fully described. |
+| [US699496](../patents/US699496.md) | 1902 | Dawson, Clarence Lincoln | A universal letter-type forms the bottom part of the printing mechanism; printing type-segments are moved to positions by a carriage to print large letters. |
 | [US703082](../patents/US703082.md) | 1902 | Paulson, Charles J. | A spring is tensioned by the key stroke and a trigger releases the hammer only after a set tension, so every blow has the same force. |
 | [US706858](../patents/US706858.md) | 1902 | Sears, Charles | Hammer-synchronised inking rollers sweep across the character at the impression point and then press on a ratcheted rotating ink platen, while a spring-lifted thin shield with a window protects the paper. |
 | [US707548](../patents/US707548.md) | 1902 | Campbell, Walter Hope | Several shuttles share one circular anvil, each with a fin gap that a spring driving-arm snaps into, so the operator swaps the working shuttle by pushing the shuttles around or by raising the anvil to a second groove. |

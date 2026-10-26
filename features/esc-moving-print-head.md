@@ -1,8 +1,10 @@
-# ESC:moving-print-head
+# Moving print head
+
+*Spacing and escapement feature · code `ESC:moving-print-head`*
 
 The print head moves along a fixed paper carriage
 
-**150 patents**, 1872–1950. Often together with: [PAP:flat-bed](../features/pap-flat-bed.md) (97), [ESC:pawl-rack](../features/esc-pawl-rack.md) (61), [ESC:print-and-space](../features/esc-print-and-space.md) (56), [IMP:element-to-platen](../features/imp-element-to-platen.md) (51), [USE:book-typewriter](../features/use-book-typewriter.md) (51), [FRM:few-parts](../features/frm-few-parts.md) (45), [SEL:selector-locking](../features/sel-selector-locking.md) (41), [SEL:keyboard-full](../features/sel-keyboard-full.md) (40)
+**152 patents**, 1872–1950. Often together with: [Flat bed or book typewriter](../features/pap-flat-bed.md) (97), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (61), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (56), [Element struck to the platen](../features/imp-element-to-platen.md) (51), [Book typewriter](../features/use-book-typewriter.md) (51), [Few parts, low cost](../features/frm-few-parts.md) (46), [Selection locked for printing](../features/sel-selector-locking.md) (41), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (40)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Century Index](../machines/century-index.md) (1), [Dollar Typewriter](../machines/dollar-typewriter.md) (1), [Fisher 2](../machines/fisher-2.md) (1), [Elliott & Hatch 1](../machines/elliott-hatch-1.md) (1), [Elliott & Hatch 2](../machines/elliott-hatch-2.md) (1), [Elliott & Hatch 3](../machines/elliott-hatch-3.md) (1)
 
@@ -142,6 +144,7 @@ The print head moves along a fixed paper carriage
 | [DE344036](../patents/DE344036.md) | 1921 | Luckhard, Karl Ludwig | A light type-wheel machine set on the writing surface, with key-lever lengths pulling Bowden cables to turn the wheel by the amount for each character and press the wheel onto the paper. |
 | [DE348153](../patents/DE348153.md) | 1922 | Hoffmann, Ferdinand | One swingable, radially pressable bracket on the housing both sets the type wheel and prints, and its return stroke advances the whole machine and the ribbon. |
 | [DE397320](../patents/DE397320.md) | 1924 | Fachetti, Guido | The print button moves a spring-tensioned slide whose pawl catches the rack, and the slide's stroke is set by an adjustable stop to vary the step. |
+| [DE426779](../patents/DE426779.md) | 1926 | Dieckmann, Max | An electromagnetically moved low-mass armature presses a heat-meltable dye film onto writing paper on a roller synchronised with the transmitter. |
 | [DE439700](../patents/DE439700.md) | 1927 | Pein, Heinz | Each control rod is a crank drive of slide and connecting rod with a pen joint, which reduces moving mass. |
 | [DE439701](../patents/DE439701.md) | 1927 | Pein, Heinz | Cam disks carry one movement-component curve each, with several cam controls replacing the blocking linkages. |
 | [DE478036](../patents/DE478036.md) | 1929 |  | The type wheel, its gear parts and its setting magnet all sit on one shaft and tilt together onto the paper under a pressure magnet. |
@@ -157,6 +160,7 @@ The print head moves along a fixed paper carriage
 | [DE923253](../patents/DE923253.md) | 1943 |  | The type basket and key levers move laterally across a fixed writing pad, so the sheet stays still during writing. |
 | [DE731248](../patents/DE731248.md) | 1943 | Honnolke, Franz | Keep the writing surface fixed and move a slide carrying a swivelling type drum over it, with interchangeable slides and drums for different sizes and fonts. |
 | [DE734728](../patents/DE734728.md) | 1943 | Loewe, Richard | A detachable, collapsible circular book typewriter: a loose circular writing device with keys in concentric circles sits on a foldable rail frame that carries the paper and does line feed. |
+| [DE821065](../patents/DE821065.md) | 1948 | Elmqvist, Rune Med | A liquid jet is written from a fine glass-tube mouthpiece that is moved by a torsion-elastic band driven by the measured quantity. |
 | [DE842207](../patents/DE842207.md) | 1949 | Broecker, Ludwine | Split the type carriage into a lower part that always moves to its far limit and an upper part carrying the type blocks that is stopped at the right position and decoupled. |
 | [DE821638](../patents/DE821638.md) | 1949 | Zeuzem, Achim | Arrange the type levers and their pivots side by side in a slide that moves along the platen, so each lever can be identical and the slide is moved to the chosen type before printing. |
 | [DE896496](../patents/DE896496.md) | 1950 | Broecker, Ludwine | A light, short shuttle carrying a row of side-by-side type blocks is shifted horizontally in front of the platen by the ordinary keys, stopped at the chosen position, and the selected block is pushed to the platen. |

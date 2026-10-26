@@ -1,8 +1,10 @@
-# INK:pad
+# Ink pad
+
+*Inking feature · code `INK:pad`*
 
 Felt or ink pad inking the type
 
-**271 patents**, 1829–1950. Often together with: [ELEM:typebar](../features/elem-typebar.md) (102), [ESC:pawl-rack](../features/esc-pawl-rack.md) (102), [IMP:element-to-platen](../features/imp-element-to-platen.md) (99), [PAP:platen-roller](../features/pap-platen-roller.md) (86), [ESC:print-and-space](../features/esc-print-and-space.md) (85), [SEL:keyboard-full](../features/sel-keyboard-full.md) (85), [FRM:few-parts](../features/frm-few-parts.md) (74), [ESC:space-key](../features/esc-space-key.md) (65)
+**273 patents**, 1829–1950. Often together with: [Typebars](../features/elem-typebar.md) (103), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (102), [Element struck to the platen](../features/imp-element-to-platen.md) (99), [Roller platen](../features/pap-platen-roller.md) (86), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (85), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (85), [Few parts, low cost](../features/frm-few-parts.md) (74), [Space key or bar](../features/esc-space-key.md) (65)
 
 **Machines:** [Yost 15 - 19](../machines/yost-15-19.md) (5), [Williams 1 S](../machines/williams-1-s.md) (4), [Williams 2](../machines/williams-2.md) (4), [Williams 3](../machines/williams-3.md) (4), [Williams 4](../machines/williams-4.md) (4), [Williams 6](../machines/williams-6.md) (4), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (3), [Bar-Lock 6](../machines/bar-lock-6.md) (3), [Bar-Lock 7](../machines/bar-lock-7.md) (3), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (3), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (3), [Bar-Lock Columbia](../machines/bar-lock-columbia.md) (3), [Bar-Lock 12](../machines/bar-lock-12.md) (3), [Yost 20](../machines/yost-20.md) (3), [Remington Junior](../machines/remington-junior.md) (3)
 
@@ -159,6 +161,7 @@ Felt or ink pad inking the type
 | [DE73150](../patents/DE73150.md) | 1894 |  | A type lever pivoted on a sliding rod rotates when its arms hit fixed stops so the type swings nearly vertically to the print point and then onto an ink pad on return. |
 | [US517663](../patents/US517663.md) | 1894 | Quentell, William P. | A rubber type wheel on a central shaft is rotated by a spring driven rack and pinion until a selector arm hits the depressed key lever, then a print lever hammers the selected type onto the paper. |
 | [US522491](../patents/US522491.md) | 1894 | Raab, William | Rubber key bulbs connected by tubes to force bulbs under a convex type basket, so pressing a key pneumatically propels the type face to the paper. |
+| [US523786](../patents/US523786.md) | 1894 | Cohn, Oscar | Key levers drive type-bars through connecting rods and a drive-link fulcrumed on a wire ring, and each type-bar rests against an inking pad; the feed was improved. |
 | [US524364](../patents/US524364.md) | 1894 | Walker, Charles W. | A circular-frame typebar machine in which the paper carriage tilts back on a key press to expose the writing, a cam-wheel spring gives even carriage pull, and a rack-and-dog escapement is tripped by a universal bar. |
 | [US528484](../patents/US528484.md) | 1894 | Oliver, Thomas | Typebars with revolving type heads strike the top of the platen, and a tilting frame with cam-slot shift lever moves the platen horizontally for case. |
 | [US529208](../patents/US529208.md) | 1894 | Spiro, Charles | A set of independent improvements to a two-character typebar machine: case shift by letting the typebar swing further (limited by a movable abutment) instead of moving the platen, an endless ink pad indexed by the space bar, a resilient paper guide, a self-locking tilting paper table, and a platen ratchet that can be freed. |
@@ -274,6 +277,7 @@ Felt or ink pad inking the type
 | [DE575861](../patents/DE575861.md) | 1933 | Eckert, Eduard | The type lever is formed as a tube with a collar at its end and is guided on pins by fork-like caps, with an unequal-leg fork in front of the platen to stop each lever at the ink pad or platen. |
 | [DE576651](../patents/DE576651.md) | 1933 |  | A flat box holds ink pads in the ribbon colours with raised partitions; the ribbon is passed over the pad and rolled until it is re-soaked. |
 | [DE577146](../patents/DE577146.md) | 1933 | Simon, Hans | A ribbon-like ink carrier on a pivoting carrier is advanced by a ratchet linked to each key, so the carrier presents fresh ink to the type at each stroke. |
+| [DE613501](../patents/DE613501.md) | 1935 |  | A rubber air reservoir beside the paint tube is squeezed to pressurise the paint, which then flows to a wick nozzle; a stop controls the spread. |
 | [DE659966](../patents/DE659966.md) | 1938 | Stertz, Walter | A carrier fixed to the type guide holds the ink-cushion line wheel so the underline falls at the usual distance without platen adjustment and without fouling the ribbon. |
 | [DE730122](../patents/DE730122.md) | 1943 | Bergschicker, Heinrich | Ribbons are soaked in a mix of volatile solvent and a small amount of oil that refreshes the ink and stays evenly distributed. |
 | [DE876481](../patents/DE876481.md) | 1944 | Perosa, Riv Officine Di Villar | A ring-clamped inking cloth (or inked disc) sits between roller and hammer and is indexed by a fixed angle each cycle, driven synchronously from the hammer drive. |

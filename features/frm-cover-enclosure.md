@@ -1,8 +1,10 @@
-# FRM:cover-enclosure
+# Cover or case
+
+*Frame and body feature · code `FRM:cover-enclosure`*
 
 Cover or enclosure of the mechanism
 
-**250 patents**, 1870–1949. Often together with: [FRM:frame-construction](../features/frm-frame-construction.md) (50), [ELEM:typebar](../features/elem-typebar.md) (49), [FRM:compact-portable](../features/frm-compact-portable.md) (46), [SEL:keyboard-full](../features/sel-keyboard-full.md) (35), [USE:accessory](../features/use-accessory.md) (35), [PAP:platen-roller](../features/pap-platen-roller.md) (31), [ESC:pawl-rack](../features/esc-pawl-rack.md) (30), [INK:ribbon](../features/ink-ribbon.md) (27)
+**265 patents**, 1870–1950. Often together with: [Frame construction](../features/frm-frame-construction.md) (53), [Typebars](../features/elem-typebar.md) (49), [Portable or compact](../features/frm-compact-portable.md) (48), [Attachment or accessory](../features/use-accessory.md) (36), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (35), [Roller platen](../features/pap-platen-roller.md) (31), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (30), [Ink ribbon](../features/ink-ribbon.md) (27)
 
 **Machines:** [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (2), [L. C. Smith 6](../machines/l-c-smith-6.md) (2), [L. C. Smith 7](../machines/l-c-smith-7.md) (2), [L. C. Smith 1](../machines/l-c-smith-1.md) (2), [L. C. Smith 2](../machines/l-c-smith-2.md) (2), [Secor 2](../machines/secor-2.md) (2), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (2), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (2), [Williams 1 C](../machines/williams-1-c.md) (1), [Williams 1 S](../machines/williams-1-s.md) (1), [Williams 2](../machines/williams-2.md) (1), [Williams 3](../machines/williams-3.md) (1), [Williams 4](../machines/williams-4.md) (1), [Williams 6](../machines/williams-6.md) (1), [Daugherty](../machines/daugherty.md) (1)
 
@@ -139,8 +141,10 @@ Cover or enclosure of the mechanism
 | [US1141559](../patents/US1141559.md) | 1915 | Kurowski, Alfred G. F. | Clockwork that runs only while the keys are unlocked, started and stopped without shock inside a locked casing. |
 | [USRE14495](../patents/USRE14495.md) | 1918 | Latta, Emmit G. | The frame is split into a stationary lower section holding type bars and keys and a movable section carrying carriage, platen and ribbon that lowers into it, so the machine collapses to about the height of the keyboard. |
 | [DE322034](../patents/DE322034.md) | 1920 |  | Keys and typebar mechanism are rigidly mounted in one common frame hinged against the carriage so both fold together, with the whole machine enclosed in a box. |
+| [DE324147](../patents/DE324147.md) | 1920 | Maschf, Rheinische Metallw & | Telescoping seamless steel tubes are enclosed in a self-contained housing with a buffer plate and base plate, so the whole unit mounts and replaces as one. |
 | [DE324220](../patents/DE324220.md) | 1920 |  | Brace the key and typebar mechanism directly on the housing side wall, with key levers hinged on the same shaft as fixed transmission levers and disengaging by eccentric stops when folded. |
 | [DE324221](../patents/DE324221.md) | 1920 | Geb, Lehmann | Removable side plates fit the frame to enclose the whole key-lever and typebar mechanism, with the type exposed only at the print point. |
+| [DE326128](../patents/DE326128.md) | 1920 | Masc, Rheinische Metallwaaren & | Hooks are punched and bent from the outer and inner tubes, so the inner tube is made by itself and the outer tube is pushed on before hooks are bent. |
 | [DE327620](../patents/DE327620.md) | 1920 |  | The carriage switching device, spring housing, ribbon control and similar groups are assembled into sealed housings that run in an oil bath, with holes only for axles and pins. |
 | [DE333531](../patents/DE333531.md) | 1921 | Fries, Rudolph | A sound-absorbing lined box covers the typewriter, hinged to the table; keys pass through the box and a glass window allows viewing. |
 | [DE335770](../patents/DE335770.md) | 1921 |  | The pawl is guided by a slot so it engages the line-space wheel before the slide moves and leaves it only after the stroke ends, so the platen is always held and the return is quiet. |
@@ -153,6 +157,7 @@ Cover or enclosure of the mechanism
 | [DE356063](../patents/DE356063.md) | 1922 | G, Sueddeutsche Bueromoebel Ind | Hook-shaped locking members on the swinging side walls and on the roller shutter interlock in the closed position, so the shutter cannot lift off. |
 | [DE356991](../patents/DE356991.md) | 1922 |  | A plate fixed in the cabinet carries a hinged table top with support feet; it folds down over the typewriter compartment and latches with a snap lock. |
 | [DE359985](../patents/DE359985.md) | 1922 |  | The ribbon spool housing is split into two hinged parts that open sideways, with an internal support that holds slack ribbon and a lock that keeps the housing closed. |
+| [DE363223](../patents/DE363223.md) | 1922 |  | The protective box slides on the work table so it fully covers the device in one position and leaves it accessible in another. |
 | [DE364188](../patents/DE364188.md) | 1922 | Fries, Rudolf | Each auxiliary key rod has a two-layer felt buffer, with one plate fixed to the rod and the other glued to it, so the buffer cushions both the key and the jacket, and the rod can be hollow and lubricated. |
 | [DE364189](../patents/DE364189.md) | 1922 | Fries, Rudolf | A two-part sound-absorbing box: a hinged main cover over the type basket and paper roller, and a separate normalized keyboard housing fixed by screws, so the same main part fits several machines. |
 | [DE364190](../patents/DE364190.md) | 1922 | Fries, Rudolf | A lockable box is fastened to the board by adjustable screws or bolts that can only be turned with special keys, with a flange inside the box that holds the bolts in the locked position. |
@@ -170,6 +175,7 @@ Cover or enclosure of the mechanism
 | [DE400603](../patents/DE400603.md) | 1924 |  | A Klingerit sealing ring is placed between the glass pane and the cover cap to keep liquids and dust out and cushion the crimp force. |
 | [DE401597](../patents/DE401597.md) | 1924 |  | Two telescoping springs, with the outer enclosing the inner, halve their length when collapsed, and toggle levers brake the lift and hold the lid firmly at the end stop. |
 | [DE408953](../patents/DE408953.md) | 1925 |  | Typebars hinge on a fixed support and fold down while the intermediate levers' pivots shift together on a toggle-moved support. |
+| [DE413322](../patents/DE413322.md) | 1925 | Jaenisch, Ernst | The frame is a cast hollow body split into two vertical shells joined by flanges, with ribs, transverse walls and a closed fuel and rear wheel room, so it can also be built as a tricycle. |
 | [DE413386](../patents/DE413386.md) | 1925 | Muchajer, Paul | Make the frame as a single sheet-metal box open at the bottom that encloses and protects the type drive. |
 | [DE414031](../patents/DE414031.md) | 1925 | Osterwald, Albert | Countersunk machine plate slides down behind a fixed support plate, joined by a roller blind so the plate covers the sunk machine. |
 | [DE415691](../patents/DE415691.md) | 1925 | Pfahl, Winterling & | A sequence-dependent interlock between latch bolts, a locking comb that holds the intermediate levers, and the protective cover. |
@@ -188,7 +194,10 @@ Cover or enclosure of the mechanism
 | [DE448216](../patents/DE448216.md) | 1927 |  | A screw bolt through a clamping ring sets the spring pressure, and a screw cap sets the spring that presses the locking ball, so both can be tuned. |
 | [DE453322](../patents/DE453322.md) | 1927 |  | A sound-absorbing carriage body on the open frame has a downward pocket that holds the hanging sheet and a hinged cover, with a pan-shaped base plate closing the bottom. |
 | [USD74052](../patents/USD74052.md) | 1927 | Garbel, Max | An ornamental top plate for a typewriter frame whose rear vertical wall forms one continuous sweeping curve past the ribbon spool containers and merges at the centre with the front wall. |
+| [DE454130](../patents/DE454130.md) | 1927 |  | An air cushion between plug and liquid replaces the protective wax, with a bulged capillary. |
+| [DE468437](../patents/DE468437.md) | 1928 | Etablisse, Pathe Cinema Anciens | A bevel on the lid edge rests on a matching bevel on the magazine so the gap is removed. |
 | [DE468552](../patents/DE468552.md) | 1928 |  | A sound-absorbing case, open at the bottom and resting on a felt pad, has guide pieces that catch the machine on lifting and flexible lip-like hoses along lever slots. |
+| [DE472561](../patents/DE472561.md) | 1929 | Mueller, Wessel & | A toggle lever carries the roller, and an adjustable nut sets the spring tension from outside. |
 | [DE477459](../patents/DE477459.md) | 1929 | Keller, Hermann | Counter displays are covered with a non-removable window and the space under the counters is closed by an expandable cover rail, so the counters cannot be reached or adjusted. |
 | [DE487533](../patents/DE487533.md) | 1929 |  | A rotatable arm bridges the slot of the spool housing and is linked by a lever mechanism to the moving housing half, so it swings aside when the housing opens and the slot is released, keeping the ribbon secured during use but easy to change. |
 | [USD80881](../patents/USD80881.md) | 1930 | Dowd, Bernard J. | An ornamental design for a mask for typewriting machines, shown in a perspective drawing; the text claims only the appearance, with no mechanism. |
@@ -199,10 +208,12 @@ Cover or enclosure of the mechanism
 | [DE511903](../patents/DE511903.md) | 1930 |  | A locking device on the total-printing drive makes the drive ineffective until the adder is reset to zero, and the reset is blocked while the cover is open. |
 | [DE520630](../patents/DE520630.md) | 1931 | Meusel, Hans | Spring-loaded centre-punch tips on traverses at the square ends of the platen axle engage a fixed disc with holes one line apart, indexing the roller a line at a time inside an enclosing knob. |
 | [DE523536](../patents/DE523536.md) | 1931 | Young, Cyril Robert | A supporting plate hinged to the rear edge of the machine plate rests on a cross bar when the plate is raised, locking it automatically in position. |
+| [DE530436](../patents/DE530436.md) | 1931 |  | A grooved support arm on the lid with a pin on the box, with a bent groove and no fork, so the pin reliably seats. |
 | [DE530554](../patents/DE530554.md) | 1931 | Gaitzsch, Alois Widmer | Sound-absorbing foot rest for office machines. |
 | [DE534406](../patents/DE534406.md) | 1931 |  | Moving the carriage past the centre position, or moving it vertically, prevents an arm on the switchover frame from folding into the blocked position, so the carriage is held in both horizontal and vertical directions by fingers on that arm. |
 | [DE552611](../patents/DE552611.md) | 1932 | Vollberg, Guenther | Each hand's keypad is concave with tightly fitted key tops, mirrored around a blank field with guide-strip side walls covering the thumb space. |
 | [DE553112](../patents/DE553112.md) | 1932 | Engesser, Walter | A coin-started motor lifts the cover lock and holds it until a timer released by a later coin sets the motor reverse to lock the cover again. |
+| [DE556620](../patents/DE556620.md) | 1932 | Flamm, Luise Galmert Geb | The cartridge is locked by hooked bolts engaging eyelets on its underside, so both cartridge and jewellery stay in the window. |
 | [DE557032](../patents/DE557032.md) | 1932 | Remy, H W | The normal protective case serves as the base and the typewriter base plate as the table top, joined by telescoping lockable tubes so the height can be adjusted. |
 | [DE557835](../patents/DE557835.md) | 1932 |  | A cylindrical hood in a table is pivoted down below the base plate by a foot lever, which drives a gear segment and gear on the hood axis, with a spring returning and closing the hood. |
 | [DE560417](../patents/DE560417.md) | 1932 | Radecker, Ludwig | The roll ends are closed with a coloured or plain embossing, which is destroyed on unwinding and shows tampering. |
@@ -212,9 +223,12 @@ Cover or enclosure of the mechanism
 | [DE575630](../patents/DE575630.md) | 1933 | Metz, August | A add-on box with a coin catcher, a keystroke counter driven from the ribbon transport, and a spring-loaded locking rod that is released to lock the machine after the paid number of strokes. |
 | [DE577951](../patents/DE577951.md) | 1933 |  | Stiffening columns are pressed out of the side plates and the key lever guard has flanges that engage these columns and are rigidly fixed to them. |
 | [DE594866](../patents/DE594866.md) | 1934 |  | The stamped base plate has a recessed, rib-reinforced centre for the typewriter's rubber feet, and wooden strips riveted below it project beyond the flange so the metal never touches the table. |
+| [DE578160](../patents/DE578160.md) | 1934 |  | One or both ampoule stoppers get an inner cavity for the powder, sealed by an easily removed closure that is pushed out with a cannula; the cannula has side openings behind its cone tip. |
+| [DE602845](../patents/DE602845.md) | 1934 |  | One or more closed pressure spaces (resonators) are placed behind the ribbon so that a defined transverse resonance restores the high frequencies. |
 | [DE609811](../patents/DE609811.md) | 1935 | Hoffmann, Edgar | Mount the type wheel and its gear on a slide plate guided straight against the platen in the base plate, with a fixed ratchet comb that a pin on the setting rack enters during the stroke. |
 | [DE612821](../patents/DE612821.md) | 1935 | Aizicovici, Carol | The desk top hangs on pins at the upper edge of the cover, and a pair of scissors links and braces it at an inclined angle, so it stays with the cover when the typewriter is covered and folds flat inside the lid; a lamp can be fixed to the scissors. |
 | [DE617044](../patents/DE617044.md) | 1935 |  | Rails on the base plate carry pins and rotatable levers that clamp the machine's metal feet firmly against the base in its case. |
+| [DE620552](../patents/DE620552.md) | 1935 |  | A hood covering the whole table is hinged on one edge so it folds back 180 degrees, with a plate inside that covers the opening. |
 | [DE620936](../patents/DE620936.md) | 1935 | Schrader, Heinrich | Concealed bearing brackets with open slots take the hood's pivot pins from above, locked by washers and an elongated adjustment hole. |
 | [DE622033](../patents/DE622033.md) | 1935 | Zeller, Jakob | An air-filled hollow rubber ring foot with a non-elastic ring cap absorbs the excess blow and side vibration. |
 | [DE625284](../patents/DE625284.md) | 1936 |  | A flexible rubber membrane sits between key heads and the cover plate, sealing key holes while letting keys depress. |
@@ -243,6 +257,7 @@ Cover or enclosure of the mechanism
 | [DE720260](../patents/DE720260.md) | 1942 | Soc, Stenotype Grandjean | A double lever under the hood is dragged out at one end by the ribbon-end buckle, showing a coloured tip outside the hood. |
 | [DE723117](../patents/DE723117.md) | 1942 | Frik, Hans | A matte, translucent glass disc covers the key symbol carrier, so it reduces glare and reflection while keeping the symbol visible. |
 | [DE723800](../patents/DE723800.md) | 1942 | Hegnauer, Ruf Buchhaltung Paul | A front cover wall hinged to the table front is linked by levers so it folds below the support plate; it forms a roof-shaped enclosure when lowered. |
+| [DE728784](../patents/DE728784.md) | 1942 | Spa, Magneti Marelli | Resilient members pull the lid's support arms against the container edge, holding the lid closed in any orientation. |
 | [DE736153](../patents/DE736153.md) | 1943 | Stein, Hermann | A small-typewriter box whose front wall folds down onto the desktop, extending the box floor flush, with sliding strips on which the machine's feet glide in and out. |
 | [DE740110](../patents/DE740110.md) | 1943 |  | A spring-loaded cover can be opened only after the lock is released, and the lock blocks opening while carriage parts are in the way. |
 | [DE732841](../patents/DE732841.md) | 1943 | Hans, Martin | The foot of the machine is placed between the casing and the table with rubber or felt dampers, so the cladding is isolated from the base plate vibrations. |
@@ -260,3 +275,5 @@ Cover or enclosure of the mechanism
 | [DE884809](../patents/DE884809.md) | 1949 | Sa, Paillard | The machine casing behind and above the top row of keys is shaped as an inclined support surface, clear of the writing point and steady against type impact, to hold the notebook. |
 | [DE867548](../patents/DE867548.md) | 1949 |  | Leaf springs on the front of the hood hold it slightly open at first so its edge clears the carriage return lever, and the hood opens fully only when the carriage is moved to a clear position. |
 | [DE855122](../patents/DE855122.md) | 1949 | Sa, Rooy | The typewriter is attached by parallelogram scissors to the lid of a box that folds into a compact unit, so the box is out of the way in use and the machine can stow in a desk drawer. |
+| [DE894463](../patents/DE894463.md) | 1950 | G, Tefi Appbau Daniel K | A tape with micro-acoustic mechanically scannable writing is sealed in a cassette so only a short piece is exposed. |
+| [DE852604](../patents/DE852604.md) | 1950 |  | A case with two rigid side walls and a flexible outer jacket has a larger upper opening and a narrower lower part to hold the machine, a partition, and a smaller flap compartment for paper. |

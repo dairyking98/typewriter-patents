@@ -1,8 +1,10 @@
-# USE:check-writer
+# Check writer
+
+*Uses feature · code `USE:check-writer`*
 
 Check writer or amount printer
 
-**97 patents**, 1886–1950. Often together with: [PAP:feed-rollers](../features/pap-feed-rollers.md) (19), [IMP:print-lever](../features/imp-print-lever.md) (15), [USE:calculating](../features/use-calculating.md) (10), [ELEM:disc-face](../features/elem-disc-face.md) (8), [SEL:dial](../features/sel-dial.md) (7), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (7), [SEL:keyboard-full](../features/sel-keyboard-full.md) (6), [SEL:selector-locking](../features/sel-selector-locking.md) (6)
+**101 patents**, 1886–1950. Often together with: [Feed rollers and paper release](../features/pap-feed-rollers.md) (19), [Separate print key or lever](../features/imp-print-lever.md) (15), [Typewriter with adding machine](../features/use-calculating.md) (10), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (8), [Type disc (types on the face)](../features/elem-disc-face.md) (8), [Dial or knob](../features/sel-dial.md) (7), [Few parts, low cost](../features/frm-few-parts.md) (6), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (6)
 
 ## Patents, oldest first
 
@@ -41,6 +43,7 @@ Check writer or amount printer
 | [US528280](../patents/US528280.md) | 1894 | Robinson, John Clark | A check embosser with male and female dies, feed wheels and a notched guide plate that operate from one lever to emboss characters into the paper. |
 | [US530470](../patents/US530470.md) | 1894 | Coggeshall, Carol H. | A check marker that makes perforated, ink-outlined letters and numbers in the paper using a marker head on a standard. |
 | [US599163](../patents/US599163.md) | 1898 | Brosnaham, George Othman, Jr. | A check punch perforates letters and numerals in the check using sets of dies on a sliding carriage. |
+| [US619519](../patents/US619519.md) | 1899 | van Hoevenbergh, Henry | A pivoted frame carries one rotatable disk with characters of thin metal strip on its periphery, and the frame shifts laterally after each character is burned. |
 | [US682830](../patents/US682830.md) | 1901 | Melen, Charles F. | A check writer using type-wheels, a printing lever and a spring-drum carriage, with the duplicate held in a locked box. |
 | [US748421](../patents/US748421.md) | 1903 | Robertson, George Francis | A portable machine that prints the dollar amount in numerals or letters from peripheral characters on disks or a common carrier, and perforates the check area before printing so the print cannot be erased. |
 | [US758425](../patents/US758425.md) | 1904 | Davison, Thomas Kingan | A hand punch in which spring-yielding members, each carrying pins for one figure, are pressed down onto a depressed lower die so the chosen figure is punched into the check; a cap limits one member at a time. |
@@ -60,6 +63,7 @@ Check writer or amount printer
 | [US975264](../patents/US975264.md) | 1910 | McCormack, Harry S. | The record sheet advances one line-space notch while the check sheet is advanced by a hand wheel and a pair of rolls geared to it, to the next ruled blank. |
 | [US988053](../patents/US988053.md) | 1911 | Wainwright, Frank R. | A check is held and printed, while a ribbon-inked strip of paper is fed a set length each time to make a permanent record of the transaction. |
 | [US998177](../patents/US998177.md) | 1911 | Holland, Charles E. | A small compact protector cuts characters through the check from both sides and inks the cut surfaces, using duplicate-value characters of different kinds. |
+| [DE280214](../patents/DE280214.md) | 1912 |  | A foldable case holding a pen-holder rod on a parallelogram-linkage swing frame, counterbalanced by springs so the pen force stays nearly constant in all positions; the case lid doubles as a writing pad. |
 | [US1061508](../patents/US1061508.md) | 1913 | Todd - Tiefel, Libanus M. - Charles G. | A check protector prints limiting amount characters and their end symbols in inks of different colours or composition, so that added characters are visible and cannot be prefixed or suffixed. |
 | [US1062748](../patents/US1062748.md) | 1913 | Todd - Tiefel, Libanus M. - Charles G. | An electrically controlled check protector: an electric circuit operated with the platen, with the protector printing under electrical control. |
 | [US1130404](../patents/US1130404.md) | 1915 | Howell, Charles Wesley, Jr. | Pin-pointed type perforates the printed characters, and the paper is backed by a yielding, non-elastic material such as wax so that the perforations make alteration practically impossible. |
@@ -87,6 +91,7 @@ Check writer or amount printer
 | [DE526571](../patents/DE526571.md) | 1931 |  | Check printing and dispensing apparatus are made dependent on receipt presence and are switched in or out by special setting elements such as transaction keys. |
 | [DE527808](../patents/DE527808.md) | 1931 |  | Interchangeable name cliches and facsimile signatures are printed together with the amount and date, locked so unauthorised people cannot insert or remove them. |
 | [DE582551](../patents/DE582551.md) | 1933 |  | The platen is wrapped with closely wound fine steel wire, ends soldered to the body so the wire rests resiliently, which embosses and cuts the paper for indelible characters. |
+| [DE594958](../patents/DE594958.md) | 1934 | Last, James | Memo cards or strips are conveyed in step with the checks through the same machine so each card stays matched to its check. |
 | [DE608870](../patents/DE608870.md) | 1935 |  | A manually set switch lever decouples the key-connector movement from the parts that move during check printing and from the paper conveyor, so checks are not issued, while the type-wheel and cutter linkages keep working unchanged. |
 | [DE610385](../patents/DE610385.md) | 1935 |  | The check strip feed is driven by the machine through a locking device, forcing a uniform advance of the check paper, with a disconnect device for issuing checks. |
 | [DE610901](../patents/DE610901.md) | 1935 |  | The special check drive is released after a checkout without an inserted slip, but it stays blocked after a checkout with a note until a new checkout without a slip has finished. |
@@ -103,5 +108,6 @@ Check writer or amount printer
 | [DE747834](../patents/DE747834.md) | 1944 |  | Feed control gears the receipt advance to subtotal and final total, and extra hammers print the cheque and control strip. |
 | [DE890277](../patents/DE890277.md) | 1948 |  | Document sensing and cam discs set by business-type key banks engage or disengage the print hammers, so each document gets one print, two prints, or none. |
 | [DE900885](../patents/DE900885.md) | 1949 |  | A ticket printer prints part of each imprint on the continuous strip, cuts the ticket, then prints the rest, with a detachable print head for serial and date numbers. |
+| [DE901474](../patents/DE901474.md) | 1950 | Witte, Irene M | A two-part label is stamped with a control note and serial number at sale, one part is separated into a locked collecting container, and the other goes to the buyer. |
 | [DE904000](../patents/DE904000.md) | 1950 |  | Printing drums and printing rollers geared 2:3 so that despite several revolutions only one impression falls on the stamp field as the receipt passes. |
 | [DE851351](../patents/DE851351.md) | 1950 |  | A grid-like peak type is attached to the typebar and perforates the paper at impact, and a thinner lever reduces fluttering for regular stop spacing. |

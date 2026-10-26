@@ -1,8 +1,10 @@
-# INK:ribbon
+# Ink ribbon
+
+*Inking feature · code `INK:ribbon`*
 
 Ribbon between type and paper
 
-**1166 patents**, 1867–1950. Often together with: [INK:ribbon-feed](../features/ink-ribbon-feed.md) (593), [ELEM:typebar](../features/elem-typebar.md) (321), [INK:ribbon-lift](../features/ink-ribbon-lift.md) (303), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (298), [SEL:keyboard-full](../features/sel-keyboard-full.md) (229), [ESC:pawl-rack](../features/esc-pawl-rack.md) (225), [PAP:platen-roller](../features/pap-platen-roller.md) (209), [FRM:writing-visible](../features/frm-writing-visible.md) (203)
+**1168 patents**, 1867–1950. Often together with: [Ribbon feed](../features/ink-ribbon-feed.md) (593), [Typebars](../features/elem-typebar.md) (321), [Ribbon lift](../features/ink-ribbon-lift.md) (304), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (298), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (229), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (225), [Roller platen](../features/pap-platen-roller.md) (209), [Visible writing](../features/frm-writing-visible.md) (203)
 
 **Machines:** [Corona 3](../machines/corona-3.md) (5), [L. C. Smith 7](../machines/l-c-smith-7.md) (4), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Caligraph 2](../machines/caligraph-2.md) (3), [Caligraph 3](../machines/caligraph-3.md) (3), [Caligraph 4](../machines/caligraph-4.md) (3), [Caligraph 5](../machines/caligraph-5.md) (3), [Caligraph 6, 7](../machines/caligraph-6-7.md) (3), [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (3), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (3), [Blickensderfer 7](../machines/blickensderfer-7.md) (3)
 
@@ -695,6 +697,7 @@ Ribbon between type and paper
 | [US956112](../patents/US956112.md) | 1910 | Latimer, William G. | An auxiliary inking ribbon sits between duplicate sheets, with adjustable exposure of the ink surface and a shield to prevent smearing. |
 | [US957624](../patents/US957624.md) | 1910 | Paul, William C. | A skeleton spiral cam on the type-wheel spindle is turned by the inner end of a key lever sliding along its edge, so the amount of rotation depends on which key is pressed, and the lever ends in a slot in the cam to lock it. |
 | [US958388](../patents/US958388.md) | 1910 | Gabrielson, Carl | An L. C. Smith ribbon mechanism that reverses ribbon feed automatically when a spool empties, lets the ribbon-carrier throw be varied by shifting a fulcrum, and can disable the ribbon lift entirely. |
+| [US958573](../patents/US958573.md) | 1910 | Yaw, Clio B. | A vibratory ribbon carrier moves the ribbon to the print point on a front-strike machine, with ribbon mechanism in side elevation. |
 | [US959444](../patents/US959444.md) | 1910 | Barnard, Walter E. | Make the ribbon actuator on the universal bar frame lockable or free by a keyboard finger piece, disconnect ribbon winding from the carriage spring when the carriage is released, and reverse the ribbon by a follower riding on the ribbon coils. |
 | [US959696](../patents/US959696.md) | 1910 | Barron, Walter J. | A central ribbon guide controls automatic cross feeding of the ribbon, using interchangeable cross-feed devices that set the extent of cross feed; the feed is cut out automatically on carriage release or by tabulating keys. |
 | [US959833](../patents/US959833.md) | 1910 | Alexander, Frederick | The carriage movement itself drives the ribbon forward and back through a rack and support on the carriage, reversing the ribbon when it reaches the end of its length. |
@@ -992,6 +995,7 @@ Ribbon between type and paper
 | [DE412037](../patents/DE412037.md) | 1925 | Guenther, Georg | Two cooperating levers on the feeler shaft, one braked and notched, make a spring-loaded switching lever snap abruptly into a cam path that slides the drive shaft to the other spool. |
 | [DE413386](../patents/DE413386.md) | 1925 | Muchajer, Paul | Make the frame as a single sheet-metal box open at the bottom that encloses and protects the type drive. |
 | [DE415692](../patents/DE415692.md) | 1925 |  | Ribbon ink is loaded with about 20 percent colloidal ground charcoal so the writing is light-fast and copyable. |
+| [DE417068](../patents/DE417068.md) | 1925 | Works, Murrell Hill | Ketones of the perylene series, from oxidation of dibenzanthrone and related compounds, are reduced mildly and then treated with alkylating agents such as dimethyl sulfate to give dyes. |
 | [DE419833](../patents/DE419833.md) | 1925 |  | A stop on the ribbon trips a two-armed lever linked by an over-centre spring to a second lever, which snaps over and swaps which spool's drive pawl is engaged. |
 | [DE420298](../patents/DE420298.md) | 1925 |  | Two independent switching devices are used: one always gives the normal ribbon feed, and a second adds a larger feed when the seam approaches one of the two pressure points. |
 | [DE420398](../patents/DE420398.md) | 1925 |  | A second, height-adjusting ribbon guide sits beside the usual side slots so the full ribbon width reaches the print point. |

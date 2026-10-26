@@ -1,8 +1,10 @@
-# PAP:flat-bed
+# Flat bed or book typewriter
+
+*Paper and carriage feature · code `PAP:flat-bed`*
 
 Flat paper bed or the machine travelling over the paper or a book
 
-**370 patents**, 1843–1943. Often together with: [USE:book-typewriter](../features/use-book-typewriter.md) (134), [ESC:moving-print-head](../features/esc-moving-print-head.md) (97), [ESC:pawl-rack](../features/esc-pawl-rack.md) (94), [ELEM:typebar](../features/elem-typebar.md) (76), [ESC:print-and-space](../features/esc-print-and-space.md) (74), [SEL:keyboard-full](../features/sel-keyboard-full.md) (72), [INK:ribbon](../features/ink-ribbon.md) (67), [PAP:paper-guide](../features/pap-paper-guide.md) (66)
+**371 patents**, 1843–1943. Often together with: [Book typewriter](../features/use-book-typewriter.md) (134), [Moving print head](../features/esc-moving-print-head.md) (97), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (94), [Typebars](../features/elem-typebar.md) (76), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (74), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (72), [Ink ribbon](../features/ink-ribbon.md) (67), [Paper table and guides](../features/pap-paper-guide.md) (67)
 
 **Machines:** [Fisher 2](../machines/fisher-2.md) (4), [Cash](../machines/cash.md) (2), [Elliott & Hatch 1](../machines/elliott-hatch-1.md) (2), [Elliott & Hatch 2](../machines/elliott-hatch-2.md) (2), [Elliott & Hatch 3](../machines/elliott-hatch-3.md) (2), [Corona 3](../machines/corona-3.md) (2), [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Brooks](../machines/brooks.md) (1), [Dollar Typewriter](../machines/dollar-typewriter.md) (1), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (1), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (1)
 
@@ -338,6 +340,7 @@ Flat paper bed or the machine travelling over the paper or a book
 | [DE421517](../patents/DE421517.md) | 1925 |  | The lower runway is supported on eccentric-headed screws in slotted brackets, so the carriage can be adjusted transversely to its travel. |
 | [DE421691](../patents/DE421691.md) | 1925 |  | An automatic ribbon colour selector, set by an adjustment device with several positions, picks black or red for each entry and engages or disengages the adding mechanism and decimal mechanism. |
 | [DE422362](../patents/DE422362.md) | 1925 | Michelsen, Carl | A push-only linkage with two pivots: rear-arm push rod lifts an intermediate lever that swings the typebar. |
+| [DE434085](../patents/DE434085.md) | 1926 |  | A lever driven by a moving machine part, or by the knife, lifts the comb shaft at the end of each knife stroke. |
 | [DE440774](../patents/DE440774.md) | 1927 | Dietrich, Karl | A slide-rule-sized typewriter in which spring-loaded metal types sit in holes of a double rail that is stepped along a frame by a spring drum each time the single print button is pressed. |
 | [DE486352](../patents/DE486352.md) | 1929 |  | Spring rods on bearing sleeves in the frame's longitudinal walls carry pairs of hinged levers that engage hooks under the writing plate, and a foot lever bracket linked to one pair raises and lowers the plate, making the device lighter and simpler. |
 | [DE492967](../patents/DE492967.md) | 1930 |  | The desk board slides and clamps on a frame of identical supports joined by spacer strips and pivots in bearing blocks between stops, so loads are carried in bending and torsion. |

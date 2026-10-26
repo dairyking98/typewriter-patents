@@ -1,8 +1,10 @@
-# SEL:dummy-keyboard
+# Keys that only set the element
+
+*Selection feature · code `SEL:dummy-keyboard`*
 
 Keys that only set the carrier position (index by keys); one print action
 
-**80 patents**, 1868–1948. Often together with: [SEL:selector-locking](../features/sel-selector-locking.md) (37), [SEL:differential-drive](../features/sel-differential-drive.md) (31), [ESC:print-and-space](../features/esc-print-and-space.md) (28), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (28), [IMP:element-to-platen](../features/imp-element-to-platen.md) (25), [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) (24), [ESC:pawl-rack](../features/esc-pawl-rack.md) (24), [FRM:few-parts](../features/frm-few-parts.md) (22)
+**80 patents**, 1868–1948. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (37), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (31), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (28), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (28), [Element struck to the platen](../features/imp-element-to-platen.md) (25), [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) (24), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (24), [Few parts, low cost](../features/frm-few-parts.md) (22)
 
 **Machines:** [Mercury 3](../machines/mercury-3.md) (2), [Gardner](../machines/gardner.md) (2), [Postal 5](../machines/postal-5.md) (2), [Eagle](../machines/eagle.md) (1), [Moya Visible 1](../machines/moya-visible-1.md) (1), [Moya Visible 2](../machines/moya-visible-2.md) (1)
 

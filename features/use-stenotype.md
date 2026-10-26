@@ -1,8 +1,10 @@
-# USE:stenotype
+# Shorthand machine
+
+*Uses feature · code `USE:stenotype`*
 
 Shorthand or stenographic machine
 
-**96 patents**, 1868–1950. Often together with: [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) (29), [ELEM:typebar](../features/elem-typebar.md) (25), [SEL:keyboard-full](../features/sel-keyboard-full.md) (23), [PAP:feed-rollers](../features/pap-feed-rollers.md) (20), [INK:ribbon](../features/ink-ribbon.md) (19), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (13), [ESC:space-key](../features/esc-space-key.md) (10), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (10)
+**96 patents**, 1868–1950. Often together with: [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) (29), [Typebars](../features/elem-typebar.md) (25), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (23), [Feed rollers and paper release](../features/pap-feed-rollers.md) (20), [Ink ribbon](../features/ink-ribbon.md) (19), [Ribbon feed](../features/ink-ribbon-feed.md) (13), [Space key or bar](../features/esc-space-key.md) (10), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (10)
 
 ## Patents, oldest first
 

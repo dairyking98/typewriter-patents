@@ -1,8 +1,10 @@
-# SHIFT:platen
+# Shift by moving the platen
+
+*Shift and cases feature · code `SHIFT:platen`*
 
 Platen or carriage moves to change case
 
-**707 patents**, 1875–1950. Often together with: [ELEM:typebar](../features/elem-typebar.md) (435), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (219), [PAP:platen-roller](../features/pap-platen-roller.md) (216), [SEL:keyboard-full](../features/sel-keyboard-full.md) (205), [INK:ribbon](../features/ink-ribbon.md) (164), [ESC:pawl-rack](../features/esc-pawl-rack.md) (161), [INK:ribbon-lift](../features/ink-ribbon-lift.md) (139), [FRM:writing-visible](../features/frm-writing-visible.md) (136)
+**709 patents**, 1875–1950. Often together with: [Typebars](../features/elem-typebar.md) (436), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (220), [Roller platen](../features/pap-platen-roller.md) (216), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (205), [Ink ribbon](../features/ink-ribbon.md) (164), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (161), [Ribbon lift](../features/ink-ribbon-lift.md) (139), [Visible writing](../features/frm-writing-visible.md) (137)
 
 **Machines:** [Corona 3](../machines/corona-3.md) (10), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (9), [Remington Portable 3](../machines/remington-portable-3.md) (8), [Williams 1 S](../machines/williams-1-s.md) (5), [Williams 2](../machines/williams-2.md) (5), [Williams 3](../machines/williams-3.md) (5), [Williams 4](../machines/williams-4.md) (5), [Williams 6](../machines/williams-6.md) (5), [Franklin 9, 10](../machines/franklin-9-10.md) (5), [Bar-Lock 12](../machines/bar-lock-12.md) (5), [Bar-Lock 14](../machines/bar-lock-14.md) (5), [Bar-Lock 15](../machines/bar-lock-15.md) (5), [Visigraph](../machines/visigraph.md) (5), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (5), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (5)
 
@@ -538,6 +540,7 @@ Platen or carriage moves to change case
 | [US1103158](../patents/US1103158.md) | 1914 | Ronchetti, Joseph Albert | Two shift keys act on a floating lever; each key's detent locks the platen centred until pressed, and one key's pivot serves as a fixed fulcrum while the other is depressed to move the platen either side of centre. |
 | [US1104278](../patents/US1104278.md) | 1914 | Schiff, Sigmund | Eccentrics on a sleeve around the platen axle shift the platen when a hand wheel turns them relative to the platen, with a pin-and-slot lock so shifting is only possible at the right platen position. |
 | [US1106744](../patents/US1106744.md) | 1914 | Steele, Herbert H. | Case shift devices are operated automatically at predetermined carriage positions or by the tabulating mechanism, changing the relation of platen and printing elements. |
+| [US1107664](../patents/US1107664.md) | 1914 | Fisher, Harvey L. | Simple curved type bars arranged in four groups around the platen, so that shifting the platen selects the different forms of type; the writing is visible while typing. |
 | [US1110144](../patents/US1110144.md) | 1914 | Poole, Charles Clarence | A brake shoe on the spring barrel, applied by the column-stop key lever, cushions the carriage as the stop engages. |
 | [US1112851](../patents/US1112851.md) | 1914 | Sholes, Zalmon G. | Independently adjustable clamp stops and a spring counterbalance on the type-bar segment with a lost-motion finger lever and roller lifting linkage. |
 | [US1113576](../patents/US1113576.md) | 1914 | Petermann, Otto | A spring-returned slotted lever with a tooth, mounted on the foldable carriage bed, is pushed by a pivoted finger lever on the folding support so the tooth engages the carriage rack and pushes the carriage back one space. |
@@ -656,6 +659,7 @@ Platen or carriage moves to change case
 | [DE431517](../patents/DE431517.md) | 1926 |  | The recoil spring is charged only when the shift key is struck quickly, because it engages through the inertia of the heavy carriage. |
 | [DE433738](../patents/DE433738.md) | 1926 |  | Support springs counteract the weight of the changeover frame and its attached parts, so the horizontal shift takes less force. The example is a Remington portable with a carriage carrier on hanging rods and arms on an oscillating shaft. |
 | [DE433737](../patents/DE433737.md) | 1926 |  | A motor-driven friction clutch drives a segment that raises the platen for momentary or locked permanent shift. |
+| [DE434838](../patents/DE434838.md) | 1926 |  | Locking hooks are made adjustable along slotted rails on the switching arms, so timing is set by adjustment instead of filing. |
 | [DE434845](../patents/DE434845.md) | 1926 |  | The universal rail frame acts on a bell crank connected directly to the ribbon fork, and a manual slide sets colour zone and case through pins. |
 | [DE445885](../patents/DE445885.md) | 1927 |  | Each key lever gets its own arm acting independently on a key switch drive lever, with the coupling between shift and space placed near the fingerboards. |
 | [DE450288](../patents/DE450288.md) | 1927 | Stiebel, Drpl Theodor | A continuously rotating, motor-driven bead (cam-ridge) shaft is engaged by the depressed key lever and presses the type rod on through a simple push rod, and the same shaft also returns the key lever, so no return springs are needed. |

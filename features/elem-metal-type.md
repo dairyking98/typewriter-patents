@@ -1,8 +1,10 @@
-# ELEM:metal-type
+# Metal type
+
+*Type element feature · code `ELEM:metal-type`*
 
 Metal types (cast or stamped)
 
-**94 patents**, 1852–1943. Often together with: [ELEM:element-construction](../features/elem-element-construction.md) (37), [FRM:few-parts](../features/frm-few-parts.md) (29), [ESC:print-and-space](../features/esc-print-and-space.md) (28), [ESC:pawl-rack](../features/esc-pawl-rack.md) (28), [SEL:selector-locking](../features/sel-selector-locking.md) (27), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (26), [PAP:platen-roller](../features/pap-platen-roller.md) (25), [PAP:line-space](../features/pap-line-space.md) (22)
+**94 patents**, 1852–1943. Often together with: [How the element is made](../features/elem-element-construction.md) (37), [Few parts, low cost](../features/frm-few-parts.md) (29), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (28), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (28), [Selection locked for printing](../features/sel-selector-locking.md) (27), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (26), [Roller platen](../features/pap-platen-roller.md) (25), [Line spacing](../features/pap-line-space.md) (22)
 
 **Machines:** [Columbia Index 2](../machines/columbia-index-2.md) (2), [Mercury 3](../machines/mercury-3.md) (2), [Postal 5](../machines/postal-5.md) (2), [Crandall No. 3](../machines/crandall-no-3.md) (1), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (1), [Bar-Lock 1](../machines/bar-lock-1.md) (1), [Bar-Lock 2, 3](../machines/bar-lock-2-3.md) (1), [Boston](../machines/boston.md) (1), [Columbia Index 1](../machines/columbia-index-1.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Dollar Typewriter](../machines/dollar-typewriter.md) (1)
 

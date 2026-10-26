@@ -10,4 +10,4 @@ Every page in the library, by kind. Each list is one long page you can search wi
 | [People](../people/README.md) | inventors and designers, with their patents and machines |
 | [Companies](../companies/README.md) | makers and patent assignees |
 | [Patent families](../families/README.md) | patents grouped by Google Patents' similar-document links |
-| [Tags](../tags.md) | patents by mechanism tag (SEL/pointer-chart, ESC/backspace, …) |
+| [Tags](../tags.md) | patents by mechanism tag (selection/pointer-chart, spacing/backspace, …) |

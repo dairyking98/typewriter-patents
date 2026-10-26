@@ -1,8 +1,10 @@
-# SEL:index-wheel
+# Hand-turned type wheel
+
+*Selection feature · code `SEL:index-wheel`*
 
 Hand wheel carrying the characters turned directly (the element is the index)
 
-**51 patents**, 1843–1933. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (31), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (30), [IMP:press-through](../features/imp-press-through.md) (28), [ESC:pawl-rack](../features/esc-pawl-rack.md) (27), [IMP:element-to-platen](../features/imp-element-to-platen.md) (23), [INK:roller](../features/ink-roller.md) (22), [SEL:selector-locking](../features/sel-selector-locking.md) (22), [FRM:few-parts](../features/frm-few-parts.md) (22)
+**52 patents**, 1843–1949. Often together with: [Prints and spaces in one stroke](../features/esc-print-and-space.md) (31), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (30), [Hand presses the type through](../features/imp-press-through.md) (28), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (27), [Element struck to the platen](../features/imp-element-to-platen.md) (23), [Selection locked for printing](../features/sel-selector-locking.md) (23), [Ink roller](../features/ink-roller.md) (22), [Few parts, low cost](../features/frm-few-parts.md) (22)
 
 **Machines:** [Dollar Typewriter](../machines/dollar-typewriter.md) (1)
 
@@ -61,3 +63,4 @@ Hand wheel carrying the characters turned directly (the element is the index)
 | [US1144809](../patents/US1144809.md) | 1915 | Chandler, Edwin N. | A rotating carrier holds detachable stencil characters and brings each one into position over the work table, with an electric heater kept in a steady relation to the carrier. |
 | [DE441005](../patents/DE441005.md) | 1927 | Buck, Conrad | Characters are embossed into thin sheet-steel discs so they read correctly from the back, letting the upper disc be used as a setting disc while the strip is embossed between the paired discs. |
 | [DE580989](../patents/DE580989.md) | 1933 | Gerson, Adolf | Trapezoidal type sticks lie side by side forming a closed ring that is turned along a fixed rail with a cutout where one stick is pressed down. |
+| [DE870860](../patents/DE870860.md) | 1949 |  | The single-digit disc slides axially and rotates; pushing and turning the handle locks a bolt into the tens disc, giving any number from 0 to 99, with an extension for larger numbers. |

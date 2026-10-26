@@ -1,8 +1,10 @@
-# ELEM:linear-bar
+# Straight type bar or rule
+
+*Type element feature · code `ELEM:linear-bar`*
 
 Types along a straight bar or rule
 
-**59 patents**, 1854–1950. Often together with: [SEL:linear-slider](../features/sel-linear-slider.md) (28), [ESC:print-and-space](../features/esc-print-and-space.md) (22), [ESC:pawl-rack](../features/esc-pawl-rack.md) (21), [IMP:press-through](../features/imp-press-through.md) (19), [PAP:platen-roller](../features/pap-platen-roller.md) (18), [FRM:few-parts](../features/frm-few-parts.md) (18), [SEL:pointer-hole](../features/sel-pointer-hole.md) (17), [IMP:element-to-platen](../features/imp-element-to-platen.md) (17)
+**59 patents**, 1854–1950. Often together with: [Slider along a straight index](../features/sel-linear-slider.md) (28), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (22), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (21), [Hand presses the type through](../features/imp-press-through.md) (19), [Roller platen](../features/pap-platen-roller.md) (18), [Few parts, low cost](../features/frm-few-parts.md) (18), [Pointer into a hole or notch](../features/sel-pointer-hole.md) (17), [Element struck to the platen](../features/imp-element-to-platen.md) (17)
 
 **Machines:** [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (2), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (2), [Odell 1 B](../machines/odell-1-b.md) (2), [Odell 2](../machines/odell-2.md) (2), [Odell 3](../machines/odell-3.md) (2), [Odell 4](../machines/odell-4.md) (2), [Pearl](../machines/pearl.md) (1), [Thomas](../machines/thomas.md) (1), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1)
 

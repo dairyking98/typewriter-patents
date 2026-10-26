@@ -1,8 +1,10 @@
-# FRM:writing-visible
+# Visible writing
+
+*Frame and body feature · code `FRM:writing-visible`*
 
 Writing visible to the operator while typing
 
-**645 patents**, 1876–1950. Often together with: [ELEM:typebar](../features/elem-typebar.md) (296), [SEL:keyboard-full](../features/sel-keyboard-full.md) (205), [INK:ribbon](../features/ink-ribbon.md) (203), [PAP:platen-roller](../features/pap-platen-roller.md) (187), [ESC:pawl-rack](../features/esc-pawl-rack.md) (182), [IMP:element-to-platen](../features/imp-element-to-platen.md) (180), [PAP:line-space](../features/pap-line-space.md) (138), [SHIFT:platen](../features/shift-platen.md) (136)
+**648 patents**, 1876–1950. Often together with: [Typebars](../features/elem-typebar.md) (297), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (205), [Ink ribbon](../features/ink-ribbon.md) (203), [Roller platen](../features/pap-platen-roller.md) (187), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (182), [Element struck to the platen](../features/imp-element-to-platen.md) (180), [Line spacing](../features/pap-line-space.md) (138), [Shift by moving the platen](../features/shift-platen.md) (137)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (11), [Alexander (2)](../machines/alexander-2.md) (11), [Alexander (3)](../machines/alexander-3.md) (9), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (8), [Remington Junior](../machines/remington-junior.md) (7), [Corona 3](../machines/corona-3.md) (7), [Remington Portable 3](../machines/remington-portable-3.md) (5), [L. C. Smith 6](../machines/l-c-smith-6.md) (4), [L. C. Smith 7](../machines/l-c-smith-7.md) (4), [Brooks](../machines/brooks.md) (3), [Cash](../machines/cash.md) (3), [Yost 15 - 19](../machines/yost-15-19.md) (3), [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (3), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (3), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (3)
 
@@ -220,6 +222,7 @@ Writing visible to the operator while typing
 | [US576146](../patents/US576146.md) | 1897 | Nickerson, Charles S. | Each typebar carries three characters and strikes a shiftable anvil whose impact also spaces the letter and moves the ribbon. |
 | [US581717](../patents/US581717.md) | 1897 | Hall, George W. | One type carrier is moved in two planes (rock and slide) by two crossing sets of independent key levers, each lever fixing its own stop position, and a spring-driven hammer is released by a trigger once the carrier has stopped at the chosen type. |
 | [US582605](../patents/US582605.md) | 1897 | Donne, Morgan | Girders support the paper carriage, with broad hangers, liftable ribbon guide and adjustable connecting rods. |
+| [US587020](../patents/US587020.md) | 1897 | Stackhouse, Thomas H. | A small visible-writing typewriter with interchangeable type-wheel type that can be removed. |
 | [US587431](../patents/US587431.md) | 1897 | Dukes, Harry S. | A light typebar machine whose frame runs on tracks over a book or sits on a base with a separate paper carriage, with ribbon devices that keep the line visible except while a key is down. |
 | [US588493](../patents/US588493.md) | 1897 | Sinclair, Jeremiah C. | A typebar machine on a curved frame plate in which key and type levers swing the types upward to strike the platen directly in front of the operator, and rest lowered so the writing is visible. |
 | [US593031](../patents/US593031.md) | 1897 | Roggenbauch, Charles F. | Oscillate the platen vertically on swinging arms and angle the two type faces on each bar so each strikes along a radius of the platen. |
@@ -542,6 +545,7 @@ Writing visible to the operator while typing
 | [US1100733](../patents/US1100733.md) | 1914 | Hess, Edward B. | A carriage raised on parallel links, counterbalanced by springs, with eccentric bolts to adjust platen alignment and a latch that releases on pressing either of two shift keys. |
 | [US1101070](../patents/US1101070.md) | 1914 | Gumprecht, William L. | A stop on the vibrator lever meets a pivoted stop on the universal bar at one of four shoulders, positively limiting the vibrator throw for each case and colour. |
 | [US1105543](../patents/US1105543.md) | 1914 | Alexander, Jesse | A key lever works the type bar through an intermediate lever and link that gives the bar its initial throw, while a toothed disk meshing with gear teeth on the bar's heel adds a powerful finishing stroke. |
+| [US1107664](../patents/US1107664.md) | 1914 | Fisher, Harvey L. | Simple curved type bars arranged in four groups around the platen, so that shifting the platen selects the different forms of type; the writing is visible while typing. |
 | [US1110346](../patents/US1110346.md) | 1914 | Reisser, Adolf | Enclose the key and driving mechanism in a closed housing with only the type cylinder and paper carrier outside, joined by a rod through the housing wall that a fast rotating striking member pushes only over a short final travel. |
 | [US1114757](../patents/US1114757.md) | 1914 | Harris, De Witt C. | A universal bar riding on the key levers drives a bell crank through a cam slot with an initial rising portion and an arc-shaped dwell, so every key gives the ribbon guide the same lift and rapid typing holds the ribbon raised and still. |
 | [US1115077](../patents/US1115077.md) | 1914 | Latta, Emmit G. | Fit a shiftable type-bar segment with a single cast top plate, escapement and ribbon vibrator operated directly by the type bars through the universal bar. |
@@ -602,6 +606,7 @@ Writing visible to the operator while typing
 | [DE414744](../patents/DE414744.md) | 1925 | Lohse, Arthur | A transparent glass rail with curvature matched to the platen shows the writing through and is mounted on the same arms. |
 | [DE420756](../patents/DE420756.md) | 1925 | Klaczko, Max | The machine is built so the writing line sits about 30 cm or more above the table surface while keeping a normal keyboard height. |
 | [DE424875](../patents/DE424875.md) | 1926 | Lohse, Arthur | Lower paper guide and sheet holder are made of clear celluloid or glass so the writing stays visible up to the last line. |
+| [DE429646](../patents/DE429646.md) | 1926 | Mackensen, Otto | A mirror system places the eye-side mirror at roughly equal distance to the keys and the written line so both appear together without looking away. |
 | [DE431218](../patents/DE431218.md) | 1926 | Fa, Rodange & Cie | Matrix and patrix disks are mounted coaxially on horizontal shafts in vertical planes, so the space between them is free for a sheet of any size, the embossing can be watched, and the disks move together through a gear train. |
 | [DE436500](../patents/DE436500.md) | 1926 |  | A second spur at mid-height of the type, just below the lowest character, engages a slotted guide with lateral guide surfaces, so the type is guided without shading the print point. |
 | [DE443675](../patents/DE443675.md) | 1927 | Fiala, Karl | A chest mirror and an adjustable tilting mirror above the keys reflect an enlarged copy of the manuscript, so the writer can watch the copy while typing. |

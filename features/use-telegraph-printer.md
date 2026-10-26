@@ -1,8 +1,10 @@
-# USE:telegraph-printer
+# Printing telegraph
+
+*Uses feature · code `USE:telegraph-printer`*
 
 Printing telegraph or remote printing
 
-**125 patents**, 1872–1950. Often together with: [IMP:electric](../features/imp-electric.md) (39), [SEL:keyboard-full](../features/sel-keyboard-full.md) (26), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (22), [SEL:selector-locking](../features/sel-selector-locking.md) (16), [USE:accessory](../features/use-accessory.md) (14), [ELEM:typebar](../features/elem-typebar.md) (14), [IMP:hammer-behind](../features/imp-hammer-behind.md) (11), [SEL:differential-drive](../features/sel-differential-drive.md) (9)
+**129 patents**, 1872–1950. Often together with: [Electric drive](../features/imp-electric.md) (40), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (26), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (22), [Selection locked for printing](../features/sel-selector-locking.md) (16), [Attachment or accessory](../features/use-accessory.md) (15), [Typebars](../features/elem-typebar.md) (14), [Hammer behind the paper](../features/imp-hammer-behind.md) (11), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (9)
 
 ## Patents, oldest first
 
@@ -59,6 +61,7 @@ Printing telegraph or remote printing
 | [US1052356](../patents/US1052356.md) | 1913 | von Marchthal, Eduard Marek | The wheel is spring-pushed to one end position and held by a stop at the chosen position; to change position the stop is fully released so the wheel first returns to the end, then a cam-driven mechanism lifts it to the new position. |
 | [US1054582](../patents/US1054582.md) | 1913 | von Marchthal, Eduard Marek | A Siemens and Halske machine whose controlling shaft, set by the keyboard or register, determines the operation, and a controlling disk on a type wheel selects the type and prints it with an auxiliary force. |
 | [US1078626](../patents/US1078626.md) | 1913 | Kelley, Blane | Electrically operated selectors send keyboard actions over a minimum number of line wires so a remote machine repeats the typing. |
+| [DE284355](../patents/DE284355.md) | 1913 |  | A telephone-station device that switches the subscriber circuit so the answering and phonographic recording are triggered and the exchange monitoring signals follow the call state. |
 | [US1097580](../patents/US1097580.md) | 1914 | Barclay, John C. | A start-stop synchronous telegraph page printer with a continuously motor-driven, magnet-stepped two-row type wheel above a horizontal paper carriage, struck from below by a solenoid hammer. |
 | [US1105921](../patents/US1105921.md) | 1914 | Potts, Louis M. | Punching-machine record; problem and solution not stated in the readable text. |
 | [US1106638](../patents/US1106638.md) | 1914 | Drewell, Heinrich | A punch is selected by the type bar only when it is near its printing position, so the perforation matches the printed character. |
@@ -82,6 +85,8 @@ Printing telegraph or remote printing
 | [DE478036](../patents/DE478036.md) | 1929 |  | The type wheel, its gear parts and its setting magnet all sit on one shaft and tilt together onto the paper under a pressure magnet. |
 | [DE498214](../patents/DE498214.md) | 1930 | Berryman, Thomas James | The receiving station moves the selecting parts in oscillating, rotary and axial motions, with signal-controlled guides, channels and pins, so that opposite characters are distinguished and translated into typed characters. |
 | [DE506065](../patents/DE506065.md) | 1930 | Bickenbach, Wilhelm | Each sign is produced by pressing one key that energizes a fixed combination of wires, marking a paper strip at the receiver with dots or lines, with no synchronous parts. |
+| [DE509413](../patents/DE509413.md) | 1930 | Schroeter, Fritz | A fine liquid jet is deflected by magnetic or electric fields to write characters on a surface at high speed. |
+| [DE510996](../patents/DE510996.md) | 1930 | Tucholski, - Hans | The sheet is pulled over a round edge so the non-adhered areas peel away, which allows continuous recording on a band. |
 | [DE518417](../patents/DE518417.md) | 1931 | Hahn, Paul | A double-armed contact lever, driven by motor and clutch magnet, connects a distributor contact only in its central position, to select characters by signal duration. |
 | [DE519639](../patents/DE519639.md) | 1931 |  | Type bars are carried in slots of two discs and displaced parallel to the wheel axis; a ring stops the bars, and springs from a movable ring return them after printing. |
 | [DE540845](../patents/DE540845.md) | 1932 | Schneider, Julius | A motor-driven type wheel is braked on the selected letter and a toothed wheel with tooth gaps of depth proportional to type width lets a spring-driven pin both centre the type and set the proportional advance of a stretchable printing band. |
@@ -131,5 +136,6 @@ Printing telegraph or remote printing
 | [DE745913](../patents/DE745913.md) | 1944 | Willers, Hans Bodo | Two groups of control discs each drive a lever system: one shifts the type carrier axially and the other rotates it, so the selection needs at most 64 steps split across two shorter paths. |
 | [DE872517](../patents/DE872517.md) | 1948 |  | A brush soaked in ink, with bristles free to move in every direction, paints the type. A slowly rotating disc brush or a longer brush spreads wear, and it is fed ink from a pitted rotating roller or sphere in a sealed container. |
 | [DE1086072](../patents/DE1086072.md) | 1948 | Dirks, Gerhard | Mark the signal sequence to be corrected with identification signals that trigger scanning of a separate memory location holding the correction sequence, which is then output in its place. |
+| [DE1113945](../patents/DE1113945.md) | 1948 | Dirks, Gerhard | Address symbol combinations call pre-stored partial messages from a magnetic selection memory, matched by relay comparison groups, into a writing or printing machine. |
 | [DE866664](../patents/DE866664.md) | 1949 |  | A dye tube or cylinder with its outlet as a nozzle sits so the rotating brush passes over it, letting dye out slowly so the brush soaks it up during rotation. |
 | [DE863357](../patents/DE863357.md) | 1950 |  | After each impression the type wheel is shifted axially so the last-printed type brushes over an ink body beside the print point and the printed letter is uncovered. |

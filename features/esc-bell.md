@@ -1,8 +1,10 @@
-# ESC:bell
+# Line-end bell
+
+*Spacing and escapement feature · code `ESC:bell`*
 
 Bell near the line end
 
-**253 patents**, 1852–1935. Often together with: [PAP:platen-roller](../features/pap-platen-roller.md) (124), [ESC:margin-stop](../features/esc-margin-stop.md) (117), [ESC:pawl-rack](../features/esc-pawl-rack.md) (112), [PAP:line-space](../features/pap-line-space.md) (101), [SEL:keyboard-full](../features/sel-keyboard-full.md) (79), [ELEM:typebar](../features/elem-typebar.md) (78), [INK:ribbon](../features/ink-ribbon.md) (72), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (71)
+**255 patents**, 1852–1935. Often together with: [Roller platen](../features/pap-platen-roller.md) (124), [Margin stops](../features/esc-margin-stop.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (113), [Line spacing](../features/pap-line-space.md) (101), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79), [Typebars](../features/elem-typebar.md) (78), [Ink ribbon](../features/ink-ribbon.md) (72), [Ribbon feed](../features/ink-ribbon-feed.md) (71)
 
 **Machines:** [Mercury 3](../machines/mercury-3.md) (3), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (3), [Blickensderfer 7](../machines/blickensderfer-7.md) (3), [Blickensderfer 8](../machines/blickensderfer-8.md) (3), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (3), [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (3), [L. C. Smith 6](../machines/l-c-smith-6.md) (3), [L. C. Smith 7](../machines/l-c-smith-7.md) (3), [Caligraph 3](../machines/caligraph-3.md) (2), [Caligraph 4](../machines/caligraph-4.md) (2), [Caligraph 5](../machines/caligraph-5.md) (2), [Caligraph 6, 7](../machines/caligraph-6-7.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2)
 
@@ -134,8 +136,10 @@ Bell near the line end
 | [US546292](../patents/US546292.md) | 1895 | Barney, Edwin E. | A bundle of detail mechanisms for the Crandall oscillating-and-rotating type-sleeve machine, notably a straight lift bail that eases the end key levers and a pivoted ratchet plate with adjustable stop pawl for line spacing. |
 | [US549421](../patents/US549421.md) | 1895 | Ashby, Alfred | A clamp-on alarm: a wire contact stepped toward a fixed metal strip at each line feed, which sounds a bell when the paper edge has passed it. |
 | [US552774](../patents/US552774.md) | 1896 | Perry, Horace G. | A typebar machine with a second set of bars carrying duplex or multiple characters (an, as, is) and an escapement that advances the carriage by varying distances. |
+| [US555443](../patents/US555443.md) | 1896 | Granville, Bernard | Simplified paper-carriage escapement with an adjustable stop, retaining hook and bell mechanism. |
 | [US556460](../patents/US556460.md) | 1896 | Daugherty, James Denny | Hang the typebars in a short vertical-circle segment with long, widely spaced pivots, and connect keys to the bars through bell-crank levers that keep a constant leverage, so the keyboard sits close to the carriage. |
 | [US557728](../patents/US557728.md) | 1896 | Travis, William H. | Each key-lever carries a differently shaped cam that rocks one of two rockers to turn the type-wheel a set angle either way from a rest position, then locks the wheel while a spring hammer prints and the carriage steps. |
+| [US557913](../patents/US557913.md) | 1896 | Steiger, Andrew W. | An adjustable alarm bell, carriage stop and type-bar lock act at one chosen point near line end. |
 | [US559128](../patents/US559128.md) | 1896 | Ellis, Charles S. | A full-keyboard basket typewriter combining variable-spacing carriage feed with new ribbon shifting, platen turning, carriage stop and bell devices. |
 | [US559345](../patents/US559345.md) | 1896 | Wagner - Wagner, Herman L. - Franz X. | A typebar machine whose platen roller is lifted independently of the carriage by shift keys, with a ribbon guide that follows the platen, a three-tooth feed dog, and a removable, self-locking platen. |
 | [US560142](../patents/US560142.md) | 1896 | Maskelyne, John Nevil, Jr. | A pad-inked typebar machine with three characters per typebar, in which a lower carriage slides sideways to present the paper to the chosen character and an upper carriage steps the paper roller along under a spring and escapement. |

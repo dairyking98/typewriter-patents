@@ -1,8 +1,10 @@
-# INK:roller
+# Ink roller
+
+*Inking feature · code `INK:roller`*
 
 Ink roller touching the type
 
-**266 patents**, 1843–1950. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (123), [SEL:selector-locking](../features/sel-selector-locking.md) (110), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (107), [ESC:print-and-space](../features/esc-print-and-space.md) (103), [PAP:platen-roller](../features/pap-platen-roller.md) (102), [IMP:element-to-platen](../features/imp-element-to-platen.md) (101), [SEL:keyboard-full](../features/sel-keyboard-full.md) (82), [ESC:space-key](../features/esc-space-key.md) (81)
+**267 patents**, 1843–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (123), [Selection locked for printing](../features/sel-selector-locking.md) (110), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (107), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (103), [Roller platen](../features/pap-platen-roller.md) (102), [Element struck to the platen](../features/imp-element-to-platen.md) (101), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (82), [Space key or bar](../features/esc-space-key.md) (81)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (6), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (5), [Blickensderfer 7](../machines/blickensderfer-7.md) (5), [Postal 5](../machines/postal-5.md) (5), [Crown Index 1](../machines/crown-index-1.md) (4), [Crown Index 2](../machines/crown-index-2.md) (4), [Peoples](../machines/peoples.md) (4), [Mercury 3](../machines/mercury-3.md) (4), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (4), [Blickensderfer 8](../machines/blickensderfer-8.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3), [Dactyle](../machines/dactyle.md) (3), [Travis](../machines/travis.md) (3)
 
@@ -217,6 +219,7 @@ Ink roller touching the type
 | [US914272](../patents/US914272.md) | 1909 | von Hefner-Alteneck, Friedrich | A knob on an oscillating, pantograph-magnified linkage moves the type roller by a small amount matched to the type spacing while a pointer moves magnified over a large index plate, and pressing the knob down prints. |
 | [US933593](../patents/US933593.md) | 1909 | Snell, Saxon | A device with a main roller, a liquid trough or inking means, jockey rollers and doctor blades applies ink or solvent regularly to the ribbon as it passes the roller, possibly several colours at once, and can be used standalone or attached to a typewriter. |
 | [US985402](../patents/US985402.md) | 1911 | Creed, Frederick George | Pneumatic devices, driven by valves reading a perforated tape, actuate the type carriers, which combine with an inking device and paper cylinder in one machine. |
+| [US1090320](../patents/US1090320.md) | 1914 | Madigan, Patrick J. | A pivoted arm and adjustable banking stop on a table that spreads liquid from an ink well onto a roller or moistening member for an even distribution. |
 | [US1097580](../patents/US1097580.md) | 1914 | Barclay, John C. | A start-stop synchronous telegraph page printer with a continuously motor-driven, magnet-stepped two-row type wheel above a horizontal paper carriage, struck from below by a solenoid hammer. |
 | [US1115341](../patents/US1115341.md) | 1914 | Schutz, Joseph M. | A standalone ribbon inking machine passes the ribbon between pressure rollers, with pressure set for ribbon width and ink depth, and rewinds it onto a spool. |
 | [US1116155](../patents/US1116155.md) | 1914 | Straub, William F. | Endless ribbon with an ink roll driven by the periodic actuation of the recorder inks the type wheels. |

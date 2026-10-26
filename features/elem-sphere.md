@@ -1,8 +1,10 @@
-# ELEM:sphere
+# Type sphere
+
+*Type element feature · code `ELEM:sphere`*
 
 Types on a sphere or hemisphere
 
-**15 patents**, 1872–1913. Often together with: [IMP:press-through](../features/imp-press-through.md) (10), [ESC:print-and-space](../features/esc-print-and-space.md) (7), [IMP:element-to-platen](../features/imp-element-to-platen.md) (7), [PAP:platen-roller](../features/pap-platen-roller.md) (6), [PAP:flat-bed](../features/pap-flat-bed.md) (6), [SEL:selector-locking](../features/sel-selector-locking.md) (6), [SEL:keyboard-full](../features/sel-keyboard-full.md) (5), [ESC:space-key](../features/esc-space-key.md) (5)
+**15 patents**, 1872–1913. Often together with: [Hand presses the type through](../features/imp-press-through.md) (10), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (7), [Element struck to the platen](../features/imp-element-to-platen.md) (7), [Roller platen](../features/pap-platen-roller.md) (6), [Flat bed or book typewriter](../features/pap-flat-bed.md) (6), [Selection locked for printing](../features/sel-selector-locking.md) (6), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (5), [Space key or bar](../features/esc-space-key.md) (5)
 
 ## Patents, oldest first
 

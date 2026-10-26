@@ -1,8 +1,10 @@
-# INK:carbon
+# Carbon paper or inked strip
+
+*Inking feature · code `INK:carbon`*
 
 Carbon paper or inked strip instead of ribbon
 
-**147 patents**, 1856–1948. Often together with: [PAP:manifold](../features/pap-manifold.md) (51), [INK:ribbon](../features/ink-ribbon.md) (34), [PAP:paper-guide](../features/pap-paper-guide.md) (33), [PAP:platen-roller](../features/pap-platen-roller.md) (24), [USE:accessory](../features/use-accessory.md) (19), [PAP:feed-rollers](../features/pap-feed-rollers.md) (18), [PAP:flat-bed](../features/pap-flat-bed.md) (14), [ESC:print-and-space](../features/esc-print-and-space.md) (8)
+**150 patents**, 1856–1948. Often together with: [Carbon copies](../features/pap-manifold.md) (53), [Ink ribbon](../features/ink-ribbon.md) (34), [Paper table and guides](../features/pap-paper-guide.md) (34), [Roller platen](../features/pap-platen-roller.md) (24), [Attachment or accessory](../features/use-accessory.md) (19), [Feed rollers and paper release](../features/pap-feed-rollers.md) (18), [Flat bed or book typewriter](../features/pap-flat-bed.md) (14), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (8)
 
 ## Patents, oldest first
 
@@ -13,6 +15,7 @@ Carbon paper or inked strip instead of ribbon
 | [US81000](../patents/US81000.md) | 1868 | Pratt, John | A single flat plate bearing all the type is moved in a vertical and a horizontal direction by two oscillating rods, whose throw is set per key by adjusting screws, so any character arrives at one fixed point where a spring-driven hammer strikes the paper and carbon against it. |
 | [US127739](../patents/US127739.md) | 1872 | Cadmus, Eugene | A type wheel runs continuously on a power-driven shaft with a slotted cylinder beside it; pressing a key makes its end enter its slot in the cylinder when that slot comes round, which lifts the paper-bearing platen against the one type that is then at the print point. |
 | [US144450](../patents/US144450.md) | 1873 | Galloway, John | A hand-held sliding block carrying two rows of raised type and a locating arm is moved over a notched plate and pressed down to print, while a ratchet turns the paper roller. |
+| [US213771](../patents/US213771.md) | 1879 | Morris, Robert C. | A tablet frame holds the paper with carbon sheets on rollers and a slide, so one writing produces copies on several sheets. |
 | [DE36076](../patents/DE36076.md) | 1886 |  | Each letter lever's head has a notch flattened to a different depth, so it depresses a spacing pawl by a letter-specific amount before printing. |
 | [US348073](../patents/US348073.md) | 1886 | Underwood - Underwood, John T. - Frederick W. | A sheet of tissue or fabric coated with a precipitate of dye-wood solution mixed with oil or wax, ground warm and applied to paper, to serve as a transfer surface instead of carbon. |
 | [US355418](../patents/US355418.md) | 1887 | Spiro, Charles | A small disk of inked paper or cloth is carried on a bracket and turned by a rack on the moving platen frame, so each impression finds a fresh spot. |
@@ -71,10 +74,12 @@ Carbon paper or inked strip instead of ribbon
 | [US1010528](../patents/US1010528.md) | 1911 | Steele, Herbert H. | A carbon-roll carrier and a gravity feeding device or roller on a Monarch typewriter platen carriage feed folded sheets singly and carry carbon in roll form. |
 | [US1017299](../patents/US1017299.md) | 1912 | Lewis, Edward Zuver | A carbon ribbon with a tension roll rewinding it is wound about the platen with the manifold sheet, and copies are automatically removed. |
 | [US1018639](../patents/US1018639.md) | 1912 | Steele, Herbert H. | A carriage-mounted frame with two delivery rolls and a receiving roll feeds two work sheets and a carbon, with an automatic carbon return so the carbon is reused. |
+| [US1021776](../patents/US1021776.md) | 1912 | Heitzmann, Fritz | Print only the thicker sheets, interleave blank transparent sheets between them, and bind the stack so the thin sheet is exactly over the printed lines when a carbon leaf is used. |
 | [US1021953](../patents/US1021953.md) | 1912 | Steele, Herbert H. | Inking devices are made to work with a carbon strip as well as an ink ribbon and can be added cheaply to existing machines. |
 | [US1045796](../patents/US1045796.md) | 1912 | Kerner, John | A moist copying-paper strip from a roll in a drum passes between the platen and a rubber pressure roller, making a press copy at the same time as typing. |
 | [US1056646](../patents/US1056646.md) | 1913 | Donning, George W. | A carbon-sustaining support, held by parts other than the carriage rails, positions manifolding material against the platen and lets the operator change its surface or position. |
 | [US1062428](../patents/US1062428.md) | 1913 | Anderson, George S. | A flat platen with an elevated work-holding frame, carbon roll carriers, and tensioned tapes and clamping frame for the work. |
+| [US1080239](../patents/US1080239.md) | 1913 | Steele, Herbert H. | Devices for typewriting continuous folded billing work sheets that handle the carbon with the sheet so the carbon can be advanced and used repeatedly; details are only partly legible in the OCR. |
 | [DE304667](../patents/DE304667.md) | 1914 |  | An auxiliary ribbon carrier on the paper carriage is guided through punched guide plates with triangular cutouts and a slotted plate so the ribbon layers stay the same distance apart across the whole line. |
 | [US1090912](../patents/US1090912.md) | 1914 | Gray, Walter J., Jr. | A removable carbon roller holder with ratchet and pawl shifts the carbon and keeps it under tension. |
 | [US1106120](../patents/US1106120.md) | 1914 | Swaim, Cecil J. | An attachment feeds a paper roll and several ribbons or carbon layers through a movable frame so original and copies form a connected strip. |

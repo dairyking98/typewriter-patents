@@ -1,8 +1,10 @@
-# INK:ribbon-color
+# Two-colour ribbon
+
+*Inking feature · code `INK:ribbon-color`*
 
 Two-colour ribbon change
 
-**272 patents**, 1880–1950. Often together with: [INK:ribbon](../features/ink-ribbon.md) (189), [INK:ribbon-lift](../features/ink-ribbon-lift.md) (170), [ELEM:typebar](../features/elem-typebar.md) (96), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (81), [SHIFT:platen](../features/shift-platen.md) (65), [FRM:writing-visible](../features/frm-writing-visible.md) (47), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (33), [ESC:spring-drum](../features/esc-spring-drum.md) (24)
+**274 patents**, 1880–1950. Often together with: [Ink ribbon](../features/ink-ribbon.md) (189), [Ribbon lift](../features/ink-ribbon-lift.md) (170), [Typebars](../features/elem-typebar.md) (96), [Ribbon feed](../features/ink-ribbon-feed.md) (82), [Shift by moving the platen](../features/shift-platen.md) (65), [Visible writing](../features/frm-writing-visible.md) (47), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (33), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (24)
 
 **Machines:** [Corona 3](../machines/corona-3.md) (4), [Monarch Pioneer](../machines/monarch-pioneer.md) (2), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (2), [Remington Portable 3](../machines/remington-portable-3.md) (2), [Boston](../machines/boston.md) (1), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (1), [Bar-Lock Columbia](../machines/bar-lock-columbia.md) (1), [Bar-Lock 12](../machines/bar-lock-12.md) (1), [Bar-Lock 14](../machines/bar-lock-14.md) (1), [Bar-Lock 15](../machines/bar-lock-15.md) (1), [Visigraph](../machines/visigraph.md) (1)
 
@@ -25,6 +27,7 @@ Two-colour ribbon change
 | [US506712](../patents/US506712.md) | 1893 | Morris, Matthias K. | A hand-held straight type-bar with a letter on each edge is positioned against a pointer on a counterbalanced tilting arm over a stationary paper support, and pressing it prints, spaces the carriage and advances the ribbon in one stroke. |
 | [US528142](../patents/US528142.md) | 1894 | Brown, Alexander T. | Join the two differently inked ribbon portions with an uninked blank middle section so that reaching the end of one ribbon yields visibly blank impressions before the other ribbon is struck. |
 | [US530365](../patents/US530365.md) | 1894 | Stiles, Fred Phelps | A hinged wire trip arm that the ribbon itself lifts, via cross strips or taut ribbon, releases a spring-loaded switch bar independent of the carriage. |
+| [US553909](../patents/US553909.md) | 1896 | Heath - Verdin, Thomas T. - Alois N. | Spacing and ribbon colour are changed on the machine to justify lines and switch colour. |
 | [US580014](../patents/US580014.md) | 1897 | Souder, Howell W. | A type wheel lying lengthwise on a triangular shaft travels across the machine in front of a fixed, rocking platen; keys turn the shaft to bring the chosen character to the platen, which then tilts into the wheel to print. |
 | [US581500](../patents/US581500.md) | 1897 | Webb, George B. | Two spool frames ride on ball bearings and are shifted transversely by a rock shaft while spring-fork-driven ratchet pawls wind the ribbon lengthwise. |
 | [US595838](../patents/US595838.md) | 1897 | Spiro, Charles | A set of improvements to a typebar machine: gravity-seated tilting platen cradle, a front guide rod that shifts the platen for case, a vertical platen adjustment for sheet count, and an automatic ribbon feed and reverse triggered by clasps on the ribbon. |
@@ -50,6 +53,7 @@ Two-colour ribbon change
 | [US821643](../patents/US821643.md) | 1906 | Joerissen, Carl A. | Ribbon spools on horizontal axes feed the ribbon flat, and a guide turns it to vertical in front of the type at each stroke, shiftable to use either edge. |
 | [US824582](../patents/US824582.md) | 1906 | Pool, Morris W. | The vibrator covers the print point automatically and is held there until the spacing devices act or as long as desired, with a release for two-colour ribbons. |
 | [US826487](../patents/US826487.md) | 1906 | Donning, George W. | Easily removable spools, optionally pre-wound with ribbon, with a feed-reversing lever and a ribbon-path shifting lever, driven by pawls on a shiftable plate. |
+| [DE220357](../patents/DE220357.md) | 1906 |  | A curved rod links the ribbon drive shafts on both sides of the machine instead of a guided slide, and a locking device holds the inactive ribbon spools still. |
 | [US833227](../patents/US833227.md) | 1906 | Kunath, Edward F. | Two ribbons, one in front of the other, each with its own vibrator lever, and a shiftable actuator picks which one is raised at the type-stroke. |
 | [US833431](../patents/US833431.md) | 1906 | Voget, Peter Alexander | Each of several ribbons carries a different ink colour and is positioned so that the colour used by the key selects a shorthand class such as verb tense; the ribbon that was used is moved on by a device so the next colour is brought to the print point. |
 | [US833495](../patents/US833495.md) | 1906 | Woodward, Oscar | A lever-operated ribbon shifter moves the ribbon sideways to bring a colour section to the type, with an indicator. |

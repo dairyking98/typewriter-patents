@@ -1,8 +1,10 @@
-# SHIFT:triple
+# Three or more cases
+
+*Shift and cases feature · code `SHIFT:triple`*
 
 Three cases or more (e.g. lower / caps / figures)
 
-**342 patents**, 1875–1948. Often together with: [SEL:keyboard-full](../features/sel-keyboard-full.md) (165), [ELEM:typebar](../features/elem-typebar.md) (150), [PAP:platen-roller](../features/pap-platen-roller.md) (138), [ESC:pawl-rack](../features/esc-pawl-rack.md) (132), [SEL:selector-locking](../features/sel-selector-locking.md) (130), [IMP:element-to-platen](../features/imp-element-to-platen.md) (123), [SHIFT:axial](../features/shift-axial.md) (122), [SHIFT:platen](../features/shift-platen.md) (112)
+**342 patents**, 1875–1948. Often together with: [Full keyboard, a key per character](../features/sel-keyboard-full.md) (165), [Typebars](../features/elem-typebar.md) (150), [Roller platen](../features/pap-platen-roller.md) (138), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (132), [Selection locked for printing](../features/sel-selector-locking.md) (130), [Element struck to the platen](../features/imp-element-to-platen.md) (123), [Shift by sliding the element](../features/shift-axial.md) (122), [Shift by moving the platen](../features/shift-platen.md) (112)
 
 **Machines:** [Mercury 3](../machines/mercury-3.md) (6), [Corona 3](../machines/corona-3.md) (6), [Williams 1 S](../machines/williams-1-s.md) (5), [Williams 2](../machines/williams-2.md) (5), [Williams 3](../machines/williams-3.md) (5), [Williams 4](../machines/williams-4.md) (5), [Williams 6](../machines/williams-6.md) (5), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (4), [Corona 4](../machines/corona-4.md) (4), [Gundka 3](../machines/gundka-3.md) (4), [Gundka 5](../machines/gundka-5.md) (4), [Brooks](../machines/brooks.md) (3), [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3)
 

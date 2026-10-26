@@ -1,8 +1,10 @@
-# ESC:backspace
+# Backspace
+
+*Spacing and escapement feature · code `ESC:backspace`*
 
 Backspace
 
-**97 patents**, 1884–1949. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (64), [ESC:escape-wheel](../features/esc-escape-wheel.md) (22), [ESC:spring-drum](../features/esc-spring-drum.md) (21), [ELEM:typebar](../features/elem-typebar.md) (14), [SEL:keyboard-full](../features/sel-keyboard-full.md) (12), [ESC:space-key](../features/esc-space-key.md) (12), [ESC:carriage-release](../features/esc-carriage-release.md) (12), [ESC:tabulator](../features/esc-tabulator.md) (10)
+**99 patents**, 1884–1949. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (65), [Escape-wheel escapement](../features/esc-escape-wheel.md) (22), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (21), [Typebars](../features/elem-typebar.md) (14), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (12), [Space key or bar](../features/esc-space-key.md) (12), [Carriage release](../features/esc-carriage-release.md) (12), [Tabulator](../features/esc-tabulator.md) (10)
 
 **Machines:** [Travis](../machines/travis.md) (1), [Corona 3](../machines/corona-3.md) (1), [Bar-Lock 16, 17](../machines/bar-lock-16-17.md) (1)
 
@@ -16,6 +18,7 @@ Backspace
 | [US446676](../patents/US446676.md) | 1891 | Granville, Bernard | A rocking frame under the key levers raises a feather-cam actuating pawl for forward spacing, while two cam-lever-controlled holding pawls let the spring-driven carriage step back letter by letter or run fully home, and a toothed escapement wheel with three rows gives three line spacings. |
 | [US537993](../patents/US537993.md) | 1895 | Perkins, Willis J. | A key-oscillated type wheel prints on a spring-driven paper cylinder that turns and slides on its own through a double-toothed escapement, so lines and line spacing advance automatically with no carriage return. |
 | [US557728](../patents/US557728.md) | 1896 | Travis, William H. | Each key-lever carries a differently shaped cam that rocks one of two rockers to turn the type-wheel a set angle either way from a rest position, then locks the wheel while a spring hammer prints and the carriage steps. |
+| [US580117](../patents/US580117.md) | 1897 | Peck, Carlton C. W. | Carriage-retracting and double-advance devices on the escapement. |
 | [US589387](../patents/US589387.md) | 1897 | Gilbert, Justin | A key-operated dog engages the carriage rack and draws it back until the escapement dogs catch the previous tooth, where a positive stop halts it and makes it rebound, giving exactly one space per press. |
 | [US616549](../patents/US616549.md) | 1898 | Maulsby, Thomas A. | A key-operated force-feed dog engages the spacing rack and drives the carriage backwards one or more spaces. |
 | [US623451](../patents/US623451.md) | 1899 | Westwood, Coral Novello | A side attachment with a circle of numbered push-keys and treadle releases the platen carriage to run forward and stop at multiples of five, with line and back spacing. |
@@ -91,6 +94,7 @@ Backspace
 | [US1163801](../patents/US1163801.md) | 1915 | Wright, Walter | A set of spacing keys shifts the carriage back by a chosen number of letter spaces, and each back-space also line-spaces the platen so the sheet feeds forward; the mechanism is attached to a Monarch machine driven by computing gear. |
 | [DE328880](../patents/DE328880.md) | 1920 | Reinicke, Georg | Break the letters into common parts (basic shapes, dots, final swashes) on separate keys struck together so that combined impressions form the letters, cutting 110 types to a few dozen. |
 | [DE339311](../patents/DE339311.md) | 1921 | Hanke, Weber & | A downshift key lever slides a rail whose counter-rotating pawl engages the gear that meshes with the carriage rack and turns it backward by a set amount; the pawl has two noses so a low-power drive can be used. |
+| [DE346709](../patents/DE346709.md) | 1922 |  | Two pawls: a sliding pawl driven by the downshift key pushes a rotating pawl, held by a spring, into the rack tooth gap so the rack advances one tooth. |
 | [DE391930](../patents/DE391930.md) | 1924 | C, August Hegeling | Hinge the rear of the back-key lever to a drive lever and guide it with a pin in a cam slot so the toothed head moves on an arc into and out of the ratchet. |
 | [DE404176](../patents/DE404176.md) | 1924 |  | A special key bypasses the common movement member so only the ribbon drive and the accent typebar act, with no letter-spacing step. |
 | [DE409998](../patents/DE409998.md) | 1925 | Reisser, Adolf | Backspace key pushes an angle lever along an arc slot so a pawl engages the carriage rack, and a stop lug prevents more than one tooth per stroke. |

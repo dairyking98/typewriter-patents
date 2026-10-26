@@ -1,8 +1,10 @@
-# INK:ribbon-feed
+# Ribbon feed
+
+*Inking feature · code `INK:ribbon-feed`*
 
 Ribbon feed mechanism (pawl
 
-**830 patents**, 1868–1950. Often together with: [INK:ribbon](../features/ink-ribbon.md) (593), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (411), [ELEM:typebar](../features/elem-typebar.md) (236), [ESC:pawl-rack](../features/esc-pawl-rack.md) (183), [ESC:spring-drum](../features/esc-spring-drum.md) (182), [PAP:platen-roller](../features/pap-platen-roller.md) (153), [SEL:keyboard-full](../features/sel-keyboard-full.md) (152), [INK:ribbon-lift](../features/ink-ribbon-lift.md) (139)
+**831 patents**, 1868–1950. Often together with: [Ink ribbon](../features/ink-ribbon.md) (593), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (411), [Typebars](../features/elem-typebar.md) (236), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (183), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (182), [Roller platen](../features/pap-platen-roller.md) (153), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (152), [Ribbon lift](../features/ink-ribbon-lift.md) (139)
 
 **Machines:** [L. C. Smith 7](../machines/l-c-smith-7.md) (4), [Caligraph 2](../machines/caligraph-2.md) (3), [Caligraph 3](../machines/caligraph-3.md) (3), [Caligraph 4](../machines/caligraph-4.md) (3), [Caligraph 5](../machines/caligraph-5.md) (3), [Caligraph 6, 7](../machines/caligraph-6-7.md) (3), [Chicago 2](../machines/chicago-2.md) (3), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (3), [Remington Portable 3](../machines/remington-portable-3.md) (3), [Remington Port. Tab](../machines/remington-port-tab.md) (3), [National](../machines/national.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2)
 
@@ -391,6 +393,7 @@ Ribbon feed mechanism (pawl
 | [US827704](../patents/US827704.md) | 1906 | Briggs, Herbert A. | The ribbon-feed is disengaged during the reverse platen movement and the ribbon feed direction is reversible, using ribbon spools mounted and driven through a gear-engaging mechanism. |
 | [US827942](../patents/US827942.md) | 1906 | Sanderson, Homer A. | A shaft slides endwise to swap bevel gear pairs driving the two spools, held in each position by a yielding detent; a pawl on a ratchet wheel drives the shaft from each type stroke. |
 | [US828548](../patents/US828548.md) | 1906 | Helmond, William F. | The driving shaft itself supplies the power to shift, via crown-toothed wheels and a pivoted shifter arm released by an obstruction on the ribbon. |
+| [DE220357](../patents/DE220357.md) | 1906 |  | A curved rod links the ribbon drive shafts on both sides of the machine instead of a guided slide, and a locking device holds the inactive ribbon spools still. |
 | [US831935](../patents/US831935.md) | 1906 | Cook, Frank A. | A drive shaft slides endwise between two spool shafts, cammed over by a ratchet that a pawl arrests when the ribbon end trips a finger. |
 | [US831951](../patents/US831951.md) | 1906 | Helmond - Cook, William F. - Frank A. | A ribbon-end arm tensions a spring against the drive shaft; a latch releases when tension is sufficient and the spring snaps the shaft over. |
 | [US833287](../patents/US833287.md) | 1906 | Alexander, Jesse | Spools slip onto square-ended ribbon shafts carried by hinged levers with centring pins, with reversing feed. |

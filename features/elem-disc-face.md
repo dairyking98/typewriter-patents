@@ -1,8 +1,10 @@
-# ELEM:disc-face
+# Type disc (types on the face)
+
+*Type element feature · code `ELEM:disc-face`*
 
 Types on the face of a disc (face perpendicular to axis)
 
-**121 patents**, 1858–1948. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (43), [ESC:print-and-space](../features/esc-print-and-space.md) (38), [IMP:element-to-platen](../features/imp-element-to-platen.md) (33), [SEL:selector-locking](../features/sel-selector-locking.md) (31), [IMP:press-through](../features/imp-press-through.md) (28), [FRM:few-parts](../features/frm-few-parts.md) (28), [PAP:platen-roller](../features/pap-platen-roller.md) (28), [IMP:print-lever](../features/imp-print-lever.md) (26)
+**121 patents**, 1858–1948. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (43), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (38), [Element struck to the platen](../features/imp-element-to-platen.md) (33), [Selection locked for printing](../features/sel-selector-locking.md) (31), [Hand presses the type through](../features/imp-press-through.md) (28), [Few parts, low cost](../features/frm-few-parts.md) (28), [Roller platen](../features/pap-platen-roller.md) (28), [Separate print key or lever](../features/imp-print-lever.md) (26)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (1), [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1), [Blickensderfer 4](../machines/blickensderfer-4.md) (1), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (1), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (1), [Blickensderfer 7](../machines/blickensderfer-7.md) (1), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (1), [Dactyle](../machines/dactyle.md) (1), [Mercury 3](../machines/mercury-3.md) (1), [Postal 5](../machines/postal-5.md) (1), [Moya Visible 1](../machines/moya-visible-1.md) (1), [Moya Visible 2](../machines/moya-visible-2.md) (1), [Bennett](../machines/bennett.md) (1)
 

@@ -4,138 +4,138 @@ Every mechanism feature seen on at least 3 reading cards, grouped by subsystem. 
 
 *Counts are over the patents that were read (reading cards), not every patent ever granted; "first seen" is the oldest card in the library, not necessarily the invention.*
 
-## Selection / index (SEL) · [timeline](sel.md)
+## Selection · [all its patents](sel.md)
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [SEL:keyboard-full](../features/sel-keyboard-full.md) | One key per character (typebar-style keyboard) | 1424 | 6 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▂█▆▅▂▂▁▁` |  |
-| [SEL:selector-locking](../features/sel-selector-locking.md) | Detent or locking that holds the selected position during printing | 628 | 58 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁▁▁▃█▅▃▄▃▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [SEL:differential-drive](../features/sel-differential-drive.md) | Keys or levers drive the carrier through differential gearing or racks to a position | 274 | 9 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁ ▂█▄▂▂▂▁▁` |  |
-| [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) | Small keyboard where each key picks a position and shift keys pick the row | 205 | 1 | 1850 [US7652](../patents/US7652.md) | 1890s | `   ▁▁▁▄█▇▃▂▃▁▁` |  |
-| [SEL:pointer-chart](../features/sel-pointer-chart.md) | Pointer or stylus moved over a flat character chart; a separate key or lever prints | 170 | 48 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▆█▂▁▃▁  ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md), [Gerda 2](../machines/gerda-2.md) |
-| [SEL:linear-slider](../features/sel-linear-slider.md) | Slider or carriage moved along a straight index | 122 | 15 | 1845 [US4271](../patents/US4271.md) | 1890s | `  ▁▁ ▁▆█▃▂▂▁▁ ` |  |
-| [SEL:pointer-hole](../features/sel-pointer-hole.md) | Pointer dropped into a hole or notch for each character; locates the carrier | 112 | 24 | 1852 [US8980](../patents/US8980.md) | 1880s | `   ▁ ▁██▁▁▂▁▁ ` |  |
-| [SEL:pointer-press-prints](../features/sel-pointer-press-prints.md) | Pressing the pointer itself prints (select and print in one motion) | 85 | 16 | 1852 [US8980](../patents/US8980.md) | 1880s | `   ▁ ▁█▆▂▁▁▁  ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [SEL:dial](../features/sel-dial.md) | Dial or knob turned to the character; carrier coupled rotationally | 84 | 22 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁▁▂▆█▄▂▂▁▁ ` |  |
-| [SEL:dummy-keyboard](../features/sel-dummy-keyboard.md) | Keys that only set the carrier position (index by keys); one print action | 80 | 2 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁ ▂█▆▁▂▁▁ ` |  |
-| [SEL:arc-arm](../features/sel-arc-arm.md) | Arm swung over an arc or semicircular scale to choose the character | 62 | 21 | 1871 [US115287](../patents/US115287.md) | 1890s | `     ▁▆█▂▁▂▁  ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
-| [SEL:chart-interchangeable](../features/sel-chart-interchangeable.md) | Index chart or scale swapped with the element for other fonts or languages | 58 | 13 | 1880 [US232741](../patents/US232741.md) | 1880s | `      █▆▆▂▂▄▁ ` |  |
-| [SEL:index-wheel](../features/sel-index-wheel.md) | Hand wheel carrying the characters turned directly (the element is the index) | 51 | 15 | 1843 [US3228](../patents/US3228.md) | 1880s | `  ▁▁▁▁██▂▂▁▁  ` |  |
-| [SEL:stylus-plate](../features/sel-stylus-plate.md) | Stylus touched to a plate or balance-beam letter field | 7 | 0 | 1879 [US220356](../patents/US220356.md) | 1880s | `     ▄█▄  █▄  ` |  |
+| [Full keyboard, a key per character](../features/sel-keyboard-full.md) | One key per character (typebar-style keyboard) | 1431 | 6 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▂█▆▅▂▂▁▁` |  |
+| [Selection locked for printing](../features/sel-selector-locking.md) | Detent or locking that holds the selected position during printing | 647 | 58 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁▁▁▃█▅▃▄▃▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Keys drive the element by racks or gears](../features/sel-differential-drive.md) | Keys or levers drive the carrier through differential gearing or racks to a position | 278 | 9 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁ ▂█▄▂▂▂▁▁` |  |
+| [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) | Small keyboard where each key picks a position and shift keys pick the row | 208 | 1 | 1850 [US7652](../patents/US7652.md) | 1890s | `   ▁▁▁▄█▇▃▂▃▁▁` |  |
+| [Pointer over a chart](../features/sel-pointer-chart.md) | Pointer or stylus moved over a flat character chart; a separate key or lever prints | 170 | 48 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▆█▂▁▃▁  ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md), [Gerda 2](../machines/gerda-2.md) |
+| [Slider along a straight index](../features/sel-linear-slider.md) | Slider or carriage moved along a straight index | 126 | 15 | 1845 [US4271](../patents/US4271.md) | 1890s | `  ▁▁ ▁▆█▃▂▂▂▁▁` |  |
+| [Pointer into a hole or notch](../features/sel-pointer-hole.md) | Pointer dropped into a hole or notch for each character; locates the carrier | 112 | 24 | 1852 [US8980](../patents/US8980.md) | 1880s | `   ▁ ▁██▁▁▂▁▁ ` |  |
+| [Dial or knob](../features/sel-dial.md) | Dial or knob turned to the character; carrier coupled rotationally | 85 | 22 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁▁▂▆█▄▂▂▁▁ ` |  |
+| [Press the pointer to print](../features/sel-pointer-press-prints.md) | Pressing the pointer itself prints (select and print in one motion) | 85 | 16 | 1852 [US8980](../patents/US8980.md) | 1880s | `   ▁ ▁█▆▂▁▁▁  ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Keys that only set the element](../features/sel-dummy-keyboard.md) | Keys that only set the carrier position (index by keys); one print action | 80 | 2 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁ ▂█▆▁▂▁▁ ` |  |
+| [Arm swung over an arc](../features/sel-arc-arm.md) | Arm swung over an arc or semicircular scale to choose the character | 62 | 21 | 1871 [US115287](../patents/US115287.md) | 1890s | `     ▁▆█▂▁▂▁  ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
+| [Interchangeable chart](../features/sel-chart-interchangeable.md) | Index chart or scale swapped with the element for other fonts or languages | 59 | 13 | 1880 [US232741](../patents/US232741.md) | 1880s | `      █▆▆▂▂▄▁ ` |  |
+| [Hand-turned type wheel](../features/sel-index-wheel.md) | Hand wheel carrying the characters turned directly (the element is the index) | 52 | 15 | 1843 [US3228](../patents/US3228.md) | 1880s | `  ▁▁▁▁██▂▂▁▁▁ ` |  |
+| [Stylus on a letter plate](../features/sel-stylus-plate.md) | Stylus touched to a plate or balance-beam letter field | 7 | 0 | 1879 [US220356](../patents/US220356.md) | 1880s | `     ▄█▄  █▄  ` |  |
 
-## Type element (ELEM) · [timeline](elem.md)
-
-| Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
-|---|---|---|---|---|---|---|---|
-| [ELEM:typebar](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 2279 | 9 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁▁▁▁▆█▆▃▂▁▁` |  |
-| [ELEM:wheel-rim](../features/elem-wheel-rim.md) | Types on the rim of a wheel (face parallel to axis) | 436 | 49 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▂▂▃▂▁` | [Gerda 2](../machines/gerda-2.md) |
-| [ELEM:alignment-lock](../features/elem-alignment-lock.md) | Locking pin or tooth that aligns the type exactly at the print point | 336 | 28 | 1856 [US14919](../patents/US14919.md) | 1890s | `   ▁ ▁▂█▅▂▂▂▁▁` | [American Index](../machines/american-index.md) |
-| [ELEM:interchangeable](../features/elem-interchangeable.md) | Element made to be removed and replaced (fonts or languages) | 264 | 19 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▅█▇▄▅▃▁ ` |  |
-| [ELEM:individual-slugs](../features/elem-individual-slugs.md) | Separate type slugs or plungers selected and driven individually | 260 | 11 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▂▄█▄▁▂▃▁▁` |  |
-| [ELEM:element-construction](../features/elem-element-construction.md) | How the element itself is made or assembled | 250 | 6 | 1863 [US39296](../patents/US39296.md) | 1900s | `    ▁▁▃▅█▅▅█▅▁` |  |
-| [ELEM:cylinder-multirow](../features/elem-cylinder-multirow.md) | Type cylinder with several rows along its length | 204 | 8 | 1875 [US169757](../patents/US169757.md) | 1890s | `     ▁▃█▅▃▄▄▁ ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [ELEM:sector-segment](../features/elem-sector-segment.md) | Curved type sector or segment (e.g. Hammond shuttle) | 172 | 14 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▃█▆▄▂▁▁▁` | [American Index](../machines/american-index.md) |
-| [ELEM:rubber-type](../features/elem-rubber-type.md) | Elastic or rubber types | 126 | 25 | 1879 [US217444](../patents/US217444.md) | 1890s | `     ▁▄█▁▁▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ELEM:disc-face](../features/elem-disc-face.md) | Types on the face of a disc (face perpendicular to axis) | 121 | 15 | 1858 [US20081](../patents/US20081.md) | 1890s | `   ▁▁▁▄█▃▁▁▁▁ ` |  |
-| [ELEM:plate-flat](../features/elem-plate-flat.md) | Flat type plate or matrix of characters | 116 | 10 | 1850 [US7771](../patents/US7771.md) | 1890s | `   ▁▁▁▄█▁▁▂▂▂▁` |  |
-| [ELEM:metal-type](../features/elem-metal-type.md) | Metal types (cast or stamped) | 94 | 8 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▆█▂▂▃▂▁ ` |  |
-| [ELEM:hub-keying](../features/elem-hub-keying.md) | How the element mounts and keys to its shaft or hub | 71 | 2 | 1875 [US171408](../patents/US171408.md) | 1900s | `     ▁▃▆█▃▃▂▃ ` |  |
-| [ELEM:linear-bar](../features/elem-linear-bar.md) | Types along a straight bar or rule | 59 | 5 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▇█▄▁▄▅▁▁` |  |
-| [ELEM:ring](../features/elem-ring.md) | Types on a ring or annulus | 56 | 5 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▄█▁▁▁▁▁ ` |  |
-| [ELEM:band](../features/elem-band.md) | Flexible type band or belt | 33 | 3 | 1886 [US347373](../patents/US347373.md) | 1930s | `      ▂▆▇▁▆█▂▁` |  |
-| [ELEM:sphere](../features/elem-sphere.md) | Types on a sphere or hemisphere | 15 | 0 | 1872 [US125952](../patents/US125952.md) | 1870s | `     █▆▄▆▆    ` |  |
-
-## Shift (SHIFT) · [timeline](shift.md)
+## Type element · [all its patents](elem.md)
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [SHIFT:platen](../features/shift-platen.md) | Platen or carriage moves to change case | 707 | 7 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▅██▂▁▁▁` |  |
-| [SHIFT:triple](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 342 | 3 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▄▃▂▁▁ ` |  |
-| [SHIFT:axial](../features/shift-axial.md) | Element slides along its axis to change case or row | 322 | 11 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▅▂▂▂▁▁` |  |
-| [SHIFT:lock](../features/shift-lock.md) | Shift lock | 186 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁██▆▂▁▁▁` |  |
-| [SHIFT:rotary](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 133 | 13 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▄█▄▂▁▁▁ ` |  |
+| [Typebars](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 2296 | 9 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁▁▁▁▆█▆▃▂▁▁` |  |
+| [Type wheel (types on the rim)](../features/elem-wheel-rim.md) | Types on the rim of a wheel (face parallel to axis) | 440 | 49 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▂▂▃▂▁` | [Gerda 2](../machines/gerda-2.md) |
+| [Alignment lock at the print point](../features/elem-alignment-lock.md) | Locking pin or tooth that aligns the type exactly at the print point | 339 | 28 | 1856 [US14919](../patents/US14919.md) | 1890s | `   ▁ ▁▂█▅▂▂▂▁▁` | [American Index](../machines/american-index.md) |
+| [How the element is made](../features/elem-element-construction.md) | How the element itself is made or assembled | 274 | 6 | 1863 [US39296](../patents/US39296.md) | 1900s | `    ▁▁▄▅█▅▆▇▆▁` |  |
+| [Separate type slugs or plungers](../features/elem-individual-slugs.md) | Separate type slugs or plungers selected and driven individually | 267 | 11 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▂▄█▄▁▂▃▁▁` |  |
+| [Interchangeable element](../features/elem-interchangeable.md) | Element made to be removed and replaced (fonts or languages) | 267 | 19 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▅█▇▄▅▃▁ ` |  |
+| [Multi-row type cylinder](../features/elem-cylinder-multirow.md) | Type cylinder with several rows along its length | 204 | 8 | 1875 [US169757](../patents/US169757.md) | 1890s | `     ▁▃█▅▃▄▄▁ ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Type sector or segment](../features/elem-sector-segment.md) | Curved type sector or segment (e.g. Hammond shuttle) | 173 | 14 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▃█▇▄▂▁▁▁` | [American Index](../machines/american-index.md) |
+| [Rubber type](../features/elem-rubber-type.md) | Elastic or rubber types | 130 | 25 | 1872 [US125787](../patents/US125787.md) | 1890s | `     ▁▄█▁▁▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [Type disc (types on the face)](../features/elem-disc-face.md) | Types on the face of a disc (face perpendicular to axis) | 121 | 15 | 1858 [US20081](../patents/US20081.md) | 1890s | `   ▁▁▁▄█▃▁▁▁▁ ` |  |
+| [Flat type plate](../features/elem-plate-flat.md) | Flat type plate or matrix of characters | 118 | 10 | 1850 [US7771](../patents/US7771.md) | 1890s | `   ▁▁▁▄█▁▁▂▂▂▁` |  |
+| [Metal type](../features/elem-metal-type.md) | Metal types (cast or stamped) | 94 | 8 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▆█▂▂▃▂▁ ` |  |
+| [Element mounting on its hub](../features/elem-hub-keying.md) | How the element mounts and keys to its shaft or hub | 75 | 2 | 1875 [US171408](../patents/US171408.md) | 1900s | `     ▁▃▆█▃▅▂▃ ` |  |
+| [Straight type bar or rule](../features/elem-linear-bar.md) | Types along a straight bar or rule | 59 | 5 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▇█▄▁▄▅▁▁` |  |
+| [Type ring](../features/elem-ring.md) | Types on a ring or annulus | 57 | 5 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▄█▁▁▁▁▁ ` |  |
+| [Flexible type band](../features/elem-band.md) | Flexible type band or belt | 37 | 3 | 1886 [US347373](../patents/US347373.md) | 1920s | `      ▂▅▆▁█▇▂▂` |  |
+| [Type sphere](../features/elem-sphere.md) | Types on a sphere or hemisphere | 15 | 0 | 1872 [US125952](../patents/US125952.md) | 1870s | `     █▆▄▆▆    ` |  |
 
-## Impression (IMP) · [timeline](imp.md)
-
-| Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
-|---|---|---|---|---|---|---|---|
-| [IMP:element-to-platen](../features/imp-element-to-platen.md) | The element swings or moves to the platen to print | 904 | 48 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▃█▇▅▂▂▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md), [Gerda 2](../machines/gerda-2.md) |
-| [IMP:print-lever](../features/imp-print-lever.md) | A separate print key or lever performs the impression | 344 | 34 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▄█▆▃▅▄▁ ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
-| [IMP:electric](../features/imp-electric.md) | Electric or magnetic drive of the impression | 341 | 3 | 1872 [US125952](../patents/US125952.md) | 1900s | `     ▁▂▆█▆▇█▃▁` |  |
-| [IMP:press-through](../features/imp-press-through.md) | The operator's force presses the type through directly | 257 | 32 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▆█▂▁▁▁▁ ` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [IMP:hammer-behind](../features/imp-hammer-behind.md) | A hammer strikes from behind the paper into the type | 235 | 8 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▂█▅▂▂▁▁▁` |  |
-| [IMP:spring-energy](../features/imp-spring-energy.md) | Impression by a spring cocked and released (force independent of the hand) | 216 | 3 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▄█▅▄▄▆▂▁` |  |
-| [IMP:impression-adjust](../features/imp-impression-adjust.md) | Adjustment of impression force or depth | 199 | 9 | 1866 [US57182](../patents/US57182.md) | 1890s | `    ▁▁▄█▅▆▃▂▂▁` |  |
-| [IMP:anvil-backing](../features/imp-anvil-backing.md) | Backing | 174 | 15 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▃█▄▃▂▂▁ ` |  |
-| [IMP:platen-to-element](../features/imp-platen-to-element.md) | The platen or paper moves into a stationary element | 123 | 13 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁ ▁▃█▁▁▁▂▁ ` |  |
-
-## Inking (INK) · [timeline](ink.md)
+## Shift and cases · [all its patents](shift.md)
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [INK:ribbon](../features/ink-ribbon.md) | Ribbon between type and paper | 1166 | 20 | 1867 [US65807](../patents/US65807.md) | 1900s | `    ▁▁▂▇█▆▃▃▁▁` |  |
-| [INK:ribbon-feed](../features/ink-ribbon-feed.md) | Ribbon feed mechanism (pawl | 830 | 10 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▂█▇▆▃▂▁▁` |  |
-| [INK:ribbon-lift](../features/ink-ribbon-lift.md) | Ribbon lift or vibrator to the print point | 449 | 1 | 1880 [US224183](../patents/US224183.md) | 1900s | `      ▁▂█▇▂▁▁▁` |  |
-| [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) | Automatic ribbon reversing | 441 | 3 | 1871 [US118491](../patents/US118491.md) | 1900s | `     ▁▂▇█▇▃▂▁▁` |  |
-| [INK:ribbon-color](../features/ink-ribbon-color.md) | Two-colour ribbon change | 272 | 3 | 1880 [US229707](../patents/US229707.md) | 1900s | `      ▁▁█▆▂▁▁▁` |  |
-| [INK:pad](../features/ink-pad.md) | Felt or ink pad inking the type | 271 | 27 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁ ▁▄█▃▁▁▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [INK:roller](../features/ink-roller.md) | Ink roller touching the type | 266 | 30 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁ ▁▅█▄▁▂▂▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [INK:carbon](../features/ink-carbon.md) | Carbon paper or inked strip instead of ribbon | 147 | 0 | 1856 [US15164](../patents/US15164.md) | 1930s | `   ▁▁▁▁▁▆▆▂█▃ ` |  |
-| [INK:disc](../features/ink-disc.md) | Ink disc | 18 | 2 | 1885 [DE33343](../patents/DE33343.md) | 1880s | `      █▅▂  ▃▂ ` |  |
+| [Shift by moving the platen](../features/shift-platen.md) | Platen or carriage moves to change case | 709 | 7 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▅██▃▁▁▁` |  |
+| [Three or more cases](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 342 | 3 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▄▃▂▁▁ ` |  |
+| [Shift by sliding the element](../features/shift-axial.md) | Element slides along its axis to change case or row | 322 | 11 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▅▂▂▂▁▁` |  |
+| [Shift lock](../features/shift-lock.md) | Shift lock | 186 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁██▆▂▁▁▁` |  |
+| [Shift by turning the element](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 133 | 13 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▄█▄▂▁▁▁ ` |  |
 
-## Escapement / carriage (ESC) · [timeline](esc.md)
+## Impression · [all its patents](imp.md)
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [ESC:pawl-rack](../features/esc-pawl-rack.md) | Escapement by pawl or dogs on a rack | 1401 | 64 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁ ▁▁▃█▅▄▂▁▁▁` | [American Index](../machines/american-index.md) |
-| [ESC:spring-drum](../features/esc-spring-drum.md) | Carriage pulled by a mainspring or drum | 762 | 9 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▂█▆▅▁▁▁ ` |  |
-| [ESC:tabulator](../features/esc-tabulator.md) | Tabulator | 619 | 6 | 1890 [US436916](../patents/US436916.md) | 1910s | `       ▁▇█▂▂▁ ` |  |
-| [ESC:margin-stop](../features/esc-margin-stop.md) | Margin stops or line lock | 559 | 14 | 1867 [US65807](../patents/US65807.md) | 1910s | `    ▁▁▁▆██▃▂▁▁` |  |
-| [ESC:space-key](../features/esc-space-key.md) | Separate space key or bar | 547 | 29 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▃█▄▂▁▁▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [ESC:carriage-release](../features/esc-carriage-release.md) | Carriage release | 524 | 19 | 1875 [US170233](../patents/US170233.md) | 1900s | `     ▁▂▇█▅▁▂▁ ` | [American Index](../machines/american-index.md) |
-| [ESC:print-and-space](../features/esc-print-and-space.md) | The single print action also spaces the carriage | 504 | 57 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁ ▁▁▁▁▅█▄▁▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ESC:carriage-return](../features/esc-carriage-return.md) | Carriage return lever or mechanism (often with line space) | 468 | 9 | 1852 [US8980](../patents/US8980.md) | 1900s | `   ▁▁▁▃▇█▇▃▃▂▁` |  |
-| [ESC:escape-wheel](../features/esc-escape-wheel.md) | Escape wheel or star wheel escapement with fixed and loose dogs | 468 | 2 | 1868 [US79868](../patents/US79868.md) | 1900s | `    ▁▁▂▄█▇▂▂▁▁` |  |
-| [ESC:variable-spacing](../features/esc-variable-spacing.md) | Proportional or variable letter spacing | 330 | 7 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▃▃▂▁ ` |  |
-| [ESC:bell](../features/esc-bell.md) | Bell near the line end | 253 | 15 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▂█▃▂▁▁  ` |  |
-| [ESC:moving-print-head](../features/esc-moving-print-head.md) | The print head moves along a fixed paper carriage | 150 | 20 | 1872 [US133841](../patents/US133841.md) | 1890s | `     ▁▃█▄▂▁▁▁▁` |  |
-| [ESC:backspace](../features/esc-backspace.md) | Backspace | 97 | 1 | 1884 [US309272](../patents/US309272.md) | 1900s | `      ▁▂█▇▂▂▁ ` |  |
+| [Element struck to the platen](../features/imp-element-to-platen.md) | The element swings or moves to the platen to print | 905 | 48 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▃█▇▅▂▂▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md), [Gerda 2](../machines/gerda-2.md) |
+| [Electric drive](../features/imp-electric.md) | Electric or magnetic drive of the impression | 353 | 3 | 1872 [US125952](../patents/US125952.md) | 1900s | `     ▁▂▆█▅██▃▁` |  |
+| [Separate print key or lever](../features/imp-print-lever.md) | A separate print key or lever performs the impression | 347 | 34 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▄█▆▃▅▄▁ ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
+| [Hand presses the type through](../features/imp-press-through.md) | The operator's force presses the type through directly | 260 | 32 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▆█▂▁▁▁▁ ` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Hammer behind the paper](../features/imp-hammer-behind.md) | A hammer strikes from behind the paper into the type | 236 | 8 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▂█▅▂▂▁▁▁` |  |
+| [Spring-powered blow](../features/imp-spring-energy.md) | Impression by a spring cocked and released (force independent of the hand) | 221 | 3 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▄█▅▄▅▆▃▁` |  |
+| [Impression adjustment](../features/imp-impression-adjust.md) | Adjustment of impression force or depth | 200 | 9 | 1866 [US57182](../patents/US57182.md) | 1890s | `    ▁▁▄█▅▆▃▂▂▁` |  |
+| [Backing or anvil behind the paper](../features/imp-anvil-backing.md) | Backing | 175 | 15 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▃█▄▃▂▂▁ ` |  |
+| [Platen pressed to the element](../features/imp-platen-to-element.md) | The platen or paper moves into a stationary element | 124 | 13 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁ ▁▃█▁▁▁▂▁ ` |  |
 
-## Paper handling (PAP) · [timeline](pap.md)
+## Inking · [all its patents](ink.md)
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [PAP:platen-roller](../features/pap-platen-roller.md) | Roller platen | 1746 | 61 | 1852 [US8980](../patents/US8980.md) | 1900s | `   ▁ ▁▂▇██▃▂▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [PAP:paper-guide](../features/pap-paper-guide.md) | Paper table | 1336 | 15 | 1868 [US79265](../patents/US79265.md) | 1910s | `    ▁▁▂▄▇█▄▅▂▁` |  |
-| [PAP:line-space](../features/pap-line-space.md) | Line-space ratchet and pawl | 1126 | 52 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▃█▇█▃▂▁▁` | [American Index](../machines/american-index.md) |
-| [PAP:feed-rollers](../features/pap-feed-rollers.md) | Feed rollers and paper release | 914 | 29 | 1856 [US14907](../patents/US14907.md) | 1910s | `   ▁ ▁▂▆▆█▃▄▂▁` | [American Index](../machines/american-index.md) |
-| [PAP:line-indicator](../features/pap-line-indicator.md) | Line or point indicator and scale | 497 | 64 | 1829 [USX5581](../patents/USX5581.md) | 1900s | `▁    ▁▂▇█▇▂▃▁▁` |  |
-| [PAP:flat-bed](../features/pap-flat-bed.md) | Flat paper bed or the machine travelling over the paper or a book | 370 | 23 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁▁▁▁▃▇█▂▁▂▁ ` |  |
-| [PAP:manifold](../features/pap-manifold.md) | Carbon copies or manifolding emphasis | 271 | 5 | 1867 [US65807](../patents/US65807.md) | 1910s | `    ▁▁▁▅▇█▃▄▁ ` |  |
+| [Ink ribbon](../features/ink-ribbon.md) | Ribbon between type and paper | 1168 | 20 | 1867 [US65807](../patents/US65807.md) | 1900s | `    ▁▁▂▇█▆▃▃▁▁` |  |
+| [Ribbon feed](../features/ink-ribbon-feed.md) | Ribbon feed mechanism (pawl | 831 | 10 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▂█▇▆▃▂▁▁` |  |
+| [Ribbon lift](../features/ink-ribbon-lift.md) | Ribbon lift or vibrator to the print point | 450 | 1 | 1880 [US224183](../patents/US224183.md) | 1900s | `      ▁▂█▇▂▁▁▁` |  |
+| [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) | Automatic ribbon reversing | 441 | 3 | 1871 [US118491](../patents/US118491.md) | 1900s | `     ▁▂▇█▇▃▂▁▁` |  |
+| [Two-colour ribbon](../features/ink-ribbon-color.md) | Two-colour ribbon change | 274 | 3 | 1880 [US229707](../patents/US229707.md) | 1900s | `      ▁▁█▆▂▁▁▁` |  |
+| [Ink pad](../features/ink-pad.md) | Felt or ink pad inking the type | 273 | 27 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁ ▁▄█▃▁▁▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Ink roller](../features/ink-roller.md) | Ink roller touching the type | 267 | 30 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁ ▁▅█▄▁▂▂▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Carbon paper or inked strip](../features/ink-carbon.md) | Carbon paper or inked strip instead of ribbon | 150 | 0 | 1856 [US15164](../patents/US15164.md) | 1930s | `   ▁▁▁▁▁▆▆▂█▃ ` |  |
+| [Ink disc](../features/ink-disc.md) | Ink disc | 19 | 2 | 1885 [DE33343](../patents/DE33343.md) | 1880s | `      █▅▂▁ ▃▂ ` |  |
 
-## Frame (FRM) · [timeline](frm.md)
-
-| Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
-|---|---|---|---|---|---|---|---|
-| [FRM:adjustment-wear](../features/frm-adjustment-wear.md) | Adjustment or wear take-up provisions | 1086 | 28 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁ ▁▁▂▇█▆▃▂▁▁` | [American Index](../machines/american-index.md) |
-| [FRM:few-parts](../features/frm-few-parts.md) | Explicit aim of few parts | 792 | 40 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▃█▆▄▄▄▂▁` | [Gerda 2](../machines/gerda-2.md) |
-| [FRM:writing-visible](../features/frm-writing-visible.md) | Writing visible to the operator while typing | 645 | 28 | 1876 [US175584](../patents/US175584.md) | 1900s | `     ▁▂▆█▄▂▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [FRM:frame-construction](../features/frm-frame-construction.md) | Frame or casing construction (cast | 448 | 1 | 1845 [US4271](../patents/US4271.md) | 1920s | `  ▁▁  ▁▄▆▆█▄▂▁` |  |
-| [FRM:cleaning-access](../features/frm-cleaning-access.md) | Access for cleaning or element removal | 445 | 11 | 1876 [US183905](../patents/US183905.md) | 1890s | `     ▁▂█▇▅▅▃▁▁` |  |
-| [FRM:compact-portable](../features/frm-compact-portable.md) | Small | 393 | 19 | 1863 [US39296](../patents/US39296.md) | 1920s | `    ▁▁▁▅▄▅█▅▃▁` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
-| [FRM:cover-enclosure](../features/frm-cover-enclosure.md) | Cover or enclosure of the mechanism | 250 | 6 | 1870 [US109161](../patents/US109161.md) | 1900s | `     ▁▂▄█▄▇▆▄ ` |  |
-
-## Purpose (USE) · [timeline](use.md)
+## Spacing and escapement · [all its patents](esc.md)
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 1004 | 41 | 1875 [US171139](../patents/US171139.md) | 1900s | `     ▁▂▇█▆▄▄▁▁` |  |
-| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 561 | 4 | 1890 [US441232](../patents/US441232.md) | 1930s | `       ▁▁▂▇█▄▁` |  |
-| [USE:book-typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 168 | 6 | 1881 [DE16716](../patents/DE16716.md) | 1900s | `      ▁▆█▂▁▁▁ ` |  |
-| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 130 | 2 | 1879 [US217210](../patents/US217210.md) | 1900s | `     ▁▂▃█▇▆▅▂ ` |  |
-| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 125 | 1 | 1872 [US133841](../patents/US133841.md) | 1930s | `     ▁▂▃▅▃▄█▆▁` |  |
-| [USE:check-writer](../features/use-check-writer.md) | Check writer or amount printer | 97 | 0 | 1886 [US334264](../patents/US334264.md) | 1890s | `      ▁█▄▃▄▅▁▁` |  |
-| [USE:stenotype](../features/use-stenotype.md) | Shorthand or stenographic machine | 96 | 2 | 1868 [US81000](../patents/US81000.md) | 1910s | `    ▁▃▅▄▅█▃▇ ▁` |  |
-| [USE:blind](../features/use-blind.md) | For the blind (embossing | 55 | 0 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁▁ ▁▃▆█▂▅▃▂ ` |  |
-| [USE:toy](../features/use-toy.md) | Toy or educational machine | 38 | 3 | 1876 [US175661](../patents/US175661.md) | 1900s | `     ▁▃▅█▃▄▇▂▁` |  |
+| [Pawl-and-rack escapement](../features/esc-pawl-rack.md) | Escapement by pawl or dogs on a rack | 1417 | 64 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁ ▁▁▃█▅▄▂▁▁▁` | [American Index](../machines/american-index.md) |
+| [Mainspring-drawn carriage](../features/esc-spring-drum.md) | Carriage pulled by a mainspring or drum | 772 | 9 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▂█▆▅▂▁▁ ` |  |
+| [Tabulator](../features/esc-tabulator.md) | Tabulator | 626 | 6 | 1890 [US436916](../patents/US436916.md) | 1910s | `       ▁▇█▂▂▁ ` |  |
+| [Margin stops](../features/esc-margin-stop.md) | Margin stops or line lock | 570 | 14 | 1867 [US65807](../patents/US65807.md) | 1910s | `    ▁▁▁▆██▃▂▁▁` |  |
+| [Space key or bar](../features/esc-space-key.md) | Separate space key or bar | 549 | 29 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▃█▄▂▁▁▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Carriage release](../features/esc-carriage-release.md) | Carriage release | 530 | 19 | 1875 [US170233](../patents/US170233.md) | 1900s | `     ▁▂▇█▅▁▂▁ ` | [American Index](../machines/american-index.md) |
+| [Prints and spaces in one stroke](../features/esc-print-and-space.md) | The single print action also spaces the carriage | 507 | 57 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁ ▁▁▁▁▅█▄▁▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [Escape-wheel escapement](../features/esc-escape-wheel.md) | Escape wheel or star wheel escapement with fixed and loose dogs | 482 | 2 | 1868 [US79868](../patents/US79868.md) | 1900s | `    ▁▁▂▄██▂▂▁▁` |  |
+| [Carriage return](../features/esc-carriage-return.md) | Carriage return lever or mechanism (often with line space) | 476 | 9 | 1852 [US8980](../patents/US8980.md) | 1900s | `   ▁▁▁▃██▇▃▃▂▁` |  |
+| [Proportional spacing](../features/esc-variable-spacing.md) | Proportional or variable letter spacing | 339 | 7 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▃▃▂▁ ` |  |
+| [Line-end bell](../features/esc-bell.md) | Bell near the line end | 255 | 15 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▂█▃▂▁▁  ` |  |
+| [Moving print head](../features/esc-moving-print-head.md) | The print head moves along a fixed paper carriage | 152 | 20 | 1872 [US133841](../patents/US133841.md) | 1890s | `     ▁▃█▄▂▁▁▁▁` |  |
+| [Backspace](../features/esc-backspace.md) | Backspace | 99 | 1 | 1884 [US309272](../patents/US309272.md) | 1900s | `      ▁▂█▇▂▂▁ ` |  |
+
+## Paper and carriage · [all its patents](pap.md)
+
+| Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
+|---|---|---|---|---|---|---|---|
+| [Roller platen](../features/pap-platen-roller.md) | Roller platen | 1762 | 61 | 1852 [US8980](../patents/US8980.md) | 1900s | `   ▁ ▁▂▇██▃▂▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Paper table and guides](../features/pap-paper-guide.md) | Paper table | 1359 | 15 | 1868 [US79265](../patents/US79265.md) | 1910s | `    ▁▁▂▄▇█▄▅▃▁` |  |
+| [Line spacing](../features/pap-line-space.md) | Line-space ratchet and pawl | 1134 | 52 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▃█▇█▃▂▁▁` | [American Index](../machines/american-index.md) |
+| [Feed rollers and paper release](../features/pap-feed-rollers.md) | Feed rollers and paper release | 927 | 29 | 1856 [US14907](../patents/US14907.md) | 1910s | `   ▁ ▁▂▆▆█▃▄▂▁` | [American Index](../machines/american-index.md) |
+| [Line and point indicator](../features/pap-line-indicator.md) | Line or point indicator and scale | 501 | 64 | 1829 [USX5581](../patents/USX5581.md) | 1900s | `▁    ▁▂▆█▇▂▃▁▁` |  |
+| [Flat bed or book typewriter](../features/pap-flat-bed.md) | Flat paper bed or the machine travelling over the paper or a book | 371 | 23 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁▁▁▁▃▇█▂▁▂▁ ` |  |
+| [Carbon copies](../features/pap-manifold.md) | Carbon copies or manifolding emphasis | 274 | 5 | 1867 [US65807](../patents/US65807.md) | 1910s | `    ▁▁▁▅▇█▃▄▁ ` |  |
+
+## Frame and body · [all its patents](frm.md)
+
+| Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
+|---|---|---|---|---|---|---|---|
+| [Adjustment and wear take-up](../features/frm-adjustment-wear.md) | Adjustment or wear take-up provisions | 1120 | 28 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁ ▁▁▂▇█▆▃▃▁▁` | [American Index](../machines/american-index.md) |
+| [Few parts, low cost](../features/frm-few-parts.md) | Explicit aim of few parts | 854 | 40 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▃█▅▄▅▄▂▁` | [Gerda 2](../machines/gerda-2.md) |
+| [Visible writing](../features/frm-writing-visible.md) | Writing visible to the operator while typing | 648 | 28 | 1876 [US175584](../patents/US175584.md) | 1900s | `     ▁▂▆█▄▂▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Frame construction](../features/frm-frame-construction.md) | Frame or casing construction (cast | 472 | 1 | 1845 [US4271](../patents/US4271.md) | 1920s | `  ▁▁  ▁▄▅▆█▄▂▁` |  |
+| [Cleaning access](../features/frm-cleaning-access.md) | Access for cleaning or element removal | 453 | 11 | 1876 [US183905](../patents/US183905.md) | 1890s | `     ▁▂█▇▅▅▃▁▁` |  |
+| [Portable or compact](../features/frm-compact-portable.md) | Small | 403 | 19 | 1863 [US39296](../patents/US39296.md) | 1920s | `    ▁▁▁▅▄▅█▅▃▁` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
+| [Cover or case](../features/frm-cover-enclosure.md) | Cover or enclosure of the mechanism | 265 | 6 | 1870 [US109161](../patents/US109161.md) | 1920s | `     ▁▂▄█▃█▆▄▁` |  |
+
+## Uses · [all its patents](use.md)
+
+| Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
+|---|---|---|---|---|---|---|---|
+| [Attachment or accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 1019 | 41 | 1875 [US171139](../patents/US171139.md) | 1900s | `     ▁▂██▆▄▄▁▁` |  |
+| [Typewriter with adding machine](../features/use-calculating.md) | Combined with adding or calculating | 567 | 4 | 1890 [US441232](../patents/US441232.md) | 1930s | `       ▁▁▂▇█▄▁` |  |
+| [Book typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 168 | 6 | 1881 [DE16716](../patents/DE16716.md) | 1900s | `      ▁▆█▂▁▁▁ ` |  |
+| [Special scripts and characters](../features/use-special-script.md) | Non-Latin scripts | 132 | 2 | 1879 [US217210](../patents/US217210.md) | 1900s | `     ▁▂▃█▇▆▅▂ ` |  |
+| [Printing telegraph](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 129 | 1 | 1872 [US133841](../patents/US133841.md) | 1930s | `     ▁▂▃▄▄▄█▆▁` |  |
+| [Check writer](../features/use-check-writer.md) | Check writer or amount printer | 101 | 0 | 1886 [US334264](../patents/US334264.md) | 1890s | `      ▁█▄▃▄▅▁▁` |  |
+| [Shorthand machine](../features/use-stenotype.md) | Shorthand or stenographic machine | 96 | 2 | 1868 [US81000](../patents/US81000.md) | 1910s | `    ▁▃▅▄▅█▃▇ ▁` |  |
+| [For the blind](../features/use-blind.md) | For the blind (embossing | 57 | 0 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁▁ ▁▃▆█▂▅▃▂ ` |  |
+| [Toy or teaching machine](../features/use-toy.md) | Toy or educational machine | 43 | 3 | 1876 [US175661](../patents/US175661.md) | 1900s | `     ▁▄▅█▄▅█▂▁` |  |
 

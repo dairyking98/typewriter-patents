@@ -1,8 +1,10 @@
-# INK:ribbon-lift
+# Ribbon lift
+
+*Inking feature · code `INK:ribbon-lift`*
 
 Ribbon lift or vibrator to the print point
 
-**449 patents**, 1880–1950. Often together with: [INK:ribbon](../features/ink-ribbon.md) (303), [ELEM:typebar](../features/elem-typebar.md) (208), [INK:ribbon-color](../features/ink-ribbon-color.md) (170), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (139), [SHIFT:platen](../features/shift-platen.md) (139), [FRM:writing-visible](../features/frm-writing-visible.md) (123), [SEL:keyboard-full](../features/sel-keyboard-full.md) (79), [ESC:pawl-rack](../features/esc-pawl-rack.md) (75)
+**450 patents**, 1880–1950. Often together with: [Ink ribbon](../features/ink-ribbon.md) (304), [Typebars](../features/elem-typebar.md) (208), [Two-colour ribbon](../features/ink-ribbon-color.md) (170), [Ribbon feed](../features/ink-ribbon-feed.md) (139), [Shift by moving the platen](../features/shift-platen.md) (139), [Visible writing](../features/frm-writing-visible.md) (123), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (75)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (6), [Alexander (2)](../machines/alexander-2.md) (6), [Alexander (3)](../machines/alexander-3.md) (5), [Monarch Pioneer](../machines/monarch-pioneer.md) (4), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Corona 3](../machines/corona-3.md) (4), [Cash](../machines/cash.md) (2), [Daugherty](../machines/daugherty.md) (2), [Pittsburg 9](../machines/pittsburg-9.md) (2), [Fisher 2](../machines/fisher-2.md) (2), [American Armstrong 7](../machines/american-armstrong-7.md) (2), [Nova](../machines/nova.md) (2), [Star](../machines/star.md) (2), [Sun 2, 4](../machines/sun-2-4.md) (2)
 
@@ -244,6 +246,7 @@ Ribbon lift or vibrator to the print point
 | [US949721](../patents/US949721.md) | 1910 | Young, Frank A. | Hooks on opposite sides of the printing point catch the ribbon edge, with upward guiding horns beside them, forming closed eyes that hold the ribbon when threaded. |
 | [US952281](../patents/US952281.md) | 1910 | Secor, Jerome B. | Feed the ribbon at constant speed with clamping feed rollers and drive the spools through compensating drive so they only wind what is fed. |
 | [US958388](../patents/US958388.md) | 1910 | Gabrielson, Carl | An L. C. Smith ribbon mechanism that reverses ribbon feed automatically when a spool empties, lets the ribbon-carrier throw be varied by shifting a fulcrum, and can disable the ribbon lift entirely. |
+| [US958573](../patents/US958573.md) | 1910 | Yaw, Clio B. | A vibratory ribbon carrier moves the ribbon to the print point on a front-strike machine, with ribbon mechanism in side elevation. |
 | [US959444](../patents/US959444.md) | 1910 | Barnard, Walter E. | Make the ribbon actuator on the universal bar frame lockable or free by a keyboard finger piece, disconnect ribbon winding from the carriage spring when the carriage is released, and reverse the ribbon by a follower riding on the ribbon coils. |
 | [US961202](../patents/US961202.md) | 1910 | Barnard, Walter E. | Mount one crown wheel so it can yield (wobble on a stud and spring) when both dogs engage. |
 | [US962616](../patents/US962616.md) | 1910 | Briggs, Arthur J. | A dust guard covers the type bar bearings and also carries a guide and pointer for the ribbon vibrator. |

@@ -1,8 +1,10 @@
-# SEL:arc-arm
+# Arm swung over an arc
+
+*Selection feature · code `SEL:arc-arm`*
 
 Arm swung over an arc or semicircular scale to choose the character
 
-**62 patents**, 1871–1935. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (44), [ESC:print-and-space](../features/esc-print-and-space.md) (41), [SEL:selector-locking](../features/sel-selector-locking.md) (37), [PAP:platen-roller](../features/pap-platen-roller.md) (32), [SEL:pointer-chart](../features/sel-pointer-chart.md) (31), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (31), [IMP:element-to-platen](../features/imp-element-to-platen.md) (30), [IMP:print-lever](../features/imp-print-lever.md) (30)
+**62 patents**, 1871–1935. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (44), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (41), [Selection locked for printing](../features/sel-selector-locking.md) (37), [Roller platen](../features/pap-platen-roller.md) (32), [Pointer over a chart](../features/sel-pointer-chart.md) (31), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31), [Element struck to the platen](../features/imp-element-to-platen.md) (30), [Separate print key or lever](../features/imp-print-lever.md) (30)
 
 **Machines:** [Gundka 3](../machines/gundka-3.md) (2), [Gundka 5](../machines/gundka-5.md) (2), [Boston](../machines/boston.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Travis](../machines/travis.md) (1), [American Index](../machines/american-index.md) (1), [Gerda 2](../machines/gerda-2.md) (1)
 

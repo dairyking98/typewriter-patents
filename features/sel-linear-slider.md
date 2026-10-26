@@ -1,8 +1,10 @@
-# SEL:linear-slider
+# Slider along a straight index
+
+*Selection feature · code `SEL:linear-slider`*
 
 Slider or carriage moved along a straight index
 
-**122 patents**, 1845–1943. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (56), [ESC:print-and-space](../features/esc-print-and-space.md) (56), [FRM:few-parts](../features/frm-few-parts.md) (47), [IMP:press-through](../features/imp-press-through.md) (40), [PAP:platen-roller](../features/pap-platen-roller.md) (37), [IMP:print-lever](../features/imp-print-lever.md) (36), [IMP:element-to-platen](../features/imp-element-to-platen.md) (35), [SEL:pointer-chart](../features/sel-pointer-chart.md) (35)
+**126 patents**, 1845–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (56), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (56), [Few parts, low cost](../features/frm-few-parts.md) (48), [Hand presses the type through](../features/imp-press-through.md) (40), [Roller platen](../features/pap-platen-roller.md) (37), [Separate print key or lever](../features/imp-print-lever.md) (36), [Element struck to the platen](../features/imp-element-to-platen.md) (35), [Pointer over a chart](../features/sel-pointer-chart.md) (35)
 
 **Machines:** [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (2), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (2), [Odell 1 B](../machines/odell-1-b.md) (2), [Odell 2](../machines/odell-2.md) (2), [Odell 3](../machines/odell-3.md) (2), [Odell 4](../machines/odell-4.md) (2), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Gundka 3](../machines/gundka-3.md) (1), [Gundka 5](../machines/gundka-5.md) (1)
 
@@ -128,7 +130,11 @@ Slider or carriage moved along a straight index
 | [DE509940](../patents/DE509940.md) | 1931 | Weissfloch, Konrad Karl | A poster typewriter with large types on an endless cloth band moved past the print point by a pointer lever over a letter scale, struck from the front by a hammer so the writing is visible. |
 | [DE545872](../patents/DE545872.md) | 1932 | Mee, Marcel | A pen is moved by three sliding plates with guide-curve slots, one drive rod per character; the character size and slant can be set by the operator. |
 | [US1986244](../patents/US1986244.md) | 1935 | Bates, Harry | A swinging arm with a button is dropped onto a depression in a keyboard-shaped plate, which turns an arcuate type segment to that character, and pressing down tilts the keyboard and platen frame so the paper meets the type. |
+| [DE621479](../patents/DE621479.md) | 1935 |  | Friction rollers on the carriage are pressed onto a rotating shaft; their inclination sets speed and direction steplessly, with smooth reversal. |
 | [DE635186](../patents/DE635186.md) | 1936 | Maschinenbau, Adrema | A holder for the embossing template is mounted on the sliding carriage beside a guide cheek, and a pointer on the fixed frame shows which plate position is at the embossing point. |
 | [DE641796](../patents/DE641796.md) | 1937 |  | A typewriter-like keyboard moves a transparency with the character set into the light beam, and a perforated disc scans it to make current pulses. |
+| [DE681050](../patents/DE681050.md) | 1939 | Strong, Harold Vezey | Stamp positioning uses two slides moved at right angles, with a guide sleeve that sets each stamp on the template's staff lines. |
 | [DE694372](../patents/DE694372.md) | 1940 | Karstedt, Paul | A self-coiling spring steel type tape is pulled through a spaced carriage on a guide frame and struck with a thimble hammer worn on a finger. |
 | [DE731248](../patents/DE731248.md) | 1943 | Honnolke, Franz | Keep the writing surface fixed and move a slide carrying a swivelling type drum over it, with interchangeable slides and drums for different sizes and fonts. |
+| [DE917878](../patents/DE917878.md) | 1946 |  | Card selection and transport are combined, so a selected slot's card is pushed directly to a conveyor that brings it to the printer. |
+| [DE833424](../patents/DE833424.md) | 1950 | Morgenstern, Heinrich | A clockwork alarm, coupled by a cord to a slide that sets a window on the tear-off block, sounds shortly before the noted time. |

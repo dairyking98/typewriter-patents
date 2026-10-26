@@ -1,8 +1,10 @@
-# USE:blind
+# For the blind
+
+*Uses feature · code `USE:blind`*
 
 For the blind (embossing
 
-**55 patents**, 1843–1943. Often together with: [IMP:press-through](../features/imp-press-through.md) (15), [SEL:keyboard-full](../features/sel-keyboard-full.md) (10), [ESC:pawl-rack](../features/esc-pawl-rack.md) (9), [IMP:anvil-backing](../features/imp-anvil-backing.md) (9), [PAP:paper-guide](../features/pap-paper-guide.md) (9), [ESC:print-and-space](../features/esc-print-and-space.md) (8), [ESC:space-key](../features/esc-space-key.md) (8), [PAP:feed-rollers](../features/pap-feed-rollers.md) (8)
+**57 patents**, 1843–1943. Often together with: [Hand presses the type through](../features/imp-press-through.md) (15), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (10), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (9), [Backing or anvil behind the paper](../features/imp-anvil-backing.md) (9), [Feed rollers and paper release](../features/pap-feed-rollers.md) (9), [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) (9), [Paper table and guides](../features/pap-paper-guide.md) (9), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (8)
 
 ## Patents, oldest first
 
@@ -22,6 +24,7 @@ For the blind (embossing
 | [US477062](../patents/US477062.md) | 1892 | Orndorff, Thomas C. | Six character keys drive six punches against an anvil, with step feed along the line and paper feed; a space key moves the carriage. |
 | [US521397](../patents/US521397.md) | 1894 | Wait, William B. | A keyboard of levers drives a row of embossing styluses against a die, several at once if needed, to dent the paper in point-writing patterns. |
 | [US529571](../patents/US529571.md) | 1894 | Wait, William B. | A writing machine that embosses characters with styluses that press against an anvil on a paper carriage fed by a yoke and key lever. |
+| [US529572](../patents/US529572.md) | 1894 | Wait, William B. | A writing machine with styluses or type-bars, a paper carriage with feed rollers, and a clutch, so that power or mechanical advantage reduces the operator's exertion. |
 | [US537960](../patents/US537960.md) | 1895 | Barnett, Neville George | A punctograph writer with six embossing punches and a matching die; key levers select punch combinations, so a Roman key embosses the equivalent point character. |
 | [US556422](../patents/US556422.md) | 1896 | von Kunowski, Albrecht | Arrange keys on four curved guiding lines matching thumb and finger paths, with large main keys on the lines and smaller by-keys before and behind, hands resting on cushions. |
 | [US578785](../patents/US578785.md) | 1897 | Swindler, Albert | A carriage with point-spacing and feed mechanism and a system point-changer selects between New York and Braille point patterns. |
@@ -51,6 +54,7 @@ For the blind (embossing
 | [DE334711](../patents/DE334711.md) | 1921 | Schubert, Paul | The writing frame's line-spacing marks on opposite legs are offset by half a line, and the frame guide on the carriage is placed so that the offset is produced automatically. |
 | [DE335200](../patents/DE335200.md) | 1921 | Schubert, Paul | The writing frame's vertical outer surfaces carry an offset edge, and the frame slides into a guide subframe that carries the line-spacing marks, so the offset is set once. |
 | [DE385568](../patents/DE385568.md) | 1923 | Zangli, Erasmo | A box attached over the keyboard holds sleeves on the keys with auxiliary key stems of different lengths, so the keys sit in two parallel levels with a raised middle band as a finding guide. |
+| [DE457017](../patents/DE457017.md) | 1928 | Krapf, Emil | Six buttons each drive a needle, singly or together, through a holder to make each Braille cell. |
 | [DE469841](../patents/DE469841.md) | 1928 | Mahler, Marie Antonie | The sheet is stretched between two separated wheel rims at its unembossed edges, so the sheet never rests on the roller surface. |
 | [DE471882](../patents/DE471882.md) | 1929 | Strehl, Carl | The sheet frame is only about half the arch's height, so the front half of the arch hangs out and is turned down at the front; the hinged frame is pinned with punch tips and the keys sit close to the carriage, giving a compact portable machine. |
 | [DE488275](../patents/DE488275.md) | 1929 |  | Key rows are offset in length by finger, arc-shaped and stepped from front to back, with straight parallel side edges so the keys form a closed surface and each finger finds a stop in three directions. |

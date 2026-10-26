@@ -1,8 +1,10 @@
-# IMP:platen-to-element
+# Platen pressed to the element
+
+*Impression feature · code `IMP:platen-to-element`*
 
 The platen or paper moves into a stationary element
 
-**123 patents**, 1856–1944. Often together with: [SEL:selector-locking](../features/sel-selector-locking.md) (65), [ESC:pawl-rack](../features/esc-pawl-rack.md) (61), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (60), [PAP:platen-roller](../features/pap-platen-roller.md) (54), [ESC:print-and-space](../features/esc-print-and-space.md) (53), [ESC:space-key](../features/esc-space-key.md) (43), [INK:roller](../features/ink-roller.md) (41), [SHIFT:axial](../features/shift-axial.md) (40)
+**124 patents**, 1856–1944. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (65), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (61), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (60), [Roller platen](../features/pap-platen-roller.md) (54), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (53), [Space key or bar](../features/esc-space-key.md) (43), [Ink roller](../features/ink-roller.md) (41), [Shift by sliding the element](../features/shift-axial.md) (40)
 
 **Machines:** [Crown Index 1](../machines/crown-index-1.md) (4), [Crown Index 2](../machines/crown-index-2.md) (4), [Peoples](../machines/peoples.md) (4), [Mercury 3](../machines/mercury-3.md) (4), [Travis](../machines/travis.md) (3), [Postal 5](../machines/postal-5.md) (3), [Gardner](../machines/gardner.md) (2), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (1), [Bar-Lock 1](../machines/bar-lock-1.md) (1), [Bar-Lock 2, 3](../machines/bar-lock-2-3.md) (1), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1)
 
@@ -65,6 +67,7 @@ The platen or paper moves into a stationary element
 | [US461865](../patents/US461865.md) | 1891 | Brooks, Byron A. | Each key throws a gear-arm that spins the type-wheel left or right from a home position (never more than half a turn) until a stop on the key halts a vibrating arm geared to the wheel, then a spring-tripped platen rod strikes the paper against the stationary wheel. |
 | [US463859](../patents/US463859.md) | 1891 | Gardner, John | A type cylinder or segment on a vertical shaft is turned by a stepped lever that the keys press to different depths, and a spring-driven hammer prints through a shield hole from behind the paper. |
 | [US463860](../patents/US463860.md) | 1891 | Gardner, John | A type sleeve is driven through a small pinion by a quadrant and stopped by a geared stop-finger that meets the depressed key stem, with a spring-released ram and a spring-loaded floating paper roller. |
+| [US469675](../patents/US469675.md) | 1892 | Booth, Chris S. | A Caligraph-type writer with a carriage that traverses rails over a fixed print point, with a carriage-retracting mechanism that returns the carriage. |
 | [US470969](../patents/US470969.md) | 1892 | Barron, Walter J. | A pointer slid along a two-row chart turns a drum of loose notched type through a rack, and a printing bar then locks the drum, pushes the top type out through a guide to meet a swinging platen. |
 | [DE62613](../patents/DE62613.md) | 1892 |  | A type roller with three sets of ten-by-three types is moved axially for the column and rotated for the row/set by shafts and cams worked from the keys, with locking bolts entering teeth on the roller, and a stamp pressing the paper and inked ribbon against the chosen type. |
 | [US476941](../patents/US476941.md) | 1892 | Brooks, Byron A. | Each key lever carries a cam that swings a bar and gear segment to rotate the type wheel to its position, then continues down to ink the type, lock the wheel with a prong in a V-toothed wheel, and throw the platen against the type. |

@@ -1,8 +1,10 @@
-# IMP:element-to-platen
+# Element struck to the platen
+
+*Impression feature · code `IMP:element-to-platen`*
 
 The element swings or moves to the platen to print
 
-**904 patents**, 1829–1950. Often together with: [ELEM:typebar](../features/elem-typebar.md) (518), [SEL:keyboard-full](../features/sel-keyboard-full.md) (423), [ESC:pawl-rack](../features/esc-pawl-rack.md) (283), [PAP:platen-roller](../features/pap-platen-roller.md) (237), [ESC:print-and-space](../features/esc-print-and-space.md) (194), [SEL:selector-locking](../features/sel-selector-locking.md) (183), [FRM:writing-visible](../features/frm-writing-visible.md) (180), [ESC:space-key](../features/esc-space-key.md) (161)
+**905 patents**, 1829–1950. Often together with: [Typebars](../features/elem-typebar.md) (519), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (423), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (283), [Roller platen](../features/pap-platen-roller.md) (237), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (194), [Selection locked for printing](../features/sel-selector-locking.md) (183), [Visible writing](../features/frm-writing-visible.md) (180), [Space key or bar](../features/esc-space-key.md) (161)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (16), [Alexander (2)](../machines/alexander-2.md) (16), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (12), [Alexander (3)](../machines/alexander-3.md) (12), [Blickensderfer 7](../machines/blickensderfer-7.md) (10), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (10), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (9), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (8), [Blickensderfer 2](../machines/blickensderfer-2.md) (7), [Blickensderfer 3](../machines/blickensderfer-3.md) (7), [Blickensderfer 4](../machines/blickensderfer-4.md) (7), [Dactyle](../machines/dactyle.md) (7), [Smith Premier 10](../machines/smith-premier-10.md) (7), [Remington Junior](../machines/remington-junior.md) (7), [Remington Portable 3](../machines/remington-portable-3.md) (7)
 
@@ -346,6 +348,7 @@ The element swings or moves to the platen to print
 | [US576286](../patents/US576286.md) | 1897 | Stickney, Burnham C. | Each key-lever pulls a radial type-bar-operating lever and a second trip pushes the universal bar; both release at a set point so the bar returns while the key is still down. |
 | [US576287](../patents/US576287.md) | 1897 | Stickney, Burnham C. | Each key-lever carries a pivoted arm to which the typebar's connecting rod is attached, and a spring-held hook trip catches the arm and lets go at a set point. |
 | [US576288](../patents/US576288.md) | 1897 | Stickney, Burnham C. | Key-levers carry spring-held trips that push sub-levers, which pull connecting rods to the typebars and the universal bar, then slip free. |
+| [US576329](../patents/US576329.md) | 1897 | Stickney, Burnham C. | Each typebar moves to the print point and returns on its own, independent of the finger key. |
 | [US578554](../patents/US578554.md) | 1897 | Fisher, Robert Joseph | Each typebar carries a pivoted two-faced type head that centrifugal force flings to the upper-case face unless a per-bar trigger locks it, and a key-operated trip releases the triggers. |
 | [US580855](../patents/US580855.md) | 1897 | Fisher, Robert J. | A rocking two-faced type head on each typebar is deflected to its second face by striking a single movable arc-shaped stop plate common to all typebars. |
 | [US583840](../patents/US583840.md) | 1897 | Blickensderfer, George C. | Five improvements to the Blickensderfer type-wheel machine: sector hooks that lock one side so the wheel aligns accurately before it descends, a feed that stores a little power per keystroke instead of a wound spring, a one-hand carriage release, an adjustable pivoted ink roller, and a slotted spring-plate lock for the wheel. |

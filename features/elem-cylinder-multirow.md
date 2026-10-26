@@ -1,8 +1,10 @@
-# ELEM:cylinder-multirow
+# Multi-row type cylinder
+
+*Type element feature · code `ELEM:cylinder-multirow`*
 
 Type cylinder with several rows along its length
 
-**204 patents**, 1875–1944. Often together with: [SEL:selector-locking](../features/sel-selector-locking.md) (92), [SHIFT:axial](../features/shift-axial.md) (90), [IMP:element-to-platen](../features/imp-element-to-platen.md) (88), [SEL:keyboard-full](../features/sel-keyboard-full.md) (74), [SEL:differential-drive](../features/sel-differential-drive.md) (65), [PAP:platen-roller](../features/pap-platen-roller.md) (63), [SHIFT:triple](../features/shift-triple.md) (48), [ESC:pawl-rack](../features/esc-pawl-rack.md) (47)
+**204 patents**, 1875–1944. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (92), [Shift by sliding the element](../features/shift-axial.md) (90), [Element struck to the platen](../features/imp-element-to-platen.md) (88), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (74), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (65), [Roller platen](../features/pap-platen-roller.md) (63), [Three or more cases](../features/shift-triple.md) (48), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (47)
 
 **Machines:** [Gundka 3](../machines/gundka-3.md) (5), [Gundka 5](../machines/gundka-5.md) (5), [Chicago 2](../machines/chicago-2.md) (3), [Gardner](../machines/gardner.md) (3), [Munson 1](../machines/munson-1.md) (2), [Moya Visible 2](../machines/moya-visible-2.md) (2), [Crandall No. 3](../machines/crandall-no-3.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (1)
 

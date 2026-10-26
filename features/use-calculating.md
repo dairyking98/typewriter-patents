@@ -1,8 +1,10 @@
-# USE:calculating
+# Typewriter with adding machine
+
+*Uses feature · code `USE:calculating`*
 
 Combined with adding or calculating
 
-**561 patents**, 1890–1950. Often together with: [SEL:selector-locking](../features/sel-selector-locking.md) (64), [ESC:tabulator](../features/esc-tabulator.md) (52), [SEL:keyboard-full](../features/sel-keyboard-full.md) (42), [USE:accessory](../features/use-accessory.md) (41), [PAP:paper-guide](../features/pap-paper-guide.md) (36), [FRM:few-parts](../features/frm-few-parts.md) (34), [ELEM:typebar](../features/elem-typebar.md) (33), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (31)
+**567 patents**, 1890–1950. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (64), [Tabulator](../features/esc-tabulator.md) (52), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (42), [Attachment or accessory](../features/use-accessory.md) (41), [Few parts, low cost](../features/frm-few-parts.md) (36), [Paper table and guides](../features/pap-paper-guide.md) (36), [Typebars](../features/elem-typebar.md) (33), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (2), [Remington Portable 3](../machines/remington-portable-3.md) (2), [Remington Port. Tab](../machines/remington-port-tab.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1), [Blickensderfer 4](../machines/blickensderfer-4.md) (1), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (1), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (1), [Blickensderfer 7](../machines/blickensderfer-7.md) (1), [Blickensderfer 8](../machines/blickensderfer-8.md) (1), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (1), [Dactyle](../machines/dactyle.md) (1)
 
@@ -19,11 +21,13 @@ Combined with adding or calculating
 | [US575570](../patents/US575570.md) | 1897 | Marshall, Holmes | An adding machine under the typewriter has plungers on a carriage that press its keys when typewriter keys are struck. |
 | [US579047](../patents/US579047.md) | 1897 | Dudley, George W. | A bank of four key rows and an oscillating type carrier, with a depressible bar acted on by the key-levers, add an alphabet to the adding machine. |
 | [US579048](../patents/US579048.md) | 1897 | Dudley, George W. | A carriage with ball-bearing track bars that lets a blank book be inserted and extensions printed on its pages. |
+| [US582980](../patents/US582980.md) | 1897 | Chamberlain, Edward Nowman | A typewriter with a key-operated adding device and a letterhead stamping device. |
 | [US630725](../patents/US630725.md) | 1899 | Miner, Robert J. | An attachment with numbered keys that set the carriage stop at the correct column so figures align automatically. |
 | [US654992](../patents/US654992.md) | 1900 | Marshall, Holmes | Give the computer's plunger carriage its own escapement, operated by the numeral keys, so its lateral movement is independent of the typewriter carriage. |
 | [US669286](../patents/US669286.md) | 1901 | Sandherr, Frederick H. | An adding apparatus with recording or printing devices. The mechanism is not legible in the text available. |
 | [US718390](../patents/US718390.md) | 1903 | Schuman, Alexander C. | A platen frame that slides out beyond the right end of the carriage when raised, so paper can be fed to a Burroughs accountant. |
 | [US733815](../patents/US733815.md) | 1903 | Crowder, Charles F. | A cash drawer combined with a type-writing or recording mechanism so that the drawer cannot be opened without first printing a record of the sale; the tally of sales and receipts is printed as a permanent record. |
+| [US743350](../patents/US743350.md) | 1903 | Treadway, William T. | An indicating mechanism on the carriage counts the items printed, operates regardless of line spacing, and resets automatically. |
 | [US743904](../patents/US743904.md) | 1903 | Marshall, Holmes | A combined typewriter and arithmometer in which the numeral keys drive the computer; the text is cut off before the mechanism that prevents the line error is described, so the fix is not visible in the first 3000 characters. |
 | [US744004](../patents/US744004.md) | 1903 | Ellis, Halcom | A machine about the size of a typewriter that performs typewriting and recording-calculator functions together; the mechanism is not described in the first 3000 characters. |
 | [US761948](../patents/US761948.md) | 1904 | Cram, Edwin B. | A typewriting attachment for an adding machine: a printing roll or platen pivots up into the line of writing so the typewriter can print on the same sheet, and the two can be used alternately. |
@@ -128,6 +132,7 @@ Combined with adding or calculating
 | [DE377380](../patents/DE377380.md) | 1923 |  | The totalizer is carried on its own carriage with a separate spring, and a source of power returns it to start after the last digit. |
 | [DE378167](../patents/DE378167.md) | 1923 | Dalichau, Hans | Wedge-like inclined slots in rails move the keys down only after the first drive phase, so the keystroke is even. |
 | [DE379054](../patents/DE379054.md) | 1923 |  | An adjusting element influences the printing unit so that either receipts for single amounts or receipts with totals can be printed. |
+| [DE379856](../patents/DE379856.md) | 1923 | Grauke, Karl | The lever pulls a cable that moves a sledge carrying a pawl, cushioned by a spring, so the counter can be placed at any distance and the ratchet moves softly. |
 | [DE379781](../patents/DE379781.md) | 1923 |  | Cutting edges on each feeler stamp cut two notches beside the hole when the stamp passes properly, marking success on the card. |
 | [DE383975](../patents/DE383975.md) | 1923 |  | The paper sheets are held flat in a laterally sliding carriage and fed from the front so the sheets are not bent and print with a clean impression. |
 | [DE386212](../patents/DE386212.md) | 1923 | Kolbe, Werner | A common zero switching element carries a zero stop for each adder, so one sum key sets all the working adders and the type wheels to the sum at once. |
@@ -183,6 +188,7 @@ Combined with adding or calculating
 | [DE419786](../patents/DE419786.md) | 1925 |  | A hand-lever setting makes the cash gear run two revolutions for a total: the first turns the adjusting organs to zero, and the second moves the zero-stop pawls out of the way so the adjusting elements take the current adder state. |
 | [DE420262](../patents/DE420262.md) | 1925 | Ludwig, Ferdinand | The reading table is moved by a rack and gear driven from the adding machine shaft while the display device stays fixed; both may also be made displaceable. |
 | [DE421179](../patents/DE421179.md) | 1925 | Puttemans, Hubert Auguste | Each of the ten digit keys of the typewriter drives a lever system (levers 4, 5, 6 on a horizontal axis) that presses the matching key of the calculator; the system is carried on a base plate with supports. |
+| [DE421763](../patents/DE421763.md) | 1925 | Fa, Alfred Ransmayer | The toggle-like tilting or rolling stamping bodies are driven from a crankshaft through links so the stamping ends at or near the extended middle position, so the final blow hits the metal square to the object and the type form is accurate. |
 | [DE421691](../patents/DE421691.md) | 1925 |  | An automatic ribbon colour selector, set by an adjustment device with several positions, picks black or red for each entry and engages or disengages the adding mechanism and decimal mechanism. |
 | [DE422125](../patents/DE422125.md) | 1925 |  | Hammers held by springs are released by a hook lever when the machine drive swings an oscillating frame; coupled hammers fire together so the zeros to the right of a set type are printed, with the subdivision set by the hook-lever arrangement. |
 | [DE422744](../patents/DE422744.md) | 1925 |  | A detachable pliers-and-flap coupling links the adder's adjusting slide to the typewriter's setting pointer so the pointer follows the digit rack pulled on the adder. |
@@ -425,6 +431,7 @@ Combined with adding or calculating
 | [DE641532](../patents/DE641532.md) | 1937 |  | A shared type-wheel set prints two control strips in turn, with each strip's unwind roller held by a friction disk. |
 | [DE641548](../patents/DE641548.md) | 1937 |  | A brake on the through-print web is controlled by the counter reset device through a cam and solenoid so it is released automatically at paper switching. |
 | [DE643308](../patents/DE643308.md) | 1937 |  | Star and zero are placed ten units apart on the wheel, and the zero stop pawl selects the printed character by the adjusting member's stroke. |
+| [DE643803](../patents/DE643803.md) | 1937 | Tauschek, Gustav | Each storage element is a steel surface magnetised by a count of current pulses; a dial selects the element, and the pulses read back to a display. |
 | [DE571214](../patents/DE571214.md) | 1937 | Bossert, Fritz | Control bookings are marked by a punched mark or perforation made by a marker pen carried on the hollow shaft of the control type wheel. |
 | [DE645461](../patents/DE645461.md) | 1937 |  | A coupling member lifts out of zero by the set amount and is brought into effect by a lifting element on the same shaft as the adjusting member. |
 | [DE645972](../patents/DE645972.md) | 1937 |  | Letter carriers are driven without a dwell at the reversal points, while number carriers keep the dwell for adding wheels. |
@@ -551,6 +558,7 @@ Combined with adding or calculating
 | [DE746803](../patents/DE746803.md) | 1944 | Fritzsche, Albert | The counter's existing decimal-point stop lugs engage a ratchet and lever system that repeats the paper carriage step after another rotation of the driving wheel. |
 | [DE746947](../patents/DE746947.md) | 1944 |  | Controllable blocking members sit between the summation control members and the reverse key and respond to the paper carriage motion. |
 | [DE747006](../patents/DE747006.md) | 1944 | Neisse, Paul | A stop fixed to the machine frame works with counter cams; when the counter cam lifts a roller, a spring-loaded bounce segment drops to block the type stop automatically. |
+| [DE747009](../patents/DE747009.md) | 1944 | Wares, Bryce James | Counting cards have magnetizable marking points that induce signals on sensing, and the magnetism can be erased and re-applied. |
 | [DE747072](../patents/DE747072.md) | 1944 | Haberfeld, Erwin O | Each key button sits on a support arm and can be adjusted horizontally, along the fingers and across, by gripping screws in slots. |
 | [DE747076](../patents/DE747076.md) | 1944 |  | A lock on the numeric keys is held blocked by a cam member of the indexing device for the whole carriage jump and is released only when the carriage stops and the locking mechanism drops into a gap in the cam. |
 | [DE747222](../patents/DE747222.md) | 1944 |  | Actuators on the paper carriage move driver pawls through levers on a shaft running in the carriage direction, so the pawls are held back and released as needed. |

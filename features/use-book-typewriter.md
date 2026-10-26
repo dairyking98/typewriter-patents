@@ -1,8 +1,10 @@
-# USE:book-typewriter
+# Book typewriter
+
+*Uses feature · code `USE:book-typewriter`*
 
 Book or flat-bed typewriter for bound records
 
-**168 patents**, 1881–1949. Often together with: [PAP:flat-bed](../features/pap-flat-bed.md) (134), [ESC:moving-print-head](../features/esc-moving-print-head.md) (51), [ELEM:typebar](../features/elem-typebar.md) (44), [SEL:keyboard-full](../features/sel-keyboard-full.md) (34), [PAP:paper-guide](../features/pap-paper-guide.md) (31), [INK:ribbon](../features/ink-ribbon.md) (29), [ESC:pawl-rack](../features/esc-pawl-rack.md) (27), [PAP:line-space](../features/pap-line-space.md) (23)
+**168 patents**, 1881–1949. Often together with: [Flat bed or book typewriter](../features/pap-flat-bed.md) (134), [Moving print head](../features/esc-moving-print-head.md) (51), [Typebars](../features/elem-typebar.md) (44), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (34), [Paper table and guides](../features/pap-paper-guide.md) (31), [Ink ribbon](../features/ink-ribbon.md) (29), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (27), [Line spacing](../features/pap-line-space.md) (23)
 
 **Machines:** [Fisher 2](../machines/fisher-2.md) (4), [Elliott & Hatch 1](../machines/elliott-hatch-1.md) (1), [Elliott & Hatch 2](../machines/elliott-hatch-2.md) (1), [Elliott & Hatch 3](../machines/elliott-hatch-3.md) (1)
 

@@ -1,8 +1,10 @@
-# USE:special-script
+# Special scripts and characters
+
+*Uses feature · code `USE:special-script`*
 
 Non-Latin scripts
 
-**130 patents**, 1879–1949. Often together with: [SEL:keyboard-full](../features/sel-keyboard-full.md) (36), [ELEM:typebar](../features/elem-typebar.md) (31), [ELEM:interchangeable](../features/elem-interchangeable.md) (28), [PAP:platen-roller](../features/pap-platen-roller.md) (21), [ESC:pawl-rack](../features/esc-pawl-rack.md) (19), [SHIFT:triple](../features/shift-triple.md) (16), [SEL:selector-locking](../features/sel-selector-locking.md) (15), [IMP:element-to-platen](../features/imp-element-to-platen.md) (15)
+**132 patents**, 1879–1949. Often together with: [Full keyboard, a key per character](../features/sel-keyboard-full.md) (36), [Typebars](../features/elem-typebar.md) (31), [Interchangeable element](../features/elem-interchangeable.md) (28), [Roller platen](../features/pap-platen-roller.md) (21), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (19), [Three or more cases](../features/shift-triple.md) (16), [Selection locked for printing](../features/sel-selector-locking.md) (15), [Element struck to the platen](../features/imp-element-to-platen.md) (15)
 
 **Machines:** [Crandall No. 3](../machines/crandall-no-3.md) (1), [Underwood 2](../machines/underwood-2.md) (1), [Underwood 4](../machines/underwood-4.md) (1), [Underwood 5](../machines/underwood-5.md) (1), [Bar-Lock 12](../machines/bar-lock-12.md) (1), [Bar-Lock 14](../machines/bar-lock-14.md) (1), [Bar-Lock 15](../machines/bar-lock-15.md) (1), [Gourland](../machines/gourland.md) (1), [Visigraph](../machines/visigraph.md) (1)
 
@@ -22,6 +24,7 @@ Non-Latin scripts
 | [US433765](../patents/US433765.md) | 1890 | Collins, Samuel | Single types and keys carry a small numerator figure together with an inclined stroke, followed by a line of small denominator figures. |
 | [US448079](../patents/US448079.md) | 1891 | Robertson, George Francis | A hand-held knob turns, slides and presses a hinged type roller over a character board, with pointers showing the character, a bar locking the roller at the print position, and a spring-driven carrier that steps along a grooved rod each time the roller is raised. |
 | [US455319](../patents/US455319.md) | 1891 | Green, John H. | A keyboard attachment with musical-character keys, using detachable keys and rack-bars to drive the carriage. |
+| [US484262](../patents/US484262.md) | 1892 | Tessaro, Angelo | An apparatus for writing music with many sheets of drawings; the description is not clear enough in the first 3000 characters to state how the staff and notes are produced. |
 | [DE67833](../patents/DE67833.md) | 1893 |  | A carriage carrying vertically sprung note and sign type rods slides over a baseplate rack and can be offset forward or back against a graduated scale, so the same note keys print at a shifted pitch for transposition. |
 | [US500793](../patents/US500793.md) | 1893 | Bowen, Frank H. | A Remington-type typebar machine with music symbols that feeds the paper crosswise at each stroke and shifts note position and octave by shifting the platen. |
 | [US527083](../patents/US527083.md) | 1894 | Smith, John P. | An adjustable stop key stops the platen midway on its transverse shift and holds the carriage from spacing while more characters are struck. |
@@ -96,6 +99,7 @@ Non-Latin scripts
 | [DE338611](../patents/DE338611.md) | 1921 | Hohmann, Hugo | Notation symbols are placed on a common field on a type cylinder, and a hand pointer stick selects a symbol so the carriage positions the copy point for each note. |
 | [DE355304](../patents/DE355304.md) | 1922 | Ott, Andreas | A half-step escapement with two pawl/ratchet pairs, one per direction, advances the carriage half a character width before the impression and half after, in either travel direction. |
 | [DE380042](../patents/DE380042.md) | 1923 | Krigin, Alexander | Two type cylinders set by one pointer over two letter tables, one fixed and one an endless band indexed after each stroke, so each plain letter prints with a changing cipher letter beside it. |
+| [DE382125](../patents/DE382125.md) | 1923 | Zander, Max | Each key contact energizes an electromagnet that moves a writing lever with an ink pen fed from an ink tank by tubing, marking notes on a moving paper tape, while a separate roller inks the staff lines. |
 | [DE409996](../patents/DE409996.md) | 1925 |  | Two switching bridges let the width setting travel less for wide characters, making key effort even; suspended in stable or unstable equilibrium to cut work. |
 | [DE414430](../patents/DE414430.md) | 1925 | Stroedel, Georg A | The cross slide carrying the workpiece is adjusted by a fine setting mechanism, so the faulty point can be brought exactly under the type of the rotating type disc without reading pointer positions against a scale. |
 | [DE420979](../patents/DE420979.md) | 1925 | Stroedel, Georg | Place noteheads, beams and flags on the type bodies so that heads sit before or behind the pressure centre and beams land on the stem of the previous note without moving the slide. |

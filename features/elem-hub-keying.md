@@ -1,8 +1,10 @@
-# ELEM:hub-keying
+# Element mounting on its hub
+
+*Type element feature · code `ELEM:hub-keying`*
 
 How the element mounts and keys to its shaft or hub
 
-**71 patents**, 1875–1949. Often together with: [ELEM:interchangeable](../features/elem-interchangeable.md) (34), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (27), [SHIFT:axial](../features/shift-axial.md) (25), [ESC:print-and-space](../features/esc-print-and-space.md) (19), [SEL:selector-locking](../features/sel-selector-locking.md) (18), [ESC:pawl-rack](../features/esc-pawl-rack.md) (18), [ELEM:alignment-lock](../features/elem-alignment-lock.md) (18), [ELEM:element-construction](../features/elem-element-construction.md) (16)
+**75 patents**, 1875–1949. Often together with: [Interchangeable element](../features/elem-interchangeable.md) (34), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (27), [Shift by sliding the element](../features/shift-axial.md) (25), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (19), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (19), [How the element is made](../features/elem-element-construction.md) (18), [Selection locked for printing](../features/sel-selector-locking.md) (18), [Alignment lock at the print point](../features/elem-alignment-lock.md) (18)
 
 **Machines:** [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (4), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (4), [Blickensderfer 7](../machines/blickensderfer-7.md) (4), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3), [Dactyle](../machines/dactyle.md) (3), [Blickensderfer 8](../machines/blickensderfer-8.md) (2), [Gundka 3](../machines/gundka-3.md) (2), [Gundka 5](../machines/gundka-5.md) (2), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1)
 
@@ -58,16 +60,20 @@ How the element mounts and keys to its shaft or hub
 | [DE231099](../patents/DE231099.md) | 1910 |  | A type block with a resilient pair of arms at each end, ending in stepped noses, snaps onto lugs on the typebar head while a protruding central part of the head locates in a matching recess of the block. |
 | [US975884](../patents/US975884.md) | 1910 | McLaughlin, John Carlisle | Type bars pivot on ball bearings held in an eye of the hub, and the plate-like hangers are inserted in slots of the segment so they can be removed and reconnected easily. |
 | [US1000476](../patents/US1000476.md) | 1911 | Woodward, Oscar | Type bar hangers are secured to the segment by cooperating connecting devices such as nuts and members, with several variant forms. |
+| [US1018457](../patents/US1018457.md) | 1912 | Vieser, Frederick A. | A screwless end construction for a hollow wooden roll: a metal collar with a key notch sits in an internal recess and is locked by a wedge ring in an external groove. |
 | [US1053374](../patents/US1053374.md) | 1913 | Felbel, Jacob | Improved pivotal connection between each typebar and its hanger, and a better way of securing the hangers to the segment. |
 | [US1056159](../patents/US1056159.md) | 1913 | Emeliantzeff, Gregory | Spring-loaded hooks grip the eye of each type plate while the holder is raised and turned, and are released by fixed levers when the holder is lowered so the driving pin can move the plate. |
 | [US1083076](../patents/US1083076.md) | 1913 | Fischer, Oskar | Keys pick a stop that limits the electromagnetically rotated type wheel, then an electromagnet throws the wheel at the platen on a short stroke while the key linkage is automatically disconnected well before impact. |
 | [US1119149](../patents/US1119149.md) | 1914 | Foothorap, Harry A. | Each type bar carries a shiftable plural type head held by a locking member; a head-releasing trigger contacts a fixed trip during the stroke, which unlocks and shifts the head to upper case. |
 | [DE331594](../patents/DE331594.md) | 1920 |  | Clamping plates fixed to the head of the segment have openings that take the ends of the bearing wire and press it down into its slot with a moderate pressure, holding the pins aligned without warping. |
 | [DE329783](../patents/DE329783.md) | 1920 | Muchajer, Paul | A cross wedge pin through the top of a plain axle engages a groove in the wheel top, with a compression spring pressing the wheel onto the wedge, so wheels are changed by pushing down and turning, with no nuts. |
+| [DE331990](../patents/DE331990.md) | 1921 | Keller, Huldreich | The wheel rim is a U-shaped channel holding an elastic insert ring whose outer layer is harder; the metal gear rim is shrunk onto it. |
 | [DE332683](../patents/DE332683.md) | 1921 | Bertrand, Otto | Two chucks with cones that enter the roller bore are drawn together by a threaded spindle, with the cones spring-loaded so they centre rollers of any bore size without damage. |
+| [DE370915](../patents/DE370915.md) | 1923 |  | One cylinder fixed on the drive shaft carries a figure-8 groove, so one cam drives both a back-and-forth shuttle motion and a slower part that returns only every second revolution. |
 | [DE370301](../patents/DE370301.md) | 1924 |  | A push-button latch on the shaft that, when pressed, releases the wheel and lets a spring lift it off the shaft by itself. |
 | [DE417060](../patents/DE417060.md) | 1925 | Muchajer, Paul | One cross-machine axis carries both the swivel plate and the shift lever, with a single key lever and stop buttons on the pushers limiting the shift to three rows. |
 | [DE440171](../patents/DE440171.md) | 1927 |  | The trunnion end is itself a cone, and the threaded nut on the flange is guided in slots so it cannot turn but can shift perpendicular to the roller axis. |
+| [DE444229](../patents/DE444229.md) | 1927 |  | A closed melting chamber at the joint holds the solder, and its vapour pressure forces the melt into the joint. |
 | [DE455477](../patents/DE455477.md) | 1928 |  | Make the type cylinder a thin smooth-bored sleeve that drops over a permanent cup fixed on the spindle, keyed by a pin in an angular slot and retained by a spring-latch. |
 | [DE468405](../patents/DE468405.md) | 1928 | Maschinenbau, Adrema | The embossing machine's toggle-lever linkage is reworked so the pawl blocking the type-head handwheel engages a tooth gap reliably. |
 | [DE583576](../patents/DE583576.md) | 1933 | Inhoffen, Walther | Use a drawn square bar for the whole shaft, guided in square-holed bushings at both ends of a rotating sleeve. |

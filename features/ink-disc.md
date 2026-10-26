@@ -1,8 +1,10 @@
-# INK:disc
+# Ink disc
+
+*Inking feature · code `INK:disc`*
 
 Ink disc
 
-**18 patents**, 1885–1948. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (5), [ESC:space-key](../features/esc-space-key.md) (5), [INK:pad](../features/ink-pad.md) (5), [SEL:selector-locking](../features/sel-selector-locking.md) (4), [ESC:print-and-space](../features/esc-print-and-space.md) (4), [ESC:carriage-release](../features/esc-carriage-release.md) (4), [PAP:platen-roller](../features/pap-platen-roller.md) (4), [ELEM:alignment-lock](../features/elem-alignment-lock.md) (4)
+**19 patents**, 1885–1948. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (5), [Space key or bar](../features/esc-space-key.md) (5), [Ink roller](../features/ink-roller.md) (5), [Ink pad](../features/ink-pad.md) (5), [Selection locked for printing](../features/sel-selector-locking.md) (4), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (4), [Carriage release](../features/esc-carriage-release.md) (4), [Roller platen](../features/pap-platen-roller.md) (4)
 
 **Machines:** [Columbia Index 2](../machines/columbia-index-2.md) (2), [Columbia Index 1](../machines/columbia-index-1.md) (1)
 
@@ -23,6 +25,7 @@ Ink disc
 | [US599397](../patents/US599397.md) | 1898 | Marshman - Burridge, Newman R. - Lee S. | Two independently pivoted rubber-type segments, each with a rigid finger-ring handle swung over a keyboard of imitation finger keys, so both hands select and one common impression device prints. |
 | [US691189](../patents/US691189.md) | 1902 | Sears, Charles | A fixed finger enters a groove in the oscillating type segment to stop it moving up or down at the impression point, with a paper-moving shield. |
 | [US726235](../patents/US726235.md) | 1903 | Uhlig, Richard W. | A circular flexible inked disc ribbon between type-wheel and platen, mounted on the swinging type-wheel frame and rotated each stroke. |
+| [US1090320](../patents/US1090320.md) | 1914 | Madigan, Patrick J. | A pivoted arm and adjustable banking stop on a table that spreads liquid from an ink well onto a roller or moistening member for an even distribution. |
 | [DE579492](../patents/DE579492.md) | 1933 | Fa, Alfred Dassler | A round ink plate is turned by a one-way gear from the moving carriage, and a rubbing roller applies ink to the plate and works it in before the plate inks the types; the transfer rate is adjustable with a pressure screw. |
 | [DE638140](../patents/DE638140.md) | 1936 |  | A rotatable disc-shaped ink carrier is arranged so only its edge sits between the sheets at the pressure point, and it turns freely as the paper roller shifts letter by letter. |
 | [DE670149](../patents/DE670149.md) | 1939 | Gabrielson, Carl | The transfer disc is carried on its shaft by a helical spring that lets it move sideways on its shaft under the pressure of the ribbon, so it presses elastically against the ribbon and the ink feed. |

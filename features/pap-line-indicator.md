@@ -1,8 +1,10 @@
-# PAP:line-indicator
+# Line and point indicator
+
+*Paper and carriage feature · code `PAP:line-indicator`*
 
 Line or point indicator and scale
 
-**497 patents**, 1829–1950. Often together with: [PAP:paper-guide](../features/pap-paper-guide.md) (148), [PAP:platen-roller](../features/pap-platen-roller.md) (140), [USE:accessory](../features/use-accessory.md) (105), [PAP:line-space](../features/pap-line-space.md) (95), [FRM:writing-visible](../features/frm-writing-visible.md) (75), [ESC:pawl-rack](../features/esc-pawl-rack.md) (72), [PAP:feed-rollers](../features/pap-feed-rollers.md) (69), [ESC:margin-stop](../features/esc-margin-stop.md) (61)
+**501 patents**, 1829–1950. Often together with: [Paper table and guides](../features/pap-paper-guide.md) (149), [Roller platen](../features/pap-platen-roller.md) (141), [Attachment or accessory](../features/use-accessory.md) (105), [Line spacing](../features/pap-line-space.md) (95), [Visible writing](../features/frm-writing-visible.md) (76), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (72), [Feed rollers and paper release](../features/pap-feed-rollers.md) (69), [Margin stops](../features/esc-margin-stop.md) (61)
 
 **Machines:** [Caligraph 3](../machines/caligraph-3.md) (2), [Caligraph 4](../machines/caligraph-4.md) (2), [Caligraph 5](../machines/caligraph-5.md) (2), [Caligraph 6, 7](../machines/caligraph-6-7.md) (2), [Yost 1](../machines/yost-1.md) (2), [Yost 2](../machines/yost-2.md) (2), [Yost 4 - 9](../machines/yost-4-9.md) (2), [Yost 10 - 14](../machines/yost-10-14.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensderfer 8](../machines/blickensderfer-8.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Williams 1 S](../machines/williams-1-s.md) (2), [Williams 2](../machines/williams-2.md) (2), [Williams 3](../machines/williams-3.md) (2)
 
@@ -199,6 +201,7 @@ Line or point indicator and scale
 | [US736848](../patents/US736848.md) | 1903 | Harpole, Andrew J. | A detachable copy holder with line and word indicators that move step by step as each letter is copied, and fold compactly. |
 | [US737877](../patents/US737877.md) | 1903 | Smith, John A. | A platen with a follower-plate or bill housing that holds the sheet and moves in line-spacing as a gauge to position each bill. |
 | [US739576](../patents/US739576.md) | 1903 | Barron - Merritt, Walter J. - Henry W. | An automatically operated printing-point indicator on the platen carriage and frame, shown in normal and exposed positions; the key-levers connect through a universal bar and links, and the mechanism is detailed beyond the first 3000 characters. |
+| [US743350](../patents/US743350.md) | 1903 | Treadway, William T. | An indicating mechanism on the carriage counts the items printed, operates regardless of line spacing, and resets automatically. |
 | [US750338](../patents/US750338.md) | 1904 | Beyerlen, Angelo Paul | Adjustable slides with numbered indicators grip an E-section rail fixed to the carriage, so each slide is set over the scale position of a column; the indicator is set at a mid-scale point and the slides act as tab stops. |
 | [US752883](../patents/US752883.md) | 1904 | Brown, Alexander T. | A scale on the carriage below the printing line with a fixed double pointer, one finger indicating the print point and one the scale. |
 | [US754435](../patents/US754435.md) | 1904 | Dufur, Douglas S. | A pneumatically actuated paper feed with take-off reels, a line-number and sheet-length indicator with alarm, and a slide scale for measuring top margins. |
@@ -288,6 +291,7 @@ Line or point indicator and scale
 | [US929840](../patents/US929840.md) | 1909 | Donning, George W. | Fine longitudinal shifting of the line-spacing racks, self-retaining, moves the whole writing mechanism a small amount apart from the step-by-step feed. |
 | [US930642](../patents/US930642.md) | 1909 | Briggs, Daniel | A clamp-on scale and holder for index strips fixed to the platen carrier, adjustable with knurled nuts. |
 | [US933942](../patents/US933942.md) | 1909 | Young, Harry B. | A dial wheel with line-space numbers is turned by gears from the platen shaft, and an indicator shows where the next bill should start, giving equal spacing between bills regardless of their length. |
+| [DE230047](../patents/DE230047.md) | 1909 |  | A stop on a rail, sized to the largest sheet, slides in an extension of the rail so the lower writing limit is set directly for each sheet length. |
 | [US940363](../patents/US940363.md) | 1909 | Robbins, Christopher C. | A cylindrical scale bar carries several parallel scales or headings and turns inside a housing with a reading slit, so the chosen scale shows through the slit while the others are covered; it is mounted on the carriage with the usual carriage scale and pointer. |
 | [US941294](../patents/US941294.md) | 1909 | Alverson, Carey S. | A worm and gear mounted on a bracket slot move the platen longitudinally, and a pointer indicator on the paper finger shows horizontal and vertical alignment, letting the platen be set accurately by turning the wheels. |
 | [US949224](../patents/US949224.md) | 1910 | Dysart, Birney | A measuring and stop device limits and indicates platen rotation so each new bill registers one line space below the last copy line. |
@@ -297,6 +301,7 @@ Line or point indicator and scale
 | [US953083](../patents/US953083.md) | 1910 | Yaw, Clio B. | The form holder turns with the platen on line spacing and is uncoupled and reset when the paper-feed mechanism is released. |
 | [US953489](../patents/US953489.md) | 1910 | Petit, Nelzire Francis | A rubber type disk carried on a small hand-moved carriage is turned by a pointer arm over a serrated-edge dial, and pressing the carriage down onto a rolling platen prints the selected type while an alternating tooth pair advances the carriage one space. |
 | [US954894](../patents/US954894.md) | 1910 | Smith, Charles E. | Billing mechanism mechanically positions the platen for condensed records without index numbers, leaving the platen free to be turned to any extent. |
+| [US955207](../patents/US955207.md) | 1910 | Roche, William J. | A page-end indicator on the platen frame of a Smith Premier No. 10 shows the end of the sheet, with a retaining friction plate on the platen. |
 | [US957178](../patents/US957178.md) | 1910 | Barney, Edwin E. | Pivoted leading-edge stops, spring-pressed toward the platen, are held away by a release-key spring and moved further by a separate hand lever. |
 | [US960252](../patents/US960252.md) | 1910 | Belknap, Frank Drayton | A spring clamp on the platen grips the card flat and a register with pointer shows the platen turn position for each address line. |
 | [US963629](../patents/US963629.md) | 1910 | McCormack, Harry S. | A gage table on a rod is locked at letter-space notches and can be adjusted toward or away from the platen. |
@@ -429,6 +434,7 @@ Line or point indicator and scale
 | [DE420980](../patents/DE420980.md) | 1925 |  | A single double-width ratchet wheel is used with two pawls of different lengths, one shifting by a half division so the spacing can change between lines. |
 | [DE424398](../patents/DE424398.md) | 1926 |  | A rotatable alignment wheel on a yielding carrier is drawn along the line and engages bevelled grooves on the type carriers, pressing them into line. |
 | [DE425892](../patents/DE425892.md) | 1926 |  | Pairs of balls in a cage on the line-index wheel are pressed by an axial cone against a brake jacket in the platen core, and a push button releases them. |
+| [DE429646](../patents/DE429646.md) | 1926 | Mackensen, Otto | A mirror system places the eye-side mirror at roughly equal distance to the keys and the written line so both appear together without looking away. |
 | [DE435856](../patents/DE435856.md) | 1926 |  | The edge stop rail sits behind the upper rear edge of the paper guide plate so that its adjusting button lies above the plate; each margin stop carries a mark that is matched to the scale on the plate, and the marks can be aligned exactly. |
 | [DE440774](../patents/DE440774.md) | 1927 | Dietrich, Karl | A slide-rule-sized typewriter in which spring-loaded metal types sit in holes of a double rail that is stepped along a frame by a spring drum each time the single print button is pressed. |
 | [DE448522](../patents/DE448522.md) | 1927 |  | The checkout drive stops automatically after the first document is printed, the line selector is set for the second document, and a release device restarts the run. |

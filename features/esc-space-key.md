@@ -1,8 +1,10 @@
-# ESC:space-key
+# Space key or bar
+
+*Spacing and escapement feature · code `ESC:space-key`*
 
 Separate space key or bar
 
-**547 patents**, 1843–1950. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (313), [SEL:keyboard-full](../features/sel-keyboard-full.md) (246), [PAP:platen-roller](../features/pap-platen-roller.md) (209), [ELEM:typebar](../features/elem-typebar.md) (174), [ESC:print-and-space](../features/esc-print-and-space.md) (172), [IMP:element-to-platen](../features/imp-element-to-platen.md) (161), [PAP:line-space](../features/pap-line-space.md) (160), [SEL:selector-locking](../features/sel-selector-locking.md) (155)
+**549 patents**, 1843–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (313), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (246), [Roller platen](../features/pap-platen-roller.md) (209), [Typebars](../features/elem-typebar.md) (174), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (172), [Element struck to the platen](../features/imp-element-to-platen.md) (161), [Line spacing](../features/pap-line-space.md) (160), [Selection locked for printing](../features/sel-selector-locking.md) (155)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (8), [Blickensderfer 7](../machines/blickensderfer-7.md) (7), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (6), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (5), [Mercury 3](../machines/mercury-3.md) (5), [Yost 4 - 9](../machines/yost-4-9.md) (5), [Yost 10 - 14](../machines/yost-10-14.md) (5), [Blickensderfer 8](../machines/blickensderfer-8.md) (5), [Yost 15 - 19](../machines/yost-15-19.md) (5), [Caligraph 3](../machines/caligraph-3.md) (4), [Caligraph 4](../machines/caligraph-4.md) (4), [Caligraph 5](../machines/caligraph-5.md) (4), [Caligraph 6, 7](../machines/caligraph-6-7.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (4), [Blickensderfer 3](../machines/blickensderfer-3.md) (4)
 
@@ -477,9 +479,11 @@ Separate space key or bar
 | [DE290602](../patents/DE290602.md) | 1914 |  | The feed device is set so that a hole symbol punched in the tape makes the feed respond twice to a space, and an improved scale shows the missing space. |
 | [US1101544](../patents/US1101544.md) | 1914 | Hess, Edward B. | A tabulator or jumper key carries the carriage to the right column directly, so fewer space-bar operations are needed. |
 | [US1101588](../patents/US1101588.md) | 1914 | Trone, Maurice N. | Split the type-bar segment into two vertically sliding quadrants so the shifted weight is about half, and split the keyboard into separated left and right halves. |
+| [US1113255](../patents/US1113255.md) | 1914 | Smith, Charles E. | Separate superspacing keys, each with its own adjustable jump-controlling device, that move the carriage a set number of letter spaces, also usable for rapid carriage runs. |
 | [US1113576](../patents/US1113576.md) | 1914 | Petermann, Otto | A spring-returned slotted lever with a tooth, mounted on the foldable carriage bed, is pushed by a pivoted finger lever on the folding support so the tooth engages the carriage rack and pushes the carriage back one space. |
 | [US1115311](../patents/US1115311.md) | 1914 | Harris, De Witt C. | Build the lower action (key levers, bell cranks, shift and ribbon-vibrator parts) and the upper action (type bar segment, type bars, guides, ribbon vibrator, universal yoke) each as a self-contained unit that is tested, then fixed into the frame with a few screws and withdrawable as a whole. |
 | [US1116144](../patents/US1116144.md) | 1914 | Smith, Arthur W. | A sheet-metal dog rocker carries a feed dog and a spring-loaded loose dog with bevelled teeth, so the carriage rack escapes one tooth per key stroke and can be pushed back against the dogs by camming them down. |
+| [US1120676](../patents/US1120676.md) | 1914 | Bishop, Ernest B. | A space bar mechanism giving a substantially vertical, easy movement of the bar, built from a small number of parts. |
 | [US1121033](../patents/US1121033.md) | 1914 | Petermann, Otto | Split feed mechanism with a spring-drum cord and releasable escapement parts that let the carriage run free or return. |
 | [US1121040](../patents/US1121040.md) | 1914 | Petermann, Otto | Give the loose (pivoted) dog two independent, light springs, one acting on the dog directly and one acting through a separate positioning lever, so each does its own job and each is easy to adjust. |
 | [US1121808](../patents/US1121808.md) | 1914 | Dench, William L. | A key lifts the type guide so its fingers block the wide typebar shanks short of the platen, while the key action still runs. |

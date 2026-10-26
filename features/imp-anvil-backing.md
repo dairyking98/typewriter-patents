@@ -1,8 +1,10 @@
-# IMP:anvil-backing
+# Backing or anvil behind the paper
+
+*Impression feature · code `IMP:anvil-backing`*
 
 Backing
 
-**174 patents**, 1856–1948. Often together with: [PAP:platen-roller](../features/pap-platen-roller.md) (81), [ESC:pawl-rack](../features/esc-pawl-rack.md) (54), [SEL:selector-locking](../features/sel-selector-locking.md) (52), [ESC:print-and-space](../features/esc-print-and-space.md) (50), [PAP:line-space](../features/pap-line-space.md) (46), [PAP:feed-rollers](../features/pap-feed-rollers.md) (43), [SEL:keyboard-full](../features/sel-keyboard-full.md) (42), [IMP:element-to-platen](../features/imp-element-to-platen.md) (41)
+**175 patents**, 1856–1948. Often together with: [Roller platen](../features/pap-platen-roller.md) (81), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (54), [Selection locked for printing](../features/sel-selector-locking.md) (52), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (50), [Line spacing](../features/pap-line-space.md) (46), [Feed rollers and paper release](../features/pap-feed-rollers.md) (43), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (42), [Element struck to the platen](../features/imp-element-to-platen.md) (41)
 
 **Machines:** [Noiseless 1](../machines/noiseless-1.md) (2), [L. C. Smith 7](../machines/l-c-smith-7.md) (2), [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Cash](../machines/cash.md) (1), [Mercury 3](../machines/mercury-3.md) (1), [Postal 5](../machines/postal-5.md) (1), [Williams 1 C](../machines/williams-1-c.md) (1), [Williams 1 S](../machines/williams-1-s.md) (1), [Williams 2](../machines/williams-2.md) (1), [Williams 3](../machines/williams-3.md) (1), [Williams 4](../machines/williams-4.md) (1), [Williams 6](../machines/williams-6.md) (1), [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1)
 
@@ -176,6 +178,7 @@ Backing
 | [DE611465](../patents/DE611465.md) | 1935 | Maschinenbau, Adrema | A hold-down fixed to the machine frame has a fork-shaped piece that grips the male punch on at least three sides and presses the plate at the embossing point from above or below, so it cannot warp. The hold-down swings out so plates with a strong front edge can be inserted. |
 | [DE612337](../patents/DE612337.md) | 1935 |  | A rubber shell is pulled on the core in its unground state, cut into narrow rings at letter spacing, and then sanded, so the discs damp vibration. |
 | [DE639956](../patents/DE639956.md) | 1936 |  | Thin rubber insert with corrugations on both sides, offset so the sheet keeps even thickness, placed between platen and paper. |
+| [DE662481](../patents/DE662481.md) | 1938 | Blois, Felix | An attachment with a guided type carrier holding all characters in grooves moves past the anvil, or is an intermittently rotated disc, so the ring is indexed in place after each blow. |
 | [DE675413](../patents/DE675413.md) | 1939 | Denzer, Ludwig | A resilient strip, rubber-based, in a rigid support bracket absorbs the type lever on its rest, reducing noise and sagging. |
 | [DE675676](../patents/DE675676.md) | 1939 | Benzing, Hugo | A hose body of braided rubber thread with knitted fabric or web is elastic transversely so only a few threads take each hit, and the threads spring back without disturbing neighbours. |
 | [DE676014](../patents/DE676014.md) | 1939 | Chisholm, Clifton | Put the upper and lower case die pairs alternately in one single ring of the carrier and give the carrier a shift: a partial rotation relative to its continuously turning shaft equal to the spacing of two neighbouring dies, so one stop per two dies selects either of the pair. |

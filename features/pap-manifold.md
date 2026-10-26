@@ -1,8 +1,10 @@
-# PAP:manifold
+# Carbon copies
+
+*Paper and carriage feature · code `PAP:manifold`*
 
 Carbon copies or manifolding emphasis
 
-**271 patents**, 1867–1949. Often together with: [PAP:platen-roller](../features/pap-platen-roller.md) (83), [PAP:paper-guide](../features/pap-paper-guide.md) (77), [INK:ribbon](../features/ink-ribbon.md) (52), [PAP:feed-rollers](../features/pap-feed-rollers.md) (52), [INK:carbon](../features/ink-carbon.md) (51), [PAP:line-space](../features/pap-line-space.md) (40), [USE:accessory](../features/use-accessory.md) (38), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (38)
+**274 patents**, 1867–1949. Often together with: [Roller platen](../features/pap-platen-roller.md) (83), [Paper table and guides](../features/pap-paper-guide.md) (77), [Carbon paper or inked strip](../features/ink-carbon.md) (53), [Feed rollers and paper release](../features/pap-feed-rollers.md) (53), [Ink ribbon](../features/ink-ribbon.md) (52), [Line spacing](../features/pap-line-space.md) (40), [Attachment or accessory](../features/use-accessory.md) (38), [Ribbon feed](../features/ink-ribbon-feed.md) (38)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (4), [Alexander (2)](../machines/alexander-2.md) (4), [Alexander (3)](../machines/alexander-3.md) (3), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Boston](../machines/boston.md) (1), [Remington 5](../machines/remington-5.md) (1), [Remington 6](../machines/remington-6.md) (1), [Remington 7](../machines/remington-7.md) (1)
 
@@ -14,6 +16,7 @@ Carbon copies or manifolding emphasis
 | [US127739](../patents/US127739.md) | 1872 | Cadmus, Eugene | A type wheel runs continuously on a power-driven shaft with a slotted cylinder beside it; pressing a key makes its end enter its slot in the cylinder when that slot comes round, which lifts the paper-bearing platen against the one type that is then at the print point. |
 | [US175584](../patents/US175584.md) | 1876 | Arnold, Benjamin | A lever swung over a notched arc turns a vertical shaft carrying a raised-letter plate to the selected letter, and pressing the lever into the notch rubs a marker over the letter against the paper while the notch depth sets the carriage feed. |
 | [US210739](../patents/US210739.md) | 1878 | Anderson - Anderson, Homer - Frank | An oscillating type carrier holds two rows of detachable vertical types that are struck by a hammer, positioned by an index and lever, with a belt that spaces the paper carriage unequal distances. |
+| [US213771](../patents/US213771.md) | 1879 | Morris, Robert C. | A tablet frame holds the paper with carbon sheets on rollers and a slide, so one writing produces copies on several sheets. |
 | [US279790](../patents/US279790.md) | 1883 | Orpen, Henry | A single supplemental keyboard connected by bars and rods to the keys of two or more Remington typewriters so one operator types them all at once. |
 | [US284570](../patents/US284570.md) | 1883 | Orpen, Henry | Two or more circles of typebars are connected to one set of keys and one carriage so one stroke prints several sheets. |
 | [US342302](../patents/US342302.md) | 1886 | Kempster, Daniel E. | A yoke frame holding a type-wheel, its sector drive and the ribbon is hinged over a sliding paper carrier; a lever moved along a tilted index plate turns the wheel through a toothed sector, drops into a notch to lock, and a further press prints and spaces. |
@@ -169,6 +172,7 @@ Carbon copies or manifolding emphasis
 | [US1018639](../patents/US1018639.md) | 1912 | Steele, Herbert H. | A carriage-mounted frame with two delivery rolls and a receiving roll feeds two work sheets and a carbon, with an automatic carbon return so the carbon is reused. |
 | [US1018701](../patents/US1018701.md) | 1912 | Dyer, William Allan | The paper fingers are made to slide and move toward and away from the platen so that the sheets can be lifted for correction without feeding them. |
 | [US1018748](../patents/US1018748.md) | 1912 | Dyer, William Allan | The paper fingers and their support rod are swung bodily away from the platen, leaving the paper free to be lifted sheet by sheet. |
+| [US1021776](../patents/US1021776.md) | 1912 | Heitzmann, Fritz | Print only the thicker sheets, interleave blank transparent sheets between them, and bind the stack so the thin sheet is exactly over the printed lines when a carbon leaf is used. |
 | [US1025204](../patents/US1025204.md) | 1912 | Paulson, Charles J. | A pivoted hammer is cocked by a key-driven arm that stretches a spring, then released by a pawl, with spring tension set by screws that slide the spring's attachment points. |
 | [US1040272](../patents/US1040272.md) | 1912 | Carhart, Herbert A. | A supplementary three-ply ribbon on spools on the platen frame, automatically shifted lengthwise and crosswise by cams on the platen each line so the types strike fresh ribbon. |
 | [US1040901](../patents/US1040901.md) | 1912 | Davis, Alice Urilla | A rectangular H-frame attached to the paper table sides carries a support and guide that keeps paper and carbon inserts aligned from the platen to the feed. |
@@ -212,6 +216,7 @@ Carbon copies or manifolding emphasis
 | [US1163774](../patents/US1163774.md) | 1915 | Rouillot, Victor B. | Ribbon spools sit beyond the ends of the platen on a rear shaft, with the ribbon carried forward in a swinging guide frame whose bar also spaces and tears the work-sheets, and a clutch frame picks which spool the line-space ratchet winds. |
 | [DE309590](../patents/DE309590.md) | 1916 |  | Two sets of feed rollers and endless belts advance the outer sheets at a different speed from the platen so the inner sheets slip behind, with equal sheet widths. |
 | [DE307964](../patents/DE307964.md) | 1916 |  | A second feed roller for the original sheet is geared to the main platen feed, so both move together at a chosen ratio, with an intermediate gear that a hand lever disengages for setting the original. |
+| [DE320676](../patents/DE320676.md) | 1920 | Browning, Walter Henry | Before each advance the strip is withdrawn a short distance from the supply reel, so the feed needles do not pull the reel during the switching stroke. |
 | [DE323145](../patents/DE323145.md) | 1920 | Fenton, Walter | A movable carrier alternately brings a pressure bar or a roller into the writing position, so one paper cart serves both original-only and original-plus-copy work. |
 | [DE327931](../patents/DE327931.md) | 1920 |  | U-shaped clamps with counter rails hold the folds, a cutter severs each edge on withdrawal, and an adjustable scaled stop sets the position. |
 | [DE335771](../patents/DE335771.md) | 1921 |  | A paper trolley of two parallel tracks with couplable carriers: one carrier guides the original on rollers and the other guides the carbon copy. |

@@ -1,8 +1,10 @@
-# ELEM:ring
+# Type ring
+
+*Type element feature · code `ELEM:ring`*
 
 Types on a ring or annulus
 
-**56 patents**, 1878–1949. Often together with: [IMP:press-through](../features/imp-press-through.md) (17), [ESC:pawl-rack](../features/esc-pawl-rack.md) (12), [SEL:selector-locking](../features/sel-selector-locking.md) (12), [ESC:print-and-space](../features/esc-print-and-space.md) (12), [ELEM:interchangeable](../features/elem-interchangeable.md) (11), [SEL:keyboard-full](../features/sel-keyboard-full.md) (11), [ELEM:individual-slugs](../features/elem-individual-slugs.md) (10), [FRM:few-parts](../features/frm-few-parts.md) (10)
+**57 patents**, 1878–1949. Often together with: [Hand presses the type through](../features/imp-press-through.md) (17), [Selection locked for printing](../features/sel-selector-locking.md) (13), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (12), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (12), [Interchangeable element](../features/elem-interchangeable.md) (11), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (11), [Separate type slugs or plungers](../features/elem-individual-slugs.md) (10), [Few parts, low cost](../features/frm-few-parts.md) (10)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (1), [National](../machines/national.md) (1), [Yost 4 - 9](../machines/yost-4-9.md) (1), [Yost 10 - 14](../machines/yost-10-14.md) (1)
 
@@ -58,6 +60,7 @@ Types on a ring or annulus
 | [US997582](../patents/US997582.md) | 1911 | Remnsnider, George | A rotary member on a central spindle carries the punch stems and dies on a ring, and the feed controls the stencil sheet. |
 | [US1051240](../patents/US1051240.md) | 1913 | Lee, Ulysses G. | A typograph whose dies sit in annular series on a die carrier, with compression levers and a cam shaft, so that the embossing force acts compressively within the frame. |
 | [US1151757](../patents/US1151757.md) | 1915 | Bennett, Orin | Keys only position a rotary annular type rack (by notch depth) and then close an electric circuit, so a solenoid-driven hammer gives every impression the same force. |
+| [DE445077](../patents/DE445077.md) | 1927 |  | A spring-loaded axial pin with holes or warts on the turret snaps the turret into its correct indexed position. |
 | [DE477191](../patents/DE477191.md) | 1929 | Gansert, Hermann | A dial-set type disk carries inner and outer type rings; a finger on the disk turns a lever that lifts a locking hook, so the drawer opens only after the seller has removed the receipt. |
 | [DE529363](../patents/DE529363.md) | 1931 | Mansel, Paul | Control disks are made as rings with adjusting grooves on their inner surfaces, so the pawl is not on the outer teeth. |
 | [DE580989](../patents/DE580989.md) | 1933 | Gerson, Adolf | Trapezoidal type sticks lie side by side forming a closed ring that is turned along a fixed rail with a cutout where one stick is pressed down. |

@@ -33,9 +33,9 @@ The line between the two is not always sharp. Some machines have a small set of 
 
 Many patents state this aim outright: the American Index patent, [US510214](../patents/US510214.md), asks for a small, portable, low-priced machine that still does first-class work.
 
-**Simplicity and size.** Fewer parts meant a lighter, smaller machine. The library's feature [FRM:few-parts](../features/frm-few-parts.md) is among the commonest in the read patents for index machines, and [FRM:compact-portable](../features/frm-compact-portable.md) is common too. Several machines were sold as pocket or travel machines, for example the [Taurus Type](../machines/taurus-type.md) (1908) and the French [Virotyp (B)](../machines/virotyp-b.md) (1914).
+**Simplicity and size.** Fewer parts meant a lighter, smaller machine. The library's feature [Few parts, low cost](../features/frm-few-parts.md) is among the commonest in the read patents for index machines, and [Portable or compact](../features/frm-compact-portable.md) is common too. Several machines were sold as pocket or travel machines, for example the [Taurus Type](../machines/taurus-type.md) (1908) and the French [Virotyp (B)](../machines/virotyp-b.md) (1914).
 
-**Toys and teaching.** About twenty of the Lexikon's index machines are described as toy or children's machines, from the [Herrington](../machines/herrington.md) (1885) and the Simplex family to German machines such as the [Famos](../machines/famos.md) (1910) and the American [Dial De Luxe](../machines/dial-de-luxe.md) (1934) by Louis Marx. The feature [USE:toy](../features/use-toy.md) collects the patents that say so; its earliest card is a crank-turned type wheel, [US175661](../patents/US175661.md) (1876).
+**Toys and teaching.** About twenty of the Lexikon's index machines are described as toy or children's machines, from the [Herrington](../machines/herrington.md) (1885) and the Simplex family to German machines such as the [Famos](../machines/famos.md) (1910) and the American [Dial De Luxe](../machines/dial-de-luxe.md) (1934) by Louis Marx. The feature [Toy or teaching machine](../features/use-toy.md) collects the patents that say so; its earliest card is a crank-turned type wheel, [US175661](../patents/US175661.md) (1876).
 
 **Huge character sets.** An index is the obvious way to choose among thousands of characters, which no keyboard can hold. The Lexikon lists index machines for Chinese and Japanese, such as [Chinese (A)](../machines/chinese-a.md) (1899, about 4,000 characters on a huge wheel), the [Nippon](../machines/nippon.md) (1917) and the [Shimada](../machines/shimada.md) (1938), each with two to four thousand characters.
 
@@ -45,19 +45,19 @@ The library sorts selection methods into features. The table shows how many read
 
 | Method | Feature | Index-type patents | Oldest card in the library |
 |---|---|---|---|
-| Pointer moved over a flat chart | [SEL:pointer-chart](../features/sel-pointer-chart.md) | 43 | 1829, [USX5581](../patents/USX5581.md) |
-| Pointer dropped into a hole or notch | [SEL:pointer-hole](../features/sel-pointer-hole.md) | 21 | 1852, [US8980](../patents/US8980.md) |
-| Dial or knob turned to the character | [SEL:dial](../features/sel-dial.md) | 20 | 1856, [US14907](../patents/US14907.md) |
-| Arm swung over an arc | [SEL:arc-arm](../features/sel-arc-arm.md) | 19 | 1876, [US175584](../patents/US175584.md) |
-| Slider along a straight index | [SEL:linear-slider](../features/sel-linear-slider.md) | 14 | 1850, [US7771](../patents/US7771.md) |
-| Type wheel turned directly by hand | [SEL:index-wheel](../features/sel-index-wheel.md) | 14 | 1843, [US3228](../patents/US3228.md) |
-| Stylus touched to a plate | [SEL:stylus-plate](../features/sel-stylus-plate.md) | 0 (4 in all) | 1884, [US292854](../patents/US292854.md) |
+| Pointer moved over a flat chart | [Pointer over a chart](../features/sel-pointer-chart.md) | 43 | 1829, [USX5581](../patents/USX5581.md) |
+| Pointer dropped into a hole or notch | [Pointer into a hole or notch](../features/sel-pointer-hole.md) | 21 | 1852, [US8980](../patents/US8980.md) |
+| Dial or knob turned to the character | [Dial or knob](../features/sel-dial.md) | 20 | 1856, [US14907](../patents/US14907.md) |
+| Arm swung over an arc | [Arm swung over an arc](../features/sel-arc-arm.md) | 19 | 1876, [US175584](../patents/US175584.md) |
+| Slider along a straight index | [Slider along a straight index](../features/sel-linear-slider.md) | 14 | 1850, [US7771](../patents/US7771.md) |
+| Type wheel turned directly by hand | [Hand-turned type wheel](../features/sel-index-wheel.md) | 14 | 1843, [US3228](../patents/US3228.md) |
+| Stylus touched to a plate | [Stylus on a letter plate](../features/sel-stylus-plate.md) | 0 (4 in all) | 1884, [US292854](../patents/US292854.md) |
 
-Almost every method also needs a way to hold the chosen position firmly while printing, so the letter lands in line. That is [SEL:selector-locking](../features/sel-selector-locking.md), the commonest selection feature of all among index-type patents (53).
+Almost every method also needs a way to hold the chosen position firmly while printing, so the letter lands in line. That is [Selection locked for printing](../features/sel-selector-locking.md), the commonest selection feature of all among index-type patents (53).
 
 ### Chart and pointer
 
-The classic arrangement: a printed chart of characters, and a pointer you slide over it. The pointer is geared or linked to the type carrier, so wherever it points, the matching type faces the paper. Then you press a print key, or press the pointer itself ([SEL:pointer-press-prints](../features/sel-pointer-press-prints.md)).
+The classic arrangement: a printed chart of characters, and a pointer you slide over it. The pointer is geared or linked to the type carrier, so wherever it points, the matching type faces the paper. Then you press a print key, or press the pointer itself ([Press the pointer to print](../features/sel-pointer-press-prints.md)).
 
 - The oldest card in the library is William Burt's 1829 "Typographer", [USX5581](../patents/USX5581.md): a lever moves a type segment over an index, and an impression lever prints and advances the paper. The Lexikon lists his machine as the [Burt](../machines/burt.md).
 - Byron Brooks's [US463723](../patents/US463723.md) (1891) describes a pointer on a letter plate that turns a multi-row type wheel by rack and pinion; pressing the pointer swings the frame down to print. It is linked by inventor name to the [Crown Index 1](../machines/crown-index-1.md).
@@ -66,11 +66,11 @@ The classic arrangement: a printed chart of characters, and a pointer you slide 
 
 ### Dial or wheel turned by hand
 
-Instead of a flat chart, the characters sit round a dial and you twist a knob or handle. In the simplest machines there is no separate dial at all: the type wheel carries a ring of character marks and you turn the wheel itself ([SEL:index-wheel](../features/sel-index-wheel.md)).
+Instead of a flat chart, the characters sit round a dial and you twist a knob or handle. In the simplest machines there is no separate dial at all: the type wheel carries a ring of character marks and you turn the wheel itself ([Hand-turned type wheel](../features/sel-index-wheel.md)).
 
 - Robert Ingersoll's [US478109](../patents/US478109.md) (1892), linked to the [Dollar Typewriter](../machines/dollar-typewriter.md), turns a small type wheel by a thumb button; pressing down locks a notch on a pin, prints through a slot, and steps the carriage.
 - Charles Spiro's [US352160](../patents/US352160.md) (1886), linked to the [Columbia Index 1](../machines/columbia-index-1.md) and [Columbia Index 2](../machines/columbia-index-2.md), uses a twirling handle with an index finger over a fixed dial, and two stacked wheels for small letters and capitals.
-- In a common variant the pointer drops into a hole or notch beside each character, which both shows the choice and locks the carrier ([SEL:pointer-hole](../features/sel-pointer-hole.md)). Adolphe Eggis's [US380792](../patents/US380792.md) (1888), linked to the Swiss [Velograph 2](../machines/velograph-2.md), works this way.
+- In a common variant the pointer drops into a hole or notch beside each character, which both shows the choice and locks the carrier ([Pointer into a hole or notch](../features/sel-pointer-hole.md)). Adolphe Eggis's [US380792](../patents/US380792.md) (1888), linked to the Swiss [Velograph 2](../machines/velograph-2.md), works this way.
 
 ### Stylus in a plate
 
@@ -89,7 +89,7 @@ A lever pivots at one end and its tip sweeps an arc or semicircle of characters,
 
 ### Small key sets that only set the element
 
-Some machines have keys, but the keys only move the type carrier into position; printing is a separate common stroke ([SEL:dummy-keyboard](../features/sel-dummy-keyboard.md)). John Pratt's [US81000](../patents/US81000.md) (1868) uses key levers that push a single type plate up, down and sideways by set amounts, with a hammer striking at one fixed point. The German [DE34986](../patents/DE34986.md) (1886) uses two small groups of keys, one to choose the row on a type roller and one to choose the character, so the number of characters is about the product of the two key counts. These sit halfway between index and keyboard machines.
+Some machines have keys, but the keys only move the type carrier into position; printing is a separate common stroke ([Keys that only set the element](../features/sel-dummy-keyboard.md)). John Pratt's [US81000](../patents/US81000.md) (1868) uses key levers that push a single type plate up, down and sideways by set amounts, with a hammer striking at one fixed point. The German [DE34986](../patents/DE34986.md) (1886) uses two small groups of keys, one to choose the row on a type roller and one to choose the character, so the number of characters is about the product of the two key counts. These sit halfway between index and keyboard machines.
 
 ## The type carriers
 
@@ -97,22 +97,22 @@ Every index machine has one carrier holding all its type. In the Lexikon's 90 in
 
 | Carrier | Index machines | What it is | Example |
 |---|---|---|---|
-| Type wheel | 39 | Types round the rim of a wheel ([ELEM:wheel-rim](../features/elem-wheel-rim.md)) | [Crown Index 1](../machines/crown-index-1.md), [Dollar Typewriter](../machines/dollar-typewriter.md) |
-| Type disc | 14 | Types on the flat face of a disc ([ELEM:disc-face](../features/elem-disc-face.md)) | [Velograph 2](../machines/velograph-2.md), [Simplex Type Writer](../machines/simplex-type-writer.md) |
-| Type cylinder | 8 | A drum with several rows along its length ([ELEM:cylinder-multirow](../features/elem-cylinder-multirow.md)) | [Mignon 1](../machines/mignon-1.md), [Tip-Tip](../machines/tip-tip.md) |
-| Type plate | 7 | A flat plate or grid of types ([ELEM:plate-flat](../features/elem-plate-flat.md)) | [World 1](../machines/world-1.md), [Morris](../machines/morris.md) |
-| Type ring | 3 | Types on a ring or curved segment ([ELEM:ring](../features/elem-ring.md), [ELEM:sector-segment](../features/elem-sector-segment.md)) | [American Index](../machines/american-index.md) |
-| Linear type rule | 2 | Types along a straight bar ([ELEM:linear-bar](../features/elem-linear-bar.md)) | [Westphalia](../machines/westphalia.md) |
-| Type band | 2 | A flexible strip of type ([ELEM:band](../features/elem-band.md)) | [La Parisienne](../machines/la-parisienne.md), [Coffman](../machines/coffman.md) |
-| Individual type | 4 | Separate type pieces picked one at a time ([ELEM:individual-slugs](../features/elem-individual-slugs.md)) | [Karli 1 Einreihig](../machines/karli-1-einreihig.md), [Chinese (B)](../machines/chinese-b.md) |
+| Type wheel | 39 | Types round the rim of a wheel ([Type wheel (types on the rim)](../features/elem-wheel-rim.md)) | [Crown Index 1](../machines/crown-index-1.md), [Dollar Typewriter](../machines/dollar-typewriter.md) |
+| Type disc | 14 | Types on the flat face of a disc ([Type disc (types on the face)](../features/elem-disc-face.md)) | [Velograph 2](../machines/velograph-2.md), [Simplex Type Writer](../machines/simplex-type-writer.md) |
+| Type cylinder | 8 | A drum with several rows along its length ([Multi-row type cylinder](../features/elem-cylinder-multirow.md)) | [Mignon 1](../machines/mignon-1.md), [Tip-Tip](../machines/tip-tip.md) |
+| Type plate | 7 | A flat plate or grid of types ([Flat type plate](../features/elem-plate-flat.md)) | [World 1](../machines/world-1.md), [Morris](../machines/morris.md) |
+| Type ring | 3 | Types on a ring or curved segment ([Type ring](../features/elem-ring.md), [Type sector or segment](../features/elem-sector-segment.md)) | [American Index](../machines/american-index.md) |
+| Linear type rule | 2 | Types along a straight bar ([Straight type bar or rule](../features/elem-linear-bar.md)) | [Westphalia](../machines/westphalia.md) |
+| Type band | 2 | A flexible strip of type ([Flexible type band](../features/elem-band.md)) | [La Parisienne](../machines/la-parisienne.md), [Coffman](../machines/coffman.md) |
+| Individual type | 4 | Separate type pieces picked one at a time ([Separate type slugs or plungers](../features/elem-individual-slugs.md)) | [Karli 1 Einreihig](../machines/karli-1-einreihig.md), [Chinese (B)](../machines/chinese-b.md) |
 
 The rest of the 90 are listed with unknown or unusual carriers.
 
-**Rubber type** ([ELEM:rubber-type](../features/elem-rubber-type.md)) deserves a mention of its own: 23 of the read index-type patents show it, nearly all from the 1880s and 1890s. The Morris plate, the American Index segment and the swappable type band of [US369401](../patents/US369401.md) (linked by inventor name to La Parisienne) are all rubber.
+**Rubber type** ([Rubber type](../features/elem-rubber-type.md)) deserves a mention of its own: 23 of the read index-type patents show it, nearly all from the 1880s and 1890s. The Morris plate, the American Index segment and the swappable type band of [US369401](../patents/US369401.md) (linked by inventor name to La Parisienne) are all rubber.
 
-**Changing the type.** With the whole alphabet on one part, many makers let you swap it for another font or language ([ELEM:interchangeable](../features/elem-interchangeable.md)).
+**Changing the type.** With the whole alphabet on one part, many makers let you swap it for another font or language ([Interchangeable element](../features/elem-interchangeable.md)).
 
-**Exact alignment.** A wheel that is a hair off gives a crooked letter, so most designs add a tooth, knife or V-notch that snaps the type square at the moment of printing ([ELEM:alignment-lock](../features/elem-alignment-lock.md)). Brooks's [US463723](../patents/US463723.md) says this is what frees the operator from having to place the pointer exactly.
+**Exact alignment.** A wheel that is a hair off gives a crooked letter, so most designs add a tooth, knife or V-notch that snaps the type square at the moment of printing ([Alignment lock at the print point](../features/elem-alignment-lock.md)). Brooks's [US463723](../patents/US463723.md) says this is what frees the operator from having to place the pointer exactly.
 
 ## How they print
 
@@ -120,11 +120,11 @@ There are three basic ways to bring type and paper together.
 
 | Method | Feature | Index-type patents | Example |
 |---|---|---|---|
-| Element to paper: the wheel, plate or arm moves down onto the paper | [IMP:element-to-platen](../features/imp-element-to-platen.md) | 45 | [DE149308](../patents/DE149308.md), [US478109](../patents/US478109.md) |
-| Paper to element: the platen or carriage is rocked into a fixed type | [IMP:platen-to-element](../features/imp-platen-to-element.md) | 13 | [US352160](../patents/US352160.md), [US14907](../patents/US14907.md) |
-| Hammer behind: a hammer drives paper (and ribbon) against the type | [IMP:hammer-behind](../features/imp-hammer-behind.md) | 7 | [US292854](../patents/US292854.md), [US232741](../patents/US232741.md) |
+| Element to paper: the wheel, plate or arm moves down onto the paper | [Element struck to the platen](../features/imp-element-to-platen.md) | 45 | [DE149308](../patents/DE149308.md), [US478109](../patents/US478109.md) |
+| Paper to element: the platen or carriage is rocked into a fixed type | [Platen pressed to the element](../features/imp-platen-to-element.md) | 13 | [US352160](../patents/US352160.md), [US14907](../patents/US14907.md) |
+| Hammer behind: a hammer drives paper (and ribbon) against the type | [Hammer behind the paper](../features/imp-hammer-behind.md) | 7 | [US292854](../patents/US292854.md), [US232741](../patents/US232741.md) |
 
-On most cheap machines your own hand provides the force ([IMP:press-through](../features/imp-press-through.md)), so the impression is only as even as your touch. Better machines use a separate print lever ([IMP:print-lever](../features/imp-print-lever.md)).
+On most cheap machines your own hand provides the force ([Hand presses the type through](../features/imp-press-through.md)), so the impression is only as even as your touch. Better machines use a separate print lever ([Separate print key or lever](../features/imp-print-lever.md)).
 
 The Lexikon records the direction of the blow too: 61 of the 90 index machines are listed as top strike (the type comes down onto the paper), 22 strike from the front, and only 2 strike from below.
 
@@ -138,17 +138,17 @@ The Lexikon records the direction of the blow too: 61 of the 90 index machines a
 | Ink disc | 3 |
 | Carbon paper | 1 |
 
-The ink roller ([INK:roller](../features/ink-roller.md)) suits a wheel or cylinder perfectly: the type rolls past it on the way to the paper. Mignon's patent [DE149308](../patents/DE149308.md) inks with a felt roller, and Brooks's wheel in [US463723](../patents/US463723.md) touches a roller and pushes it aside as it descends. Pads ([INK:pad](../features/ink-pad.md)) were common with rubber type on cheap machines. The [Columbia Index 1](../machines/columbia-index-1.md) used an ink disc ([INK:disc](../features/ink-disc.md)), and the [Westphalia](../machines/westphalia.md) (1884) carbon paper.
+The ink roller ([Ink roller](../features/ink-roller.md)) suits a wheel or cylinder perfectly: the type rolls past it on the way to the paper. Mignon's patent [DE149308](../patents/DE149308.md) inks with a felt roller, and Brooks's wheel in [US463723](../patents/US463723.md) touches a roller and pushes it aside as it descends. Pads ([Ink pad](../features/ink-pad.md)) were common with rubber type on cheap machines. The [Columbia Index 1](../machines/columbia-index-1.md) used an ink disc ([Ink disc](../features/ink-disc.md)), and the [Westphalia](../machines/westphalia.md) (1884) carbon paper.
 
-Ribbons ([INK:ribbon](../features/ink-ribbon.md)) came later to index machines. The Mignon shows the change: the [Mignon 1](../machines/mignon-1.md) (1902) used a roller, while the [Mignon 2](../machines/mignon-2.md) (1904) and later models used a ribbon. Many machines of the 1920s and 1930s list a ribbon, among them the [Olympia Plurotyp](../machines/olympia-plurotyp.md) and the [Tip-Tip](../machines/tip-tip.md).
+Ribbons ([Ink ribbon](../features/ink-ribbon.md)) came later to index machines. The Mignon shows the change: the [Mignon 1](../machines/mignon-1.md) (1902) used a roller, while the [Mignon 2](../machines/mignon-2.md) (1904) and later models used a ribbon. Many machines of the 1920s and 1930s list a ribbon, among them the [Olympia Plurotyp](../machines/olympia-plurotyp.md) and the [Tip-Tip](../machines/tip-tip.md).
 
 ## How they spaced and shifted
 
-**Letter spacing.** The single print stroke usually also moves the paper (or the print head) on by one letter ([ESC:print-and-space](../features/esc-print-and-space.md), 54 index-type patents), most often through a pawl stepping along a toothed rack ([ESC:pawl-rack](../features/esc-pawl-rack.md), 61). A separate space key ([ESC:space-key](../features/esc-space-key.md)) gives the gaps between words.
+**Letter spacing.** The single print stroke usually also moves the paper (or the print head) on by one letter ([Prints and spaces in one stroke](../features/esc-print-and-space.md), 54 index-type patents), most often through a pawl stepping along a toothed rack ([Pawl-and-rack escapement](../features/esc-pawl-rack.md), 61). A separate space key ([Space key or bar](../features/esc-space-key.md)) gives the gaps between words.
 
-**Spacing by letter width.** Several early inventors wanted narrow letters to take less room, and an index makes this easy because each position can carry its own stop. Thurber's [US3228](../patents/US3228.md) (1843) uses pins of different length on each key, Jones's [US8980](../patents/US8980.md) (1852) lets thick type push an extra roller, and Richardson's [US292854](../patents/US292854.md) uses hole size. See [ESC:variable-spacing](../features/esc-variable-spacing.md).
+**Spacing by letter width.** Several early inventors wanted narrow letters to take less room, and an index makes this easy because each position can carry its own stop. Thurber's [US3228](../patents/US3228.md) (1843) uses pins of different length on each key, Jones's [US8980](../patents/US8980.md) (1852) lets thick type push an extra roller, and Richardson's [US292854](../patents/US292854.md) uses hole size. See [Proportional spacing](../features/esc-variable-spacing.md).
 
-**Capitals and figures.** 52 of the 90 index machines are listed with no shift: everything they can print sits on the one chart. When a machine does shift, it is usually by sliding the wheel along its axle to a second row ([SHIFT:axial](../features/shift-axial.md)), as with the row knob of [US463723](../patents/US463723.md), or by turning it a fixed angle ([SHIFT:rotary](../features/shift-rotary.md)). A multi-row cylinder, as on the Mignon, makes a shift key unnecessary, since moving the pointer to another row of the chart slides the cylinder.
+**Capitals and figures.** 52 of the 90 index machines are listed with no shift: everything they can print sits on the one chart. When a machine does shift, it is usually by sliding the wheel along its axle to a second row ([Shift by sliding the element](../features/shift-axial.md)), as with the row knob of [US463723](../patents/US463723.md), or by turning it a fixed angle ([Shift by turning the element](../features/shift-rotary.md)). A multi-row cylinder, as on the Mignon, makes a shift key unnecessary, since moving the pointer to another row of the chart slides the cylinder.
 
 ## When and where
 
@@ -158,7 +158,7 @@ Ribbons ([INK:ribbon](../features/ink-ribbon.md)) came later to index machines. 
 
 **Germany and Europe (1890s to 1930s).** German and European index machines came a little later and lasted longer. Examples are the [Edelmann](../machines/edelmann.md) (1897, about 20,000 sold according to the Lexikon), the [Volksschreibmaschine](../machines/volksschreibmaschine.md) (1898), the [Picht Index](../machines/picht-index.md) (1907) and above all AEG's Mignon, which the Lexikon says sold in large numbers in its later models. The Lexikon names the Mignon as the model for the French [Heady](../machines/heady.md) (1919), the American [Yu Ess](../machines/yu-ess.md) (1918) and the Olympia Plurotyp (1933). Other European countries had their own, such as the wooden Spanish [Hogar](../machines/hogar.md) (1921).
 
-**Toys and small machines (1920s and 1930s).** Between the wars the index machine survived mainly as a children's or very small machine: the German [Gescha](../machines/gescha.md) and [Junior Gsn](../machines/junior-gsn.md) (both 1920), the Bakelite-cased [Carissima](../machines/carissima.md) (1934), and Louis Marx's [Dial De Luxe](../machines/dial-de-luxe.md) (1934) and [Junior Typewriter](../machines/junior-typewriter.md) (1935). The toy feature [USE:toy](../features/use-toy.md) peaks in the 1930s, after almost every other index feature has faded. Index machines for Chinese and Japanese continued even later; the Lexikon lists an East German [Optima (Chinese)](../machines/optima-chinese.md) from 1955.
+**Toys and small machines (1920s and 1930s).** Between the wars the index machine survived mainly as a children's or very small machine: the German [Gescha](../machines/gescha.md) and [Junior Gsn](../machines/junior-gsn.md) (both 1920), the Bakelite-cased [Carissima](../machines/carissima.md) (1934), and Louis Marx's [Dial De Luxe](../machines/dial-de-luxe.md) (1934) and [Junior Typewriter](../machines/junior-typewriter.md) (1935). The toy feature [Toy or teaching machine](../features/use-toy.md) peaks in the 1930s, after almost every other index feature has faded. Index machines for Chinese and Japanese continued even later; the Lexikon lists an East German [Optima (Chinese)](../machines/optima-chinese.md) from 1955.
 
 For a decade-by-decade list, see the [Timeline](../views/timeline.md).
 

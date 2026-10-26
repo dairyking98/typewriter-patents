@@ -1,8 +1,10 @@
-# SEL:chart-interchangeable
+# Interchangeable chart
+
+*Selection feature · code `SEL:chart-interchangeable`*
 
 Index chart or scale swapped with the element for other fonts or languages
 
-**58 patents**, 1880–1946. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (22), [ESC:pawl-rack](../features/esc-pawl-rack.md) (22), [ELEM:interchangeable](../features/elem-interchangeable.md) (21), [SEL:pointer-hole](../features/sel-pointer-hole.md) (17), [PAP:line-space](../features/pap-line-space.md) (17), [SEL:selector-locking](../features/sel-selector-locking.md) (16), [PAP:platen-roller](../features/pap-platen-roller.md) (16), [IMP:press-through](../features/imp-press-through.md) (15)
+**59 patents**, 1880–1946. Often together with: [Prints and spaces in one stroke](../features/esc-print-and-space.md) (22), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (22), [Interchangeable element](../features/elem-interchangeable.md) (21), [Pointer into a hole or notch](../features/sel-pointer-hole.md) (17), [Line spacing](../features/pap-line-space.md) (17), [Selection locked for printing](../features/sel-selector-locking.md) (16), [Roller platen](../features/pap-platen-roller.md) (16), [Hand presses the type through](../features/imp-press-through.md) (15)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (1), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (1), [Odell 1 B](../machines/odell-1-b.md) (1), [Odell 2](../machines/odell-2.md) (1), [Odell 3](../machines/odell-3.md) (1), [Odell 4](../machines/odell-4.md) (1)
 
@@ -57,6 +59,7 @@ Index chart or scale swapped with the element for other fonts or languages
 | [US1056159](../patents/US1056159.md) | 1913 | Emeliantzeff, Gregory | Spring-loaded hooks grip the eye of each type plate while the holder is raised and turned, and are released by fixed levers when the holder is lowered so the driving pin can move the plate. |
 | [DE342311](../patents/DE342311.md) | 1921 |  | Transparent type plates on a common type disk are selected and projected onto film, which is advanced one frame per character; plates are detachable so they can be checked and replaced. |
 | [DE424224](../patents/DE424224.md) | 1926 |  | The character sheet and glass plate are combined in a cardboard cap made in stock, and this assembly is fixed to the key-lever plate with retaining tongues. |
+| [DE449355](../patents/DE449355.md) | 1927 | Leon, Karl Oscar | A moving illustrated strip with ad and blank fields lets a clock movement be inserted into the blank fields, shown alternately. |
 | [DE482192](../patents/DE482192.md) | 1929 |  | Each key moves a rod with projections; cross rails with recesses are shifted by longitudinal rails with eccentrics driven by racks and an adjustable lever, so the same keys act on different cross rails after adjustment, letting interchangeable fonts be used in one line. |
 | [DE484001](../patents/DE484001.md) | 1929 |  | Letter rows of the character field are endless belts, shifted by a hand crank in alternation with the write key, giving a periodic key change. |
 | [DE535911](../patents/DE535911.md) | 1931 | Bauer, Emil | Each lamp has a socket on a control panel and a banana plug, inserted through a hole in a common plate, connects that lamp to a letter; removable guide templates ensure the plug is put in the right place. |

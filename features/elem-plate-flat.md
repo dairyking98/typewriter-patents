@@ -1,8 +1,10 @@
-# ELEM:plate-flat
+# Flat type plate
+
+*Type element feature · code `ELEM:plate-flat`*
 
 Flat type plate or matrix of characters
 
-**116 patents**, 1850–1950. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (49), [ESC:print-and-space](../features/esc-print-and-space.md) (42), [SEL:selector-locking](../features/sel-selector-locking.md) (32), [PAP:line-space](../features/pap-line-space.md) (31), [IMP:press-through](../features/imp-press-through.md) (29), [PAP:platen-roller](../features/pap-platen-roller.md) (28), [IMP:hammer-behind](../features/imp-hammer-behind.md) (27), [FRM:few-parts](../features/frm-few-parts.md) (26)
+**118 patents**, 1850–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (49), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (42), [Selection locked for printing](../features/sel-selector-locking.md) (32), [Line spacing](../features/pap-line-space.md) (31), [Hand presses the type through](../features/imp-press-through.md) (29), [Roller platen](../features/pap-platen-roller.md) (28), [Hammer behind the paper](../features/imp-hammer-behind.md) (27), [Few parts, low cost](../features/frm-few-parts.md) (26)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Postal 5](../machines/postal-5.md) (1)
 
@@ -84,6 +86,7 @@ Flat type plate or matrix of characters
 | [US634285](../patents/US634285.md) | 1899 | Burridge, Lee S. | A rocking keyboard plate tilting on two axes positions a single swinging flexible type-sheet by key position, and one hammer prints the selected type. |
 | [US647581](../patents/US647581.md) | 1900 | Pratt, John | Key levers move the type-plate through rock-shaft linkage to the right place and an automatic lock holds it there until printing is done. |
 | [US693277](../patents/US693277.md) | 1902 | Lambert, Frank | The keyboard is split into a fixed group and a removable plate of characters matching each type block. |
+| [US699496](../patents/US699496.md) | 1902 | Dawson, Clarence Lincoln | A universal letter-type forms the bottom part of the printing mechanism; printing type-segments are moved to positions by a carriage to print large letters. |
 | [US860215](../patents/US860215.md) | 1907 | Hopkins, William W. | A single type plate is positioned in two axes by the key itself, using differential stem heights, so it never has to return to a home position, and a hammer behind the paper prints whichever character is at the print point. |
 | [US860296](../patents/US860296.md) | 1907 | Hopkins, William W. | Key levers with differential lugs drive two positive links that move a type plate vertically and sideways, paired stops clamp those links to lock the plate, and a spring-driven hammer, released by the key and reset by the carriage escapement, prints with constant force. |
 | [US896913](../patents/US896913.md) | 1908 | Hopkins, William W. | Key levers do both jobs in one stroke: the first half of travel positions the type carrier vertically and laterally, the second half fires the hammer. |
@@ -106,6 +109,7 @@ Flat type plate or matrix of characters
 | [DE479846](../patents/DE479846.md) | 1929 |  | A smaller pressure roller is driven through a gear coupled by a cam-controlled clutch, so its speed follows the drum gear ratio while the address plate is printed. |
 | [DE494461](../patents/DE494461.md) | 1930 | Black, Horace Drummond | The inking roller and the ink-feeding roller are set with their axes inclined so they contact obliquely over their length; a thumb on the forme cylinder shaft swings the inking roller onto the plate and back. |
 | [DE494598](../patents/DE494598.md) | 1930 | Roth, Franz | Each type body carries characters on two opposite sides and the frame is turned 180 degrees to switch between them, halving the number of bodies. |
+| [DE518791](../patents/DE518791.md) | 1931 | Diehl, Heinrich | Spark gaps are switched by light through a photographic negative, so irradiated electrodes make marks on electrolytic paper. |
 | [DE536892](../patents/DE536892.md) | 1931 | Maschinenbau, Adrema | A downward bent leaf spring on the holder's front edge, limited by a rigid part, cushions retraction against a ring on the conveying axle that can be shifted sideways to release the holder. |
 | [DE537368](../patents/DE537368.md) | 1931 | Maschinenbau, Adrema | A spring-loaded locking piece below the bolt is pressed down by the new plate, letting the bolt snap over the plate's edge and fix it; a plate being removed catches the locking piece and keeps the bolt withdrawn. |
 | [DE550887](../patents/DE550887.md) | 1932 |  | Each printing plate carries a mechanical identifier such as an identification perforation that is compared with the identification punching of the cards, so the machine itself checks that the right plate is printed for each card group. |

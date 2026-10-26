@@ -1,8 +1,10 @@
-# ELEM:rubber-type
+# Rubber type
+
+*Type element feature · code `ELEM:rubber-type`*
 
 Elastic or rubber types
 
-**126 patents**, 1879–1949. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (72), [ESC:pawl-rack](../features/esc-pawl-rack.md) (71), [SEL:selector-locking](../features/sel-selector-locking.md) (62), [PAP:platen-roller](../features/pap-platen-roller.md) (53), [FRM:few-parts](../features/frm-few-parts.md) (49), [IMP:element-to-platen](../features/imp-element-to-platen.md) (49), [INK:pad](../features/ink-pad.md) (47), [ELEM:alignment-lock](../features/elem-alignment-lock.md) (41)
+**130 patents**, 1872–1949. Often together with: [Prints and spaces in one stroke](../features/esc-print-and-space.md) (72), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (71), [Selection locked for printing](../features/sel-selector-locking.md) (62), [Roller platen](../features/pap-platen-roller.md) (53), [Few parts, low cost](../features/frm-few-parts.md) (49), [Element struck to the platen](../features/imp-element-to-platen.md) (49), [Ink pad](../features/ink-pad.md) (47), [Alignment lock at the print point](../features/elem-alignment-lock.md) (41)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Travis](../machines/travis.md) (2), [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Mercury 3](../machines/mercury-3.md) (1)
 
@@ -10,6 +12,8 @@ Elastic or rubber types
 
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
+| [US125787](../patents/US125787.md) | 1872 | Cable, Wheeler | Builds the roller core from contiguous vulcanizable rubber strips with their edges exposed at the periphery, then applies and unites an envelope over the core. |
+| [US146255](../patents/US146255.md) | 1874 | Hugunin, Robert B. | Stacks layers of cloth or felt with rubber, compresses them into a pack, cuts strips and winds them edgewise on a core, then vulcanizes and cuts rollers. |
 | [US217444](../patents/US217444.md) | 1879 | Brown, Charles T. | Key spindle with rack drives a pinion and rock-shaft to throw a type-lever that carries a rubber type with an ink pad. |
 | [US238387](../patents/US238387.md) | 1881 | Hall, Thomas | A flexible rubber type-plate carried on a spring-driven stepping carriage is moved by a hand arm whose spur drops into lettered holes of an index plate, and the same arm's downward push presses the chosen type through a hole in an inking plate onto the paper. |
 | [US247058](../patents/US247058.md) | 1881 | Herrington, George H. | A dial-and-pointer type wheel turned by a single stem knob, which is pushed in to print and pulled out to space the paper cylinder. |
@@ -97,6 +101,7 @@ Elastic or rubber types
 | [US550486](../patents/US550486.md) | 1895 | Davidson, Alexander | Give each type a polygonal body with beveled flanges at its root that seats in a matching beveled-mouth center guide, which aligns the type and limits its travel. |
 | [US551404](../patents/US551404.md) | 1895 | Quentell, William P. | Pressing a key lever swings a geared segment that turns a central post carrying a curved type segment until the lever itself stops the post, and further travel of the same stroke releases the pinion from the post and fires a hammer that presses the paper against the type. |
 | [US557728](../patents/US557728.md) | 1896 | Travis, William H. | Each key-lever carries a differently shaped cam that rocks one of two rockers to turn the type-wheel a set angle either way from a rest position, then locks the wheel while a spring hammer prints and the carriage steps. |
+| [US563164](../patents/US563164.md) | 1896 | Graham - Savell, Robert S. - William B. | A process of inlaying unvulcanized rubber character compound into a soft-rubber key body, and the resulting product. |
 | [US565482](../patents/US565482.md) | 1896 | Mayer, Otto Friedrich | Print from an elastic type-plate moved by a lever to the desired letter, struck by a hammer whose force is set by a wedge and screw, not by the key. |
 | [US570546](../patents/US570546.md) | 1896 | Fredrick, William | A full keyboard turns a three-row type-wheel through a rock-shaft and segment-gear linkage, locks it with a notched wheel and pawl, then releases a spring-driven hammer so every blow has the same force. |
 | [US571414](../patents/US571414.md) | 1896 | Toepper, Richard | A pressing lever moved over a perforated sign board lets a stud push the selected rubber type through the hole onto the paper, with row choosing 1, 2 or 3 letters. |
@@ -131,6 +136,7 @@ Elastic or rubber types
 | [DE397320](../patents/DE397320.md) | 1924 | Fachetti, Guido | The print button moves a spring-tensioned slide whose pawl catches the rack, and the slide's stroke is set by an adjustable stop to vary the step. |
 | [DE498604](../patents/DE498604.md) | 1930 | Schmid, Max | The paper sledge's forward and backward stroke itself advances the roller carrier one hole: perforated walls on the roller carrier engage fixed tapered pins of different strength. |
 | [DE574363](../patents/DE574363.md) | 1933 | Stein, Wilhelm | Several thin type wheels on one axis, each carrying a few types, float on elastic rings and a shaped punch pushes only the selected wheel against the print surface. |
+| [DE631942](../patents/DE631942.md) | 1936 |  | An adhesive layer of rubber mixed with a heat-hardening thermoplastic resin, the two components mutually insoluble, is placed between the rubber and the rigid base. |
 | [DE649279](../patents/DE649279.md) | 1937 | Stein, Wilhelm | The rubber cover gets a non-stretchable base and a clamping device with pins, holes and screws that fix it at the same position on the roller both in the typewriter and on the transfer roller. |
 | [DE663712](../patents/DE663712.md) | 1938 | Lungershausen, Hermann | Rubber clichés for letterhead and signature are mounted in a letterpress form, a blanket is stretched over the typewriter text, and the whole form is inked and printed in one pass on any letterpress machine. |
 | [DE747162](../patents/DE747162.md) | 1944 | Graeve, Martha Meyer Geb | A thin embossed plastic shield bearing the special character is placed behind the ribbon at the stop point and printed by the blow of an ordinary typebar. |

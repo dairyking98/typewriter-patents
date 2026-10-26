@@ -1,8 +1,10 @@
-# ELEM:band
+# Flexible type band
+
+*Type element feature · code `ELEM:band`*
 
 Flexible type band or belt
 
-**33 patents**, 1886–1950. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (12), [ESC:print-and-space](../features/esc-print-and-space.md) (12), [FRM:few-parts](../features/frm-few-parts.md) (10), [SEL:pointer-chart](../features/sel-pointer-chart.md) (9), [SEL:selector-locking](../features/sel-selector-locking.md) (8), [ESC:moving-print-head](../features/esc-moving-print-head.md) (8), [FRM:writing-visible](../features/frm-writing-visible.md) (8), [PAP:platen-roller](../features/pap-platen-roller.md) (8)
+**37 patents**, 1886–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (12), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (12), [Few parts, low cost](../features/frm-few-parts.md) (10), [Pointer over a chart](../features/sel-pointer-chart.md) (9), [Selection locked for printing](../features/sel-selector-locking.md) (8), [Moving print head](../features/esc-moving-print-head.md) (8), [Visible writing](../features/frm-writing-visible.md) (8), [Roller platen](../features/pap-platen-roller.md) (8)
 
 ## Patents, oldest first
 
@@ -27,8 +29,11 @@ Flexible type band or belt
 | [DE318995](../patents/DE318995.md) | 1922 | Nobis, Franz | Make the type body from an electrolytically deposited cobalt-nickel alloy in a thin section, as light as rubber but far harder and more durable. |
 | [DE359608](../patents/DE359608.md) | 1922 | Payne, Halbert Edwin | Most of the type band's travel to the platen is done by swinging its holder, so the hammer only has to flex the band slightly at the print point. |
 | [DE360694](../patents/DE360694.md) | 1922 | Payne, Halbert Edwin | A flexible type strip on a swing frame is slid by a hand pointer over a staggered character board to bring the chosen type opposite a pressure arm, which presses it to the paper. |
+| [DE403475](../patents/DE403475.md) | 1924 |  | A single steel strip of tabs carries trapezoidal friction bodies on hinge pins that protrude on both sides, letting each body rotate a limited amount and follow sideways pulley shift. |
+| [DE411485](../patents/DE411485.md) | 1925 |  | Both closure parts are flat discs; one is a plain disc and the other has an inward-curved edge that snaps over it and holds it permanently, so the band can be sold in block or roll form. |
 | [DE445649](../patents/DE445649.md) | 1927 |  | Interchangeable small rooms with endless belts carry the characters, and tapes set the order, so the symbol set changes without changing the machine. |
 | [DE448896](../patents/DE448896.md) | 1927 |  | The strip is first given bent-down edges, then embossed, then cut off by a punch that leaves no bend or burr, so the order of operations is changed. |
+| [DE449355](../patents/DE449355.md) | 1927 | Leon, Karl Oscar | A moving illustrated strip with ad and blank fields lets a clock movement be inserted into the blank fields, shown alternately. |
 | [DE484001](../patents/DE484001.md) | 1929 |  | Letter rows of the character field are endless belts, shifted by a hand crank in alternation with the write key, giving a periodic key change. |
 | [DE498604](../patents/DE498604.md) | 1930 | Schmid, Max | The paper sledge's forward and backward stroke itself advances the roller carrier one hole: perforated walls on the roller carrier engage fixed tapered pins of different strength. |
 | [DE509940](../patents/DE509940.md) | 1931 | Weissfloch, Konrad Karl | A poster typewriter with large types on an endless cloth band moved past the print point by a pointer lever over a letter scale, struck from the front by a hammer so the writing is visible. |
@@ -40,4 +45,5 @@ Flexible type band or belt
 | [DE670190](../patents/DE670190.md) | 1939 | Goldberg, Emanuel | A negative search plate with the wanted identifier is placed in the beam path between the documents and a radiation-sensitive device, so the beam is interrupted only on a match; a photographic registration can then be triggered. |
 | [DE694372](../patents/DE694372.md) | 1940 | Karstedt, Paul | A self-coiling spring steel type tape is pulled through a spaced carriage on a guide frame and struck with a thimble hammer worn on a finger. |
 | [DE745629](../patents/DE745629.md) | 1944 | Ab, Venturo | Types are fixed on a chain or band moved past the paper, and staggered electromagnets select each type so that several letters can be written in one pass. |
+| [DE894463](../patents/DE894463.md) | 1950 | G, Tefi Appbau Daniel K | A tape with micro-acoustic mechanically scannable writing is sealed in a cassette so only a short piece is exposed. |
 | [DE882709](../patents/DE882709.md) | 1950 | Siech, Erika | Type carriers hang from vertical sliders in the housing and are moved by a hand lever and a drop slide, so the carrier is neither pulled nor bent. |

@@ -1,8 +1,10 @@
-# SEL:pointer-chart
+# Pointer over a chart
+
+*Selection feature · code `SEL:pointer-chart`*
 
 Pointer or stylus moved over a flat character chart; a separate key or lever prints
 
-**170 patents**, 1829–1938. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (91), [ESC:print-and-space](../features/esc-print-and-space.md) (85), [SEL:selector-locking](../features/sel-selector-locking.md) (73), [IMP:element-to-platen](../features/imp-element-to-platen.md) (65), [FRM:few-parts](../features/frm-few-parts.md) (65), [PAP:platen-roller](../features/pap-platen-roller.md) (64), [IMP:print-lever](../features/imp-print-lever.md) (61), [IMP:press-through](../features/imp-press-through.md) (53)
+**170 patents**, 1829–1938. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (91), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (85), [Selection locked for printing](../features/sel-selector-locking.md) (73), [Element struck to the platen](../features/imp-element-to-platen.md) (65), [Few parts, low cost](../features/frm-few-parts.md) (65), [Roller platen](../features/pap-platen-roller.md) (64), [Separate print key or lever](../features/imp-print-lever.md) (61), [Hand presses the type through](../features/imp-press-through.md) (53)
 
 **Machines:** [Crown Index 1](../machines/crown-index-1.md) (2), [Crown Index 2](../machines/crown-index-2.md) (2), [Peoples](../machines/peoples.md) (2), [Travis](../machines/travis.md) (2), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1), [Morris](../machines/morris.md) (1), [Century Index](../machines/century-index.md) (1), [Mignon 1](../machines/mignon-1.md) (1), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) (1), [Gerda 2](../machines/gerda-2.md) (1), [Gundka 3](../machines/gundka-3.md) (1), [Gundka 5](../machines/gundka-5.md) (1)
 

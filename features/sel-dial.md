@@ -1,8 +1,10 @@
-# SEL:dial
+# Dial or knob
+
+*Selection feature · code `SEL:dial`*
 
 Dial or knob turned to the character; carrier coupled rotationally
 
-**84 patents**, 1856–1941. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (36), [ESC:print-and-space](../features/esc-print-and-space.md) (33), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (31), [SEL:selector-locking](../features/sel-selector-locking.md) (30), [IMP:press-through](../features/imp-press-through.md) (28), [IMP:element-to-platen](../features/imp-element-to-platen.md) (28), [FRM:few-parts](../features/frm-few-parts.md) (25), [IMP:print-lever](../features/imp-print-lever.md) (23)
+**85 patents**, 1856–1941. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (36), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (33), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31), [Selection locked for printing](../features/sel-selector-locking.md) (30), [Hand presses the type through](../features/imp-press-through.md) (28), [Element struck to the platen](../features/imp-element-to-platen.md) (28), [Few parts, low cost](../features/frm-few-parts.md) (25), [Separate print key or lever](../features/imp-print-lever.md) (23)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (2), [Columbia Index 1](../machines/columbia-index-1.md) (1), [Columbia Index 2](../machines/columbia-index-2.md) (1)
 
@@ -92,5 +94,6 @@ Dial or knob turned to the character; carrier coupled rotationally
 | [DE492009](../patents/DE492009.md) | 1930 |  | A whorl on a bolt fixed to the control plate clamps the plate against the box plate and driver plate, and releases it for one-hand adjustment through notches and a spring-loaded head. |
 | [DE580989](../patents/DE580989.md) | 1933 | Gerson, Adolf | Trapezoidal type sticks lie side by side forming a closed ring that is turned along a fixed rail with a cutout where one stick is pressed down. |
 | [DE614344](../patents/DE614344.md) | 1935 |  | A single adjustment shaft sets all printing disks and display disks at once through interlocking gears, so the day advances one step as the shaft turns. |
+| [DE643803](../patents/DE643803.md) | 1937 | Tauschek, Gustav | Each storage element is a steel surface magnetised by a count of current pulses; a dial selects the element, and the pulses read back to a display. |
 | [DE654560](../patents/DE654560.md) | 1937 | Maschinenbau, Adrema | Swinging the adjusting handwheel engages the clutch and the pawl into the gear of the type wheel shaft, the clutch disengages automatically after one turn, and a V-belt connects the handwheel shaft to the type wheel shaft. |
 | [DE713496](../patents/DE713496.md) | 1941 |  | The actuator is a cam disk with several points of action, arranged over the control piece so it can set the control piece without ever moving it automatically. |

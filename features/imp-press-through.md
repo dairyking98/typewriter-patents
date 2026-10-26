@@ -1,8 +1,10 @@
-# IMP:press-through
+# Hand presses the type through
+
+*Impression feature · code `IMP:press-through`*
 
 The operator's force presses the type through directly
 
-**257 patents**, 1843–1949. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (110), [ESC:pawl-rack](../features/esc-pawl-rack.md) (108), [FRM:few-parts](../features/frm-few-parts.md) (93), [SEL:selector-locking](../features/sel-selector-locking.md) (79), [PAP:platen-roller](../features/pap-platen-roller.md) (73), [IMP:element-to-platen](../features/imp-element-to-platen.md) (70), [PAP:flat-bed](../features/pap-flat-bed.md) (63), [ELEM:individual-slugs](../features/elem-individual-slugs.md) (59)
+**260 patents**, 1843–1949. Often together with: [Prints and spaces in one stroke](../features/esc-print-and-space.md) (110), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (108), [Few parts, low cost](../features/frm-few-parts.md) (93), [Selection locked for printing](../features/sel-selector-locking.md) (79), [Roller platen](../features/pap-platen-roller.md) (73), [Element struck to the platen](../features/imp-element-to-platen.md) (70), [Flat bed or book typewriter](../features/pap-flat-bed.md) (63), [Separate type slugs or plungers](../features/elem-individual-slugs.md) (61)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Adlerwerke vorm. Heinr. Kleyer AG machine, 1898](../machines/adlerwerke-vorm-heinr-kleyer-ag-1898.md) (2), [Adler 8](../machines/adler-8.md) (2), [Empire 1 (A) (Canada)](../machines/empire-1-a-canada.md) (2), [Empire 1 (B) (Canada)](../machines/empire-1-b-canada.md) (2), [Empire 1 (C) (Canada)](../machines/empire-1-c-canada.md) (2), [Empire 2 (Canada)](../machines/empire-2-canada.md) (2), [Franklin 3, 4](../machines/franklin-3-4.md) (2)
 
@@ -259,10 +261,13 @@ The operator's force presses the type through directly
 | [DE460751](../patents/DE460751.md) | 1928 |  | A movable stamp box carries multiple letters per die part, raised or lowered by a keyed lever, with projections so only one letter contacts the strip, which runs in a channel. |
 | [DE508099](../patents/DE508099.md) | 1930 | Schwarze, Hermann | Six triangular swinging frames, each carrying a stamp on a bridge near the rear tip, are pushed by cutouts under the key levers. |
 | [DE508485](../patents/DE508485.md) | 1930 |  | Slides are moved onto each key lever, carrying the drive pin and the key stop, and are moved together by one rod. |
+| [DE518877](../patents/DE518877.md) | 1931 | Niessing, Franz | A swivel ruler sets the base height after each ring change, and the types are pressed into the ring by a rotating shaft. |
 | [DE525746](../patents/DE525746.md) | 1931 |  | A motor-driven slide reciprocates under a yoke, and a releasable coupling disengages at the end of the outward stroke, switching the motor on and off through the rest and working positions. |
 | [DE505000](../patents/DE505000.md) | 1931 | Schneider, Julius | The printing pad is cut or weakened across its section between words, so that stretching acts only in the word gaps and the printed characters stay undistorted. |
 | [DE543559](../patents/DE543559.md) | 1932 | Strauss, Emil | Small rollers in sealed plates, with a bearing capsule and pipe connection, close the cavity airtight and are pressed against the cylinder. |
 | [DE580989](../patents/DE580989.md) | 1933 | Gerson, Adolf | Trapezoidal type sticks lie side by side forming a closed ring that is turned along a fixed rail with a cutout where one stick is pressed down. |
+| [DE654891](../patents/DE654891.md) | 1938 | Harhaus, Carl | Pliers hold a steel letter type pushed through a square bar in one jaw and held by a pin; squeezing the jaws stamps the letter, and the ring is turned by one letter width for the next. |
+| [DE662687](../patents/DE662687.md) | 1938 | Sellgrad, Georg | The switch-on lever is bent back and to the side with a foot step at its lower end, so the operator can lean on the hanger and work it by foot. |
 | [DE694372](../patents/DE694372.md) | 1940 | Karstedt, Paul | A self-coiling spring steel type tape is pulled through a spaced carriage on a guide frame and struck with a thimble hammer worn on a finger. |
 | [DE882405](../patents/DE882405.md) | 1943 | Goebel, Joseph | A small hand-held machine is operated with one hand: finger keys emboss or punch a row of dots into a ribbon tape, which feeds forward automatically after each impression. |
 | [DE911373](../patents/DE911373.md) | 1947 |  | A second transfer link is hinged to the swivel arm with a longer lever arm than the drive link, so a constant drive movement gives an accelerated working stroke; the driven part is released from the driving toothed roller automatically during the stroke. |
