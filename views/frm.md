@@ -8,15 +8,15 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [FRM:adjustment-wear](../features/frm-adjustment-wear.md) | Adjustment or wear take-up provisions | 463 | 22 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁ ▁▁▂▆█▅▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [FRM:few-parts](../features/frm-few-parts.md) | Explicit aim of few parts | 378 | 39 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▄█▅▃▂▂▁▁` | [Gerda 2](../machines/gerda-2.md) |
-| [FRM:writing-visible](../features/frm-writing-visible.md) | Writing visible to the operator while typing | 348 | 28 | 1876 [US175584](../patents/US175584.md) | 1900s | `     ▁▃▇█▃▁▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [FRM:cleaning-access](../features/frm-cleaning-access.md) | Access for cleaning or element removal | 159 | 9 | 1876 [US183905](../patents/US183905.md) | 1900s | `     ▁▃██▆▂▁▁ ` |  |
-| [FRM:compact-portable](../features/frm-compact-portable.md) | Small | 148 | 18 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▂█▄▄▃▃▁ ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
-| [FRM:frame-construction](../features/frm-frame-construction.md) | Frame or casing construction (cast | 91 | 1 | 1883 [US290419](../patents/US290419.md) | 1890s | `      ▂█▆▆▁▁▁ ` |  |
-| [FRM:cover-enclosure](../features/frm-cover-enclosure.md) | Cover or enclosure of the mechanism | 46 | 4 | 1884 [US307301](../patents/US307301.md) | 1890s | `      ▄█▆▂▁▂▁ ` |  |
+| [FRM:adjustment-wear](../features/frm-adjustment-wear.md) | Adjustment or wear take-up provisions | 538 | 28 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁ ▁▁▂▅█▇▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [FRM:few-parts](../features/frm-few-parts.md) | Explicit aim of few parts | 402 | 40 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▄█▅▄▂▂▁▁` | [Gerda 2](../machines/gerda-2.md) |
+| [FRM:writing-visible](../features/frm-writing-visible.md) | Writing visible to the operator while typing | 393 | 28 | 1876 [US175584](../patents/US175584.md) | 1900s | `     ▁▃▇█▅▁▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [FRM:cleaning-access](../features/frm-cleaning-access.md) | Access for cleaning or element removal | 182 | 11 | 1876 [US183905](../patents/US183905.md) | 1900s | `     ▁▃▇██▂▁▁ ` |  |
+| [FRM:compact-portable](../features/frm-compact-portable.md) | Small | 161 | 19 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▂█▄▆▃▃▁ ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
+| [FRM:frame-construction](../features/frm-frame-construction.md) | Frame or casing construction (cast | 117 | 1 | 1883 [US290419](../patents/US290419.md) | 1910s | `      ▂▅▄█▁▁▁ ` |  |
+| [FRM:cover-enclosure](../features/frm-cover-enclosure.md) | Cover or enclosure of the mechanism | 54 | 6 | 1884 [US307301](../patents/US307301.md) | 1890s | `      ▄██▄▂▂▁ ` |  |
 
-## Index-type patents, oldest first (83)
+## Index-type patents, oldest first (92)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -86,20 +86,29 @@
 | 1906 | [US808875](../patents/US808875.md) | Shepard, Charles H. | index | An index wheel geared to the carriage spring drum, with numerals spiralling several times round its face, seen through an aperture slide. | cover-enclosure |
 | 1906 | [US824418](../patents/US824418.md) | Farnum, William C. | index | A pivoted pointer on the frame is raised by a link to the platen carriage and is snapped against the platen only at the end of the lift, by a double-acting over-centre… | writing-visible |
 | 1906 | [US835494](../patents/US835494.md) | Barrett, Glenn J. | index | A light spring pointer on the shifting frame is swung up by a hand button, independent of platen tilt, to show the print point, then springs back flat out of the way. | writing-visible, few-parts |
+| 1907 | [US844264](../patents/US844264.md) | Donaldson, Sidney Herbert | index | A clip-on case geared to the platen carries a pointer that sweeps a graduated dial and is stopped by an adjustable stop, arresting the platen at a preset line. | adjustment-wear |
 | 1909 | [US930642](../patents/US930642.md) | Briggs, Daniel | index | A clamp-on scale and holder for index strips fixed to the platen carrier, adjustable with knurled nuts. | adjustment-wear |
+| 1909 | [US937409](../patents/US937409.md) | Berry, Edgar H. | index | A sheet-metal front shield held on by leaf-spring clips snapping over pins on the type-bar segment, carrying a slotted inclined portion with a tabulator index plate… | cover-enclosure, cleaning-access |
 | 1911 | [US1011366](../patents/US1011366.md) | Payne - Wray, Halbert E. - Silas G. | index | A stamped sheet-metal frame carrying a hand-slid ribbon guide and a spring-loaded pointer is screwed to the platen-shift frame. | few-parts, writing-visible |
+| 1911 | [US987925](../patents/US987925.md) | Stewart, James S. | index | Print margin and tabulating scales on the flat horizontal dust guard plates beside the printing point, read against pointers on a rod that moves with the platen. | cover-enclosure |
 | 1914 | [DE307358](../patents/DE307358.md) |  | index | Use two friction shoes spread against a drum by two floating levers, which an axially sliding cone piece pushes apart. | adjustment-wear |
 | 1920 | [DE324213](../patents/DE324213.md) |  | index | A radially sliding wedge, pushed by weak springs into the slot of a split coupling ring, is pulled out by hand with a release pin so the ring only has to leave the ring… | adjustment-wear |
 | 1921 | [DE334712](../patents/DE334712.md) |  | index | Radial pins pushed out by a cone bear on the middle of balls arranged around them, so the balls clamp the line-space wheel to the platen axle much more firmly. | adjustment-wear |
 | 1922 | [DE348774](../patents/DE348774.md) |  | index | Lift the detent roller out of the teeth during line switching and brake the ratchet wheel, then lower the roller back into a gap afterwards. | adjustment-wear |
+| 1923 | [DE368216](../patents/DE368216.md) | Reisser, Adolf | index | Friction clamping jaws are pressed against a coupling sleeve by lever pairs with long actuating arms, driven by wedge-shaped displacer rods pushed between the lever ends. | adjustment-wear |
 | 1923 | [DE386402](../patents/DE386402.md) |  | index | Use a vernier coupling with many closely spaced pins on star-shaped springs and nested toothed discs of 33 and 32 gaps for about 1.1 mm of arc. | adjustment-wear |
 | 1924 | [DE387763](../patents/DE387763.md) |  | index | Two double-forked tendons press grooved rollers into engagement with the line wheel, released by turning a handle between the line wheel and lever. | adjustment-wear |
 | 1924 | [DE393929](../patents/DE393929.md) | Emig, Georg | index | Put the pointer and character plate in the machine's symmetry plane directly above the type wheel axis, and have the pointer drive the wheel through a toothed segment… | few-parts, compact-portable |
 | 1924 | [DE393933](../patents/DE393933.md) |  | index | Press the toothed tendons outward with a steel ball driven by an adjusting knob screw, against a ring spring, to engage the line index ring gear. | adjustment-wear |
+| 1924 | [DE393934](../patents/DE393934.md) |  | index | A pair of spring-loaded pinch rollers on pawls couples roller and ratchet wheel steplessly, and a single lever, swung by a twist of the central knob rod, retracts all… | adjustment-wear |
+| 1924 | [DE406096](../patents/DE406096.md) |  | index | Mount the line pointer on a slider on the clamping strip so it lifts and folds down with the clamp in one motion. | few-parts |
 | 1929 | [DE476341](../patents/DE476341.md) | Kaeppler, Paul | index | An adjustment lever on the carriage side wall, positioned by an eccentric with knob and detent washer, sets the pawl's starting position so one stroke turns the ratchet… | adjustment-wear |
 | 1930 | [DE489650](../patents/DE489650.md) | Arondel, Maurice Leon | index | Incline the type carriers and their guide plate downward so they rest below the writing line, leaving it visible and shortening the machine. | writing-visible, compact-portable |
 | 1931 | [DE524809](../patents/DE524809.md) |  | index | Both the cable and its sheath are hung in sprung open eyes so the owner can detach and replace the Bowden cable. | cleaning-access |
+| 1931 | [DE540613](../patents/DE540613.md) | Sebastian, Friedmann | index | A slotted clamping ring between the line-spacing wheel and the platen cover is spread by the flats on the coupling bolt's end web, so the wheel keeps its round shape and… | adjustment-wear |
 | 1932 | [DE545922](../patents/DE545922.md) | Sa, Stenotype Grandjean | index | A one-piece pawl with a switching tooth and a trailing safety tooth, plus an adjustable stop on the holder, moves the ratchet exactly one tooth per stroke. | adjustment-wear |
+| 1935 | [DE613630](../patents/DE613630.md) |  | index | The line-space ratchet wheel is clamped between a fixed flange and a sliding washer, pressed by two wedge levers inside the platen end that a cam on an axially sliding… | compact-portable, adjustment-wear, cleaning-access |
 | 1937 | [DE647101](../patents/DE647101.md) | Banholzer, Friedrich | index | Drive the line indicator with semi-rigid flexible steel strips actuated only from the lower edge, so the other three edges of the holder plate stay free. | compact-portable |
+| 1937 | [DE653658](../patents/DE653658.md) |  | index | Both line indicator bars on a common carrier follow the platen shift and can be moved by one handle between a close-fitting position and a slightly raised position,… | adjustment-wear |
 | 1940 | [DE694994](../patents/DE694994.md) | Slee, Arthur Lloyd | index | A cardboard holder whose line-indicator strip is carried down by the sliding manuscript plate and held back by tongues on the stand plate, so it steps silently. | few-parts |
 | 1942 | [DE720260](../patents/DE720260.md) | Soc, Stenotype Grandjean | index | A double lever under the hood is dragged out at one end by the ribbon-end buckle, showing a coloured tip outside the hood. | cover-enclosure |

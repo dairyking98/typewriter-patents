@@ -8,17 +8,17 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 222 | 33 | 1883 [US284231](../patents/US284231.md) | 1890s | `      ▂██▅▁▁▁▁` |  |
+| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 238 | 39 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▂██▅▁▁▁▁` |  |
+| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 59 | 2 | 1890 [US441232](../patents/US441232.md) | 1910s | `       ▃▅█▆▄▃▁` |  |
 | [USE:book-typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 53 | 6 | 1881 [DE16716](../patents/DE16716.md) | 1900s | `      ▁▇█▂▁▁  ` |  |
-| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 48 | 1 | 1890 [US441232](../patents/US441232.md) | 1910s | `       ▃▆█▄▄▂▁` |  |
-| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 43 | 1 | 1880 [US232741](../patents/US232741.md) | 1910s | `      ▃▃▅█▃▁  ` |  |
+| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 46 | 1 | 1880 [US232741](../patents/US232741.md) | 1910s | `      ▃▃▆█▃▁▁ ` |  |
 | [USE:stenotype](../features/use-stenotype.md) | Shorthand or stenographic machine | 27 | 1 | 1868 [US81000](../patents/US81000.md) | 1910s | `    ▁▁▁▃▃█ ▅  ` |  |
-| [USE:toy](../features/use-toy.md) | Toy or educational machine | 15 | 3 | 1876 [US175661](../patents/US175661.md) | 1930s | `     ▂▆▂▆▂▂█▂ ` |  |
-| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 13 | 1 | 1886 [US345565](../patents/US345565.md) | 1900s | `      ▁▁█▃   ▁` |  |
+| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 20 | 1 | 1886 [US345565](../patents/US345565.md) | 1900s | `      ▁▁█▄▂▂▁▁` |  |
+| [USE:toy](../features/use-toy.md) | Toy or educational machine | 16 | 3 | 1876 [US175661](../patents/US175661.md) | 1900s | `     ▂▆▂█▂▂█▂ ` |  |
 | [USE:blind](../features/use-blind.md) | For the blind (embossing | 11 | 0 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁    ▂█  ▁  ` |  |
 | [USE:check-writer](../features/use-check-writer.md) | Check writer or amount printer | 7 | 0 | 1893 [US511313](../patents/US511313.md) | 1900s | `       ▅█▃   ▃` |  |
 
-## Index-type patents, oldest first (44)
+## Index-type patents, oldest first (50)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -51,7 +51,11 @@
 | 1904 | [US774346](../patents/US774346.md) | Yates - Summers, Edgar - Louis A. | index | A clamp-on line counter geared to the platen turns an index finger over a scale, with a cam that trips an alarm at a set line. | accessory |
 | 1905 | [US789175](../patents/US789175.md) | Sherin, Gilbert W. | index | A flat disc type wheel with a handle sits on a sheet-metal carriage that slides in a slotted base plate lying on the paper; turn the wheel by hand, press it down near… | toy |
 | 1906 | [US835494](../patents/US835494.md) | Barrett, Glenn J. | index | A light spring pointer on the shifting frame is swung up by a hand button, independent of platen tilt, to show the print point, then springs back flat out of the way. | accessory |
+| 1907 | [US844264](../patents/US844264.md) | Donaldson, Sidney Herbert | index | A clip-on case geared to the platen carries a pointer that sweeps a graduated dial and is stopped by an adjustable stop, arresting the platen at a preset line. | accessory |
+| 1908 | [US895745](../patents/US895745.md) | Gradwell, Ricord | index | A strip bearing column headings in a holder behind the printing point, parallel to the platen, hinged so it swings up out of the way. | accessory |
+| 1908 | [US907450](../patents/US907450.md) | Branson, Edwin F. M. | index | A second, half-length carriage scale numbered in the opposite direction, with each division worth two letter spaces, slides beside the main scale so the operator just… | accessory |
 | 1909 | [US930642](../patents/US930642.md) | Briggs, Daniel | index | A clamp-on scale and holder for index strips fixed to the platen carrier, adjustable with knurled nuts. | accessory |
+| 1910 | [US950846](../patents/US950846.md) | Ford, Tullius Everett | index | A copy holder with a roller and scale mounted on the typewriter carriage, whose pointer is held fixed relative to the machine frame through wires, so it steps along the… | accessory |
 | 1911 | [US1002266](../patents/US1002266.md) | Groyen, Ferdinand | index | A hand-moved rack with a pointer on a staff scale turns a toothed cylinder as long as the platen, which turns a gear on the platen axle to set the platen angle. | special-script |
 | 1911 | [US1011366](../patents/US1011366.md) | Payne - Wray, Halbert E. - Silas G. | index | A stamped sheet-metal frame carrying a hand-slid ribbon guide and a spring-loaded pointer is screwed to the platen-shift frame. | accessory |
 | 1914 | [US1083646](../patents/US1083646.md) | Wilson, Charles N. | index | A platen-end attachment with a numbered bell that counts line spaces and rings when the chosen line is reached. | accessory |
@@ -59,6 +63,8 @@
 | 1915 | [US1140330](../patents/US1140330.md) | Merlin, Sidney L. W. | index | A scale attached to a margin stop with two graduation series, one counting letter spaces and one counting half that, shows where the carriage must start to centre a line. | accessory |
 | 1921 | [DE332718](../patents/DE332718.md) | Vester, Heinrich | index | A pointer-driven type cylinder carries several fonts as spring-loaded type pistons, positioned by rotation and axial slide, struck from above by a hammer-tipped key and… | book-typewriter |
 | 1923 | [DE366618](../patents/DE366618.md) | Navarre, Gaston | index | A carriage-mounted ratchet wheel with a presettable pointer counts line feeds and rings a bell at the chosen line. | accessory |
+| 1924 | [DE406096](../patents/DE406096.md) |  | index | Mount the line pointer on a slider on the clamping strip so it lifts and folds down with the clamp in one motion. | accessory |
+| 1925 | [DE422744](../patents/DE422744.md) |  | index | A detachable pliers-and-flap coupling links the adder's adjusting slide to the typewriter's setting pointer so the pointer follows the digit rack pulled on the adder. | calculating, accessory |
 | 1931 | [DE521627](../patents/DE521627.md) |  | index | The pivoting upper part is pressed by a torsion spring against a horizontally rotatable flatted disc, so turning the disc sets the holder to the working or rest position. | accessory |
 | 1931 | [DE524809](../patents/DE524809.md) |  | index | Both the cable and its sheath are hung in sprung open eyes so the owner can detach and replace the Bowden cable. | accessory |
 | 1932 | [DE545922](../patents/DE545922.md) | Sa, Stenotype Grandjean | index | A one-piece pawl with a switching tooth and a trailing safety tooth, plus an adjustable stop on the holder, moves the ratchet exactly one tooth per stroke. | stenotype |

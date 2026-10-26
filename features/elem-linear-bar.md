@@ -2,7 +2,7 @@
 
 Types along a straight bar or rule
 
-**30 patents**, 1854–1934. Often together with: [SEL:linear-slider](../features/sel-linear-slider.md) (24), [ESC:print-and-space](../features/esc-print-and-space.md) (20), [ESC:pawl-rack](../features/esc-pawl-rack.md) (18), [IMP:press-through](../features/imp-press-through.md) (16), [PAP:platen-roller](../features/pap-platen-roller.md) (15), [IMP:element-to-platen](../features/imp-element-to-platen.md) (15), [FRM:few-parts](../features/frm-few-parts.md) (15), [SEL:pointer-hole](../features/sel-pointer-hole.md) (14)
+**31 patents**, 1854–1934. Often together with: [SEL:linear-slider](../features/sel-linear-slider.md) (25), [ESC:print-and-space](../features/esc-print-and-space.md) (21), [ESC:pawl-rack](../features/esc-pawl-rack.md) (19), [IMP:press-through](../features/imp-press-through.md) (16), [PAP:platen-roller](../features/pap-platen-roller.md) (16), [IMP:element-to-platen](../features/imp-element-to-platen.md) (16), [FRM:few-parts](../features/frm-few-parts.md) (16), [SEL:pointer-hole](../features/sel-pointer-hole.md) (14)
 
 **Machines:** [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (2), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (2), [Odell 1 B](../machines/odell-1-b.md) (2), [Odell 2](../machines/odell-2.md) (2), [Odell 3](../machines/odell-3.md) (2), [Odell 4](../machines/odell-4.md) (2), [Pearl](../machines/pearl.md) (1), [Thomas](../machines/thomas.md) (1), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1)
 
@@ -39,4 +39,5 @@ Types along a straight bar or rule
 | [US703689](../patents/US703689.md) | 1902 | Young, William Henry | A finger guide attached to a sliding type bar is moved over a lettered indicator plate by feel, and when the finger is over the character, pressing the plate itself impresses that type and spaces the paper. |
 | [US932167](../patents/US932167.md) | 1909 | Odell, Levi J. | A single rocking type bar on a sliding frame, positioned by a stylus over a slotted character bar, printing the character chosen. |
 | [US977448](../patents/US977448.md) | 1910 | Harrison, Samuel A. | A hand-indexed rotatable multi-alphabet type bar in a swinging cradle prints onto a platen carriage whose single spacing lever, through a shiftable double pawl, can advance the carriage in either direction. |
+| [DE364325](../patents/DE364325.md) | 1922 | Weinsziehr, Jean | A springy type comb carrying several types per tine is positioned by hand in two axes under a pressure lever; one stroke of the single print lever presses the tine, spaces the carriage one tooth and advances the ribbon. |
 | [DE597818](../patents/DE597818.md) | 1934 | Loewenbuck, Sebastian | Horizontally sliding type rods are driven by horizontally sliding key rods through gears, giving a flat machine. |

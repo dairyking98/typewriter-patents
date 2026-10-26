@@ -184,7 +184,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1900s
 
-2431 patents (99 German), 622 read, 22 index-type.
+2431 patents (99 German), 657 read, 26 index-type.
 
 **Index machines:** [Simplex Little Giant](../machines/simplex-little-giant.md) (1900, type disc), [Niagara](../machines/niagara.md) (1901, type wheel), [Simplex Special A](../machines/simplex-special-a.md) (1901, type disc), [Coffman](../machines/coffman.md) (1902, type band), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) (1902, index (pointer)), [Mignon 1](../machines/mignon-1.md) (1902, type cylinder), [Mignon 2](../machines/mignon-2.md) (1904, type cylinder), [Officine Galileo](../machines/officine-galileo.md) (1904, type wheel), [Simplex Spezial 1](../machines/simplex-spezial-1.md) (1906, type disc), [Picht Index](../machines/picht-index.md) (1907, type wheel), [Taurus Type](../machines/taurus-type.md) (1908, type wheel)
 
@@ -201,7 +201,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1910s
 
-2122 patents (113 German), 418 read, 10 index-type.
+2122 patents (113 German), 526 read, 13 index-type.
 
 **Index machines:** [Darling (A)](../machines/darling-a.md) (1910, type wheel), [Darling (B)](../machines/darling-b.md) (1910, type disc), [Famos](../machines/famos.md) (1910, type wheel), [Trebla](../machines/trebla.md) (1910, type wheel), [Nouveau Siècle](../machines/nouveau-siecle.md) (1912, type disc), [Aktiv](../machines/aktiv.md) (1913, type wheel), [Mignon 3](../machines/mignon-3.md) (1913, type cylinder), [Virotyp (B)](../machines/virotyp-b.md) (1914, type disc), [Nippon](../machines/nippon.md) (1917, ), [Yu Ess](../machines/yu-ess.md) (1918, type cylinder), [Gerda 1](../machines/gerda-1.md) (1919, type wheel), [Heady](../machines/heady.md) (1919, type wheel)
 
@@ -218,7 +218,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1920s
 
-1502 patents (1498 German), 158 read, 16 index-type.
+1502 patents (1498 German), 180 read, 23 index-type.
 
 **Index machines:** [Chinese (B)](../machines/chinese-b.md) (1920, individual type), [Gescha](../machines/gescha.md) (1920, type wheel), [Junior GSN](../machines/junior-gsn.md) (1920, type wheel), [Gerda 2](../machines/gerda-2.md) (1921, type wheel), [Hogar](../machines/hogar.md) (1921, type cylinder), [Die kleine Gundka](../machines/die-kleine-gundka.md) (1924, index (pointer + type wheel)), [Mignon 4](../machines/mignon-4.md) (1924, type cylinder), [Typen](../machines/typen.md) (1924, type wheel), [Karli 1 Einreihig](../machines/karli-1-einreihig.md) (1927, individual type), [Karli 2 Zweireihig](../machines/karli-2-zweireihig.md) (1928, individual type)
 
@@ -226,16 +226,16 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 - [DE334712](../patents/DE334712.md) 1921, inventor unknown: Radial pins pushed out by a cone bear on the middle of balls arranged around them, so the balls clamp the line-space wheel to the platen axle much more firmly.
 - [DE332718](../patents/DE332718.md) 1921, Vester, Heinrich: A pointer-driven type cylinder carries several fonts as spring-loaded type pistons, positioned by rotation and axial slide, struck from above by a hammer-tipped key and…
-- [DE348775](../patents/DE348775.md) 1922, inventor unknown: Radial pins in the handwheel rim, with cones on their inner ends, push a coupling part axially to release the line-space wheel; pressing the pins alone frees and turns…
 - [DE381359](../patents/DE381359.md) 1923, Hundt, Otto: A rod sliding in the hollow platen axle carries a driver that engages the line wheel bore, held by springs and released by pushing a button at either end.
 - [DE377030](../patents/DE377030.md) 1923, inventor unknown: Several writing keys per letter field, where the extra keys also move the type cylinder (rotationally or lengthwise) through a gear, so case is chosen by which key is…
 - [DE387764](../patents/DE387764.md) 1924, Herlt, Franz: Two pointers, one each side of the print point, each with two tips at fixed distances, read against the normal carriage scale.
+- [DE406096](../patents/DE406096.md) 1924, inventor unknown: Mount the line pointer on a slider on the clamping strip so it lifts and folds down with the clamp in one motion.
 - [DE387763](../patents/DE387763.md) 1924, inventor unknown: Two double-forked tendons press grooved rollers into engagement with the line wheel, released by turning a handle between the line wheel and lever.
 - [DE434842](../patents/DE434842.md) 1926, inventor unknown: A tooth clutch of spring-loaded swing arms is engaged by a conical hub and released by a plunger through the hollow platen axle, needing a short movement.
 
 ## 1930s
 
-1363 patents (1359 German), 112 read, 6 index-type.
+1363 patents (1359 German), 133 read, 9 index-type.
 
 **Index machines:** [Ludolf](../machines/ludolf.md) (1930, type disc), [Pellaton](../machines/pellaton.md) (1932, type wheel), [Olympia Plurotyp](../machines/olympia-plurotyp.md) (1933, type cylinder), [Carissima](../machines/carissima.md) (1934, type wheel), [Dial De Luxe](../machines/dial-de-luxe.md) (1934, type wheel), [Junior Typewriter](../machines/junior-typewriter.md) (1935, type wheel), [Tip-Tip](../machines/tip-tip.md) (1936, type cylinder), [Shimada](../machines/shimada.md) (1938, ), [Shimada 2](../machines/shimada-2.md) (1938, )
 
@@ -244,13 +244,15 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 - [DE489650](../patents/DE489650.md) 1930, Arondel, Maurice Leon: Incline the type carriers and their guide plate downward so they rest below the writing line, leaving it visible and shortening the machine.
 - [DE521627](../patents/DE521627.md) 1931, inventor unknown: The pivoting upper part is pressed by a torsion spring against a horizontally rotatable flatted disc, so turning the disc sets the holder to the working or rest position.
 - [DE524809](../patents/DE524809.md) 1931, inventor unknown: Both the cable and its sheath are hung in sprung open eyes so the owner can detach and replace the Bowden cable.
+- [DE540613](../patents/DE540613.md) 1931, Sebastian, Friedmann: A slotted clamping ring between the line-spacing wheel and the platen cover is spread by the flats on the coupling bolt's end web, so the wheel keeps its round shape and…
 - [DE545922](../patents/DE545922.md) 1932, Sa, Stenotype Grandjean: A one-piece pawl with a switching tooth and a trailing safety tooth, plus an adjustable stop on the holder, moves the ratchet exactly one tooth per stroke.
 - [DE647101](../patents/DE647101.md) 1937, Banholzer, Friedrich: Drive the line indicator with semi-rigid flexible steel strips actuated only from the lower edge, so the other three edges of the holder plate stay free.
+- [DE653658](../patents/DE653658.md) 1937, inventor unknown: Both line indicator bars on a common carrier follow the platen shift and can be moved by one handle between a close-fitting position and a slightly raised position,…
 - [DE673875](../patents/DE673875.md) 1939, inventor unknown: All sheet holding, feeding and switching is combined in one unit at the top edge of the board, with the lower feed roller advanced by a ratchet driven by the clamp bar.
 
 ## 1940s
 
-675 patents (673 German), 44 read, 2 index-type.
+675 patents (673 German), 50 read, 2 index-type.
 
 **Key patents:**
 
@@ -259,7 +261,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1950s
 
-67 patents (66 German), 5 read, 1 index-type.
+67 patents (66 German), 6 read, 1 index-type.
 
 **Index machines:** [Chinese (C) Optima](../machines/chinese-c-optima.md) (1955, ), [Optima (Chinese)](../machines/optima-chinese.md) (1955, individual type)
 

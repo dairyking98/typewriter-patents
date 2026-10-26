@@ -2,7 +2,7 @@
 
 Curved type sector or segment (e.g. Hammond shuttle)
 
-**97 patents**, 1829–1948. Often together with: [SEL:selector-locking](../features/sel-selector-locking.md) (49), [ESC:print-and-space](../features/esc-print-and-space.md) (47), [IMP:hammer-behind](../features/imp-hammer-behind.md) (42), [ESC:pawl-rack](../features/esc-pawl-rack.md) (41), [INK:ribbon](../features/ink-ribbon.md) (40), [ESC:space-key](../features/esc-space-key.md) (37), [SEL:keyboard-full](../features/sel-keyboard-full.md) (34), [PAP:platen-roller](../features/pap-platen-roller.md) (30)
+**98 patents**, 1829–1948. Often together with: [SEL:selector-locking](../features/sel-selector-locking.md) (49), [ESC:print-and-space](../features/esc-print-and-space.md) (47), [IMP:hammer-behind](../features/imp-hammer-behind.md) (42), [ESC:pawl-rack](../features/esc-pawl-rack.md) (41), [INK:ribbon](../features/ink-ribbon.md) (40), [ESC:space-key](../features/esc-space-key.md) (37), [SEL:keyboard-full](../features/sel-keyboard-full.md) (34), [PAP:platen-roller](../features/pap-platen-roller.md) (30)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (3), [Gardner](../machines/gardner.md) (1), [American Index](../machines/american-index.md) (1)
 
@@ -106,4 +106,5 @@ Curved type sector or segment (e.g. Hammond shuttle)
 | [DE414740](../patents/DE414740.md) | 1925 | Gericke, Albert | A single type segment with three rows is carried on an angle lever, and each key's pivot pin enters its own hole in the lever so the segment swings about a different pivot for each character. |
 | [DE576185](../patents/DE576185.md) | 1933 | Knorr, Alfred | A button moves a type wheel sector with a type plate tape about a vertical axis to the letter, and pressing the button swings the whole sector against the platen and locks it with a pawl. |
 | [US1986244](../patents/US1986244.md) | 1935 | Bates, Harry | A swinging arm with a button is dropped onto a depression in a keyboard-shaped plate, which turns an arcuate type segment to that character, and pressing down tilts the keyboard and platen frame so the paper meets the type. |
+| [DE969056](../patents/DE969056.md) | 1947 |  | Each type sector's radial guide arm is hinged to a link pivoting about a fixed axis, so the sector follows a controlled curve and meets the platen perpendicularly. |
 | [DE871603](../patents/DE871603.md) | 1948 | Colombo, Achille | Group the characters on a few type sectors, each carrying 6 to 9 characters, and print any one by pressing two keys together: a selection key from one small keyboard (which tilts the sector to the wanted character) and an operating key from the other (which swings that sector to the platen). |

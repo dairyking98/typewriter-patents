@@ -2,9 +2,9 @@
 
 Non-Latin scripts
 
-**43 patents**, 1880–1938. Often together with: [ELEM:interchangeable](../features/elem-interchangeable.md) (18), [SEL:keyboard-full](../features/sel-keyboard-full.md) (16), [SHIFT:triple](../features/shift-triple.md) (14), [ELEM:typebar](../features/elem-typebar.md) (13), [ESC:pawl-rack](../features/esc-pawl-rack.md) (12), [SHIFT:platen](../features/shift-platen.md) (11), [SEL:selector-locking](../features/sel-selector-locking.md) (10), [INK:ribbon](../features/ink-ribbon.md) (10)
+**46 patents**, 1880–1944. Often together with: [ELEM:interchangeable](../features/elem-interchangeable.md) (21), [SEL:keyboard-full](../features/sel-keyboard-full.md) (18), [ELEM:typebar](../features/elem-typebar.md) (15), [SHIFT:triple](../features/shift-triple.md) (14), [ESC:pawl-rack](../features/esc-pawl-rack.md) (12), [SHIFT:platen](../features/shift-platen.md) (12), [IMP:element-to-platen](../features/imp-element-to-platen.md) (11), [PAP:platen-roller](../features/pap-platen-roller.md) (11)
 
-**Machines:** [Crandall No. 3](../machines/crandall-no-3.md) (1), [Underwood 2](../machines/underwood-2.md) (1), [Underwood 4](../machines/underwood-4.md) (1), [Underwood 5](../machines/underwood-5.md) (1)
+**Machines:** [Crandall No. 3](../machines/crandall-no-3.md) (1), [Underwood 2](../machines/underwood-2.md) (1), [Underwood 4](../machines/underwood-4.md) (1), [Underwood 5](../machines/underwood-5.md) (1), [Bar-Lock 12](../machines/bar-lock-12.md) (1), [Bar-Lock 14](../machines/bar-lock-14.md) (1), [Bar-Lock 15](../machines/bar-lock-15.md) (1), [Gourland](../machines/gourland.md) (1), [Visigraph](../machines/visigraph.md) (1)
 
 ## Patents, oldest first
 
@@ -30,6 +30,8 @@ Non-Latin scripts
 | [US794851](../patents/US794851.md) | 1905 | Campbell, Walter Hope | A vertically movable shuttle anvil with guide horns on the spindle and turn-table seats a stack of shuttles accurately, with added stroke-regulated shift keys, a graduated paper-roll index for printing above/below the line, and two ribbons with a double-headed hammer for two colors. |
 | [US846027](../patents/US846027.md) | 1907 | Hammond, James B. | Rearrange the ribbon spools to turn on horizontal axes transverse to the machine, so a larger anvil and shuttle fit with more characters. |
 | [US860876](../patents/US860876.md) | 1907 | Lord, George Dana | Mount several shuttles end to end around a one-piece circular anvil so they form a ring that oscillates as one, and rotate the group to bring any chosen shuttle into play. |
+| [US893947](../patents/US893947.md) | 1908 | Spiro, Charles | Mount the typebars and key levers on one flat plate that slides vertically as the shift and lifts out as a unit, so a plate with another type set can be substituted. |
+| [US895652](../patents/US895652.md) | 1908 | Macis, Gabriel | Each typebar carries a separate hinged multi-sided type block that can be turned to present a different alphabet and is held by a spring. |
 | [DE211568](../patents/DE211568.md) | 1909 |  | Move the platen, not the type carrier, between type groups, using a changeover frame in which the platen frame is locked at positions by spring hooks. |
 | [US956879](../patents/US956879.md) | 1910 | Blickensderfer, George C. | On a Blickensderfer-type machine, make the step-by-step carriage feed reversible by changing the feeding devices, and fit keys carrying characters of two alphabets with a removable type wheel per language. |
 | [US963974](../patents/US963974.md) | 1910 | Yaw, Clio B. | A single shift-key lever with a V-shaped cam slot and a switch sends a follower on a rock-shaft arm either up or down from a spring-held middle position, so two shift keys give three platen heights, with a separate lock key and release key. |
@@ -53,3 +55,4 @@ Non-Latin scripts
 | [DE461444](../patents/DE461444.md) | 1928 | Peeters, Henri | Give each pair of keys a deformable four-bar linkage with two outer stops that rotate the cylinder and a central stop that fixes it, so the linkage returns on key release but the cylinder stays where it was set. |
 | [DE562505](../patents/DE562505.md) | 1932 |  | An auxiliary stop on the escapement frame is moved into the path of the movable pawl by certain key levers, but only in the lower carriage position, limiting the carriage to one step instead of two. |
 | [DE657555](../patents/DE657555.md) | 1938 | Soc, Heady S A | A stylus-and-search-board type drum machine that takes two interchangeable drums (letters or music), with a height-centering device for the music drum that magnifies the tiny staff-line spacing through a transmission so larger teeth and a knife can centre it. |
+| [DE747162](../patents/DE747162.md) | 1944 | Graeve, Martha Meyer Geb | A thin embossed plastic shield bearing the special character is placed behind the ribbon at the stop point and printed by the blow of an ordinary typebar. |

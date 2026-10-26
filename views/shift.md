@@ -8,13 +8,13 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [SHIFT:platen](../features/shift-platen.md) | Platen or carriage moves to change case | 540 | 6 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▄█▇▁▁▁▁` |  |
-| [SHIFT:triple](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 263 | 3 | 1877 [US197614](../patents/US197614.md) | 1890s | `     ▁▂█▅▄▁▁  ` |  |
-| [SHIFT:axial](../features/shift-axial.md) | Element slides along its axis to change case or row | 229 | 11 | 1879 [US215251](../patents/US215251.md) | 1890s | `     ▁▂█▅▂▁▁▁▁` |  |
-| [SHIFT:lock](../features/shift-lock.md) | Shift lock | 159 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁▇█▆▁▁▁▁` |  |
-| [SHIFT:rotary](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 83 | 12 | 1881 [US251338](../patents/US251338.md) | 1890s | `      ▄█▃▁▁▁  ` |  |
+| [SHIFT:platen](../features/shift-platen.md) | Platen or carriage moves to change case | 562 | 7 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▄██▁▁▁▁` |  |
+| [SHIFT:triple](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 277 | 3 | 1877 [US197614](../patents/US197614.md) | 1890s | `     ▁▂█▅▄▂▁▁ ` |  |
+| [SHIFT:axial](../features/shift-axial.md) | Element slides along its axis to change case or row | 246 | 11 | 1879 [US215251](../patents/US215251.md) | 1890s | `     ▁▂█▅▂▁▁▁▁` |  |
+| [SHIFT:lock](../features/shift-lock.md) | Shift lock | 161 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁▇█▆▁▁▁▁` |  |
+| [SHIFT:rotary](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 89 | 13 | 1881 [US251338](../patents/US251338.md) | 1890s | `      ▄█▃▂▁▁▁ ` |  |
 
-## Index-type patents, oldest first (28)
+## Index-type patents, oldest first (30)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -45,4 +45,6 @@
 | 1904 | [US755545](../patents/US755545.md) | Quentell - Judge, William P. - Franklin | index | A printing escapement that holds the wheel from dipping until the stop-arm has hit its stop, plus a cam-driven pawl and ratchet on the index gear that grabs the arm to… | axial |
 | 1906 | [US824418](../patents/US824418.md) | Farnum, William C. | index | A pivoted pointer on the frame is raised by a link to the platen carriage and is snapped against the platen only at the end of the lift, by a double-acting over-centre… | platen |
 | 1911 | [US1011366](../patents/US1011366.md) | Payne - Wray, Halbert E. - Silas G. | index | A stamped sheet-metal frame carrying a hand-slid ribbon guide and a spring-loaded pointer is screwed to the platen-shift frame. | platen |
+| 1920 | [DE327166](../patents/DE327166.md) | Langguth, Robert | index | Each plate field serves two types (for example capital and lower-case letter), and a thumb button on the pointer handle shortens or lengthens the setting slide so the… | rotary |
 | 1923 | [DE377030](../patents/DE377030.md) |  | index | Several writing keys per letter field, where the extra keys also move the type cylinder (rotationally or lengthwise) through a gear, so case is chosen by which key is… | rotary, axial |
+| 1937 | [DE653658](../patents/DE653658.md) |  | index | Both line indicator bars on a common carrier follow the platen shift and can be moved by one handle between a close-fitting position and a slightly raised position,… | platen |

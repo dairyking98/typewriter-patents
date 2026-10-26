@@ -8,17 +8,17 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [IMP:element-to-platen](../features/imp-element-to-platen.md) | The element swings or moves to the platen to print | 429 | 47 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▄█▆▂▁▁▁ ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md), [Gerda 2](../machines/gerda-2.md) |
-| [IMP:print-lever](../features/imp-print-lever.md) | A separate print key or lever performs the impression | 161 | 33 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▅█▅▁▁▁  ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
-| [IMP:press-through](../features/imp-press-through.md) | The operator's force presses the type through directly | 147 | 31 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▆█▂▁▁ ▁ ` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [IMP:hammer-behind](../features/imp-hammer-behind.md) | A hammer strikes from behind the paper into the type | 136 | 8 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▂█▅▁▁▁▁ ` |  |
-| [IMP:impression-adjust](../features/imp-impression-adjust.md) | Adjustment of impression force or depth | 91 | 9 | 1866 [US57182](../patents/US57182.md) | 1890s | `    ▁▁▅█▃▂▁▁  ` |  |
-| [IMP:anvil-backing](../features/imp-anvil-backing.md) | Backing | 85 | 15 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▄█▃▁▁▁▁ ` |  |
-| [IMP:spring-energy](../features/imp-spring-energy.md) | Impression by a spring cocked and released (force independent of the hand) | 84 | 3 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▅█▃▁▁▁▁ ` |  |
-| [IMP:platen-to-element](../features/imp-platen-to-element.md) | The platen or paper moves into a stationary element | 82 | 13 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁ ▁▄█▁▁▁▁  ` |  |
-| [IMP:electric](../features/imp-electric.md) | Electric or magnetic drive of the impression | 51 | 2 | 1883 [US274262](../patents/US274262.md) | 1900s | `      ▁▂█▂▁▂▁ ` |  |
+| [IMP:element-to-platen](../features/imp-element-to-platen.md) | The element swings or moves to the platen to print | 503 | 48 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▄█▆▄▁▂▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md), [Gerda 2](../machines/gerda-2.md) |
+| [IMP:print-lever](../features/imp-print-lever.md) | A separate print key or lever performs the impression | 173 | 34 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▅█▅▂▂▁  ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
+| [IMP:press-through](../features/imp-press-through.md) | The operator's force presses the type through directly | 148 | 31 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▆█▂▁▁ ▁ ` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [IMP:hammer-behind](../features/imp-hammer-behind.md) | A hammer strikes from behind the paper into the type | 145 | 8 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▂█▆▁▁▁▁ ` |  |
+| [IMP:impression-adjust](../features/imp-impression-adjust.md) | Adjustment of impression force or depth | 107 | 9 | 1866 [US57182](../patents/US57182.md) | 1890s | `    ▁▁▅█▄▄▁▁  ` |  |
+| [IMP:spring-energy](../features/imp-spring-energy.md) | Impression by a spring cocked and released (force independent of the hand) | 94 | 3 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▅█▃▂▁▁▁ ` |  |
+| [IMP:anvil-backing](../features/imp-anvil-backing.md) | Backing | 91 | 15 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▄█▃▂▁▁▁ ` |  |
+| [IMP:platen-to-element](../features/imp-platen-to-element.md) | The platen or paper moves into a stationary element | 86 | 13 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁ ▁▄█▁▁▁▁  ` |  |
+| [IMP:electric](../features/imp-electric.md) | Electric or magnetic drive of the impression | 80 | 3 | 1883 [US274262](../patents/US274262.md) | 1900s | `      ▁▂█▃▂▅▁▁` |  |
 
-## Index-type patents, oldest first (80)
+## Index-type patents, oldest first (81)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | 1905 | [US789175](../patents/US789175.md) | Sherin, Gilbert W. | index | A flat disc type wheel with a handle sits on a sheet-metal carriage that slides in a slotted base plate lying on the paper; turn the wheel by hand, press it down near… | press-through |
 | 1905 | [US801617](../patents/US801617.md) | Smith, Thomas Colton | index | A motor-driven pointer machine with a rotary, interchangeable type-carrying plate in the carriage, pad inking in two or more colours, and a threaded power shaft that… | electric |
 | 1915 | [US1138851](../patents/US1138851.md) | des Jardins, Benjamin M. | index | A hand-turned type wheel with a matching index is coupled to a stack of spring-return stop disks which, stopped one after another by an escapement ring, shift the… | element-to-platen, press-through |
+| 1920 | [DE327166](../patents/DE327166.md) | Langguth, Robert | index | Each plate field serves two types (for example capital and lower-case letter), and a thumb button on the pointer handle shortens or lengthens the setting slide so the… | element-to-platen, print-lever, electric |
 | 1921 | [DE332718](../patents/DE332718.md) | Vester, Heinrich | index | A pointer-driven type cylinder carries several fonts as spring-loaded type pistons, positioned by rotation and axial slide, struck from above by a hammer-tipped key and… | print-lever, press-through, anvil-backing |
 | 1923 | [DE377030](../patents/DE377030.md) |  | index | Several writing keys per letter field, where the extra keys also move the type cylinder (rotationally or lengthwise) through a gear, so case is chosen by which key is… | element-to-platen, print-lever |
 | 1924 | [DE393929](../patents/DE393929.md) | Emig, Georg | index | Put the pointer and character plate in the machine's symmetry plane directly above the type wheel axis, and have the pointer drive the wheel through a toothed segment… | element-to-platen, print-lever |

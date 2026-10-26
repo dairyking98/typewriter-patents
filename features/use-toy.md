@@ -2,7 +2,7 @@
 
 Toy or educational machine
 
-**15 patents**, 1876–1940. Often together with: [FRM:few-parts](../features/frm-few-parts.md) (15), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (7), [SEL:selector-locking](../features/sel-selector-locking.md) (6), [IMP:print-lever](../features/imp-print-lever.md) (6), [IMP:press-through](../features/imp-press-through.md) (6), [IMP:platen-to-element](../features/imp-platen-to-element.md) (5), [INK:roller](../features/ink-roller.md) (5), [INK:pad](../features/ink-pad.md) (5)
+**16 patents**, 1876–1940. Often together with: [FRM:few-parts](../features/frm-few-parts.md) (16), [SEL:selector-locking](../features/sel-selector-locking.md) (7), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (7), [IMP:print-lever](../features/imp-print-lever.md) (6), [IMP:platen-to-element](../features/imp-platen-to-element.md) (6), [IMP:press-through](../features/imp-press-through.md) (6), [INK:ribbon](../features/ink-ribbon.md) (6), [ESC:pawl-rack](../features/esc-pawl-rack.md) (6)
 
 ## Patents, oldest first
 
@@ -16,6 +16,7 @@ Toy or educational machine
 | [US672680](../patents/US672680.md) | 1901 | Marshman, Newman R. | A pointer turned over an alphabet plate (with locking notches) rotates a type wheel carrying an elastic band of pictures; a finger button drives a hammer inside the rim that stretches the chosen picture to the card. |
 | [US789175](../patents/US789175.md) | 1905 | Sherin, Gilbert W. | A flat disc type wheel with a handle sits on a sheet-metal carriage that slides in a slotted base plate lying on the paper; turn the wheel by hand, press it down near the pointer to print, and advance the carriage with a toothed spacing wheel. |
 | [US826616](../patents/US826616.md) | 1906 | Sherin, Gilbert W. | An endless type belt on two hand-turned spools rides on a traveling plate, and a single hammer lever presses the aligned type through a guideway opening onto the paper while the same stroke advances the plate one tooth. |
+| [US939965](../patents/US939965.md) | 1909 | Aronson, Saul | A freely swinging type block hung on a ball (universal) joint with groups of three characters on a convex face is tilted by straight sliding plunger keys acting on a cam surface, then centred by a plunger entering a hole, with a rubber hammer striking the paper from below. |
 | [US1121284](../patents/US1121284.md) | 1914 | Payne, Halbert Edwin | A simple index machine with a flexible type band moved lengthwise by an index over a keyboard-layout plate and tilted by a key lever to print. |
 | [DE440172](../patents/DE440172.md) | 1927 |  | A control rod with tapered sliders and intermediate pins alternately lifts one or the other crown gear of the ribbon spool carriers out of mesh with a drive pinion. |
 | [DE544900](../patents/DE544900.md) | 1932 | Schmid, Max | The roller axes run parallel to the type wheel axis through slots in the frame plate and are pulled toward each other by a connecting spring. |

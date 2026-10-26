@@ -2,7 +2,7 @@
 
 Flexible type band or belt
 
-**16 patents**, 1886–1940. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (11), [ESC:pawl-rack](../features/esc-pawl-rack.md) (10), [FRM:few-parts](../features/frm-few-parts.md) (9), [SEL:selector-locking](../features/sel-selector-locking.md) (7), [IMP:press-through](../features/imp-press-through.md) (7), [ESC:moving-print-head](../features/esc-moving-print-head.md) (7), [SEL:pointer-chart](../features/sel-pointer-chart.md) (6), [INK:roller](../features/ink-roller.md) (6)
+**18 patents**, 1886–1940. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (12), [ESC:pawl-rack](../features/esc-pawl-rack.md) (11), [FRM:few-parts](../features/frm-few-parts.md) (10), [SEL:pointer-chart](../features/sel-pointer-chart.md) (7), [SEL:selector-locking](../features/sel-selector-locking.md) (7), [IMP:press-through](../features/imp-press-through.md) (7), [ESC:moving-print-head](../features/esc-moving-print-head.md) (7), [FRM:writing-visible](../features/frm-writing-visible.md) (7)
 
 ## Patents, oldest first
 
@@ -20,7 +20,9 @@ Flexible type band or belt
 | [US702706](../patents/US702706.md) | 1902 | Coffman, George W. | A flexible type band with lower- and upper-case rows is slid under a roller by a key placed in a hole of a character chart, and the roller presses the chosen type through a window onto the paper. |
 | [US826616](../patents/US826616.md) | 1906 | Sherin, Gilbert W. | An endless type belt on two hand-turned spools rides on a traveling plate, and a single hammer lever presses the aligned type through a guideway opening onto the paper while the same stroke advances the plate one tooth. |
 | [US1121284](../patents/US1121284.md) | 1914 | Payne, Halbert Edwin | A simple index machine with a flexible type band moved lengthwise by an index over a keyboard-layout plate and tilted by a key lever to print. |
+| [DE318995](../patents/DE318995.md) | 1922 | Nobis, Franz | Make the type body from an electrolytically deposited cobalt-nickel alloy in a thin section, as light as rubber but far harder and more durable. |
 | [DE359608](../patents/DE359608.md) | 1922 | Payne, Halbert Edwin | Most of the type band's travel to the platen is done by swinging its holder, so the hammer only has to flex the band slightly at the print point. |
+| [DE360694](../patents/DE360694.md) | 1922 | Payne, Halbert Edwin | A flexible type strip on a swing frame is slid by a hand pointer over a staggered character board to bring the chosen type opposite a pressure arm, which presses it to the paper. |
 | [DE498604](../patents/DE498604.md) | 1930 | Schmid, Max | The paper sledge's forward and backward stroke itself advances the roller carrier one hole: perforated walls on the roller carrier engage fixed tapered pins of different strength. |
 | [DE576185](../patents/DE576185.md) | 1933 | Knorr, Alfred | A button moves a type wheel sector with a type plate tape about a vertical axis to the letter, and pressing the button swings the whole sector against the platen and locks it with a pawl. |
 | [DE694372](../patents/DE694372.md) | 1940 | Karstedt, Paul | A self-coiling spring steel type tape is pulled through a spaced carriage on a guide frame and struck with a thimble hammer worn on a finger. |
