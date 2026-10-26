@@ -8,25 +8,25 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [ELEM:typebar](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 628 | 8 | 1875 [US170239](../patents/US170239.md) | 1910s | `     ▁▁▅██▁▁▁ ` |  |
-| [ELEM:wheel-rim](../features/elem-wheel-rim.md) | Types on the rim of a wheel (face parallel to axis) | 242 | 43 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▁▁▁▁▁` | [Gerda 2](../machines/gerda-2.md) |
-| [ELEM:alignment-lock](../features/elem-alignment-lock.md) | Locking pin or tooth that aligns the type exactly at the print point | 182 | 28 | 1856 [US14919](../patents/US14919.md) | 1890s | `   ▁ ▁▃█▅▂▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ELEM:interchangeable](../features/elem-interchangeable.md) | Element made to be removed and replaced (fonts or languages) | 137 | 19 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▅█▆▃▂▁▁ ` |  |
-| [ELEM:cylinder-multirow](../features/elem-cylinder-multirow.md) | Type cylinder with several rows along its length | 112 | 7 | 1881 [US251338](../patents/US251338.md) | 1890s | `      ▃█▄▂▃▁▁ ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [ELEM:individual-slugs](../features/elem-individual-slugs.md) | Separate type slugs or plungers selected and driven individually | 96 | 10 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▂▄█▇▂▂▁▁ ` |  |
-| [ELEM:sector-segment](../features/elem-sector-segment.md) | Curved type sector or segment (e.g. Hammond shuttle) | 89 | 13 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▄█▅▂▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ELEM:rubber-type](../features/elem-rubber-type.md) | Elastic or rubber types | 87 | 23 | 1881 [US247058](../patents/US247058.md) | 1890s | `      ▄█▁▁▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ELEM:plate-flat](../features/elem-plate-flat.md) | Flat type plate or matrix of characters | 55 | 8 | 1850 [US7771](../patents/US7771.md) | 1890s | `   ▁▁▁▄█▂▁ ▁▁ ` |  |
-| [ELEM:disc-face](../features/elem-disc-face.md) | Types on the face of a disc (face perpendicular to axis) | 49 | 11 | 1876 [US175584](../patents/US175584.md) | 1890s | `     ▁▇█▃▁ ▁  ` |  |
-| [ELEM:metal-type](../features/elem-metal-type.md) | Metal types (cast or stamped) | 41 | 7 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▇█▂▁▁▁  ` |  |
-| [ELEM:hub-keying](../features/elem-hub-keying.md) | How the element mounts and keys to its shaft or hub | 40 | 2 | 1878 [US202143](../patents/US202143.md) | 1890s | `     ▁▃█▅▁▂▁▁ ` |  |
-| [ELEM:element-construction](../features/elem-element-construction.md) | How the element itself is made or assembled | 37 | 3 | 1882 [US264091](../patents/US264091.md) | 1890s | `      ▃█▃▂▁▁▁ ` |  |
+| [ELEM:typebar](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 748 | 8 | 1868 [US79265](../patents/US79265.md) | 1900s | `    ▁▁▁▆█▇▁▁▁ ` |  |
+| [ELEM:wheel-rim](../features/elem-wheel-rim.md) | Types on the rim of a wheel (face parallel to axis) | 251 | 45 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▁▁▁▁▁` | [Gerda 2](../machines/gerda-2.md) |
+| [ELEM:alignment-lock](../features/elem-alignment-lock.md) | Locking pin or tooth that aligns the type exactly at the print point | 202 | 28 | 1856 [US14919](../patents/US14919.md) | 1890s | `   ▁ ▁▃█▅▁▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [ELEM:interchangeable](../features/elem-interchangeable.md) | Element made to be removed and replaced (fonts or languages) | 148 | 19 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▅█▆▃▂▁▁ ` |  |
+| [ELEM:cylinder-multirow](../features/elem-cylinder-multirow.md) | Type cylinder with several rows along its length | 115 | 7 | 1881 [US251338](../patents/US251338.md) | 1890s | `      ▃█▄▂▂▁▁ ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [ELEM:individual-slugs](../features/elem-individual-slugs.md) | Separate type slugs or plungers selected and driven individually | 109 | 10 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▅█▆▂▁▁▁ ` |  |
+| [ELEM:rubber-type](../features/elem-rubber-type.md) | Elastic or rubber types | 102 | 25 | 1881 [US238387](../patents/US238387.md) | 1890s | `      ▄█▁▁▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [ELEM:sector-segment](../features/elem-sector-segment.md) | Curved type sector or segment (e.g. Hammond shuttle) | 97 | 14 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▄█▅▂▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [ELEM:plate-flat](../features/elem-plate-flat.md) | Flat type plate or matrix of characters | 65 | 10 | 1850 [US7771](../patents/US7771.md) | 1890s | `   ▁▁▁▅█▁▁ ▁▁ ` |  |
+| [ELEM:disc-face](../features/elem-disc-face.md) | Types on the face of a disc (face perpendicular to axis) | 52 | 13 | 1876 [US175584](../patents/US175584.md) | 1890s | `     ▁▆█▂▁ ▁  ` |  |
+| [ELEM:metal-type](../features/elem-metal-type.md) | Metal types (cast or stamped) | 48 | 7 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▆█▂▁▁▁  ` |  |
+| [ELEM:element-construction](../features/elem-element-construction.md) | How the element itself is made or assembled | 43 | 3 | 1882 [US264091](../patents/US264091.md) | 1890s | `      ▃█▃▁▁▁▁ ` |  |
+| [ELEM:hub-keying](../features/elem-hub-keying.md) | How the element mounts and keys to its shaft or hub | 42 | 2 | 1878 [US202143](../patents/US202143.md) | 1890s | `     ▁▄█▆▁▂▁▁ ` |  |
 | [ELEM:linear-bar](../features/elem-linear-bar.md) | Types along a straight bar or rule | 30 | 5 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁  ▇█▃▁ ▁  ` |  |
-| [ELEM:ring](../features/elem-ring.md) | Types on a ring or annulus | 17 | 4 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▃█▃  ▁  ` |  |
-| [ELEM:band](../features/elem-band.md) | Flexible type band or belt | 10 | 2 | 1887 [US369401](../patents/US369401.md) | 1890s | `      ▃█▃▃▃▅▃ ` |  |
-| [ELEM:sphere](../features/elem-sphere.md) | Types on a sphere or hemisphere | 4 | 0 | 1888 [US393259](../patents/US393259.md) | 1880s | `      █ ▄▄    ` |  |
+| [ELEM:ring](../features/elem-ring.md) | Types on a ring or annulus | 20 | 4 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▂█▂  ▁  ` |  |
+| [ELEM:band](../features/elem-band.md) | Flexible type band or belt | 16 | 2 | 1886 [US347373](../patents/US347373.md) | 1890s | `      ▃█▆▂▂▃▂ ` |  |
+| [ELEM:sphere](../features/elem-sphere.md) | Types on a sphere or hemisphere | 7 | 0 | 1888 [US393259](../patents/US393259.md) | 1880s | `      ███▄    ` |  |
 
-## Index-type patents, oldest first (90)
+## Index-type patents, oldest first (95)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | 1885 | [US317499](../patents/US317499.md) | Burt, Samuel S. | index | A sliding carriage with an indicator over a character scale carries a rotating type dial that is turned, lowered and driven by a plunger from one printing key, with a… | disc-face |
 | 1885 | [US318426](../patents/US318426.md) | Guhl, Heinrich August Hermann | index | A single slotted type-bar with all characters along its lower edge slides on a tablet; an index finger drops into a notched rack bar beside a reversed character chart to… | linear-bar |
 | 1885 | [US322989](../patents/US322989.md) | Spiro, Charles | index | A rotary type-wheel with an axial knurled handle sits on a depressible spring-raised lever above the carriage, and pins of different lengths on the wheel, one per… | wheel-rim, interchangeable, alignment-lock |
+| 1885 | [US325446](../patents/US325446.md) | Roe, Edward R. | index | A rubber type band on a wheel that slides along a rotating cylinder is selected by a pivoted indicator arm over an index ring, and each print stroke of a rocking frame… | wheel-rim, rubber-type |
 | 1885 | [US327946](../patents/US327946.md) | Hansen, Andrew P. | index | A tilting index-lever carried on a sliding frame holds a sliding type-rack; a finger key with an indicator slides the rack to the chosen character, drops into a notch of… | linear-bar, sector-segment, wheel-rim |
 | 1886 | [US335392](../patents/US335392.md) | Spiro, Charles | index | A depressible, hand-twirled type-wheel whose rim has recesses of varying depth between the types; a feed pawl's tail drops into the recess of the printed letter, so the… | wheel-rim, alignment-lock, metal-type, rubber-type |
 | 1886 | [US342302](../patents/US342302.md) | Kempster, Daniel E. | index | A yoke frame holding a type-wheel, its sector drive and the ribbon is hinged over a sliding paper carrier; a lever moved along a tilted index plate turns the wheel… | wheel-rim, individual-slugs, metal-type, interchangeable |
@@ -71,15 +72,18 @@
 | 1890 | [US443547](../patents/US443547.md) | Smith, Roswell T. | index | A small carriage travels over a thin flat platform; a knob turns a central shaft carrying both a pointer over a letter dial and a rubber type segment, and a key drops a… | disc-face, sector-segment, rubber-type, alignment-lock |
 | 1891 | [DE57454](../patents/DE57454.md) |  | index | Lift the type wheel along its axis to bring a second wreath of capitals to the print point, triggered by pulling out an extension of the pointer's finger ring. | wheel-rim, alignment-lock |
 | 1891 | [US445214](../patents/US445214.md) | Woodruff, Alonzo | index | A movable type bed is slid to bring a chosen type under a plunger carriage, which is advanced letter by letter by a pawl on a notched bar and pressed down to stamp. | linear-bar, plate-flat |
+| 1891 | [US449923](../patents/US449923.md) | Youngs, Edward F. | index | Put a push-button on the end of the index lever that closes a battery circuit to an electromagnet which works the print lever and hammer. | plate-flat |
 | 1891 | [US450880](../patents/US450880.md) | Barron, Walter J. | index | A single hinged scale plate that travels with the carriage under a fixed pointer, and swings next to the line when the carriage is turned up to read off character… | ring |
 | 1891 | [US452290](../patents/US452290.md) | Searing, Theodore W. | index | A one-key machine: a single key turns a type wheel on a spindle and, when pressed, pushes the wheel forward against the paper while automatically feeding and inking. | wheel-rim, rubber-type, interchangeable, alignment-lock |
 | 1891 | [US453593](../patents/US453593.md) | Hall, Thomas | index | A thin-shell type cylinder is slid along and rotated about its axis by a single pointer handle, which then drops into a perforated index plate to lock the character and… | cylinder-multirow, rubber-type |
 | 1891 | [US454837](../patents/US454837.md) | Becker, George | index | Advance the feed roll automatically from the index plate's return stroke, ink the type on freely turning felt discs, and make the print stud yield. | sector-segment, rubber-type |
 | 1891 | [US455299](../patents/US455299.md) | Becker, George | index | A flat two-row type plate is slid by hand under a pointer over an index plate, and a print lever with a chisel point locks the plate into a tooth space and presses the… | plate-flat, alignment-lock |
 | 1891 | [US455561](../patents/US455561.md) | Eggis, Adolphe Prosper | linked | A rotary bell carrying a rubber type ring is turned by hand until a plunger on it drops into one of the holes of a fixed perforated circle, then pushed down to print,… | ring, rubber-type, wheel-rim |
+| 1891 | [US456025](../patents/US456025.md) | Edland, Joe L. | index | A stationary character dial is read by a hand lever that rotates a hub with radial flexible type fingers; the lever's handle pivots down to press the type finger lying… | plate-flat, disc-face |
 | 1891 | [US457336](../patents/US457336.md) | Becker - Becker, John - George | index | A small index machine in which a circular four-section type-plate sits on an index plate that creeps along the paper one step at a time, and the same finger-piece stroke… | plate-flat, interchangeable |
 | 1891 | [US461865](../patents/US461865.md) | Brooks, Byron A. | linked | Each key throws a gear-arm that spins the type-wheel left or right from a home position (never more than half a turn) until a stop on the key halts a vibrating arm… | wheel-rim, rubber-type, element-construction |
 | 1891 | [US463723](../patents/US463723.md) | Brooks, Byron A. | index | A pointer on a letter plate rotates a multi-row type-wheel by rack and pinion, pressing the same pointer down swings the whole frame to print, a V-notch wheel on the… | wheel-rim, alignment-lock |
+| 1891 | [US464355](../patents/US464355.md) | Fujiki, Suyeoto | index | A watch-like pocket case holds a disc of flexible radial type driven by a watch-stem-style shaft, with a pointer on a fixed index disk geared to the type disk, and a… | disc-face, rubber-type |
 | 1891 | [US465589](../patents/US465589.md) | Blacio, Enrique Jovar | index | Couple the character-indicating lever to the impression mechanism so that bringing the index lever to a character and pressing it down both prints and spaces, leaving… | sector-segment, plate-flat |
 | 1891 | [US466200](../patents/US466200.md) | Towle, George C. | index | A bar with two rows of type slid longitudinally by a carrier, rolled to choose a row, and pressed down onto a flat paper carriage. | linear-bar, cylinder-multirow |
 | 1892 | [US467267](../patents/US467267.md) | Snell, Charles Scott | index | A carriage carries a free-floating type segment tied to an index plate and index so that placing the index on a recessed sign and pressing down aligns the type, prints,… | sector-segment, rubber-type, individual-slugs |
@@ -97,6 +101,7 @@
 | 1895 | [US545594](../patents/US545594.md) | Larson, Swante P. | index | A pivoted frame carrying a type wheel turned by a horizontally moved index pointer and pressed down by hand to print. | wheel-rim, ring, interchangeable, hub-keying |
 | 1895 | [US549870](../patents/US549870.md) | Dyer, Walter B. | index | A self-adjusting wire pointer with springs or rubber bands. | typebar |
 | 1896 | [US553842](../patents/US553842.md) | Deming, Philander | index | A spring on the type wheel plus a pen tied to the wheel by a cord, stopping against frets in rows on the index. | sector-segment, wheel-rim |
+| 1896 | [US554659](../patents/US554659.md) | Deming, Philander | index | Put the index-engaging foot on the link between stylus and type wheel, not on the stylus, so the stylus is only a handle and the stop position is the same however it is… | wheel-rim, sector-segment |
 | 1896 | [US567365](../patents/US567365.md) | Spivey, Thomas S. | index | A pivoted sweep arm geared to a type-wheel is swung over a sector index plate of characters, and pressing the key button swings the platen carriage into the wheel while… | wheel-rim |
 | 1896 | [US572348](../patents/US572348.md) | Mayer, Otto Ferdinand | index | A setting pin dropped in a hole of an index plate positions an elastic type plate under a hammer lever, and a single key press steps the carriage along a rack while the… | plate-flat, rubber-type |
 | 1897 | [US577049](../patents/US577049.md) | Mars, Charles P. | index | A cup-shaped case holds a type disk with radial arms; a knob turns it to a character on a dial and pressing it prints through an ink pad. | disc-face |

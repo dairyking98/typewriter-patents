@@ -2,7 +2,7 @@
 
 Backspace
 
-**24 patents**, 1884–1949. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (16), [ESC:escape-wheel](../features/esc-escape-wheel.md) (8), [ESC:spring-drum](../features/esc-spring-drum.md) (8), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (8), [SEL:keyboard-full](../features/sel-keyboard-full.md) (7), [ESC:space-key](../features/esc-space-key.md) (7), [ELEM:typebar](../features/elem-typebar.md) (6), [INK:ribbon](../features/ink-ribbon.md) (5)
+**25 patents**, 1884–1949. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (17), [ESC:spring-drum](../features/esc-spring-drum.md) (9), [ESC:escape-wheel](../features/esc-escape-wheel.md) (8), [SEL:keyboard-full](../features/sel-keyboard-full.md) (8), [ESC:space-key](../features/esc-space-key.md) (8), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (8), [ELEM:typebar](../features/elem-typebar.md) (7), [INK:ribbon](../features/ink-ribbon.md) (6)
 
 **Machines:** [Travis](../machines/travis.md) (1)
 
@@ -12,6 +12,7 @@ Backspace
 |---|---|---|---|
 | [US309272](../patents/US309272.md) | 1884 | Whitcomb, James A. | A rack-bar carriage drive that steps either forward or backward, and ribbon spools that reverse themselves automatically when the ribbon runs out. |
 | [US383482](../patents/US383482.md) | 1888 | Osborne, John W. | A friction strap normally clear of the spring barrel is tightened by a key lever so it grips the barrel and rotates it backward by one ratchet tooth. |
+| [US446676](../patents/US446676.md) | 1891 | Granville, Bernard | A rocking frame under the key levers raises a feather-cam actuating pawl for forward spacing, while two cam-lever-controlled holding pawls let the spring-driven carriage step back letter by letter or run fully home, and a toothed escapement wheel with three rows gives three line spacings. |
 | [US537993](../patents/US537993.md) | 1895 | Perkins, Willis J. | A key-oscillated type wheel prints on a spring-driven paper cylinder that turns and slides on its own through a double-toothed escapement, so lines and line spacing advance automatically with no carriage return. |
 | [US557728](../patents/US557728.md) | 1896 | Travis, William H. | Each key-lever carries a differently shaped cam that rocks one of two rockers to turn the type-wheel a set angle either way from a rest position, then locks the wheel while a spring hammer prints and the carriage steps. |
 | [US636709](../patents/US636709.md) | 1899 | Bennett, Emmet M. | A ratchet on the escapement shaft engaged by a pawl pulled through a rock shaft and rods by a back-space key moves the carriage back one space. |

@@ -2,7 +2,7 @@
 
 Non-Latin scripts
 
-**42 patents**, 1880–1938. Often together with: [ELEM:interchangeable](../features/elem-interchangeable.md) (17), [SEL:keyboard-full](../features/sel-keyboard-full.md) (15), [SHIFT:triple](../features/shift-triple.md) (14), [ELEM:typebar](../features/elem-typebar.md) (12), [ESC:pawl-rack](../features/esc-pawl-rack.md) (11), [SEL:selector-locking](../features/sel-selector-locking.md) (10), [SHIFT:platen](../features/shift-platen.md) (10), [INK:ribbon](../features/ink-ribbon.md) (9)
+**43 patents**, 1880–1938. Often together with: [ELEM:interchangeable](../features/elem-interchangeable.md) (18), [SEL:keyboard-full](../features/sel-keyboard-full.md) (16), [SHIFT:triple](../features/shift-triple.md) (14), [ELEM:typebar](../features/elem-typebar.md) (13), [ESC:pawl-rack](../features/esc-pawl-rack.md) (12), [SHIFT:platen](../features/shift-platen.md) (11), [SEL:selector-locking](../features/sel-selector-locking.md) (10), [INK:ribbon](../features/ink-ribbon.md) (10)
 
 **Machines:** [Crandall No. 3](../machines/crandall-no-3.md) (1), [Underwood 2](../machines/underwood-2.md) (1), [Underwood 4](../machines/underwood-4.md) (1), [Underwood 5](../machines/underwood-5.md) (1)
 
@@ -20,6 +20,7 @@ Non-Latin scripts
 | [DE67833](../patents/DE67833.md) | 1893 |  | A carriage carrying vertically sprung note and sign type rods slides over a baseplate rack and can be offset forward or back against a graduated scale, so the same note keys print at a shifted pitch for transposition. |
 | [US500793](../patents/US500793.md) | 1893 | Bowen, Frank H. | A Remington-type typebar machine with music symbols that feeds the paper crosswise at each stroke and shifts note position and octave by shifting the platen. |
 | [US527083](../patents/US527083.md) | 1894 | Smith, John P. | An adjustable stop key stops the platen midway on its transverse shift and holds the carriage from spacing while more characters are struck. |
+| [US567349](../patents/US567349.md) | 1896 | Matteson, Adelbert | Radially arranged horizontal typebars in four banks, any number of which can be picked by their finger-pieces and then thrown together at the platen by one foot-treadle carriage. |
 | [US660231](../patents/US660231.md) | 1900 | Wagner, Franz X. | A bolt-on blank key attachment whose spring-loaded locking dog stops the escapement feed when the key is pressed, so the accent prints without spacing. |
 | [US665402](../patents/US665402.md) | 1901 | Burry, John | Put extra digit type at right angles on the type wheel so they print sideways in a full-size slot and stand for eighths. |
 | [US701563](../patents/US701563.md) | 1902 | Hammond, James B. | Each key is a body with several faces on pivots, turned to expose another character and held by a leaf spring. |

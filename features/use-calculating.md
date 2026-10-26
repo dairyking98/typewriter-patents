@@ -2,7 +2,7 @@
 
 Combined with adding or calculating
 
-**46 patents**, 1890–1950. Often together with: [PAP:feed-rollers](../features/pap-feed-rollers.md) (10), [IMP:hammer-behind](../features/imp-hammer-behind.md) (9), [INK:ribbon](../features/ink-ribbon.md) (9), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (9), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (9), [ELEM:typebar](../features/elem-typebar.md) (9), [PAP:platen-roller](../features/pap-platen-roller.md) (9), [SEL:keyboard-full](../features/sel-keyboard-full.md) (7)
+**48 patents**, 1890–1950. Often together with: [PAP:feed-rollers](../features/pap-feed-rollers.md) (10), [IMP:hammer-behind](../features/imp-hammer-behind.md) (9), [INK:ribbon](../features/ink-ribbon.md) (9), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (9), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (9), [ELEM:typebar](../features/elem-typebar.md) (9), [PAP:platen-roller](../features/pap-platen-roller.md) (9), [USE:accessory](../features/use-accessory.md) (8)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1), [Blickensderfer 4](../machines/blickensderfer-4.md) (1), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (1), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (1), [Blickensderfer 7](../machines/blickensderfer-7.md) (1), [Blickensderfer 8](../machines/blickensderfer-8.md) (1), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (1), [Dactyle](../machines/dactyle.md) (1)
 
@@ -12,6 +12,8 @@ Combined with adding or calculating
 |---|---|---|---|
 | [US441232](../patents/US441232.md) | 1890 | Felt, Dorr E. | A recording adding machine in which the keys directly power hammer printing of the figures, with ribbon and paper feeds driven from the unit-row keys. |
 | [US472696](../patents/US472696.md) | 1892 | Blickensderfer, George C. | A single variable catch on the carriage that can take graduated positions, grouped in threes, against a toothed adjustable stop on the frame. |
+| [US559449](../patents/US559449.md) | 1896 | Gorin, Fred P. | A bank of auxiliary denomination keys, each releasing the carriage feed and letting a carriage-mounted stop run against a plunger one letter-space thick, so the carriage stops at a preset column offset. |
+| [US559921](../patents/US559921.md) | 1896 | Williamson, David Charles | A slip-on auxiliary scale clipped over the machine's carriage scale, graduated by denomination (cents, units, tens, thousands) so the pointer shows where each line's first figure belongs. |
 | [US573622](../patents/US573622.md) | 1896 | Richards, Francis H. | Mount the traveling jacquard so the assembled apparatus slides into and out of the machine framework, with guides and resetting pawls. |
 | [US575570](../patents/US575570.md) | 1897 | Marshall, Holmes | An adding machine under the typewriter has plungers on a carriage that press its keys when typewriter keys are struck. |
 | [US654992](../patents/US654992.md) | 1900 | Marshall, Holmes | Give the computer's plunger carriage its own escapement, operated by the numeral keys, so its lateral movement is independent of the typewriter carriage. |

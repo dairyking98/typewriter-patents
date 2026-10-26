@@ -8,39 +8,45 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 204 | 27 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▂▇█▆▁▂▁▁` |  |
-| [USE:book-typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 47 | 6 | 1885 [US312981](../patents/US312981.md) | 1900s | `      ▁▆█▂▁▁  ` |  |
-| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 46 | 0 | 1890 [US441232](../patents/US441232.md) | 1910s | `       ▂▆█▄▄▂▁` |  |
-| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 42 | 1 | 1880 [US232741](../patents/US232741.md) | 1910s | `      ▃▂▅█▃▁  ` |  |
+| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 222 | 33 | 1883 [US284231](../patents/US284231.md) | 1890s | `      ▂██▅▁▁▁▁` |  |
+| [USE:book-typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 53 | 6 | 1881 [DE16716](../patents/DE16716.md) | 1900s | `      ▁▇█▂▁▁  ` |  |
+| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 48 | 1 | 1890 [US441232](../patents/US441232.md) | 1910s | `       ▃▆█▄▄▂▁` |  |
+| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 43 | 1 | 1880 [US232741](../patents/US232741.md) | 1910s | `      ▃▃▅█▃▁  ` |  |
 | [USE:stenotype](../features/use-stenotype.md) | Shorthand or stenographic machine | 27 | 1 | 1868 [US81000](../patents/US81000.md) | 1910s | `    ▁▁▁▃▃█ ▅  ` |  |
-| [USE:toy](../features/use-toy.md) | Toy or educational machine | 14 | 3 | 1876 [US175661](../patents/US175661.md) | 1930s | `     ▂▆▂▄▂▂█▂ ` |  |
-| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 12 | 1 | 1886 [US345565](../patents/US345565.md) | 1900s | `      ▁ █▃   ▁` |  |
+| [USE:toy](../features/use-toy.md) | Toy or educational machine | 15 | 3 | 1876 [US175661](../patents/US175661.md) | 1930s | `     ▂▆▂▆▂▂█▂ ` |  |
+| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 13 | 1 | 1886 [US345565](../patents/US345565.md) | 1900s | `      ▁▁█▃   ▁` |  |
 | [USE:blind](../features/use-blind.md) | For the blind (embossing | 11 | 0 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁    ▂█  ▁  ` |  |
 | [USE:check-writer](../features/use-check-writer.md) | Check writer or amount printer | 7 | 0 | 1893 [US511313](../patents/US511313.md) | 1900s | `       ▅█▃   ▃` |  |
 
-## Index-type patents, oldest first (38)
+## Index-type patents, oldest first (44)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
 | 1876 | [US175661](../patents/US175661.md) | Calahan, Edward A. | index | A hand-cranked type wheel with a ratchet (rag) wheel and spring detent is turned to the letter shown on a dial, and a finger lever presses an impression pad against the… | toy |
 | 1885 | [US312981](../patents/US312981.md) | Dodge, Manly C. | index | A hand-held type-wheel carriage rides on a frame over the book; a knobbed handle turns a pointer over a lettered dial to choose a type, pressing the handle drives a… | book-typewriter |
 | 1885 | [US318077](../patents/US318077.md) | Anderson, Homer | index | Colour or line the walls of the index-plate holes with a light-reflecting or luminous material, or insert white tubes, so the character on the card below shows clearly. | accessory |
+| 1887 | [US360685](../patents/US360685.md) | Hanchett, Lafayette | index | A cheap clamp-on indicator bar carrying slidable pointers that show where the carriage pointer should stop to begin each column. | accessory |
 | 1890 | [US425876](../patents/US425876.md) | Hall, Joseph | index | A flat dial plate with a spiral groove, the characters marked along its edge, is geared to the type-wheel so that a pointer running in the groove shows the character… | accessory |
 | 1890 | [US429614](../patents/US429614.md) | Free, John R. | index | A numeral chart, printed in duplicate 1 to 70 on the typewriter base, lets the operator count one number per letter from the centre mark and read off the starting scale… | accessory |
 | 1890 | [US432982](../patents/US432982.md) | Cohn, Max | index | A pointer lever on a notched index plate winds a spring-returned, three-row type wheel by cord, a toothed wheel on the hub locks the position at each stroke, and… | accessory |
 | 1890 | [US439068](../patents/US439068.md) | Hewlett, Maddra J. | index | A small print head travels over a clamped flat plate: a pivoted curved type segment with a type band is slid by an indicator arm over a letter chart, and one printing… | book-typewriter |
 | 1890 | [US443547](../patents/US443547.md) | Smith, Roswell T. | index | A small carriage travels over a thin flat platform; a knob turns a central shaft carrying both a pointer over a letter dial and a rubber type segment, and a key drops a… | book-typewriter |
 | 1891 | [US445214](../patents/US445214.md) | Woodruff, Alonzo | index | A movable type bed is slid to bring a chosen type under a plunger carriage, which is advanced letter by letter by a pawl on a notched bar and pressed down to stamp. | accessory |
+| 1891 | [US446381](../patents/US446381.md) | Dodge, Walter S. | index | Fit the frame's tabulating scale with slidable, removable pointer buttons that mark column start positions against the carriage pointer. | accessory |
 | 1892 | [US471093](../patents/US471093.md) | Bigelow, Timothy | index | A scale marked on a flattened top of the carriage guide rod, read against an index line on an arm fixed to the type-wheel bracket. | accessory |
 | 1893 | [US498691](../patents/US498691.md) | Phillips, William A. | index | A V-shaped pointer hung on the type-carriage rests on the paper and, when the carriage is raised, swings down to show exactly where the next letter would print. | accessory |
 | 1894 | [US516973](../patents/US516973.md) | Hess, Christian | index | A small hand-held printing head with a knob-turned type wheel runs along a rail frame, and pressing the wheel down prints and, through a bell crank and pawl on a rack,… | book-typewriter, accessory |
 | 1895 | [US545594](../patents/US545594.md) | Larson, Swante P. | index | A pivoted frame carrying a type wheel turned by a horizontally moved index pointer and pressed down by hand to print. | book-typewriter |
 | 1895 | [US549870](../patents/US549870.md) | Dyer, Walter B. | index | A self-adjusting wire pointer with springs or rubber bands. | accessory |
+| 1896 | [US559921](../patents/US559921.md) | Williamson, David Charles | index | A slip-on auxiliary scale clipped over the machine's carriage scale, graduated by denomination (cents, units, tens, thousands) so the pointer shows where each line's… | accessory, calculating |
+| 1897 | [US587587](../patents/US587587.md) | Kitzmiller - Gillis, George M. - Harry A. | index | A double carriage scale with a second set of graduations at twice the pitch, reading in the reverse direction, so spacing the heading's length shows the centred start… | accessory |
 | 1898 | [US614795](../patents/US614795.md) | Deacon, John Francis | index | An elevated scale bar on slotted standards that clip to the carriage, read against a fixed centre index finger aligned with the print point. | accessory |
 | 1899 | [US621325](../patents/US621325.md) | Colby, Walter L. | index | A graduated knob with indicator lines for each line space and an adjustable friction-tight pointer on the paper-rest arm. | accessory |
+| 1900 | [US660224](../patents/US660224.md) | Shinholser, John W. | index | A bow-shaped pointer hinged to the type basket is lifted by a link from the carriage rod, so it rises against the paper to show the next print position when the carriage… | accessory |
 | 1901 | [US666411](../patents/US666411.md) | Diss, Louis P. | index | A rotatable multi-face scale bar, three faces each marked differently, mounted on a Remington No. | accessory |
 | 1901 | [US667690](../patents/US667690.md) | Eldredge, Eli H. | index | A combined position indicator and card holder attached over the platen at the print point. | accessory |
 | 1901 | [US672680](../patents/US672680.md) | Marshman, Newman R. | index | A pointer turned over an alphabet plate (with locking notches) rotates a type wheel carrying an elastic band of pictures; a finger button drives a hammer inside the rim… | toy |
+| 1902 | [US691896](../patents/US691896.md) | Dahlberg, Charles L. | index | A one-piece detachable auxiliary scale clipped to the machine frame, carrying series of ciphers, is used with a clip-on pointer on the carriage's fixed scale to position… | accessory |
 | 1902 | [US692370](../patents/US692370.md) | Shaeffer, Charles Denham | index | A removable paper index strip held in a frame beside the carriage scale. | accessory |
 | 1904 | [US774346](../patents/US774346.md) | Yates - Summers, Edgar - Louis A. | index | A clamp-on line counter geared to the platen turns an index finger over a scale, with a cam that trips an alarm at a set line. | accessory |
 | 1905 | [US789175](../patents/US789175.md) | Sherin, Gilbert W. | index | A flat disc type wheel with a handle sits on a sheet-metal carriage that slides in a slotted base plate lying on the paper; turn the wheel by hand, press it down near… | toy |

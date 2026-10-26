@@ -8,15 +8,15 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [FRM:adjustment-wear](../features/frm-adjustment-wear.md) | Adjustment or wear take-up provisions | 387 | 22 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁ ▁▁▁▅█▆▂▁▁ ` | [American Index](../machines/american-index.md) |
-| [FRM:few-parts](../features/frm-few-parts.md) | Explicit aim of few parts | 336 | 36 | 1876 [US175661](../patents/US175661.md) | 1890s | `     ▁▄█▅▄▂▂▁▁` | [Gerda 2](../machines/gerda-2.md) |
-| [FRM:writing-visible](../features/frm-writing-visible.md) | Writing visible to the operator while typing | 301 | 26 | 1876 [US175584](../patents/US175584.md) | 1900s | `     ▁▂▆█▃▁▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [FRM:compact-portable](../features/frm-compact-portable.md) | Small | 135 | 17 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▂█▄▅▃▃▂ ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
-| [FRM:cleaning-access](../features/frm-cleaning-access.md) | Access for cleaning or element removal | 129 | 9 | 1876 [US183905](../patents/US183905.md) | 1900s | `     ▁▃▇██▂▂▁ ` |  |
-| [FRM:frame-construction](../features/frm-frame-construction.md) | Frame or casing construction (cast | 70 | 1 | 1883 [US290419](../patents/US290419.md) | 1910s | `      ▂▆▆█▁▁▁ ` |  |
-| [FRM:cover-enclosure](../features/frm-cover-enclosure.md) | Cover or enclosure of the mechanism | 37 | 3 | 1884 [US307301](../patents/US307301.md) | 1890s | `      ▆█▇▂▂▃▂ ` |  |
+| [FRM:adjustment-wear](../features/frm-adjustment-wear.md) | Adjustment or wear take-up provisions | 463 | 22 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁ ▁▁▂▆█▅▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [FRM:few-parts](../features/frm-few-parts.md) | Explicit aim of few parts | 378 | 39 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▄█▅▃▂▂▁▁` | [Gerda 2](../machines/gerda-2.md) |
+| [FRM:writing-visible](../features/frm-writing-visible.md) | Writing visible to the operator while typing | 348 | 28 | 1876 [US175584](../patents/US175584.md) | 1900s | `     ▁▃▇█▃▁▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [FRM:cleaning-access](../features/frm-cleaning-access.md) | Access for cleaning or element removal | 159 | 9 | 1876 [US183905](../patents/US183905.md) | 1900s | `     ▁▃██▆▂▁▁ ` |  |
+| [FRM:compact-portable](../features/frm-compact-portable.md) | Small | 148 | 18 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▂█▄▄▃▃▁ ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
+| [FRM:frame-construction](../features/frm-frame-construction.md) | Frame or casing construction (cast | 91 | 1 | 1883 [US290419](../patents/US290419.md) | 1890s | `      ▂█▆▆▁▁▁ ` |  |
+| [FRM:cover-enclosure](../features/frm-cover-enclosure.md) | Cover or enclosure of the mechanism | 46 | 4 | 1884 [US307301](../patents/US307301.md) | 1890s | `      ▄█▆▂▁▂▁ ` |  |
 
-## Index-type patents, oldest first (79)
+## Index-type patents, oldest first (83)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | 1884 | [US309780](../patents/US309780.md) | Gilman - Kempster, Willard Herbert - Daniel E. | index | An index slide in notched index plate is joined by a cord to a type-wheel carried on a yoke-lever key; the slide rotates the wheel (cord one way, spring the other), and… | writing-visible, adjustment-wear |
 | 1885 | [US312981](../patents/US312981.md) | Dodge, Manly C. | index | A hand-held type-wheel carriage rides on a frame over the book; a knobbed handle turns a pointer over a lettered dial to choose a type, pressing the handle drives a… | writing-visible |
 | 1885 | [US317499](../patents/US317499.md) | Burt, Samuel S. | index | A sliding carriage with an indicator over a character scale carries a rotating type dial that is turned, lowered and driven by a plunger from one printing key, with a… | few-parts |
+| 1885 | [US325446](../patents/US325446.md) | Roe, Edward R. | index | A rubber type band on a wheel that slides along a rotating cylinder is selected by a pivoted indicator arm over an index ring, and each print stroke of a rocking frame… | few-parts |
 | 1886 | [US335392](../patents/US335392.md) | Spiro, Charles | index | A depressible, hand-twirled type-wheel whose rim has recesses of varying depth between the types; a feed pawl's tail drops into the recess of the printed letter, so the… | writing-visible, cleaning-access |
 | 1886 | [US342302](../patents/US342302.md) | Kempster, Daniel E. | index | A yoke frame holding a type-wheel, its sector drive and the ribbon is hinged over a sliding paper carrier; a lever moved along a tilted index plate turns the wheel… | writing-visible, cleaning-access, adjustment-wear |
 | 1886 | [US350717](../patents/US350717.md) | Becker, John | index | A sliding index plate carries a pivoted rubber type segment moved by a lever whose pin points at the matching letter on the chart, and a separate printing lever presses… | writing-visible, compact-portable |
@@ -49,8 +50,10 @@
 | 1891 | [US453593](../patents/US453593.md) | Hall, Thomas | index | A thin-shell type cylinder is slid along and rotated about its axis by a single pointer handle, which then drops into a perforated index plate to lock the character and… | few-parts |
 | 1891 | [US455299](../patents/US455299.md) | Becker, George | index | A flat two-row type plate is slid by hand under a pointer over an index plate, and a print lever with a chisel point locks the plate into a tooth space and presses the… | few-parts, writing-visible |
 | 1891 | [US455561](../patents/US455561.md) | Eggis, Adolphe Prosper | linked | A rotary bell carrying a rubber type ring is turned by hand until a plunger on it drops into one of the holes of a fixed perforated circle, then pushed down to print,… | compact-portable, writing-visible |
+| 1891 | [US456025](../patents/US456025.md) | Edland, Joe L. | index | A stationary character dial is read by a hand lever that rotates a hub with radial flexible type fingers; the lever's handle pivots down to press the type finger lying… | few-parts, writing-visible |
 | 1891 | [US457336](../patents/US457336.md) | Becker - Becker, John - George | index | A small index machine in which a circular four-section type-plate sits on an index plate that creeps along the paper one step at a time, and the same finger-piece stroke… | compact-portable, few-parts, writing-visible |
 | 1891 | [US463723](../patents/US463723.md) | Brooks, Byron A. | index | A pointer on a letter plate rotates a multi-row type-wheel by rack and pinion, pressing the same pointer down swings the whole frame to print, a V-notch wheel on the… | few-parts |
+| 1891 | [US464355](../patents/US464355.md) | Fujiki, Suyeoto | index | A watch-like pocket case holds a disc of flexible radial type driven by a watch-stem-style shaft, with a pointer on a fixed index disk geared to the type disk, and a… | compact-portable, few-parts, cover-enclosure |
 | 1892 | [US467267](../patents/US467267.md) | Snell, Charles Scott | index | A carriage carries a free-floating type segment tied to an index plate and index so that placing the index on a recessed sign and pressing down aligns the type, prints,… | few-parts |
 | 1892 | [US470633](../patents/US470633.md) | Walker, Charles W. | index | A single straight type-bar carrying all the characters slides lengthwise on a spring-hinged platform, its pointer set in a notch for a character, and pressing the bar… | few-parts |
 | 1892 | [US470871](../patents/US470871.md) | Rymtowtt Prince, Czeslaw | index | A pocket cipher typewriter with a hand-turned type disc inside a lettered ring that prints on a narrow paper ribbon. | compact-portable |
@@ -68,6 +71,7 @@
 | 1897 | [US577049](../patents/US577049.md) | Mars, Charles P. | index | A cup-shaped case holds a type disk with radial arms; a knob turns it to a character on a dial and pressing it prints through an ink pad. | compact-portable, few-parts |
 | 1899 | [US624135](../patents/US624135.md) | Wagner, Franz X. | index | One hand lever lifts all feed rollers off the platen at once and, in the same movement, raises an index scale to the printing line. | adjustment-wear |
 | 1900 | [US640254](../patents/US640254.md) | Anderson, Frederick F. | index | A typebar machine with obliterating key, hinged paper carrier that exposes the printing, carriage shift for different type styles, and end-of-line carriage and key lock… | writing-visible |
+| 1900 | [US660224](../patents/US660224.md) | Shinholser, John W. | index | A bow-shaped pointer hinged to the type basket is lifted by a link from the carriage rod, so it rises against the paper to show the next print position when the carriage… | writing-visible |
 | 1901 | [US666176](../patents/US666176.md) | Blickensderfer, George C. | index | A hand-turned character dial positions a type wheel on one shaft, and after each impression a spring-driven pin-disk escapement automatically rotates the wheel relative… | cleaning-access, adjustment-wear |
 | 1901 | [US667690](../patents/US667690.md) | Eldredge, Eli H. | index | A combined position indicator and card holder attached over the platen at the print point. | writing-visible |
 | 1901 | [US672680](../patents/US672680.md) | Marshman, Newman R. | index | A pointer turned over an alphabet plate (with locking notches) rotates a type wheel carrying an elastic band of pictures; a finger button drives a hammer inside the rim… | few-parts, cleaning-access |

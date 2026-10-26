@@ -8,16 +8,17 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [SHIFT:platen](../features/shift-platen.md) | Platen or carriage moves to change case | 506 | 6 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▃██▁▁▁▁` |  |
-| [SHIFT:triple](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 237 | 3 | 1877 [US197614](../patents/US197614.md) | 1890s | `     ▁▂█▅▄▂▁  ` |  |
-| [SHIFT:axial](../features/shift-axial.md) | Element slides along its axis to change case or row | 209 | 11 | 1879 [US215251](../patents/US215251.md) | 1890s | `     ▁▂█▅▂▁▁▁▁` |  |
-| [SHIFT:lock](../features/shift-lock.md) | Shift lock | 146 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁▆█▇▁▁▁▁` |  |
-| [SHIFT:rotary](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 70 | 10 | 1881 [US251338](../patents/US251338.md) | 1890s | `      ▅█▃▂▁▁  ` |  |
+| [SHIFT:platen](../features/shift-platen.md) | Platen or carriage moves to change case | 540 | 6 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▄█▇▁▁▁▁` |  |
+| [SHIFT:triple](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 263 | 3 | 1877 [US197614](../patents/US197614.md) | 1890s | `     ▁▂█▅▄▁▁  ` |  |
+| [SHIFT:axial](../features/shift-axial.md) | Element slides along its axis to change case or row | 229 | 11 | 1879 [US215251](../patents/US215251.md) | 1890s | `     ▁▂█▅▂▁▁▁▁` |  |
+| [SHIFT:lock](../features/shift-lock.md) | Shift lock | 159 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁▇█▆▁▁▁▁` |  |
+| [SHIFT:rotary](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 83 | 12 | 1881 [US251338](../patents/US251338.md) | 1890s | `      ▄█▃▁▁▁  ` |  |
 
-## Index-type patents, oldest first (26)
+## Index-type patents, oldest first (28)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
+| 1885 | [US325446](../patents/US325446.md) | Roe, Edward R. | index | A rubber type band on a wheel that slides along a rotating cylinder is selected by a pivoted indicator arm over an index ring, and each print stroke of a rocking frame… | rotary |
 | 1886 | [US352160](../patents/US352160.md) | Spiro, Charles | linked | Two stacked type-wheels on a fixed vertical shaft, slidable by a shift key, are turned by a twirling handle and printed by tilting a rocking paper carriage against the… | axial |
 | 1887 | [DE42124](../patents/DE42124.md) |  | index | A hand lever carries a pointer over an index plate with two alphabets while swinging a rubber type segment to the same letter, then a stamp presses that type through a… | rotary |
 | 1887 | [US355703](../patents/US355703.md) | Morris, Robert Erastus | index | A hand-moved plate carrying rubber type on its underside and a matching character index on top is slid until a fixed pointer sits over the wanted character, then pressed… | rotary |
@@ -30,6 +31,7 @@
 | 1891 | [DE57454](../patents/DE57454.md) |  | index | Lift the type wheel along its axis to bring a second wreath of capitals to the print point, triggered by pulling out an extension of the pointer's finger ring. | axial |
 | 1891 | [US455299](../patents/US455299.md) | Becker, George | index | A flat two-row type plate is slid by hand under a pointer over an index plate, and a print lever with a chisel point locks the plate into a tooth space and presses the… | platen |
 | 1891 | [US455561](../patents/US455561.md) | Eggis, Adolphe Prosper | linked | A rotary bell carrying a rubber type ring is turned by hand until a plunger on it drops into one of the holes of a fixed perforated circle, then pushed down to print,… | rotary |
+| 1891 | [US456025](../patents/US456025.md) | Edland, Joe L. | index | A stationary character dial is read by a hand lever that rotates a hub with radial flexible type fingers; the lever's handle pivots down to press the type finger lying… | rotary |
 | 1891 | [US461865](../patents/US461865.md) | Brooks, Byron A. | linked | Each key throws a gear-arm that spins the type-wheel left or right from a home position (never more than half a turn) until a stop on the key halts a vibrating arm… | axial, triple |
 | 1891 | [US463723](../patents/US463723.md) | Brooks, Byron A. | index | A pointer on a letter plate rotates a multi-row type-wheel by rack and pinion, pressing the same pointer down swings the whole frame to print, a V-notch wheel on the… | axial |
 | 1891 | [US466200](../patents/US466200.md) | Towle, George C. | index | A bar with two rows of type slid longitudinally by a carrier, rolled to choose a row, and pressed down onto a flat paper carriage. | rotary |

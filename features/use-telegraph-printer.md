@@ -2,13 +2,14 @@
 
 Printing telegraph or remote printing
 
-**12 patents**, 1886–1950. Often together with: [ELEM:wheel-rim](../features/elem-wheel-rim.md) (8), [SEL:keyboard-full](../features/sel-keyboard-full.md) (4), [SHIFT:axial](../features/shift-axial.md) (4), [IMP:electric](../features/imp-electric.md) (4), [ELEM:interchangeable](../features/elem-interchangeable.md) (3), [IMP:hammer-behind](../features/imp-hammer-behind.md) (3), [ELEM:metal-type](../features/elem-metal-type.md) (2), [ELEM:hub-keying](../features/elem-hub-keying.md) (2)
+**13 patents**, 1886–1950. Often together with: [ELEM:wheel-rim](../features/elem-wheel-rim.md) (8), [IMP:electric](../features/imp-electric.md) (5), [SEL:keyboard-full](../features/sel-keyboard-full.md) (4), [IMP:hammer-behind](../features/imp-hammer-behind.md) (4), [SHIFT:axial](../features/shift-axial.md) (4), [SEL:selector-locking](../features/sel-selector-locking.md) (3), [ELEM:interchangeable](../features/elem-interchangeable.md) (3), [USE:accessory](../features/use-accessory.md) (2)
 
 ## Patents, oldest first
 
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
 | [US345565](../patents/US345565.md) | 1886 | Baldridge, George W. | Finger-pieces are turned on their bent stems by a movable plate so each presses either a lower-case or upper-case key beneath. |
+| [US625408](../patents/US625408.md) | 1899 | Neal - Eaton, Albert D. - Howard F. | An electromagnet-driven selector arm, stopped by electrically raised pins, positions a plunger over one of forty rods linked to the key levers, and a printing magnet's hammer then drives it. |
 | [US665402](../patents/US665402.md) | 1901 | Burry, John | Put extra digit type at right angles on the type wheel so they print sideways in a full-size slot and stand for eighths. |
 | [US676716](../patents/US676716.md) | 1901 | Fuchs, Edward J. | A wheel body with a separate sheet-metal rim strip bearing raised type, crimped onto the body rim. |
 | [US727213](../patents/US727213.md) | 1903 | Sedgwick, Frederick | Cipher type-wheel whose characters are shifted relative to the keys at set intervals, so key and printed letter differ and a like machine decodes. |

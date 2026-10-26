@@ -2,15 +2,17 @@
 
 Book or flat-bed typewriter for bound records
 
-**47 patents**, 1885–1935. Often together with: [PAP:flat-bed](../features/pap-flat-bed.md) (46), [ESC:moving-print-head](../features/esc-moving-print-head.md) (28), [INK:ribbon](../features/ink-ribbon.md) (18), [ESC:pawl-rack](../features/esc-pawl-rack.md) (15), [ELEM:typebar](../features/elem-typebar.md) (14), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (13), [IMP:element-to-platen](../features/imp-element-to-platen.md) (10), [FRM:writing-visible](../features/frm-writing-visible.md) (9)
+**53 patents**, 1881–1935. Often together with: [PAP:flat-bed](../features/pap-flat-bed.md) (52), [ESC:moving-print-head](../features/esc-moving-print-head.md) (31), [ESC:pawl-rack](../features/esc-pawl-rack.md) (18), [INK:ribbon](../features/ink-ribbon.md) (18), [ELEM:typebar](../features/elem-typebar.md) (14), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (13), [IMP:element-to-platen](../features/imp-element-to-platen.md) (11), [ESC:print-and-space](../features/esc-print-and-space.md) (10)
 
-**Machines:** [Fisher 2](../machines/fisher-2.md) (2)
+**Machines:** [Fisher 2](../machines/fisher-2.md) (4), [Elliott & Hatch 1](../machines/elliott-hatch-1.md) (1), [Elliott & Hatch 2](../machines/elliott-hatch-2.md) (1), [Elliott & Hatch 3](../machines/elliott-hatch-3.md) (1)
 
 ## Patents, oldest first
 
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
+| [DE16716](../patents/DE16716.md) | 1881 |  | A box of 40 vertical type rods, each pressed straight down by its own button onto the paper, with each press stepping a two-axis carriage by ratchet one point (or three for wide letters and spaces). |
 | [US312981](../patents/US312981.md) | 1885 | Dodge, Manly C. | A hand-held type-wheel carriage rides on a frame over the book; a knobbed handle turns a pointer over a lettered dial to choose a type, pressing the handle drives a plunger onto that spring-held type, and a thumb lever advances the carriage by a chain. |
+| [US347373](../patents/US347373.md) | 1886 | Perkins, Willis J. | A light hand-held casing with endless type bands, selected by a key moved over a dial plate against stops, that is pressed down onto the paper to print and travels on parallel rods over the work. |
 | [US439068](../patents/US439068.md) | 1890 | Hewlett, Maddra J. | A small print head travels over a clamped flat plate: a pivoted curved type segment with a type band is slid by an indicator arm over a letter chart, and one printing lever punches the type down through a slot onto the paper while also stepping the head along a toothed bar. |
 | [US441880](../patents/US441880.md) | 1890 | Lowe, Austin | A typewriter whose frame slides along a fixed ratchet spacing bar over the book and shifts its centre so different types on a multi-type bar strike flat. |
 | [US443547](../patents/US443547.md) | 1890 | Smith, Roswell T. | A small carriage travels over a thin flat platform; a knob turns a central shaft carrying both a pointer over a letter dial and a rubber type segment, and a key drops a latch into a slot to register the type and hammer it onto the paper while also stepping the carriage by a dog on a rack. |
@@ -24,12 +26,15 @@ Book or flat-bed typewriter for bound records
 | [US569627](../patents/US569627.md) | 1896 | Fisher, Robert Joseph | A machine runs on tracks resting on the page above a rubber-faced printing plate placed under the leaf. |
 | [US613201](../patents/US613201.md) | 1898 | Hopkins, William B. | A book typewriter with letter-carrying arms on a notched segment, lateral feed control, ribbon lateral feed, line-length stop and book supports. |
 | [US631144](../patents/US631144.md) | 1899 | Anderson, George S. | A ribbon-shift key on the carriage moves the ribbon guide widthwise to several held positions, using the full ribbon width, two colours, or clearing the print point to view. |
+| [US632680](../patents/US632680.md) | 1899 | Fisher, Robert Joseph | A table with a hinged, split flat platen over an opening and a crank-and-worm-raised book support that lifts the open book up against the platen leaves. |
+| [US632682](../patents/US632682.md) | 1899 | Fisher, Robert Joseph | A double flat platen with a slot between the leaves, hinged on a sliding rod so it swings up to expose the book and shifts lengthwise to line the slot up with the binding crease. |
 | [US635946](../patents/US635946.md) | 1899 | Treadgold, George H. | A book-writing typewriter whose printing carriage runs on a frame resting on the book, with typearms in two opposed rows (capitals and lowercase) joined to common keys by evener levers and alternately locked by a sliding frame. |
 | [US637749](../patents/US637749.md) | 1899 | Fisher, Robert Joseph | Ribbon mechanism that withdraws from the line of sight after each stroke and returns to the type path on each key depression, plus means to hold the type-bar ring steady. |
 | [US637816](../patents/US637816.md) | 1899 | Myers, James Hamilton | A traveling type-frame carrying an oscillating type disk or cylinder with a type-bar in each socket, advanced by a feed screw with each keystroke and reversible. |
 | [USRE11850](../patents/USRE11850.md) | 1900 | Fisher, Robert Joseph | A reissued Fisher machine with type-bars in adjustable clips on a ring, tracks that rest on the page and a hard-rubber platen inserted between book leaves. |
 | [US661472](../patents/US661472.md) | 1900 | Hillard, Frederic W. | Give the stop-arm a two-lobed rounded end so each key-lever stop touches it at a different point, spreading the wear. |
 | [US662790](../patents/US662790.md) | 1900 | Hopkins, Edward A. | Shift the ribbon spools axially a small step each time the ribbon feed reverses, so successive passes use parallel stripes across the ribbon width. |
+| [US665774](../patents/US665774.md) | 1901 | Elliott, Crawford | A laterally shiftable book carriage with two independently spring-supported leaves sits under a hinged rigid flat platen and a hinged frame carrying the downward-acting writing machine. |
 | [US671162](../patents/US671162.md) | 1901 | Dukes, Harry S. | Trip latches on the spool ratchet disks move a reciprocating reversing bar, switching pawls; ribbon guide holds ribbon in front of the writing. |
 | [US671186](../patents/US671186.md) | 1901 | Dukes, Harry S. | A book typewriter with a vertically and horizontally adjustable frame carrying track rails, line spacing and typebar action with shift reversal. |
 | [US703961](../patents/US703961.md) | 1902 | Laganke, Charles Frederick | A shiftable stop device sets fixed or universal line spacings, and the actuator also acts as a holdback dog when the machine frame is moved freely. |
@@ -43,6 +48,7 @@ Book or flat-bed typewriter for bound records
 | [US753789](../patents/US753789.md) | 1904 | Dukes  -  Clayton, Harry S. - William H. | A shiftable machine-supporting frame and a self-leveling work-holder let either page of a book be brought beneath the printer in front of the operator. |
 | [US759816](../patents/US759816.md) | 1904 | Marriott, James H. W. | A typewriter riding on fixed guideways above a flat bed that is line-spaced by moving the machine for books or by moving the platen for loose sheets. |
 | [US778454](../patents/US778454.md) | 1904 | Laganke, Charles Frederick | A set of platen equipment: adjustable card-guiding flexible strips, individually adjustable gauge pins for a reversed sales-sheet, and a machine-operated work clamp shiftable in the line-space direction. |
+| [US826616](../patents/US826616.md) | 1906 | Sherin, Gilbert W. | An endless type belt on two hand-turned spools rides on a traveling plate, and a single hammer lever presses the aligned type through a guideway opening onto the paper while the same stroke advances the plate one tooth. |
 | [US827514](../patents/US827514.md) | 1906 | Dukes, Harry S. | A front-strike typebar machine whose print point lies in a vertical plane, with a compact typebar action of uniform leverage, for flat or roller platens. |
 | [US856333](../patents/US856333.md) | 1907 | Bolton, Herbert D. | A web feeding and roll-supporting mechanism with separate retention of paper and transfer ribbons so each can move independently. |
 | [US929837](../patents/US929837.md) | 1909 | Donning, George W. | A flexible band across the platen, held under spring tension and shiftable sideways along a rod, clamps the sheet and is raised automatically when the carbon sheets are lifted. |
