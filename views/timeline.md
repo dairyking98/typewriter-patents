@@ -97,7 +97,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1870s
 
-76 patents (0 German), 71 read, 2 index-type.
+76 patents (0 German), 73 read, 2 index-type.
 
 **First seen:**
 
@@ -133,18 +133,19 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1880s
 
-449 patents (49 German), 351 read, 31 index-type.
+449 patents (49 German), 445 read, 31 index-type.
 
 **First seen:**
 
+- 1880: [INK:ribbon-color](../features/ink-ribbon-color.md) in [US229707](../patents/US229707.md) (Jenne, William K.): Two-colour ribbon change
 - 1880: [INK:ribbon-lift](../features/ink-ribbon-lift.md) in [US224183](../patents/US224183.md) (Hammond, James B.): Ribbon lift or vibrator to the print point
 - 1880: [SEL:chart-interchangeable](../features/sel-chart-interchangeable.md) in [US232741](../patents/US232741.md) (McKinley, Carl): Index chart or scale swapped with the element for other fonts or languages
 - 1881: [USE:book-typewriter](../features/use-book-typewriter.md) in [DE16716](../patents/DE16716.md): Book or flat-bed typewriter for bound records
 - 1883: [SHIFT:lock](../features/shift-lock.md) in [US284231](../patents/US284231.md) (Pritchard, Arthur W.): Shift lock
 - 1884: [ESC:backspace](../features/esc-backspace.md) in [US309272](../patents/US309272.md) (Whitcomb, James A.): Backspace
-- 1884: [INK:ribbon-color](../features/ink-ribbon-color.md) in [US292854](../patents/US292854.md) (Richardson, Henry B.): Two-colour ribbon change
 - 1885: [INK:disc](../features/ink-disc.md) in [DE33343](../patents/DE33343.md): Ink disc
 - 1886: [ELEM:band](../features/elem-band.md) in [US347373](../patents/US347373.md) (Perkins, Willis J.): Flexible type band or belt
+- 1886: [USE:check-writer](../features/use-check-writer.md) in [US334264](../patents/US334264.md) (Montgommery, James M., Jr.): Check writer or amount printer
 
 **Index machines:** [Horton Index](../machines/horton-index.md) (1883, type plate), [Columbia Index 1](../machines/columbia-index-1.md) (1884, type wheel), [Mc Loughlin](../machines/mc-loughlin.md) (1884, type plate), [Westphalia](../machines/westphalia.md) (1884, linear type rule), [Columbia Index 2](../machines/columbia-index-2.md) (1885, type wheel), [Cookson](../machines/cookson.md) (1885, type ring), [Herrington](../machines/herrington.md) (1885, type wheel), [Morris](../machines/morris.md) (1885, type plate), [Pocket](../machines/pocket-2.md) (1885, type wheel), [La Parisienne](../machines/la-parisienne.md) (1886, type band), [World 1](../machines/world-1.md) (1886, type plate), [Pocket](../machines/pocket.md) (1887, type disc), [Velograph 2](../machines/velograph-2.md) (1887, type disc), [Crown Index 1](../machines/crown-index-1.md) (1888, type wheel)
 
@@ -161,13 +162,12 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1890s
 
-1490 patents (75 German), 1115 read, 54 index-type.
+1490 patents (75 German), 1440 read, 55 index-type.
 
 **First seen:**
 
 - 1890: [ESC:tabulator](../features/esc-tabulator.md) in [US436916](../patents/US436916.md) (Gathright, Josiah B.): Tabulator
 - 1890: [USE:calculating](../features/use-calculating.md) in [US441232](../patents/US441232.md) (Felt, Dorr E.): Combined with adding or calculating
-- 1893: [USE:check-writer](../features/use-check-writer.md) in [US511313](../patents/US511313.md) (Williams, John N.): Check writer or amount printer
 
 **Index machines:** [Dollar Typewriter](../machines/dollar-typewriter.md) (1890, type wheel), [Soennecken](../machines/soennecken.md) (1890, linear type rule), [World 2](../machines/world-2.md) (1890, type plate), [Smith, F. W.](../machines/smith-f-w.md) (1891, type disc), [Simplex Type Writer](../machines/simplex-type-writer.md) (1892, type disc), [American Index](../machines/american-index.md) (1893, type ring), [Crown Index 2](../machines/crown-index-2.md) (1894, type wheel), [Edland 2](../machines/edland-2.md) (1894, type disc), [Larson](../machines/larson.md) (1894, type wheel), [Victor Index](../machines/victor-index.md) (1894, type wheel), [Büttner](../machines/buttner.md) (1896, type wheel), [Eureka](../machines/eureka.md) (1896, type wheel), [Eureka](../machines/eureka-2.md) (1896, type ring), [Kochendörfer Index](../machines/kochendorfer-index.md) (1896, type plate), [Beger & Markworth](../machines/beger-markworth.md) (1897, type wheel), [Edelmann](../machines/edelmann.md) (1897, type wheel), [Volksschreibmaschine](../machines/volksschreibmaschine.md) (1898, type wheel), [Chinese (A)](../machines/chinese-a.md) (1899, type wheel), [Dart](../machines/dart.md) (1899, type wheel), [New Simplex 2](../machines/new-simplex-2.md) (1899, type disc)
 
@@ -184,7 +184,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1900s
 
-2431 patents (99 German), 1925 read, 26 index-type.
+2431 patents (99 German), 2416 read, 26 index-type.
 
 **Index machines:** [Simplex Little Giant](../machines/simplex-little-giant.md) (1900, type disc), [Niagara](../machines/niagara.md) (1901, type wheel), [Simplex Special A](../machines/simplex-special-a.md) (1901, type disc), [Coffman](../machines/coffman.md) (1902, type band), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) (1902, index (pointer)), [Mignon 1](../machines/mignon-1.md) (1902, type cylinder), [Mignon 2](../machines/mignon-2.md) (1904, type cylinder), [Officine Galileo](../machines/officine-galileo.md) (1904, type wheel), [Simplex Spezial 1](../machines/simplex-spezial-1.md) (1906, type disc), [Picht Index](../machines/picht-index.md) (1907, type wheel), [Taurus Type](../machines/taurus-type.md) (1908, type wheel)
 
@@ -201,7 +201,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1910s
 
-2122 patents (113 German), 1629 read, 13 index-type.
+2122 patents (113 German), 2083 read, 15 index-type.
 
 **Index machines:** [Darling (A)](../machines/darling-a.md) (1910, type wheel), [Darling (B)](../machines/darling-b.md) (1910, type disc), [Famos](../machines/famos.md) (1910, type wheel), [Trebla](../machines/trebla.md) (1910, type wheel), [Nouveau Siècle](../machines/nouveau-siecle.md) (1912, type disc), [Aktiv](../machines/aktiv.md) (1913, type wheel), [Mignon 3](../machines/mignon-3.md) (1913, type cylinder), [Virotyp (B)](../machines/virotyp-b.md) (1914, type disc), [Nippon](../machines/nippon.md) (1917, ), [Yu Ess](../machines/yu-ess.md) (1918, type cylinder), [Gerda 1](../machines/gerda-1.md) (1919, type wheel), [Heady](../machines/heady.md) (1919, type wheel)
 
@@ -218,7 +218,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1920s
 
-1502 patents (1498 German), 844 read, 24 index-type.
+1502 patents (1498 German), 1429 read, 26 index-type.
 
 **Index machines:** [Chinese (B)](../machines/chinese-b.md) (1920, individual type), [Gescha](../machines/gescha.md) (1920, type wheel), [Junior GSN](../machines/junior-gsn.md) (1920, type wheel), [Gerda 2](../machines/gerda-2.md) (1921, type wheel), [Hogar](../machines/hogar.md) (1921, type cylinder), [Die kleine Gundka](../machines/die-kleine-gundka.md) (1924, index (pointer + type wheel)), [Mignon 4](../machines/mignon-4.md) (1924, type cylinder), [Typen](../machines/typen.md) (1924, type wheel), [Karli 1 Einreihig](../machines/karli-1-einreihig.md) (1927, individual type), [Karli 2 Zweireihig](../machines/karli-2-zweireihig.md) (1928, individual type)
 
@@ -235,7 +235,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1930s
 
-1363 patents (1359 German), 495 read, 9 index-type.
+1363 patents (1359 German), 1303 read, 10 index-type.
 
 **Index machines:** [Ludolf](../machines/ludolf.md) (1930, type disc), [Pellaton](../machines/pellaton.md) (1932, type wheel), [Olympia Plurotyp](../machines/olympia-plurotyp.md) (1933, type cylinder), [Carissima](../machines/carissima.md) (1934, type wheel), [Dial De Luxe](../machines/dial-de-luxe.md) (1934, type wheel), [Junior Typewriter](../machines/junior-typewriter.md) (1935, type wheel), [Tip-Tip](../machines/tip-tip.md) (1936, type cylinder), [Shimada](../machines/shimada.md) (1938, ), [Shimada 2](../machines/shimada-2.md) (1938, )
 
@@ -244,24 +244,26 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 - [DE489650](../patents/DE489650.md) 1930, Arondel, Maurice Leon: Incline the type carriers and their guide plate downward so they rest below the writing line, leaving it visible and shortening the machine.
 - [DE521627](../patents/DE521627.md) 1931, inventor unknown: The pivoting upper part is pressed by a torsion spring against a horizontally rotatable flatted disc, so turning the disc sets the holder to the working or rest position.
 - [DE524809](../patents/DE524809.md) 1931, inventor unknown: Both the cable and its sheath are hung in sprung open eyes so the owner can detach and replace the Bowden cable.
-- [DE540613](../patents/DE540613.md) 1931, Sebastian, Friedmann: A slotted clamping ring between the line-spacing wheel and the platen cover is spread by the flats on the coupling bolt's end web, so the wheel keeps its round shape and…
 - [DE545922](../patents/DE545922.md) 1932, Sa, Stenotype Grandjean: A one-piece pawl with a switching tooth and a trailing safety tooth, plus an adjustable stop on the holder, moves the ratchet exactly one tooth per stroke.
+- [DE639898](../patents/DE639898.md) 1936, Schneider, Julius: Drum is machined in one piece with radial bores and a common ring groove; each square-headed matrix slides in its bore, the heads engage the groove, and return springs…
 - [DE647101](../patents/DE647101.md) 1937, Banholzer, Friedrich: Drive the line indicator with semi-rigid flexible steel strips actuated only from the lower edge, so the other three edges of the holder plate stay free.
 - [DE653658](../patents/DE653658.md) 1937, inventor unknown: Both line indicator bars on a common carrier follow the platen shift and can be moved by one handle between a close-fitting position and a slightly raised position,…
 - [DE673875](../patents/DE673875.md) 1939, inventor unknown: All sheet holding, feeding and switching is combined in one unit at the top edge of the board, with the lower feed roller advanced by a ratchet driven by the clamp bar.
 
 ## 1940s
 
-675 patents (673 German), 97 read, 2 index-type.
+675 patents (673 German), 638 read, 4 index-type.
 
 **Key patents:**
 
 - [DE694994](../patents/DE694994.md) 1940, Slee, Arthur Lloyd: A cardboard holder whose line-indicator strip is carried down by the sliding manuscript plate and held back by tongues on the stand plate, so it steps silently.
+- [DE714685](../patents/DE714685.md) 1941, Maul, Michael: Four printed index marks at fixed positions identify each character for photoelectric sensing; combinations of marks encode the meaning.
+- [DE708642](../patents/DE708642.md) 1941, Maul, Michael: A single light cell reads each character by moving the card past a sensing point while a beam-guiding device, moved synchronously, scans the index points.
 - [DE720260](../patents/DE720260.md) 1942, Soc, Stenotype Grandjean: A double lever under the hood is dragged out at one end by the ribbon-end buckle, showing a coloured tip outside the hood.
 
 ## 1950s
 
-67 patents (66 German), 10 read, 1 index-type.
+67 patents (66 German), 62 read, 1 index-type.
 
 **Index machines:** [Chinese (C) Optima](../machines/chinese-c-optima.md) (1955, ), [Optima (Chinese)](../machines/optima-chinese.md) (1955, individual type)
 

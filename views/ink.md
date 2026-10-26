@@ -8,15 +8,15 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [INK:ribbon](../features/ink-ribbon.md) | Ribbon between type and paper | 904 | 20 | 1867 [US65807](../patents/US65807.md) | 1900s | `    ▁▁▂██▆▂▁▁▁` |  |
-| [INK:ribbon-feed](../features/ink-ribbon-feed.md) | Ribbon feed mechanism (pawl | 681 | 10 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▂█▆▆▂▁▁▁` |  |
-| [INK:ribbon-lift](../features/ink-ribbon-lift.md) | Ribbon lift or vibrator to the print point | 421 | 1 | 1880 [US224183](../patents/US224183.md) | 1900s | `      ▁▂█▇▂▁▁ ` |  |
-| [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) | Automatic ribbon reversing | 377 | 3 | 1871 [US118491](../patents/US118491.md) | 1900s | `     ▁▂▇█▇▃▁▁▁` |  |
-| [INK:pad](../features/ink-pad.md) | Felt or ink pad inking the type | 244 | 27 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁ ▁▄█▃▁▁▁ ▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [INK:ribbon-color](../features/ink-ribbon-color.md) | Two-colour ribbon change | 234 | 3 | 1884 [US292854](../patents/US292854.md) | 1900s | `      ▁▁█▆▁▁▁ ` |  |
-| [INK:roller](../features/ink-roller.md) | Ink roller touching the type | 222 | 30 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁ ▁▆█▄▁▁▁▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [INK:carbon](../features/ink-carbon.md) | Carbon paper or inked strip instead of ribbon | 49 | 0 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁▁▁▄▁█▇▃▆▁ ` |  |
-| [INK:disc](../features/ink-disc.md) | Ink disc | 13 | 2 | 1885 [DE33343](../patents/DE33343.md) | 1880s | `      █▃▂  ▁  ` |  |
+| [INK:ribbon](../features/ink-ribbon.md) | Ribbon between type and paper | 1166 | 20 | 1867 [US65807](../patents/US65807.md) | 1900s | `    ▁▁▂▇█▆▃▃▁▁` |  |
+| [INK:ribbon-feed](../features/ink-ribbon-feed.md) | Ribbon feed mechanism (pawl | 830 | 10 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▂█▇▆▃▂▁▁` |  |
+| [INK:ribbon-lift](../features/ink-ribbon-lift.md) | Ribbon lift or vibrator to the print point | 449 | 1 | 1880 [US224183](../patents/US224183.md) | 1900s | `      ▁▂█▇▂▁▁▁` |  |
+| [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) | Automatic ribbon reversing | 441 | 3 | 1871 [US118491](../patents/US118491.md) | 1900s | `     ▁▂▇█▇▃▂▁▁` |  |
+| [INK:ribbon-color](../features/ink-ribbon-color.md) | Two-colour ribbon change | 272 | 3 | 1880 [US229707](../patents/US229707.md) | 1900s | `      ▁▁█▆▂▁▁▁` |  |
+| [INK:pad](../features/ink-pad.md) | Felt or ink pad inking the type | 271 | 27 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁ ▁▄█▃▁▁▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [INK:roller](../features/ink-roller.md) | Ink roller touching the type | 266 | 30 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁ ▁▅█▄▁▂▂▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [INK:carbon](../features/ink-carbon.md) | Carbon paper or inked strip instead of ribbon | 147 | 0 | 1856 [US15164](../patents/US15164.md) | 1930s | `   ▁▁▁▁▁▆▆▂█▃ ` |  |
+| [INK:disc](../features/ink-disc.md) | Ink disc | 18 | 2 | 1885 [DE33343](../patents/DE33343.md) | 1880s | `      █▅▂  ▃▂ ` |  |
 
 ## Index-type patents, oldest first (75)
 

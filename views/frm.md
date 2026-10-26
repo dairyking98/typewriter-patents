@@ -8,13 +8,13 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [FRM:adjustment-wear](../features/frm-adjustment-wear.md) | Adjustment or wear take-up provisions | 965 | 28 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁ ▁▁▂▇█▆▂▂▁ ` | [American Index](../machines/american-index.md) |
-| [FRM:few-parts](../features/frm-few-parts.md) | Explicit aim of few parts | 646 | 40 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▃█▆▄▄▂▁▁` | [Gerda 2](../machines/gerda-2.md) |
-| [FRM:writing-visible](../features/frm-writing-visible.md) | Writing visible to the operator while typing | 571 | 28 | 1876 [US175584](../patents/US175584.md) | 1900s | `     ▁▂▇█▄▁▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [FRM:cleaning-access](../features/frm-cleaning-access.md) | Access for cleaning or element removal | 308 | 11 | 1876 [US183905](../patents/US183905.md) | 1900s | `     ▁▂▇█▇▄▂▁ ` |  |
-| [FRM:compact-portable](../features/frm-compact-portable.md) | Small | 291 | 19 | 1863 [US39296](../patents/US39296.md) | 1920s | `    ▁▁▂█▅▆█▅▁▁` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
-| [FRM:frame-construction](../features/frm-frame-construction.md) | Frame or casing construction (cast | 286 | 1 | 1845 [US4271](../patents/US4271.md) | 1910s | `  ▁▁  ▁▅▆█▇▂▁ ` |  |
-| [FRM:cover-enclosure](../features/frm-cover-enclosure.md) | Cover or enclosure of the mechanism | 125 | 6 | 1870 [US109161](../patents/US109161.md) | 1900s | `     ▁▂▄█▃▄▂▁ ` |  |
+| [FRM:adjustment-wear](../features/frm-adjustment-wear.md) | Adjustment or wear take-up provisions | 1086 | 28 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁ ▁▁▂▇█▆▃▂▁▁` | [American Index](../machines/american-index.md) |
+| [FRM:few-parts](../features/frm-few-parts.md) | Explicit aim of few parts | 792 | 40 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▃█▆▄▄▄▂▁` | [Gerda 2](../machines/gerda-2.md) |
+| [FRM:writing-visible](../features/frm-writing-visible.md) | Writing visible to the operator while typing | 645 | 28 | 1876 [US175584](../patents/US175584.md) | 1900s | `     ▁▂▆█▄▂▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [FRM:frame-construction](../features/frm-frame-construction.md) | Frame or casing construction (cast | 448 | 1 | 1845 [US4271](../patents/US4271.md) | 1920s | `  ▁▁  ▁▄▆▆█▄▂▁` |  |
+| [FRM:cleaning-access](../features/frm-cleaning-access.md) | Access for cleaning or element removal | 445 | 11 | 1876 [US183905](../patents/US183905.md) | 1890s | `     ▁▂█▇▅▅▃▁▁` |  |
+| [FRM:compact-portable](../features/frm-compact-portable.md) | Small | 393 | 19 | 1863 [US39296](../patents/US39296.md) | 1920s | `    ▁▁▁▅▄▅█▅▃▁` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
+| [FRM:cover-enclosure](../features/frm-cover-enclosure.md) | Cover or enclosure of the mechanism | 250 | 6 | 1870 [US109161](../patents/US109161.md) | 1900s | `     ▁▂▄█▄▇▆▄ ` |  |
 
 ## Index-type patents, oldest first (92)
 

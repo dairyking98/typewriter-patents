@@ -2,7 +2,7 @@
 
 Hand wheel carrying the characters turned directly (the element is the index)
 
-**49 patents**, 1843–1933. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (31), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (30), [IMP:press-through](../features/imp-press-through.md) (28), [ESC:pawl-rack](../features/esc-pawl-rack.md) (27), [IMP:element-to-platen](../features/imp-element-to-platen.md) (23), [INK:roller](../features/ink-roller.md) (22), [SEL:selector-locking](../features/sel-selector-locking.md) (22), [FRM:few-parts](../features/frm-few-parts.md) (22)
+**51 patents**, 1843–1933. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (31), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (30), [IMP:press-through](../features/imp-press-through.md) (28), [ESC:pawl-rack](../features/esc-pawl-rack.md) (27), [IMP:element-to-platen](../features/imp-element-to-platen.md) (23), [INK:roller](../features/ink-roller.md) (22), [SEL:selector-locking](../features/sel-selector-locking.md) (22), [FRM:few-parts](../features/frm-few-parts.md) (22)
 
 **Machines:** [Dollar Typewriter](../machines/dollar-typewriter.md) (1)
 
@@ -58,4 +58,6 @@ Hand wheel carrying the characters turned directly (the element is the index)
 | [US977448](../patents/US977448.md) | 1910 | Harrison, Samuel A. | A hand-indexed rotatable multi-alphabet type bar in a swinging cradle prints onto a platen carriage whose single spacing lever, through a shiftable double pawl, can advance the carriage in either direction. |
 | [US1033709](../patents/US1033709.md) | 1912 | Lasere, Frederick | Type is set on the periphery of a rotatable wheel with independent rows of small and capital letters, turned by hand to bring a letter into position; reciprocating a hand-actuated carriage prints it and steps the platen. |
 | [US1138851](../patents/US1138851.md) | 1915 | des Jardins, Benjamin M. | A hand-turned type wheel with a matching index is coupled to a stack of spring-return stop disks which, stopped one after another by an escapement ring, shift the printed character away from the pointed-at letter by a changing offset. |
+| [US1144809](../patents/US1144809.md) | 1915 | Chandler, Edwin N. | A rotating carrier holds detachable stencil characters and brings each one into position over the work table, with an electric heater kept in a steady relation to the carrier. |
+| [DE441005](../patents/DE441005.md) | 1927 | Buck, Conrad | Characters are embossed into thin sheet-steel discs so they read correctly from the back, letting the upper disc be used as a setting disc while the strip is embossed between the paired discs. |
 | [DE580989](../patents/DE580989.md) | 1933 | Gerson, Adolf | Trapezoidal type sticks lie side by side forming a closed ring that is turned along a fixed rail with a cutout where one stick is pressed down. |

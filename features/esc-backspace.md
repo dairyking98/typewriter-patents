@@ -2,7 +2,7 @@
 
 Backspace
 
-**95 patents**, 1884–1949. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (63), [ESC:escape-wheel](../features/esc-escape-wheel.md) (22), [ESC:spring-drum](../features/esc-spring-drum.md) (21), [ELEM:typebar](../features/elem-typebar.md) (14), [SEL:keyboard-full](../features/sel-keyboard-full.md) (12), [ESC:space-key](../features/esc-space-key.md) (12), [ESC:carriage-release](../features/esc-carriage-release.md) (12), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (10)
+**97 patents**, 1884–1949. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (64), [ESC:escape-wheel](../features/esc-escape-wheel.md) (22), [ESC:spring-drum](../features/esc-spring-drum.md) (21), [ELEM:typebar](../features/elem-typebar.md) (14), [SEL:keyboard-full](../features/sel-keyboard-full.md) (12), [ESC:space-key](../features/esc-space-key.md) (12), [ESC:carriage-release](../features/esc-carriage-release.md) (12), [ESC:tabulator](../features/esc-tabulator.md) (10)
 
 **Machines:** [Travis](../machines/travis.md) (1), [Corona 3](../machines/corona-3.md) (1), [Bar-Lock 16, 17](../machines/bar-lock-16-17.md) (1)
 
@@ -101,7 +101,9 @@ Backspace
 | [DE530738](../patents/DE530738.md) | 1931 |  | The back-shift pawl and ratchet are on the same axis as the drive wheel and are carried on a base plate that can be removed as one unit; a key lever moves a pivoting linkage that engages the back-shift pawl with the drive wheel. |
 | [DE609811](../patents/DE609811.md) | 1935 | Hoffmann, Edgar | Mount the type wheel and its gear on a slide plate guided straight against the platen in the base plate, with a fixed ratchet comb that a pin on the setting rack enters during the stroke. |
 | [DE619021](../patents/DE619021.md) | 1935 |  | A small-diameter drum with ten column groups and five rows spins continuously; each key of an ordinary four-row keyboard drops a stop pin into the path of a selector arm to halt the rotation and sets a stepped lift stop for the row, so any character is chosen by one key press. |
+| [DE635575](../patents/DE635575.md) | 1936 | Hoffmann, Edgar | Two oppositely acting carriage pawls are mounted on the type-wheel slide plate and pass through limit stops on a common adjusting rail, so one pawl works while the other is held off; the off pawl still engages the rack near the end of advance, braking the carriage and making feed inaccurate-free. |
 | [DE638442](../patents/DE638442.md) | 1936 | Haas, Otto | The tooth of the horizontal backspace rail is stepped so it engages the carriage ratchet in both the basic and the shifted carriage position. |
 | [DE669731](../patents/DE669731.md) | 1939 |  | The control bar is rigidly coupled to the drive shaft so no spring is needed for the print stroke, with strong return springs and an anti-rebound device to catch the type lever. |
+| [DE699939](../patents/DE699939.md) | 1940 |  | Driver linkage for the cross counters is controlled by a piece moved with the paper carriage, so backspacing also brings the cross counter back to the column to be corrected. |
 | [DE840094](../patents/DE840094.md) | 1949 | V, Halberg Machf N | The backspace slide pushes the carriage shift lever so the fixed switching tooth engages and locks the ratchet wheel instead of a separate stop. |
 | [DE859475](../patents/DE859475.md) | 1949 |  | The step-determining tooth is hinged on the shift lever and lifted out of the ratchet by a friction lever on return, with noise-damping stops. |

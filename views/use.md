@@ -8,17 +8,17 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 474 | 39 | 1875 [US171139](../patents/US171139.md) | 1890s | `     ▁▂█▇▅▁▁▁▁` |  |
-| [USE:book-typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 120 | 6 | 1881 [DE16716](../patents/DE16716.md) | 1900s | `      ▁▇█▂▁▂▁ ` |  |
-| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 109 | 2 | 1879 [US217210](../patents/US217210.md) | 1900s | `     ▁▂▃██▆▂▁ ` |  |
-| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 93 | 2 | 1890 [US441232](../patents/US441232.md) | 1930s | `       ▃▅▇▇█▂▁` |  |
-| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 58 | 1 | 1872 [US133841](../patents/US133841.md) | 1900s | `     ▂▄▆█▃▃▃▂▁` |  |
-| [USE:stenotype](../features/use-stenotype.md) | Shorthand or stenographic machine | 49 | 1 | 1868 [US81000](../patents/US81000.md) | 1910s | `    ▁▄▂▄▄█▁▆ ▁` |  |
-| [USE:blind](../features/use-blind.md) | For the blind (embossing | 42 | 0 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁▁ ▁▂▄█▂▅▂  ` |  |
-| [USE:toy](../features/use-toy.md) | Toy or educational machine | 25 | 3 | 1876 [US175661](../patents/US175661.md) | 1930s | `     ▁▄▅▇▄▃█▁ ` |  |
-| [USE:check-writer](../features/use-check-writer.md) | Check writer or amount printer | 10 | 0 | 1893 [US511313](../patents/US511313.md) | 1900s | `       ▅█▅▃▃ ▃` |  |
+| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 1004 | 41 | 1875 [US171139](../patents/US171139.md) | 1900s | `     ▁▂▇█▆▄▄▁▁` |  |
+| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 561 | 4 | 1890 [US441232](../patents/US441232.md) | 1930s | `       ▁▁▂▇█▄▁` |  |
+| [USE:book-typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 168 | 6 | 1881 [DE16716](../patents/DE16716.md) | 1900s | `      ▁▆█▂▁▁▁ ` |  |
+| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 130 | 2 | 1879 [US217210](../patents/US217210.md) | 1900s | `     ▁▂▃█▇▆▅▂ ` |  |
+| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 125 | 1 | 1872 [US133841](../patents/US133841.md) | 1930s | `     ▁▂▃▅▃▄█▆▁` |  |
+| [USE:check-writer](../features/use-check-writer.md) | Check writer or amount printer | 97 | 0 | 1886 [US334264](../patents/US334264.md) | 1890s | `      ▁█▄▃▄▅▁▁` |  |
+| [USE:stenotype](../features/use-stenotype.md) | Shorthand or stenographic machine | 96 | 2 | 1868 [US81000](../patents/US81000.md) | 1910s | `    ▁▃▅▄▅█▃▇ ▁` |  |
+| [USE:blind](../features/use-blind.md) | For the blind (embossing | 55 | 0 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁▁ ▁▃▆█▂▅▃▂ ` |  |
+| [USE:toy](../features/use-toy.md) | Toy or educational machine | 38 | 3 | 1876 [US175661](../patents/US175661.md) | 1900s | `     ▁▃▅█▃▄▇▂▁` |  |
 
-## Index-type patents, oldest first (51)
+## Index-type patents, oldest first (55)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -66,10 +66,14 @@
 | 1924 | [DE406096](../patents/DE406096.md) |  | index | Mount the line pointer on a slider on the clamping strip so it lifts and folds down with the clamp in one motion. | accessory |
 | 1925 | [DE422744](../patents/DE422744.md) |  | index | A detachable pliers-and-flap coupling links the adder's adjusting slide to the typewriter's setting pointer so the pointer follows the digit rack pulled on the adder. | calculating, accessory |
 | 1928 | [DE466818](../patents/DE466818.md) | Kaftanski, Alfons | index | A hand-held device with a type wheel whose faces carry note marks, pressed by a button onto an ink pad; a geared rack sets four heights and a linear scale moves the… | special-script |
+| 1929 | [DE474866](../patents/DE474866.md) | Blaesing, Heinrich | index | Line indicator guided on pins under compression springs presses lightly on any template, staying horizontal for thick or thin originals. | accessory |
+| 1929 | [DE474867](../patents/DE474867.md) | Blaesing, Heinrich | index | Successive sheets carry recesses alternately at the margins and in the middle, so that the line-indicator hooks grab exactly one sheet at a time and the leaping pointer… | stenotype |
 | 1931 | [DE521627](../patents/DE521627.md) |  | index | The pivoting upper part is pressed by a torsion spring against a horizontally rotatable flatted disc, so turning the disc sets the holder to the working or rest position. | accessory |
 | 1931 | [DE524809](../patents/DE524809.md) |  | index | Both the cable and its sheath are hung in sprung open eyes so the owner can detach and replace the Bowden cable. | accessory |
 | 1932 | [DE545922](../patents/DE545922.md) | Sa, Stenotype Grandjean | index | A one-piece pawl with a switching tooth and a trailing safety tooth, plus an adjustable stop on the holder, moves the ratchet exactly one tooth per stroke. | stenotype |
 | 1937 | [DE647101](../patents/DE647101.md) | Banholzer, Friedrich | index | Drive the line indicator with semi-rigid flexible steel strips actuated only from the lower edge, so the other three edges of the holder plate stay free. | accessory |
 | 1939 | [DE673875](../patents/DE673875.md) |  | index | All sheet holding, feeding and switching is combined in one unit at the top edge of the board, with the lower feed roller advanced by a ratchet driven by the clamp bar. | accessory |
 | 1940 | [DE694994](../patents/DE694994.md) | Slee, Arthur Lloyd | index | A cardboard holder whose line-indicator strip is carried down by the sliding manuscript plate and held back by tongues on the stand plate, so it steps silently. | accessory |
+| 1941 | [DE708642](../patents/DE708642.md) | Maul, Michael | index | A single light cell reads each character by moving the card past a sensing point while a beam-guiding device, moved synchronously, scans the index points. | calculating, accessory |
+| 1941 | [DE714685](../patents/DE714685.md) | Maul, Michael | index | Four printed index marks at fixed positions identify each character for photoelectric sensing; combinations of marks encode the meaning. | calculating |
 | 1950 | [DE827955](../patents/DE827955.md) | Fa, J Zendath | index | A heavy line pointer on a steep non-self-locking spindle sinks by its own weight, stepped one line at a time by a ratchet released from a Bowden cable. | accessory |

@@ -8,15 +8,15 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [PAP:platen-roller](../features/pap-platen-roller.md) | Roller platen | 1347 | 61 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▃███▃▁▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [PAP:line-space](../features/pap-line-space.md) | Line-space ratchet and pawl | 963 | 52 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▃█▆▇▂▂▁▁` | [American Index](../machines/american-index.md) |
-| [PAP:paper-guide](../features/pap-paper-guide.md) | Paper table | 502 | 15 | 1868 [US79265](../patents/US79265.md) | 1910s | `    ▁▁▂▆▇█▂▂▁▁` |  |
-| [PAP:feed-rollers](../features/pap-feed-rollers.md) | Feed rollers and paper release | 464 | 28 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁ ▁▂█▆█▁▁▁▁` | [American Index](../machines/american-index.md) |
-| [PAP:line-indicator](../features/pap-line-indicator.md) | Line or point indicator and scale | 326 | 62 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▃██▆▁▂▁▁` |  |
-| [PAP:flat-bed](../features/pap-flat-bed.md) | Flat paper bed or the machine travelling over the paper or a book | 286 | 23 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▇▂▁▂▁ ` |  |
-| [PAP:manifold](../features/pap-manifold.md) | Carbon copies or manifolding emphasis | 152 | 5 | 1867 [US65807](../patents/US65807.md) | 1890s | `    ▁▁▁█▇▆▁▂▁ ` |  |
+| [PAP:platen-roller](../features/pap-platen-roller.md) | Roller platen | 1746 | 61 | 1852 [US8980](../patents/US8980.md) | 1900s | `   ▁ ▁▂▇██▃▂▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [PAP:paper-guide](../features/pap-paper-guide.md) | Paper table | 1336 | 15 | 1868 [US79265](../patents/US79265.md) | 1910s | `    ▁▁▂▄▇█▄▅▂▁` |  |
+| [PAP:line-space](../features/pap-line-space.md) | Line-space ratchet and pawl | 1126 | 52 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▃█▇█▃▂▁▁` | [American Index](../machines/american-index.md) |
+| [PAP:feed-rollers](../features/pap-feed-rollers.md) | Feed rollers and paper release | 914 | 29 | 1856 [US14907](../patents/US14907.md) | 1910s | `   ▁ ▁▂▆▆█▃▄▂▁` | [American Index](../machines/american-index.md) |
+| [PAP:line-indicator](../features/pap-line-indicator.md) | Line or point indicator and scale | 497 | 64 | 1829 [USX5581](../patents/USX5581.md) | 1900s | `▁    ▁▂▇█▇▂▃▁▁` |  |
+| [PAP:flat-bed](../features/pap-flat-bed.md) | Flat paper bed or the machine travelling over the paper or a book | 370 | 23 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁▁▁▁▃▇█▂▁▂▁ ` |  |
+| [PAP:manifold](../features/pap-manifold.md) | Carbon copies or manifolding emphasis | 271 | 5 | 1867 [US65807](../patents/US65807.md) | 1910s | `    ▁▁▁▅▇█▃▄▁ ` |  |
 
-## Index-type patents, oldest first (131)
+## Index-type patents, oldest first (134)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | 1915 | [US1140330](../patents/US1140330.md) | Merlin, Sidney L. W. | index | A scale attached to a margin stop with two graduation series, one counting letter spaces and one counting half that, shows where the carriage must start to centre a line. | line-indicator |
 | 1915 | [US1146393](../patents/US1146393.md) | Bates - Smith, Harry - Charles E. | index | A pointer joined to the two margin stops through racks and a loose pinion always sits midway between them. | line-indicator |
 | 1915 | [US1153252](../patents/US1153252.md) | Pritzl, Lorenz L. | index | A second scale rides on the right margin stop, with an auxiliary half-value scale, so the left stop's pointers read the line length and the centre letter-space directly. | line-indicator |
+| 1915 | [US1158545](../patents/US1158545.md) | Ocumpaugh, Edmund, 2nd. | index | A type or die wheel is locked in the printing position by an arm and gage wheel that also sets the spacing of printed characters, with a feed for the check. | feed-rollers |
 | 1920 | [DE324213](../patents/DE324213.md) |  | index | A radially sliding wedge, pushed by weak springs into the slot of a split coupling ring, is pulled out by hand with a release pin so the ring only has to leave the ring… | platen-roller, line-space, feed-rollers |
 | 1921 | [DE332718](../patents/DE332718.md) | Vester, Heinrich | index | A pointer-driven type cylinder carries several fonts as spring-loaded type pistons, positioned by rotation and axial slide, struck from above by a hammer-tipped key and… | flat-bed, paper-guide |
 | 1921 | [DE334712](../patents/DE334712.md) |  | index | Radial pins pushed out by a cone bear on the middle of balls arranged around them, so the balls clamp the line-space wheel to the platen axle much more firmly. | platen-roller, line-space |
@@ -140,6 +141,8 @@
 | 1924 | [DE406096](../patents/DE406096.md) |  | index | Mount the line pointer on a slider on the clamping strip so it lifts and folds down with the clamp in one motion. | line-indicator |
 | 1926 | [DE425892](../patents/DE425892.md) |  | index | Pairs of balls in a cage on the line-index wheel are pressed by an axial cone against a brake jacket in the platen core, and a push button releases them. | platen-roller, line-space, line-indicator |
 | 1926 | [DE434842](../patents/DE434842.md) |  | index | A tooth clutch of spring-loaded swing arms is engaged by a conical hub and released by a plunger through the hollow platen axle, needing a short movement. | line-space, platen-roller |
+| 1929 | [DE474866](../patents/DE474866.md) | Blaesing, Heinrich | index | Line indicator guided on pins under compression springs presses lightly on any template, staying horizontal for thick or thin originals. | line-indicator |
+| 1929 | [DE474867](../patents/DE474867.md) | Blaesing, Heinrich | index | Successive sheets carry recesses alternately at the margins and in the middle, so that the line-indicator hooks grab exactly one sheet at a time and the leaping pointer… | line-indicator |
 | 1929 | [DE476341](../patents/DE476341.md) | Kaeppler, Paul | index | An adjustment lever on the carriage side wall, positioned by an eccentric with knob and detent washer, sets the pawl's starting position so one stroke turns the ratchet… | line-space, line-indicator |
 | 1931 | [DE521627](../patents/DE521627.md) |  | index | The pivoting upper part is pressed by a torsion spring against a horizontally rotatable flatted disc, so turning the disc sets the holder to the working or rest position. | paper-guide, line-indicator |
 | 1931 | [DE524809](../patents/DE524809.md) |  | index | Both the cable and its sheath are hung in sprung open eyes so the owner can detach and replace the Bowden cable. | line-indicator |

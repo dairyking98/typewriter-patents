@@ -6,6 +6,8 @@ Everyone with at least two index-type read patents, most first.
 |---|---|---|---|---|---|
 | Brooks, Byron A. | 5 | 1883–1892 | [Travis](../machines/travis.md) | SEL:differential-drive, IMP:platen-to-element, INK:roller, SEL:selector-locking | [US272023](../patents/US272023.md), [US461865](../patents/US461865.md), [US463723](../patents/US463723.md), [US476941](../patents/US476941.md), [US476942](../patents/US476942.md) |
 | Spiro, Charles | 5 | 1885–1889 |  | SEL:selector-locking, ELEM:wheel-rim, ELEM:alignment-lock, ESC:pawl-rack | [US322989](../patents/US322989.md), [US335392](../patents/US335392.md), [US352160](../patents/US352160.md), [US381652](../patents/US381652.md), [US400265](../patents/US400265.md) |
+| Blaesing, Heinrich | 2 | 1929–1929 |  | PAP:line-indicator, USE:accessory, USE:stenotype | [DE474866](../patents/DE474866.md), [DE474867](../patents/DE474867.md) |
+| Maul, Michael | 2 | 1941–1941 |  | USE:calculating, USE:accessory, ELEM:element-construction | [DE708642](../patents/DE708642.md), [DE714685](../patents/DE714685.md) |
 | Barron, Walter J. | 2 | 1878–1891 |  | PAP:line-indicator, FRM:writing-visible, ESC:margin-stop, PAP:feed-rollers | [US199494](../patents/US199494.md), [US450880](../patents/US450880.md) |
 | Eggis, Adolphe Prosper | 2 | 1888–1891 |  | SEL:pointer-hole, SEL:selector-locking, SEL:dial, SHIFT:rotary | [US380792](../patents/US380792.md), [US455561](../patents/US455561.md) |
 | Ingersoll, Robert H. | 2 | 1890–1892 |  | SEL:selector-locking, ELEM:wheel-rim, ELEM:rubber-type, ELEM:alignment-lock | [US429195](../patents/US429195.md), [US478109](../patents/US478109.md) |
