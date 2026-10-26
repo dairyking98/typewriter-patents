@@ -128,7 +128,10 @@
       });
 
       var featH = 26 + ((W < 600 ? 4 : 6) + 1) * 13 + 4, patH = 56, axisH = 22, gap = 10;
-      var nP = state.mode === "kinds" ? 3 : 2;
+      // one patents row per office in the data (JP joins once Japanese patents are in the library)
+      var offices = [["US", "US patents", 1], ["DE", "German patents", 2], ["JP", "Japanese patents", 3]]
+        .filter(function (o) { return data.patents[o[0]]; });
+      var nP = state.mode === "kinds" ? 3 : offices.length;
       var H = featH + lanes.reduce(function (s, l) { return s + l.h; }, 0) + gap + nP * patH + axisH + 10;
       var svg = el("svg", { width: W, height: H, viewBox: "0 0 " + W + " " + H, role: "img",
         "aria-label": "Timeline of machines by country, patents per year and typewriter features, " + state.from + " to " + state.to }, wrap);
@@ -198,7 +201,7 @@
       y0 += gap;
       var rowsP = state.mode === "kinds"
         ? [["index", "Index-machine patents", 0], ["type element", "Type-element patents", 0], ["typebar", "Typebar patents", 0]]
-        : [["US", "US patents", 1], ["DE", "German patents", 2]];
+        : offices;
       rowsP.forEach(function (o) {
         var counts = (state.mode === "kinds" ? data.patent_kinds : data.patents)[o[0]] || {}, mx = 1;
         for (var yy = state.from; yy <= state.to; yy++) mx = Math.max(mx, counts[yy] || 0);
@@ -254,8 +257,9 @@
       panel.innerHTML = "";
       h("h3", {}, panel, String(yy));
       var ms = data.machines.filter(function (m) { return m.y === yy && (state.kind === "all" || m.k === state.kind); });
-      var us = (data.patents.US || {})[yy] || 0, de = (data.patents.DE || {})[yy] || 0;
-      h("p", {}, panel, ms.length + " machine" + (ms.length === 1 ? "" : "s") + " introduced · " + us + " US and " + de + " German patents in the library");
+      var us = (data.patents.US || {})[yy] || 0, de = (data.patents.DE || {})[yy] || 0, jp = (data.patents.JP || {})[yy] || 0;
+      h("p", {}, panel, ms.length + " machine" + (ms.length === 1 ? "" : "s") + " introduced · " + us + " US" +
+        (data.patents.JP ? ", " + de + " German and " + jp + " Japanese" : " and " + de + " German") + " patents in the library");
       var feats = data.features.filter(function (f) { return f.first && f.first.y === yy; });
       if (feats.length) {
         var p = h("p", {}, panel); p.appendChild(document.createTextNode("First in the patents: "));
