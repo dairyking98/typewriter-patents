@@ -7,7 +7,7 @@ Flat paper bed or the machine travelling over the paper or a book
 **371 patents**, 1843–1943. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (72)
-- **Type element:** [Typebars](../features/elem-typebar.md) (76)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (76)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (67)
 - **Spacing and escapement:** [Moving print head](../features/esc-moving-print-head.md) (97), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (94), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (74)
 - **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (67)

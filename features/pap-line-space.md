@@ -7,7 +7,7 @@ Line-space ratchet and pawl
 **1134 patents**, 1843–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (183)
-- **Type element:** [Typebars](../features/elem-typebar.md) (166)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (166)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (286), [Carriage return](../features/esc-carriage-return.md) (228), [Space key or bar](../features/esc-space-key.md) (160), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (160)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (700), [Feed rollers and paper release](../features/pap-feed-rollers.md) (199)
 

@@ -7,10 +7,10 @@ Electric or magnetic drive of the impression
 **353 patents**, 1872–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (128), [Selection locked for printing](../features/sel-selector-locking.md) (48)
-- **Type element:** [Typebars](../features/elem-typebar.md) (103), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (51)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (51)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (103), [Power-driven type action](../features/bar-power-action.md) (82)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (58)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (44), [Carriage return](../features/esc-carriage-return.md) (42)
-- **Uses:** [Printing telegraph](../features/use-telegraph-printer.md) (40)
 
 **Machines:** [Blickensderfer 5 Alu](../machines/blickensderfer-5-alu.md) (3), [Blickensderfer 6](../machines/blickensderfer-6.md) (3), [Blickensderfer 8](../machines/blickensderfer-8.md) (3), [Blickensderfer 9](../machines/blickensderfer-9.md) (3), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (3), [Ennis](../machines/ennis.md) (2), [Brooks](../machines/brooks.md) (1), [Blickensderfer 7](../machines/blickensderfer-7.md) (1), [Blick Ninety](../machines/blick-ninety.md) (1), [Gundka 3](../machines/gundka-3.md) (1), [Gundka 5](../machines/gundka-5.md) (1)
 

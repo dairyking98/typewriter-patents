@@ -7,7 +7,7 @@ Cover or enclosure of the mechanism
 **265 patents**, 1870–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (35)
-- **Type element:** [Typebars](../features/elem-typebar.md) (49)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (49)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (27)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (30)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (31)

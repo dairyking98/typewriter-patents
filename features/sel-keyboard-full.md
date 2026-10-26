@@ -6,10 +6,10 @@ One key per character (typebar-style keyboard)
 
 **1431 patents**, 1856–1950. Often together with:
 
-- **Type element:** [Typebars](../features/elem-typebar.md) (771)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (771), [Typebar action](../features/bar-type-action.md) (255)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (423)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (229)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (377), [Space key or bar](../features/esc-space-key.md) (246), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (213)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (377), [Space key or bar](../features/esc-space-key.md) (246)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (269)
 - **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (242)
 

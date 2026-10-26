@@ -7,7 +7,7 @@ Ribbon between type and paper
 **1168 patents**, 1867–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (229)
-- **Type element:** [Typebars](../features/elem-typebar.md) (321)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (321)
 - **Inking:** [Ribbon feed](../features/ink-ribbon-feed.md) (593), [Ribbon lift](../features/ink-ribbon-lift.md) (304), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (298)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (225)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (209)

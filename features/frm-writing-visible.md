@@ -7,7 +7,7 @@ Writing visible to the operator while typing
 **648 patents**, 1876–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (205)
-- **Type element:** [Typebars](../features/elem-typebar.md) (297)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (297)
 - **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (137)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (180)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (203)

@@ -7,9 +7,9 @@ Access for cleaning or element removal
 **453 patents**, 1876–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (71)
-- **Type element:** [Typebars](../features/elem-typebar.md) (172)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (172), [Type basket and bearings](../features/bar-basket-bearings.md) (66)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (64)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (59), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (50)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (59)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (93)
 - **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (87)
 - **Uses:** [Attachment or accessory](../features/use-accessory.md) (67)

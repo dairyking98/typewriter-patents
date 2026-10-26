@@ -7,7 +7,8 @@ Locking pin or tooth that aligns the type exactly at the print point
 **339 patents**, 1856–1950. Often together with:
 
 - **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (153), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (106)
-- **Type element:** [Typebars](../features/elem-typebar.md) (115), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (103)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (103)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (115)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (138)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (105), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (90)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (92)

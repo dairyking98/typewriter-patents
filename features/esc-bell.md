@@ -7,7 +7,7 @@ Bell near the line end
 **255 patents**, 1852–1935. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79)
-- **Type element:** [Typebars](../features/elem-typebar.md) (78)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (78)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (72), [Ribbon feed](../features/ink-ribbon-feed.md) (71)
 - **Spacing and escapement:** [Margin stops](../features/esc-margin-stop.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (113)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (124), [Line spacing](../features/pap-line-space.md) (101)

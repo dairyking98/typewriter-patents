@@ -7,7 +7,7 @@ Platen or carriage moves to change case
 **709 patents**, 1875–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (205)
-- **Type element:** [Typebars](../features/elem-typebar.md) (436)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (436)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (164), [Ribbon lift](../features/ink-ribbon-lift.md) (139)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (161)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (216)

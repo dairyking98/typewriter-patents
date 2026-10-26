@@ -7,7 +7,7 @@ Backspace
 **99 patents**, 1884–1949. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (12)
-- **Type element:** [Typebars](../features/elem-typebar.md) (14)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (14)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (65), [Escape-wheel escapement](../features/esc-escape-wheel.md) (22), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (21), [Space key or bar](../features/esc-space-key.md) (12), [Carriage release](../features/esc-carriage-release.md) (12), [Tabulator](../features/esc-tabulator.md) (10)
 
 **Machines:** [Travis](../machines/travis.md) (1), [Corona 3](../machines/corona-3.md) (1), [Bar-Lock 16, 17](../machines/bar-lock-16-17.md) (1)

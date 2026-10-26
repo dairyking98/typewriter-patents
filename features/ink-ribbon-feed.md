@@ -7,7 +7,7 @@ Ribbon feed mechanism (pawl
 **831 patents**, 1868–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (152)
-- **Type element:** [Typebars](../features/elem-typebar.md) (236)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (236)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (593), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (411), [Ribbon lift](../features/ink-ribbon-lift.md) (139)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (183), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (182)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (153)

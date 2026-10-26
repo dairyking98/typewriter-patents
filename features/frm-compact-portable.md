@@ -7,7 +7,7 @@ Small
 **403 patents**, 1863–1951. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (65)
-- **Type element:** [Typebars](../features/elem-typebar.md) (113)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (113)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (64)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (85), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (63)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (73), [Line spacing](../features/pap-line-space.md) (61)

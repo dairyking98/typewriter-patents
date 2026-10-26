@@ -7,7 +7,7 @@ A separate print key or lever performs the impression
 **347 patents**, 1829–1949. Often together with:
 
 - **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (112), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (70)
-- **Type element:** [Typebars](../features/elem-typebar.md) (76)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (76)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (93)
 - **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (117), [Space key or bar](../features/esc-space-key.md) (72)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (85)

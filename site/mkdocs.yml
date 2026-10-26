@@ -77,6 +77,7 @@ nav:
       - By subsystem:
           - Selection: views/sel.md
           - Type element: views/elem.md
+          - Typebars: views/bar.md
           - Shift: views/shift.md
           - Impression: views/imp.md
           - Inking: views/ink.md

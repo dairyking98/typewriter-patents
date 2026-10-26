@@ -46,7 +46,7 @@ The history of the typewriter through its patents and machines: 10,201 patents (
 
     ---
 
-    The 89 index machines by type carrier, 90 mechanism features by subsystem, the inventors.
+    The 89 index machines by type carrier, 98 mechanism features by subsystem, the inventors.
 
 -   **[Machines A–Z](machines/README.md)**
 

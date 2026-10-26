@@ -6,7 +6,7 @@ Two-colour ribbon change
 
 **274 patents**, 1880–1950. Often together with:
 
-- **Type element:** [Typebars](../features/elem-typebar.md) (96)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (96)
 - **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (65)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (189), [Ribbon lift](../features/ink-ribbon-lift.md) (170), [Ribbon feed](../features/ink-ribbon-feed.md) (82), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (33)
 - **Spacing and escapement:** [Mainspring-drawn carriage](../features/esc-spring-drum.md) (24)

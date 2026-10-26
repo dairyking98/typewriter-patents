@@ -7,7 +7,7 @@ Book or flat-bed typewriter for bound records
 **168 patents**, 1881–1949. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (34)
-- **Type element:** [Typebars](../features/elem-typebar.md) (44)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (44)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (29)
 - **Spacing and escapement:** [Moving print head](../features/esc-moving-print-head.md) (51), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (27)
 - **Paper and carriage:** [Flat bed or book typewriter](../features/pap-flat-bed.md) (134), [Paper table and guides](../features/pap-paper-guide.md) (31), [Line spacing](../features/pap-line-space.md) (23)

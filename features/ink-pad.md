@@ -7,7 +7,7 @@ Felt or ink pad inking the type
 **273 patents**, 1829–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (85)
-- **Type element:** [Typebars](../features/elem-typebar.md) (103)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (103)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (99)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (102), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (85), [Space key or bar](../features/esc-space-key.md) (65)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (86)

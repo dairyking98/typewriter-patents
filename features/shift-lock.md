@@ -7,7 +7,7 @@ Shift lock
 **186 patents**, 1883–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (67)
-- **Type element:** [Typebars](../features/elem-typebar.md) (105)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (105)
 - **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (123), [Three or more cases](../features/shift-triple.md) (50)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (38), [Space key or bar](../features/esc-space-key.md) (34)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (60)

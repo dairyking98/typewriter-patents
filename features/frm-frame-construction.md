@@ -7,10 +7,9 @@ Frame or casing construction (cast
 **472 patents**, 1845–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79)
-- **Type element:** [Typebars](../features/elem-typebar.md) (131)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (50)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (131), [Type basket and bearings](../features/bar-basket-bearings.md) (61), [Typebar action](../features/bar-type-action.md) (54)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (78)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (98), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (89), [Portable or compact](../features/frm-compact-portable.md) (58), [Cover or case](../features/frm-cover-enclosure.md) (53)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (98), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (89), [Portable or compact](../features/frm-compact-portable.md) (58)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (6), [Corona 3](../machines/corona-3.md) (5), [Smith Premier 10](../machines/smith-premier-10.md) (4), [Bar-Lock 12](../machines/bar-lock-12.md) (4), [Bar-Lock 14](../machines/bar-lock-14.md) (4), [Bar-Lock 15](../machines/bar-lock-15.md) (4), [Visigraph](../machines/visigraph.md) (4), [Remington Junior](../machines/remington-junior.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Fisher 2](../machines/fisher-2.md) (3), [Monarch Pioneer](../machines/monarch-pioneer.md) (3), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (3), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (3), [Remington Port. Tab](../machines/remington-port-tab.md) (3), [Remington 6](../machines/remington-6.md) (2)
 

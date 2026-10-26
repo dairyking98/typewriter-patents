@@ -7,7 +7,7 @@ Three cases or more (e.g. lower / caps / figures)
 **342 patents**, 1875–1948. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (165), [Selection locked for printing](../features/sel-selector-locking.md) (130)
-- **Type element:** [Typebars](../features/elem-typebar.md) (150)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (150)
 - **Shift and cases:** [Shift by sliding the element](../features/shift-axial.md) (122), [Shift by moving the platen](../features/shift-platen.md) (112)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (123)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (132)

@@ -7,7 +7,7 @@ Small keyboard where each key picks a position and shift keys pick the row
 **208 patents**, 1850–1950. Often together with:
 
 - **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (52), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (41)
-- **Type element:** [Typebars](../features/elem-typebar.md) (36)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (36)
 - **Shift and cases:** [Three or more cases](../features/shift-triple.md) (49), [Shift by sliding the element](../features/shift-axial.md) (41)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (45)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (34)

@@ -7,11 +7,11 @@ Adjustment or wear take-up provisions
 **1120 patents**, 1843–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (242)
-- **Type element:** [Typebars](../features/elem-typebar.md) (504)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (504), [Type basket and bearings](../features/bar-basket-bearings.md) (202), [Typebar action](../features/bar-type-action.md) (181)
 - **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (220)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (159)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (243), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (151)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (263), [Line spacing](../features/pap-line-space.md) (145)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (243)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (263)
 
 **Machines:** [L. C. Smith 7](../machines/l-c-smith-7.md) (14), [L. C. Smith 6](../machines/l-c-smith-6.md) (13), [Corona 3](../machines/corona-3.md) (13), [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (12), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (10), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (10), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (9), [Remington Junior](../machines/remington-junior.md) (9), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (9), [Yost 4 - 9](../machines/yost-4-9.md) (8), [Yost 10 - 14](../machines/yost-10-14.md) (8), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (8), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (8), [Blickensderfer 7](../machines/blickensderfer-7.md) (8), [Smith Premier 10](../machines/smith-premier-10.md) (8)
 

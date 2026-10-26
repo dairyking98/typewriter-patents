@@ -27,7 +27,6 @@ Every mechanism feature seen on at least 3 reading cards, grouped by subsystem. 
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [Typebars](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 2296 | 9 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁▁▁▁▆█▆▃▂▁▁` |  |
 | [Type wheel (types on the rim)](../features/elem-wheel-rim.md) | Types on the rim of a wheel (face parallel to axis) | 440 | 49 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▂▂▃▂▁` | [Gerda 2](../machines/gerda-2.md) |
 | [Alignment lock at the print point](../features/elem-alignment-lock.md) | Locking pin or tooth that aligns the type exactly at the print point | 339 | 28 | 1856 [US14919](../patents/US14919.md) | 1890s | `   ▁ ▁▂█▅▂▂▂▁▁` | [American Index](../machines/american-index.md) |
 | [How the element is made](../features/elem-element-construction.md) | How the element itself is made or assembled | 274 | 6 | 1863 [US39296](../patents/US39296.md) | 1900s | `    ▁▁▄▅█▅▆▇▆▁` |  |
@@ -44,6 +43,20 @@ Every mechanism feature seen on at least 3 reading cards, grouped by subsystem. 
 | [Type ring](../features/elem-ring.md) | Types on a ring or annulus | 57 | 5 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▄█▁▁▁▁▁ ` |  |
 | [Flexible type band](../features/elem-band.md) | Flexible type band or belt | 37 | 3 | 1886 [US347373](../patents/US347373.md) | 1920s | `      ▂▅▆▁█▇▂▂` |  |
 | [Type sphere](../features/elem-sphere.md) | Types on a sphere or hemisphere | 15 | 0 | 1872 [US125952](../patents/US125952.md) | 1870s | `     █▆▄▆▆    ` |  |
+
+## Typebars · [all its patents](bar.md)
+
+| Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
+|---|---|---|---|---|---|---|---|
+| [Typebars](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 2296 | 9 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁▁▁▁▆█▆▃▂▁▁` |  |
+| [Typebar action](../features/bar-type-action.md) | How the key moves the typebar: levers, links and accelerating actions | 786 | 0 | 1857 [US18504](../patents/US18504.md) | 1900s | `   ▁ ▁▁▃█▆▃▂▁▁` |  |
+| [Type basket and bearings](../features/bar-basket-bearings.md) | The type basket or segment, and the bearings or hangers the typebars pivot in | 592 | 1 | 1868 [US79868](../patents/US79868.md) | 1900s | `    ▁▁▁▄█▆▂▁▁▁` |  |
+| [Typebar and type-head construction](../features/bar-typebar-construction.md) | How the typebars and the type heads on them are made | 272 | 0 | 1878 [US199382](../patents/US199382.md) | 1900s | `     ▁▁▄█▅▃▁▁▁` |  |
+| [Key touch and even impression](../features/bar-touch.md) | Key tension, touch adjustment and uniform impression across characters | 148 | 0 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁ ▁▁▃█▆▁▁▁▁` |  |
+| [Power-driven type action](../features/bar-power-action.md) | Typebars thrown by a motor or by electromagnets | 128 | 0 | 1875 [US163190](../patents/US163190.md) | 1920s | `     ▁▂▅▆▅█▆▂▁` |  |
+| [Rebound and clash prevention](../features/bar-rebound.md) | Keeping typebars from rebounding, clashing or jamming | 117 | 0 | 1880 [US232692](../patents/US232692.md) | 1900s | `      ▁▂█▄▂▁▁▁` |  |
+| [Type guide](../features/bar-type-guide.md) | A guide that steadies the typebar at the print point for exact alignment | 48 | 0 | 1886 [US339129](../patents/US339129.md) | 1890s | `      ▁█▄▂▄▂▁ ` |  |
+| [Basket shift](../features/bar-basket-shift.md) | Case shift by moving the type basket or segment | 10 | 0 | 1908 [US902519](../patents/US902519.md) | 1910s | `        ▁█▁ ▁ ` |  |
 
 ## Shift and cases · [all its patents](shift.md)
 

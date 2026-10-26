@@ -6,7 +6,7 @@ Margin stops or line lock
 
 **570 patents**, 1867–1950. Often together with:
 
-- **Type element:** [Typebars](../features/elem-typebar.md) (88)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (88)
 - **Spacing and escapement:** [Tabulator](../features/esc-tabulator.md) (167), [Line-end bell](../features/esc-bell.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (112), [Carriage release](../features/esc-carriage-release.md) (98), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (80)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (99), [Line spacing](../features/pap-line-space.md) (89)
 

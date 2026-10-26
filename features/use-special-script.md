@@ -7,7 +7,8 @@ Non-Latin scripts
 **132 patents**, 1879–1949. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (36), [Selection locked for printing](../features/sel-selector-locking.md) (15)
-- **Type element:** [Typebars](../features/elem-typebar.md) (31), [Interchangeable element](../features/elem-interchangeable.md) (28)
+- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (28)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (31)
 - **Shift and cases:** [Three or more cases](../features/shift-triple.md) (16)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (15)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (19)

@@ -7,7 +7,7 @@ Carriage release
 **530 patents**, 1875–1948. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (102)
-- **Type element:** [Typebars](../features/elem-typebar.md) (123)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (123)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (273), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (171), [Tabulator](../features/esc-tabulator.md) (157), [Space key or bar](../features/esc-space-key.md) (115)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (152), [Line spacing](../features/pap-line-space.md) (127)
 

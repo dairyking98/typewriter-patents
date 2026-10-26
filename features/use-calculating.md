@@ -7,7 +7,8 @@ Combined with adding or calculating
 **567 patents**, 1890–1950. Often together with:
 
 - **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (64), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (42)
-- **Type element:** [Typebars](../features/elem-typebar.md) (33), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (33)
 - **Spacing and escapement:** [Tabulator](../features/esc-tabulator.md) (52)
 - **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (36)
 - **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (36)

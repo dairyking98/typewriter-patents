@@ -7,7 +7,7 @@ Explicit aim of few parts
 **854 patents**, 1868–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (187), [Selection locked for printing](../features/sel-selector-locking.md) (122)
-- **Type element:** [Typebars](../features/elem-typebar.md) (198)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (198)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (161)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (229), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (152)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (181), [Line spacing](../features/pap-line-space.md) (117)

@@ -7,7 +7,7 @@ Element turns by a fixed angle to change case
 **133 patents**, 1875–1949. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (52), [Selection locked for printing](../features/sel-selector-locking.md) (47)
-- **Type element:** [Typebars](../features/elem-typebar.md) (56)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (56)
 - **Shift and cases:** [Three or more cases](../features/shift-triple.md) (42)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (61)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (39), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (38)

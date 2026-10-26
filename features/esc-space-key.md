@@ -7,7 +7,7 @@ Separate space key or bar
 **549 patents**, 1843–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (246), [Selection locked for printing](../features/sel-selector-locking.md) (155)
-- **Type element:** [Typebars](../features/elem-typebar.md) (174)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (174)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (161)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (313), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (172)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (209), [Line spacing](../features/pap-line-space.md) (160)

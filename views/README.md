@@ -14,7 +14,7 @@ How the machines worked, mechanism by mechanism. These pages are generated from 
 
     ---
 
-    90 mechanism features by subsystem: how common, first seen, peak decade.
+    98 mechanism features by subsystem: how common, first seen, peak decade.
 
 -   **[Inventors](inventors.md)**
 
@@ -28,6 +28,7 @@ How the machines worked, mechanism by mechanism. These pages are generated from 
 
 - [Selection: choosing the character](sel.md)
 - [The type element](elem.md)
+- [Typebars](bar.md)
 - [Shift and cases](shift.md)
 - [Impression](imp.md)
 - [Inking](ink.md)

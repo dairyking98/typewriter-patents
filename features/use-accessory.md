@@ -7,7 +7,7 @@ Attachment or accessory for an existing typewriter
 **1019 patents**, 1875–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (71)
-- **Type element:** [Typebars](../features/elem-typebar.md) (70)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (70)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (102)
 - **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (170), [Line and point indicator](../features/pap-line-indicator.md) (105), [Roller platen](../features/pap-platen-roller.md) (94), [Line spacing](../features/pap-line-space.md) (90)
 - **Frame and body:** [Cleaning access](../features/frm-cleaning-access.md) (67)

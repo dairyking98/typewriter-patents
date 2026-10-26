@@ -7,7 +7,7 @@ Ribbon lift or vibrator to the print point
 **450 patents**, 1880–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79)
-- **Type element:** [Typebars](../features/elem-typebar.md) (208)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (208)
 - **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (139)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (304), [Two-colour ribbon](../features/ink-ribbon-color.md) (170), [Ribbon feed](../features/ink-ribbon-feed.md) (139)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (75)

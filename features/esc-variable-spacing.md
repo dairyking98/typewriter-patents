@@ -7,7 +7,7 @@ Proportional or variable letter spacing
 **339 patents**, 1843–1949. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (104)
-- **Type element:** [Typebars](../features/elem-typebar.md) (84)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (84)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (153), [Space key or bar](../features/esc-space-key.md) (64), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (60), [Escape-wheel escapement](../features/esc-escape-wheel.md) (56)
 - **Paper and carriage:** [Line spacing](../features/pap-line-space.md) (58), [Roller platen](../features/pap-platen-roller.md) (58)
 

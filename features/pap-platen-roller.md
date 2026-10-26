@@ -7,7 +7,7 @@ Roller platen
 **1762 patents**, 1852–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (269)
-- **Type element:** [Typebars](../features/elem-typebar.md) (273)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (273)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (237)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (375)
 - **Paper and carriage:** [Line spacing](../features/pap-line-space.md) (700), [Paper table and guides](../features/pap-paper-guide.md) (398), [Feed rollers and paper release](../features/pap-feed-rollers.md) (277)

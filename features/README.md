@@ -1,4 +1,4 @@
-# Mechanism features (91)
+# Mechanism features (99)
 
 Every mechanism feature the reading of the patents found, grouped by subsystem, most common first. See also [Mechanisms](../views/mechanisms.md) (how common each is, decade by decade).
 
@@ -21,11 +21,10 @@ Every mechanism feature the reading of the patents found, grouped by subsystem, 
 | [Hand-turned type wheel](sel-index-wheel.md) | 52 | Hand wheel carrying the characters turned directly (the element is the index) |
 | [Stylus on a letter plate](sel-stylus-plate.md) | 7 | Stylus touched to a plate or balance-beam letter field |
 
-## Type element (17)
+## Type element (16)
 
 | Feature | Patents | What it is |
 |---|---|---|
-| [Typebars](elem-typebar.md) | 2296 | Pivoted typebars (one or two characters each) |
 | [Type wheel (types on the rim)](elem-wheel-rim.md) | 440 | Types on the rim of a wheel (face parallel to axis) |
 | [Alignment lock at the print point](elem-alignment-lock.md) | 339 | Locking pin or tooth that aligns the type exactly at the print point |
 | [How the element is made](elem-element-construction.md) | 274 | How the element itself is made or assembled |
@@ -42,6 +41,20 @@ Every mechanism feature the reading of the patents found, grouped by subsystem, 
 | [Type ring](elem-ring.md) | 57 | Types on a ring or annulus |
 | [Flexible type band](elem-band.md) | 37 | Flexible type band or belt |
 | [Type sphere](elem-sphere.md) | 15 | Types on a sphere or hemisphere |
+
+## Typebars (9)
+
+| Feature | Patents | What it is |
+|---|---|---|
+| [Typebars](elem-typebar.md) | 2296 | Pivoted typebars (one or two characters each) |
+| [Typebar action](bar-type-action.md) | 786 | How the key moves the typebar: levers, links and accelerating actions |
+| [Type basket and bearings](bar-basket-bearings.md) | 592 | The type basket or segment, and the bearings or hangers the typebars pivot in |
+| [Typebar and type-head construction](bar-typebar-construction.md) | 272 | How the typebars and the type heads on them are made |
+| [Key touch and even impression](bar-touch.md) | 148 | Key tension, touch adjustment and uniform impression across characters |
+| [Power-driven type action](bar-power-action.md) | 128 | Typebars thrown by a motor or by electromagnets |
+| [Rebound and clash prevention](bar-rebound.md) | 117 | Keeping typebars from rebounding, clashing or jamming |
+| [Type guide](bar-type-guide.md) | 48 | A guide that steadies the typebar at the print point for exact alignment |
+| [Basket shift](bar-basket-shift.md) | 10 | Case shift by moving the type basket or segment |
 
 ## Shift and cases (5)
 

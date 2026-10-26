@@ -7,7 +7,7 @@ Escapement by pawl or dogs on a rack
 **1417 patents**, 1843–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (377)
-- **Type element:** [Typebars](../features/elem-typebar.md) (405)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (405)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (283)
 - **Spacing and escapement:** [Mainspring-drawn carriage](../features/esc-spring-drum.md) (388), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (325), [Space key or bar](../features/esc-space-key.md) (313)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (375), [Line spacing](../features/pap-line-space.md) (286)

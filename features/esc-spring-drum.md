@@ -7,7 +7,7 @@ Carriage pulled by a mainspring or drum
 **772 patents**, 1856–1949. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (213)
-- **Type element:** [Typebars](../features/elem-typebar.md) (272)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (272)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (194), [Ribbon feed](../features/ink-ribbon-feed.md) (182)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (388), [Escape-wheel escapement](../features/esc-escape-wheel.md) (175), [Carriage release](../features/esc-carriage-release.md) (171)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (202)

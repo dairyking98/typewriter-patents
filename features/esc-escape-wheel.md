@@ -7,7 +7,7 @@ Escape wheel or star wheel escapement with fixed and loose dogs
 **482 patents**, 1868–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (97)
-- **Type element:** [Typebars](../features/elem-typebar.md) (135)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (135)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (221), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (175), [Space key or bar](../features/esc-space-key.md) (74), [Carriage release](../features/esc-carriage-release.md) (73)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (61)
 - **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (91)

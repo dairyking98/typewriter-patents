@@ -7,7 +7,7 @@ Automatic ribbon reversing
 **441 patents**, 1871–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (68)
-- **Type element:** [Typebars](../features/elem-typebar.md) (111)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (111)
 - **Inking:** [Ribbon feed](../features/ink-ribbon-feed.md) (411), [Ink ribbon](../features/ink-ribbon.md) (298), [Ribbon lift](../features/ink-ribbon-lift.md) (72)
 - **Spacing and escapement:** [Mainspring-drawn carriage](../features/esc-spring-drum.md) (101), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (80)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (61)

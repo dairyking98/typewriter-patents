@@ -6,7 +6,7 @@ Tabulator
 
 **626 patents**, 1890–1948. Often together with:
 
-- **Type element:** [Typebars](../features/elem-typebar.md) (43)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (43)
 - **Spacing and escapement:** [Margin stops](../features/esc-margin-stop.md) (167), [Carriage release](../features/esc-carriage-release.md) (157), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (94), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (76), [Escape-wheel escapement](../features/esc-escape-wheel.md) (32)
 - **Uses:** [Typewriter with adding machine](../features/use-calculating.md) (52), [Attachment or accessory](../features/use-accessory.md) (45)
 
