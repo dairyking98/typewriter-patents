@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1954
 maker: "GEORG KELLER"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1954 |
 | Maker | [GEORG KELLER](../companies/keller.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1954: typebar portable. Standard (DIN) keyboard layout and DIN ribbon spools; improved touch/strike; two-colour ribbon and touch regulator
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

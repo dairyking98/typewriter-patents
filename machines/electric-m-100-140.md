@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1966
 maker: "VEB Optima Büromasch.werk"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "electromechanical"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1966 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | electromechanical |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1966: electromechanical. First
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

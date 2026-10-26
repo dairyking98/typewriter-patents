@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1924
 maker: "CLEMENS MUELLER AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "small portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1924 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | small portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1924: small portable. new model; detail not given
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

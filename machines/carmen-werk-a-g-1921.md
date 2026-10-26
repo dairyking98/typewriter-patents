@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1921
 maker: "CARMEN WERK A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,19 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [CARMEN WERK A G](../companies/carmen.md) |
 | Designer | [Pistorius, Carl](../people/pistorius-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | guter Verkauf |
-| Price | ca. 220,-/ 250,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | sold well |
+| Price when new | about 220 / 250 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

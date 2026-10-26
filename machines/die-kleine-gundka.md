@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1924
 maker: "GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "index (pointer + type wheel)"
@@ -18,13 +19,17 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1924 |
 | Maker | [GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER](../companies/gundka.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | index (pointer + type wheel) |
 
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1924: index (pointer + type wheel). Single key, self-striking type wheel, two shift keys, space bar. 30 M. Visible writing, rubber platen, automatic ribbon spool, in a case
+
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

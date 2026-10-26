@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1892
 maker: "George Salter & Co"
 country: "England"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | England |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | double shift |
-| Sales | mittelmäßig |
-| Price | £ 8.8.0 / 168,- Mk. |
-| Rarity (Lexikon) | 6-7 |
+| Sales | moderate |
+| Price when new | £ 8.8.0 / 168 marks |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (1)
 

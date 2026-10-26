@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1923
 maker: "Alexander Typewriter Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "80 Zeichen"
+characters: "80"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,12 +25,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 80 Zeichen |
+| Characters | 80 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
 | Sales | evil. 30 Exemplare |
-| Price | 100 $ 9 5 - 6 |
+| Price when new | $100 9 5 - 6 |
 
 ## Patents (30)
 

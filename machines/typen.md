@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1924
 maker: "Wetherill"
-country: "USA *"
+country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "ca. 42 Zeichen"
+characters: "ca. 42"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -22,19 +23,19 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1924 |
 | Maker | [Wetherill](../companies/wetherill.md) |
-| Country | USA * |
+| Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | ca. 42 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ca. 42 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | sehr wenig |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

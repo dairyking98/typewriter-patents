@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1892
 maker: "Daugherty Typewriting Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "80 Zeichen"
+characters: "80"
 patents: 2
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 80 Zeichen |
+| Characters | 80 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | mittel |
-| Price | 75 $, 350,- Mk. |
-| Rarity (Lexikon) | 7 |
+| Sales | moderate |
+| Price when new | $75, 350 marks |
+| Rarity (Lexikon's scale) | 7 |
 
 ## Patents (8)
 

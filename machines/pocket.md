@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1887
 maker: "Pocket Typewriter Co"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
-characters: "ca. 36 Zeichen"
+characters: "ca. 36"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -25,16 +26,16 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type disc |
-| Characters | ca. 36 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ca. 36 |
+| Strike | top strike |
 | Inking | ink roller |
-| Sales | wenig |
-| Price | 2$ |
-| Rarity (Lexikon) | 8-9 |
+| Sales | few |
+| Price when new | $2 |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

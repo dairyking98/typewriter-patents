@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1922
 maker: "BING WERKE VORM GEBR BING A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1922 |
 | Maker | [BING WERKE VORM GEBR BING A G](../companies/bing.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1922-34: typebar. First German standard machine with a sheet-steel frame instead of cast; column stop; upper and lower carriage easy to lift out for cleaning; improved ribbon switching; 32,000 made
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1896
 maker: "Lambert Typewriter Co. u.a"
-country: "USA, Fr., Engl., De"
+country: "USA, France, England, Germany"
 index_machine: false
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,15 +23,15 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [Lambert Typewriter Co. u.a](../companies/lambert.md) |
 | Designer | [Lambert, Frank](../people/lambert-f.md) |
-| Country | USA, Fr., Engl., De |
+| Country | USA, France, England, Germany |
 | Type carrier | type plate |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | double shift |
-| Sales | nicht wenig |
-| Price | 25,- $, 150,- Mk |
-| Rarity (Lexikon) | 3-4 |
+| Sales | a fair number |
+| Price when new | 25 $, 150 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (2)
 

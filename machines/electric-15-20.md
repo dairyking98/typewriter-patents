@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1961
 maker: "TRIUMPH WERKE NUERNBERG AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "full electric"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1961 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | full electric |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1961-62: full electric. Electric 15 under 1,000 DM.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

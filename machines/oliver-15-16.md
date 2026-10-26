@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1928
 maker: "Oliver Typewriter Comp"
-country: "England (ab 1928)"
+country: "England"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "type bow"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 / 96 Zeichen"
+characters: "84 / 96"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine"]
 | Year | 1928 |
 | Maker | [Oliver Typewriter Comp](../companies/oliver.md) |
 | Designer | [Oliver, Thomas](../people/oliver-t.md) |
-| Country | England (ab 1928) |
+| Country | England |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type bow |
-| Characters | 84 / 96 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 / 96 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht sehr viel |
-| Price | £23.(15),£ 25. (16) |
-| Rarity (Lexikon) | 4 |
+| Sales | not very many |
+| Price when new | £23.(15),£ 25. (16) |
+| Rarity (Lexikon's scale) | 4 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "Maschinenfabrik G.F. Grosser"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,19 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [Maschinenfabrik G.F. Grosser](../companies/maschinenfabrik.md) |
 | Designer | [Rößler, O](../people/ro-ler-o.md), [Dost, B](../people/dost-b.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
 | Sales | recht gut |
-| Price | 400,- Mk. |
-| Rarity (Lexikon) | 6-7 |
+| Price when new | 400 marks |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

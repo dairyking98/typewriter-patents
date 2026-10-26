@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1909
 maker: "ADLERWERKE KLEYER AG H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "push-bar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1909 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | push-bar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1909: push-bar. 180 characters: six characters per type bar instead of three; second alphabet selected by changing the carriage's rest position.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

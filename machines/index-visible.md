@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1899
 maker: "Index Typewriter Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,16 +27,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht viel |
-| Price | 25 $ |
+| Sales | not many |
+| Price when new | $25 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

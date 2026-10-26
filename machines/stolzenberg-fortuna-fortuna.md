@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1922
 maker: "WAFFENFABRIK; WALTHER CARL"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [WAFFENFABRIK; WALTHER CARL](../companies/waffenfabrik.md) |
 | Designer | [Schlüns, Carl](../people/schluns-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | ca. 350,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | sold well |
+| Price when new | about 350 marks |
+| Rarity (Lexikon's scale) | 4-5 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1922-1941: typebar. Olive-green; 42 keys; simple shift; very easily removable carriage; specially rolled steel typebars about 15 percent shorter than usual (lighter, stiffer, less vibration)
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

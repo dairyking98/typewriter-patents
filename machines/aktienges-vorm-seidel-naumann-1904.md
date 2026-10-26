@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1904
 maker: "VORM SEIDEL & NAUMANN AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1904 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
 | Designer | [Klaczko, Max](../people/klaczko-m.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht sehr viel |
-| Price | ca. 500,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | not very many |
+| Price when new | about 500 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (1)
 

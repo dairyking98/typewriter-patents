@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1949
 maker: "SCHREIBMASCHINENFABRIK AUGSBUR"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1949 |
 | Maker | [SCHREIBMASCHINENFABRIK AUGSBUR](../companies/schreibmaschinenfabrik.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1949-52: typebar, portable. Double-frame principle; metal inner core with Bakelite outer shell; segment and linkage frame of duralumin with copper alloy
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

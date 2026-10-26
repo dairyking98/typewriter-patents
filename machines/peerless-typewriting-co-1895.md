@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1895
 maker: "Peerless Check Protecting Comp"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
-characters: "76 Zeichen"
+characters: "76"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 76 Zeichen |
-| Strike | understrike |
+| Characters | 76 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Sales | nur 1.000 - 4.000 |
-| Price | 97.50 $/ 11) $ |
-| Rarity (Lexikon) | 9 |
+| Price when new | $97.50/ 11) $ |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1899
 maker: "Simplex Typewr. Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type disc"
 strike: "front strike"
 inking: "ink pad"
 shift: "none"
-characters: "72 Zeichen"
+characters: "72"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type disc |
-| Characters | 72 Zeichen |
+| Characters | 72 |
 | Strike | front strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | guter Verkauf |
-| Price | 3.50 $ |
-| Rarity (Lexikon) | 4 - 5 * |
+| Sales | sold well |
+| Price when new | $3.50 |
+| Rarity (Lexikon's scale) | 4 - 5 * |
 
 ## Patents (1)
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1903
 maker: "Columbia Typewriter Mfg. Co"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84/90 Zeichen"
+characters: "84/90"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84/90 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84/90 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | 460,- / 490,- Mk. |
-| Rarity (Lexikon) | 8-9 |
+| Sales | very few |
+| Price when new | 460 / 490 marks |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (41)
 

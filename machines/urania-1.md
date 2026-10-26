@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1909
 maker: "CLEMENS MUELLER AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
 | Designer | [Schweitzer, Heinr](../people/schweitzer-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | 400,- Mk. |
-| Rarity (Lexikon) | 5-6* |
+| Sales | sold well |
+| Price when new | 400 marks |
+| Rarity (Lexikon's scale) | 5-6* |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1909: typebar, front strike, 4-row. 42 keys, 84 characters via shift; segment/front-strike like Underwood; tabulator; roller carriage; interchangeable carriage and platen
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

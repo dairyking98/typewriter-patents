@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1887
 maker: "United States Wireless Printing Telegraph Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "81/84 Zeichen"
+characters: "81/84"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 81/84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 81/84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr mäßig |
-| Price | 425,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | very modest |
+| Price when new | 425 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (12)
 

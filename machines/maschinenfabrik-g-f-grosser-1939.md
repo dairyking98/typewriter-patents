@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1939
 maker: "Maschinenfabrik G.F. Grosser"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1939 |
 | Maker | [Maschinenfabrik G.F. Grosser](../companies/maschinenfabrik.md) |
 | Designer | [Pascher, Leopold](../people/pascher-l.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | ca. 190,- Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | a fair few |
+| Price when new | about 190 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (7)
 

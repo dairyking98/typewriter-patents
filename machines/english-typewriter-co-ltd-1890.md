@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1890
 maker: "English Typewriter Co. Ltd"
 country: "England"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "87 Zeichen"
+characters: "87"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,17 +25,17 @@ tags: ["machine"]
 | Country | England |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
-| Characters | 87 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 87 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Price | 390,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | 390 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

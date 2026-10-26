@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1905
 maker: "Hartford Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,12 +25,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
-| Strike | understrike |
+| Characters | 88 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr mäßig |
-| Price | 350,- Mk. 3-9 4 - 5 |
+| Sales | very modest |
+| Price when new | 350 marks 3-9 4 - 5 |
 
 ## Patents (16)
 

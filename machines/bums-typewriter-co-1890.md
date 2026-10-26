@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1890
 maker: "Bums Typewriter Co"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "none"
-characters: "76 Zeichen"
+characters: "76"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,16 +25,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 76 Zeichen |
-| Strike | understrike |
+| Characters | 76 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | none |
-| Sales | nur sehr wenig |
-| Rarity (Lexikon) | 9 |
+| Sales | only very few |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

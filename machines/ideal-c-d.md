@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1919
 maker: "VORM SEIDEL & NAUMANN AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "92 Zeichen"
+characters: "92"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1919 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
 | Designer | [Mohns, Julius](../people/mohns-j.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 92 Zeichen |
+| Characters | 92 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | große Stückzahlen |
-| Price | ca. 400 / 420,- Mk. |
-| Rarity (Lexikon) | 4 |
+| Sales | large numbers |
+| Price when new | about 400 / 420 marks |
+| Rarity (Lexikon's scale) | 4 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1919 / 1925 (D rework 1933): typebar. Replacements for B / C. From 1927 a version with counters served as a bookkeeping machine.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

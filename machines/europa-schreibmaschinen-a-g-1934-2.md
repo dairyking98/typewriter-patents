@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1934
 maker: "EUROPA SCHREIBMASCHINEN A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "80 Zeichen"
+characters: "80"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [EUROPA SCHREIBMASCHINEN A G](../companies/europa.md) |
 | Designer | Firmeningenieure |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 80 Zeichen |
+| Characters | 80 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | große Stückzahlen |
-| Price | 109,5.: Mk. |
-| Rarity (Lexikon) | 4 |
+| Sales | large numbers |
+| Price when new | 109,5.: marks |
+| Rarity (Lexikon's scale) | 4 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

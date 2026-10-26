@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1934
 maker: "American Flyer Manufactoring Co"
 country: "USA"
@@ -8,7 +9,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "none"
-characters: "ca. 40 Zeichen"
+characters: "ca. 40"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Maker | [American Flyer Manufactoring Co](../companies/american-flyer.md) |
 | Country | USA |
 | Type carrier | type wheel |
-| Characters | ca. 40 Zeichen |
+| Characters | ca. 40 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | nicht wenig |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair number |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

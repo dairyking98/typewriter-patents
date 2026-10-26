@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1923
 maker: "Rochester Industries Inc"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,12 +25,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht viel |
-| Price | 35 $ |
+| Sales | not many |
+| Price when new | $35 |
 
 ## Patents (10)
 

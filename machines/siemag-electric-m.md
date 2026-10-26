@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1963
 maker: "Siemag Siegener Maschb Akt Ges"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "electric typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1963 |
 | Maker | [Siemag Siegener Maschb Akt Ges](../companies/siemag.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | electric typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1963: electric typebar. fully electric correspondence machine with tabulator, under 1,000 DM
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

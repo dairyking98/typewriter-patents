@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1933
-country: "Frankreich"
+country: "France"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -19,20 +20,20 @@ tags: ["machine"]
 |---|---|
 | Year | 1933 |
 | Designer | (Remington Port.) |
-| Country | Frankreich |
+| Country | France |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | mittel |
-| Price | a. 250,- Mk. |
-| Rarity (Lexikon) | 5-6 |
+| Sales | moderate |
+| Price when new | a. 250 marks |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

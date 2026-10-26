@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1938
 maker: "Shimada Typewriter Works"
 country: "Japan"
@@ -8,7 +9,7 @@ selection: "index"
 strike: "front strike"
 inking: "ink pad"
 shift: "none"
-characters: "3118 Zeichen"
+characters: "3118"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine/index"]
 | Maker | [Shimada Typewriter Works](../companies/shimada.md) |
 | Country | Japan |
 | Selection | index |
-| Characters | 3118 Zeichen |
+| Characters | 3118 |
 | Strike | front strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | guter Verkauf |
-| Price | 100,- DM |
+| Sales | sold well |
+| Price when new | 100 D marks |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

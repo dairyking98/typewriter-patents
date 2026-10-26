@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1921
 maker: "Odo Maschinenfabrik E. Eßwein"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,20 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Odo Maschinenfabrik E. Eßwein](../companies/odo.md) |
 | Designer | [Wasem, Hermann](../people/wasem-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht viel |
-| Price | billiger als andere |
-| Rarity (Lexikon) | 5-6 |
+| Sales | not many |
+| Price when new | billiger als andere |
+| Rarity (Lexikon's scale) | 5-6 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1921-early 1930s: typebar, office. Total about 9,000-12,500. Quiet, easily dismantled ("zerlegbar"). Details of mechanism not given in this booklet
 
 ## Patents (7)
 

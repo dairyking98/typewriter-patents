@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1934
 maker: "Louis Marx Co"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "40 Zeichen"
+characters: "40"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 40 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 40 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | guter Verkauf |
-| Price | wenige $ |
-| Rarity (Lexikon) | 4 |
+| Sales | sold well |
+| Price when new | wenige $ |
+| Rarity (Lexikon's scale) | 4 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

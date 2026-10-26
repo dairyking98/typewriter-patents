@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1973
 maker: "Ibm Deutschland"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "ball head"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1973 |
 | Maker | [Ibm Deutschland](../companies/ibm.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | ball head |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1973 on: ball head. See timeline
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

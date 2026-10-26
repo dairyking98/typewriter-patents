@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1921
 maker: "Smith Premier Typewriter Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "92 Zeichen"
+characters: "92"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 92 Zeichen |
+| Characters | 92 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | ca. 110$ |
-| Rarity (Lexikon) | 5* |
+| Sales | sold well |
+| Price when new | about $110 |
+| Rarity (Lexikon's scale) | 5* |
 
 ## Patents (11)
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1906
 maker: "Simplex Typewr. Co"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "none"
-characters: "36 Zeichen"
+characters: "36"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type disc |
-| Characters | 36 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 36 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | nicht wenig |
-| Price | 5,50 Mk. * |
-| Rarity (Lexikon) | 3 |
+| Sales | a fair number |
+| Price when new | 5,50 marks |
+| Rarity (Lexikon's scale) | 3 |
 
 ## Patents (1)
 

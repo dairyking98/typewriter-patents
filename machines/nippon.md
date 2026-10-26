@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1917
 maker: "Nippon Typewriter Co"
 country: "Japan"
 index_machine: true
 selection: "index"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "2.380 Zeichen"
+characters: "2.380"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -24,17 +25,17 @@ tags: ["machine/index"]
 | Designer | [Sugimoto, Kyota](../people/sugimoto-k.md) |
 | Country | Japan |
 | Selection | index |
-| Characters | 2.380 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 2.380 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht wenig |
-| Price | ca. 300 Yen |
-| Rarity (Lexikon) | 7-8 |
+| Sales | a fair number |
+| Price when new | about 300 Yen |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

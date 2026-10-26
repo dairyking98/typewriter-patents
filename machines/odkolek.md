@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1860
 maker: "nicht fabrikmäßig hergestellt"
-country: "Tschechien"
+country: "Czechia"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type rods"
-strike: "upstrike / top strike"
+strike: "top strike"
 shift: "none"
-characters: "49 Zeichen"
+characters: "49"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,19 +23,19 @@ tags: ["machine"]
 | Year | 1860 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Odkolek, J](../people/odkolek-j.md), [Prag](../people/prag.md) |
-| Country | Tschechien |
+| Country | Czechia |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type rods |
-| Characters | 49 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 49 |
+| Strike | top strike |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1900
 maker: "Wagner Typewriter Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 6
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | extrem viel |
-| Price | 102.50 $, 525,- Mk. |
-| Rarity (Lexikon) | 2 |
+| Sales | extremely many |
+| Price when new | $102.50, 525 marks |
+| Rarity (Lexikon's scale) | 2 |
 
 ## Patents (29)
 

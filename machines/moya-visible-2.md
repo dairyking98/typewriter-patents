@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1906
 maker: "Moya Typewniter Co"
 country: "England"
@@ -9,7 +10,7 @@ carrier: "type cylinder"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | England |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type cylinder |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nur wenig |
-| Price | 180,-/ 155,- Mk. |
-| Rarity (Lexikon) | 7-8 |
+| Sales | only few |
+| Price when new | 180 / 155 marks |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (6)
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1908
 maker: "Dt.-Am. Masch.- fabrik vorm. G. Krebs"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,15 +24,19 @@ tags: ["machine"]
 | Year | 1908 |
 | Maker | [Dt.-Am. Masch.- fabrik vorm. G. Krebs](../companies/dt.md) |
 | Designer | [Bamberger, J. W](../people/bamberger-j.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type disc |
-| Characters | 86 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 86 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht viel |
-| Price | 25,- / 28,- Mk. |
+| Sales | not many |
+| Price when new | 25 / 28 marks |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1908: type wheel. 28 M.
 
 ## Patents (1)
 

@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1890
 maker: "KARL LIPP"
-country: "Engl./Dt./Frankr"
+country: "England, Germany, France"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type cylinder"
 strike: "front strike"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,15 +23,15 @@ tags: ["machine"]
 | Year | 1890 |
 | Maker | [KARL LIPP](../companies/lipp.md) |
 | Designer | [Gardner, John](../people/gardner-j.md) |
-| Country | Engl./Dt./Frankr |
+| Country | England, Germany, France |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type cylinder |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Price | 250,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | 250 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (3)
 

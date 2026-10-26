@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1920
 maker: "wahrscheinlich nicht fabriziert"
-country: "Frankreich"
+country: "France"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "90 Zeichen *"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine"]
 | Year | 1920 |
 | Maker | wahrscheinlich nicht fabriziert |
 | Designer | [Moulin, Georges](../people/moulin-g.md) |
-| Country | Frankreich |
+| Country | France |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
-| Characters | 90 Zeichen * |
-| Strike | upstrike / top strike |
+| Characters | 90 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | wohl kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | probably no sales |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

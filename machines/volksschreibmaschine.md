@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1898
 maker: "Friedr. Rehmann"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "76 Zeichen"
+characters: "76"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine/index"]
 | Year | 1898 |
 | Maker | [Friedr. Rehmann](../companies/rehmann.md) |
 | Designer | [Beyer](../people/beyer.md), [Markworth](../people/markworth.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 76 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 76 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht sehr viel |
-| Price | 75,- Mk. |
-| Rarity (Lexikon) | 6-7 |
+| Sales | not very many |
+| Price when new | 75 marks |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

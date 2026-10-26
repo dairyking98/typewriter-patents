@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1910
 maker: "Elliott-Fisher Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht ganz wenig |
-| Price | 18 $, 105,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair few |
+| Price when new | $18, 105 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (3)
 

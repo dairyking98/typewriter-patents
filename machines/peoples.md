@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1891
 maker: "Garvin Machine Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "72 Zeichen"
+characters: "72"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | 72 Zeichen |
+| Characters | 72 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | 70,- Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | a fair few |
+| Price when new | 70 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (15)
 

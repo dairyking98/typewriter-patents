@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1909
 maker: "CLEMENS MUELLER AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, folding, 3-row"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1909 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, folding, 3-row |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1909: typebar, folding, 3-row. Engler, Vienna; from American Standard Folding; about 2.5 kg
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1952
 maker: "Ibm Deutschland"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, electric"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1952 |
 | Maker | [Ibm Deutschland](../companies/ibm.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, electric |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- German production from 1952: typebar, electric. 1954 price with 30 cm carriage 1,885 DM
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

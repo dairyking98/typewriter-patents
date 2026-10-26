@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1922
 maker: "Vasanta Schreib- « Strickmasch.fabrü"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [Vasanta Schreib- « Strickmasch.fabrü](../companies/vasanta.md) |
 | Designer | [Maurer, Ing](../people/maurer-i.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht wenig |
-| Price | ca. 225,- Mk |
-| Rarity (Lexikon) | 3 |
+| Sales | a fair number |
+| Price when new | about 225 marks |
+| Rarity (Lexikon's scale) | 3 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1902
 maker: "Moon-Hopkins Billing Machine Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "single shift"
-characters: "76/80 Zeichen"
+characters: "76/80"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,17 +25,17 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 76/80 Zeichen |
-| Strike | understrike |
+| Characters | 76/80 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | 650 bis 1.500 $ |
-| Rarity (Lexikon) | 7-8 |
+| Sales | very few |
+| Price when new | 650 to $1.500 |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

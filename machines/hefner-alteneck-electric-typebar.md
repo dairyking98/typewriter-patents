@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1902
 maker: "AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, electric"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1902 |
 | Maker | [AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies](../companies/aeg.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, electric |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- c. 1902-03: typebar, electric. Six built, standard layout, never produced
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

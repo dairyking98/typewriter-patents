@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1888
 maker: "Smith Premier Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
-characters: "76 Zeichen"
+characters: "76"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 76 Zeichen |
-| Strike | understrike |
+| Characters | 76 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
-| Sales | guter Verkauf |
-| Price | 100 $, 450,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | sold well |
+| Price when new | $100, 450 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (8)
 

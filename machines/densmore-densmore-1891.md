@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1891
 maker: "Densmore Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "single shift"
-characters: "76 Zeichen"
+characters: "76"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,17 +25,17 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 76 Zeichen |
-| Strike | understrike |
+| Characters | 76 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | gering |
-| Price | ca. 100 $ |
-| Rarity (Lexikon) | 6-7 |
+| Sales | small |
+| Price when new | about $100 |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

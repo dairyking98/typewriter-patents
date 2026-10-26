@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1910
 maker: "Gustav Tietze A.G"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "85 Zeichen"
+characters: "85"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine/index"]
 | Year | 1910 |
 | Maker | [Gustav Tietze A.G](../companies/tietze.md) |
 | Designer | [Tietze, Gustav](../people/tietze-g.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 85 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 85 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht sehr viel |
-| Price | 3,50 Mk. |
-| Rarity (Lexikon) | 8-9 |
+| Sales | not very many |
+| Price when new | 3,50 marks |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

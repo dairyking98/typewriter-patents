@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 maker: "American Typewriter Co"
 country: "USA"
 index_machine: true
@@ -7,7 +8,7 @@ selection: "index"
 carrier: "type plate"
 inking: "ink pad"
 shift: "single shift"
-characters: "92 Zeichen Aufschlag Oberaufschlag"
+characters: "92Aufschlag Oberaufschlag"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -22,16 +23,16 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type plate |
-| Characters | 92 Zeichen Aufschlag Oberaufschlag |
+| Characters | 92Aufschlag Oberaufschlag |
 | Inking | ink pad |
 | Shift | single shift |
-| Sales | sehr mäßig |
-| Price | 5 $ |
-| Rarity (Lexikon) | 8 |
+| Sales | very modest |
+| Price when new | $5 |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

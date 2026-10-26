@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1922
 maker: "ZIMMER & CO KOMMANDITGESELLSCH"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "9%0 Zeichen"
+characters: "9%0"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [ZIMMER & CO KOMMANDITGESELLSCH](../companies/zimmer.md) |
 | Designer | (Nachbau Adler 7) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 9%0 Zeichen |
+| Characters | 9%0 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | mittelmäßig |
-| Price | 370,- Mk. (E: «75,-) |
-| Rarity (Lexikon) | 4-5 |
+| Sales | moderate |
+| Price when new | 370 marks (E: «75 ) |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

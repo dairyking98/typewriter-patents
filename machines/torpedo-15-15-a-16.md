@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1931
 maker: "WEILWERKE A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1931 |
 | Maker | [WEILWERKE A G](../companies/weil.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1931-33: typebar portable. first German portable with segment shift; 16 heavier case for office
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

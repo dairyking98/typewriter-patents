@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1850
 maker: "nicht serienmäßig hergestellt"
 country: "USA"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type bar (straight)"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "none"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type bar (straight) |
-| Characters | 78 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 78 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (1)
 

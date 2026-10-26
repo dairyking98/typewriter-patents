@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1905
 maker: "Postal Typewriter Co"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 2
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | guter Verkauf |
-| Price | 35 $, 150,- Mk. |
-| Rarity (Lexikon) | 5 |
+| Sales | sold well |
+| Price when new | $35, 150 marks |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (14)
 

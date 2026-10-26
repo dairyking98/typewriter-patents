@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1900
 maker: "George Salter & Co"
 country: "England"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | England |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | zufriedenstellend |
-| Price | £ 14.0.0 |
-| Rarity (Lexikon) | 5 |
+| Sales | satisfactory |
+| Price when new | £ 14.0.0 |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (3)
 

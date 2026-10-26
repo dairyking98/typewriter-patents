@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1889
 maker: "National Typewriter Comp"
 country: "USA"
 index_machine: false
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 4
 tags: ["machine"]
 ---
@@ -22,12 +23,12 @@ tags: ["machine"]
 | Designer | [Unz, Henry H](../people/unz-h.md) |
 | Country | USA |
 | Type carrier | typebar |
-| Characters | 81 Zeichen |
-| Strike | understrike |
+| Characters | 81 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Price | 60 $, 330,- Mk. 7-8 6 |
+| Sales | very few |
+| Price when new | $60, 330 marks 7-8 6 |
 
 ## Patents (5)
 

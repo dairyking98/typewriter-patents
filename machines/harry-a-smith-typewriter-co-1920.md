@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1920
 maker: "L. C. Smith and Bros. Typewriter Comp"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | ca. 400,- Mk. |
-| Rarity (Lexikon) | 8-9 |
+| Sales | very few |
+| Price when new | about 400 marks |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

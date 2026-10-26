@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1902
 maker: "Commercial Visible Typewriter Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | wenig |
-| Price | 50 $, 250,- Mk. |
-| Rarity (Lexikon) | 6-7 |
+| Sales | few |
+| Price when new | $50, 250 marks |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (8)
 

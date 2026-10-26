@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1867
 maker: "nicht fabrikmäßig hergestellt"
-country: "Italien"
+country: "Italy"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "none"
-characters: "23 Zeichen"
+characters: "23"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1867 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Ravizza, Guiseppe](../people/ravizza-g.md) |
-| Country | Italien |
+| Country | Italy |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
-| Characters | 23 Zeichen |
-| Strike | understrike |
+| Characters | 23 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | none |
 | Sales | ca.6-8 |
-| Price | 200 400 Lire - |
-| Rarity (Lexikon) | X |
+| Price when new | 200 400 Lire - |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

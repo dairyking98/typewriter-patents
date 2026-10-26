@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1889
 maker: "Lyon Manufactoring Co"
 country: "USA"
 index_machine: false
 selection: "single key"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ink roller"
 shift: "double shift"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,17 +23,17 @@ tags: ["machine"]
 | Designer | [Mermitt, M. G](../people/mermitt-m.md) |
 | Country | USA |
 | Selection | single key |
-| Characters | 78 Zeichen |
-| Strike | understrike |
+| Characters | 78 |
+| Strike | understrike (blind) |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | nicht ganz wenig |
-| Price | 15 $ |
-| Rarity (Lexikon) | 3-4 |
+| Sales | a fair few |
+| Price when new | $15 |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

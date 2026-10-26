@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1925
 maker: "HANSA SCHREIBMASCHINENFABRIK G; LEHMANN GEB"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1925 |
 | Maker | [HANSA SCHREIBMASCHINENFABRIK G; LEHMANN GEB](../companies/hansa.md) |
 | Designer | [Lehmann, Curt](../people/lehmann-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr gering |
-| Price | 240,- / 300,- Mk. |
-| Rarity (Lexikon) | 6-7 |
+| Sales | very small |
+| Price when new | 240 / 300 marks |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (4)
 

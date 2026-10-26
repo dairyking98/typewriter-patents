@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1899
 maker: "wahrscheinlich nicht produziert"
 country: "China"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "4.000 Zeichen"
+characters: "4.000"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine/index"]
 | Country | China |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 4.000 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 4.000 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
 | Sales | kein / oder wenig |
-| Price | unbekannt |
-| Rarity (Lexikon) | X |
+| Price when new | unknown |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

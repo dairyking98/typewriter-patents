@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1907
 maker: "George Salter & Co"
 country: "England"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | England |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | guter Verkauf |
-| Price | ca. £ 14 |
-| Rarity (Lexikon) | 5 |
+| Sales | sold well |
+| Price when new | about £ 14 |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (3)
 

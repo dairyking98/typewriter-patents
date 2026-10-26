@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1891
 maker: "Liberty Mfg. Co"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "single key"
 carrier: "type wheel"
 strike: "front strike"
 shift: "double shift"
-characters: "87 Zeichen"
+characters: "87"
 patents: 0
 tags: ["machine"]
 ---
@@ -25,12 +26,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | 87 Zeichen |
+| Characters | 87 |
 | Strike | front strike |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Price | 5 $ |
-| Rarity (Lexikon) | 8-9 |
+| Sales | very few |
+| Price when new | $5 |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (2)
 

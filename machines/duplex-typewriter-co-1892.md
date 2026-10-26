@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1892
 maker: "Duplex Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ink pad"
 shift: "none"
-characters: "100 Zeichen"
+characters: "100"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 100 Zeichen |
-| Strike | understrike |
+| Characters | 100 |
+| Strike | understrike (blind) |
 | Inking | ink pad |
 | Shift | none |
-| Sales | sehr mäßig |
-| Price | 460,- Mk. |
-| Rarity (Lexikon) | 7 - 8* |
+| Sales | very modest |
+| Price when new | 460 marks |
+| Rarity (Lexikon's scale) | 7 - 8* |
 
 ## Patents (4)
 

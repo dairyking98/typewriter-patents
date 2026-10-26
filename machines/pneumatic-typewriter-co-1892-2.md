@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1892
 maker: "Pneumatic Typewriter Co"
 country: "England"
@@ -9,7 +10,7 @@ carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "none"
-characters: "80 Zeichen"
+characters: "80"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,17 +25,17 @@ tags: ["machine"]
 | Country | England |
 | Selection | full keyboard (one key per character) |
 | Type carrier | push-rod typebars |
-| Characters | 80 Zeichen |
+| Characters | 80 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | äußerst wenig |
-| Price | ca. 280,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | extremely few |
+| Price when new | about 280 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

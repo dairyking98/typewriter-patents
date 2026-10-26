@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1902
 maker: "ADLERWERKE KLEYER AG H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "2x 90 Zeichen"
+characters: "2 × 90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,20 @@ tags: ["machine"]
 | Year | 1902 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 2x 90 Zeichen |
+| Characters | 2 × 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | guter Verkauf |
-| Price | 405,- Mk. |
-| Rarity (Lexikon) | 5-6 |
+| Sales | sold well |
+| Price when new | 405 marks |
+| Rarity (Lexikon's scale) | 5-6 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1902: push-bar. Type-bar set quickly exchangeable, e.g. Latin and Cyrillic.
 
 ## Patents (8)
 

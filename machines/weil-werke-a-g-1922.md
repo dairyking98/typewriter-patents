@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1922
 maker: "WEILWERKE A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [WEILWERKE A G](../companies/weil.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | große Stückzahlen |
-| Price | 420,- Mk., 600 sfr. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | large numbers |
+| Price when new | 420 marks, 600 sfr. |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

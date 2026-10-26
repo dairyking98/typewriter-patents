@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1886
 maker: "Typewriter Improvement Comp"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "none"
-characters: "44 Zeichen"
+characters: "44"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type plate |
-| Characters | 44 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 44 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | nicht ganz wenig |
-| Price | 8 $, 60,- / 35,- Mk. |
-| Rarity (Lexikon) | 4 |
+| Sales | a fair few |
+| Price when new | $8, 60 / 35 marks |
+| Rarity (Lexikon's scale) | 4 |
 
 ## Patents (1)
 

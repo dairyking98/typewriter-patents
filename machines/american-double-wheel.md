@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1898
 maker: "American Typewriter Co"
 country: "USA"
@@ -8,7 +9,7 @@ carrier: "type shuttle"
 strike: "front strike"
 inking: "ink pad"
 shift: "none"
-characters: "37 Zeichen"
+characters: "37"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,16 +25,16 @@ tags: ["machine"]
 | Designer | [Marshman](../people/marshman.md), [Burndge, L](../people/burndge-l.md) |
 | Country | USA |
 | Type carrier | type shuttle |
-| Characters | 37 Zeichen |
+| Characters | 37 |
 | Strike | front strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein X Klasse XX |
+| Sales | not sold |
+| Price when new | kein X Klasse XX |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

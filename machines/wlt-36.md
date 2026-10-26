@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1936
 maker: "TRIUMPH WERKE NUERNBERG AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "telegraph"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1936 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | telegraph |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1936: telegraph. Converted Triumph 12, endless paper roll. Small telegraph machine from the Norm 6 in 1939.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

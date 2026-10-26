@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1900
 maker: "Century Machine Comp"
 country: "USA"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,17 +25,17 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
-| Characters | 81 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 81 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | wohl kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | probably no sales |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

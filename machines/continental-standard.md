@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1904
 maker: "WANDERER WERKE VORM WINKLHOFER"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1904 |
 | Maker | [WANDERER WERKE VORM WINKLHOFER](../companies/wanderer.md) |
 | Designer | [Mohns, Julius](../people/mohns-j.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr große Menge |
-| Price | 380,- / 420,- Mk. |
-| Rarity (Lexikon) | 1 |
+| Sales | very large quantity |
+| Price when new | 380 / 420 marks |
+| Rarity (Lexikon's scale) | 1 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1904-c. 1950s: typebar, visible writing. Designer Julius Mohns. Ad claims 90 characters, simple shift, universal keyboard, automatic ribbon; with or without tabulator. Output per year 1904-07: 34, 680, 1,780, over 4,000. Postwar carriage 24 cm.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

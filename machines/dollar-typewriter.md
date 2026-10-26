@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1890
 maker: "R.Ingersoll & Bros"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "46 Zeichen"
+characters: "46"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 46 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 46 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | guter Verkauf |
-| Price | 1 $,4,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | sold well |
+| Price when new | $1,4 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

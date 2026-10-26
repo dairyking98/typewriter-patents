@@ -1,12 +1,13 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1938
 maker: "Shimada Typewriter Works"
 country: "Japan"
 index_machine: true
 selection: "index"
 inking: "ink roller"
-characters: "2.740 Zeichen"
+characters: "2.740"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -21,12 +22,12 @@ tags: ["machine/index"]
 | Maker | [Shimada Typewriter Works](../companies/shimada.md) |
 | Country | Japan |
 | Selection | index |
-| Characters | 2.740 Zeichen |
+| Characters | 2.740 |
 | Inking | ink roller |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

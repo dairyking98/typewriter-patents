@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1887
 maker: "Columbia Typewriter Mfg. Co"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 shift: "none"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 78 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 78 |
+| Strike | top strike |
 | Shift | none |
-| Sales | noch nicht viel |
-| Price | 100 $ * |
-| Rarity (Lexikon) | 8-9 |
+| Sales | still not many |
+| Price when new | $100 |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (21)
 

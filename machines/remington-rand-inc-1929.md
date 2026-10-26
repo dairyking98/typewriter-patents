@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1929
 maker: "Remington Typewriter Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 18
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | mittelmäßig |
-| Price | 240,- bis 265,- Mk. |
-| Rarity (Lexikon) | 5 - 6 |
+| Sales | moderate |
+| Price when new | 240 to 265 marks |
+| Rarity (Lexikon's scale) | 5 - 6 |
 
 ## Patents (18)
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1907
 maker: "TRIUMPH WERKE NUERNBERG AG"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,17 +24,21 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nur ganz wenig |
-| Price | 60 $ |
-| Rarity (Lexikon) | 9 |
+| Sales | only quite few |
+| Price when new | $60 |
+| Rarity (Lexikon's scale) | 9 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1907-10: typebar, "improved Bar-Lock". Type levers in a half-circle, tilted forward in front of the platen for visible writing; universal keyboard, single shift, 90 characters; platen raised in 1908. Sold at 350 marks.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

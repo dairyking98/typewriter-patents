@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1910
 maker: "R.Ingersoll & Bros"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "52 Zeichen"
+characters: "52"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type disc |
-| Characters | 52 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 52 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | ca. 25,- / 30,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | about 25 / 30 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

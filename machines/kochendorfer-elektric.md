@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1901
 maker: "nicht fabrikmäßig hergestellt"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Year | 1901 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Kochendörfer, H](../people/kochendorfer-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | 81 Zeichen |
+| Characters | 81 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | kein Verkauf |
-| Price | 250,- Mk. geplant |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | 250 marks geplant |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (1)
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1930
 maker: "E D A M S A FA"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "index; QWERTY-type keyboard"
 carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,15 +24,15 @@ tags: ["machine"]
 | Year | 1930 |
 | Maker | [E D A M S A FA](../companies/fa.md) |
 | Designer | [Podleci](../people/podleci.md), [Unger](../people/unger.md), [Winterling, Carl](../people/winterling-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index; QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Rarity (Lexikon) | 8 |
+| Sales | very few |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (1)
 

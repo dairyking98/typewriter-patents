@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1892
 maker: "Williams Typewriter Comp"
-country: "Kanada"
+country: "Canada"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1892 |
 | Maker | [Williams Typewriter Comp](../companies/williams.md) |
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
-| Country | Kanada |
+| Country | Canada |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | große Stückzahlen |
-| Price | 50 $ |
-| Rarity (Lexikon) | 4-5 |
+| Sales | large numbers |
+| Price when new | $50 |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (6)
 

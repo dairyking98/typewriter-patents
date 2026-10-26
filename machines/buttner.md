@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1896
 maker: "nicht fabrikmäßig hergestellt"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
 strike: "front strike"
 inking: "ink roller"
 shift: "none"
-characters: "? Zeichen"
+characters: "?"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine/index"]
 | Year | 1896 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Büttner, Dr](../people/buttner-d.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | ? Zeichen |
+| Characters | ? |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | x |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | x |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

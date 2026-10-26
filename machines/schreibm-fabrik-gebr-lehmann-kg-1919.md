@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1919
 maker: "LEHMANN GEB"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1919 |
 | Maker | [LEHMANN GEB](../companies/lehmann.md) |
 | Designer | [Lehmann, Curt](../people/lehmann-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | relativ wenig |
-| Price | 240,- / 300,- Mk. |
-| Rarity (Lexikon) | 5-6 |
+| Sales | relatively few |
+| Price when new | 240 / 300 marks |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

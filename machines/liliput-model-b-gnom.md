@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1907
 maker: "Justin Wm. Bamberger & Co"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "type wheel (toy)"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1907 |
 | Maker | [Justin Wm. Bamberger & Co](../companies/justin.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | type wheel (toy) |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1907-: type wheel (toy). 8.75 M at launch, later 9.75 M; children's toy.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

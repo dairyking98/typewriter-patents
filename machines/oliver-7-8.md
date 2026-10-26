@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1914
 maker: "Oliver Typewriter Comp"
-country: "USA Verkauf 7: große Stückzahlen"
+country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "type bow"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 / 96 Zeichen"
+characters: "84 / 96"
 patents: 4
 tags: ["machine"]
 ---
@@ -23,15 +24,15 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | [Oliver Typewriter Comp](../companies/oliver.md) |
 | Designer | [Oliver, Thomas](../people/oliver-t.md) |
-| Country | USA Verkauf 7: große Stückzahlen |
+| Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type bow |
-| Characters | 84 / 96 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 / 96 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Price | 440,-/ 500,- Mk. (8) |
-| Rarity (Lexikon) | 4-5 |
+| Price when new | 440 / 500 marks (8) |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (6)
 

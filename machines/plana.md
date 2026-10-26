@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1939
 maker: "AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "flat portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1939 |
 | Maker | [AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies](../companies/aeg.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | flat portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1939: flat portable. Pressed-material housing, nearly all functions of a big machine; 45 keys, double-function keys, tabulator, "Stechwalze" per 1940 ad
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

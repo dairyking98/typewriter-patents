@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1932
 maker: "Maschinenfabrik G.F. Grosser"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1932 |
 | Maker | [Maschinenfabrik G.F. Grosser](../companies/maschinenfabrik.md) |
 | Designer | Firmeningenieure |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | relativ viel |
-| Price | 234,- / 260,- Mk. |
-| Rarity (Lexikon) | 4 |
+| Sales | relatively many |
+| Price when new | 234 / 260 marks |
+| Rarity (Lexikon's scale) | 4 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1932: typebar. 46 keys / 92 characters, set and clear key, lighter touch
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

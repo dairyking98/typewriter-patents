@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1884
 maker: "Columbia Typewriter Mfg. Co"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink disc"
-characters: "44 Zeichen"
+characters: "44"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -25,12 +26,12 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 44 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 44 |
+| Strike | top strike |
 | Inking | ink disc |
-| Sales | wenig |
-| Price | 25 $ |
-| Rarity (Lexikon) | 8 |
+| Sales | few |
+| Price when new | $25 |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (9)
 

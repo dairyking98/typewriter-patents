@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1935
 maker: "VORM SEIDEL & NAUMANN AG"
-country: "Deutschland Verkauf‘ große Stückzahlen"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,19 +22,19 @@ tags: ["machine"]
 | Year | 1935 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Deutschland Verkauf‘ große Stückzahlen |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 86 Zeichen |
+| Characters | 86 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Price | 278,- Mk. |
-| Rarity (Lexikon) | 1-2 |
+| Price when new | 278 marks |
+| Rarity (Lexikon's scale) | 1-2 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

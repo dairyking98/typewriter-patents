@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "A.G. vorm. Frister & Rossmann"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,19 +22,19 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [A.G. vorm. Frister & Rossmann](../companies/frister.md) |
 | Designer | Firmeningenieure |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | kein Verkauf |
-| Price | kein Verkaufspreis X |
+| Sales | not sold |
+| Price when new | kein Verkaufspreis X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

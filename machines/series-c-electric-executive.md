@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1959
 maker: "Ibm Deutschland"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, electric"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1959 |
 | Maker | [Ibm Deutschland](../companies/ibm.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, electric |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1959: typebar, electric. Faster, quieter carriage; a centrifugal mechanism catches the carriage softly at left margin and at tab stops
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

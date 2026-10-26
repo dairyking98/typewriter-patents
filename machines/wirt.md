@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1909
 maker: "nicht fabrikmäßig hergestellt"
-country: "USA *"
+country: "USA"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type cylinder"
 strike: "front strike"
 inking: "ribbon"
-characters: "280 Zeichen"
+characters: "280"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,19 +23,19 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Wirt](../people/wirt.md) |
-| Country | USA * |
+| Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type cylinder |
-| Characters | 280 Zeichen |
+| Characters | 280 |
 | Strike | front strike |
 | Inking | ribbon |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

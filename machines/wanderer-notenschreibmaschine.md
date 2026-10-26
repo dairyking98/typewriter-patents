@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1939
 maker: "WANDERER WERKE VORM WINKLHOFER"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, music"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1939 |
 | Maker | [WANDERER WERKE VORM WINKLHOFER](../companies/wanderer.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, music |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1939: typebar, music. Standard machine with 3 characters per typebar instead of the usual 2.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

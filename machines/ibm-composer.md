@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1966
 maker: "Ibm Deutschland"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "ball head, proportional"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1966 |
 | Maker | [Ibm Deutschland](../companies/ibm.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | ball head, proportional |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1966: ball head, proportional. Keyboard and strike mechanism taken from the IBM 72; same type element and ball; typeset-style fonts and finer proportional spacing for camera-ready copy; 53 fonts available plus 3 for formula setting; balls stored in a small box
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

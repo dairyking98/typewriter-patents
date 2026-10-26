@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1856
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "index"
 strike: "front strike"
 inking: "ink roller"
 shift: "none"
-characters: "ca. 40 Zeichen"
+characters: "ca. 40"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -24,12 +25,12 @@ tags: ["machine/index"]
 | Designer | [Cooper, John Joseph](../people/cooper-j.md) |
 | Country | USA |
 | Selection | index |
-| Characters | ca. 40 Zeichen |
+| Characters | ca. 40 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
+| Sales | not sold |
+| Price when new | none listed |
 
 ## Patents (1)
 

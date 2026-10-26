@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1898
 maker: "SCHREIBMASCHINENFABRIK AUGSBUR"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1898 |
 | Maker | [SCHREIBMASCHINENFABRIK AUGSBUR](../companies/schreibmaschinenfabrik.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1898: typebar. Origin not stated in the text; advertised as printing two letters at once, "about 180 words per minute" (advertising claim)
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

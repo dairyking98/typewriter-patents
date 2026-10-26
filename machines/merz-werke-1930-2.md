@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1930
 maker: "MERZ GEB; MERZ WERKE"
-country: "Deutschland Verkauf‘ mittel"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,19 +22,19 @@ tags: ["machine"]
 | Year | 1930 |
 | Maker | [MERZ GEB; MERZ WERKE](../companies/merz.md) |
 | Designer | [Schauss, Adolf](../people/schauss-a.md) |
-| Country | Deutschland Verkauf‘ mittel |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Price | 285,- / 255,- Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Price when new | 285 / 255 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

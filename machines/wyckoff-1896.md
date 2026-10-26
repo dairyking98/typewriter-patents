@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1896
 maker: "Wyckoff"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
-| Strike | understrike |
+| Characters | 84 |
+| Strike | understrike (blind) |
 | Shift | single shift |
-| Sales | sehr viel |
-| Price | 100 $, 460/500,-Mk. |
-| Rarity (Lexikon) | 2-3 |
+| Sales | very many |
+| Price when new | $100, 460/500 marks |
+| Rarity (Lexikon's scale) | 2-3 |
 
 ## Patents (35)
 

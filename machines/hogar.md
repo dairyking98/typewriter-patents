@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1921
 maker: "Mech. Werkstatt Matias Pastor"
-country: "Spanien"
+country: "Spain"
 index_machine: true
 selection: "index"
 carrier: "type cylinder"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "75 Zeichen *"
+characters: "75"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine/index"]
 | Year | 1921 |
 | Maker | [Mech. Werkstatt Matias Pastor](../companies/matias.md) |
 | Designer | [Pastor, Matias](../people/pastor-m.md) |
-| Country | Spanien |
+| Country | Spain |
 | Selection | index |
 | Type carrier | type cylinder |
-| Characters | 75 Zeichen * |
-| Strike | upstrike / top strike |
+| Characters | 75 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
 | Sales | ca. 1-2.000 Ex. |
-| Price | 120 Pts. |
-| Rarity (Lexikon) | 9 |
+| Price when new | 120 Pts. |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1907
 maker: "Oliver Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "96 Zeichen"
+characters: "96"
 patents: 4
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 96 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 96 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | große Stückzahl |
-| Price | ca. 500,- Mk |
-| Rarity (Lexikon) | 4-5 |
+| Sales | large numbers |
+| Price when new | about 500 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (10)
 

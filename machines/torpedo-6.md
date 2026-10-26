@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1927
 maker: "WEILWERKE A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar office"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1927 |
 | Maker | [WEILWERKE A G](../companies/weil.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar office |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1927: typebar office. segment shift; interchangeable carriages of different widths; basis of accounting machines; built in Holland postwar as Remtor
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

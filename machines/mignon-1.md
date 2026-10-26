@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1902
 maker: "AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type cylinder"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
-characters: "84 Zeichen"
+characters: "84"
 patents: 1
 tags: ["machine/index"]
 ---
@@ -22,14 +23,18 @@ tags: ["machine/index"]
 | Year | 1902 |
 | Maker | [AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies](../companies/aeg.md) |
 | Designer | v.Haefner-Alteneck |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type cylinder |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ink roller |
-| Sales | nur 50 - 200 Stück dınals: 80,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | only 50–200 made; price then 80 marks |
+| Rarity (Lexikon's scale) | 9 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1903/04: index. 50 built; 80 M; keys in front of the character field, inking by small rollers, no margin stops, guide plates covered the line; guide knob on the machine set the letter
 
 ## Patents (1)
 

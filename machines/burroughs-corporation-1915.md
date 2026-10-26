@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1915
 maker: "BURROUGHS ADDING MACHINE CO"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "single shift"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,15 +23,15 @@ tags: ["machine"]
 | Designer | [Bower, Raymond G](../people/bower-r.md) |
 | Country | USA |
 | Selection | QWERTY-type keyboard |
-| Characters | 78 Zeichen |
-| Strike | understrike |
+| Characters | 78 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | mittel * |
+| Sales | moderate |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1877
 maker: "E. Reminton & Sons"
 country: "USA"
 index_machine: false
 selection: "early keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
-characters: "43 Zeichen"
+characters: "43"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | early keyboard |
 | Type carrier | typebar |
-| Characters | 43 Zeichen |
-| Strike | understrike |
+| Characters | 43 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Sales | evtl. 1.650 Ex. |
-| Price | 125 $, 500.-Mk |
-| Rarity (Lexikon) | 9 |
+| Price when new | $125, 500.- marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (3)
 

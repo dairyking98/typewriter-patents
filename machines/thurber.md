@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1843
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type rods"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "44 Zeichen"
+characters: "44"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type rods |
-| Characters | 44 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 44 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (2)
 

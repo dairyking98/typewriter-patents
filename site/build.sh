@@ -2,7 +2,7 @@
 # Build the static site into _site/ (needs: pip install mkdocs-material). Run from the repo root.
 set -e
 rm -rf _docs && mkdir _docs
-for d in README.md guides views patents machines features people companies families tags.md site/extra.css; do
+for d in README.md guides views explore assets patents machines features people companies families tags.md site/extra.css; do
   [ -e "$d" ] && cp -r "$d" _docs/
 done
 rm -f _docs/views/*.base

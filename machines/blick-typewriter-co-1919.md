@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1919
 maker: "Blick Typewriter Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "9% Zeichen"
+characters: "9%"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 9% Zeichen |
+| Characters | 9% |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | guter Verkauf |
-| Price | 50 $ |
-| Rarity (Lexikon) | 5-6 |
+| Sales | sold well |
+| Price when new | $50 |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (12)
 

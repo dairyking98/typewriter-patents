@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1912
 maker: "ADLERWERKE KLEYER AG H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1912 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
 | Designer | (verkleinerte 7) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr gut |
-| Price | 250,- Mk. |
-| Rarity (Lexikon) | 1 |
+| Sales | very good |
+| Price when new | 250 marks |
+| Rarity (Lexikon's scale) | 1 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1912: push-bar. Small travel version of the 7. Klein-Adler 2 from 1927 (single shift, four rows; "Adler 30" abroad).
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

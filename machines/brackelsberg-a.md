@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1897
 maker: "wahrscheinlich nicht fabriziert"
-country: "Dt./England"
+country: "Germany, England"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "type segment"
 strike: "front strike"
 inking: "ribbon"
 shift: "none"
-characters: "108 Zeichen"
+characters: "108"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Year | 1897 |
 | Maker | wahrscheinlich nicht fabriziert |
 | Designer | [Brackelsberg, E. W](../people/brackelsberg-e.md) |
-| Country | Dt./England |
+| Country | Germany, England |
 | Selection | full keyboard (one key per character) |
 | Type carrier | type segment |
-| Characters | 108 Zeichen |
+| Characters | 108 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | wohl kaum |
-| Price | 350,- Mk. geplant |
-| Rarity (Lexikon) | X |
+| Sales | probably hardly any |
+| Price when new | 350 marks geplant |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (2)
 

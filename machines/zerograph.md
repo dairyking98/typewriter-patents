@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1895
 maker: "Leo Kamm"
 country: "England"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,16 +27,16 @@ tags: ["machine"]
 | Country | England |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
-| Characters | 78 Zeichen |
+| Characters | 78 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
 | Sales | nur einige Expl. |
-| Rarity (Lexikon) | X |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

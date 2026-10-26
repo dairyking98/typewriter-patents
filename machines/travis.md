@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1905
 maker: "Philadelphia Typewriter Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "80 Zeichen *"
+characters: "80"
 patents: 1
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | 80 Zeichen * |
+| Characters | 80 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | 100 $ |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | $100 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (28)
 

@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1967
 maker: "GEORG KELLER"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1967 |
 | Maker | [GEORG KELLER](../companies/keller.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1967: typebar. 44 keys, three-position line spacing, two-colour ribbon; 500 with tabulator and extras; all-steel housing
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

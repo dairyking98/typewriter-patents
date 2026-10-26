@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1924
 maker: "AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type cylinder"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -22,19 +23,23 @@ tags: ["machine/index"]
 | Year | 1924 |
 | Maker | [AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies](../companies/aeg.md) |
 | Designer | v.Hefner-Alteneci |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type cylinder |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
-| Sales | große Stückzahl |
-| Price | 100,- Mk. |
-| Rarity (Lexikon) | 1-2 |
+| Sales | large numbers |
+| Price when new | 100 marks |
+| Rarity (Lexikon's scale) | 1-2 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1924: index. Added back-spacer (Rücktaste); output 150-200/day at Erfurt 1925/26; production ended 1933/34 after over 400,000 Mignons in all
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

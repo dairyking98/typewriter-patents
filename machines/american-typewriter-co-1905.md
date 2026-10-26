@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1905
 maker: "American Typewriter Co"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 81 Zeichen |
-| Strike | understrike |
+| Characters | 81 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Price | 50 $, 250,- Mk. |
-| Rarity (Lexikon) | 6 |
+| Sales | very few |
+| Price when new | $50, 250 marks |
+| Rarity (Lexikon's scale) | 6 |
 
 ## Patents (19)
 

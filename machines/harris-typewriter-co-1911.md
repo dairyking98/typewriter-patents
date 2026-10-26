@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1911
 maker: "Harris Typewriter Manufacturing Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 5
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht wenig |
-| Price | 87.50 $ |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair number |
+| Price when new | $87.50 |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (5)
 

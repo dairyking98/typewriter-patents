@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1885
 maker: "Hoggsen & Pettis Mfg. Co"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
-characters: "45 Zeichen"
+characters: "45"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -25,12 +26,12 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type plate |
-| Characters | 45 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 45 |
+| Strike | top strike |
 | Inking | ink pad |
-| Sales | sehr wenig |
-| Price | 15 $ |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | $15 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

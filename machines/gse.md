@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1952
 maker: "RHEINMETALL BORSIG AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "electric typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1952 |
 | Maker | [RHEINMETALL BORSIG AKT GES](../companies/rheinmetall.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | electric typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1952/53-1977: electric typebar. electric version of GS with typebar untangler (Typenhebelentwirrer) and stroke-strength regulator (Anschlagregler); nearly 120,000 built
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

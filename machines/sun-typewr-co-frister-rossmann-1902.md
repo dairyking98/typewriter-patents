@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1902
 maker: "Sun Typewriter Co"
-country: "USA + Deutschl. Verkauf‘ schlecht + gut"
+country: "USA + Deutschl"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,15 +22,15 @@ tags: ["machine"]
 | Year | 1902 |
 | Maker | [Sun Typewriter Co](../companies/sun.md) |
 | Designer | [Burridge, Lee S](../people/burridge-l.md) |
-| Country | USA + Deutschl. Verkauf‘ schlecht + gut |
+| Country | USA + Deutschl |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Price | 75 $, 350,- Mk. |
-| Rarity (Lexikon) | 6- 7 |
+| Price when new | $75, 350 marks |
+| Rarity (Lexikon's scale) | 6- 7 |
 
 ## Patents (18)
 

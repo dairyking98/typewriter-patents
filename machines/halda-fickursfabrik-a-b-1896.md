@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1896
 maker: "A.B. Halda Fabriker"
-country: "Schweden"
+country: "Sweden"
 index_machine: false
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,19 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [A.B. Halda Fabriker](../companies/halda.md) |
 | Designer | [Hammarlund, H](../people/hammarlund-h.md) |
-| Country | Schweden |
+| Country | Sweden |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
 | Sales | nur ca. 10 Expl. |
-| Price | unbekannt |
-| Rarity (Lexikon) | X |
+| Price when new | unknown |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

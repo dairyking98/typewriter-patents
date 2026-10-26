@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1854
 maker: "Enoch Prouty"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type bar (straight)"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "? Zeichen"
+characters: "?"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type bar (straight) |
-| Characters | ? Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ? |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
 | Sales | nur einige Exempl. |
-| Price | vielleicht 15 - 20 $ |
-| Rarity (Lexikon) | X |
+| Price when new | vielleicht 15 - $20 |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (1)
 

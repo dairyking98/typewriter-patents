@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1922
 maker: "Oliver Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "type bow"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 / 96 Zeichen"
+characters: "84 / 96"
 patents: 2
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type bow |
-| Characters | 84 / 96 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 / 96 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | große Stückzahlen |
-| Price | 75 $(11) |
-| Rarity (Lexikon) | 4-5 . |
+| Sales | large numbers |
+| Price when new | $75(11) |
+| Rarity (Lexikon's scale) | 4-5 . |
 
 ## Patents (2)
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1893
 maker: "Blickensderfer Manufacturing Comp"
 country: "USA"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 15
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | nicht so viel |
-| Price | 160,- Mk. |
-| Rarity (Lexikon) | 7-8* |
+| Sales | not so many |
+| Price when new | 160 marks |
+| Rarity (Lexikon's scale) | 7-8* |
 
 ## Patents (18)
 

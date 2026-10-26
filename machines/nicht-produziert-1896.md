@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1896
 maker: "nicht produziert"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ink pad"
-characters: "? Zeichen"
+characters: "?"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,18 +21,18 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | nicht produziert |
 | Designer | [Livock, Frederick](../people/livock-f.md), [Hermann, L. A](../people/hermann-l.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | ? Zeichen |
-| Strike | understrike |
+| Characters | ? |
+| Strike | understrike (blind) |
 | Inking | ink pad |
-| Sales | kein Verkauf |
-| Price | kein |
+| Sales | not sold |
+| Price when new | none listed |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

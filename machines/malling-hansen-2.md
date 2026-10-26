@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1867
 maker: "Jürgens Mekaniske Etablissement"
-country: "Dänemark"
+country: "Denmark"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type rods"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "carbon paper"
-characters: "52/54 Zeichen"
+characters: "52/54"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,19 +23,19 @@ tags: ["machine"]
 | Year | 1867 |
 | Maker | [Jürgens Mekaniske Etablissement](../companies/jurgens.md) |
 | Designer | [Hansen, Malling](../people/hansen-m.md) |
-| Country | Dänemark |
+| Country | Denmark |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type rods |
-| Characters | 52/54 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 52/54 |
+| Strike | top strike |
 | Inking | carbon paper |
 | Sales | ca. 50 100 Ex - |
-| Price | 400 Kr., 450,- Wa |
-| Rarity (Lexikon) | 9 |
+| Price when new | 400 Kr., 450 Wa |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

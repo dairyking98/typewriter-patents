@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1923
 maker: "UHRENFABRIK VORM L FURTWAENGLE"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [UHRENFABRIK VORM L FURTWAENGLE](../companies/uhrenfabrik.md) |
 | Designer | [Wallenstein, Alfred](../people/wallenstein-a.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht sehr viel |
-| Price | 420,- Mk. |
-| Rarity (Lexikon) | 5-6 |
+| Sales | not very many |
+| Price when new | 420 marks |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

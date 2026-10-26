@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1895
 maker: "Duplex Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "none"
-characters: "100 Zeichen"
+characters: "100"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 100 Zeichen |
-| Strike | understrike |
+| Characters | 100 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | none |
 | Sales | nur sehr mäßig reis |
-| Price | 460,- Mk. se |
-| Rarity (Lexikon) | 7 - 8* |
+| Price when new | 460 marks se |
+| Rarity (Lexikon's scale) | 7 - 8* |
 
 ## Patents (4)
 

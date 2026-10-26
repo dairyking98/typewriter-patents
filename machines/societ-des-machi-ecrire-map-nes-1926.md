@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1926
 maker: "Societ€ des Machi- & Ecrire Map nes"
-country: "Frankreich"
+country: "France"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [Societ€ des Machi- & Ecrire Map nes](../companies/societ.md) |
 | Designer | [Ellis, Halcolm](../people/ellis-h.md) |
-| Country | Frankreich |
+| Country | France |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | ca. 1.800 Fr. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | sold well |
+| Price when new | about 1.800 Fr. |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (1)
 

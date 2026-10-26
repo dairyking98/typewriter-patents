@@ -1,12 +1,13 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1912
 maker: "Blickensderfer Manufacturing Comp"
 country: "USA"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
 characters: "84 Z. + Noten"
@@ -27,16 +28,16 @@ tags: ["machine"]
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
 | Characters | 84 Z. + Noten |
-| Strike | upstrike / top strike |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | zufriedenstellend |
-| Price | 600,- / 750,- Mk. |
-| Rarity (Lexikon) | 5-6 |
+| Sales | satisfactory |
+| Price when new | 600 / 750 marks |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

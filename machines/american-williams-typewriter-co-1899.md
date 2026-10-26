@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1899
 maker: "American (Williams) Typewriter Co"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,16 +25,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 81 Zeichen |
-| Strike | understrike |
+| Characters | 81 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht viel |
-| Price | 50 $ |
+| Sales | not many |
+| Price when new | $50 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

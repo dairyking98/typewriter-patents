@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1909
 maker: "VORM SEIDEL & NAUMANN AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,20 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
 | Designer | [Barney, Edwin E](../people/barney-e.md), [Tanner](../people/tanner.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | große Stückzahlen |
-| Price | 380,- Mk. |
-| Rarity (Lexikon) | 3 |
+| Sales | large numbers |
+| Price when new | 380 marks |
+| Rarity (Lexikon's scale) | 3 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1909 / 1912: typebar. Better ribbon and type guidance and carriage release; A5 sold beside B; A series over 100,000 total.
 
 ## Patents (34)
 

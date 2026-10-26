@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1952
 maker: "ADLERWERKE KLEYER AG H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1952 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1952: portable. Replaces Klein-Adler 46.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

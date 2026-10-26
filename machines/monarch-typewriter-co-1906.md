@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1906
 maker: "Monarch Typewriter Comp"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 shift: "single shift"
-characters: "84/92 Zeichen"
+characters: "84/92"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84/92 Zeichen |
+| Characters | 84/92 |
 | Strike | front strike |
 | Shift | single shift |
-| Sales | große Stückzahlen |
-| Price | 100 $, 525,- Mk |
-| Rarity (Lexikon) | 4 |
+| Sales | large numbers |
+| Price when new | $100, 525 marks |
+| Rarity (Lexikon's scale) | 4 |
 
 ## Patents (16)
 

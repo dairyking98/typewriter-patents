@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1908
 maker: "Smith Premier Typewriter Comp"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "full keyboard (one key per character)"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
-| Sales | große Stückzahlen |
-| Price | 100 $, 550,- Mk. |
-| Rarity (Lexikon) | 2-3 |
+| Sales | large numbers |
+| Price when new | $100, 550 marks |
+| Rarity (Lexikon's scale) | 2-3 |
 
 ## Patents (60)
 

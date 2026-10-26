@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1914
 maker: "Schreibmaschinenfabrik A. Ney"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "triple shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | Schreibmaschinenfabrik A. Ney |
 | Designer | [Bamberger, J. W](../people/bamberger-j.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | triple shift |
-| Sales | nicht ganz wenig |
-| Price | 135,- Mk. |
-| Rarity (Lexikon) | 4 - 5 |
+| Sales | a fair few |
+| Price when new | 135 marks |
+| Rarity (Lexikon's scale) | 4 - 5 |
 
 ## Patents (1)
 

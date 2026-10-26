@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1932
 maker: "Mass Production Corporation"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "QWERTY-type keyboard"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,17 +23,17 @@ tags: ["machine"]
 | Designer | [Rose, George F](../people/rose-g.md) |
 | Country | USA |
 | Selection | QWERTY-type keyboard |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Price | 25.50 $ |
-| Rarity (Lexikon) | 7-8 |
+| Sales | very few |
+| Price when new | $25.50 |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

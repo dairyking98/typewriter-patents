@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1932
 maker: "L C SMITH & CORONA TYPEWRITERS"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | zufriedenstellend |
-| Price | 62.50 $ |
-| Rarity (Lexikon) | 3-4 |
+| Sales | satisfactory |
+| Price when new | $62.50 |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (2)
 

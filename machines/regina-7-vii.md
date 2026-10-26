@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1923
 maker: "Maschinenfabrik G.F. Grosser"
-country: "Österreich"
+country: "Austria"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [Maschinenfabrik G.F. Grosser](../companies/maschinenfabrik.md) |
 | Designer | [Reißer, Adolf](../people/rei-er-a.md) |
-| Country | Österreich |
+| Country | Austria |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
 | Sales | ca. 1.500 Exempl. |
-| Price | ca. 70-80$ * |
-| Rarity (Lexikon) | 6 |
+| Price when new | about 70-$80 |
+| Rarity (Lexikon's scale) | 6 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1923-32: typebar. Rounded body, new colour and lacquer; 1927 improved model with multiple line spacing and "safe" ribbon reverse; ad slogans: light carriage run, soft touch, big impression force
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

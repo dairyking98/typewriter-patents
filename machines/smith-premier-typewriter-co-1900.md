@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1900
 maker: "Smith Premier Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
-| Strike | understrike |
+| Characters | 84 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
-| Sales | mittel |
-| Price | 450,- / 500,- Mk. |
-| Rarity (Lexikon) | 6-7 |
+| Sales | moderate |
+| Price when new | 450 / 500 marks |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (18)
 

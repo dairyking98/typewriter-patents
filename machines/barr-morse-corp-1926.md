@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1926
 maker: "Barr to The Smith Premier Typewriter Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht sehr viel |
-| Price | ca. 180,- /200,- Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | not very many |
+| Price when new | about 180 /200 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (12)
 

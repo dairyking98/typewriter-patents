@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1934
 maker: "Japy Freres & Cie"
-country: "Frankreich"
+country: "France"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 shift: "single shift"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,18 +21,18 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [Japy Freres & Cie](../companies/japy.md) |
 | Designer | (Weiterentwicklig.) |
-| Country | Frankreich |
+| Country | France |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 86 Zeichen |
+| Characters | 86 |
 | Strike | front strike |
 | Shift | single shift |
-| Sales | zufriedenstellend |
-| Price | ca. 420,- Mk. |
+| Sales | satisfactory |
+| Price when new | about 420 marks |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

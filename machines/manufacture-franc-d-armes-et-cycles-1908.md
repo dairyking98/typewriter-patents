@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1908
 maker: "Manufacture Franc. d’ Armes et Cycles"
-country: "Frankreich"
+country: "France"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "96 Zeichen"
+characters: "96"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1908 |
 | Maker | [Manufacture Franc. d’ Armes et Cycles](../companies/manufacture.md) |
 | Designer | (Imperial) |
-| Country | Frankreich |
+| Country | France |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 96 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 96 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht ganz wenig |
-| Price | ca. 360,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair few |
+| Price when new | about 360 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

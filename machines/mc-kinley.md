@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1880
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "? Zeichen"
+characters: "?"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,16 +27,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | ? Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ? |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | kein Verkauf |
-| Price | kein |
+| Sales | not sold |
+| Price when new | none listed |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1908
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -19,20 +20,20 @@ tags: ["machine"]
 |---|---|
 | Year | 1908 |
 | Designer | [Schilling, Heinr. Schweitzer Hersteller](../people/schilling-h.md), [Krämer](../people/kramer.md), [Suhl](../people/suhl.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | mittel |
-| Price | 450,- Mk |
-| Rarity (Lexikon) | 4-5 |
+| Sales | moderate |
+| Price when new | 450 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

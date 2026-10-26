@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1921
 maker: "Hammond Typewriter Comp"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "QWERTY-type keyboard"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,17 +23,17 @@ tags: ["machine"]
 | Designer | [Noack, Charles ©](../people/noack-c.md) |
 | Country | USA |
 | Selection | QWERTY-type keyboard |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | zufriedenstellend |
-| Price | 98.50 $ |
-| Rarity (Lexikon) | 5-6 |
+| Sales | satisfactory |
+| Price when new | $98.50 |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

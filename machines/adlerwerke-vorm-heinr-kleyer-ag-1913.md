@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "ADLERWERKE KLEYER AG H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "184 Zeichen"
+characters: "184"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 184 Zeichen |
+| Characters | 184 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | 570,- Mk. |
-| Rarity (Lexikon) | 8 |
+| Sales | very few |
+| Price when new | 570 marks |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

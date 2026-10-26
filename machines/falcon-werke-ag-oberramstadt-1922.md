@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1922
 maker: "Falcon-Werke AG Oberramstadt"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "90 Zeichen ‚"
+characters: "90‚"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [Falcon-Werke AG Oberramstadt](../companies/falcon.md) |
 | Designer | [Kolbe, H](../people/kolbe-h.md), [Maurer](../people/maurer.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen ‚ |
+| Characters | 90‚ |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr gering |
-| Price | ca. 400,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | very small |
+| Price when new | about 400 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

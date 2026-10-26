@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1936
 maker: "Maschinenfabrik G.F. Grosser"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "small"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1936 |
 | Maker | [Maschinenfabrik G.F. Grosser](../companies/maschinenfabrik.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | small |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1936: small. rebadged Olympia Filia B
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

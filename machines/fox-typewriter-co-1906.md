@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1906
 maker: "Fox Machine Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "78 Zeichen"
+characters: "78"
 patents: 1
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 78 Zeichen |
+| Characters | 78 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | 100 $ |
-| Rarity (Lexikon) | 4-5 |
+| Sales | sold well |
+| Price when new | $100 |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (4)
 

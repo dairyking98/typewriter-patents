@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1903
 maker: "Kanzler Schreibmaschinen A.-G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1903 |
 | Maker | [Kanzler Schreibmaschinen A.-G](../companies/kanzler.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1903/04-: typebar. Front-strike levers in Adler fashion, but one lever per group of four stacked keys; single shift so each lever carries 8 types; semicircular keyboard like the Ideal-Hammond but with standard (QWERTY-type) layout. 300-350 M. Model 2: 38 cm carriage.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

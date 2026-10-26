@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1889
 maker: "Columbia Typewriter Mfg. Co"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "full keyboard (one key per character)"
 carrier: "typebar"
 inking: "ribbon"
 shift: "none"
-characters: "72 Zeichen Aufschlag Oberaufschlag"
+characters: "72Aufschlag Oberaufschlag"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 72 Zeichen Aufschlag Oberaufschlag |
+| Characters | 72Aufschlag Oberaufschlag |
 | Inking | ribbon |
 | Shift | none |
 | Sales | noch nicht viel Freis |
-| Price | 100 $(2), 110$(3) |
-| Rarity (Lexikon) | 8-9 |
+| Price when new | $100(2), $110(3) |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (25)
 

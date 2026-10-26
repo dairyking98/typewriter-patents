@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1934
 maker: "PAILLARD & CIE SA E"
-country: "Schweiz"
+country: "Switzerland"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "92 Zeichen"
+characters: "92"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [PAILLARD & CIE SA E](../companies/paillard.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Schweiz |
+| Country | Switzerland |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 92 Zeichen |
+| Characters | 92 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | zufriedenstellend |
-| Price | 650 sfr. |
-| Rarity (Lexikon) | 5 |
+| Sales | satisfactory |
+| Price when new | 650 sfr. |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

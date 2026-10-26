@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1885
 maker: "Columbia Typewriter Mfg. Co"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink disc"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -25,12 +26,12 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 78 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 78 |
+| Strike | top strike |
 | Inking | ink disc |
-| Sales | nicht sehr viel |
-| Price | 30 $, 150,- Mk. |
-| Rarity (Lexikon) | 7 |
+| Sales | not very many |
+| Price when new | $30, 150 marks |
+| Rarity (Lexikon's scale) | 7 |
 
 ## Patents (12)
 

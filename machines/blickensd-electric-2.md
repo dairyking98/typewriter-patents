@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1918
 maker: "Blickensderfer Manufacturing Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | wenig |
-| Price | 125 $,ca. 650,- Mk. |
-| Rarity (Lexikon) | 9 * |
+| Sales | few |
+| Price when new | $125,about 650 marks |
+| Rarity (Lexikon's scale) | 9 * |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

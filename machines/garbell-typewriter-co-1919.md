@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1919
 maker: "Garbell Typewriter Co"
 country: "USA"
@@ -7,7 +8,7 @@ index_machine: false
 carrier: "push-rod typebars"
 strike: "front strike"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Designer | [Garbell, Max](../people/garbell-m.md) |
 | Country | USA |
 | Type carrier | push-rod typebars |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Shift | double shift |
-| Sales | nicht sehr viel |
-| Price | 40/45 $ |
-| Rarity (Lexikon) | 7_ |
+| Sales | not very many |
+| Price when new | 40/$45 |
+| Rarity (Lexikon's scale) | 7_ |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

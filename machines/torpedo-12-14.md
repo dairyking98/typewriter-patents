@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1924
 maker: "WEILWERKE A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,23 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [WEILWERKE A G](../companies/weil.md) |
 | Designer | Firmeningenieure |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | große Stückzahlen |
-| Price | 260,- Mk., 380 sfr. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | large numbers |
+| Price when new | 260 marks, 380 sfr. |
+| Rarity (Lexikon's scale) | 3-4 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1924, 1928: typebar portable. 12 had simple shift
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

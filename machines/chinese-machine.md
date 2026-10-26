@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1952
 maker: "VEB Optima Büromasch.werk"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "large character set"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1952 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | large character set |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1952-: large character set. Up to 7,200 characters (mechanism not described)
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

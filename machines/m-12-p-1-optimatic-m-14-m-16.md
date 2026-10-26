@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1957
 maker: "VEB Optima Büromasch.werk"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1957 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1957-65: typebar. See timeline
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

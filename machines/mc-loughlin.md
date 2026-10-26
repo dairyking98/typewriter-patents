@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1884
 maker: "Mc Loughlin Bros"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 shift: "none"
-characters: "45 Zeichen *"
+characters: "45"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -25,16 +26,16 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type plate |
-| Characters | 45 Zeichen * |
-| Strike | upstrike / top strike |
+| Characters | 45 |
+| Strike | top strike |
 | Shift | none |
-| Sales | sehr wenig |
-| Price | 10$ |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | $10 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

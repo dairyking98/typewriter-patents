@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1904
 maker: "AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type cylinder"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -22,19 +23,23 @@ tags: ["machine/index"]
 | Year | 1904 |
 | Maker | [AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies](../companies/aeg.md) |
 | Designer | v.Hefner-Altene=t |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type cylinder |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
-| Sales | sehr gut |
-| Price | 100,- Mk. |
-| Rarity (Lexikon) | 3 |
+| Sales | very good |
+| Price when new | 100 marks |
+| Rarity (Lexikon's scale) | 3 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1904-06: index. About 2,000; 100 M; letter chosen with a guide grip on the pointer itself; print and space keys moved right and made handy so the field is visible; stronger platen; guide plates dropped; paper rest added; casing over mechanism; parts stamped from steel instead of cast; red lacquer, black from about serial 5,000
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

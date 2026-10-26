@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1894
 maker: "Tilton Manufacturing Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ink pad"
 shift: "none"
-characters: "80 Zeichen ‚"
+characters: "80‚"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 80 Zeichen ‚ |
+| Characters | 80‚ |
 | Strike | front strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | sehr wenig nur |
-| Price | 15 $ |
-| Rarity (Lexikon) | 5-6 |
+| Sales | very few only |
+| Price when new | $15 |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

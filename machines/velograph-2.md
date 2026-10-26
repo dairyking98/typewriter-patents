@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1887
 maker: "Rymtowi--Prince & Cie"
-country: "Schweiz"
+country: "Switzerland"
 index_machine: true
 selection: "index"
 carrier: "type disc"
 strike: "front strike"
 inking: "ribbon; ink roller"
 shift: "none"
-characters: "80 Zeichen"
+characters: "80"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,15 +24,15 @@ tags: ["machine/index"]
 | Year | 1887 |
 | Maker | [Rymtowi--Prince & Cie](../companies/rymtowi.md) |
 | Designer | [Eggis, Adolphe Prosper](../people/eggis-a.md) |
-| Country | Schweiz |
+| Country | Switzerland |
 | Selection | index |
 | Type carrier | type disc |
-| Characters | 80 Zeichen |
+| Characters | 80 |
 | Strike | front strike |
 | Inking | ribbon; ink roller |
 | Shift | none |
 | Sales | nicht ganz wenig damals |
-| Rarity (Lexikon) | 9 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

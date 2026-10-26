@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1912
 maker: "VORM SEIDEL & NAUMANN AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1912 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
 | Designer | [Bamey, E](../people/bamey-e.md), [Tanner](../people/tanner.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
 | Sales | nur einige hundert |
-| Price | ca. 380,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Price when new | about 380 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (1)
 

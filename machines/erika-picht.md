@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1975
 maker: "VORM SEIDEL & NAUMANN AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "braille/blind machine"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1975 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | braille/blind machine |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- from 1975: braille/blind machine. Continued by Multitech after 1991.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

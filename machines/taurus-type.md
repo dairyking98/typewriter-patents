@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1908
 maker: "Torrani & Cie. Vertrieb Füllfeder-Industrie in Deutschl.: Albert Fink"
-country: "Italien"
+country: "Italy"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "none"
-characters: "42 Zeichen"
+characters: "42"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -22,20 +23,20 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1908 |
 | Maker | [Torrani & Cie. Vertrieb Füllfeder-Industrie in Deutschl.: Albert Fink](../companies/torrani.md) |
-| Country | Italien |
+| Country | Italy |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 42 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 42 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | sehr gering |
-| Price | 20,- Mk. / 10,50 Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | very small |
+| Price when new | 20 marks / 10,50 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

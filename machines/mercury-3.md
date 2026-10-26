@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1887
 maker: "Mercury Type Writing Machine Comp"
 country: "England"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "60 Zeichen"
+characters: "60"
 patents: 3
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | England |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
-| Characters | 60 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 60 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | single shift |
-| Sales | sehr gering |
-| Price | unter £ 10. |
-| Rarity (Lexikon) | 9 |
+| Sales | very small |
+| Price when new | unter £ 10. |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (8)
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1888
 maker: "National Meter Co"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 81 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 81 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
 | Sales | schr wenig |
-| Price | 20 $ |
-| Rarity (Lexikon) | 9 |
+| Price when new | $20 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (15)
 

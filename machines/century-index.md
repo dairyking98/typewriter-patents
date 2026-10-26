@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1889
 maker: "Hall Type Writer Co"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
-characters: "100 Zeichen"
+characters: "100"
 patents: 1
 tags: ["machine"]
 ---
@@ -25,12 +26,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | 100 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 100 |
+| Strike | top strike |
 | Inking | ink roller |
-| Sales | sehr wenig |
-| Price | ca. 30/40 $ |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | about 30/$40 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

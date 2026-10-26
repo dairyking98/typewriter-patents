@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1920
 maker: "MAX SCHMID"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "65 Zeichen"
+characters: "65"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,19 +24,19 @@ tags: ["machine/index"]
 | Year | 1920 |
 | Maker | [MAX SCHMID](../companies/schmid.md) |
 | Designer | Firmeningenieure |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 65 Zeichen |
+| Characters | 65 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair few |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1890
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "72 Zeichen"
+characters: "72"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,17 +25,17 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
-| Characters | 72 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 72 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | kein Verkauf * |
-| Price | 100 $ geplant |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | $100 geplant |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

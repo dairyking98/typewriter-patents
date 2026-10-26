@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1971
 maker: "OLYMPIA BUEROMASCHINENWERKE A"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1971 |
 | Maker | [OLYMPIA BUEROMASCHINENWERKE A](../companies/olympia.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- c. 1971: portable. Production moved to Bugojno
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

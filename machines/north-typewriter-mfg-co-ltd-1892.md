@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1892
 maker: "North American Machine Comp"
 country: "England"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,17 +25,17 @@ tags: ["machine"]
 | Country | England |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 78 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 78 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | 400,- / +25,- Mk. |
-| Rarity (Lexikon) | 7-8 |
+| Sales | very few |
+| Price when new | 400 / +25 marks |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

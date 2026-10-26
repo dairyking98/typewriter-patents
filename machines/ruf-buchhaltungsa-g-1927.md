@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1927
 maker: "RUF BUCHHALTUNG AKT GES"
-country: "Schweiz"
+country: "Switzerland"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "92 Zeichen"
+characters: "92"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1927 |
 | Maker | [RUF BUCHHALTUNG AKT GES](../companies/ruf.md) |
 | Designer | (Hermes) |
-| Country | Schweiz |
+| Country | Switzerland |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 92 Zeichen |
+| Characters | 92 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | mäßig |
-| Price | ca. 650 sfr. |
-| Rarity (Lexikon) | 5-6 |
+| Sales | moderate |
+| Price when new | about 650 sfr. |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

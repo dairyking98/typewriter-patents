@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1896
 maker: "nicht fabrikmäßig ' hergestellt"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "none"
-characters: "? Zeichen"
+characters: "?"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,19 +24,19 @@ tags: ["machine/index"]
 | Year | 1896 |
 | Maker | nicht fabrikmäßig ' hergestellt |
 | Designer | H. Kochendörfer ' |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type plate |
-| Characters | ? Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ? |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein X |
+| Sales | not sold |
+| Price when new | kein X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

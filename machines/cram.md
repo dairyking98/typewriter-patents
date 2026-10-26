@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1906
 maker: "Cram Writing Machien Comp"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "51 Zeichen"
+characters: "51"
 patents: 0
 tags: ["machine"]
 ---
@@ -25,16 +26,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | 51 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 51 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
 | Sales | wahrscheinl. wenig |
-| Rarity (Lexikon) | 9 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1918
 maker: "Molle Typewriter Co"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "QWERTY-type keyboard"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,13 +23,13 @@ tags: ["machine"]
 | Designer | [Molle, John E](../people/molle-j.md), [Bay, S](../people/bay-s.md) |
 | Country | USA |
 | Selection | QWERTY-type keyboard |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht sehr gut |
-| Price | 50 $ |
-| Rarity (Lexikon) | 3-4 |
+| Sales | not very good |
+| Price when new | $50 |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (6)
 

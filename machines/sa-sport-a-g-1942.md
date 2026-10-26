@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1942
 maker: "SA Sport A.G"
-country: "Schweiz"
+country: "Switzerland"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,20 +21,20 @@ tags: ["machine"]
 |---|---|
 | Year | 1942 |
 | Maker | [SA Sport A.G](../companies/sport.md) |
-| Country | Schweiz |
+| Country | Switzerland |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | mittel - mäßig |
-| Price | ca. 200 / 220 sfr. |
-| Rarity (Lexikon) | 6-7 |
+| Sales | moderate modest |
+| Price when new | about 200 / 220 sfr. |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1952
 maker: "SCHREIBMASCHINENFABRIK AUGSBUR"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "same"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1952 |
 | Maker | [SCHREIBMASCHINENFABRIK AUGSBUR](../companies/schreibmaschinenfabrik.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | same |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1952-: same. Rounded light-metal casing detachable by simple hand grips for cleaning
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

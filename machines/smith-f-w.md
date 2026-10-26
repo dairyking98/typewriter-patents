@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1891
 maker: "nicht fabrikmäßig hergestellt"
 country: "England"
 index_machine: true
 selection: "index"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 shift: "none"
-characters: "47 Zeichen"
+characters: "47"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -25,15 +26,15 @@ tags: ["machine/index"]
 | Country | England |
 | Selection | index |
 | Type carrier | type disc |
-| Characters | 47 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 47 |
+| Strike | top strike |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein X |
+| Sales | not sold |
+| Price when new | kein X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

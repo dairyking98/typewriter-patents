@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1927
 maker: "TRIUMPH WERKE NUERNBERG AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1927 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
 | Designer | [Grützmann, Heinr](../people/grutzmann-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | große Stückzahlen |
-| Price | ca. 380,- / 400,- Mk. |
-| Rarity (Lexikon) | 3 |
+| Sales | large numbers |
+| Price when new | about 380 / 400 marks |
+| Rarity (Lexikon's scale) | 3 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1927: typebar standard. Set tab, automatic ribbon reverse, better shift lock, lighter key touch, seven platen widths from 24 to 78 cm, stamped parts; 30 machines a day; about 400 marks. Same as Adler 31.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

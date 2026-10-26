@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1920
 maker: "Commercial Visible Typewriter Co"
 country: "China"
@@ -9,7 +10,7 @@ carrier: "individual type"
 strike: "front strike"
 inking: "ribbon"
 shift: "none"
-characters: "2.500 Zeichen"
+characters: "2.500"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine/index"]
 | Country | China |
 | Selection | index |
 | Type carrier | individual type |
-| Characters | 2.500 Zeichen |
+| Characters | 2.500 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | nicht sehr viel |
-| Price | 240 $ |
-| Rarity (Lexikon) | 9 |
+| Sales | not very many |
+| Price when new | $240 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

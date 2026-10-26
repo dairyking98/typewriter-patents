@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1894
 index_machine: false
 patents: 0
@@ -16,7 +17,7 @@ tags: ["machine"]
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1908
 maker: "Yost Writing Machine Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ink pad"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 10
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ink pad |
 | Shift | single shift |
-| Sales | sehr viel |
-| Price | 525,- Mk. |
-| Rarity (Lexikon) | 4 |
+| Sales | very many |
+| Price when new | 525 marks |
+| Rarity (Lexikon's scale) | 4 |
 
 ## Patents (13)
 

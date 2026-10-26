@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1898
 maker: "SCHREIBMASCHINENFABRIK AUGSBUR"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar basket, blind (under-strike)"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1898 |
 | Maker | [SCHREIBMASCHINENFABRIK AUGSBUR](../companies/schreibmaschinenfabrik.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar basket, blind (under-strike) |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1898-c. 1900: typebar basket, blind (under-strike). US Jewett (Geo. A. Jewett, first model 1892), similar to Smith Premier; hinged carriage that tips up to read the line; 76 or 80 keys, full keyboard, no shift (separate upper/lower-case keys)
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1888
 maker: "Boston Type Writer Company"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,12 +27,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | extrem wenig |
-| Rarity (Lexikon) | 9 |
+| Sales | extremely few |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (1)
 

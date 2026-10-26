@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "A.G. vorm. Frister & Rossmann"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [A.G. vorm. Frister & Rossmann](../companies/frister.md) |
 | Designer | [Kraudzun, Franz](../people/kraudzun-f.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | große Stückzahlen |
-| Price | 210,- Mk. |
-| Rarity (Lexikon) | 2-3 |
+| Sales | large numbers |
+| Price when new | 210 marks |
+| Rarity (Lexikon's scale) | 2-3 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

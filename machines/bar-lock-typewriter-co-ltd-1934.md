@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1934
 maker: "Bar-Lock Typewriter Comp. Ltd"
 country: "England"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | England |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | ca. £ 26 |
-| Rarity (Lexikon) | 3-4 |
+| Sales | sold well |
+| Price when new | about £ 26 |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (2)
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "Titania Schreibmaschinen Gesellschaft m. b. H"
 index_machine: false
@@ -8,7 +9,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,16 +23,16 @@ tags: ["machine"]
 | Designer | [Schliephack, Emil](../people/schliephack-e.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Price | 420,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Price when new | 420 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

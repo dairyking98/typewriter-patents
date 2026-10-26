@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1908
 maker: "American Typewriter Co"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,13 +23,13 @@ tags: ["machine"]
 | Designer | [Marshman](../people/marshman.md), [Burridge, Lee S](../people/burridge-l.md) |
 | Country | USA |
 | Selection | QWERTY-type keyboard |
-| Characters | 81 Zeichen |
-| Strike | understrike |
+| Characters | 81 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht sehr viel |
-| Price | 35 $/50$ |
-| Rarity (Lexikon) | 5 |
+| Sales | not very many |
+| Price when new | $35/$50 |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (21)
 

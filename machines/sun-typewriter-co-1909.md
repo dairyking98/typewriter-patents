@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1909
 maker: "Sun Typewriter Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | wenig |
-| Price | ca. 350,- Mk. |
-| Rarity (Lexikon) | 6 7 * |
+| Sales | few |
+| Price when new | about 350 marks |
+| Rarity (Lexikon's scale) | 6 7 * |
 
 ## Patents (22)
 

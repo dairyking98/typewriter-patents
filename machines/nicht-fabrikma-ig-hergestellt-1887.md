@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1887
 maker: "nicht fabrikmäßig hergestellt"
 country: "England"
@@ -8,7 +9,7 @@ selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "typebar"
 inking: "ink roller"
 shift: "none"
-characters: "42 Zeichen"
+characters: "42"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | England |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
-| Characters | 42 Zeichen |
+| Characters | 42 |
 | Inking | ink roller |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (8)
 

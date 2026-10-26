@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1938
 maker: "WEILWERKE A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "92 Zeichen"
+characters: "92"
 patents: 2
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1938 |
 | Maker | [WEILWERKE A G](../companies/weil.md) |
 | Designer | [Winterling, Carl](../people/winterling-c.md), [Etheridge, Herbert](../people/etheridge-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 92 Zeichen |
+| Characters | 92 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | große Stückzahlen |
-| Price | ca. 360,- Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | large numbers |
+| Price when new | about 360 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (6)
 

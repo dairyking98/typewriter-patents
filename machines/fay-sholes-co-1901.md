@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1901
 maker: "Fay-Sholes Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "single shift"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 86 Zeichen |
-| Strike | understrike |
+| Characters | 86 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | mittlerer Verkauf |
-| Price | 460,- Mk. |
-| Rarity (Lexikon) | 5-6 |
+| Sales | moderate sales |
+| Price when new | 460 marks |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (12)
 

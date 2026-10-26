@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1923
 maker: "Tell Schreibmaschinen G.m.b.H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [Tell Schreibmaschinen G.m.b.H](../companies/tell.md) |
 | Designer | [Kraudzun, Franz](../people/kraudzun-f.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Price | unter 200,- Mk. * |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | unter 200 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (1)
 

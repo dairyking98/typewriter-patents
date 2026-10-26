@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1912
 maker: "Bernh. Stoewer A.G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1912 |
 | Maker | [Bernh. Stoewer A.G](../companies/bernh.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1912-1926: typebar portable. 3 rows, 30 keys, double shift; ~20,000 (1,000/yr 1913-14 and 1919-21, 4,000/yr 1922-23); 245-322.50 M depending on case
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

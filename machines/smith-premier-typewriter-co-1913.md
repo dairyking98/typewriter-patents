@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "Smith Premier Typewriter Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "none"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | mittel |
-| Price | ca. 130/150 $ |
-| Rarity (Lexikon) | 6 7 * |
+| Sales | moderate |
+| Price when new | about 130/$150 |
+| Rarity (Lexikon's scale) | 6 7 * |
 
 ## Patents (63)
 

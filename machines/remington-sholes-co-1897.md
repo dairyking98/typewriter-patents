@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1897
 maker: "Remington Typewriter Comp"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "QWERTY-type keyboard"
 carrier: "typebar"
 inking: "ribbon"
 shift: "single shift"
-characters: "76 Zeichen"
+characters: "76"
 patents: 8
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 76 Zeichen |
+| Characters | 76 |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | mittel |
-| Price | 97.50 $ |
-| Rarity (Lexikon) | 7-8 |
+| Sales | moderate |
+| Price when new | $97.50 |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (11)
 

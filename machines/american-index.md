@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1893
 maker: "American Typewriter Co"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "index"
 carrier: "type ring"
 strike: "front strike"
 inking: "ink roller"
-characters: "71/73 Zeichen"
+characters: "71/73"
 patents: 1
 tags: ["machine/index"]
 ---
@@ -25,12 +26,12 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type ring |
-| Characters | 71/73 Zeichen |
+| Characters | 71/73 |
 | Strike | front strike |
 | Inking | ink roller |
-| Sales | nicht ganz wenig |
-| Price | 5 $, 45,- / 60,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair few |
+| Price when new | $5, 45 / 60 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (1)
 

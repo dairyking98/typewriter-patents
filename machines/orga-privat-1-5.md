@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1923
 maker: "BING WERKE VORM GEBR BING A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [BING WERKE VORM GEBR BING A G](../companies/bing.md) |
 | Designer | [Reischl, Ludwig](../people/reischl-l.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | 210,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | sold well |
+| Price when new | 210 marks |
+| Rarity (Lexikon's scale) | 4-5 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1923-27: typebar. Steel frame; price 210, later 195, 165, 155, 135 RM; Privat 3 1926 ad 155 RM
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

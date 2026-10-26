@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1901
 maker: "Sun Typewriter Co"
-country: "USA + Deutschl."
+country: "USA + Deutschl"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1901 |
 | Maker | [Sun Typewriter Co](../companies/sun.md) |
 | Designer | [Burridge, Lee S](../people/burridge-l.md) |
-| Country | USA + Deutschl. |
+| Country | USA + Deutschl |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 81 Zeichen |
+| Characters | 81 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | double shift |
 | Sales | schlecht + gut |
-| Price | 40 $, 250,- Mk.(2) |
-| Rarity (Lexikon) | 5 |
+| Price when new | $40, 250 marks(2) |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (18)
 

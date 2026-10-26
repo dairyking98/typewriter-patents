@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1935
 maker: "CLEMENS MUELLER AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "% Zeichen"
+characters: "%"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,19 +22,19 @@ tags: ["machine"]
 | Year | 1935 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
 | Designer | [Schweitzer, Heinr](../people/schweitzer-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | % Zeichen |
+| Characters | % |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | zufriedenstellend |
-| Price | 306,- Mk. |
+| Sales | satisfactory |
+| Price when new | 306 marks |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

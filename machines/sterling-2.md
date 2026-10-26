@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1912
 maker: "Sterling Typewriter Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type shuttle"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 2
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type shuttle |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Price | ca. 50 $ |
-| Rarity (Lexikon) | 8-9 |
+| Sales | very few |
+| Price when new | about $50 |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (8)
 

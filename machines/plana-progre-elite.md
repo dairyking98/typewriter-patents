@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1946
 maker: "VEB Optima Büromasch.werk"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1946 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1946-48: typebar portable. Plana in two versions, with and without tabulator
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

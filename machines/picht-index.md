@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1907
 maker: "Oskar Picht / Herde & Wendt"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
 strike: "front strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine/index"]
 | Year | 1907 |
 | Maker | [Oskar Picht / Herde & Wendt](../companies/picht.md) |
 | Designer | [Picht, Oskar](../people/picht-o.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | nicht ganz wenig |
-| Price | 48,- / 65,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair few |
+| Price when new | 48 / 65 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

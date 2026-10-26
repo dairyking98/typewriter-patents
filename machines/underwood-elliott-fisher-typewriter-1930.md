@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1930
 maker: "Underwood Typewriter Comp"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "QWERTY-type keyboard"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,17 +23,17 @@ tags: ["machine"]
 | Designer | (Rem.-Noiseless) |
 | Country | USA |
 | Selection | QWERTY-type keyboard |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | 460,- Mk |
-| Rarity (Lexikon) | 4-5 |
+| Sales | sold well |
+| Price when new | 460 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1949
 maker: "Gossen & Co G M B H P"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, flat portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1949 |
 | Maker | [Gossen & Co G M B H P](../companies/gossen.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, flat portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1949-56: typebar, flat portable. Under 6 cm tall (5.7 cm), 4 kg, about 30 x 28 cm. Normal platen and levers, low key travel, "Universalschaltring", quiet carriage return, 6 clear carbons. Colours: wine red, light grey, cyclamen, ivory (also sand colour or black). Available in nearly all languages. Own briefcase with a typing compartment
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

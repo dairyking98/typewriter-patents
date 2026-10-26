@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1949
 maker: "RHEINMETALL BORSIG AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "invoicing"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1949 |
 | Maker | [RHEINMETALL BORSIG AKT GES](../companies/rheinmetall.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | invoicing |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1949: invoicing. first electromechanical invoicing automaton
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

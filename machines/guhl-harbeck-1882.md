@@ -1,13 +1,14 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1882
 maker: "Guhl & Harbeck"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
-strike: "upstrike / top strike"
+strike: "top strike"
 shift: "none"
-characters: "45 Zeichen"
+characters: "45"
 patents: 0
 tags: ["machine"]
 ---
@@ -19,14 +20,14 @@ tags: ["machine"]
 | Year | 1882 |
 | Maker | [Guhl & Harbeck](../companies/guhl.md) |
 | Designer | [Hansen, Andrew P](../people/hansen-a.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
-| Characters | 45 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 45 |
+| Strike | top strike |
 | Shift | none |
-| Sales | sehr wenig |
-| Price | 45,- / 60,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | 45 / 60 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (1)
 

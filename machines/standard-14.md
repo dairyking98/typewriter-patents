@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1948
 maker: "TRIUMPH WERKE NUERNBERG AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "standard"
 patents: 0
@@ -17,12 +18,17 @@ tags: ["machine"]
 |---|---|
 | Year | 1948 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | standard |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1948: standard. Postwar version of the 12. "Buma" bookkeeping version from 1949/50.
+- 1949: typebar. simple correspondence machine, no tabulator
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

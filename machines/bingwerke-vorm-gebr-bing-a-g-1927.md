@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1927
 maker: "BING WERKE VORM GEBR BING A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "70 Zeichen"
+characters: "70"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,20 +21,20 @@ tags: ["machine"]
 |---|---|
 | Year | 1927 |
 | Maker | [BING WERKE VORM GEBR BING A G](../companies/bing.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 70 Zeichen |
+| Characters | 70 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | £ 3. 19s. 6d. |
-| Rarity (Lexikon) | 3 |
+| Sales | a fair few |
+| Price when new | £ 3. 19s. 6d. |
+| Rarity (Lexikon's scale) | 3 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

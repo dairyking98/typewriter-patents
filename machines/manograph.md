@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1906
 maker: "Manograph Company"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type band"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "39 Zeichen"
+characters: "39"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,20 +23,20 @@ tags: ["machine"]
 |---|---|
 | Year | 1906 |
 | Maker | [Manograph Company](../companies/manograph.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type band |
-| Characters | 39 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 39 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht viel |
-| Price | 20,- Mk.,5 $ |
-| Rarity (Lexikon) | 9 |
+| Sales | not many |
+| Price when new | 20 marks,$5 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

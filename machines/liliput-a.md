@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1907
 maker: "Justin Wm. Bamberger & Co"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,20 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | [Justin Wm. Bamberger & Co](../companies/justin.md) |
 | Designer | [Bamberger, J. W](../people/bamberger-j.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type disc |
-| Characters | 86 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 86 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht viel |
-| Price | 18,50 bis 45,- Mk. |
-| Rarity (Lexikon) | 7-8 |
+| Sales | not many |
+| Price when new | 18,50 to 45 marks |
+| Rarity (Lexikon's scale) | 7-8 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1907-09: type wheel. 18.50 M announced, then 25/28 M (1907), 38/45 M (1908).
 
 ## Patents (1)
 

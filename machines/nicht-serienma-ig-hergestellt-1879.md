@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1879
 maker: "nicht serienmäßig hergestellt"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 shift: "none"
-characters: "40 Zeichen ?"
+characters: "40?"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,11 +24,11 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 40 Zeichen ? |
-| Strike | understrike |
+| Characters | 40? |
+| Strike | understrike (blind) |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
+| Sales | not sold |
+| Price when new | none listed |
 
 ## Patents (1)
 

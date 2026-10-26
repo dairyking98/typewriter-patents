@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1886
 maker: "Emest Enjalbert"
-country: "Frankreich"
+country: "France"
 index_machine: true
 selection: "index"
 carrier: "type band"
 strike: "front strike"
 inking: "ink roller"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -22,19 +23,19 @@ tags: ["machine/index"]
 | Year | 1886 |
 | Maker | [Emest Enjalbert](../companies/enjalbert.md) |
 | Designer | [Enjalbert, Emest](../people/enjalbert-e.md) |
-| Country | Frankreich |
+| Country | France |
 | Selection | index |
 | Type carrier | type band |
-| Characters | 78 Zeichen |
+| Characters | 78 |
 | Strike | front strike |
 | Inking | ink roller |
 | Sales | nur sehr mäßig Pre s |
-| Price | 180 Fr. |
-| Rarity (Lexikon) | 8 |
+| Price when new | 180 Fr. |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

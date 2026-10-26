@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1905
 maker: "WEILWERKE A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, front strike, visible"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1905 |
 | Maker | [WEILWERKE A G](../companies/weil.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, front strike, visible |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1905-06: typebar, front strike, visible. Voelker design; reworked by Wasem; model "1"
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1926
 maker: "MERCEDES BUEROMASCHINEN WERKE"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "% Zeichen"
+characters: "%"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [MERCEDES BUEROMASCHINEN WERKE](../companies/mercedes.md) |
 | Designer | [Schlüns, Carl](../people/schluns-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | % Zeichen |
+| Characters | % |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr große |
-| Price | 420,- Mk.* |
-| Rarity (Lexikon) | 3_ |
+| Sales | very large |
+| Price when new | 420 marks |
+| Rarity (Lexikon's scale) | 3_ |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

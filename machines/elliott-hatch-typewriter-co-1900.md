@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1900
 maker: "Elliott-Fisher Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "80 Zeichen"
+characters: "80"
 patents: 1
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 80 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 80 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | 575,- bis 700,- Mk. |
-| Rarity (Lexikon) | 8 - 9 |
+| Sales | a fair few |
+| Price when new | 575 to 700 marks |
+| Rarity (Lexikon's scale) | 8 - 9 |
 
 ## Patents (4)
 

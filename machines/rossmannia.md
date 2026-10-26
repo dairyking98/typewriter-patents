@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1914
 maker: "A.G. vorm. Frister & Rossmann"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, four-row, prototype"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1914 |
 | Maker | [A.G. vorm. Frister & Rossmann](../companies/frister.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, four-row, prototype |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1914: typebar, four-row, prototype. Copied the Royal's lever mechanism and look; no series.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

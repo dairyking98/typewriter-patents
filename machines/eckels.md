@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1892
 maker: "wahrscheinl. nicht in Serie produziert"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "none"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,16 +27,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | type wheel |
-| Characters | 86 Zeichen |
+| Characters | 86 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | none |
 | Sales | wahrscheinl. nicht Pre;'s |
-| Price | kein * |
+| Price when new | none listed |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

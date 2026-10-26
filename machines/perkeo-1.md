@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1912
 maker: "CLEMENS MUELLER AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1912 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
 | Designer | (Albus) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 78 Zeichen |
+| Characters | 78 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | wenig |
-| Price | 220,- Mk. |
-| Rarity (Lexikon) | 7-8 |
+| Sales | few |
+| Price when new | 220 marks |
+| Rarity (Lexikon's scale) | 7-8 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1912-14: typebar, folding portable, 3-row. 2.6 kg; rear part folds forward to fit a small case; about 800 made
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

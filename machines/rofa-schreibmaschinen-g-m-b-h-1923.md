@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1923
 maker: "Rofa Schreibmaschinen G.m.b.H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [Rofa Schreibmaschinen G.m.b.H](../companies/rofa.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 90 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
 | Sales | nicht wenig P.zis |
-| Price | 250,- Mk. |
-| Rarity (Lexikon) | 5 3-4 |
+| Price when new | 250 marks |
+| Rarity (Lexikon's scale) | 5 3-4 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1910
 maker: "R.Ingersoll & Bros"
 index_machine: true
@@ -8,7 +9,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ink roller"
 shift: "none"
-characters: "ca. 48 Zeichen"
+characters: "ca. 48"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,15 +24,15 @@ tags: ["machine/index"]
 | Maker | [R.Ingersoll & Bros](../companies/ingersoll.md) |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | ca. 48 Zeichen |
+| Characters | ca. 48 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | none |
-| Price | 25,- Mk. |
+| Price when new | 25 marks |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

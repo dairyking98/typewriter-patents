@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1900
 maker: "Columbia Typewriter Mfg. Co"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 78 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 78 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | guter Verkauf |
-| Price | 100$(10), 120$(';) |
-| Rarity (Lexikon) | 4 |
+| Sales | sold well |
+| Price when new | $100(10), $120(';) |
+| Rarity (Lexikon's scale) | 4 |
 
 ## Patents (49)
 

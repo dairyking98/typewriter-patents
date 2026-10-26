@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1911
 maker: "Maschinenfabrik G.F. Grosser"
-country: "Österreich"
+country: "Austria"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "93 Zeichen"
+characters: "93"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1911 |
 | Maker | [Maschinenfabrik G.F. Grosser](../companies/maschinenfabrik.md) |
 | Designer | [Endemann, Ing](../people/endemann-i.md) |
-| Country | Österreich |
+| Country | Austria |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 93 Zeichen |
+| Characters | 93 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | äußerst gering |
-| Price | 250,- Mk. - |
-| Rarity (Lexikon) | 9 |
+| Sales | extremely small |
+| Price when new | 250 marks - |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

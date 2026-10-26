@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1907
 maker: "Rose Typewriter Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 81 Zeichen |
+| Characters | 81 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | gute Verkäufe |
-| Price | 50 $, 275,- Mk |
-| Rarity (Lexikon) | 3 |
+| Sales | good sales |
+| Price when new | $50, 275 marks |
+| Rarity (Lexikon's scale) | 3 |
 
 ## Patents (1)
 

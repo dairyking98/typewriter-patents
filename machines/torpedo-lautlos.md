@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1933
 maker: "WEILWERKE A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, quiet"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1933 |
 | Maker | [WEILWERKE A G](../companies/weil.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, quiet |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1933: typebar, quiet. Remington Noiseless 8 mechanism in Torpedo housing
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

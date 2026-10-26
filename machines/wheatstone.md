@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1856
 maker: "nicht fabrikmäßig hergestellt"
 country: "England"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type segment"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "single shift"
-characters: "56 Zeichen *"
+characters: "56"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine"]
 | Country | England |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type segment |
-| Characters | 56 Zeichen * |
-| Strike | upstrike / top strike |
+| Characters | 56 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | single shift |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

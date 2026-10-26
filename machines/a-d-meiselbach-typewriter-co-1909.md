@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1909
 maker: "A. D. Meiselbach Typewriter Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "76 Zeichen"
+characters: "76"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 76 Zeichen |
+| Characters | 76 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | ca. 60 $ |
-| Rarity (Lexikon) | 7-8 |
+| Sales | very few |
+| Price when new | about $60 |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (1)
 

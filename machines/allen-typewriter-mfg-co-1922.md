@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1922
 maker: "Allen Typewriter Mfg. Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "87 Zeichen"
+characters: "87"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 87 Zeichen |
+| Characters | 87 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht sehr viel |
-| Price | 50 $ |
-| Rarity (Lexikon) | 5 |
+| Sales | not very many |
+| Price when new | $50 |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (15)
 

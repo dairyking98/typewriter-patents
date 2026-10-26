@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1896
 maker: "Simplex Typewr. Co"
-country: "USA, Frankreich"
+country: "USA, France"
 index_machine: true
 selection: "index"
 carrier: "type ring"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "none"
-characters: "71 Zeichen"
+characters: "71"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine/index"]
 | Year | 1896 |
 | Maker | [Simplex Typewr. Co](../companies/simplex.md) |
 | Designer | A.M.English u.a.* |
-| Country | USA, Frankreich |
+| Country | USA, France |
 | Selection | index |
 | Type carrier | type ring |
-| Characters | 71 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 71 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | nicht ganz wenig |
-| Price | 36 Frs. |
-| Rarity (Lexikon) | 5 |
+| Sales | a fair few |
+| Price when new | 36 Frs. |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

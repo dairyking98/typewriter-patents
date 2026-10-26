@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1909
 maker: "Dt.-Am. Masch.- fabrik vorm. G. Krebs"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,20 +24,24 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Dt.-Am. Masch.- fabrik vorm. G. Krebs](../companies/dt.md) |
 | Designer | [Bamberg, J. W](../people/bamberg-j.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type disc |
-| Characters | 90 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 90 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | single shift |
-| Sales | nicht viel |
-| Price | 58,- Mk. |
-| Rarity (Lexikon) | 8-9 |
+| Sales | not many |
+| Price when new | 58 marks |
+| Rarity (Lexikon's scale) | 8-9 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1909: type wheel. 58 M; 4-5 carbon copies; interchangeable wheels for every language and typeface.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

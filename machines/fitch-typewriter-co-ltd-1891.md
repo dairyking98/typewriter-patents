@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1891
 maker: "Fitch Typewriter Comp"
 country: "England"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | England |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
-| Characters | 81 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 81 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | nur sehr wenig |
-| Price | £ 14. / 250,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | only very few |
+| Price when new | £ 14. / 250 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

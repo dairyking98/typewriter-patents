@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1876
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type segment"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "ca. 32 Zeichen"
+characters: "ca. 32"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type segment |
-| Characters | ca. 32 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ca. 32 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein Verkaufspreis |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | no sale price |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

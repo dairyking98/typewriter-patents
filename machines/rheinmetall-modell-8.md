@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1920
 maker: "RHEINMETALL BORSIG AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, front strike"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1920 |
 | Maker | [RHEINMETALL BORSIG AKT GES](../companies/rheinmetall.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, front strike |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1920/21-: typebar, front strike. Schweitzer design; removable shift lock (herausnehmbares Schaltschloss); 900 built 1921, 2,700 by 1925; praised as robust
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

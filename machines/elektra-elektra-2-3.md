@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1921
 maker: "MERCEDES BUEROMASCHINEN WERKE"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "electric typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1921 |
 | Maker | [MERCEDES BUEROMASCHINEN WERKE](../companies/mercedes.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | electric typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1921 / 1927 / 1933: electric typebar. Light key touch releases the typebar; motor does the strike.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

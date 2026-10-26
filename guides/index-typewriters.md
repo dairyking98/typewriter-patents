@@ -126,7 +126,7 @@ There are three basic ways to bring type and paper together.
 
 On most cheap machines your own hand provides the force ([IMP:press-through](../features/imp-press-through.md)), so the impression is only as even as your touch. Better machines use a separate print lever ([IMP:print-lever](../features/imp-print-lever.md)).
 
-The Lexikon records the direction of the blow too: 61 of the 90 index machines are listed as upstrike or top strike, 22 strike from the front, and only 2 strike from below.
+The Lexikon records the direction of the blow too: 61 of the 90 index machines are listed as top strike (the type comes down onto the paper), 22 strike from the front, and only 2 strike from below.
 
 ## How they inked
 
@@ -200,7 +200,7 @@ For a decade-by-decade list, see the [Timeline](../views/timeline.md).
 | Kleinschreibmaschine * | Small or portable typewriter ([DE577948](../patents/DE577948.md)) |
 | Kinderschreibmaschine | Children's typewriter |
 | Zeichen | Characters; the Lexikon gives each machine's count as "84 Zeichen" |
-| Aufschlag, Oberaufschlag, Vorderaufschlag | Strike; upstrike; front strike |
+| Aufschlag, Oberaufschlag, Vorderaufschlag, Unteraufschlag | Strike; top strike (down onto the platen); front strike; understrike (up to its underside, blind) |
 
 ## Where to go next
 

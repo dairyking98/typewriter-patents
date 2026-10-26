@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1915
 maker: "Atlas Typewriter Co"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "87 Zeichen"
+characters: "87"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 87 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 87 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
 | Sales | sehr wenig P.:is |
-| Price | 50 $ |
-| Rarity (Lexikon) | 8-9 |
+| Price when new | $50 |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (19)
 

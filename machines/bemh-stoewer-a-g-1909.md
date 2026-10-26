@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1909
 maker: "Bemh. Stoewer A.G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Bemh. Stoewer A.G](../companies/bemh.md) |
 | Designer | [Grützmann, Paul](../people/grutzmann-p.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
 | Sales | ca.95.000 Exempl. |
-| Price | 380,- / 400,- Mk. |
-| Rarity (Lexikon) | 2 |
+| Price when new | 380 / 400 marks |
+| Rarity (Lexikon's scale) | 2 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

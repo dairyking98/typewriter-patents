@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1887
 maker: "Typograph Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "92 Zeichen"
+characters: "92"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 92 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 92 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | äußerst gering |
-| Price | ca. 100$ * |
-| Rarity (Lexikon) | 9 |
+| Sales | extremely small |
+| Price when new | about $100 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (5)
 

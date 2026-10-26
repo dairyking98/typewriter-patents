@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 maker: "Oliver Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "type bow"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "96 Zeichen"
+characters: "96"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,17 +25,17 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type bow |
-| Characters | 96 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 96 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht wenig |
-| Price | ca. 500,- Mk. |
-| Rarity (Lexikon) | 4 |
+| Sales | a fair number |
+| Price when new | about 500 marks |
+| Rarity (Lexikon's scale) | 4 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

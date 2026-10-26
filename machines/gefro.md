@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1924
 maker: "GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "same"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1924 |
 | Maker | [GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER](../companies/gundka.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | same |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1924: same. Mail-order version, 30 M, up to 4 carbons
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

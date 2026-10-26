@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1898
 maker: "Shimer ) Typewriter Co. *"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "single shift"
-characters: "ca. 76 Zeichen"
+characters: "ca. 76"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | ca. 76 Zeichen |
-| Strike | understrike |
+| Characters | ca. 76 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | extrem wenig |
-| Price | ca. 100 $ |
-| Rarity (Lexikon) | 9 |
+| Sales | extremely few |
+| Price when new | about $100 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (18)
 

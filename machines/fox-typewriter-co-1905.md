@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1905
 maker: "Fox Machine Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "single shift"
-characters: "76/92 Zeichen"
+characters: "76/92"
 patents: 1
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 76/92 Zeichen |
-| Strike | understrike |
+| Characters | 76/92 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht sehr viel |
-| Price | 100 $, 350,- Mk. |
-| Rarity (Lexikon) | 7-8 |
+| Sales | not very many |
+| Price when new | $100, 350 marks |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (4)
 

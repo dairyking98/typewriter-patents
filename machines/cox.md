@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1860
 maker: "nicht fabrikmäßig hergestellt"
 country: "England"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "? Zeichen"
+characters: "?"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine/index"]
 | Country | England |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | ? Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ? |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein Prei |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | kein Prei |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

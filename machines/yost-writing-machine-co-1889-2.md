@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1889
 maker: "Yost Writing Machine Comp"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ink pad"
 shift: "none"
-characters: "78 Zeichen"
+characters: "78"
 patents: 1
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 78 Zeichen |
-| Strike | understrike |
+| Characters | 78 |
+| Strike | understrike (blind) |
 | Inking | ink pad |
 | Shift | none |
-| Sales | nicht so viel |
-| Price | ca. 110 $ |
-| Rarity (Lexikon) | 6 |
+| Sales | not so many |
+| Price when new | about $110 |
+| Rarity (Lexikon's scale) | 6 |
 
 ## Patents (15)
 

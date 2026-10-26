@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1922
 maker: "Schreibm.industrie Glashütte GmbH"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, visible writing"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1922 |
 | Maker | [Schreibm.industrie Glashütte GmbH](../companies/industrie.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, visible writing |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1922-1924: typebar, visible writing. 45 keys; same design as the Usapax; levers without intermediate levers or intermediate-lever bearings ("ohne Zwischenhebel und Zwischenhebellager"); carriage tips up for cleaning; interchangeable carriage (longer platen available at once); automatic type cleaning while writing; automatic ribbon reverse; shift and carriage return operable from both sides; special line-spacer for any spacing; rack with scale for margin/column stops at the front; widened paper guide
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

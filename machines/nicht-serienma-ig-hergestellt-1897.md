@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1897
 maker: "nicht serienmäßig hergestellt"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "none"
-characters: "108 Zeichen"
+characters: "108"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1897 |
 | Maker | nicht serienmäßig hergestellt |
 | Designer | [Brackelsberg, E. W](../people/brackelsberg-e.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 108 Zeichen |
+| Characters | 108 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (2)
 

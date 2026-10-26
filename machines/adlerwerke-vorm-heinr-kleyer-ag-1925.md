@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1925
 maker: "ADLERWERKE KLEYER AG H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "92 Zeichen"
+characters: "92"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,19 @@ tags: ["machine"]
 | Year | 1925 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
-| Characters | 92 Zeichen |
+| Characters | 92 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | 420,- Mk. |
-| Rarity (Lexikon) | 3 _ |
+| Sales | sold well |
+| Price when new | 420 marks |
+| Rarity (Lexikon's scale) | 3 _ |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

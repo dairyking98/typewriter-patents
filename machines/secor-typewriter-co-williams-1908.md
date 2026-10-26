@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1908
 maker: "Secor Typewriter Comp"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 2
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Shift | single shift |
 | Sales | wenig (ca. 2.500) |
-| Price | 250,- DM |
-| Rarity (Lexikon) | 6- 7 |
+| Price when new | 250 D marks |
+| Rarity (Lexikon's scale) | 6- 7 |
 
 ## Patents (22)
 

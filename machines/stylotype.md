@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1934
 maker: "Stylotyp Kleinmaschinen GmbH"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [Stylotyp Kleinmaschinen GmbH](../companies/stylotyp.md) |
 | Designer | [Unger, Alfred A](../people/unger-a.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | ganz wenig |
-| Price | 55,- / 60,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | quite few |
+| Price when new | 55 / 60 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

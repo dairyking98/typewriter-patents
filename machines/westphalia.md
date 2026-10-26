@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1884
 maker: "Emst Wilhelm Brackelsberg &Co"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "linear type rule"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "carbon paper"
 shift: "none"
-characters: "86/87 Zeichen"
+characters: "86/87"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine/index"]
 | Year | 1884 |
 | Maker | [Emst Wilhelm Brackelsberg &Co](../companies/brackelsberg.md) |
 | Designer | [Brackelsberg, E. W](../people/brackelsberg-e.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | linear type rule |
-| Characters | 86/87 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 86/87 |
+| Strike | top strike |
 | Inking | carbon paper |
 | Shift | none |
-| Sales | sehr wenig |
-| Price | 300,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | 300 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (1)
 

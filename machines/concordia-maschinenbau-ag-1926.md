@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1926
 maker: "Concordia Maschinenbau AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "92 Zeichen"
+characters: "92"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [Concordia Maschinenbau AG](../companies/concordia.md) |
 | Designer | [Schliephack](../people/schliephack.md), [Herlt](../people/herlt.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 92 Zeichen |
+| Characters | 92 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | 420,- Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | a fair few |
+| Price when new | 420 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (1)
 

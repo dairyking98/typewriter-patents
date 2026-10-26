@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1895
 maker: "C. F. Kindermann & Co"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
-characters: "72 Zeichen"
+characters: "72"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,19 +23,19 @@ tags: ["machine"]
 | Year | 1895 |
 | Maker | [C. F. Kindermann & Co](../companies/kindermann.md) |
 | Designer | [Kindermann, C. F](../people/kindermann-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type plate |
-| Characters | 72 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 72 |
+| Strike | top strike |
 | Inking | ink pad |
 | Sales | kleine Stückzahlen |
-| Price | 75/55/38 ‚- Mk. |
-| Rarity (Lexikon) | 8 |
+| Price when new | 75/55/38 ‚- marks |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

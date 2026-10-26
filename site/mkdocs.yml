@@ -1,8 +1,8 @@
 # Static site for this repo (generated; don't edit here).
 # The pages live at the repo root, so site/build.sh copies them into _docs/ first (MkDocs can't use its own folder).
-site_name: "Index typewriters: patents and machines"
+site_name: "Typewriters & Patents"
 site_url: https://leonardchau.com/typewriter-patents/
-site_description: A browsable library of historical typewriter patents and machines, with a focus on index typewriters.
+site_description: A browsable library of historical typewriters and typewriter patents (US 1829-1951, German 1877-1950), with a focus on index typewriters.
 repo_url: https://github.com/dairyking98/typewriter-patents
 edit_uri: ""
 docs_dir: ../_docs
@@ -39,6 +39,9 @@ markdown_extensions:
       permalink: true
 extra_css:
   - extra.css
+  - assets/timeline.css
+extra_javascript:
+  - assets/timeline.js
 validation:
   nav:
     omitted_files: ignore
@@ -50,14 +53,21 @@ nav:
   - Home: README.md
   - Guides:
       - guides/README.md
-      - What is an index typewriter?: guides/index-typewriters.md
-      - How index machines work: guides/how-index-machines-work.md
-      - Timeline of important features: guides/timeline-of-features.md
-      - German index typewriters: guides/german-index-typewriters.md
+      - The master timeline: guides/master-timeline.md
+      - Typebar typewriters: guides/typebar-typewriters.md
+      - Type-element typewriters: guides/type-element-typewriters.md
+      - Index machines:
+          - What is an index typewriter?: guides/index-typewriters.md
+          - How index machines work: guides/how-index-machines-work.md
+          - Index-machine features: guides/timeline-of-features.md
+          - German index typewriters: guides/german-index-typewriters.md
+  - Timelines:
+      - Timeline browser: explore/timeline.md
+      - Typewriter features: views/typewriter-features.md
+      - Decade by decade: views/timeline.md
   - Views:
       - Index machines: views/index-machines.md
       - Mechanisms: views/mechanisms.md
-      - Timeline: views/timeline.md
       - Inventors: views/inventors.md
       - Selection: views/sel.md
       - Type element: views/elem.md

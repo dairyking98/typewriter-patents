@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1885
 maker: "Herrington Pocket Typewriter Co"
-country: "USA (New York)"
+country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "46 Zeichen"
+characters: "46"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine/index"]
 | Year | 1885 |
 | Maker | Herrington Pocket Typewriter Co |
 | Designer | [Herrington](../people/herrington.md), [Millison](../people/millison.md) |
-| Country | USA (New York) |
+| Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 46 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 46 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht ganz wenig |
-| Price | 5 $ |
-| Rarity (Lexikon) | 8-9 |
+| Sales | a fair few |
+| Price when new | $5 |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (1)
 

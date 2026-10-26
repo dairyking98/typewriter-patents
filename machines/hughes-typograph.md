@@ -1,13 +1,14 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1850
 maker: "Eigenbau (bzw. in kleiner Werkstatt)"
 country: "USA"
 index_machine: true
 selection: "index"
-strike: "upstrike / top strike"
+strike: "top strike"
 shift: "none"
-characters: "34 Zeichen"
+characters: "34"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine/index"]
 | Designer | [Hughes, William](../people/hughes-w.md) |
 | Country | USA |
 | Selection | index |
-| Characters | 34 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 34 |
+| Strike | top strike |
 | Shift | none |
-| Sales | einige Exemplare |
-| Price | unbekannt |
-| Rarity (Lexikon) | 9 |
+| Sales | a few made |
+| Price when new | unknown |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

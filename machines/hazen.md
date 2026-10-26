@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1898
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "66 Zeichen"
+characters: "66"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,16 +27,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | 66 Zeichen |
+| Characters | 66 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | kein Verkauf |
-| Price | kein X XX |
+| Sales | not sold |
+| Price when new | kein X XX |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1897
 maker: "Remington Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "single shift"
-characters: "86 Zeichen"
+characters: "86"
 patents: 8
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 86 Zeichen |
-| Strike | understrike |
+| Characters | 86 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | mittel |
-| Price | 100 $ |
-| Rarity (Lexikon) | 7-8 |
+| Sales | moderate |
+| Price when new | $100 |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (11)
 

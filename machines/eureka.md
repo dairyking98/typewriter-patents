@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1896
 maker: "World Type Writer Comp"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "ca. 40 Zeichen"
+characters: "ca. 40"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -25,17 +26,17 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | ca. 40 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ca. 40 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht sehr viel * |
-| Price | 2$ |
-| Rarity (Lexikon) | 8 |
+| Sales | not very many |
+| Price when new | $2 |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

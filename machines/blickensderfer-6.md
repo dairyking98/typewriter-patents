@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1910
 maker: "Blickensderfer Manufacturing Comp"
 country: "USA"
 index_machine: false
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Designer | [Blickensderfer, George C](../people/blickensderfer-g.md) |
 | Country | USA |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | große Stückzahlen |
-| Price | 200,- Mk. |
-| Rarity (Lexikon) | 3 |
+| Sales | large numbers |
+| Price when new | 200 marks |
+| Rarity (Lexikon's scale) | 3 |
 
 ## Patents (15)
 

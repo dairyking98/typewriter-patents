@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1910
 maker: "Nova Maschinenbauu. Vertriebs-GmbH"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1910 |
 | Maker | [Nova Maschinenbauu. Vertriebs-GmbH](../companies/nova.md) |
 | Designer | [Burridge, Lee S](../people/burridge-l.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 81 Zeichen |
+| Characters | 81 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | nicht sehr viel |
-| Price | ?40,- Mk. |
-| Rarity (Lexikon) | 7-8 |
+| Sales | not very many |
+| Price when new | ?40 marks |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (22)
 

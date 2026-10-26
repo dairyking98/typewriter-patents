@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1956
 maker: "Gossen & Co G M B H P"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "same"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1956 |
 | Maker | [Gossen & Co G M B H P](../companies/gossen.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | same |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1956: same. Bonny 345 DM; Pilot with "Stechwalze" and double ribbon and Lady in ivory with light briefcase: 395 DM each
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

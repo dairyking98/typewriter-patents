@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1919
 maker: "Rooy Sa"
-country: "Frankreich"
+country: "France"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine/index"]
 | Year | 1919 |
 | Maker | [Rooy Sa](../companies/rooy.md) |
 | Designer | (Nachbau Mignon) |
-| Country | Frankreich |
+| Country | France |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | guter Verkauf |
-| Price | ca. 100,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | sold well |
+| Price when new | about 100 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

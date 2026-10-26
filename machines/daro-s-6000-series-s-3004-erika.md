@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1970
 maker: "VEB Optima Büromasch.werk"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "electromechanical, electronic"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1970 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | electromechanical, electronic |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1970s-87: electromechanical, electronic. 
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1907
 maker: "L. C. Smith and Bros. Typewriter Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84/76 Zeichen"
+characters: "84/76"
 patents: 16
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84/76 Zeichen |
+| Characters | 84/76 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | 110 $, 600,- Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | sold well |
+| Price when new | $110, 600 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (28)
 

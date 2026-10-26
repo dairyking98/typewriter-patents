@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1892
 maker: "Parish Manufactoring Co"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "none"
-characters: "73 Zeichen"
+characters: "73"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,12 +25,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 73 Zeichen |
-| Strike | understrike |
+| Characters | 73 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | none |
-| Sales | sehr wenig |
-| Price | ca. 120 $ |
+| Sales | very few |
+| Price when new | about $120 |
 
 ## Patents (11)
 

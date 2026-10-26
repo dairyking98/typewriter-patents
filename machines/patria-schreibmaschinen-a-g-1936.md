@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1936
 maker: "Patria Schreibmaschinen A.G"
-country: "Schweiz"
+country: "Switzerland"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,15 +22,15 @@ tags: ["machine"]
 | Year | 1936 |
 | Maker | [Patria Schreibmaschinen A.G](../companies/patria.md) |
 | Designer | [Haas, Otto](../people/haas-o.md), [Wasem, Hermann](../people/wasem-h.md) |
-| Country | Schweiz |
+| Country | Switzerland |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht wenig |
-| Price | 245 sfr. |
+| Sales | a fair number |
+| Price when new | 245 sfr. |
 
 ## Patents (4)
 

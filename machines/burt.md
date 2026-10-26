@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1829
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type segment"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "? Zeichen"
+characters: "?"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type segment |
-| Characters | ? Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ? |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | single shift |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (1)
 

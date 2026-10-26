@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1914
 maker: "Virotyp Co"
-country: "Frankreich"
+country: "France"
 index_machine: true
 selection: "index"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
-characters: "92 Zeichen"
+characters: "92"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -22,15 +23,15 @@ tags: ["machine/index"]
 | Year | 1914 |
 | Maker | [Virotyp Co](../companies/virotyp.md) |
 | Designer | [Viry, Henry](../people/viry-h.md) |
-| Country | Frankreich |
+| Country | France |
 | Selection | index |
 | Type carrier | type disc |
-| Characters | 92 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 92 |
+| Strike | top strike |
 | Inking | ink roller |
-| Sales | nicht viel |
-| Price | ca. 55 Frs. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | not many |
+| Price when new | about 55 Frs. |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (1)
 

@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1864
 maker: "nicht fabrikmäßig hergestellt"
-country: "Tirol (Partschins"
+country: "Austria (Tyrol)"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 shift: "none"
-characters: "28 Zeichen"
+characters: "28"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,19 @@ tags: ["machine"]
 | Year | 1864 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Mitterhofer, Peter](../people/mitterhofer-p.md) |
-| Country | Tirol (Partschins |
+| Country | Austria (Tyrol) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
-| Characters | 28 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 28 |
+| Strike | top strike |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

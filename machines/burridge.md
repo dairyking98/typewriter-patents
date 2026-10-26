@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1897
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type rail"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type rail |
-| Characters | 81 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 81 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (10)
 

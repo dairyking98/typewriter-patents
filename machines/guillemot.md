@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1859
 maker: "nicht fabrikmäßig hergestellt"
-country: "Frankreich"
+country: "France"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 shift: "none"
-characters: "3x ca. 26"
+characters: "3 × ca. 26"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,19 +23,19 @@ tags: ["machine"]
 | Year | 1859 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Guillemot, Charles](../people/guillemot-c.md) |
-| Country | Frankreich |
+| Country | France |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
-| Characters | 3x ca. 26 |
-| Strike | upstrike / top strike |
+| Characters | 3 × ca. 26 |
+| Strike | top strike |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

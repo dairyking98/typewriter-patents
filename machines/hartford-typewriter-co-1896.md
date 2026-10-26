@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1896
 maker: "Hartford Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
-characters: "75 Zeichen"
+characters: "75"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 75 Zeichen |
-| Strike | understrike |
+| Characters | 75 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
-| Sales | sehr mäßig |
-| Price | 50 / 60 $, 350 Mk. |
-| Rarity (Lexikon) | 7-8 |
+| Sales | very modest |
+| Price when new | 50 / $60, 350 marks |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (16)
 

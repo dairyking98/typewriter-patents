@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1912
 maker: "Corona Typewriter Comp. Inc"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 22
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | große Stückzahlen |
-| Price | 50 $, 225,- Mk. |
-| Rarity (Lexikon) | I |
+| Sales | large numbers |
+| Price when new | $50, 225 marks |
+| Rarity (Lexikon's scale) | I |
 
 ## Patents (33)
 

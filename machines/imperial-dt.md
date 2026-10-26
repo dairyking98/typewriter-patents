@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1900
 maker: "NH. Kochendörfer"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Year | 1900 |
 | Maker | [NH. Kochendörfer](../companies/nh.md) |
 | Designer | [Kochendörfer, H](../people/kochendorfer-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
 | Sales | nur wenige Exempl |
-| Price | 250,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Price when new | 250 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (1)
 

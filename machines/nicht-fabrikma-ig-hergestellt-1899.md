@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1899
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "typebar"
 strike: "front strike"
 shift: "single shift"
-characters: "76 Zeichen *"
+characters: "76"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
-| Characters | 76 Zeichen * |
+| Characters | 76 |
 | Strike | front strike |
 | Shift | single shift |
-| Sales | kein Verkauf |
-| Price | kein Verkaufspreis |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | no sale price |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (1)
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1885
 maker: "Messrs Egry Ltd"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
-characters: "44 Zeichen"
+characters: "44"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
-| Characters | 44 Zeichen |
+| Characters | 44 |
 | Strike | front strike |
 | Inking | ribbon |
-| Sales | extrem wenig |
-| Price | 40 $ |
-| Rarity (Lexikon) | X |
+| Sales | extremely few |
+| Price when new | $40 |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

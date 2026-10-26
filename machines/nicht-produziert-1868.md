@@ -1,13 +1,14 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1868
 maker: "nicht produziert"
 country: "USA"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
-strike: "understrike"
+strike: "understrike (blind)"
 shift: "none"
-characters: "22 Zeichen"
+characters: "22"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Designer | [Sholes](../people/sholes.md), [Glidden](../people/glidden.md) |
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
-| Characters | 22 Zeichen |
-| Strike | understrike |
+| Characters | 22 |
+| Strike | understrike (blind) |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

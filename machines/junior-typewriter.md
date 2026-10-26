@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1935
 maker: "Louis Marx Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ink roller"
 shift: "none"
-characters: "40 Zeichen *"
+characters: "40"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,16 +27,16 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 40 Zeichen * |
+| Characters | 40 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht ganz wenig |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair few |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

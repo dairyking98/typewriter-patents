@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1907
 maker: "Justin Wm. Bamberger & Co"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "86 Zeichen *"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | [Justin Wm. Bamberger & Co](../companies/justin.md) |
 | Designer | [Bamberger, J. W](../people/bamberger-j.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type disc |
-| Characters | 86 Zeichen * |
-| Strike | upstrike / top strike |
+| Characters | 86 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht viel |
-| Price | 8,75 / 9,75 Mk |
-| Rarity (Lexikon) | 8-8 |
+| Sales | not many |
+| Price when new | 8,75 / 9,75 marks |
+| Rarity (Lexikon's scale) | 8-8 |
 
 ## Patents (1)
 

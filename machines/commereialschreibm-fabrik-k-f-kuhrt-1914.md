@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1914
 maker: "CommereialSchreibm.-Fabrik K.F. Kührt"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | [CommereialSchreibm.-Fabrik K.F. Kührt](../companies/commereialschreibm.md) |
 | Designer | [Kührt, Karl F](../people/kuhrt-k.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 86 Zeichen |
+| Characters | 86 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | wenig |
-| Price | 275,- Mk. |
-| Rarity (Lexikon) | 5-6 |
+| Sales | few |
+| Price when new | 275 marks |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

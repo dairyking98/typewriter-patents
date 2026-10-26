@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1904
 maker: "Dt.-Am. Masch.- fabrik vorm. G. Krebs"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar (thrust-swing)"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1904 |
 | Maker | [Dt.-Am. Masch.- fabrik vorm. G. Krebs](../companies/dt.md) |
 | Designer | [Grützmann, Paul](../people/grutzmann-p.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar (thrust-swing) |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht sehr gut |
-| Price | 350,- Mk. |
-| Rarity (Lexikon) | 7 |
+| Sales | not very good |
+| Price when new | 350 marks |
+| Rarity (Lexikon's scale) | 7 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

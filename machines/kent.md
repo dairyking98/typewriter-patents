@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1892
 maker: "Kent Writing Machine Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ink roller"
 shift: "none"
-characters: "72 Zeichen"
+characters: "72"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,16 +27,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | type wheel |
-| Characters | 72 Zeichen |
+| Characters | 72 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | kein Verkauf * |
-| Price | kein |
+| Sales | not sold |
+| Price when new | none listed |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

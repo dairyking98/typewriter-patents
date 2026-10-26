@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1955
 maker: "VEB Optima Büromasch.werk"
-country: "DDR"
+country: "East Germany"
 index_machine: true
 selection: "index"
 carrier: "individual type"
 strike: "front strike"
 inking: "ink roller"
 shift: "none"
-characters: "ca. 3000 Zeichen"
+characters: "ca. 3000"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,19 +24,19 @@ tags: ["machine/index"]
 | Year | 1955 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
 | Designer | Firmeningenieure |
-| Country | DDR |
+| Country | East Germany |
 | Selection | index |
 | Type carrier | individual type |
-| Characters | ca. 3000 Zeichen |
+| Characters | ca. 3000 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht wenig |
-| Rarity (Lexikon) | 7-8 |
+| Sales | a fair number |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

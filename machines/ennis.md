@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1901
 maker: "Electric Typewriter Comp. Inc"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "ca. 80 Zeichen"
+characters: "ca. 80"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | ca. 80 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ca. 80 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | single shift |
-| Sales | kein Verkauf |
-| Price | 100 $ ‚geplant) |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | $100 ‚geplant) |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (2)
 

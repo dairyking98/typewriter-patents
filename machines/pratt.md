@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1863
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type plate"
 strike: "front strike"
 shift: "none"
-characters: "36 Zeichen"
+characters: "36"
 patents: 0
 tags: ["machine"]
 ---
@@ -25,16 +26,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type plate |
-| Characters | 36 Zeichen |
+| Characters | 36 |
 | Strike | front strike |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

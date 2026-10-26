@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1896
 maker: "Franklin Typewriter Co"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "80/84 Zeichen"
+characters: "80/84"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 80/84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 80/84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht wenig |
-| Price | 200,- Mk. |
-| Rarity (Lexikon) | 6-7 |
+| Sales | a fair number |
+| Price when new | 200 marks |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (8)
 

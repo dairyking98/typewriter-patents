@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1919
 maker: "CLEMENS MUELLER AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, bookkeeping"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1919 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, bookkeeping |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1919: typebar, bookkeeping. first German machine with counters
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

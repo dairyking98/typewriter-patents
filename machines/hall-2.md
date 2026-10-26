@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1887
 maker: "Hall Type Writer Co"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -25,12 +26,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type plate |
-| Characters | 81 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 81 |
+| Strike | top strike |
 | Inking | ink pad |
-| Sales | nicht wenig |
-| Price | 30 $, 125,- Mk. |
-| Rarity (Lexikon) | 5 |
+| Sales | a fair number |
+| Price when new | $30, 125 marks |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (2)
 

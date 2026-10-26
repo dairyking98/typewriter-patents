@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1907
 maker: "MERCEDES BUEROMASCHINEN WERKE"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, visible"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1907 |
 | Maker | [MERCEDES BUEROMASCHINEN WERKE](../companies/mercedes.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, visible |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1907: typebar, visible. Designer Schueler, Wagner-type typebar layout; flawed.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

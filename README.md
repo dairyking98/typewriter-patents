@@ -1,21 +1,26 @@
-# Index typewriters: patents and machines
+# Typewriters & Patents
 
-A browsable library of 10,201 typewriter patents (the US list 1829–1951 and German patents 1877–1950), 1,109 historical machines (from Dingwerth's *Lexikon historischer Schreibmaschinen*, facts only) and the mechanisms they use, with a focus on **index typewriters**. 1,910 patents were read and summarised.
+A browsable library of 10,201 typewriter patents (the US list 1829–1951 and German patents 1877–1950), 1,109 historical machines (from Dingwerth's *Lexikon historischer Schreibmaschinen*, facts only) and the mechanisms they use: typebar, type-element and index machines, with the most depth on **index typewriters**. 1,910 patents were read and summarised.
 
 Browse it here on GitHub, or clone it and open the folder as an [Obsidian](https://obsidian.md) vault (tags, backlinks, graph view, and live tables in `views/*.base`).
 
+## Timelines
+
+- [Timeline browser](explore/timeline.md): every dated machine by country (or all together), patents per year and when features appear; click a year to see what was made then (on the site)
+- [Typewriter features through time](views/typewriter-features.md): shift, ribbon, bell, margins, tabulator, backspace and more: when each appeared, when it became standard, and what survives today
+- [Decade by decade](views/timeline.md): mechanism features first seen, index machines, key patents
+
 ## Guides
 
-- [What is an index typewriter?](guides/index-typewriters.md): kinds, history and a glossary
-- [How index machines work](guides/how-index-machines-work.md): the mechanisms, subsystem by subsystem
-- [A timeline of important features](guides/timeline-of-features.md), 1829 to 1950
-- [German index typewriters, 1880–1950](guides/german-index-typewriters.md)
+- [The master timeline](guides/master-timeline.md): index, type-element and typebar machines together, era by era
+- [Typebar typewriters](guides/typebar-typewriters.md) · [Type-element typewriters](guides/type-element-typewriters.md)
+- Index machines: [What is an index typewriter?](guides/index-typewriters.md) · [How index machines work](guides/how-index-machines-work.md) · [Index-machine features](guides/timeline-of-features.md) · [German index typewriters](guides/german-index-typewriters.md)
+- [All guides](guides/README.md)
 
 ## Views
 
 - [Index machines](views/index-machines.md): the 90 index machines by type carrier, with their patents and mechanisms
 - [Mechanisms](views/mechanisms.md): 90 mechanism features by subsystem: how common, first seen, peak decade. By subsystem: [SEL](views/sel.md) · [ELEM](views/elem.md) · [SHIFT](views/shift.md) · [IMP](views/imp.md) · [INK](views/ink.md) · [ESC](views/esc.md) · [PAP](views/pap.md) · [FRM](views/frm.md) · [USE](views/use.md)
-- [Timeline](views/timeline.md): decade by decade, features first seen, index machines, key patents
 - [Inventors](views/inventors.md)
 
 ## Everything

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1931
 maker: "Fabrik in Ligov bei Leningrad"
-country: "Rußland"
+country: "Russia"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1931 |
 | Maker | [Fabrik in Ligov bei Leningrad](../companies/in.md) |
 | Designer | unbekannt |
-| Country | Rußland |
+| Country | Russia |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht wenig |
-| Price | sehr niedrig |
-| Rarity (Lexikon) | 8-9: . |
+| Sales | a fair number |
+| Price when new | sehr niedrig |
+| Rarity (Lexikon's scale) | 8-9: . |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

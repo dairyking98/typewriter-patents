@@ -1,4 +1,4 @@
-# A timeline of important features
+# A timeline of index-machine features
 
 This page follows, era by era from 1829 to 1950, the inventions that shaped the index typewriter: how the character was chosen, held in place, shifted between cases, printed, inked and spaced, and how the type element itself was made. Each entry gives the patent, what it did and what came after it, and a table at the end sums up when each feature first appears in this library and when it was most common.
 

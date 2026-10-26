@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1902
 maker: "AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "index (pointer)"
@@ -18,9 +19,13 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1902 |
 | Maker | [AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies](../companies/aeg.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | index (pointer) |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1902: index (pointer). Metal type cylinder set by a pointer moved over a character field; based on Sell's DRP 149308; prototype
 
 ## Patents (1)
 

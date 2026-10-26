@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1872
 maker: "noch nicht fabrikmäßig produziert"
 country: "USA"
 index_machine: false
 selection: "early keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 shift: "none"
-characters: "43 Zeichen"
+characters: "43"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Country | USA |
 | Selection | early keyboard |
 | Type carrier | typebar |
-| Characters | 43 Zeichen |
-| Strike | understrike |
+| Characters | 43 |
+| Strike | understrike (blind) |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

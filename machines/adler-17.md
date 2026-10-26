@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "ADLERWERKE KLEYER AG H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "push-bar, 4 rows"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1913 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | push-bar, 4 rows |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1913: push-bar, 4 rows. 184 characters (doubled), single shift.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

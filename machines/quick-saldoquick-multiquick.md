@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1953
 maker: "Siemag Siegener Maschb Akt Ges"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typewriter-accounting"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1953 |
 | Maker | [Siemag Siegener Maschb Akt Ges](../companies/siemag.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typewriter-accounting |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1953: typewriter-accounting. typewriter plus attached accounting unit; relay wiring from Zuse
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1889
 maker: "Waverley Typewriter Co. Lid"
 country: "England"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "single shift"
-characters: "80 Zeichen"
+characters: "80"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,17 +25,17 @@ tags: ["machine"]
 | Country | England |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 80 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 80 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | single shift |
-| Sales | nur sehr gering |
-| Price | £ 22. 10s. |
-| Rarity (Lexikon) | 9 |
+| Sales | only very small |
+| Price when new | £ 22. 10s. |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

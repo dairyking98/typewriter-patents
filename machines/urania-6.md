@@ -1,15 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1926
 maker: "CLEMENS MUELLER AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "Zeichen"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +21,23 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
 | Designer | Firmeningenieure |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | Zeichen |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | relativ wenig |
-| Price | ca. 450,-/480,- Mk. |
-| Rarity (Lexikon) | 6-7* |
+| Sales | relatively few |
+| Price when new | about 450 /480 marks |
+| Rarity (Lexikon's scale) | 6-7* |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1926: typebar. 45 keys; Simplex version with one-colour ribbon and single shift
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

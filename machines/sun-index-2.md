@@ -1,12 +1,13 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1887
 maker: "Sun Typewriter Co"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type bar (straight)"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 patents: 0
 tags: ["machine"]
@@ -24,15 +25,15 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type bar (straight) |
-| Strike | upstrike / top strike |
+| Strike | top strike |
 | Inking | ink roller |
-| Sales | sehr wenig |
-| Price | 12$ |
-| Rarity (Lexikon) | 8 |
+| Sales | very few |
+| Price when new | $12 |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

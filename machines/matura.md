@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1950
 maker: "TRIUMPH WERKE NUERNBERG AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1950 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1950: typebar. New design, patented typebar drive; breakthrough. Variants: Matura R (1954, electromechanical carriage drive), Matura electric (1956), electric L (1957), electric S (1958).
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

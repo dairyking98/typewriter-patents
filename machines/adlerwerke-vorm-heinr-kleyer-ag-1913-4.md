@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "ADLERWERKE KLEYER AG H"
-country: "Deutschland Verkauf. kein Verkauf"
+country: "Germany"
 index_machine: false
 carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,14 +21,14 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
-| Country | Deutschland Verkauf. kein Verkauf |
+| Country | Germany |
 | Type carrier | push-rod typebars |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (13)
 

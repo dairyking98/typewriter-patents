@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "CLEMENS MUELLER AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,23 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
 | Designer | [Schweitzer, Heinr](../people/schweitzer-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Price | 380,- Mk. |
-| Rarity (Lexikon) | 4 - 5 * |
+| Sales | sold well |
+| Price when new | 380 marks |
+| Rarity (Lexikon's scale) | 4 - 5 * |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1913: typebar. 44 keys, automatic ribbon reverse, platen-release knob
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

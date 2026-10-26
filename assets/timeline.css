@@ -1,0 +1,52 @@
+/* Timeline browser and features chart (assets/timeline.js). Colours: the reference palette's first three categorical
+   slots (validated all-pairs in both modes) for USA / Germany / England, grey for other countries, and a one-hue blue
+   ramp for the feature heat cells; dark mode has its own steps. */
+:root {
+  --tl-s1: #2a78d6; --tl-s2: #eb6834; --tl-s3: #1baf7a; --tl-other: #a3a29c; --tl-neutral: #6b6a66;
+  --tl-q1: #b7d3f6; --tl-q2: #86b6ef; --tl-q3: #5598e7; --tl-q4: #2a78d6; --tl-q5: #1c5cab; --tl-q6: #104281;
+  --tl-empty: #f1f0ed; --tl-ink: #0b0b0b; --tl-ink-2: #52514e; --tl-grid: #e6e5e1; --tl-surface: #ffffff;
+}
+[data-md-color-scheme="slate"] {
+  --tl-s1: #3987e5; --tl-s2: #d95926; --tl-s3: #199e70; --tl-other: #6f6e69; --tl-neutral: #a9a89f;
+  --tl-q1: #184f95; --tl-q2: #1c5cab; --tl-q3: #256abf; --tl-q4: #3987e5; --tl-q5: #6da7ec; --tl-q6: #9ec5f4;
+  --tl-empty: #2a2c33; --tl-ink: #f0efec; --tl-ink-2: #c3c2b7; --tl-grid: #343640; --tl-surface: #1e2129;
+}
+.tl-browser, .tl-features { margin: 1rem 0 1.5rem; font-size: .72rem; color: var(--tl-ink); }
+.tl-controls { display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; margin-bottom: .6rem; align-items: center; }
+.tl-group { display: flex; align-items: center; gap: .3rem; flex-wrap: wrap; }
+.tl-label { color: var(--tl-ink-2); margin-right: .2rem; }
+.tl-seg { font: inherit; padding: .2rem .6rem; border: 1px solid var(--tl-grid); background: transparent; color: var(--tl-ink);
+  border-radius: 999px; cursor: pointer; }
+.tl-seg[aria-pressed="true"] { background: var(--tl-ink); color: var(--tl-surface); border-color: var(--tl-ink); }
+.tl-seg:focus-visible, .tl-feat:focus-visible { outline: 2px solid var(--tl-s1); outline-offset: 2px; }
+.tl-year { width: 4.6em; font: inherit; padding: .15rem .3rem; border: 1px solid var(--tl-grid); border-radius: 6px;
+  background: transparent; color: var(--tl-ink); }
+.tl-legend { display: flex; flex-wrap: wrap; gap: .4rem 1rem; color: var(--tl-ink-2); margin-bottom: .3rem; }
+.tl-key { display: inline-flex; align-items: center; gap: .35rem; color: var(--tl-ink); }
+.tl-swatch { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.tl-chart { width: 100%; overflow: hidden; }
+.tl-chart svg, .tl-features svg { display: block; max-width: 100%; }
+.tl-grid line { stroke: var(--tl-grid); stroke-width: 1; }
+.tl-baseline { stroke: var(--tl-grid); stroke-width: 1; }
+.tl-axis { fill: var(--tl-ink-2); font-size: 11px; }
+.tl-lane-label, .tl-row-label { fill: var(--tl-ink); font-size: 11px; }
+.tl-feat-label { fill: var(--tl-ink-2); font-size: 10.5px; }
+.tl-more { fill: var(--tl-ink-2); font-size: 10px; }
+.tl-dot { stroke: var(--tl-surface); stroke-width: 1; cursor: pointer; }
+.tl-dot.tl-index { stroke: var(--tl-ink); stroke-width: 1.5; }
+.tl-dot:hover { stroke: var(--tl-ink); stroke-width: 2; }
+.tl-bar { cursor: default; }
+.tl-diamond { fill: var(--tl-ink); stroke: var(--tl-surface); stroke-width: 2; cursor: pointer; }
+.tl-standard { fill: none; stroke: var(--tl-s2); stroke-width: 2.5; }
+.tl-cell { stroke: none; }
+.tl-cross { stroke: var(--tl-ink-2); stroke-width: 1; stroke-dasharray: 2 3; pointer-events: none; }
+.tl-cross-label { fill: var(--tl-ink); font-size: 11px; font-weight: 600; pointer-events: none; }
+.tl-panel { border-top: 1px solid var(--tl-grid); margin-top: .5rem; padding-top: .4rem; }
+.tl-panel h3 { margin: .2rem 0 .3rem; }
+.tl-hint { color: var(--tl-ink-2); }
+.tl-tip { position: fixed; z-index: 1000; display: none; max-width: 300px; padding: .45rem .6rem; border-radius: 8px;
+  background: var(--tl-surface); color: var(--tl-ink); border: 1px solid var(--tl-grid); font-size: .68rem; line-height: 1.4;
+  box-shadow: 0 4px 16px rgba(0,0,0,.18); pointer-events: none; }
+.tl-features-legend { display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; color: var(--tl-ink-2); align-items: center; }
+.tl-ramp { display: inline-flex; gap: 2px; }
+.tl-ramp span { width: 14px; height: 12px; border-radius: 2px; display: inline-block; }

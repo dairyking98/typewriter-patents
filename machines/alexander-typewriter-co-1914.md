@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1914
 maker: "Alexander Typewriter Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,12 +25,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 86 Zeichen |
+| Characters | 86 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | äußerst wenig |
-| Rarity (Lexikon) | 9 |
+| Sales | extremely few |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (66)
 

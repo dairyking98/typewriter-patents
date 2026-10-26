@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1937
 maker: "ARCHO SCHREIBMASCHINEN COMPANY"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "132 Zeichen"
+characters: "132"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,15 +22,15 @@ tags: ["machine"]
 | Year | 1937 |
 | Maker | [ARCHO SCHREIBMASCHINEN COMPANY](../companies/archo.md) |
 | Designer | [Winterling, Carl](../people/winterling-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 132 Zeichen |
+| Characters | 132 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
 | Sales | nicht viel d‘:nals: ca. 400,-/500,- Mk. |
-| Rarity (Lexikon) | 6 - 7 |
+| Rarity (Lexikon's scale) | 6 - 7 |
 
 ## Patents (4)
 

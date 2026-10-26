@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1893
 maker: "Columbia Typewniter Mfg. Co"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 78 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 78 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | nicht ganz wenig |
-| Price | ca. 100 $ |
-| Rarity (Lexikon) | 6-7 |
+| Sales | a fair few |
+| Price when new | about $100 |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (36)
 

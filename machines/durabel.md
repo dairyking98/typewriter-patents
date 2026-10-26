@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1933
 maker: "TRIUMPH WERKE NUERNBERG AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "portable, stripped"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1933 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | portable, stripped |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1933: portable, stripped. Model 1 without two-colour switch and card holder: 186 marks.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

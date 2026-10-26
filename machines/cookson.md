@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1885
 maker: "wahrscheinlich nicht fabriziert"
 country: "England"
@@ -9,7 +10,7 @@ carrier: "type ring"
 strike: "front strike"
 inking: "ink pad"
 shift: "none"
-characters: "48 Zeichen"
+characters: "48"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine/index"]
 | Country | England |
 | Selection | index |
 | Type carrier | type ring |
-| Characters | 48 Zeichen |
+| Characters | 48 |
 | Strike | front strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | kein Verkauf * |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (1)
 

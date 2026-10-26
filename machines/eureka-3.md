@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1898
 maker: "Nähmasch.fabrik H. Kochendörfer"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
-characters: "76 Zeichen"
+characters: "76"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,19 +23,19 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [Nähmasch.fabrik H. Kochendörfer](../companies/nahmasch.md) |
 | Designer | [Kochendörfer, K. H](../people/kochendorfer-k.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type plate |
-| Characters | 76 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 76 |
+| Strike | top strike |
 | Inking | ink pad |
-| Sales | sehr wenig |
-| Price | 45,- Mk. |
-| Rarity (Lexikon) | 8 |
+| Sales | very few |
+| Price when new | 45 marks |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

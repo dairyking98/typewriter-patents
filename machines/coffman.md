@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1902
 maker: "Sears"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type band"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "39 Zeichen"
+characters: "39"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type band |
-| Characters | 39 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 39 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | sehr wenig |
-| Price | 3.99 $/5 s |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | $3.99/5 s |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

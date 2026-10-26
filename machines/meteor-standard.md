@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1922
 maker: "Sächsische Strickmaschinen-Fabrik \"Meteor\" / Vasanta Schreibund Strickmaschinenfabrik AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "push-rod (Stoßstangen) standard"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1922 |
 | Maker | [Sächsische Strickmaschinen-Fabrik "Meteor" / Vasanta Schreibund Strickmaschinenfabrik AG](../companies/sachsische.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | push-rod (Stoßstangen) standard |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1922: push-rod (Stoßstangen) standard. Prototype only, similar to Adler 7 / Archo
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

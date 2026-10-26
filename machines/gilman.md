@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1890
 maker: "Gilman Typewniter Co"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "ca. 52 Zeichen"
+characters: "ca. 52"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | ca. 52 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ca. 52 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | kein Verkauf * |
-| Price | 20 $ (geplant) |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | $20 (geplant) |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

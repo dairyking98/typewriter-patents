@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1914
 maker: "Smith Premier Typewriter Comp"
-country: "USA Verkauf. guter Verkauf"
+country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,14 +21,14 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | [Smith Premier Typewriter Comp](../companies/smith-premier.md) |
 | Designer | [Brown, Alexander T](../people/brown-a.md) |
-| Country | USA Verkauf. guter Verkauf |
+| Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
-| Price | 400,- Mk. |
-| Rarity (Lexikon) | 5 |
+| Price when new | 400 marks |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (62)
 

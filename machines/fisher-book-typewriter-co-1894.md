@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1894
 maker: "Fisher Book Typewriter Comp"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "80 Zeichen"
+characters: "80"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 80 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 80 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | kaum |
-| Price | 100 $ |
-| Rarity (Lexikon) | 9 |
+| Sales | hardly any |
+| Price when new | $100 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (8)
 

@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1910
 maker: "A.G. vorm. Frister & Rossmann"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, front strike"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1910 |
 | Maker | [A.G. vorm. Frister & Rossmann](../companies/frister.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, front strike |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1910-14: typebar, front strike. Royal Typewriter Co.; back-space key added in Berlin. Model 10 only briefly (1914).
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

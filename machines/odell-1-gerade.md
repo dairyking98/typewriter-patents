@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1887
 maker: "Odell Typewriter Co"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type bar (straight)"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "41 Zeichen"
+characters: "41"
 patents: 1
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type bar (straight) |
-| Characters | 41 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 41 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | ganz wenig |
-| Price | 15 $ |
-| Rarity (Lexikon) | 9 |
+| Sales | quite few |
+| Price when new | $15 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (3)
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1898
 maker: "SCHREIBMASCHINENFABRIK AUGSBUR"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "none"
-characters: "76 Zeichen"
+characters: "76"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [SCHREIBMASCHINENFABRIK AUGSBUR](../companies/schreibmaschinenfabrik.md) |
 | Designer | (Nachbau Jewett) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 76 Zeichen |
-| Strike | understrike |
+| Characters | 76 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | none |
-| Sales | nicht sehr viel |
-| Price | 450,- Mk. |
-| Rarity (Lexikon) | 7-8 |
+| Sales | not very many |
+| Price when new | 450 marks |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

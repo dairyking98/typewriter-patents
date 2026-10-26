@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 maker: "A. Schapiro"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine/index"]
 |---|---|
 | Maker | [A. Schapiro](../companies/schapiro.md) |
 | Designer | [Schapiro, A](../people/schapiro-a.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 90 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 90 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | 90,- Mk. |
-| Rarity (Lexikon) | X |
+| Sales | very few |
+| Price when new | 90 marks |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1898
 maker: "ADLERWERKE KLEYER AG H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,20 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | große Stückzahlen |
-| Price | 300,- / 350,- Mk. |
-| Rarity (Lexikon) | I |
+| Sales | large numbers |
+| Price when new | 300 / 350 marks |
+| Rarity (Lexikon's scale) | I |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1898-1930s: push-bar (Stoßstange). From the Kidder "Wellington"/"Empire". 300 gold marks. About 3,000 sold by 1901; over 250,000 by about 1930. Visible writing ("Sichtbare Schrift", ads).
 
 ## Patents (8)
 

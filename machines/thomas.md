@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1854
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
 index_machine: false
 selection: "single key"
 carrier: "type rods"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
-characters: "ca. 52 Zeichen"
+characters: "ca. 52"
 patents: 0
 tags: ["machine"]
 ---
@@ -25,12 +26,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | single key |
 | Type carrier | type rods |
-| Characters | ca. 52 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | ca. 52 |
+| Strike | top strike |
 | Inking | ink pad |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (1)
 

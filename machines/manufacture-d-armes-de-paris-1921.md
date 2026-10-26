@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1921
 maker: "Manufacture Franc. d’ Armes et Cycles"
-country: "Frankreich"
+country: "France"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Manufacture Franc. d’ Armes et Cycles](../companies/manufacture.md) |
 | Designer | [Ellis, Halcolm](../people/ellis-h.md) |
-| Country | Frankreich |
+| Country | France |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | 1.750 Fr. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair few |
+| Price when new | 1.750 Fr. |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (1)
 

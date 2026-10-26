@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1909
 maker: "Dt.-Am. Masch.- fabrik vorm. G. Krebs"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Dt.-Am. Masch.- fabrik vorm. G. Krebs](../companies/dt.md) |
 | Designer | [Kührt, Carl F](../people/kuhrt-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 86 Zeichen |
+| Characters | 86 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht viel |
-| Price | 270,- Mk. |
-| Rarity (Lexikon) | 8 - 9* |
+| Sales | not many |
+| Price when new | 270 marks |
+| Rarity (Lexikon's scale) | 8 - 9* |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

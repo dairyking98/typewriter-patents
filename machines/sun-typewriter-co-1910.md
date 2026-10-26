@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1910
 maker: "Sun Typewriter Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "102 Zeichen"
+characters: "102"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 102 Zeichen |
+| Characters | 102 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | mäßig |
-| Price | 65 $ |
-| Rarity (Lexikon) | 6 - 7 * |
+| Sales | moderate |
+| Price when new | $65 |
+| Rarity (Lexikon's scale) | 6 - 7 * |
 
 ## Patents (22)
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1930
 maker: "Ing. C. Olovetti & C"
-country: "Italien"
+country: "Italy"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1930 |
 | Maker | [Ing. C. Olovetti & C](../companies/ing.md) |
 | Designer | [Olivetti, Camillo](../people/olivetti-c.md) |
-| Country | Italien |
+| Country | Italy |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr gut |
-| Price | ca. 400,- Mk. |
-| Rarity (Lexikon) | 5 |
+| Sales | very good |
+| Price when new | about 400 marks |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

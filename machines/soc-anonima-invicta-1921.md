@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1921
 maker: "Soc. Anonima Invicta"
-country: "Italien"
+country: "Italy"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Soc. Anonima Invicta](../companies/soc.md) |
 | Designer | [Giachero, Gius](../people/giachero-g.md) |
-| Country | Italien |
+| Country | Italy |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | wenig |
-| Price | ca. 100 $ |
-| Rarity (Lexikon) | 7-8* |
+| Sales | few |
+| Price when new | about $100 |
+| Rarity (Lexikon's scale) | 7-8* |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

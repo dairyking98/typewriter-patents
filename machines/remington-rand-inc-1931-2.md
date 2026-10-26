@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1931
 maker: "Remington Typewriter Comp"
-country: "USA )"
+country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1931 |
 | Maker | [Remington Typewriter Comp](../companies/remington.md) |
 | Designer | Firmeningenieure |
-| Country | USA ) |
+| Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | zufriedenstellend |
-| Price | 67.50 $ |
-| Rarity (Lexikon) | 3-4 |
+| Sales | satisfactory |
+| Price when new | $67.50 |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

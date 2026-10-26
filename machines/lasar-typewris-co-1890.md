@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1890
 maker: "Lasar Typewris= Co"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "46 Zeichen"
+characters: "46"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 46 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 46 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X _ |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X _ |
 
 ## Patents (21)
 

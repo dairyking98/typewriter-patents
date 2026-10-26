@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1913
 maker: "Gustav Tietze A.G"
 index_machine: true
@@ -8,7 +9,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,17 +24,17 @@ tags: ["machine/index"]
 | Maker | [Gustav Tietze A.G](../companies/tietze.md) |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | nicht viel |
-| Price | 25,- bis 30,- Mk. |
-| Rarity (Lexikon) | 6-7 |
+| Sales | not many |
+| Price when new | 25 to 30 marks |
+| Rarity (Lexikon's scale) | 6-7 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

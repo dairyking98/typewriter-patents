@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1935
 maker: "ARCHO SCHREIBMASCHINEN COMPANY"
 index_machine: false
@@ -8,7 +9,7 @@ carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,13 +23,13 @@ tags: ["machine"]
 | Designer | [Winterling, Carl](../people/winterling-c.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht sehr viel |
-| Price | 315,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | not very many |
+| Price when new | 315 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (3)
 

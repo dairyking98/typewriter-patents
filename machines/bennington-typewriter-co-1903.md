@@ -1,12 +1,13 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1903
 maker: "Bennington Typewriter Co"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
 characters: "84 + 26 Wörter"
@@ -25,7 +26,7 @@ tags: ["machine"]
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 + 26 Wörter |
-| Strike | upstrike / top strike |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
 | Sales | fast nichts |

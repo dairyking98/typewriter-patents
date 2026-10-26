@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1936
 maker: "Franz Hübl"
-country: "Tschechoslowakei"
+country: "Czechoslovakia"
 index_machine: true
 selection: "index"
 carrier: "type cylinder"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine/index"]
 | Year | 1936 |
 | Maker | [Franz Hübl](../companies/hubl.md) |
 | Designer | [Hübl, Franz](../people/hubl-f.md) |
-| Country | Tschechoslowakei |
+| Country | Czechoslovakia |
 | Selection | index |
 | Type carrier | type cylinder |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | nicht wenig |
-| Price | 166360 Kc, 38,80 Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | a fair number |
+| Price when new | 166360 Kc, 38,80 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

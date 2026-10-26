@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1896
 maker: "R.Schade Schreibmaschinenfabrik"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "type rods"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [R.Schade Schreibmaschinenfabrik](../companies/schade.md) |
 | Designer | [Schade, Rudolf](../people/schade-r.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | full keyboard (one key per character) |
 | Type carrier | type rods |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
-| Sales | äußerst wenig |
-| Price | 250,- Mk. |
-| Rarity (Lexikon) | X |
+| Sales | extremely few |
+| Price when new | 250 marks |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (1)
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1894
 maker: "Liberty Mfg. Co"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "78 Zeichen"
+characters: "78"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type disc |
-| Characters | 78 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 78 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | ca.5 $ |
-| Rarity (Lexikon) | 8 |
+| Sales | very few |
+| Price when new | about $5 |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (2)
 

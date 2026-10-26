@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1933
 maker: "Odoma-Werk Eugen Eßwein"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1933 |
 | Maker | [Odoma-Werk Eugen Eßwein](../companies/odoma.md) |
 | Designer | [Wasem, Hermann](../people/wasem-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | ca. 400,- Mk. |
-| Rarity (Lexikon) | 6 |
+| Sales | a fair few |
+| Price when new | about 400 marks |
+| Rarity (Lexikon's scale) | 6 |
 
 ## Patents (7)
 

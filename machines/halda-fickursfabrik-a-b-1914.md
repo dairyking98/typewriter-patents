@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1914
 maker: "A.B. Halda Fabriker"
-country: "Schweden"
+country: "Sweden"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | [A.B. Halda Fabriker](../companies/halda.md) |
 | Designer | [Hammarlund, H](../people/hammarlund-h.md) |
-| Country | Schweden |
+| Country | Sweden |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht sehr viel |
-| Price | 525 skr. |
-| Rarity (Lexikon) | 7-8* |
+| Sales | not very many |
+| Price when new | 525 skr. |
+| Rarity (Lexikon's scale) | 7-8* |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

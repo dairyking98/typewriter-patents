@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1925
 maker: "BING WERKE VORM GEBR BING A G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "70 Zeichen"
+characters: "70"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,23 @@ tags: ["machine"]
 |---|---|
 | Year | 1925 |
 | Maker | [BING WERKE VORM GEBR BING A G](../companies/bing.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 70 Zeichen |
+| Characters | 70 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | 39,- Mk. 4-5 |
+| Sales | a fair few |
+| Price when new | 39 marks 4-5 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1925; ribbon version 1927: typebar, toy-class. Four-row keyboard, simple shift, steel type on bars, inked roll (Farbroellchen) easy to change; Mk 36; also sold as Amka, Beko, Berni, Student; an ad price of "108 Mk" is OCR-uncertain
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1881
 maker: "Crandall Type-Writer Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type cylinder"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type cylinder |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht sehr viel |
-| Price | 75 $, 300,- Mk. |
-| Rarity (Lexikon) | 7-8 |
+| Sales | not very many |
+| Price when new | $75, 300 marks |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (1)
 

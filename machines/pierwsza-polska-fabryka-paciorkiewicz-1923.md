@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1923
 maker: "Pierwsza polska Fabryka Paciorkiewicz"
-country: "... Polen"
+country: "Poland"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [Pierwsza polska Fabryka Paciorkiewicz](../companies/pierwsza.md) |
 | Designer | [Paciorkiewicz, W](../people/paciorkiewicz-w.md) |
-| Country | ... Polen |
+| Country | Poland |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
 | Sales | ganz wenig (300° |
-| Price | niedrig |
-| Rarity (Lexikon) | 9 |
+| Price when new | niedrig |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

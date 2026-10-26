@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1918
 maker: "Rex Typewriter Co"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "96 Zeichen"
+characters: "96"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 96 Zeichen |
+| Characters | 96 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht wenig |
-| Price | ca. 100 $ |
-| Rarity (Lexikon) | 5-6 |
+| Sales | a fair number |
+| Price when new | about $100 |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (5)
 

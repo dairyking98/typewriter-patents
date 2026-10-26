@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1905
 maker: "A.G. vorm. Frister & Rossmann"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, front-up strike"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1905 |
 | Maker | [A.G. vorm. Frister & Rossmann](../companies/frister.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, front-up strike |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1905-1910: typebar, front-up strike. American Sun Typewriter Co.; licensed assembly; German prices 250 M (model II) and 350 M (III) incl. case.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

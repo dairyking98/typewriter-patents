@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1890
 maker: "Typewriter Improvement Comp"
-country: "USA Verkauf. nicht ganz wenig"
+country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "none"
-characters: "77 Zeichen"
+characters: "77"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,14 +24,14 @@ tags: ["machine/index"]
 | Year | 1890 |
 | Maker | [Typewriter Improvement Comp](../companies/improvement.md) |
 | Designer | [Becker, John](../people/becker-j.md) |
-| Country | USA Verkauf. nicht ganz wenig |
+| Country | USA |
 | Selection | index |
 | Type carrier | type plate |
-| Characters | 77 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 77 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | none |
-| Price | 15 $, 75,- Mk. |
+| Price when new | $15, 75 marks |
 
 ## Patents (2)
 

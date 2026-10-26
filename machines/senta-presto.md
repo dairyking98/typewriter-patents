@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "A.G. vorm. Frister & Rossmann"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, three-row, double shift"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1913 |
 | Maker | [A.G. vorm. Frister & Rossmann](../companies/frister.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, three-row, double shift |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1913-1927: typebar, three-row, double shift. Franz Kraudzun; see engineering notes. About 40,000, serials to about 43,000.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

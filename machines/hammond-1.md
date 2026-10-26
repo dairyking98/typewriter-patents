@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1884
 maker: "Hammond Typewriter Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type shuttle"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type shuttle |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | guter Verkauf |
-| Price | 100 $, 450,- Mk. |
-| Rarity (Lexikon) | 5 |
+| Sales | sold well |
+| Price when new | $100, 450 marks |
+| Rarity (Lexikon's scale) | 5 |
 
 ## Patents (7)
 

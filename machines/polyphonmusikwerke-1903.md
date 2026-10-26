@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1903
 maker: "PolyphonMusikwerke"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "102 Zeichen"
+characters: "102"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,19 @@ tags: ["machine"]
 | Year | 1903 |
 | Maker | [PolyphonMusikwerke](../companies/polyphonmusik.md) |
 | Designer | [Rießner, Paul](../people/rie-ner-p.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar |
-| Characters | 102 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 102 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Price | 300,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | 300 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

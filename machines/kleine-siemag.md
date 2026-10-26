@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1955
 maker: "Siemag Siegener Maschb Akt Ges"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "small typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1955 |
 | Maker | [Siemag Siegener Maschb Akt Ges](../companies/siemag.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | small typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1955: small typebar. frame, cover and type segment (Segment) of hard pressed material (Hartpressstoff)
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

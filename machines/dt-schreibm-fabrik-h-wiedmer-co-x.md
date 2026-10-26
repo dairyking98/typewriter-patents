@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 maker: "Dt.-Am. Masch.- fabrik vorm. G. Krebs"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "72 Zeichen"
+characters: "72"
 patents: 0
 tags: ["machine"]
 ---
@@ -19,20 +20,20 @@ tags: ["machine"]
 |---|---|
 | Maker | [Dt.-Am. Masch.- fabrik vorm. G. Krebs](../companies/dt.md) |
 | Designer | [Wiedmer, Hermann](../people/wiedmer-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 72 Zeichen |
+| Characters | 72 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | äußerst wenig |
-| Price | „ |
-| Rarity (Lexikon) | 9 |
+| Sales | extremely few |
+| Price when new | „ |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

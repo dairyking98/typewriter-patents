@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1890
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "linear type rule"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1890 |
 | Designer | F. Soennecken Hersteller. nicht fabrikmäßig hergestellt |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | linear type rule |
-| Characters | 88 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 88 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

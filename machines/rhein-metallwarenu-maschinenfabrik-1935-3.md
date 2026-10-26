@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1935
 maker: "Rhein. Metallwarenu.Maschinenfabrik"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,19 @@ tags: ["machine"]
 | Year | 1935 |
 | Maker | [Rhein. Metallwarenu.Maschinenfabrik](../companies/rhein.md) |
 | Designer | [Kuphal, J](../people/kuphal-j.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | sehr wenig |
-| Price | ca. 280,- Mk |
-| Rarity (Lexikon) | 8 |
+| Sales | very few |
+| Price when new | about 280 marks |
+| Rarity (Lexikon's scale) | 8 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

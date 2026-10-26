@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1949
 maker: "GEORG KELLER"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar portable"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1949 |
 | Maker | [GEORG KELLER](../companies/keller.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar portable |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1949-c. 1953: typebar portable. Height about 64 mm (6.5 cm), full-size normal platen of a standard portable, weight about 4 kg (press 1948) or "ten pounds" in 1949 report, hoped to reach eight pounds; plastic keys later
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

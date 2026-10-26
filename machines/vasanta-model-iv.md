@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1923
 maker: "Sächsische Strickmaschinen-Fabrik \"Meteor\" / Vasanta Schreibund Strickmaschinenfabrik AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar portable, three-row"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1923 |
 | Maker | [Sächsische Strickmaschinen-Fabrik "Meteor" / Vasanta Schreibund Strickmaschinenfabrik AG](../companies/sachsische.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar portable, three-row |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1923-1925: typebar portable, three-row. Improved shift wheel, back-space, carriage run, tidier layout; 230 marks
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

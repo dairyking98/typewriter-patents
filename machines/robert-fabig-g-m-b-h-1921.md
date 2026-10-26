@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1921
 maker: "Robert Fabig G.m.b.H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "87 Zeichen"
+characters: "87"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Robert Fabig G.m.b.H](../companies/fabig.md) |
 | Designer | (Faktotum) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 87 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 87 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | nicht wenig |
-| Price | ca. 220,- Mk. |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair number |
+| Price when new | about 220 marks |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

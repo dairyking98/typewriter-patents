@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1900
 maker: "Blickensderfer Manufacturing Comp"
-country: "USA / Frankreich"
+country: "USA, France"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 7
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Year | 1900 |
 | Maker | [Blickensderfer Manufacturing Comp](../companies/blickensderfer.md) |
 | Designer | [Blickensderfer](../people/blickensderfer.md) |
-| Country | USA / Frankreich |
+| Country | USA, France |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | guter Verkauf |
-| Price | 250 Frs. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | sold well |
+| Price when new | 250 Frs. |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (20)
 

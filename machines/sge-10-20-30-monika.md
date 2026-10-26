@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1959
 maker: "OLYMPIA BUEROMASCHINENWERKE A"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "electric / typebar"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1959 |
 | Maker | [OLYMPIA BUEROMASCHINENWERKE A](../companies/olympia.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | electric / typebar |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1959: electric / typebar. First electric office machines
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

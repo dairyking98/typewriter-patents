@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1904
 maker: "?"
-country: "Italien"
+country: "Italy"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "77 Zeichen"
+characters: "77"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine/index"]
 | Year | 1904 |
 | Maker | ? |
 | Designer | ? |
-| Country | Italien |
+| Country | Italy |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 77 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 77 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | extrem wenig |
-| Price | ca. 100 - 150,- Mk.* |
-| Rarity (Lexikon) | 9 |
+| Sales | extremely few |
+| Price when new | about 100 - 150 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

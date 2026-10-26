@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1912
 maker: "Meyer to Nuese"
-country: "Frankreich"
+country: "France"
 index_machine: true
 selection: "index"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 shift: "single shift"
-characters: "87 Zeichen"
+characters: "87"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -22,19 +23,19 @@ tags: ["machine/index"]
 | Year | 1912 |
 | Maker | [Meyer to Nuese](../companies/meyer.md) |
 | Designer | [Meyer, G](../people/meyer-g.md) |
-| Country | Frankreich |
+| Country | France |
 | Selection | index |
 | Type carrier | type disc |
-| Characters | 87 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 87 |
+| Strike | top strike |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | 9,25 Fr. |
-| Rarity (Lexikon) | 7-8* |
+| Sales | a fair few |
+| Price when new | 9,25 Fr. |
+| Rarity (Lexikon's scale) | 7-8* |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

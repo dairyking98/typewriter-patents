@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1893
 maker: "Cahill Writing Machine Co"
 country: "USA"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 shift: "single shift"
-characters: "80 Zeichen *"
+characters: "80"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,12 +24,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 80 Zeichen * |
-| Strike | understrike |
+| Characters | 80 |
+| Strike | understrike (blind) |
 | Shift | single shift |
 | Sales | nur 40 Exemplare |
-| Price | 125 $ |
-| Rarity (Lexikon) | 9 |
+| Price when new | $125 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (5)
 

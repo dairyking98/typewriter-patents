@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1926
 maker: "GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 5
 tags: ["machine"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER](../companies/gundka.md) |
 | Designer | [Muchajer, Paul](../people/muchajer-p.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
 | Sales | nicht wenig / |
-| Price | 42,- 48,- Mk. |
-| Rarity (Lexikon) | 2-3 |
+| Price when new | 42 48 marks |
+| Rarity (Lexikon's scale) | 2-3 |
 
 ## Patents (11)
 

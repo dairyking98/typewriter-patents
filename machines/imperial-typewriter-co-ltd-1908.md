@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1908
 maker: "Imperial Typewriter Co. Ltd"
 country: "England"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "96 Zeichen"
+characters: "96"
 patents: 2
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | England |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 96 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 96 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | noch nicht so viel |
-| Price | £ 10., 360,- Mk. |
-| Rarity (Lexikon) | 7-8 ° |
+| Sales | still not so many |
+| Price when new | £ 10., 360 marks |
+| Rarity (Lexikon's scale) | 7-8 ° |
 
 ## Patents (7)
 

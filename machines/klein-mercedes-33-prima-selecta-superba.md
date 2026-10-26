@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1931
 maker: "MERCEDES BUEROMASCHINEN WERKE"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,24 @@ tags: ["machine"]
 | Year | 1931 |
 | Maker | [MERCEDES BUEROMASCHINEN WERKE](../companies/mercedes.md) |
 | Designer | [Schlüns, Carl](../people/schluns-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 86 Zeichen |
+| Characters | 86 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht wenig |
-| Price | 172,- Mk.* |
-| Rarity (Lexikon) | 3 |
+| Sales | a fair number |
+| Price when new | 172 marks |
+| Rarity (Lexikon's scale) | 3 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1931-36: portable typebar. Underwood portables; Selecta K 45 had double-function control levers.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

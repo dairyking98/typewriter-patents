@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1885
 maker: "Horton Typewriter Co"
-country: "Kanada"
+country: "Canada"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "none"
-characters: "73 Zeichen"
+characters: "73"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,16 +22,16 @@ tags: ["machine"]
 | Year | 1885 |
 | Maker | [Horton Typewriter Co](../companies/horton.md) |
 | Designer | [Horton, Edward E](../people/horton-e.md) |
-| Country | Kanada |
+| Country | Canada |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 73 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 73 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | none |
 | Sales | wenige Exemplare |
-| Price | ca. 100 $ |
-| Rarity (Lexikon) | 9 |
+| Price when new | about $100 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1929
 maker: "SAMPSON PERMAGRAPH CO"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type wheel"
 strike: "front strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "80 Zeichen"
+characters: "80"
 patents: 0
 tags: ["machine"]
 ---
@@ -26,12 +27,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | 80 Zeichen |
+| Characters | 80 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | single shift |
-| Sales | äußerst wenig |
-| Rarity (Lexikon) | X |
+| Sales | extremely few |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (2)
 

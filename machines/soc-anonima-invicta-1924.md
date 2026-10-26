@@ -1,12 +1,13 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1924
 maker: "Soc. Anonima Invicta"
-country: "Italien"
+country: "Italy"
 index_machine: false
 strike: "front strike"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -18,17 +19,17 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [Soc. Anonima Invicta](../companies/soc.md) |
 | Designer | [Giachero, Gius](../people/giachero-g.md) |
-| Country | Italien |
-| Characters | 88 Zeichen |
+| Country | Italy |
+| Characters | 88 |
 | Strike | front strike |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | 100 $ |
-| Rarity (Lexikon) | 7 - 8* |
+| Sales | a fair few |
+| Price when new | $100 |
+| Rarity (Lexikon's scale) | 7 - 8* |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

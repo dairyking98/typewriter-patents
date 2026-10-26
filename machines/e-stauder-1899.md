@@ -1,13 +1,14 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1899
 maker: "E. Stauder"
-country: "Schweiz"
+country: "Switzerland"
 index_machine: false
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "none"
-characters: "72 Zeichen"
+characters: "72"
 patents: 0
 tags: ["machine"]
 ---
@@ -19,18 +20,18 @@ tags: ["machine"]
 | Year | 1899 |
 | Maker | [E. Stauder](../companies/stauder.md) |
 | Designer | [Meyer-Teuber, F](../people/meyer-teuber-f.md) |
-| Country | Schweiz |
-| Characters | 72 Zeichen |
-| Strike | understrike |
+| Country | Switzerland |
+| Characters | 72 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | none |
-| Sales | nur wenig |
-| Price | 300 sfr. |
-| Rarity (Lexikon) | 8-9 |
+| Sales | only few |
+| Price when new | 300 sfr. |
+| Rarity (Lexikon's scale) | 8-9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

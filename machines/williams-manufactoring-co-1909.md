@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1909
 maker: "Williams Typewriter Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | mittel |
-| Price | 60 $, 350,- Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | moderate |
+| Price when new | $60, 350 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (12)
 

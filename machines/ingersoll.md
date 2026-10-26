@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1892
 maker: "R.Ingersoll & Bros"
 country: "USA"
 index_machine: false
 carrier: "type plungers"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "none"
-characters: "46 Zeichen"
+characters: "46"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Designer | [Ingersoll, Robert H](../people/ingersoll-r.md) |
 | Country | USA |
 | Type carrier | type plungers |
-| Characters | 46 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 46 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | nicht sehr viel |
-| Price | 1.50 $ |
-| Rarity (Lexikon) | 9 |
+| Sales | not very many |
+| Price when new | $1.50 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

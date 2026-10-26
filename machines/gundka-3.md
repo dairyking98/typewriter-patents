@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1924
 maker: "GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type wheel"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 5
 tags: ["machine"]
 ---
@@ -23,16 +24,21 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER](../companies/gundka.md) |
 | Designer | [Muchajer, Paul](../people/muchajer-p.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht wenig |
-| Price | 30 / 39,- Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | a fair number |
+| Price when new | 30 / 39 marks |
+| Rarity (Lexikon's scale) | 3-4 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1924-26: same. "Normal-width carriage"; ads say 64 characters in 1924, 84 characters in 1926
+- 1925-26: same. Differences only in platen length, key shape or "index"
 
 ## Patents (11)
 

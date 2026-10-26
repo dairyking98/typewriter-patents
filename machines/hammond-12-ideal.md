@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1905
 maker: "Hammond Typewriter Comp"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "type shuttle"
 strike: "front strike"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -25,12 +26,12 @@ tags: ["machine"]
 | Country | USA |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type shuttle |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Shift | double shift |
-| Sales | große Stückzahlen |
-| Price | 450,- Mk. |
-| Rarity (Lexikon) | 3-4 |
+| Sales | large numbers |
+| Price when new | 450 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Patents (14)
 

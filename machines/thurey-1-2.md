@@ -1,13 +1,14 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1907
 maker: "Thürey-Schreibmaschinen-Gesellschaft mbH"
-country: "Deutschland (Köln)"
+country: "Germany"
 index_machine: false
 carrier: "type wheel"
 strike: "front strike"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 1
 tags: ["machine"]
 ---
@@ -21,14 +22,14 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | [Thürey-Schreibmaschinen-Gesellschaft mbH](../companies/thurey.md) |
 | Designer | [Thürey, Eduard](../people/thurey-e.md) |
-| Country | Deutschland (Köln) |
+| Country | Germany |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Shift | double shift |
-| Sales | sehr gering |
-| Price | 1:210/2:250 Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | very small |
+| Price when new | 1:210/2:250 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

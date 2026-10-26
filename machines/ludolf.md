@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1930
 maker: "noch unbekannt"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type disc"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "91 Zeichen"
+characters: "91"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,19 +24,19 @@ tags: ["machine/index"]
 | Year | 1930 |
 | Maker | noch unbekannt |
 | Designer | Ludolf * |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type disc |
-| Characters | 91 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 91 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | sehr wenig |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

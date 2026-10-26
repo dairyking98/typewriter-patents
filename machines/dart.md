@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1899
 maker: "Dart Marking Machine Co"
 country: "USA"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "none"
-characters: "41 Zeichen"
+characters: "41"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -26,17 +27,17 @@ tags: ["machine/index"]
 | Country | USA |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 41 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 41 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | none |
-| Sales | nicht sehr viel |
-| Price | 45,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | not very many |
+| Price when new | 45 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

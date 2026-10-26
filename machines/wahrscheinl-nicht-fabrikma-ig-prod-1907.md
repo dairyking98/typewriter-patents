@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1907
 maker: "wahrscheinl. nicht fabrikmäßig prod"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 strike: "front strike"
 inking: "ink pad"
 shift: "none"
-characters: "84 Zeichen + 48"
+characters: "84+ 48"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,18 +21,18 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | wahrscheinl. nicht fabrikmäßig prod |
 | Designer | [Müller, Dr. Frank](../people/muller-d.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
-| Characters | 84 Zeichen + 48 |
+| Characters | 84+ 48 |
 | Strike | front strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | kaum |
-| Rarity (Lexikon) | X * |
+| Sales | hardly any |
+| Rarity (Lexikon's scale) | X * |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

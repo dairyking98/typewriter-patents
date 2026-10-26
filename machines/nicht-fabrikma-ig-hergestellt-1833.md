@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1833
 maker: "nicht fabrikmäßig hergestellt"
-country: "Frankreich"
+country: "France"
 index_machine: false
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "none"
-characters: "66 Zeichen"
+characters: "66"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,19 +21,19 @@ tags: ["machine"]
 | Year | 1833 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Progin, Xavier](../people/progin-x.md) |
-| Country | Frankreich |
+| Country | France |
 | Type carrier | typebar |
-| Characters | 66 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 66 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | none |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

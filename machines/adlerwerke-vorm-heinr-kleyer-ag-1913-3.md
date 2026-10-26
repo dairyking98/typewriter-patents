@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1913
 maker: "ADLERWERKE KLEYER AG H"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "push-rod typebars"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "138 Zeichen"
+characters: "138"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,15 +22,15 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
 | Designer | [Winterling, Carl](../people/winterling-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
-| Characters | 138 Zeichen |
+| Characters | 138 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | zufriedenstellend |
-| Price | 570,- Mk. |
+| Sales | satisfactory |
+| Price when new | 570 marks |
 
 ## Patents (1)
 

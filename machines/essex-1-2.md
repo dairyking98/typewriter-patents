@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1890
 maker: "Essex Typewriter Comp"
 country: "USA"
@@ -28,13 +29,13 @@ tags: ["machine"]
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | äußerst wenig |
-| Price | 41, $ - |
-| Rarity (Lexikon) | 9 |
+| Sales | extremely few |
+| Price when new | $41, - |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

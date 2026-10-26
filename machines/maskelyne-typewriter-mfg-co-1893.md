@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1893
 maker: "Maskelyne Typewriter Mfg. Co"
 country: "England"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "double shift"
-characters: "96 Zeichen"
+characters: "96"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | England |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 96 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 96 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | double shift |
-| Sales | sehr gering |
-| Price | 420,- Mk., £ 21 |
-| Rarity (Lexikon) | 9 |
+| Sales | very small |
+| Price when new | 420 marks, £ 21 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

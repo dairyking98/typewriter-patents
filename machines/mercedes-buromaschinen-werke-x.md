@@ -1,13 +1,14 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 maker: "MERCEDES BUEROMASCHINEN WERKE"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -18,19 +19,19 @@ tags: ["machine"]
 |---|---|
 | Maker | [MERCEDES BUEROMASCHINEN WERKE](../companies/mercedes.md) |
 | Designer | [Schlüns, Carl](../people/schluns-c.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | ab ca. 1.000,- Mk. |
-| Rarity (Lexikon) | 5-6 |
+| Sales | a fair few |
+| Price when new | ab about 1.000 marks |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

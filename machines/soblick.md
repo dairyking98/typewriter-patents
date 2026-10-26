@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1912
 maker: "Soblick Schreibmaschinen GmbH"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "type wheel"
 strike: "front strike"
 inking: "ink roller"
 shift: "single shift"
-characters: "ca. 84 Zeichen"
+characters: "ca. 84"
 patents: 0
 tags: ["machine"]
 ---
@@ -23,20 +24,20 @@ tags: ["machine"]
 | Year | 1912 |
 | Maker | [Soblick Schreibmaschinen GmbH](../companies/soblick.md) |
 | Designer | [Soblick, Max](../people/soblick-m.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
-| Characters | ca. 84 Zeichen |
+| Characters | ca. 84 |
 | Strike | front strike |
 | Inking | ink roller |
 | Shift | single shift |
 | Sales | nur einige Exempl. |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1893
 maker: "Wunder & Kneist Hannover"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "single key"
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
-characters: "81 Zeichen"
+characters: "81"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,15 +23,15 @@ tags: ["machine"]
 | Year | 1893 |
 | Maker | [Wunder & Kneist Hannover](../companies/wunder.md) |
 | Designer | [Mayer](../people/mayer.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | single key |
 | Type carrier | type plate |
-| Characters | 81 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 81 |
+| Strike | top strike |
 | Inking | ink pad |
-| Sales | gering |
-| Price | 75,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | small |
+| Price when new | 75 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

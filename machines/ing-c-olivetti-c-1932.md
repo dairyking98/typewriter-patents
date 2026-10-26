@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1932
 maker: "Ing. C. Olovetti & C"
-country: "Italien"
+country: "Italy"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "86 Zeichen"
+characters: "86"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,19 +22,19 @@ tags: ["machine"]
 | Year | 1932 |
 | Maker | [Ing. C. Olovetti & C](../companies/ing.md) |
 | Designer | [Firmeningenieum](../people/firmeningenieum.md) |
-| Country | Italien |
+| Country | Italy |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 86 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 86 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
 | Sales | guter Verkauf damals’ ca. 200,- Mk |
-| Rarity (Lexikon) | 4 - 5 |
+| Rarity (Lexikon's scale) | 4 - 5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

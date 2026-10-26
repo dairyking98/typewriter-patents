@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1911
 maker: "Metall-Industrie Schönbeck A.-G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, four-row"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1911 |
 | Maker | [Metall-Industrie Schönbeck A.-G](../companies/metall.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, four-row |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1911-1912: typebar, four-row. Light and flat; small run, no ads
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

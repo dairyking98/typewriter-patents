@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1932
 maker: "nicht fabrikmäßig hergestellt"
-country: "Schweiz"
+country: "Switzerland"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
 strike: "front strike"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -22,19 +23,19 @@ tags: ["machine/index"]
 | Year | 1932 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Pellaton, G](../people/pellaton-g.md) |
-| Country | Schweiz |
+| Country | Switzerland |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Shift | double shift |
-| Sales | kein Verkauf |
-| Price | kein |
-| Rarity (Lexikon) | X |
+| Sales | not sold |
+| Price when new | none listed |
+| Rarity (Lexikon's scale) | X |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

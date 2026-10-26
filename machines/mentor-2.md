@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1912
 maker: "Metall-Industrie Schönbeck A.-G"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar, visible"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1912 |
 | Maker | [Metall-Industrie Schönbeck A.-G](../companies/metall.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar, visible |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1912-1913: typebar, visible. 1910 prototype report gave planned weight about 20 Pfund (c. 10 kg), height only 12 cm vs. the usual 20-25 cm; single intermediate lever; two-colour ribbon, back-space key; whole type basket (Typenkorb) exchangeable; planned price 250-300 marks, actual retail 350 marks
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

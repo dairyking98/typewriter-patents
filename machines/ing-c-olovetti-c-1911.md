@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1911
 maker: "Ing. C. Olovetti & C"
-country: "Italien"
+country: "Italy"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,15 +22,15 @@ tags: ["machine"]
 | Year | 1911 |
 | Maker | [Ing. C. Olovetti & C](../companies/ing.md) |
 | Designer | [Olivetti, Camillo](../people/olivetti-c.md) |
-| Country | Italien |
+| Country | Italy |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | guter Verkauf |
-| Rarity (Lexikon) | 7-8 |
+| Sales | sold well |
+| Rarity (Lexikon's scale) | 7-8 |
 
 ## Patents (1)
 

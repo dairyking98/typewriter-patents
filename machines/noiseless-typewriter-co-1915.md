@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "unknown"
 year: 1915
 maker: "Noiseless Typewriter Comp"
 country: "USA"
@@ -8,7 +9,7 @@ selection: "QWERTY-type keyboard"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 5
 tags: ["machine"]
 ---
@@ -22,13 +23,13 @@ tags: ["machine"]
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
 | Country | USA |
 | Selection | QWERTY-type keyboard |
-| Characters | 84 Zeichen |
+| Characters | 84 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht ganz wenig |
-| Price | 125 $ |
-| Rarity (Lexikon) | 5-6 |
+| Sales | a fair few |
+| Price when new | $125 |
+| Rarity (Lexikon's scale) | 5-6 |
 
 ## Patents (12)
 

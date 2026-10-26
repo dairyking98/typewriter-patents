@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1888
 maker: "Guhl & Harbeck"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "type plate"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink pad"
 shift: "single shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,15 +23,19 @@ tags: ["machine"]
 | Year | 1888 |
 | Maker | [Guhl & Harbeck](../companies/guhl.md) |
 | Designer | [Guhl, Heinrich August Hermann](../people/guhl-h.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | type plate |
-| Characters | 90 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 90 |
+| Strike | top strike |
 | Inking | ink pad |
 | Shift | single shift |
-| Sales | nicht ganz wenig |
-| Price | 150,- Mk. |
-| Rarity (Lexikon) | 9 |
+| Sales | a fair few |
+| Price when new | 150 marks |
+| Rarity (Lexikon's scale) | 9 |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1888-1920s: index (curved type segment, pointer arm). 90 types in two rows on a rubber segment, felt inking pad, interchangeable plate; 10 fonts in 1893 ad, 13 in 1913; 150 M with 6 alphabets
 
 ## Patents (1)
 

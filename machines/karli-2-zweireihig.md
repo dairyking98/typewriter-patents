@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1928
 maker: "Karl Dietrich"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "individual type"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "84 Zeichen"
+characters: "84"
 patents: 0
 tags: ["machine/index"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine/index"]
 | Year | 1928 |
 | Maker | [Karl Dietrich](../companies/dietrich.md) |
 | Designer | [Dietrich, Karl](../people/dietrich-k.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | individual type |
-| Characters | 84 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 84 |
+| Strike | top strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | äußerst wenig |
-| Price | ca. 50 / 60,- Mk. * |
-| Rarity (Lexikon) | 9 |
+| Sales | extremely few |
+| Price when new | about 50 / 60 marks |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (1)
 

@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 maker: "Zalmon G. Sholes Typewriter Comp"
 country: "USA"
 index_machine: false
@@ -8,7 +9,7 @@ carrier: "typebar"
 strike: "front strike"
 inking: "ink pad"
 shift: "single shift"
-characters: "76 Zeichen"
+characters: "76"
 patents: 0
 tags: ["machine"]
 ---
@@ -22,17 +23,17 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 76 Zeichen |
+| Characters | 76 |
 | Strike | front strike |
 | Inking | ink pad |
 | Shift | single shift |
-| Sales | nicht sehr viel |
-| Price | 50 $ |
-| Rarity (Lexikon) | 6 - 7* |
+| Sales | not very many |
+| Price when new | $50 |
+| Rarity (Lexikon's scale) | 6 - 7* |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

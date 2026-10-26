@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1935
 maker: "A.B. Halda Fabriker"
-country: "Schweden"
+country: "Sweden"
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
-characters: "88 Zeichen"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,20 +22,20 @@ tags: ["machine"]
 | Year | 1935 |
 | Maker | [A.B. Halda Fabriker](../companies/halda.md) |
 | Designer | [Lindberg](../people/lindberg.md), [Rasmussen](../people/rasmussen.md) |
-| Country | Schweden |
+| Country | Sweden |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
-| Characters | 88 Zeichen |
+| Characters | 88 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | single shift |
-| Sales | nicht wenig |
-| Price | ca. 500 / 600 skr.* |
-| Rarity (Lexikon) | 4-5 |
+| Sales | a fair number |
+| Price when new | about 500 / 600 skr. |
+| Rarity (Lexikon's scale) | 4-5 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

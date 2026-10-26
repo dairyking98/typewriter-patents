@@ -1,14 +1,15 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1920
 maker: "Georg A. Berbig"
-country: "Deutschl./USA (?)"
+country: "Deutschl, USA"
 index_machine: false
 selection: "single key"
 carrier: "type rail"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ribbon"
-characters: "98 Zeichen"
+characters: "98"
 patents: 0
 tags: ["machine"]
 ---
@@ -21,19 +22,19 @@ tags: ["machine"]
 |---|---|
 | Year | 1920 |
 | Maker | Georg A. Berbig |
-| Country | Deutschl./USA (?) |
+| Country | Deutschl, USA |
 | Selection | single key |
 | Type carrier | type rail |
-| Characters | 98 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 98 |
+| Strike | top strike |
 | Inking | ribbon |
-| Sales | sehr wenig |
-| Price | 10$ |
-| Rarity (Lexikon) | 9 |
+| Sales | very few |
+| Price when new | $10 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1925
 maker: "Paul Schütze GmbH"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 selection: "Ideal (DHIATENSOR) keyboard"
 carrier: "typebar"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "48 Zeichen"
+characters: "48"
 patents: 0
 tags: ["machine"]
 ---
@@ -20,20 +21,20 @@ tags: ["machine"]
 |---|---|
 | Year | 1925 |
 | Maker | [Paul Schütze GmbH](../companies/schutze.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
-| Characters | 48 Zeichen |
+| Characters | 48 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | sehr wenig |
-| Price | 57,- Mk. |
-| Rarity (Lexikon) | 9_ |
+| Sales | very few |
+| Price when new | 57 marks |
+| Rarity (Lexikon's scale) | 9_ |
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Sources
 

@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "index"
 year: 1921
 maker: "GEORG EMIG; WALTER OEHMKE"
-country: "Deutschland"
+country: "Germany"
 index_machine: true
 selection: "index"
 carrier: "type wheel"
-strike: "upstrike / top strike"
+strike: "top strike"
 inking: "ink roller"
 shift: "double shift"
-characters: "81 Zeichen"
+characters: "81"
 patents: 1
 tags: ["machine/index"]
 ---
@@ -23,16 +24,16 @@ tags: ["machine/index"]
 | Year | 1921 |
 | Maker | [GEORG EMIG; WALTER OEHMKE](../companies/emig.md) |
 | Designer | [Emig, Georg](../people/emig-g.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Selection | index |
 | Type carrier | type wheel |
-| Characters | 81 Zeichen |
-| Strike | upstrike / top strike |
+| Characters | 81 |
+| Strike | top strike |
 | Inking | ink roller |
 | Shift | double shift |
-| Sales | nur sehr wenig |
-| Price | ca. 80 100,- Mk.* - |
-| Rarity (Lexikon) | 9 |
+| Sales | only very few |
+| Price when new | about 80 100 marks* - |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (1)
 

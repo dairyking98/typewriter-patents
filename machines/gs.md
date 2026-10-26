@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1947
 maker: "RHEINMETALL BORSIG AKT GES"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar standard"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1947 |
 | Maker | [RHEINMETALL BORSIG AKT GES](../companies/rheinmetall.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar standard |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1947 dev., 1949 series: typebar standard. segment shift (Segmentumschaltung), five-position line spacing, several carriage widths; replaced the old standard
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

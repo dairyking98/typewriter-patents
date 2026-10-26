@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1912
 maker: "VORM SEIDEL & NAUMANN AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar (Wagner linkage)"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1912 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar (Wagner linkage) |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1912: typebar (Wagner linkage). New design by Julius Mohns.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 

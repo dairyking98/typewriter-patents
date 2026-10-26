@@ -1,5 +1,6 @@
 ---
 type: "machine"
+machine_kind: "type element"
 year: 1890
 maker: "Munson Type Writer Comp"
 country: "USA"
@@ -9,7 +10,7 @@ carrier: "type cylinder"
 strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
-characters: "90 Zeichen"
+characters: "90"
 patents: 1
 tags: ["machine"]
 ---
@@ -26,13 +27,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type cylinder |
-| Characters | 90 Zeichen |
+| Characters | 90 |
 | Strike | front strike |
 | Inking | ribbon |
 | Shift | double shift |
-| Sales | nicht ganz wenig |
-| Price | 360,- Mk. |
-| Rarity (Lexikon) | 6 |
+| Sales | a fair few |
+| Price when new | 360 marks |
+| Rarity (Lexikon's scale) | 6 |
 
 ## Patents (3)
 

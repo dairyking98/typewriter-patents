@@ -1,15 +1,16 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1880
 maker: "American Writing Machine Comp"
 country: "USA"
 index_machine: false
 selection: "full keyboard (one key per character)"
 carrier: "typebar"
-strike: "understrike"
+strike: "understrike (blind)"
 inking: "ribbon"
 shift: "none"
-characters: "48 Zeichen"
+characters: "48"
 patents: 0
 tags: ["machine"]
 ---
@@ -24,13 +25,13 @@ tags: ["machine"]
 | Country | USA |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
-| Characters | 48 Zeichen |
-| Strike | understrike |
+| Characters | 48 |
+| Strike | understrike (blind) |
 | Inking | ribbon |
 | Shift | none |
-| Sales | noch nicht so viel |
-| Price | 60/70$ |
-| Rarity (Lexikon) | 9 |
+| Sales | still not so many |
+| Price when new | 60/$70 |
+| Rarity (Lexikon's scale) | 9 |
 
 ## Patents (2)
 

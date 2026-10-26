@@ -1,8 +1,9 @@
 ---
 type: "machine"
+machine_kind: "typebar"
 year: 1900
 maker: "VORM SEIDEL & NAUMANN AG"
-country: "Deutschland"
+country: "Germany"
 index_machine: false
 carrier: "typebar (front strike, visible)"
 patents: 0
@@ -17,12 +18,16 @@ tags: ["machine"]
 |---|---|
 | Year | 1900 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
-| Country | Deutschland |
+| Country | Germany |
 | Type carrier | typebar (front strike, visible) |
+
+## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
+
+- 1900: typebar (front strike, visible). Barney/Tanner design; typebars strike the platen from the front; no Wagner linkage. Series start 5 Sep 1900.
 
 ## Patents (0)
 
-None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+None linked yet.
 
 ## Same maker
 
