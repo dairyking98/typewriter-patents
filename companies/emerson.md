@@ -7,8 +7,8 @@ Name variants: The Emerson Typewriter Comp; Emerson Typewriter Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Emerson Typewriter Co machine, 1907](../machines/emerson-typewriter-co-1907.md) | 1907 | QWERTY-type keyboard | typebar | 17 |
-| [Emerson Typewriter Co machine, 1909](../machines/emerson-typewriter-co-1909.md) | 1909 | QWERTY-type keyboard | typebar | 19 |
+| [Emerson 1](../machines/emerson-1.md) | 1907 | QWERTY-type keyboard | typebar | 17 |
+| [Emerson 3](../machines/emerson-3.md) | 1909 | QWERTY-type keyboard | typebar | 19 |
 
 ## Inventors
 

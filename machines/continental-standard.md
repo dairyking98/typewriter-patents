@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Continental (Standard) (1904): a typebar typewriter by WANDERER WERKE VORM WINKLHOFER, Germany. Typebar, 90 characters, front strike, ribbon, single shift. Sales: very large quantity. Price when new: 380 / 420 marks."
 year: 1904
 maker: "WANDERER WERKE VORM WINKLHOFER"
 country: "Germany"
@@ -43,7 +44,12 @@ None linked yet.
 
 ## Same maker
 
-[Continental special models (1920)](../machines/continental-special-models.md), [Klein-Continental (1927)](../machines/klein-continental.md), [Continental Silenta (1932)](../machines/continental-silenta.md), [Continental 34 / 35 / 100 (1933)](../machines/continental-34-35-100.md), [Wanderer Notenschreibmaschine (1939)](../machines/wanderer-notenschreibmaschine.md), [Continental 200 (1939)](../machines/continental-200.md)
+[Continental special models (1920)](../machines/continental-special-models.md), [Klein-Continental (1929)](../machines/klein-continental.md), [Continental 34 / 35 / 100 (1933)](../machines/continental-34-35-100.md), [Continental Silenta (1934)](../machines/continental-silenta.md), [Continental 35 (1935)](../machines/continental-35.md), [Wanderer Notenschreibmaschine (1939)](../machines/wanderer-notenschreibmaschine.md), [Continental 200 (1939)](../machines/continental-200.md)
+
+## Elsewhere on the web
+
+- [Continental Standard](https://www.typewriters.ch/collection-2/continental/continental-standard/), typewriters.ch
+- More on the maker: [Continental](http://www.hquast.de/Einzelne/Continental.htm) (Hartmut Quast collection, hquast.de) · [Continental Breitwagen](http://www.hquast.de/Einzelne/Continental_Breitwagen.htm) (Hartmut Quast collection, hquast.de) · [Continental D](http://www.hquast.de/Einzelne/Contunental_D.htm) (Hartmut Quast collection, hquast.de)
 
 ## Sources
 

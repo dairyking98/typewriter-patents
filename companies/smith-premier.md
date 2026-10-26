@@ -8,25 +8,25 @@ Name variants: The Smith Premier Typewriter Comp; Smith Premier Typewriter Co; S
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
 | [Smith Premier Typewriter Co machine, ?](../machines/smith-premier-typewriter-co-x.md) |  | QWERTY-type keyboard | typebar | 0 |
-| [Smith Premier Typewriter Co machine, 1888](../machines/smith-premier-typewriter-co-1888.md) | 1888 | full keyboard (one key per character) | typebar | 8 |
-| [Smith Premier Typewriter Co machine, 1895](../machines/smith-premier-typewriter-co-1895.md) | 1895 | full keyboard (one key per character) | typebar | 13 |
-| [Smith Premier Typewriter Co machine, 1896](../machines/smith-premier-typewriter-co-1896.md) | 1896 | full keyboard (one key per character) | typebar | 16 |
-| [Smith Premier Typewriter Co machine, 1896](../machines/smith-premier-typewriter-co-1896-2.md) | 1896 | full keyboard (one key per character) | typebar | 16 |
-| [Smith Premier Typewriter Co machine, 1900](../machines/smith-premier-typewriter-co-1900.md) | 1900 | QWERTY-type keyboard | typebar | 18 |
-| [Smith Premier Typewriter Co machine, 1900](../machines/smith-premier-typewriter-co-1900-2.md) | 1900 | QWERTY-type keyboard | typebar | 18 |
-| [Smith Premier Typewriter Co machine, 1908](../machines/smith-premier-typewriter-co-1908.md) | 1908 | full keyboard (one key per character) | typebar | 60 |
-| [Smith Premier Typewriter Co machine, 1913](../machines/smith-premier-typewriter-co-1913.md) | 1913 | full keyboard (one key per character) | typebar | 63 |
-| [Smith Premier Co machine, 1914](../machines/smith-premier-co-1914.md) | 1914 | QWERTY-type keyboard | typebar | 67 |
-| [Smith Premier Typewriter Co machine, 1914](../machines/smith-premier-typewriter-co-1914.md) | 1914 | full keyboard (one key per character) | typebar | 62 |
-| [Smith Premier Typewriter Co machine, 1921](../machines/smith-premier-typewriter-co-1921.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
-| [Smith Premier Typewriter Co machine, 1921](../machines/smith-premier-typewriter-co-1921-2.md) | 1921 | QWERTY-type keyboard | typebar | 11 |
-| [Smith Premier Typewriter Co machine, 1923](../machines/smith-premier-typewriter-co-1923.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
-| [Smith Premier Typewriter Co machine, 1923](../machines/smith-premier-typewriter-co-1923-2.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
-| [Smith Premier Typewriter Co machine, 1925](../machines/smith-premier-typewriter-co-1925.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
-| [Smith Premier Typewriter Co machine, 1925](../machines/smith-premier-typewriter-co-1925-2.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
-| [Smith Premier Typewriter Co machine, 1927](../machines/smith-premier-typewriter-co-1927.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
-| [Smith Premier Typewriter Co machine, 1929](../machines/smith-premier-typewriter-co-1929.md) | 1929 | QWERTY-type keyboard | typebar | 0 |
-| [Smith Premier Typewriter Co machine, 1931](../machines/smith-premier-typewriter-co-1931.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Smith Premier 1](../machines/smith-premier-1.md) | 1888 | full keyboard (one key per character) | typebar | 8 |
+| [Smith Premier 2](../machines/smith-premier-2.md) | 1895 | full keyboard (one key per character) | typebar | 13 |
+| [Smith Premier 3](../machines/smith-premier-3.md) | 1896 | full keyboard (one key per character) | typebar | 16 |
+| [Smith Premier 4](../machines/smith-premier-4.md) | 1896 | full keyboard (one key per character) | typebar | 16 |
+| [Smith Premier 5](../machines/smith-premier-5.md) | 1900 | QWERTY-type keyboard | typebar | 18 |
+| [Smith Premier 6](../machines/smith-premier-6.md) | 1900 | QWERTY-type keyboard | typebar | 18 |
+| [Smith Premier 10](../machines/smith-premier-10.md) | 1908 | full keyboard (one key per character) | typebar | 60 |
+| [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) | 1913 | full keyboard (one key per character) | typebar | 63 |
+| [Remington Junior](../machines/remington-junior.md) | 1914 | QWERTY-type keyboard | typebar | 67 |
+| [Smith Premier Simplex](../machines/smith-premier-simplex.md) | 1914 | full keyboard (one key per character) | typebar | 62 |
+| [Smith Premier 30](../machines/smith-premier-30.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
+| [Smith Premier 40](../machines/smith-premier-40.md) | 1921 | QWERTY-type keyboard | typebar | 11 |
+| [Smith Premier 60](../machines/smith-premier-60.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
+| [Smith Premier 60](../machines/smith-premier-60-2.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
+| [Smith Premier Noiseless](../machines/smith-premier-noiseless.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
+| [Smith Premier Portable](../machines/smith-premier-portable.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
+| [Smith Premier Portable](../machines/smith-premier-portable-2.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Smith Premier Port. 35](../machines/smith-premier-port-35.md) | 1929 | QWERTY-type keyboard | typebar | 0 |
+| [Smith Premier Nois. 65](../machines/smith-premier-nois-65.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

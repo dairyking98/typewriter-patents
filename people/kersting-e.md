@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [Graf & Oertel machine, 1939](../machines/graf-oertel-1939.md) (1939)
+- [G & O](../machines/g-o.md) (1939)
 

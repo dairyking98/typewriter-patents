@@ -2,14 +2,14 @@
 
 ## Machines designed (Lexikon)
 
-- [Remington-Sholes Co machine, 1896](../machines/remington-sholes-co-1896.md) (1896)
-- [Remington-Sholes Co machine, 1897](../machines/remington-sholes-co-1897.md) (1897)
-- [Remington-Sholes Co machine, 1897](../machines/remington-sholes-co-1897-2.md) (1897)
-- [Rem.-Sholes Co machine, 1898](../machines/rem-sholes-co-1898.md) (1898)
-- [Fay-Sholes Co machine, 1901](../machines/fay-sholes-co-1901.md) (1901)
-- [Fay-Sholes Co machine, 1903](../machines/fay-sholes-co-1903.md) (1903)
+- [Rem-Sho 1](../machines/rem-sho-1.md) (1896)
+- [Rem-Sho 2](../machines/rem-sho-2.md) (1897)
+- [Rem-Sho 3](../machines/rem-sho-3.md) (1897)
+- [Rem-Sho 5](../machines/rem-sho-5.md) (1898)
+- [Rem-Sho 7](../machines/rem-sho-7.md) (1901)
+- [Rem-Sho 9](../machines/rem-sho-9.md) (1903)
 - [Zalmon G. Sholes Typewriter Co machine, ?](../machines/zalmon-g-sholes-typewriter-co-x.md) (?)
-- [Lawrence Mfg. Co machine, 1913](../machines/lawrence-mfg-co-1913.md) (1913)
+- [Zalsho](../machines/zalsho.md) (1913)
 
 ## Assigned to
 

@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Apparate-Industrie A.-G machine, 1912](../machines/apparate-industrie-a-g-1912.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
+| [Faktotum 1](../machines/faktotum-1.md) | 1912 | QWERTY-type keyboard | typebar | 0 |

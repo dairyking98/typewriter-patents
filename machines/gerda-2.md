@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Gerda 2 (1921): an index typewriter by GEORG EMIG; WALTER OEHMKE, Germany. Type wheel, 81 characters, top strike, ink roller, double shift. Sales: only very few. Price when new: about 80 100 marks* -."
 year: 1921
 maker: "GEORG EMIG; WALTER OEHMKE"
 country: "Germany"

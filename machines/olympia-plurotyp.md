@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Olympia Plurotyp (1933): an index typewriter by OLYMPIA BUEROMASCHINENWERKE A, Germany. Type cylinder, 76 characters, top strike, ribbon. Sales: nicht mehr so viel. Price when new: 450 sfr.."
 year: 1933
 maker: "OLYMPIA BUEROMASCHINENWERKE A"
 country: "Germany"
@@ -45,7 +46,7 @@ None linked yet.
 
 ## Same maker
 
-[Orbis / Olympia-Orbis (Progreß) (1948)](../machines/orbis-olympia-orbis-progre.md), [SM 1, SM 2, SM 3, SM 4 (1950)](../machines/sm-1-sm-2-sm-3-sm-4.md), [SG 1 (1953)](../machines/sg-1.md), [SF (1956)](../machines/sf.md), [SGE 10/20/30, Monika (1959)](../machines/sge-10-20-30-monika.md), [SF Traveller, Traveller de Luxe (1971)](../machines/sf-traveller-traveller-de-luxe.md), [Professional (1988)](../machines/professional.md)
+[Olympia Filia B (1936)](../machines/olympia-filia-b.md), [Olympia Plana (1939)](../machines/olympia-plana.md), [Orbis / Olympia-Orbis (Progreß) (1948)](../machines/orbis-olympia-orbis-progre.md), [SM 1, SM 2, SM 3, SM 4 (1950)](../machines/sm-1-sm-2-sm-3-sm-4.md), [SG 1 (1953)](../machines/sg-1.md), [SF (1956)](../machines/sf.md), [SGE 10/20/30, Monika (1959)](../machines/sge-10-20-30-monika.md), [SF Traveller, Traveller de Luxe (1971)](../machines/sf-traveller-traveller-de-luxe.md), [Professional (1988)](../machines/professional.md)
 
 ## Sources
 

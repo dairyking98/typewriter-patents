@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [nicht fabrikmäßig hergestellt machine, 1856](../machines/nicht-fabrikma-ig-hergestellt-1856.md) (1856)
+- [Beach](../machines/beach.md) (1856)
 
 ## Patents (1)
 

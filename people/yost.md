@@ -2,16 +2,16 @@
 
 ## Machines designed (Lexikon)
 
-- [American Writing Machine Co machine, 1880](../machines/american-writing-machine-co-1880.md) (1880)
-- [American Writing Machine Co machine, 1882](../machines/american-writing-machine-co-1882.md) (1882)
-- [American Writing Machine Co machine, 1890](../machines/american-writing-machine-co-1890.md) (1890)
-- [American Writing Machine Co machine, 1895](../machines/american-writing-machine-co-1895.md) (1895)
-- [American Writing Machine Co machine, 1897](../machines/american-writing-machine-co-1897.md) (1897)
-- [American Writing Machine Co machine, 1897](../machines/american-writing-machine-co-1897-2.md) (1897)
-- [Yost Writing Machine Co machine, 1889](../machines/yost-writing-machine-co-1889.md) (1889)
-- [Yost Writing Machine Co machine, 1889](../machines/yost-writing-machine-co-1889-2.md) (1889)
-- [Yost Writing Machine Co machine, 1894](../machines/yost-writing-machine-co-1894.md) (1894)
-- [Yost Writing Machine Co machine, 1902](../machines/yost-writing-machine-co-1902.md) (1902)
+- [Caligraph 1](../machines/caligraph-1.md) (1880)
+- [Caligraph 2](../machines/caligraph-2.md) (1882)
+- [Caligraph 3](../machines/caligraph-3.md) (1890)
+- [Caligraph 4](../machines/caligraph-4.md) (1895)
+- [Caligraph 5](../machines/caligraph-5.md) (1897)
+- [Caligraph 6, 7](../machines/caligraph-6-7.md) (1897)
+- [Yost 1](../machines/yost-1.md) (1889)
+- [Yost 2](../machines/yost-2.md) (1889)
+- [Yost 4 - 9](../machines/yost-4-9.md) (1894)
+- [Yost 10 - 14](../machines/yost-10-14.md) (1902)
 
 Known only by surname. Possibly: [Yost, George W. N](../people/yost-g.md)
 

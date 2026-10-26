@@ -4,7 +4,7 @@ Name variants: AEG; AEG Deutsche Werke A.G; AEG FAHRKARTENDRUCKER G M B H; Aeg F
 
 - Dingwerth, Geschichte vol. 5 (digest)
 
-## Machines (20)
+## Machines (18)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
@@ -16,15 +16,13 @@ Name variants: AEG; AEG Deutsche Werke A.G; AEG FAHRKARTENDRUCKER G M B H; Aeg F
 | [Model 1 / 2 (bronze), AEG 3](../machines/model-1-2-bronze-aeg-3.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
 | [Mignon 3](../machines/mignon-3.md) | 1913 | index | type cylinder | 0 |
 | [Electric Mignon](../machines/electric-mignon.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
-| [AEG-Schreibmaschinen-GmbH machine, 1921](../machines/aeg-schreibmaschinen-gmbh-1921.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
+| [AEG 3 - 5](../machines/aeg-3-5.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
 | [Mignon 4](../machines/mignon-4.md) | 1924 | index | type cylinder | 0 |
 | [AEG 4-5 (dev.), AEG 6](../machines/aeg-4-5-dev-aeg-6.md) | 1925 |  | typebar | 0 |
-| [AEG Deutsche Werke A.G machine, 1926](../machines/aeg-deutsche-werke-a-g-1926.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
-| [Olympia 7](../machines/olympia-7.md) | 1930 |  | typebar | 0 |
+| [AEG 6](../machines/aeg-6.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
 | [Progreß (first small Olympia)](../machines/progre-first-small-olympia.md) | 1931 |  | typebar portable | 0 |
 | [Elite, Simplex, Filia (A/B)](../machines/elite-simplex-filia-a-b.md) | 1933 |  | typebar portables | 0 |
 | [Diplomat, DM](../machines/diplomat-dm.md) | 1933 |  | typebar | 0 |
-| [Olympia 8 (M 8)](../machines/olympia-8-m-8.md) | 1934 |  | typebar | 0 |
 | [Robust](../machines/robust.md) | 1935 |  | typebar portable | 0 |
 | [Olympia 8 A / 8 B](../machines/olympia-8-a-8-b.md) | 1936 |  | typebar | 0 |
 | [Plana](../machines/plana.md) | 1939 |  | flat portable | 0 |

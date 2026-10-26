@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Mentor 3 (1913): a typebar typewriter by Metall-Industrie Schönbeck A.-G, Germany. Typebar, 84 characters, front strike, ribbon, single shift. Sales: moderate. Price when new: 350 marks."
 year: 1913
 maker: "Metall-Industrie Schönbeck A.-G"
 country: "Germany"
@@ -43,7 +44,7 @@ None linked yet.
 
 ## Same maker
 
-[Mentor 1 (1911)](../machines/mentor-1.md), [Mentor 2 (1912)](../machines/mentor-2.md)
+[Mentor 1 (1909)](../machines/mentor-1.md), [Mentor 2 (1909)](../machines/mentor-2.md)
 
 ## Sources
 

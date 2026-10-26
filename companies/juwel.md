@@ -5,6 +5,6 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Juwel Schreibmaschinen GmbH machine, 1936](../machines/juwel-schreibmaschinen-gmbh-1936.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
-| [Juwel Schreibmaschinen GmbH machine, 1936](../machines/juwel-schreibmaschinen-gmbh-1936-2.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
-| [Juwel Schreibmaschinen GmbH machine, 1936](../machines/juwel-schreibmaschinen-gmbh-1936-3.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Juwel 1](../machines/juwel-1.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Juwel 2](../machines/juwel-2.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Juwel 3](../machines/juwel-3.md) | 1936 | QWERTY-type keyboard | typebar | 0 |

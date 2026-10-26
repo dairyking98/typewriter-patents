@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Europa (ex-American) (1904): a typebar typewriter by Justin Wm. Bamberger & Co, Germany. Typebar."
 year: 1904
 maker: "Justin Wm. Bamberger & Co"
 country: "Germany"

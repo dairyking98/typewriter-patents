@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Remington-Sholes Co machine, 1896](../machines/remington-sholes-co-1896.md) (1896)
-- [Remington-Sholes Co machine, 1897](../machines/remington-sholes-co-1897.md) (1897)
-- [Remington-Sholes Co machine, 1897](../machines/remington-sholes-co-1897-2.md) (1897)
+- [Rem-Sho 1](../machines/rem-sho-1.md) (1896)
+- [Rem-Sho 2](../machines/rem-sho-2.md) (1897)
+- [Rem-Sho 3](../machines/rem-sho-3.md) (1897)
 

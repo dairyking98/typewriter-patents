@@ -7,7 +7,7 @@ Name variants: LEHMANN GEB; Schreibm.fabrik Gebr. Lehmann KG
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Schreibm.fabrik Gebr. Lehmann KG machine, 1919](../machines/schreibm-fabrik-gebr-lehmann-kg-1919.md) | 1919 | QWERTY-type keyboard | typebar | 0 |
+| [Culema 1 - 3](../machines/culema-1-3.md) | 1919 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

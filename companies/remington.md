@@ -9,35 +9,35 @@ Name variants: The Remington Typewriter Comp; REMINGTON TYPEWRITER CO; Remington
 |---|---|---|---|---|
 | [Remington Rand Inc machine, ?](../machines/remington-rand-inc-x.md) |  | QWERTY-type keyboard | typebar | 0 |
 | [Remington Typewriter Co machine, ?](../machines/remington-typewriter-co-x.md) |  | QWERTY-type keyboard | typebar | 0 |
-| [E. Remington & Sons machine, 1874](../machines/e-remington-sons-1874.md) | 1874 | early keyboard | typebar | 3 |
-| [E. Remington & Sons machine, 1879](../machines/e-remington-sons-1879.md) | 1879 | QWERTY-type keyboard | typebar | 3 |
-| [E. Remington & Sons machine, 1879](../machines/e-remington-sons-1879-2.md) | 1879 | QWERTY-type keyboard | typebar | 3 |
-| [E. Remington & Sons machine, 1879](../machines/e-remington-sons-1879-3.md) | 1879 | QWERTY-type keyboard | typebar | 3 |
-| [Remington-Sholes Co machine, 1896](../machines/remington-sholes-co-1896.md) | 1896 | QWERTY-type keyboard | typebar | 11 |
-| [Remington-Sholes Co machine, 1897](../machines/remington-sholes-co-1897.md) | 1897 | QWERTY-type keyboard | typebar | 11 |
-| [Remington-Sholes Co machine, 1897](../machines/remington-sholes-co-1897-2.md) | 1897 | QWERTY-type keyboard | typebar | 11 |
-| [Remington Typewriter Co machine, 1908](../machines/remington-typewriter-co-1908.md) | 1908 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Typewriter Co machine, 1910](../machines/remington-typewriter-co-1910.md) | 1910 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Typewriter Co machine, 1920](../machines/remington-typewriter-co-1920.md) | 1920 | QWERTY-type keyboard | typebar | 20 |
-| [Remington Typewriter Co machine, 1921](../machines/remington-typewriter-co-1921.md) | 1921 | QWERTY-type keyboard | typebar | 65 |
-| [Remington Typewriter Co machine, 1923](../machines/remington-typewriter-co-1923.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
-| [Remington TypewniterCo machine, 1925](../machines/remington-typewniterco-1925.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Typewriter Co machine, 1925](../machines/remington-typewriter-co-1925.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Typewriter Co machine, 1926](../machines/remington-typewriter-co-1926.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Typewriter Co machine, 1926](../machines/remington-typewriter-co-1926-2.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Typewriter Co machine, 1926](../machines/remington-typewriter-co-1926-3.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Typewriter Co machine, 1926](../machines/remington-typewriter-co-1926-4.md) | 1926 | QWERTY-type keyboard | typebar | 40 |
-| [Remington Rand Inc machine, 1929](../machines/remington-rand-inc-1929.md) | 1929 | QWERTY-type keyboard | typebar | 18 |
-| [Remington Rand Inc machine, 1929](../machines/remington-rand-inc-1929-2.md) | 1929 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Rand Inc machine, 1931](../machines/remington-rand-inc-1931.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Rand Inc machine, 1931](../machines/remington-rand-inc-1931-2.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Rand Inc machine, 1932](../machines/remington-rand-inc-1932.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Rand Inc machine, 1932](../machines/remington-rand-inc-1932-2.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Rand Inc machine, 1933](../machines/remington-rand-inc-1933.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Rand Inc machine, 1933](../machines/remington-rand-inc-1933-2.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Rand Inc machine, 1935](../machines/remington-rand-inc-1935.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Rand Inc machine, 1938](../machines/remington-rand-inc-1938.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
-| [Remington Rand Inc machine, 1939](../machines/remington-rand-inc-1939.md) | 1939 | QWERTY-type keyboard | typebar | 0 |
+| [Sholes & Glidden](../machines/sholes-glidden-3.md) | 1874 | early keyboard | typebar | 3 |
+| [Remington 2](../machines/remington-2.md) | 1879 | QWERTY-type keyboard | typebar | 3 |
+| [Remington 3](../machines/remington-3.md) | 1879 | QWERTY-type keyboard | typebar | 3 |
+| [Remington 4](../machines/remington-4.md) | 1879 | QWERTY-type keyboard | typebar | 3 |
+| [Rem-Sho 1](../machines/rem-sho-1.md) | 1896 | QWERTY-type keyboard | typebar | 11 |
+| [Rem-Sho 2](../machines/rem-sho-2.md) | 1897 | QWERTY-type keyboard | typebar | 11 |
+| [Rem-Sho 3](../machines/rem-sho-3.md) | 1897 | QWERTY-type keyboard | typebar | 11 |
+| [Remington 10](../machines/remington-10.md) | 1908 | QWERTY-type keyboard | typebar | 0 |
+| [Remington 11](../machines/remington-11.md) | 1910 | QWERTY-type keyboard | typebar | 0 |
+| [Monarch Pioneer](../machines/monarch-pioneer.md) | 1920 | QWERTY-type keyboard | typebar | 20 |
+| [Remington Port. 1, 2](../machines/remington-port-1-2.md) | 1921 | QWERTY-type keyboard | typebar | 65 |
+| [Remington 20, 31](../machines/remington-20-31.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
+| [Remington Electric](../machines/remington-electric.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
+| [Remington Noiseless 6](../machines/remington-noiseless-6.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
+| [Remington 10 S](../machines/remington-10-s.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
+| [Remington 21](../machines/remington-21.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
+| [Remington 30](../machines/remington-30.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
+| [Remington Portable 3](../machines/remington-portable-3.md) | 1926 | QWERTY-type keyboard | typebar | 40 |
+| [Remington Port. Tab](../machines/remington-port-tab.md) | 1929 | QWERTY-type keyboard | typebar | 18 |
+| [Remington Port. 5](../machines/remington-port-5.md) | 1929 | QWERTY-type keyboard | typebar | 0 |
+| [Remington Nois. 7](../machines/remington-nois-7.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Remington Nois. 7X](../machines/remington-nois-7x.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Remington 15, 16](../machines/remington-15-16.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
+| [Remington Junior Port.](../machines/remington-junior-port.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
+| [Remington Noiseless 8](../machines/remington-noiseless-8.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Remington 9 Desk](../machines/remington-9-desk.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Remington 11 (B)](../machines/remington-11-b.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
+| [Remington Remette](../machines/remington-remette.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
+| [Remington 17](../machines/remington-17.md) | 1939 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

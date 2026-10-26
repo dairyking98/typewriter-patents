@@ -7,7 +7,7 @@ Name variants: The Jackson Typewriter Comp; Jackson Typewriter Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Jackson Typewriter Co machine, 1898](../machines/jackson-typewriter-co-1898.md) | 1898 | QWERTY-type keyboard | typebar | 2 |
+| [Jackson](../machines/jackson.md) | 1898 | QWERTY-type keyboard | typebar | 2 |
 
 ## Inventors
 

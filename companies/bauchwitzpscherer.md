@@ -7,6 +7,6 @@ Name variants: BauchwitzPscherer A.G; BauchwitzPscherer A.-G
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [BauchwitzPscherer A.G machine, 1920](../machines/bauchwitzpscherer-a-g-1920.md) | 1920 | QWERTY-type keyboard | typebar | 0 |
-| [BauchwitzPscherer A.-G machine, 1924](../machines/bauchwitzpscherer-a-g-1924.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
-| [BauchwitzPscherer A.G machine, 1927](../machines/bauchwitzpscherer-a-g-1927.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Monofix](../machines/monofix.md) | 1920 | QWERTY-type keyboard | typebar | 0 |
+| [Monica 1](../machines/monica-1.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
+| [Monica 3](../machines/monica-3.md) | 1927 | QWERTY-type keyboard | typebar | 0 |

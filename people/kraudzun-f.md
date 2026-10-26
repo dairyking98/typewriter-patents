@@ -2,9 +2,9 @@
 
 ## Machines designed (Lexikon)
 
-- [Mitex Schreibmaschinen GmbH machine, 1922](../machines/mitex-schreibmaschinen-gmbh-1922.md) (1922)
-- [Frister & Rossmann A.G machine, 1913](../machines/frister-rossmann-a-g-1913.md) (1913)
-- [Tell Schreibmaschinen G.m.b.H machine, 1923](../machines/tell-schreibmaschinen-g-m-b-h-1923.md) (1923)
+- [Mitex](../machines/mitex.md) (1922)
+- [Senta 3](../machines/senta-3.md) (1913)
+- [Tell](../machines/tell.md) (1923)
 
 ## Assigned to
 

@@ -7,7 +7,7 @@ Name variants: The Titania Schreibmaschinen Gesellschaft m. b. H; TITANIA SCHREI
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Titania Mix & Genest GmbH Deutschland relativ gut machine, 1913](../machines/titania-mix-genest-gmbh-deutschland-relativ-gut-1913.md) | 1913 | QWERTY-type keyboard | typebar | 0 |
+| [Titania 3](../machines/titania-3.md) | 1913 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

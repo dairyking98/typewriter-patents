@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Soblick (1912): a type-element typewriter by Soblick Schreibmaschinen GmbH, Germany. Type wheel, ca. 84 characters, front strike, ink roller, single shift. Sales: nur einige Exempl. Price when new: none listed."
 year: 1912
 maker: "Soblick Schreibmaschinen GmbH"
 country: "Germany"

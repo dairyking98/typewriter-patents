@@ -3,7 +3,7 @@
 ## Machines designed (Lexikon)
 
 - [Brackelsberg (A)](../machines/brackelsberg-a.md) (1897)
-- [nicht serienmäßig hergestellt machine, 1897](../machines/nicht-serienma-ig-hergestellt-1897.md) (1897)
+- [Brackelsberg (B)](../machines/brackelsberg-b.md) (1897)
 - [Westphalia](../machines/westphalia.md) (1884)
 
 ## Patents (2)

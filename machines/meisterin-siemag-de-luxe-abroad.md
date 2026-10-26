@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Meisterin (Siemag de Luxe abroad) (1953): a typebar typewriter by Siemag Siegener Maschb Akt Ges, Germany. Typebar."
 year: 1953
 maker: "Siemag Siegener Maschb Akt Ges"
 country: "Germany"

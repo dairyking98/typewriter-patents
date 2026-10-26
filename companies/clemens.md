@@ -4,12 +4,11 @@ Name variants: CLEMENS MUELLER AKT GES; Clemens Müller GmbH; Clemens Müller A.
 
 - Dingwerth, Geschichte vol. 6 (digest)
 
-## Machines (19)
+## Machines (18)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
 | [Urania 1](../machines/urania-1.md) | 1909 | QWERTY-type keyboard | typebar | 0 |
-| [Albus (Emka)](../machines/albus-emka.md) | 1909 |  | typebar, folding, 3-row | 0 |
 | [Urania 2](../machines/urania-2.md) | 1911 |  | typebar | 0 |
 | [Perkeo 1](../machines/perkeo-1.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
 | [Urania 3](../machines/urania-3.md) | 1913 | QWERTY-type keyboard | typebar | 0 |
@@ -20,11 +19,11 @@ Name variants: CLEMENS MUELLER AKT GES; Clemens Müller GmbH; Clemens Müller A.
 | [Urania Steno](../machines/urania-steno.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
 | [Urania Piccola](../machines/urania-piccola.md) | 1925 |  | typebar, 4-row small | 0 |
 | [Urania 6](../machines/urania-6.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
+| [Clemens Müller A.G machine, 1926](../machines/clemens-muller-a-g-1926.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
 | [Urania 7](../machines/urania-7.md) | 1930 |  | typebar | 0 |
-| [Clemens Müller GmbH machine, 1935](../machines/clemens-muller-gmbh-1935.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
-| [Clemens Müller A.G machine, 1935](../machines/clemens-muller-a-g-1935.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
-| [Clemens Müller GmbH machine, 1935](../machines/clemens-muller-gmbh-1935-2.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
-| [Klein-Urania](../machines/klein-urania.md) | 1935 |  | typebar small | 0 |
+| [Urania Special](../machines/urania-special.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
+| [Klein-Urania](../machines/klein-urania.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
+| [Klein-Urania Simplex](../machines/klein-urania-simplex.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
 | [Urania 8](../machines/urania-8.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
 | [Urania 9 / 10](../machines/urania-9-10.md) | 1950 |  | typebar | 0 |
 

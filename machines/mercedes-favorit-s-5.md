@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Mercedes Favorit (S 5) (1932): a typebar typewriter by MERCEDES BUEROMASCHINEN WERKE, Germany. Typebar, 90 characters, front strike, ribbon, single shift. Sales: very good. Price when new: about 300 /320 marks."
 year: 1932
 maker: "MERCEDES BUEROMASCHINEN WERKE"
 country: "Germany"
@@ -43,7 +44,7 @@ None linked yet.
 
 ## Same maker
 
-[Mercedes 1 (1907)](../machines/mercedes-1.md), [Mercedes 2 (1908)](../machines/mercedes-2.md), [Mercedes 3 / 4 / 5 (1911)](../machines/mercedes-3-4-5.md), [Elektra, Elektra 2, 3 (1921)](../machines/elektra-elektra-2-3.md), [Mercedes 6 Expreß (S 6) (1930)](../machines/mercedes-6-expre-s-6.md), [Klein-Mercedes, 33, Prima, Selecta, Superba (1931)](../machines/klein-mercedes-33-prima-selecta-superba.md), [SE 4 / SE 5 (Cellatron) (1950)](../machines/se-4-se-5-cellatron.md)
+[Mercedes 1 (1906)](../machines/mercedes-1.md), [Mercedes 2 (1909)](../machines/mercedes-2.md), [Mercedes 3 / 4 / 5 (1911)](../machines/mercedes-3-4-5.md), [Elektra, Elektra 2, 3 (1921)](../machines/elektra-elektra-2-3.md), [Mercedes 4 (1924)](../machines/mercedes-4.md), [Mercedes 5 (1926)](../machines/mercedes-5.md), [Mercedes Elektra 2 (1927)](../machines/mercedes-elektra-2.md), [Mercedes 6 Expreß (S 6) (1930)](../machines/mercedes-6-expre-s-6.md), [Klein-Mercedes, 33, Prima, Selecta, Superba (1931)](../machines/klein-mercedes-33-prima-selecta-superba.md), [Mercedes Prima (1933)](../machines/mercedes-prima.md), [Mercedes Elektra 3 (1933)](../machines/mercedes-elektra-3.md), [Mercedes Selecta (1934)](../machines/mercedes-selecta.md), [Mercedes Superba (1936)](../machines/mercedes-superba.md), [SE 4 / SE 5 (Cellatron) (1950)](../machines/se-4-se-5-cellatron.md)
 
 ## Sources
 

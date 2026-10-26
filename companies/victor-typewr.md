@@ -5,7 +5,7 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Victor Typewr.Co machine, 1907](../machines/victor-typewr-co-1907.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
-| [Victor Typewr.Co machine, 1910](../machines/victor-typewr-co-1910.md) | 1910 | QWERTY-type keyboard | typebar | 0 |
-| [Victor Typewr.Co machine, 1912](../machines/victor-typewr-co-1912.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
-| [Victor Typewr.Co machine, 1919](../machines/victor-typewr-co-1919.md) | 1919 | QWERTY-type keyboard | typebar | 0 |
+| [Victor 1](../machines/victor-1.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
+| [Victor 2](../machines/victor-2.md) | 1910 | QWERTY-type keyboard | typebar | 0 |
+| [Victor 3](../machines/victor-3.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
+| [Victor 10](../machines/victor-10.md) | 1919 | QWERTY-type keyboard | typebar | 0 |

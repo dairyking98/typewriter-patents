@@ -15,7 +15,7 @@ Name variants: The Hammond Typewriter Comp; The Hammond Type Writer Comp; Hammon
 | [Hammond 12 Universal](../machines/hammond-12-universal.md) | 1905 | QWERTY-type keyboard | type shuttle | 14 |
 | [Hammond Multiplex](../machines/hammond-multiplex.md) | 1913 | QWERTY-type keyboard | type shuttle | 0 |
 | [Hammond Multiplex](../machines/hammond-multiplex-2.md) | 1913 | Ideal (DHIATENSOR) keyboard | type shuttle | 0 |
-| [Hammond Typewriter Co machine, 1921](../machines/hammond-typewriter-co-1921.md) | 1921 | QWERTY-type keyboard |  | 0 |
+| [Hammond Folding](../machines/hammond-folding.md) | 1921 | QWERTY-type keyboard |  | 0 |
 | [Hammond Varityper](../machines/hammond-varityper.md) | 1927 | QWERTY-type keyboard | type shuttle | 0 |
 
 ## Inventors

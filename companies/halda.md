@@ -7,11 +7,11 @@ Name variants: A.B. Halda Fabriker; Halda Fickursfabrik A.B; A.B.Halda Fabriker
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Halda Fickursfabrik A.B machine, 1896](../machines/halda-fickursfabrik-a-b-1896.md) | 1896 |  | typebar | 0 |
-| [Halda Fickursfabrik A.B machine, 1902](../machines/halda-fickursfabrik-a-b-1902.md) | 1902 | QWERTY-type keyboard | typebar | 0 |
-| [Halda Fickursfabrik A.B machine, 1914](../machines/halda-fickursfabrik-a-b-1914.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
-| [A.B. Halda Fabriker machine, 1916](../machines/a-b-halda-fabriker-1916.md) | 1916 | QWERTY-type keyboard |  | 0 |
-| [A.B.Halda Fabriker machine, 1924](../machines/a-b-halda-fabriker-1924.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
-| [A.B. Halda Fabriker machine, 1930](../machines/a-b-halda-fabriker-1930.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
-| [A.B. Halda Fabriker machine, 1930](../machines/a-b-halda-fabriker-1930-2.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
-| [A.B. Halda Fabriker machine, 1935](../machines/a-b-halda-fabriker-1935.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
+| [Halda 1](../machines/halda-1.md) | 1896 |  | typebar | 0 |
+| [Halda 4](../machines/halda-4.md) | 1902 | QWERTY-type keyboard | typebar | 0 |
+| [Halda 8](../machines/halda-8.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
+| [Halda 9, 10](../machines/halda-9-10.md) | 1916 | QWERTY-type keyboard |  | 0 |
+| [Halda 12](../machines/halda-12.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
+| [Halda-Norden 2](../machines/halda-norden-2.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
+| [Halda Norden 3, 4](../machines/halda-norden-3-4.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
+| [Halda-Norden 5](../machines/halda-norden-5.md) | 1935 | QWERTY-type keyboard | typebar | 0 |

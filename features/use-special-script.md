@@ -4,7 +4,7 @@ Non-Latin scripts
 
 **42 patents**, 1880–1938. Often together with: [ELEM:interchangeable](../features/elem-interchangeable.md) (17), [SEL:keyboard-full](../features/sel-keyboard-full.md) (15), [SHIFT:triple](../features/shift-triple.md) (14), [ELEM:typebar](../features/elem-typebar.md) (12), [ESC:pawl-rack](../features/esc-pawl-rack.md) (11), [SEL:selector-locking](../features/sel-selector-locking.md) (10), [SHIFT:platen](../features/shift-platen.md) (10), [INK:ribbon](../features/ink-ribbon.md) (9)
 
-**Machines:** [Crandall No. 3](../machines/crandall-no-3.md) (1), [Wagner Typewriter Co machine, 1896](../machines/wagner-typewriter-co-1896.md) (1), [Wagner Typewriter Co machine, 1900](../machines/wagner-typewriter-co-1900.md) (1), [Wagner Typewriter Co machine, 1900](../machines/wagner-typewriter-co-1900-2.md) (1)
+**Machines:** [Crandall No. 3](../machines/crandall-no-3.md) (1), [Underwood 2](../machines/underwood-2.md) (1), [Underwood 4](../machines/underwood-4.md) (1), [Underwood 5](../machines/underwood-5.md) (1)
 
 ## Patents, oldest first
 

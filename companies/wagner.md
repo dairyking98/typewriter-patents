@@ -7,9 +7,9 @@ Name variants: The Wagner Typewriter Comp; Wagner Typewriter Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Wagner Typewriter Co machine, 1896](../machines/wagner-typewriter-co-1896.md) | 1896 | QWERTY-type keyboard | typebar | 9 |
-| [Wagner Typewriter Co machine, 1900](../machines/wagner-typewriter-co-1900.md) | 1900 | QWERTY-type keyboard | typebar | 29 |
-| [Wagner Typewriter Co machine, 1900](../machines/wagner-typewriter-co-1900-2.md) | 1900 | QWERTY-type keyboard | typebar | 29 |
+| [Underwood 2](../machines/underwood-2.md) | 1896 | QWERTY-type keyboard | typebar | 9 |
+| [Underwood 4](../machines/underwood-4.md) | 1900 | QWERTY-type keyboard | typebar | 29 |
+| [Underwood 5](../machines/underwood-5.md) | 1900 | QWERTY-type keyboard | typebar | 29 |
 
 ## Inventors
 

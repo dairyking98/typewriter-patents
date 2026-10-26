@@ -7,9 +7,9 @@ Name variants: The Hartford Typewriter Comp; Hartford Typewriter Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Hartford Typewriter Co machine, 1894](../machines/hartford-typewriter-co-1894.md) | 1894 | full keyboard (one key per character) | typebar | 16 |
-| [Hartford Typewriter Co machine, 1896](../machines/hartford-typewriter-co-1896.md) | 1896 | full keyboard (one key per character) | typebar | 16 |
-| [Hartford Typewriter Co machine, 1905](../machines/hartford-typewriter-co-1905.md) | 1905 | QWERTY-type keyboard | typebar | 16 |
+| [Hartford 1](../machines/hartford-1.md) | 1894 | full keyboard (one key per character) | typebar | 16 |
+| [Hartford 2](../machines/hartford-2.md) | 1896 | full keyboard (one key per character) | typebar | 16 |
+| [Hartford 3](../machines/hartford-3.md) | 1905 | QWERTY-type keyboard | typebar | 16 |
 
 ## Inventors
 

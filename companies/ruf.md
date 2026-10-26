@@ -7,7 +7,7 @@ Name variants: RUF BUCHHALTUNG AKT GES; RUF BUCHHALTUNG PAUL HEGNAUER; RUF BUCHH
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Ruf BuchhaltungsA.G machine, 1927](../machines/ruf-buchhaltungsa-g-1927.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Ruf](../machines/ruf.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

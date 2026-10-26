@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Sampson Permagraph (1929): a type-element typewriter by SAMPSON PERMAGRAPH CO, USA. Type wheel, 80 characters, front strike, ink roller, single shift. Sales: extremely few."
 year: 1929
 maker: "SAMPSON PERMAGRAPH CO"
 country: "USA"

@@ -7,14 +7,14 @@ Name variants: The Bar-Lock Typewriter Comp. Ltd; BAR LOCK TYPEWRITER COMPANY LT
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Bar-Lock Typewriter Co machine, 1911](../machines/bar-lock-typewriter-co-1911.md) | 1911 | full keyboard (one key per character) | typebar | 32 |
-| [Bar-Lock Typewriter Co. Lid machine, 1921](../machines/bar-lock-typewriter-co-lid-1921.md) | 1921 | QWERTY-type keyboard | typebar | 5 |
-| [Bar-Lock Co machine, 1930](../machines/bar-lock-co-1930.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
-| [Bar-Lock Typewriter Co. Ltd machine, 1930](../machines/bar-lock-typewriter-co-ltd-1930.md) | 1930 | QWERTY-type keyboard | typebar | 4 |
-| [Bar-Lock Typewriter Co. Ltd machine, 1932](../machines/bar-lock-typewriter-co-ltd-1932.md) | 1932 | QWERTY-type keyboard | typebar | 2 |
-| [Bar-Lock Typewriter Co. Ltd machine, 1934](../machines/bar-lock-typewriter-co-ltd-1934.md) | 1934 | QWERTY-type keyboard | typebar | 2 |
-| [Bar-Lock Co machine, 1936](../machines/bar-lock-co-1936.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
-| [Bar-Lock Typewriter Co. Ltd machine, 1939](../machines/bar-lock-typewriter-co-ltd-1939.md) | 1939 | QWERTY-type keyboard | typebar | 0 |
+| [Bar-Lock 15](../machines/bar-lock-15.md) | 1911 | full keyboard (one key per character) | typebar | 32 |
+| [Bar-Lock 16, 17](../machines/bar-lock-16-17.md) | 1921 | QWERTY-type keyboard | typebar | 5 |
+| [Bar-Let 1](../machines/bar-let-1.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
+| [Bar-Lock Portable](../machines/bar-lock-portable.md) | 1930 | QWERTY-type keyboard | typebar | 4 |
+| [Bar-Lock 18](../machines/bar-lock-18.md) | 1932 | QWERTY-type keyboard | typebar | 2 |
+| [Bar-Lock 19, 19 A](../machines/bar-lock-19-19-a.md) | 1934 | QWERTY-type keyboard | typebar | 2 |
+| [Bar-Let 2](../machines/bar-let-2.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Bar-Lock 20](../machines/bar-lock-20.md) | 1939 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

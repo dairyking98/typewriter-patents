@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Eddy's Typewriter (1850): a typebar typewriter by nicht serienmäßig hergestellt, USA. Type bar (straight), 78 characters, top strike, ink pad. Sales: not sold. Price when new: none listed."
 year: 1850
 maker: "nicht serienmäßig hergestellt"
 country: "USA"

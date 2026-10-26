@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Commercial Visible 1 (1898): a type-element typewriter by Commercial Visible Typewriter Co, USA. Type wheel, 84 characters, front strike, ribbon, double shift. Sales: very few. Price when new: $40."
 year: 1898
 maker: "Commercial Visible Typewriter Co"
 country: "USA"

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Eureka (1896): an index typewriter by World Type Writer Comp, USA. Type wheel, ca. 40 characters, top strike, ink roller. Sales: not very many. Price when new: $2."
 year: 1896
 maker: "World Type Writer Comp"
 country: "USA"
@@ -37,6 +38,10 @@ tags: ["machine/index"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Eureka Kinderschreibmaschine](https://www.typewriters.ch/collection-2/kinderschreibmaschinen-2/eureka/), typewriters.ch
 
 ## Sources
 

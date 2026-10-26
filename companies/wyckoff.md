@@ -5,11 +5,11 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Wyckoff machine, 1886](../machines/wyckoff-1886.md) | 1886 | QWERTY-type keyboard | typebar | 19 |
-| [Wyckoff machine, 1894](../machines/wyckoff-1894.md) | 1894 | QWERTY-type keyboard | typebar | 35 |
-| [Wyckoff machine, 1896](../machines/wyckoff-1896.md) | 1896 | QWERTY-type keyboard | typebar | 35 |
-| [Wyckoff machine, 1898](../machines/wyckoff-1898.md) | 1898 | QWERTY-type keyboard | typebar | 37 |
-| [Wyckoff machine, 1903](../machines/wyckoff-1903.md) | 1903 | QWERTY-type keyboard | typebar | 31 |
+| [Remington 5](../machines/remington-5.md) | 1886 | QWERTY-type keyboard | typebar | 19 |
+| [Remington 6](../machines/remington-6.md) | 1894 | QWERTY-type keyboard | typebar | 35 |
+| [Remington 7](../machines/remington-7.md) | 1896 | QWERTY-type keyboard | typebar | 35 |
+| [Remington 8](../machines/remington-8.md) | 1898 | QWERTY-type keyboard | typebar | 37 |
+| [Remington 9](../machines/remington-9.md) | 1903 | QWERTY-type keyboard | typebar | 31 |
 
 ## Inventors
 

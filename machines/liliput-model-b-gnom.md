@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Liliput Model B Gnom (1907): a type-element typewriter by Justin Wm. Bamberger & Co, Germany. Type wheel (toy)."
 year: 1907
 maker: "Justin Wm. Bamberger & Co"
 country: "Germany"

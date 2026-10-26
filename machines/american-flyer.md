@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "American Flyer (1934): a type-element typewriter by American Flyer Manufactoring Co, USA. Type wheel, ca. 40 characters, front strike, ribbon. Sales: a fair number."
 year: 1934
 maker: "American Flyer Manufactoring Co"
 country: "USA"
@@ -34,6 +35,10 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [American Flyer](http://www.hquast.de/Einzelne/American_Flyer.htm), Hartmut Quast collection, hquast.de
 
 ## Sources
 

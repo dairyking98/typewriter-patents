@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Schade (1896): a typebar typewriter by R.Schade Schreibmaschinenfabrik, Germany. Type rods, 84 characters, top strike, ribbon. Sales: extremely few. Price when new: 250 marks."
 year: 1896
 maker: "R.Schade Schreibmaschinenfabrik"
 country: "Germany"

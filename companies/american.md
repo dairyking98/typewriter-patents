@@ -10,9 +10,9 @@ Name variants: American Typewriter Co; The American Typewriter Comp
 | [American Visible](../machines/american-visible.md) |  | index | type plate | 0 |
 | [American Index](../machines/american-index.md) | 1893 | index | type ring | 1 |
 | [American Double Wheel](../machines/american-double-wheel.md) | 1898 |  | type shuttle | 0 |
-| [American Typewriter Co machine, 1901](../machines/american-typewriter-co-1901.md) | 1901 | QWERTY-type keyboard | typebar | 0 |
-| [American Typewriter Co machine, 1905](../machines/american-typewriter-co-1905.md) | 1905 | QWERTY-type keyboard | typebar | 19 |
-| [American Typewriter Co machine, 1908](../machines/american-typewriter-co-1908.md) | 1908 | QWERTY-type keyboard |  | 21 |
+| [American Armstrong 5](../machines/american-armstrong-5.md) | 1901 | QWERTY-type keyboard | typebar | 0 |
+| [American Armstrong 7](../machines/american-armstrong-7.md) | 1905 | QWERTY-type keyboard | typebar | 19 |
+| [American Armstrong 8](../machines/american-armstrong-8.md) | 1908 | QWERTY-type keyboard |  | 21 |
 
 ## Inventors
 

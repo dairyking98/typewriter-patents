@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Graphic 1, 2 (1895): an index typewriter by C. F. Kindermann & Co, Germany. Type plate, 72 characters, top strike, ink pad. Sales: kleine Stückzahlen. Price when new: 75/55/38 ‚- marks."
 year: 1895
 maker: "C. F. Kindermann & Co"
 country: "Germany"

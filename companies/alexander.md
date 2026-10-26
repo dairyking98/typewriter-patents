@@ -7,9 +7,9 @@ Name variants: Alexander Typewriter Co; ALEXANDER KRIGIN; ALEXANDER BUTZE; FREDE
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Alexander Typewriter Co machine, 1914](../machines/alexander-typewriter-co-1914.md) | 1914 | QWERTY-type keyboard | typebar | 66 |
-| [Alexander Typewriter Co machine, 1914](../machines/alexander-typewriter-co-1914-2.md) | 1914 | QWERTY-type keyboard | typebar | 66 |
-| [Alexander ) Typewriter Co machine, 1923](../machines/alexander-typewriter-co-1923.md) | 1923 | QWERTY-type keyboard | typebar | 30 |
+| [Alexander (1)](../machines/alexander-1.md) | 1914 | QWERTY-type keyboard | typebar | 66 |
+| [Alexander (2)](../machines/alexander-2.md) | 1914 | QWERTY-type keyboard | typebar | 66 |
+| [Alexander (3)](../machines/alexander-3.md) | 1923 | QWERTY-type keyboard | typebar | 30 |
 
 ## Inventors
 

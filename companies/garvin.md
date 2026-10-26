@@ -8,7 +8,7 @@ Name variants: The Garvin Machine Comp; Garvin Machine Co
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
 | [Peoples](../machines/peoples.md) | 1891 | single key | type wheel | 15 |
-| [Garvin Machine Co machine, 1894](../machines/garvin-machine-co-1894.md) | 1894 | Ideal (DHIATENSOR) keyboard | typebar | 5 |
+| [Crary](../machines/crary.md) | 1894 | Ideal (DHIATENSOR) keyboard | typebar | 5 |
 
 ## Inventors
 

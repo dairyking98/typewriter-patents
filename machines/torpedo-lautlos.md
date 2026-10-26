@@ -1,25 +1,36 @@
 ---
 type: "machine"
 machine_kind: "typebar"
-year: 1933
-maker: "WEILWERKE A G"
+description: "Torpedo Lautlos (1934): a typebar typewriter by TORPEDO WERKE A G FAHRRAEDER U, Germany. Typebar, 88 characters, front strike, single shift. Sales: satisfactory. Price when new: about 250 marks."
+year: 1934
+maker: "TORPEDO WERKE A G FAHRRAEDER U"
 country: "Germany"
 index_machine: false
-carrier: "typebar, quiet"
+selection: "QWERTY-type keyboard"
+carrier: "typebar"
+strike: "front strike"
+shift: "single shift"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
 
 # Torpedo Lautlos
 
-*typebar, quiet*
-
 | | |
 |---|---|
-| Year | 1933 |
-| Maker | [WEILWERKE A G](../companies/weil.md) |
+| Year | 1934 |
+| Maker | [TORPEDO WERKE A G FAHRRAEDER U](../companies/torpedo.md) |
+| Designer | Firmeningenieure |
 | Country | Germany |
-| Type carrier | typebar, quiet |
+| Selection | QWERTY-type keyboard |
+| Type carrier | typebar |
+| Characters | 88 |
+| Strike | front strike |
+| Shift | single shift |
+| Sales | satisfactory |
+| Price when new | about 250 marks |
+| Rarity (Lexikon's scale) | 3-4 |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
 
@@ -31,8 +42,9 @@ None linked yet.
 
 ## Same maker
 
-[Hassia (1905)](../machines/hassia.md), [Torpedo 2 (1907)](../machines/torpedo-2.md), [Torpedo 3, 4, 5, 5 B (1908)](../machines/torpedo-3-4-5-5-b.md), [Torpedo Simplex (1914)](../machines/torpedo-simplex.md), [Torpedo 12, 14 (1924)](../machines/torpedo-12-14.md), [Torpedo 6 (1927)](../machines/torpedo-6.md), [Torpedo 15, 15 a, 16 (1931)](../machines/torpedo-15-15-a-16.md), [Torpedo 17 (1933)](../machines/torpedo-17.md), [Torpedo 18 (18 a/b), 20 (1936)](../machines/torpedo-18-18-a-b-20.md), [Solitaire (Model 8) (1949)](../machines/solitaire-model-8.md), [Torpedo 30, 700, Super 6, 10, Dynacord (1950)](../machines/torpedo-30-700-super-6-10-dynacord.md), [Torpedo Electric (1957)](../machines/torpedo-electric.md)
+[Torpedo 14 (1928)](../machines/torpedo-14.md), [Torpedo 15 (1931)](../machines/torpedo-15.md), [Torpedo 15 A (1931)](../machines/torpedo-15-a.md), [Dt. Remington (1933)](../machines/dt-remington.md), [Torpedo 16 (1933)](../machines/torpedo-16.md), [Torpedo 17 (1933)](../machines/torpedo-17.md), [Torpedo 20 (1936)](../machines/torpedo-20.md)
 
 ## Sources
 
+- [Dingwerth, Lexikon 1997, p. 849](https://archive.org/details/kleines-lexikon-historischer-schreibmaschinen/page/n849)
 - Dingwerth, Geschichte vol. 3 (digest): Torpedo Lautlos

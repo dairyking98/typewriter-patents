@@ -12,12 +12,12 @@ Name variants: The Oliver Typewriter Comp; Oliver Typewriter Co; The Oliver Type
 | [Oliver 3](../machines/oliver-3.md) | 1902 | QWERTY-type keyboard | type bow | 9 |
 | [Oliver 4](../machines/oliver-4.md) | 1904 | QWERTY-type keyboard | type bow | 10 |
 | [Oliver 5](../machines/oliver-5.md) | 1907 | QWERTY-type keyboard | type bow | 10 |
-| [Oliver Typewriter Co machine, 1907](../machines/oliver-typewriter-co-1907.md) | 1907 | QWERTY-type keyboard | typebar | 10 |
+| [Oliver 6](../machines/oliver-6.md) | 1907 | QWERTY-type keyboard | typebar | 10 |
 | [Oliver 7, 8](../machines/oliver-7-8.md) | 1914 | QWERTY-type keyboard | type bow | 6 |
 | [Oliver 9](../machines/oliver-9.md) | 1915 | QWERTY-type keyboard | type bow | 5 |
 | [Oliver 11, 12](../machines/oliver-11-12.md) | 1922 | QWERTY-type keyboard | type bow | 2 |
 | [Oliver 15, 16](../machines/oliver-15-16.md) | 1928 | QWERTY-type keyboard | type bow | 0 |
-| [Oliver Typewriter Ltd machine, 1930](../machines/oliver-typewriter-ltd-1930.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
+| [Oliver Portable 4](../machines/oliver-portable-4.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

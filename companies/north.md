@@ -7,7 +7,7 @@ Name variants: The North American Machine Comp; North Typewriter Mfg. Co. Ltd
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [North Typewriter Mfg. Co. Ltd machine, 1892](../machines/north-typewriter-mfg-co-ltd-1892.md) | 1892 | QWERTY-type keyboard | typebar | 0 |
+| [North](../machines/north.md) | 1892 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

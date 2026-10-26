@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Electric typewriter (unnamed) (1913): a typebar typewriter by Deutsche Waffenund Munitions-Fabriken, Germany. Typebar (presumably)."
 year: 1913
 maker: "Deutsche Waffenund Munitions-Fabriken"
 country: "Germany"
@@ -28,10 +29,6 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
-
-## Same maker
-
-[DWF (1922)](../machines/dwf.md)
 
 ## Sources
 

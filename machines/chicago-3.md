@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Chicago 3: a type-element typewriter by Munson Type Writer Comp, USA. Type cylinder, 90 characters, front strike, ribbon, double shift. Sales: weniger als Mod. 2. Price when new: $35, 200 marks."
 maker: "Munson Type Writer Comp"
 country: "USA"
 index_machine: false
@@ -40,6 +41,10 @@ None linked yet.
 ## Same maker
 
 [Munson 1 (1890)](../machines/munson-1.md), [Chicago 2 (1897)](../machines/chicago-2.md)
+
+## Elsewhere on the web
+
+- [Chicago 3 Typewriter](https://www.antiquetypewriters.com/typewriter/chicago-3-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

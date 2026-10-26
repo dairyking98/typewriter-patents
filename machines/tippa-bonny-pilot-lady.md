@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Tippa Bonny / Pilot / Lady (1956): a typewriter by Gossen & Co G M B H P, Germany. Same."
 year: 1956
 maker: "Gossen & Co G M B H P"
 country: "Germany"

@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Rose Typewriter Co machine, 1907](../machines/rose-typewriter-co-1907.md) (1907)
+- [Standard Folding 1](../machines/standard-folding-1.md) (1907)
 
 ## Patents (1)
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Chinese (A) (1899): an index typewriter by wahrscheinlich nicht produziert, China. Type wheel, 4.000 characters, top strike, ink roller. Sales: kein / oder wenig. Price when new: unknown."
 year: 1899
 maker: "wahrscheinlich nicht produziert"
 country: "China"

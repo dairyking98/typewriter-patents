@@ -7,7 +7,7 @@ Name variants: The Century Machine Comp; Century Machine Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Century Machine Co machine, 1900](../machines/century-machine-co-1900.md) | 1900 | Ideal (DHIATENSOR) keyboard | typebar | 0 |
+| [Century Typenhebel](../machines/century-typenhebel.md) | 1900 | Ideal (DHIATENSOR) keyboard | typebar | 0 |
 
 ## Inventors
 

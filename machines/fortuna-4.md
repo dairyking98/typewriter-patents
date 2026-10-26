@@ -1,25 +1,38 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Fortuna 4 (1928): a typebar typewriter by J.P. Sauer & Sohn Fortuna G.m.b.H, Germany. Typebar, 88 characters, front strike, ribbon, single shift. Sales: sold well. Price when new: 359 marks."
 year: 1928
-maker: "WAFFENFABRIK; WALTHER CARL"
+maker: "J.P. Sauer & Sohn Fortuna G.m.b.H"
 country: "Germany"
 index_machine: false
+selection: "QWERTY-type keyboard"
 carrier: "typebar"
+strike: "front strike"
+inking: "ribbon"
+shift: "single shift"
+characters: "88"
 patents: 0
 tags: ["machine"]
 ---
 
 # Fortuna 4
 
-*typebar*
-
 | | |
 |---|---|
 | Year | 1928 |
-| Maker | [WAFFENFABRIK; WALTHER CARL](../companies/waffenfabrik.md) |
+| Maker | [J.P. Sauer & Sohn Fortuna G.m.b.H](../companies/sauer.md) |
+| Designer | [Schlüns, Carl](../people/schluns-c.md) |
 | Country | Germany |
+| Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
+| Characters | 88 |
+| Strike | front strike |
+| Inking | ribbon |
+| Shift | single shift |
+| Sales | sold well |
+| Price when new | 359 marks |
+| Rarity (Lexikon's scale) | 3 |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*
 
@@ -29,10 +42,11 @@ tags: ["machine"]
 
 None linked yet.
 
-## Same maker
+## Elsewhere on the web
 
-[Stolzenberg-Fortuna / Fortuna (1922)](../machines/stolzenberg-fortuna-fortuna.md), [Fortuna portable (1931 ads) (1931)](../machines/fortuna-portable-1931-ads.md), [Fortuna with front plate (1939)](../machines/fortuna-with-front-plate.md)
+- On the maker: [Fortuna](http://www.hquast.de/Einzelne/Fortuna.htm) (Hartmut Quast collection, hquast.de)
 
 ## Sources
 
+- [Dingwerth, Lexikon 1997, p. 283](https://archive.org/details/kleines-lexikon-historischer-schreibmaschinen/page/n283)
 - Dingwerth, Geschichte vol. 10 (digest): Fortuna 4

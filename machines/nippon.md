@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Nippon (1917): an index typewriter by Nippon Typewriter Co, Japan. 2.380 characters, top strike, ink roller. Sales: a fair number. Price when new: about 300 Yen."
 year: 1917
 maker: "Nippon Typewriter Co"
 country: "Japan"

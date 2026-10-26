@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Hood (1857): an index typewriter by nicht fabrikmäßig hergestellt, England. Type wheel, ca. 40 characters, top strike, ink roller. Sales: not sold. Price when new: none listed."
 year: 1857
 maker: "nicht fabrikmäßig hergestellt"
 country: "England"

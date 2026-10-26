@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Gefro (1924): a typewriter by GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER, Germany. Same."
 year: 1924
 maker: "GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER"
 country: "Germany"

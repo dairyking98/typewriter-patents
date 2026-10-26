@@ -7,13 +7,13 @@ Name variants: Imperial Typewriter Co. Ltd; The Imperial Typewriter Comp. Ltd
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Imperial Typewriter Co. Ltd machine, 1908](../machines/imperial-typewriter-co-ltd-1908.md) | 1908 | QWERTY-type keyboard | typebar | 7 |
-| [Imperial Typewriter Co. Ltd machine, 1915](../machines/imperial-typewriter-co-ltd-1915.md) | 1915 | QWERTY-type keyboard | typebar | 8 |
-| [Imperial Typewriter Co. Ltd machine, 1915](../machines/imperial-typewriter-co-ltd-1915-2.md) | 1915 | QWERTY-type keyboard | typebar | 8 |
-| [Imperial Typewriter Co. Ltd machine, 1923](../machines/imperial-typewriter-co-ltd-1923.md) | 1923 | QWERTY-type keyboard | typebar | 4 |
-| [Imperial Typewriter Co. Ltd machine, 1927](../machines/imperial-typewriter-co-ltd-1927.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
-| [Imperial Typewriter Co. Ltd machine, 1932](../machines/imperial-typewriter-co-ltd-1932.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
-| [Imperial Typewriter Co. Ltd machine, 1937](../machines/imperial-typewriter-co-ltd-1937.md) | 1937 | QWERTY-type keyboard | typebar | 0 |
+| [Imperial A](../machines/imperial-a.md) | 1908 | QWERTY-type keyboard | typebar | 7 |
+| [Imperial B](../machines/imperial-b.md) | 1915 | QWERTY-type keyboard | typebar | 8 |
+| [Imperial C](../machines/imperial-c.md) | 1915 | QWERTY-type keyboard | typebar | 8 |
+| [Imperial Portable](../machines/imperial-portable.md) | 1923 | QWERTY-type keyboard | typebar | 4 |
+| [Imperial 50](../machines/imperial-50.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Imperial Good Compan. 1](../machines/imperial-good-compan-1.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
+| [Imperial 55](../machines/imperial-55.md) | 1937 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

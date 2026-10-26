@@ -7,7 +7,7 @@ Name variants: CARMEN WERK A G; CARMEN WERK AKT GES; CARMENWERK AKT GES; Carmen-
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Carmen-Werk A.G machine, 1921](../machines/carmen-werk-a-g-1921.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
+| [Carmen](../machines/carmen.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

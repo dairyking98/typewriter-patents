@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [Duplex Typewriter Co machine, 1892](../machines/duplex-typewriter-co-1892.md) (1892)
-- [Duplex Typewniter Co machine, 1895](../machines/duplex-typewniter-co-1895.md) (1895)
+- [Duplex 1](../machines/duplex-1.md) (1892)
+- [Duplex 2](../machines/duplex-2.md) (1895)
 
 ## Assigned to
 

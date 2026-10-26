@@ -2,6 +2,6 @@
 
 ## Machines designed (Lexikon)
 
-- [Soc. Anonima Invicta machine, 1921](../machines/soc-anonima-invicta-1921.md) (1921)
-- [Soc. Anonima Invicta machine, 1924](../machines/soc-anonima-invicta-1924.md) (1924)
+- [Invicta 1](../machines/invicta-1.md) (1921)
+- [Invicta 5](../machines/invicta-5.md) (1924)
 

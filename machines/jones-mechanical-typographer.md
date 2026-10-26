@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Jones, Mechanical Typographer (1852): a typewriter."
 year: 1852
 index_machine: false
 patents: 0

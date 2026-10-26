@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Columbia Index 1 (1884): an index typewriter by Columbia Typewriter Mfg. Co, USA. Type wheel, 44 characters, top strike, ink disc. Sales: few. Price when new: $25."
 year: 1884
 maker: "Columbia Typewriter Mfg. Co"
 country: "USA"
@@ -49,7 +50,7 @@ tags: ["machine/index"]
 
 ## Same maker
 
-[Columbia Index 2 (1885)](../machines/columbia-index-2.md)
+[Columbia Index 2 (1885)](../machines/columbia-index-2.md), [Bar-Lock 1 (1887)](../machines/bar-lock-1.md), [Bar-Lock 2, 3 (1889)](../machines/bar-lock-2-3.md), [Bar-Lock 6 (1896)](../machines/bar-lock-6.md), [Bar-Lock 7 (1896)](../machines/bar-lock-7.md), [Bar-Lock 8, 9 (1899)](../machines/bar-lock-8-9.md), [Bar-Lock 10, 11 (1900)](../machines/bar-lock-10-11.md), [Bar-Lock Columbia (1903)](../machines/bar-lock-columbia.md), [Bar-Lock 12 (1907)](../machines/bar-lock-12.md), [Bar-Lock 14 (1909)](../machines/bar-lock-14.md)
 
 ## Sources
 

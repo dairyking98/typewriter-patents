@@ -1,0 +1,47 @@
+---
+type: "machine"
+machine_kind: "typebar"
+description: "Olympia Plana (1939): a typebar typewriter by OLYMPIA BUEROMASCHINENWERKE A, Germany. Typebar, 90 characters, front strike, ribbon, single shift. Sales: large numbers. Price when new: 250 marks."
+year: 1939
+maker: "OLYMPIA BUEROMASCHINENWERKE A"
+country: "Germany"
+index_machine: false
+selection: "QWERTY-type keyboard"
+carrier: "typebar"
+strike: "front strike"
+inking: "ribbon"
+shift: "single shift"
+characters: "90"
+patents: 0
+tags: ["machine"]
+---
+
+# Olympia Plana
+
+| | |
+|---|---|
+| Year | 1939 |
+| Maker | [OLYMPIA BUEROMASCHINENWERKE A](../companies/olympia.md) |
+| Designer | [Krüger, Johannes](../people/kruger-j.md) |
+| Country | Germany |
+| Selection | QWERTY-type keyboard |
+| Type carrier | typebar |
+| Characters | 90 |
+| Strike | front strike |
+| Inking | ribbon |
+| Shift | single shift |
+| Sales | large numbers |
+| Price when new | 250 marks |
+| Rarity (Lexikon's scale) | 3-4 |
+
+## Patents (0)
+
+None linked yet.
+
+## Same maker
+
+[Olympia Plurotyp (1933)](../machines/olympia-plurotyp.md), [Olympia Filia B (1936)](../machines/olympia-filia-b.md), [Orbis / Olympia-Orbis (Progreß) (1948)](../machines/orbis-olympia-orbis-progre.md), [SM 1, SM 2, SM 3, SM 4 (1950)](../machines/sm-1-sm-2-sm-3-sm-4.md), [SG 1 (1953)](../machines/sg-1.md), [SF (1956)](../machines/sf.md), [SGE 10/20/30, Monika (1959)](../machines/sge-10-20-30-monika.md), [SF Traveller, Traveller de Luxe (1971)](../machines/sf-traveller-traveller-de-luxe.md), [Professional (1988)](../machines/professional.md)
+
+## Sources
+
+- [Dingwerth, Lexikon 1997, p. 615](https://archive.org/details/kleines-lexikon-historischer-schreibmaschinen/page/n615)

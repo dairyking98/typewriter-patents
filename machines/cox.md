@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Cox (1860): an index typewriter by nicht fabrikmäßig hergestellt, England. Type wheel, ? characters, top strike, ink roller. Sales: not sold. Price when new: kein Prei."
 year: 1860
 maker: "nicht fabrikmäßig hergestellt"
 country: "England"

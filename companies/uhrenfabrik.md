@@ -7,7 +7,7 @@ Name variants: UHRENFABRIK VORM L FURTWAENGLE; Uhrenfabrik Furtwängler Söhne A
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Uhrenfabrik Furtwängler Söhne AG machine, 1923](../machines/uhrenfabrik-furtwangler-sohne-ag-1923.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
+| [Cardinal](../machines/cardinal.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

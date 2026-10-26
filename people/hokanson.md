@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [Woodstock Typewriter Co machine, 1924](../machines/woodstock-typewriter-co-1924.md) (1924)
+- [Woodstock Electrite](../machines/woodstock-electrite.md) (1924)
 

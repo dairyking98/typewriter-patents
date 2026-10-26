@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Kanzler 4 (1910): a typebar typewriter by Kanzler Schreibmaschinen A.-G, Germany. Typebar (thrust-swing), 88 characters, front strike, ribbon, single shift. Sales: sold well. Price when new: 400 marks."
 year: 1910
 maker: "Kanzler Schreibmaschinen A.-G"
 country: "Germany"
@@ -43,7 +44,11 @@ None linked yet.
 
 ## Same maker
 
-[Kanzler 1/2 (1903)](../machines/kanzler-1-2.md), [Kanzler 3 (1907)](../machines/kanzler-3.md), [Helios 3 (1909)](../machines/helios-3.md)
+[Kanzler 3 (1907)](../machines/kanzler-3.md), [Helios 3 (1909)](../machines/helios-3.md)
+
+## Elsewhere on the web
+
+- On the maker: [Kanzler Modell 3](http://www.hquast.de/Einzelne/Kanzler_Modell3.htm) (Hartmut Quast collection, hquast.de)
 
 ## Sources
 

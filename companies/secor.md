@@ -7,7 +7,7 @@ Name variants: The Secor Typewriter Comp; Secor Typewriter Co. (Williams)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Secor Typewriter Co. (Williams) machine, 1908](../machines/secor-typewriter-co-williams-1908.md) | 1908 | QWERTY-type keyboard | typebar | 22 |
+| [Secor 2](../machines/secor-2.md) | 1908 | QWERTY-type keyboard | typebar | 22 |
 
 ## Inventors
 

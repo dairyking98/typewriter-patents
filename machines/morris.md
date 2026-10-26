@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Morris (1885): an index typewriter by Hoggsen & Pettis Mfg. Co, USA. Type plate, 45 characters, top strike, ink pad. Sales: very few. Price when new: $15."
 year: 1885
 maker: "Hoggsen & Pettis Mfg. Co"
 country: "USA"
@@ -39,6 +40,10 @@ tags: ["machine/index"]
 |---|---|---|---|---|---|
 | [US355703](../patents/US355703.md) | 1887 | Morris, Robert Erastus | Type-Writing Machine | medium | inventor = designer; patent 1887, machine 1885; both plate |
 | [US213771](../patents/US213771.md) | 1879 | Morris, Robert C. | Improvement in Manifold Writing Tablets | low | inventor = designer; patent 1879, machine 1885 |
+
+## Elsewhere on the web
+
+- [Morris Typewriter](https://www.antiquetypewriters.com/typewriter/morris-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

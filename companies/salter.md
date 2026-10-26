@@ -7,11 +7,11 @@ Name variants: George Salter & Co; SALTER & CO LTD G; George Salter & Co. Ltd
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [George Salter & Co machine, 1892](../machines/george-salter-co-1892.md) | 1892 | QWERTY-type keyboard | typebar | 1 |
-| [George Salter & Co machine, 1900](../machines/george-salter-co-1900.md) | 1900 | QWERTY-type keyboard | typebar | 3 |
-| [George Salter & Co machine, 1907](../machines/george-salter-co-1907.md) | 1907 | QWERTY-type keyboard | typebar | 3 |
-| [George Salter & Co machine, 1908](../machines/george-salter-co-1908.md) | 1908 | QWERTY-type keyboard | typebar | 3 |
-| [George Salter & Co. Ltd machine, 1913](../machines/george-salter-co-ltd-1913.md) | 1913 | QWERTY-type keyboard | typebar | 0 |
+| [Salter 5](../machines/salter-5.md) | 1892 | QWERTY-type keyboard | typebar | 1 |
+| [Salter 6](../machines/salter-6.md) | 1900 | QWERTY-type keyboard | typebar | 3 |
+| [Salter 7](../machines/salter-7.md) | 1907 | QWERTY-type keyboard | typebar | 3 |
+| [Salter 10](../machines/salter-10.md) | 1908 | QWERTY-type keyboard | typebar | 3 |
+| [Salter Visible](../machines/salter-visible.md) | 1913 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

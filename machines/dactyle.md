@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Dactyle (1900): a type-element typewriter by Blickensderfer Manufacturing Comp, USA, France. Type wheel, 84 characters, top strike, ribbon, double shift. Sales: sold well. Price when new: 250 Frs.."
 year: 1900
 maker: "Blickensderfer Manufacturing Comp"
 country: "USA, France"
@@ -62,7 +63,11 @@ tags: ["machine"]
 
 ## Same maker
 
-[Blickensderfer 2 (1891)](../machines/blickensderfer-2.md), [Blickensderfer 3 (1891)](../machines/blickensderfer-3.md), [Blickensderfer 4 (1892)](../machines/blickensderfer-4.md), [Blickensderfer 5 (A) (1893)](../machines/blickensderfer-5-a.md), [Blickensderfer 5 (B) (1895)](../machines/blickensderfer-5-b.md), [Blickensderfer 7 (1897)](../machines/blickensderfer-7.md), [Blickensd. Electric 1 (1901)](../machines/blickensd-electric-1.md), [Niagara (1901)](../machines/niagara.md), [Blickensderfer 8 (1907)](../machines/blickensderfer-8.md), [Blickensderfer 5 Alu (1909)](../machines/blickensderfer-5-alu.md), [Blickensderfer 6 (1910)](../machines/blickensderfer-6.md), [Nocoblick (1912)](../machines/nocoblick.md), [Blickensderfer 9 (1914)](../machines/blickensderfer-9.md), [Blickensd. Electric 2 (1918)](../machines/blickensd-electric-2.md)
+[Blickensderfer 2 (1891)](../machines/blickensderfer-2.md), [Blickensderfer 3 (1891)](../machines/blickensderfer-3.md), [Blickensderfer 4 (1892)](../machines/blickensderfer-4.md), [Blickensderfer 5 (A) (1893)](../machines/blickensderfer-5-a.md), [Blickensderfer 5 (B) (1895)](../machines/blickensderfer-5-b.md), [Blickensderfer 7 (1897)](../machines/blickensderfer-7.md), [Blickensd. Electric 1 (1901)](../machines/blickensd-electric-1.md), [Niagara (1901)](../machines/niagara.md), [Blickensderfer 8 (1907)](../machines/blickensderfer-8.md), [Blickensderfer 5 Alu (1909)](../machines/blickensderfer-5-alu.md), [Blickensderfer 6 (1910)](../machines/blickensderfer-6.md), [Nocoblick (1912)](../machines/nocoblick.md), [Blickensderfer 9 (1914)](../machines/blickensderfer-9.md), [Blick-Bar (1914)](../machines/blick-bar.md), [Blickensd. Electric 2 (1918)](../machines/blickensd-electric-2.md)
+
+## Elsewhere on the web
+
+- [Dactyle Schreibmaschinen](https://www.typewriters.ch/collection-2/dactyle/), typewriters.ch
 
 ## Sources
 

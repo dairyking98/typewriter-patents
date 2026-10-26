@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Hall 2 (1887): an index typewriter by Hall Type Writer Co, USA. Type plate, 81 characters, top strike, ink pad. Sales: a fair number. Price when new: $30, 125 marks."
 year: 1887
 maker: "Hall Type Writer Co"
 country: "USA"

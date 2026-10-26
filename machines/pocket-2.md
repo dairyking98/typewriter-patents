@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Pocket (1885): an index typewriter by Herrington Pocket Typewriter Co, USA. Type wheel, 46 characters, top strike, ink roller. Sales: a fair few. Price when new: $5."
 year: 1885
 maker: "Herrington Pocket Typewriter Co"
 country: "USA"
@@ -40,6 +41,10 @@ tags: ["machine/index"]
 | Patent | Year | Inventor | Title | Confidence | Evidence |
 |---|---|---|---|---|---|
 | [US247058](../patents/US247058.md) | 1881 | Herrington, George H. | Type-Writer | low | inventor surname = designer; patent 1881, machine 1885; both wheel |
+
+## Elsewhere on the web
+
+- [Pocket Typewriter](https://www.antiquetypewriters.com/typewriter/pocket-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

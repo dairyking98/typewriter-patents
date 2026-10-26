@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Kneist (1893): an index typewriter by Wunder & Kneist Hannover, Germany. Type plate, 81 characters, top strike, ink pad. Sales: small. Price when new: 75 marks."
 year: 1893
 maker: "Wunder & Kneist Hannover"
 country: "Germany"
@@ -39,6 +40,10 @@ tags: ["machine"]
 |---|---|---|---|---|---|
 | [US565482](../patents/US565482.md) | 1896 | Mayer, Otto Friedrich | Type-Writing Machine | low | inventor surname = designer; patent 1896, machine 1893; both plate |
 | [US572348](../patents/US572348.md) | 1896 | Mayer, Otto Ferdinand | Type-Writing Machine | low | inventor surname = designer; patent 1896, machine 1893; both plate |
+
+## Elsewhere on the web
+
+- [Kneist Typewriter](https://www.antiquetypewriters.com/typewriter/kneist-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

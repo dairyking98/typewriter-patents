@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Volksschreibmaschine (1898): an index typewriter by Friedr. Rehmann, Germany. Type wheel, 76 characters, top strike, ink roller. Sales: not very many. Price when new: 75 marks."
 year: 1898
 maker: "Friedr. Rehmann"
 country: "Germany"

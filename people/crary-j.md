@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Garvin Machine Co machine, 1894](../machines/garvin-machine-co-1894.md) (1894)
+- [Crary](../machines/crary.md) (1894)
 
 ## Patents (5)
 

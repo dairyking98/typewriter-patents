@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [Carmen-Werk A.G machine, 1921](../machines/carmen-werk-a-g-1921.md) (1921)
+- [Carmen](../machines/carmen.md) (1921)
 

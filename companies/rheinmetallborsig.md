@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [RheinmetallBorsig AG machine, 1938](../machines/rheinmetallborsig-ag-1938.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
+| [Rheinmetall Port. 2](../machines/rheinmetall-port-2.md) | 1938 | QWERTY-type keyboard | typebar | 0 |

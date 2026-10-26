@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Eagle (1902): a type-element typewriter by Eagle Typewriter Co, USA. Type wheel, 84 characters, front strike, ribbon, double shift. Sales: very few. Price when new: $25."
 year: 1902
 maker: "Eagle Typewriter Co"
 country: "USA"

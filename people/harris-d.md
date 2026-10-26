@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [Harris Typewriter Co machine, 1911](../machines/harris-typewriter-co-1911.md) (1911)
-- [Rex Typewriter Co machine, 1918](../machines/rex-typewriter-co-1918.md) (1918)
+- [Rex 4](../machines/rex-4.md) (1911)
+- [Rex 10](../machines/rex-10.md) (1918)
 
 ## Assigned to
 

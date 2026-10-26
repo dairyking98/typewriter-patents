@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Dial De Luxe (1934): an index typewriter by Louis Marx Co, USA. Type wheel, 40 characters, top strike, ink roller. Sales: sold well. Price when new: wenige $."
 year: 1934
 maker: "Louis Marx Co"
 country: "USA"

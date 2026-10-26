@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Wheatstone (1856): a type-element typewriter by nicht fabrikmäßig hergestellt, England. Type segment, 56 characters, top strike, ink pad, single shift. Sales: not sold. Price when new: none listed."
 year: 1856
 maker: "nicht fabrikmäßig hergestellt"
 country: "England"

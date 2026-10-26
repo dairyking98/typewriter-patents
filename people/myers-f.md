@@ -3,7 +3,7 @@
 ## Machines designed (Lexikon)
 
 - [Mercury 3](../machines/mercury-3.md) (1887)
-- [nicht fabrikmäßig hergestellt machine, 1887](../machines/nicht-fabrikma-ig-hergestellt-1887.md) (1887)
+- [Myers](../machines/myers.md) (1887)
 
 ## Assigned to
 

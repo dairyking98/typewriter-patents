@@ -7,7 +7,7 @@ Name variants: AUGUST HEGELING C; Hegeling-Werke A.G
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Hegeling-Werke A.G machine, 1924](../machines/hegeling-werke-a-g-1924.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
+| [Phönix](../machines/phonix.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

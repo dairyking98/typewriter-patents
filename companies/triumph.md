@@ -4,28 +4,26 @@ Name variants: TRIUMPH WERKE NUERNBERG AG; TRIUMPH WERKE NUERNBERG AKT GE; Trium
 
 - Dingwerth, Geschichte vol. 1 (digest)
 
-## Machines (23)
+## Machines (21)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Norica (Kührt)](../machines/norica-kuhrt.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
-| [Triumph 1](../machines/triumph-1.md) | 1910 |  | typebar | 0 |
+| [Triumph Visible Co machine, 1907](../machines/triumph-visible-co-1907.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
 | [Triumph 2 / 2a](../machines/triumph-2-2a.md) | 1911 |  | typebar | 0 |
 | [Triumph 10](../machines/triumph-10.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
 | [Modell 1 / Klein-Triumph](../machines/modell-1-klein-triumph.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
-| [Triumph-Werke Nümberg A.G machine, 1929](../machines/triumph-werke-numberg-a-g-1929.md) | 1929 | QWERTY-type keyboard | typebar | 0 |
+| [Triumph Norm 6](../machines/triumph-norm-6.md) | 1929 | QWERTY-type keyboard | typebar | 0 |
 | [Simplex](../machines/simplex.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
-| [Triumph-Werke machine, 1931](../machines/triumph-werke-1931.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Triumph-Werke machine, 1931](../machines/triumph-werke-1931-2.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Triumph-Werke machine, 1931](../machines/triumph-werke-1931-3.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Triumph-Werke machine, 1933](../machines/triumph-werke-1933.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Triumph-Werke Nümberg A.G machine, 1933](../machines/triumph-werke-numberg-a-g-1933.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Triumph-Werke Nümberg A.G machine, 1933](../machines/triumph-werke-numberg-a-g-1933-2.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Adler 31](../machines/adler-31.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Adler 32](../machines/adler-32.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Adler 33](../machines/adler-33.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Adler 32 S](../machines/adler-32-s.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Triumph Durable](../machines/triumph-durable.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Triumph Perfect](../machines/triumph-perfect.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
 | [Durabel](../machines/durabel.md) | 1933 |  | portable, stripped | 0 |
 | [Norm / Perfekt](../machines/norm-perfekt.md) | 1934 |  | portable | 0 |
-| [Triumph-Werke machine, 1935](../machines/triumph-werke-1935.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
-| [Triumph Werke Nümberg A.G machine, 1935](../machines/triumph-werke-numberg-a-g-1935.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
-| [Triumph 12](../machines/triumph-12.md) | 1936 |  | standard, segment shift | 0 |
+| [Adler 34](../machines/adler-34.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
+| [Triumph 12](../machines/triumph-12.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
 | [WLT 36](../machines/wlt-36.md) | 1936 |  | telegraph | 0 |
 | [Standard 14](../machines/standard-14.md) | 1948 |  | standard | 0 |
 | [Matura](../machines/matura.md) | 1950 |  | typebar | 0 |

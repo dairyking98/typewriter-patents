@@ -7,12 +7,12 @@ Name variants: The Elliott-Fisher Comp; ELLIOTT FISHER COMPANY; The Elliott & Ha
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Elliott & Hatch Book Typewriter Co machine, 1897](../machines/elliott-hatch-book-typewriter-co-1897.md) | 1897 | QWERTY-type keyboard | typebar | 4 |
-| [Elliott & Hatch Book Typewriter Co machine, 1898](../machines/elliott-hatch-book-typewriter-co-1898.md) | 1898 | QWERTY-type keyboard | typebar | 4 |
-| [Elliott & Hatch Typewriter Co machine, 1900](../machines/elliott-hatch-typewriter-co-1900.md) | 1900 | QWERTY-type keyboard | typebar | 4 |
-| [Elliott-Fisher Co machine, 1903](../machines/elliott-fisher-co-1903.md) | 1903 | QWERTY-type keyboard | typebar | 0 |
+| [Elliott & Hatch 1](../machines/elliott-hatch-1.md) | 1897 | QWERTY-type keyboard | typebar | 4 |
+| [Elliott & Hatch 2](../machines/elliott-hatch-2.md) | 1898 | QWERTY-type keyboard | typebar | 4 |
+| [Elliott & Hatch 3](../machines/elliott-hatch-3.md) | 1900 | QWERTY-type keyboard | typebar | 4 |
+| [Elliott-Fisher 1](../machines/elliott-fisher-1.md) | 1903 | QWERTY-type keyboard | typebar | 0 |
 | [Bennett](../machines/bennett.md) | 1910 | Ideal (DHIATENSOR) keyboard | type wheel | 3 |
-| [Elliott-Fisher Co machine, 1914](../machines/elliott-fisher-co-1914.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
+| [Elliott-Fisher 2](../machines/elliott-fisher-2.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

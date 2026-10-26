@@ -6,7 +6,7 @@
 - [Oliver 3](../machines/oliver-3.md) (1902)
 - [Oliver 4](../machines/oliver-4.md) (1904)
 - [Oliver 5](../machines/oliver-5.md) (1907)
-- [Oliver Typewriter Co machine, 1907](../machines/oliver-typewriter-co-1907.md) (1907)
+- [Oliver 6](../machines/oliver-6.md) (1907)
 - [Oliver 7, 8](../machines/oliver-7-8.md) (1914)
 - [Oliver 9](../machines/oliver-9.md) (1915)
 - [Oliver 10](../machines/oliver-10.md) (?)

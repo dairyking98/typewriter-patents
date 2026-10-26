@@ -7,7 +7,7 @@ Name variants: DAIMLER MOTOREN; DAIMLER BENZ AG; DAIMLER BENZ AKT GES; Daimler M
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Daimler MotorenGesellschaft machine, 1924](../machines/daimler-motorengesellschaft-1924.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
+| [DMG](../machines/dmg.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

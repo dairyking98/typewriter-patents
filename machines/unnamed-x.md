@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Unnamed machine, ?: a typebar typewriter. Typebar, 92 characters, front strike, ribbon, single shift. Sales: sold well. Price when new: 650 / 675 sfr.."
 index_machine: false
 selection: "QWERTY-type keyboard"
 carrier: "typebar"

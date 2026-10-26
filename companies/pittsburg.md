@@ -7,10 +7,10 @@ Name variants: Pittsburg Writing Machine Co; The Pittsburg Writing Machine Comp
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Pittsburg Writing Machine Co machine, 1897](../machines/pittsburg-writing-machine-co-1897.md) | 1897 | QWERTY-type keyboard | typebar | 10 |
-| [Pittsburg Writing Machine Co machine, 1902](../machines/pittsburg-writing-machine-co-1902.md) | 1902 | QWERTY-type keyboard | typebar | 0 |
-| [Pittsburg Writing Machine Co machine, 1908](../machines/pittsburg-writing-machine-co-1908.md) | 1908 | QWERTY-type keyboard | typebar | 0 |
-| [Pittsburg Writing Machine Co machine, 1911](../machines/pittsburg-writing-machine-co-1911.md) | 1911 | QWERTY-type keyboard | typebar | 0 |
+| [Pittsburg 9](../machines/pittsburg-9.md) | 1897 | QWERTY-type keyboard | typebar | 10 |
+| [Pittsburg 10](../machines/pittsburg-10.md) | 1902 | QWERTY-type keyboard | typebar | 0 |
+| [Pittsburg 11](../machines/pittsburg-11.md) | 1908 | QWERTY-type keyboard | typebar | 0 |
+| [Pittsburg 12](../machines/pittsburg-12.md) | 1911 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

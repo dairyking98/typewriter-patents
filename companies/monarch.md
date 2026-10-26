@@ -7,10 +7,10 @@ Name variants: The Monarch Typewriter Comp; Monarch Typewriter Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Monarch Typewriter Co machine, 1904](../machines/monarch-typewriter-co-1904.md) | 1904 | QWERTY-type keyboard | typebar | 16 |
-| [Monarch Typewriter Co machine, 1904](../machines/monarch-typewriter-co-1904-2.md) | 1904 | QWERTY-type keyboard | typebar | 16 |
-| [Monarch Typewriter Co machine, 1906](../machines/monarch-typewriter-co-1906.md) | 1906 | QWERTY-type keyboard | typebar | 16 |
-| [Monarch Typewriter Co machine, 1914](../machines/monarch-typewriter-co-1914.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
+| [Monarch 1](../machines/monarch-1.md) | 1904 | QWERTY-type keyboard | typebar | 16 |
+| [Monarch 2](../machines/monarch-2.md) | 1904 | QWERTY-type keyboard | typebar | 16 |
+| [Monarch 3, 4](../machines/monarch-3-4.md) | 1906 | QWERTY-type keyboard | typebar | 16 |
+| [Monarch 3 Wahl](../machines/monarch-3-wahl.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

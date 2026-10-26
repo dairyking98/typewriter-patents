@@ -2,10 +2,10 @@
 
 ## Machines designed (Lexikon)
 
-- [Maschinenfabrik G.F. Grosser machine, 1919](../machines/maschinenfabrik-g-f-grosser-1919.md) (1919)
-- [Maschinenfabrik G. F. Grosser machine, 1926](../machines/maschinenfabrik-g-f-grosser-1926.md) (1926)
-- [Maschinenfabrik G.F. Grosser machine, 1933](../machines/maschinenfabrik-g-f-grosser-1933.md) (1933)
-- [Maschinenfabrik G.F. Grosser machine, 1936](../machines/maschinenfabrik-g-f-grosser-1936.md) (1936)
+- [Groma Standard](../machines/groma-standard.md) (1919)
+- [Groma K](../machines/groma-k.md) (1926)
+- [Groma S](../machines/groma-s.md) (1933)
+- [Groma Simplex V.K.](../machines/groma-simplex-v-k.md) (1936)
 
 ## Assigned to
 

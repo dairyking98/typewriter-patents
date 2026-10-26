@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Beger & Markworth (1897): an index typewriter by nicht fabrikmäßig hergestellt, Germany. Type wheel, 76 characters, top strike, ink roller. Sales: not sold. Price when new: none listed."
 year: 1897
 maker: "nicht fabrikmäßig hergestellt"
 country: "Germany"

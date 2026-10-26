@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Schreibkugel (1867): a typewriter."
 year: 1867
 index_machine: false
 patents: 0

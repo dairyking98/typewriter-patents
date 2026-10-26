@@ -7,9 +7,9 @@ Name variants: ARCHO SCHREIBMASCHINEN COMPANY; ARCHO SCHREIBMASCHINEN COMPANY; W
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Archo-Schreibm. Winterling&Pfahl machine, 1921](../machines/archo-schreibm-winterling-pfahl-1921.md) | 1921 | QWERTY-type keyboard | push-rod typebars | 1 |
-| [Archo Schreibmaschinen Co. Land Deutschland machine, 1935](../machines/archo-schreibmaschinen-co-land-deutschland-1935.md) | 1935 | QWERTY-type keyboard | push-rod typebars | 3 |
-| [Archo Schreibmaschinen Co machine, 1937](../machines/archo-schreibmaschinen-co-1937.md) | 1937 | QWERTY-type keyboard | push-rod typebars | 4 |
+| [Archo D](../machines/archo-d.md) | 1921 | QWERTY-type keyboard | push-rod typebars | 1 |
+| [Archo 10](../machines/archo-10.md) | 1935 | QWERTY-type keyboard | push-rod typebars | 3 |
+| [Archo Noma](../machines/archo-noma.md) | 1937 | QWERTY-type keyboard | push-rod typebars | 4 |
 
 ## Inventors
 

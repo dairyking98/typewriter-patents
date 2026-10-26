@@ -14,7 +14,7 @@ These are the machines from Germany that the library classes as index machines. 
 
 | Machine | Year | Maker | Carrier |
 |---|---|---|---|
-| [Hammonia (Hansen patent)](../machines/hammonia-hansen-patent.md) | 1884 | [Guhl & Harbeck](../companies/guhl.md) | pointer bar |
+| [Hammonia (Hansen patent)](../machines/hammonia.md) | 1884 | [Guhl & Harbeck](../companies/guhl.md) | pointer bar |
 | [Westphalia](../machines/westphalia.md) | 1884 | [E. W. Brackelsberg & Co](../companies/brackelsberg.md) | linear type rule |
 | [Soennecken](../machines/soennecken.md) | 1890 | F. Soennecken (never sold) | linear type rule |
 | [Büttner](../machines/buttner.md) | 1896 | not factory made | type wheel |
@@ -48,7 +48,7 @@ The type wheel dominates the list, as it does internationally. The type cylinder
 
 ### The first machines
 
-The earliest German index machines in the Lexikon date from 1884. The [Westphalia](../machines/westphalia.md) of E. W. Brackelsberg carried its 86 or 87 characters on a straight type rule, printed upward, and took its ink from carbon paper. It cost 300 marks and sold in very small numbers. The firm [Guhl & Harbeck](../companies/guhl.md) made the [Hammonia](../machines/hammonia-hansen-patent.md) of the same year, classed as a pointer-bar machine.
+The earliest German index machines in the Lexikon date from 1884. The [Westphalia](../machines/westphalia.md) of E. W. Brackelsberg carried its 86 or 87 characters on a straight type rule, printed upward, and took its ink from carbon paper. It cost 300 marks and sold in very small numbers. The firm [Guhl & Harbeck](../companies/guhl.md) made the [Hammonia](../machines/hammonia.md) of the same year, classed as a pointer-bar machine.
 
 The patent record starts slightly earlier. [DE21564](../patents/DE21564.md) (1883, date estimated) sets out the basic idea: one lever on a sliding carriage holds a type rod, a pointer key drops into a rack to set the character, and pressing the lever prints and steps the carriage. Its addition, [DE23653](../patents/DE23653.md), keeps the index plate still (before, it went down with the type bar on every letter, so the eye lost it) and prints only if the pointer really sits between two teeth of the chart.
 

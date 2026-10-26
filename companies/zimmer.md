@@ -7,8 +7,8 @@ Name variants: ZIMMER & CO KOMMANDITGESELLSCH; Zimmer &Co. K.a.A; Zimmer & Co. K
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Zimmer &Co. K.a.A machine, 1922](../machines/zimmer-co-k-a-a-1922.md) | 1922 | QWERTY-type keyboard | push-rod typebars | 0 |
-| [Zimmer & Co. KG.a.A machine, 1924](../machines/zimmer-co-kg-a-a-1924.md) | 1924 | QWERTY-type keyboard | push-rod typebars | 0 |
+| [Protos](../machines/protos.md) | 1922 | QWERTY-type keyboard | push-rod typebars | 0 |
+| [Klein-Protos](../machines/klein-protos.md) | 1924 | QWERTY-type keyboard | push-rod typebars | 0 |
 
 ## Inventors
 

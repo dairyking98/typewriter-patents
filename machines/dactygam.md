@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Dactygam (1920): a type-element typewriter by wahrscheinlich nicht fabriziert, France. Type wheel, 90 characters, top strike, ink roller, double shift. Sales: probably no sales. Price when new: none listed."
 year: 1920
 maker: "wahrscheinlich nicht fabriziert"
 country: "France"

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Crown Index 2 (1894): an index typewriter by National Meter Co, USA. Type wheel, 81 characters, top strike, ink roller, double shift. Sales: only very small. Price when new: $20."
 year: 1894
 maker: "National Meter Co"
 country: "USA"

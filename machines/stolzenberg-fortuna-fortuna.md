@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Stolzenberg-Fortuna / Fortuna (1922): a typebar typewriter by WAFFENFABRIK; WALTHER CARL, Germany. Typebar, 84 characters, front strike, ribbon, single shift. Sales: sold well. Price when new: about 350 marks."
 year: 1922
 maker: "WAFFENFABRIK; WALTHER CARL"
 country: "Germany"
@@ -43,7 +44,11 @@ None linked yet.
 
 ## Same maker
 
-[Fortuna 4 (1928)](../machines/fortuna-4.md), [Fortuna portable (1931 ads) (1931)](../machines/fortuna-portable-1931-ads.md), [Fortuna with front plate (1939)](../machines/fortuna-with-front-plate.md)
+[Fortuna portable (1931 ads) (1931)](../machines/fortuna-portable-1931-ads.md), [Fortuna with front plate (1939)](../machines/fortuna-with-front-plate.md)
+
+## Elsewhere on the web
+
+- [Stolzenberg Fortuna](http://www.hquast.de/Einzelne/Stolzenberg_Fortuna.htm), Hartmut Quast collection, hquast.de
 
 ## Sources
 

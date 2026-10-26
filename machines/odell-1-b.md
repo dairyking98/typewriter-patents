@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Odell 1 B (1888): an index typewriter by Odell Typewriter Co, USA. Type bar (straight), 78 characters, top strike, ink roller, single shift. Sales: few. Price when new: $20."
 year: 1888
 maker: "Odell Typewriter Co"
 country: "USA"

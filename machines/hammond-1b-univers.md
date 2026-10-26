@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Hammond 1B Univers. (1890): a type-element typewriter, USA. Type shuttle, 90 characters, front strike, ribbon, double shift. Sales: moderate. Price when new: $100, 450 marks."
 year: 1890
 country: "USA"
 index_machine: false
@@ -36,6 +37,10 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- On the maker: [Hammond Multiplex](http://www.hquast.de/Einzelne/Hammond_Multiplex.htm) (Hartmut Quast collection, hquast.de) · [Hammond Nr. 12](http://www.hquast.de/Einzelne/Hammond_Nr12.htm) (Hartmut Quast collection, hquast.de) · [Hammond Nr. 2](http://www.hquast.de/Einzelne/Hammond_%20Nr2.htm) (Hartmut Quast collection, hquast.de)
 
 ## Sources
 

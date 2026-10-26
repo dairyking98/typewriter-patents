@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Brady Manufactoring Co machine, 1888](../machines/brady-manufactoring-co-1888.md) | 1888 | Ideal (DHIATENSOR) keyboard | typebar | 2 |
+| [Fitch 2 A](../machines/fitch-2-a.md) | 1888 | Ideal (DHIATENSOR) keyboard | typebar | 2 |

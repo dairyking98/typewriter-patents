@@ -7,7 +7,7 @@ Name variants: The Fitch Typewriter Comp; The Fitch Type Writer Comp; Fitch Type
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Fitch Typewriter Co. Ltd machine, 1891](../machines/fitch-typewriter-co-ltd-1891.md) | 1891 | Ideal (DHIATENSOR) keyboard | typebar | 2 |
+| [Fitch 2 B](../machines/fitch-2-b.md) | 1891 | Ideal (DHIATENSOR) keyboard | typebar | 2 |
 
 ## Inventors
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Ultima (Bial & Freund) (1910): a typewriter by Helios Schreibmaschinen GmbH, Germany. Same machine, other name."
 year: 1910
 maker: "Helios Schreibmaschinen GmbH"
 country: "Germany"

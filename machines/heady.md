@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Heady (1919): an index typewriter by Rooy Sa, France. Type wheel, 84 characters, top strike, ribbon. Sales: sold well. Price when new: about 100 marks."
 year: 1919
 maker: "Rooy Sa"
 country: "France"
@@ -38,6 +39,10 @@ tags: ["machine/index"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- On the maker: [Heady](http://www.hquast.de/Einzelne/Heady.htm) (Hartmut Quast collection, hquast.de)
 
 ## Sources
 

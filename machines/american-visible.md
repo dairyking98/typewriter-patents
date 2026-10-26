@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "American Visible: an index typewriter by American Typewriter Co, USA. Type plate, 92Aufschlag Oberaufschlag characters, ink pad, single shift. Sales: very modest. Price when new: $5."
 maker: "American Typewriter Co"
 country: "USA"
 index_machine: true
@@ -36,7 +37,12 @@ None linked yet.
 
 ## Same maker
 
-[American Index (1893)](../machines/american-index.md), [American Double Wheel (1898)](../machines/american-double-wheel.md)
+[American Index (1893)](../machines/american-index.md), [American Double Wheel (1898)](../machines/american-double-wheel.md), [American Armstrong 5 (1901)](../machines/american-armstrong-5.md), [American Armstrong 7 (1905)](../machines/american-armstrong-7.md), [American Armstrong 8 (1908)](../machines/american-armstrong-8.md)
+
+## Elsewhere on the web
+
+- [American Visible 1 Typewriter](https://www.antiquetypewriters.com/typewriter/american-visible-1-typewriter/), Martin Howard Collection, antiquetypewriters.com
+- [American Visible Typewriter](http://www.typewritercollector.com/collectible/americanvisible.htm), Tony Casillo, typewritercollector.com
 
 ## Sources
 

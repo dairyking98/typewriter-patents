@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Senta 4 (1926): a typebar typewriter by A.G. vorm. Frister & Rossmann, Germany. Typebar, 88 characters, front strike, ribbon, single shift. Sales: large numbers. Price when new: 240 marks."
 year: 1926
 maker: "A.G. vorm. Frister & Rossmann"
 country: "Germany"
@@ -43,7 +44,11 @@ None linked yet.
 
 ## Same maker
 
-[Frister & Rossmann (1-4) (1892)](../machines/frister-rossmann-1-4.md), [Sun 2/3 (agency) (1905)](../machines/sun-2-3-agency.md), [Royal 3, 5, 10 (agency) (1910)](../machines/royal-3-5-10-agency.md), [Senta (Presto) (1913)](../machines/senta-presto.md), [Rossmannia (1914)](../machines/rossmannia.md)
+[Frister & Rossmann 2 (1896)](../machines/frister-rossmann-2.md), [Frister & Rossmann 3 (1902)](../machines/frister-rossmann-3.md), [Royal 3, 5, 10 (agency) (1910)](../machines/royal-3-5-10-agency.md), [Rossmannia (1913)](../machines/rossmannia.md), [Senta 3 (1913)](../machines/senta-3.md)
+
+## Elsewhere on the web
+
+- On the maker: [Senta](http://www.hquast.de/Einzelne/Senta.htm) (Hartmut Quast collection, hquast.de) · [Senta Schreibmaschine](https://www.typewriters.ch/collection-2/senta/) (typewriters.ch)
 
 ## Sources
 

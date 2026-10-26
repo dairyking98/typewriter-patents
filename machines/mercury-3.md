@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Mercury 3 (1887): a type-element typewriter by Mercury Type Writing Machine Comp, England. Type wheel, 60 characters, top strike, ink roller, single shift. Sales: very small. Price when new: unter £ 10.."
 year: 1887
 maker: "Mercury Type Writing Machine Comp"
 country: "England"

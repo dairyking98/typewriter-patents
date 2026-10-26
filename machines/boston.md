@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Boston (1888): an index typewriter by Boston Type Writer Company, USA. Type wheel, 84 characters, top strike, ribbon, single shift. Sales: extremely few."
 year: 1888
 maker: "Boston Type Writer Company"
 country: "USA"
@@ -39,6 +40,10 @@ tags: ["machine"]
 | Patent | Year | Inventor | Title | Confidence | Evidence |
 |---|---|---|---|---|---|
 | [US342302](../patents/US342302.md) | 1886 | Kempster, Daniel E. | Type-Writing Machine | medium | inventor = designer; patent 1886, machine 1888; both wheel |
+
+## Elsewhere on the web
+
+- [Boston Typewriter](https://www.antiquetypewriters.com/typewriter/boston-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

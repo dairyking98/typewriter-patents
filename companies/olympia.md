@@ -9,8 +9,8 @@ Name variants: OLYMPIA BUEROMASCHINENWERKE A; Olympia Bueromaschinenwerke A; Oly
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
 | [Olympia Plurotyp](../machines/olympia-plurotyp.md) | 1933 | index | type cylinder | 0 |
-| [Olympia Büromaschinen A.G machine, 1936](../machines/olympia-buromaschinen-a-g-1936.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
-| [Olympia Büromaschinen A.G machine, 1939](../machines/olympia-buromaschinen-a-g-1939.md) | 1939 | QWERTY-type keyboard | typebar | 0 |
+| [Olympia Filia B](../machines/olympia-filia-b.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Olympia Plana](../machines/olympia-plana.md) | 1939 | QWERTY-type keyboard | typebar | 0 |
 | [Orbis / Olympia-Orbis (Progreß)](../machines/orbis-olympia-orbis-progre.md) | 1948 |  | typebar portable | 0 |
 | [SM 1, SM 2, SM 3, SM 4](../machines/sm-1-sm-2-sm-3-sm-4.md) | 1950 |  | typebar portable | 0 |
 | [SG 1](../machines/sg-1.md) | 1953 |  | typebar standard | 0 |

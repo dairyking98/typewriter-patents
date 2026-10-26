@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Shimada 2 (1938): an index typewriter by Shimada Typewriter Works, Japan. 2.740 characters, ink roller."
 year: 1938
 maker: "Shimada Typewriter Works"
 country: "Japan"

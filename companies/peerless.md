@@ -7,7 +7,7 @@ Name variants: The Peerless Check Protecting Comp; Peerless Typewriting Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Peerless Typewriting Co machine, 1895](../machines/peerless-typewriting-co-1895.md) | 1895 | full keyboard (one key per character) | typebar | 0 |
+| [Peerless](../machines/peerless.md) | 1895 | full keyboard (one key per character) | typebar | 0 |
 
 ## Inventors
 

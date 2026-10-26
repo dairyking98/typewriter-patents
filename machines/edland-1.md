@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Edland 1 (1891): an index typewriter by Liberty Mfg. Co, USA. Type wheel, 87 characters, front strike, double shift. Sales: very few. Price when new: $5."
 year: 1891
 maker: "Liberty Mfg. Co"
 country: "USA"

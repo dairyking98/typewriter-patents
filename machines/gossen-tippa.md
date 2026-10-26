@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Gossen-Tippa (1949): a typebar typewriter by Gossen & Co G M B H P, Germany. Typebar, flat portable."
 year: 1949
 maker: "Gossen & Co G M B H P"
 country: "Germany"
@@ -32,6 +33,10 @@ None linked yet.
 ## Same maker
 
 [Tippa Bonny / Pilot / Lady (1956)](../machines/tippa-bonny-pilot-lady.md), [Adler-Tippa / Triumph-Tippa (1956)](../machines/adler-tippa-triumph-tippa.md)
+
+## Elsewhere on the web
+
+- [Gossen Tippa Schreibmaschine](https://www.typewriters.ch/collection-2/gossen-tippa/), typewriters.ch
 
 ## Sources
 

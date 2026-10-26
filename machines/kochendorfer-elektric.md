@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Kochendörfer Elektric (1901): a type-element typewriter by nicht fabrikmäßig hergestellt, Germany. Type wheel, 81 characters, front strike, ribbon, double shift. Sales: not sold. Price when new: 250 marks geplant."
 year: 1901
 maker: "nicht fabrikmäßig hergestellt"
 country: "Germany"

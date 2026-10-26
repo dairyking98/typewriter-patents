@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [Daugherty Typewriter Co machine, 1892](../machines/daugherty-typewriter-co-1892.md) (1892)
-- [Pittsburg Writing Machine Co machine, 1897](../machines/pittsburg-writing-machine-co-1897.md) (1897)
+- [Daugherty](../machines/daugherty.md) (1892)
+- [Pittsburg 9](../machines/pittsburg-9.md) (1897)
 
 ## Assigned to
 

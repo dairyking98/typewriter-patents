@@ -277,6 +277,17 @@
           });
         });
       }
+      var lm = (data.landmarks || []).filter(function (l) { return +l.year === yy; });
+      if (lm.length) {
+        var pl = h("p", {}, panel); h("strong", {}, pl, "American landmarks: ");
+        lm.forEach(function (l, i) {
+          if (i) pl.appendChild(document.createTextNode("; "));
+          if (l.slug) h("a", { href: page("machines", l.slug) }, pl, l.event); else pl.appendChild(document.createTextNode(l.event));
+        });
+        pl.appendChild(document.createTextNode(" ("));
+        h("a", { href: BASE + "views/american-timeline/" }, pl, "details and sources");
+        pl.appendChild(document.createTextNode(")"));
+      }
       var nb = (data.notable || {})[yy];
       if (nb && nb.length) {
         var p2 = h("p", {}, panel); p2.appendChild(document.createTextNode("Read patents of the year: "));

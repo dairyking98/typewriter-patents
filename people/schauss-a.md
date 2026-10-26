@@ -2,11 +2,11 @@
 
 ## Machines designed (Lexikon)
 
-- [Merz-Werke machine, 1926](../machines/merz-werke-1926.md) (1926)
-- [Merz-Werke machine, 1927](../machines/merz-werke-1927.md) (1927)
-- [Merz-Werke machine, 1928](../machines/merz-werke-1928.md) (1928)
-- [Merz-Werke machine, 1928](../machines/merz-werke-1928-2.md) (1928)
-- [Merz-Werke machine, 1930](../machines/merz-werke-1930.md) (1930)
-- [Merz-Werke machine, 1930](../machines/merz-werke-1930-2.md) (1930)
-- [Schauss & Vogl K.G machine, 1934](../machines/schauss-vogl-k-g-1934.md) (1934)
+- [Merz 1](../machines/merz-1.md) (1926)
+- [Merz 2](../machines/merz-2.md) (1927)
+- [Merz 3](../machines/merz-3.md) (1928)
+- [Merz Simplex](../machines/merz-simplex.md) (1928)
+- [Merz Standard](../machines/merz-standard.md) (1930)
+- [Merz Universal](../machines/merz-universal.md) (1930)
+- [Schauss & Vogl](../machines/schauss-vogl.md) (1934)
 

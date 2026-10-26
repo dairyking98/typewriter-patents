@@ -2,6 +2,6 @@
 
 ## Machines designed (Lexikon)
 
-- [Rex Typewriter Co machine, 1917](../machines/rex-typewriter-co-1917.md) (1917)
-- [Rex Typewriter Co machine, 1920](../machines/rex-typewriter-co-1920.md) (1920)
+- [National Portable 2, 3](../machines/national-portable-2-3.md) (1917)
+- [National Portable 5](../machines/national-portable-5.md) (1920)
 

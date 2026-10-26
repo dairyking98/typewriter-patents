@@ -9,14 +9,14 @@ Name variants: Sun Typewriter Co; The Sun Typewriter Comp; Sun Typewr. Co.+ Fris
 |---|---|---|---|---|
 | [Sun Index 1](../machines/sun-index-1.md) | 1884 | single key | type bar (straight) | 0 |
 | [Sun Index 2](../machines/sun-index-2.md) | 1887 | single key | type bar (straight) | 0 |
-| [Sun Typewr. Co.+ Frister & Rossmann machine, 1901](../machines/sun-typewr-co-frister-rossmann-1901.md) | 1901 | QWERTY-type keyboard | typebar | 18 |
-| [Sun Typewr. Co.+ Frister & Rossmann machine, 1902](../machines/sun-typewr-co-frister-rossmann-1902.md) | 1902 | QWERTY-type keyboard | typebar | 18 |
-| [Sun Typewriter Co machine, 1906](../machines/sun-typewriter-co-1906.md) | 1906 | QWERTY-type keyboard | typebar | 21 |
-| [Sun Typewriter Co machine, 1907](../machines/sun-typewriter-co-1907.md) | 1907 | QWERTY-type keyboard | typebar | 21 |
-| [Sun Typewriter Co machine, 1908](../machines/sun-typewriter-co-1908.md) | 1908 | QWERTY-type keyboard | typebar | 21 |
-| [Sun Typewriter Co machine, 1909](../machines/sun-typewriter-co-1909.md) | 1909 | QWERTY-type keyboard | typebar | 22 |
-| [Sun Typewriter Co machine, 1910](../machines/sun-typewriter-co-1910.md) | 1910 | QWERTY-type keyboard | typebar | 22 |
-| [Sun Typewriter Co machine, 1912](../machines/sun-typewriter-co-1912.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
+| [Sun 2, 4](../machines/sun-2-4.md) | 1901 | QWERTY-type keyboard | typebar | 18 |
+| [Sun 3](../machines/sun-3.md) | 1902 | QWERTY-type keyboard | typebar | 18 |
+| [Sun 2 Aluminium](../machines/sun-2-aluminium.md) | 1906 | QWERTY-type keyboard | typebar | 21 |
+| [Sun 6](../machines/sun-6.md) | 1907 | QWERTY-type keyboard | typebar | 21 |
+| [Star](../machines/star.md) | 1908 | QWERTY-type keyboard | typebar | 21 |
+| [Sun Standard](../machines/sun-standard.md) | 1909 | QWERTY-type keyboard | typebar | 22 |
+| [Sun 2 B](../machines/sun-2-b.md) | 1910 | QWERTY-type keyboard | typebar | 22 |
+| [Star Neues Modell](../machines/star-neues-modell.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

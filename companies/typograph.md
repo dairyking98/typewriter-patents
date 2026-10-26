@@ -7,7 +7,7 @@ Name variants: The Typograph Comp; TYPOGRAPH G M B H; TYPOGRAPH GMBH; Typograph 
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Typograph Company machine, 1887](../machines/typograph-company-1887.md) | 1887 | QWERTY-type keyboard | typebar | 5 |
+| [Cash](../machines/cash.md) | 1887 | QWERTY-type keyboard | typebar | 5 |
 
 ## Inventors
 

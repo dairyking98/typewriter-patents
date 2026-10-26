@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Alisow (1872): an index typewriter by nicht fabrikmäßig hergestellt, Russia. Type wheel, 240 characters, understrike (blind), ink roller. Sales: not sold. Price when new: none listed."
 year: 1872
 maker: "nicht fabrikmäßig hergestellt"
 country: "Russia"

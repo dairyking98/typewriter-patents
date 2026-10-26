@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Karli 1 Einreihig (1927): an index typewriter by Karl Dietrich, Germany. Individual type, 78 characters, top strike, ribbon. Sales: very few. Price when new: 42 marks."
 year: 1927
 maker: "Karl Dietrich"
 country: "Germany"

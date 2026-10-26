@@ -4,35 +4,29 @@ Name variants: ADLERWERKE KLEYER AG H; Adlerwerke vorm. Heinr. Kleyer AG; Adlerw
 
 - Dingwerth, Geschichte vol. 1 (digest)
 
-## Machines (33)
+## Machines (27)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Empire / Adler 7](../machines/empire-adler-7.md) | 1898 | QWERTY-type keyboard | push-rod typebars | 8 |
+| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1898](../machines/adlerwerke-vorm-heinr-kleyer-ag-1898.md) | 1898 | QWERTY-type keyboard | push-rod typebars | 8 |
 | [Adler 8](../machines/adler-8.md) | 1902 | QWERTY-type keyboard | push-rod typebars | 8 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1907](../machines/adlerwerke-vorm-heinr-kleyer-ag-1907.md) | 1907 | QWERTY-type keyboard | push-rod typebars | 0 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1909](../machines/adlerwerke-vorm-heinr-kleyer-ag-1909.md) | 1909 | QWERTY-type keyboard | push-rod typebars | 0 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1909](../machines/adlerwerke-vorm-heinr-kleyer-ag-1909-2.md) | 1909 | QWERTY-type keyboard | push-rod typebars | 0 |
-| [Adler 11](../machines/adler-11.md) | 1909 |  | push-bar | 0 |
-| [Adler 15](../machines/adler-15.md) | 1909 |  | push-bar, 4 rows | 0 |
+| [Adler 9](../machines/adler-9.md) | 1907 | QWERTY-type keyboard | push-rod typebars | 0 |
+| [Adler 11](../machines/adler-11.md) | 1909 | QWERTY-type keyboard | push-rod typebars | 0 |
+| [Adler 15](../machines/adler-15.md) | 1909 | QWERTY-type keyboard | push-rod typebars | 0 |
 | [Aluminium-Adler](../machines/aluminium-adler.md) | 1909 |  | push-bar | 0 |
 | [Adler 14](../machines/adler-14.md) | 1910 | QWERTY-type keyboard | push-rod typebars | 0 |
 | [Adler 16](../machines/adler-16.md) | 1911 | QWERTY-type keyboard | push-rod typebars | 0 |
 | [Klein-Adler](../machines/klein-adler.md) | 1912 | QWERTY-type keyboard | push-rod typebars | 0 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1913](../machines/adlerwerke-vorm-heinr-kleyer-ag-1913.md) | 1913 | QWERTY-type keyboard | push-rod typebars | 0 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1913](../machines/adlerwerke-vorm-heinr-kleyer-ag-1913-2.md) | 1913 | QWERTY-type keyboard | typebar | 0 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1913](../machines/adlerwerke-vorm-heinr-kleyer-ag-1913-3.md) | 1913 | QWERTY-type keyboard | push-rod typebars | 1 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1913](../machines/adlerwerke-vorm-heinr-kleyer-ag-1913-4.md) | 1913 |  | push-rod typebars | 13 |
-| [Adler 17](../machines/adler-17.md) | 1913 |  | push-bar, 4 rows | 0 |
-| [Adler 19](../machines/adler-19.md) | 1913 |  | push-bar | 0 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1925](../machines/adlerwerke-vorm-heinr-kleyer-ag-1925.md) | 1925 | QWERTY-type keyboard |  | 0 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1927](../machines/adlerwerke-vorm-heinr-kleyer-ag-1927.md) | 1927 | QWERTY-type keyboard | push-rod typebars | 0 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1930](../machines/adlerwerke-vorm-heinr-kleyer-ag-1930.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
-| [Adler 31 / Standard](../machines/adler-31-standard.md) | 1931 |  | typebar | 0 |
-| [Adler 32](../machines/adler-32.md) | 1931 |  | typebar | 0 |
-| [Adler Favorit, Favorit 2](../machines/adler-favorit-favorit-2.md) | 1935 | QWERTY-type keyboard | push-rod typebars | 0 |
-| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1937](../machines/adlerwerke-vorm-heinr-kleyer-ag-1937.md) | 1937 | QWERTY-type keyboard | push-rod typebars | 0 |
-| [Adlerwerke vorm Heinr. Kleyer AG machine, 1937](../machines/adlerwerke-vorm-heinr-kleyer-ag-1937-2.md) | 1937 | QWERTY-type keyboard | push-rod typebars | 0 |
+| [Adler 17](../machines/adler-17.md) | 1913 | QWERTY-type keyboard | push-rod typebars | 0 |
+| [Adler 18](../machines/adler-18.md) | 1913 | QWERTY-type keyboard | typebar | 0 |
+| [Adler 19](../machines/adler-19.md) | 1913 | QWERTY-type keyboard | push-rod typebars | 1 |
+| [Adler 21](../machines/adler-21.md) | 1913 |  | push-rod typebars | 13 |
+| [Adler 25](../machines/adler-25.md) | 1925 | QWERTY-type keyboard |  | 0 |
+| [Klein-Adler 2](../machines/klein-adler-2.md) | 1927 | QWERTY-type keyboard | push-rod typebars | 0 |
+| [Adler 30](../machines/adler-30.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
+| [Adlerwerke vorm. Heinr. Kleyer AG machine, 1935](../machines/adlerwerke-vorm-heinr-kleyer-ag-1935.md) | 1935 | QWERTY-type keyboard | push-rod typebars | 0 |
+| [Adler Favorit 2](../machines/adler-favorit-2.md) | 1937 | QWERTY-type keyboard | push-rod typebars | 0 |
+| [Adler 37](../machines/adler-37.md) | 1937 | QWERTY-type keyboard | push-rod typebars | 0 |
 | [Klein-Adler 46](../machines/klein-adler-46.md) | 1946 |  | portable | 0 |
 | [Adler Standard 48](../machines/adler-standard-48.md) | 1948 |  | typebar | 0 |
 | [Standard Universal, Spezial](../machines/standard-universal-spezial.md) | 1951 |  | typebar | 0 |

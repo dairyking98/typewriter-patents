@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Essex 1, 2 (1890): a type-element typewriter by Essex Typewriter Comp, USA. Type segment, front strike, ink roller, double shift. Sales: extremely few. Price when new: $41, -."
 year: 1890
 maker: "Essex Typewriter Comp"
 country: "USA"

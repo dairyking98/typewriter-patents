@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Model II / 2 (1949): a typebar typewriter by Siemag Siegener Maschb Akt Ges, Germany. Typebar."
 year: 1949
 maker: "Siemag Siegener Maschb Akt Ges"
 country: "Germany"

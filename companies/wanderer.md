@@ -4,19 +4,17 @@ Name variants: WANDERER WERKE VORM WINKLHOFER; WANDERER WERKE AG; The Wanderer W
 
 - Dingwerth, Geschichte vol. 2 (digest)
 
-## Machines (11)
+## Machines (9)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
 | [Wanderer-Werke A.G machine, ?](../machines/wanderer-werke-a-g-x.md) |  | QWERTY-type keyboard | typebar | 0 |
 | [Continental (Standard)](../machines/continental-standard.md) | 1904 | QWERTY-type keyboard | typebar | 0 |
 | [Continental special models](../machines/continental-special-models.md) | 1920 |  | typebar | 0 |
-| [Klein-Continental](../machines/klein-continental.md) | 1927 |  | typebar portable | 0 |
-| [Wanderer-Werke A.G machine, 1929](../machines/wanderer-werke-a-g-1929.md) | 1929 | QWERTY-type keyboard | typebar | 0 |
-| [Continental Silenta](../machines/continental-silenta.md) | 1932 |  | typebar, quiet | 0 |
+| [Klein-Continental](../machines/klein-continental.md) | 1929 | QWERTY-type keyboard | typebar | 0 |
 | [Continental 34 / 35 / 100](../machines/continental-34-35-100.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Wanderer-Werke A.G machine, 1934](../machines/wanderer-werke-a-g-1934.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
-| [Wanderer-Werke A.G machine, 1935](../machines/wanderer-werke-a-g-1935.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
+| [Continental Silenta](../machines/continental-silenta.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [Continental 35](../machines/continental-35.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
 | [Wanderer Notenschreibmaschine](../machines/wanderer-notenschreibmaschine.md) | 1939 |  | typebar, music | 0 |
 | [Continental 200](../machines/continental-200.md) | 1939 |  | typebar portable | 0 |
 

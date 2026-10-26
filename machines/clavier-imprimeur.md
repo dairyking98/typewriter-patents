@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Clavier imprimeur (1843): a typewriter."
 year: 1843
 index_machine: false
 patents: 0

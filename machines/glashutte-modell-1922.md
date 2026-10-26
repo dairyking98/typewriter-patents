@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Glashütte (Modell 1922) (1922): a typebar typewriter by Schreibm.industrie Glashütte GmbH, Germany. Typebar, visible writing."
 year: 1922
 maker: "Schreibm.industrie Glashütte GmbH"
 country: "Germany"

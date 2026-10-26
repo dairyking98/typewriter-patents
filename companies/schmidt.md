@@ -7,7 +7,7 @@ Name variants: SCHMIDT OTTO; Gebr. Schmidt
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Junior Gsn](../machines/junior-gsn.md) | 1920 | index | type wheel | 0 |
+| [Junior GSN](../machines/junior-gsn.md) | 1920 | index | type wheel | 0 |
 
 ## Inventors
 

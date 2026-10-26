@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Horton Typewriter Co machine, 1885](../machines/horton-typewriter-co-1885.md) (1885)
+- [Horton](../machines/horton.md) (1885)
 
 ## Patents (3)
 

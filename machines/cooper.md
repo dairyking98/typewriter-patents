@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Cooper (1856): an index typewriter by nicht fabrikmäßig hergestellt, USA. Ca. 40 characters, front strike, ink roller. Sales: not sold. Price when new: none listed."
 year: 1856
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"

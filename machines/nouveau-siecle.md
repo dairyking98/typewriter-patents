@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Nouveau Siècle (1912): an index typewriter by Meyer to Nuese, France. Type disc, 87 characters, top strike, single shift. Sales: a fair few. Price when new: 9,25 Fr.."
 year: 1912
 maker: "Meyer to Nuese"
 country: "France"

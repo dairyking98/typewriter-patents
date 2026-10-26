@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Patria Schreibmaschinen A.G machine, 1936](../machines/patria-schreibmaschinen-a-g-1936.md) (1936)
+- [Patria](../machines/patria.md) (1936)
 
 ## Assigned to
 

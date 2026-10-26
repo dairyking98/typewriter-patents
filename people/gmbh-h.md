@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [Unnamed machine, 1926](../machines/unnamed-1926.md) (1926)
+- [Urania 6](../machines/urania-6.md) (1926)
 

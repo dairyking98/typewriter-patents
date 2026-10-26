@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Hall 1 (1880): an index typewriter by Hall Type Writer Co, USA. Type plate, 72 characters, top strike, ink pad. Sales: a fair number. Price when new: $40, 180 marks."
 year: 1880
 maker: "Hall Type Writer Co"
 country: "USA"
@@ -43,6 +44,11 @@ tags: ["machine"]
 ## Same maker
 
 [Hall 2 (1887)](../machines/hall-2.md), [Century Index (1889)](../machines/century-index.md)
+
+## Elsewhere on the web
+
+- [Hall 1 Typewriter](https://www.antiquetypewriters.com/typewriter/hall-1-typewriter/), Martin Howard Collection, antiquetypewriters.com
+- [Hall Braille-writer 1](https://www.antiquetypewriters.com/typewriter/hall-braille-writer-1/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

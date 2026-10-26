@@ -7,15 +7,15 @@ Name variants: The Fox Machine Comp; Fox Typewriter Co; The Fox Typewriter Comp.
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Fox Typewriter Co machine, 1895](../machines/fox-typewriter-co-1895.md) | 1895 | QWERTY-type keyboard | typebar | 1 |
-| [Fox Typewriter Co machine, 1898](../machines/fox-typewriter-co-1898.md) | 1898 | QWERTY-type keyboard | typebar | 2 |
-| [Fox Typewriter Co machine, 1902](../machines/fox-typewriter-co-1902.md) | 1902 | QWERTY-type keyboard | typebar | 3 |
-| [Fox Typewriter Co machine, 1905](../machines/fox-typewriter-co-1905.md) | 1905 | QWERTY-type keyboard | typebar | 4 |
-| [Fox Typewriter Co machine, 1906](../machines/fox-typewriter-co-1906.md) | 1906 | QWERTY-type keyboard | typebar | 4 |
-| [Fox Typewriter Co machine, 1906](../machines/fox-typewriter-co-1906-2.md) | 1906 | QWERTY-type keyboard | typebar | 4 |
-| [Fox Typewriter Co machine, 1906](../machines/fox-typewriter-co-1906-3.md) | 1906 | QWERTY-type keyboard | typebar | 4 |
-| [Fox Typewriter Co machine, 1917](../machines/fox-typewriter-co-1917.md) | 1917 | QWERTY-type keyboard | typebar | 0 |
-| [Fox Typewriter Co machine, 1918](../machines/fox-typewriter-co-1918.md) | 1918 | QWERTY-type keyboard | typebar | 0 |
+| [Fox 1](../machines/fox-1.md) | 1895 | QWERTY-type keyboard | typebar | 1 |
+| [Fox 2, 3](../machines/fox-2-3.md) | 1898 | QWERTY-type keyboard | typebar | 2 |
+| [Fox 4 - 8](../machines/fox-4-8.md) | 1902 | QWERTY-type keyboard | typebar | 3 |
+| [Fox 15, 16](../machines/fox-15-16.md) | 1905 | QWERTY-type keyboard | typebar | 4 |
+| [Fox 23](../machines/fox-23.md) | 1906 | QWERTY-type keyboard | typebar | 4 |
+| [Fox 24](../machines/fox-24.md) | 1906 | QWERTY-type keyboard | typebar | 4 |
+| [Fox 25 - 28](../machines/fox-25-28.md) | 1906 | QWERTY-type keyboard | typebar | 4 |
+| [Fox Portable 1](../machines/fox-portable-1.md) | 1917 | QWERTY-type keyboard | typebar | 0 |
+| [Fox Sterling](../machines/fox-sterling.md) | 1918 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

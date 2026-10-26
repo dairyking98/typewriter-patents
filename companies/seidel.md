@@ -4,33 +4,31 @@ Name variants: VORM SEIDEL & NAUMANN AG; SEIDEL & NAUMANN AG; A.G. vorm. Seidel 
 
 - Dingwerth, Geschichte vol. 4 (digest)
 
-## Machines (31)
+## Machines (29)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
 | [Ideal A1 / 1](../machines/ideal-a1-1.md) | 1900 |  | typebar (front strike, visible) | 0 |
 | [Ideal A2](../machines/ideal-a2.md) | 1901 |  | typebar | 0 |
-| [Aktienges. vorm Seidel & Naumann machine, 1904](../machines/aktienges-vorm-seidel-naumann-1904.md) | 1904 | QWERTY-type keyboard | typebar | 1 |
+| [Ideal Polyglott 1](../machines/ideal-polyglott-1.md) | 1904 | QWERTY-type keyboard | typebar | 1 |
 | [Ideal A3](../machines/ideal-a3.md) | 1906 |  | typebar | 0 |
-| [Ideal Polyglott](../machines/ideal-polyglott.md) | 1906 |  | typebar, multi-language | 0 |
 | [Ideal Oriental / Duplex](../machines/ideal-oriental-duplex.md) | 1906 |  | typebar, special | 0 |
-| [Aktienges. vorm. Seidel & Naumann machine, 1908](../machines/aktienges-vorm-seidel-naumann-1908.md) | 1908 |  | typebar | 3 |
+| [Ideal Polyglott 2](../machines/ideal-polyglott-2.md) | 1908 |  | typebar | 3 |
 | [Ideal A4 / A5](../machines/ideal-a4-a5.md) | 1909 | QWERTY-type keyboard | typebar | 34 |
 | [Erika 1, 2](../machines/erika-1-2.md) | 1910 | QWERTY-type keyboard | typebar | 0 |
-| [A.G. vorm. Seidel & Naumann machine, 1911](../machines/a-g-vorm-seidel-naumann-1911.md) | 1911 | QWERTY-type keyboard | typebar | 0 |
-| [Aktienges. vorm. Seidel & Naumann machine, 1912](../machines/aktienges-vorm-seidel-naumann-1912.md) | 1912 | QWERTY-type keyboard | typebar | 1 |
-| [Aktienges. vorm. Seidel & Naumann machine, 1912](../machines/aktienges-vorm-seidel-naumann-1912-2.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
-| [Ideal B](../machines/ideal-b.md) | 1912 |  | typebar (Wagner linkage) | 0 |
+| [Erika 2](../machines/erika-2.md) | 1911 | QWERTY-type keyboard | typebar | 0 |
+| [Ideal A 5](../machines/ideal-a-5.md) | 1912 | QWERTY-type keyboard | typebar | 1 |
+| [Ideal B](../machines/ideal-b.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
 | [Ideal C / D](../machines/ideal-c-d.md) | 1919 | QWERTY-type keyboard | typebar | 0 |
 | [Erika 3, 4](../machines/erika-3-4.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
-| [A.G. vorm. Seidel & Naumann machine, 1925](../machines/a-g-vorm-seidel-naumann-1925.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
-| [A.G. vorm. Seidel & Naumann machine, 1926](../machines/a-g-vorm-seidel-naumann-1926.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
+| [Ideal D](../machines/ideal-d.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
+| [Erika 4](../machines/erika-4.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
 | [Erika 5](../machines/erika-5.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
-| [A.G. vorm. Seidel & Naumann machine, 1932](../machines/a-g-vorm-seidel-naumann-1932.md) | 1932 |  | typebar | 0 |
-| [A.G. vorm. Seidel & Naumann machine, 1933](../machines/a-g-vorm-seidel-naumann-1933.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [A.G. vorm. Seidel & Naumann machine, 1933](../machines/a-g-vorm-seidel-naumann-1933-2.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [A.G. vorm. Seidel & Naumann machine, 1935](../machines/a-g-vorm-seidel-naumann-1935.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
-| [A.G. vorm. Seidel & Naumann machine, 1935](../machines/a-g-vorm-seidel-naumann-1935-2.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
+| [Erika 6](../machines/erika-6.md) | 1932 |  | typebar | 0 |
+| [Erika S](../machines/erika-s.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Ideal D (B)](../machines/ideal-d-b.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Erika 5 Tab](../machines/erika-5-tab.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
+| [Erika M](../machines/erika-m.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
 | [Ideal Blitz](../machines/ideal-blitz.md) | 1936 |  | bookkeeping | 0 |
 | [Erika 8, 9, 90](../machines/erika-8-9-90.md) | 1949 |  | typebar portable | 0 |
 | [Erika 10, 11, 12, 20](../machines/erika-10-11-12-20.md) | 1952 |  | typebar portable | 0 |

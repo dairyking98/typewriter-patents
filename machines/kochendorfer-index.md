@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Kochendörfer Index (1896): an index typewriter by nicht fabrikmäßig ' hergestellt, Germany. Type plate, ? characters, top strike, ink pad. Sales: not sold. Price when new: kein X."
 year: 1896
 maker: "nicht fabrikmäßig ' hergestellt"
 country: "Germany"

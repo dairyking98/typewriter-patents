@@ -2,9 +2,9 @@
 
 ## Machines designed (Lexikon)
 
-- [Dt.-Am. Masch.- fabrik vorm. G. Krebs machine, 1908](../machines/dt-am-masch-fabrik-vorm-g-krebs-1908.md) (1908)
-- [Dt.-Am. Masch.- fabrik vorm. G. Krebs machine, 1909](../machines/dt-am-masch-fabrik-vorm-g-krebs-1909.md) (1909)
-- [Concordia Maschinenbau AG machine, 1926](../machines/concordia-maschinenbau-ag-1926.md) (1926)
+- [Dea 1](../machines/dea-1.md) (1908)
+- [Dea 2](../machines/dea-2.md) (1909)
+- [Dea 3](../machines/dea-3.md) (1926)
 
 Known only by surname. Possibly: [Herlt, Franz](../people/herlt-f.md)
 

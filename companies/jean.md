@@ -7,7 +7,7 @@ Name variants: JEAN BERGMANN; Jean Julius Jungfermann + August Hoffmann + Horst 
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Jean Voelker & Co machine, 1907](../machines/jean-voelker-co-1907.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
+| [Hassia](../machines/hassia.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

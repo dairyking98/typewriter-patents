@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Moon-Hopkins Billing Machine C» machine, 1902](../machines/moon-hopkins-billing-machine-c-1902.md) (1902)
+- [Moon Hopkins](../machines/moon-hopkins.md) (1902)
 
 ## Assigned to
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Ennis (1901): a type-element typewriter by Electric Typewriter Comp. Inc, USA. Type wheel, ca. 80 characters, top strike, ink roller, single shift. Sales: not sold. Price when new: $100 ‚geplant)."
 year: 1901
 maker: "Electric Typewriter Comp. Inc"
 country: "USA"

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Pratt (1863): a type-element typewriter by nicht fabrikmäßig hergestellt, USA. Type plate, 36 characters, front strike. Sales: not sold. Price when new: none listed."
 year: 1863
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"

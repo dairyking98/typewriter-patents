@@ -1,6 +1,6 @@
 # Index machines
 
-The 90 index machines in Dingwerth's Lexikon, grouped by type carrier, with their linked patents (**bold** = high or confirmed; plain = medium, an inference from the inventor's name, up to 8). See also [Mechanisms](mechanisms.md), [Timeline](timeline.md) and the live table [machines.base](../views/machines.base).
+The 89 index machines in Dingwerth's Lexikon, grouped by type carrier, with their linked patents (**bold** = high or confirmed; plain = medium, an inference from the inventor's name, up to 8). See also [Mechanisms](mechanisms.md), [Timeline](timeline.md) and the live table [machines.base](../views/machines.base).
 
 ## By carrier and decade
 
@@ -16,16 +16,15 @@ The 90 index machines in Dingwerth's Lexikon, grouped by type carrier, with thei
 | linear type rule |  | 1 | 1 |  |  |  |  |  |  | 2 |
 | type band |  | 1 |  | 1 |  |  |  |  |  | 2 |
 | type segment |  |  |  |  |  |  |  |  |  | 1 |
-| index (pointer bar) |  | 1 |  |  |  |  |  |  |  | 1 |
 | index (pointer) |  |  |  | 1 |  |  |  |  |  | 1 |
 | index (pointer + type wheel) |  |  |  |  |  | 1 |  |  |  | 1 |
 | type rods |  |  |  |  |  |  |  |  |  | 1 |
 
-**Strike:** top strike 61, front strike 22, unknown 5, understrike (blind) 2
+**Strike:** top strike 61, front strike 22, unknown 4, understrike (blind) 2
 
-**Inking:** ink roller 47, ink pad 16, ribbon 13, unknown 9, ink disc 3, carbon paper 1, ribbon; ink roller 1
+**Inking:** ink roller 47, ink pad 16, ribbon 13, unknown 8, ink disc 3, carbon paper 1, ribbon; ink roller 1
 
-**Shift:** none 52, unknown 16, double shift 12, single shift 10
+**Shift:** none 52, unknown 15, double shift 12, single shift 10
 
 ## Type wheel
 
@@ -62,7 +61,7 @@ The 90 index machines in Dingwerth's Lexikon, grouped by type carrier, with thei
 | [Gerda 1](../machines/gerda-1.md) | 1919 | GEORG EMIG; WALTER OEHMKE | Germany | top strike | ink roller | double shift | 81 |  |
 | [Heady](../machines/heady.md) | 1919 | Rooy Sa | France | top strike | ribbon | none | 84 |  |
 | [Gescha](../machines/gescha.md) | 1920 | MAX SCHMID | Germany | front strike | ribbon | single shift | 65 |  |
-| [Junior Gsn](../machines/junior-gsn.md) | 1920 | SCHMIDT OTTO | Germany | front strike | ink roller | single shift | 65 |  |
+| [Junior GSN](../machines/junior-gsn.md) | 1920 | SCHMIDT OTTO | Germany | front strike | ink roller | single shift | 65 |  |
 | [Gerda 2](../machines/gerda-2.md) | 1921 | GEORG EMIG; WALTER OEHMKE | Germany | top strike | ink roller | double shift | 81 | **[DE393929](../patents/DE393929.md)** |
 | [Typen](../machines/typen.md) | 1924 | Wetherill | USA | top strike | ink roller | none | ca. 42 |  |
 | [Pellaton](../machines/pellaton.md) | 1932 |  | Switzerland | front strike |  | double shift | 84 |  |
@@ -162,12 +161,6 @@ The 90 index machines in Dingwerth's Lexikon, grouped by type carrier, with thei
 | Machine | Year | Maker | Country | Strike | Inking | Shift | Characters | Patents |
 |---|---|---|---|---|---|---|---|---|
 | [Burt](../machines/burt.md) | 1829 |  | USA | top strike | ink roller | single shift | ? |  |
-
-## Index (pointer bar)
-
-| Machine | Year | Maker | Country | Strike | Inking | Shift | Characters | Patents |
-|---|---|---|---|---|---|---|---|---|
-| [Hammonia (Hansen patent)](../machines/hammonia-hansen-patent.md) | 1884 | Guhl & Harbeck | Germany |  |  |  |  |  |
 
 ## Index (pointer)
 

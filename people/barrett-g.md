@@ -2,13 +2,13 @@
 
 ## Machines designed (Lexikon)
 
-- [Fox Typewriter Co machine, 1895](../machines/fox-typewriter-co-1895.md) (1895)
-- [Fox Typewriter Co machine, 1898](../machines/fox-typewriter-co-1898.md) (1898)
-- [Fox Typewriter Co machine, 1902](../machines/fox-typewriter-co-1902.md) (1902)
-- [Fox Typewriter Co machine, 1905](../machines/fox-typewriter-co-1905.md) (1905)
-- [Fox Typewriter Co machine, 1906](../machines/fox-typewriter-co-1906.md) (1906)
-- [Fox Typewriter Co machine, 1906](../machines/fox-typewriter-co-1906-2.md) (1906)
-- [Fox Typewriter Co machine, 1906](../machines/fox-typewriter-co-1906-3.md) (1906)
+- [Fox 1](../machines/fox-1.md) (1895)
+- [Fox 2, 3](../machines/fox-2-3.md) (1898)
+- [Fox 4 - 8](../machines/fox-4-8.md) (1902)
+- [Fox 15, 16](../machines/fox-15-16.md) (1905)
+- [Fox 23](../machines/fox-23.md) (1906)
+- [Fox 24](../machines/fox-24.md) (1906)
+- [Fox 25 - 28](../machines/fox-25-28.md) (1906)
 
 ## Assigned to
 

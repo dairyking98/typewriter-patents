@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Gundka 3 (1924): an index typewriter by GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER, Germany. Type wheel, 84 characters, front strike, ribbon, double shift. Sales: a fair number. Price when new: 30 / 39 marks."
 year: 1924
 maker: "GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER"
 country: "Germany"
@@ -59,6 +60,11 @@ tags: ["machine"]
 ## Same maker
 
 [Die kleine Gundka (1924)](../machines/die-kleine-gundka.md), [Gefro (1924)](../machines/gefro.md), [Gundka 5 (1926)](../machines/gundka-5.md)
+
+## Elsewhere on the web
+
+- [Gundka Nr. 3](http://www.hquast.de/Einzelne/Gundka_Nr3.htm), Hartmut Quast collection, hquast.de
+- More on the maker: [Gundka Schreibmaschinen](https://www.typewriters.ch/collection-2/gundka/) (typewriters.ch) · [Gundka III](https://www.typewriters.ch/collection-2/gundka/gundka-3/) (typewriters.ch)
 
 ## Sources
 

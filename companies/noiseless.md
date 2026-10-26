@@ -7,10 +7,10 @@ Name variants: The Noiseless Typewriter Comp; Noiseless Typewriter Co; NOISELESS
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Noiseless Typewriter Co machine, 1915](../machines/noiseless-typewriter-co-1915.md) | 1915 | QWERTY-type keyboard |  | 12 |
-| [Noiseless Typewriter Co machine, 1917](../machines/noiseless-typewriter-co-1917.md) | 1917 | QWERTY-type keyboard |  | 0 |
-| [Noiseless Typewriter Co machine, 1921](../machines/noiseless-typewriter-co-1921.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
-| [Noiseless Typewriter Co machine, 1923](../machines/noiseless-typewriter-co-1923.md) | 1923 | QWERTY-type keyboard |  | 0 |
+| [Noiseless 1](../machines/noiseless-1.md) | 1915 | QWERTY-type keyboard |  | 12 |
+| [Noiseless 4](../machines/noiseless-4.md) | 1917 | QWERTY-type keyboard |  | 0 |
+| [Noiseless Portable](../machines/noiseless-portable.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
+| [Noiseless 5](../machines/noiseless-5.md) | 1923 | QWERTY-type keyboard |  | 0 |
 
 ## Inventors
 

@@ -4,7 +4,7 @@ Element turns by a fixed angle to change case
 
 **70 patents**, 1881–1939. Often together with: [SEL:selector-locking](../features/sel-selector-locking.md) (35), [ESC:pawl-rack](../features/esc-pawl-rack.md) (35), [IMP:element-to-platen](../features/imp-element-to-platen.md) (32), [ESC:print-and-space](../features/esc-print-and-space.md) (32), [PAP:platen-roller](../features/pap-platen-roller.md) (31), [FRM:few-parts](../features/frm-few-parts.md) (29), [SEL:keyboard-full](../features/sel-keyboard-full.md) (27), [SHIFT:triple](../features/shift-triple.md) (27)
 
-**Machines:** [Velograph 2](../machines/velograph-2.md) (2), [Crandall No. 3](../machines/crandall-no-3.md) (1), [Morris](../machines/morris.md) (1), [Columbia Index 1](../machines/columbia-index-1.md) (1), [Columbia Index 2](../machines/columbia-index-2.md) (1), [Typograph Company machine, 1887](../machines/typograph-company-1887.md) (1), [Chicago 2](../machines/chicago-2.md) (1), [Munson 1](../machines/munson-1.md) (1), [Postal 5](../machines/postal-5.md) (1), [Fisher Record Typewriter machine, 1896](../machines/fisher-record-typewriter-1896.md) (1)
+**Machines:** [Velograph 2](../machines/velograph-2.md) (2), [Crandall No. 3](../machines/crandall-no-3.md) (1), [Morris](../machines/morris.md) (1), [Columbia Index 1](../machines/columbia-index-1.md) (1), [Columbia Index 2](../machines/columbia-index-2.md) (1), [Cash](../machines/cash.md) (1), [Chicago 2](../machines/chicago-2.md) (1), [Munson 1](../machines/munson-1.md) (1), [Postal 5](../machines/postal-5.md) (1), [Fisher 2](../machines/fisher-2.md) (1)
 
 ## Patents, oldest first
 

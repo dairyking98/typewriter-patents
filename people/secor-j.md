@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Secor Typewriter Co. (Williams) machine, 1908](../machines/secor-typewriter-co-williams-1908.md) (1908)
+- [Secor 2](../machines/secor-2.md) (1908)
 
 ## Assigned to
 

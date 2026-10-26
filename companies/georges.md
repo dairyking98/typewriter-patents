@@ -7,7 +7,7 @@ Name variants: GEORGES PERPETE; HUBERT PUTTEMANS; Georges Salmson
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Georges Salmson machine, 1920](../machines/georges-salmson-1920.md) | 1920 | QWERTY-type keyboard | typebar | 0 |
+| [Celtic 1](../machines/celtic-1.md) | 1920 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

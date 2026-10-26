@@ -7,16 +7,16 @@ Name variants: The Williams Typewriter Comp; Williams Typewriter Co; Williams Ma
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Williams Typewriter Co machine, 1891](../machines/williams-typewriter-co-1891.md) | 1891 | QWERTY-type keyboard | typebar | 7 |
-| [Williams Manufactoring Co machine, 1892](../machines/williams-manufactoring-co-1892.md) | 1892 | QWERTY-type keyboard | push-rod typebars | 6 |
-| [Williams Manufactoring Co machine, 1892](../machines/williams-manufactoring-co-1892-2.md) | 1892 | QWERTY-type keyboard | push-rod typebars | 6 |
-| [Williams Manufactoring Co machine, 1892](../machines/williams-manufactoring-co-1892-3.md) | 1892 | QWERTY-type keyboard | push-rod typebars | 6 |
-| [Williams Typewriter Co machine, 1895](../machines/williams-typewriter-co-1895.md) | 1895 | QWERTY-type keyboard | typebar | 10 |
-| [Williams Typewriter Co machine, 1896](../machines/williams-typewriter-co-1896.md) | 1896 | QWERTY-type keyboard | typebar | 10 |
-| [Williams Typewriter Co machine, 1896](../machines/williams-typewriter-co-1896-2.md) | 1896 | QWERTY-type keyboard | typebar | 10 |
-| [Williams Typewriter Co machine, 1900](../machines/williams-typewriter-co-1900.md) | 1900 | QWERTY-type keyboard | typebar | 10 |
-| [Williams Typewriter Co machine, 1904](../machines/williams-typewriter-co-1904.md) | 1904 | QWERTY-type keyboard | typebar | 8 |
-| [Williams Manufactoring Co machine, 1909](../machines/williams-manufactoring-co-1909.md) | 1909 | QWERTY-type keyboard | push-rod typebars | 12 |
+| [Williams 1 C](../machines/williams-1-c.md) | 1891 | QWERTY-type keyboard | typebar | 7 |
+| [Empire 1 (A) (Canada)](../machines/empire-1-a-canada.md) | 1892 | QWERTY-type keyboard | push-rod typebars | 6 |
+| [Empire 1 (B) (Canada)](../machines/empire-1-b-canada.md) | 1892 | QWERTY-type keyboard | push-rod typebars | 6 |
+| [Empire 1 (C) (Canada)](../machines/empire-1-c-canada.md) | 1892 | QWERTY-type keyboard | push-rod typebars | 6 |
+| [Williams 1 S](../machines/williams-1-s.md) | 1895 | QWERTY-type keyboard | typebar | 10 |
+| [Williams 2](../machines/williams-2.md) | 1896 | QWERTY-type keyboard | typebar | 10 |
+| [Williams 3](../machines/williams-3.md) | 1896 | QWERTY-type keyboard | typebar | 10 |
+| [Williams 4](../machines/williams-4.md) | 1900 | QWERTY-type keyboard | typebar | 10 |
+| [Williams 6](../machines/williams-6.md) | 1904 | QWERTY-type keyboard | typebar | 8 |
+| [Empire 2 (Canada)](../machines/empire-2-canada.md) | 1909 | QWERTY-type keyboard | push-rod typebars | 12 |
 
 ## Inventors
 

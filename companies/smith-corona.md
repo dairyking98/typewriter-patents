@@ -7,14 +7,14 @@ Name variants: L C SMITH & CORONA TYPEWRITERS; L.C. Smith & Corona Typewr. Co; L
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [L.C. Smith & Corona Typew.Co machine, 1924](../machines/l-c-smith-corona-typew-co-1924.md) | 1924 | QWERTY-type keyboard | typebar | 35 |
-| [L.C. Smith & Corona Typewri= machine, 1928](../machines/l-c-smith-corona-typewri-1928.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
-| [L.C. Smith & Corona Typewr. Co machine, 1932](../machines/l-c-smith-corona-typewr-co-1932.md) | 1932 | QWERTY-type keyboard | typebar | 2 |
-| [L.C. Smith & Corona Typewr. Co machine, 1934](../machines/l-c-smith-corona-typewr-co-1934.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
-| [L.C. Smith & Corona Typewriter machine, 1934](../machines/l-c-smith-corona-typewriter-1934.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
-| [L.C. Smith & Corona Typewr. Co machine, 1935](../machines/l-c-smith-corona-typewr-co-1935.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
-| [L.C.Smith & Corona Typewmu= machine, 1937](../machines/l-c-smith-corona-typewmu-1937.md) | 1937 | QWERTY-type keyboard | typebar | 0 |
-| [L.C. Smith & Corona Typew.Co machine, 1938](../machines/l-c-smith-corona-typew-co-1938.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
+| [Corona 4](../machines/corona-4.md) | 1924 | QWERTY-type keyboard | typebar | 35 |
+| [L. C. Smith 8/10](../machines/l-c-smith-8-10.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
+| [Corona Sterling](../machines/corona-sterling.md) | 1932 | QWERTY-type keyboard | typebar | 2 |
+| [Corona Silent](../machines/corona-silent.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [L. C. Smith 8/11 Silent](../machines/l-c-smith-8-11-silent.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [Corona Standard](../machines/corona-standard.md) | 1935 | QWERTY-type keyboard | typebar | 0 |
+| [L. C. Smith Super-Speed](../machines/l-c-smith-super-speed.md) | 1937 | QWERTY-type keyboard | typebar | 0 |
+| [Corona Zephyr](../machines/corona-zephyr.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

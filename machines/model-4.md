@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Model 4 (1907): a typebar typewriter by Bernh. Stoewer A.G, Germany. Typebar."
 year: 1907
 maker: "Bernh. Stoewer A.G"
 country: "Germany"
@@ -31,7 +32,11 @@ None linked yet.
 
 ## Same maker
 
-[Model 1 (original) (1903)](../machines/model-1-original.md), [Model 2 (1905)](../machines/model-2.md), [Model 3 (1906)](../machines/model-3.md), [Stoewer Record (1909)](../machines/stoewer-record.md), [Stoewer Elite (1912)](../machines/stoewer-elite.md), [Klein-Stoewer (1926)](../machines/klein-stoewer.md)
+[Model 1 (original) (1903)](../machines/model-1-original.md), [Model 2 (1905)](../machines/model-2.md), [Model 3 (1906)](../machines/model-3.md)
+
+## Elsewhere on the web
+
+- [Williams Model No. 4 - Serial No. 25194](http://www.sljohnson.net/typewriter/williams/Williams25194.html), S. L. Johnson Typewriter Page, sljohnson.net
 
 ## Sources
 

@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Yetman Transmitter Typewriter Co machine, 1896](../machines/yetman-transmitter-typewriter-co-1896.md) (1896)
+- [Yetman](../machines/yetman.md) (1896)
 
 ## Assigned to
 

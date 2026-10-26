@@ -7,8 +7,8 @@ Name variants: The Manhattan Typewriter Comp; Manhattan Typewriter Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Manhattan Typewriter Co machine, 1898](../machines/manhattan-typewriter-co-1898.md) | 1898 | QWERTY-type keyboard | typebar | 0 |
-| [Manhattan Typewriter Co machine, 1898](../machines/manhattan-typewriter-co-1898-2.md) | 1898 | QWERTY-type keyboard | typebar | 0 |
+| [Manhattan A](../machines/manhattan-a.md) | 1898 | QWERTY-type keyboard | typebar | 0 |
+| [Manhattan B](../machines/manhattan-b.md) | 1898 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Junior GSN (1920): an index typewriter by SCHMIDT OTTO, Germany. Type wheel, 65 characters, front strike, ink roller, single shift. Sales: sold well."
 year: 1920
 maker: "SCHMIDT OTTO"
 country: "Germany"
@@ -15,7 +16,7 @@ patents: 0
 tags: ["machine/index"]
 ---
 
-# Junior Gsn
+# Junior GSN
 
 *Toy typewriter with type wheel*
 

@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Maskelyne Typewriter Mfg. Co machine, 1893](../machines/maskelyne-typewriter-mfg-co-1893.md) | 1893 | QWERTY-type keyboard | typebar | 2 |
+| [Maskelyne 1, 2](../machines/maskelyne-1-2.md) | 1893 | QWERTY-type keyboard | typebar | 2 |

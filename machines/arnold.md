@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Arnold (1876): an index typewriter by nicht fabrikmäßig hergestellt, USA. Type segment, ca. 32 characters, top strike, ink roller. Sales: not sold. Price when new: no sale price."
 year: 1876
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"

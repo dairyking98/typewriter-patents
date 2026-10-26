@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Virotyp (B) (1914): an index typewriter by Virotyp Co, France. Type disc, 92 characters, top strike, ink roller. Sales: not many. Price when new: about 55 Frs.."
 year: 1914
 maker: "Virotyp Co"
 country: "France"
@@ -38,6 +39,10 @@ tags: ["machine/index"]
 | Patent | Year | Inventor | Title | Confidence | Evidence |
 |---|---|---|---|---|---|
 | [US1037564](../patents/US1037564.md) | 1912 | Viry, Henry | Pocket Type-Writer | low | inventor = designer; patent 1912, machine 1914 |
+
+## Elsewhere on the web
+
+- On the maker: [Virotyp Schreibmaschine](https://www.typewriters.ch/collection-2/virotyp/) (typewriters.ch)
 
 ## Sources
 

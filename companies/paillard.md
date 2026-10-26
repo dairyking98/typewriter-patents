@@ -7,13 +7,13 @@ Name variants: PAILLARD & CIE SA E; Paillard Sa; E. Paillard & Cie. A.G; E.Paill
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [E. Paillard & Cie. A.G machine, 1922](../machines/e-paillard-cie-a-g-1922.md) | 1922 | QWERTY-type keyboard | typebar | 0 |
-| [E.Paillard & Cie. A.G machine, 1923](../machines/e-paillard-cie-a-g-1923.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
-| [E.Paillard & Cie. A.G machine, 1927](../machines/e-paillard-cie-a-g-1927.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
-| [E.Paillard & Cie. A.G. Land Schweiz machine, 1932](../machines/e-paillard-cie-a-g-land-schweiz-1932.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
-| [E. Paillard & Cie. A.G machine, 1932](../machines/e-paillard-cie-a-g-1932.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
-| [E.Paillard & Cie. A.G machine, 1934](../machines/e-paillard-cie-a-g-1934.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
-| [E. Paillard & Cie. A.G machine, 1936](../machines/e-paillard-cie-a-g-1936.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Hermes 1](../machines/hermes-1.md) | 1922 | QWERTY-type keyboard | typebar | 0 |
+| [Hermes 2](../machines/hermes-2.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
+| [Hermes 3](../machines/hermes-3.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Hermes 2000](../machines/hermes-2000.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
+| [Hermes Portable](../machines/hermes-portable.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
+| [Hermes 4](../machines/hermes-4.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [Hermes Media](../machines/hermes-media.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

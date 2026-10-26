@@ -1,0 +1,51 @@
+---
+type: "machine"
+machine_kind: "typebar"
+description: "Rapid 1 (Vierreihig) (1888): a typebar typewriter by Mead, USA. Push-rod typebars, 44 characters, front strike, ribbon. Sales: very few. Price when new: about $70."
+year: 1888
+maker: "Mead"
+country: "USA"
+index_machine: false
+selection: "QWERTY-type keyboard"
+carrier: "push-rod typebars"
+strike: "front strike"
+inking: "ribbon"
+shift: "none"
+characters: "44"
+patents: 0
+tags: ["machine"]
+---
+
+# Rapid 1 (Vierreihig)
+
+| | |
+|---|---|
+| Year | 1888 |
+| Maker | [Mead](../companies/mead.md) |
+| Designer | [Granville, Bernard](../people/granville-b.md) |
+| Country | USA |
+| Selection | QWERTY-type keyboard |
+| Type carrier | push-rod typebars |
+| Characters | 44 |
+| Strike | front strike |
+| Inking | ribbon |
+| Shift | none |
+| Sales | very few |
+| Price when new | about $70 |
+| Rarity (Lexikon's scale) | 9 |
+
+## Patents (3)
+
+| Patent | Year | Inventor | Title | Confidence | Evidence |
+|---|---|---|---|---|---|
+| [US382036](../patents/US382036.md) | 1888 | Granville, Bernard | Type-Writing Machine | low | inventor = designer; patent 1888, machine 1888; carrier differs (individual vs typebar) |
+| [US446676](../patents/US446676.md) | 1891 | Granville, Bernard | Type-Writing Machine | low | inventor = designer; patent 1891, machine 1888; carrier differs (individual vs typebar) |
+| [US482521](../patents/US482521.md) | 1892 | Granville, Bernard | Type-Writing Machine | low | inventor = designer; patent 1892, machine 1888 |
+
+## Same maker
+
+[Rapid 2 (Dreireihig) (1891)](../machines/rapid-2-dreireihig.md)
+
+## Sources
+
+- [Dingwerth, Lexikon 1997, p. 671](https://archive.org/details/kleines-lexikon-historischer-schreibmaschinen/page/n671)

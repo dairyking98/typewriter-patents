@@ -7,13 +7,13 @@ Name variants: The American Writing Machine Comp; American Writing Machine Co; A
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [American Writing Machine Co machine, 1880](../machines/american-writing-machine-co-1880.md) | 1880 | full keyboard (one key per character) | typebar | 2 |
-| [American Writing Machine Co machine, 1882](../machines/american-writing-machine-co-1882.md) | 1882 | full keyboard (one key per character) | typebar | 6 |
-| [American Writing Machine Co machine, 1890](../machines/american-writing-machine-co-1890.md) | 1890 | full keyboard (one key per character) | typebar | 12 |
-| [American Writing Machine Co machine, 1895](../machines/american-writing-machine-co-1895.md) | 1895 | full keyboard (one key per character) | typebar | 12 |
-| [American Writing Machine Co machine, 1897](../machines/american-writing-machine-co-1897.md) | 1897 | full keyboard (one key per character) | typebar | 12 |
-| [American Writing Machine Co machine, 1897](../machines/american-writing-machine-co-1897-2.md) | 1897 | full keyboard (one key per character) | typebar | 12 |
-| [American Writing Machine Co machine, 1919](../machines/american-writing-machine-co-1919.md) | 1919 | QWERTY-type keyboard | typebar | 0 |
+| [Caligraph 1](../machines/caligraph-1.md) | 1880 | full keyboard (one key per character) | typebar | 2 |
+| [Caligraph 2](../machines/caligraph-2.md) | 1882 | full keyboard (one key per character) | typebar | 6 |
+| [Caligraph 3](../machines/caligraph-3.md) | 1890 | full keyboard (one key per character) | typebar | 12 |
+| [Caligraph 4](../machines/caligraph-4.md) | 1895 | full keyboard (one key per character) | typebar | 12 |
+| [Caligraph 5](../machines/caligraph-5.md) | 1897 | full keyboard (one key per character) | typebar | 12 |
+| [Caligraph 6, 7](../machines/caligraph-6-7.md) | 1897 | full keyboard (one key per character) | typebar | 12 |
+| [Century 10](../machines/century-10.md) | 1919 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

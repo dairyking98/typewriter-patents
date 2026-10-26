@@ -7,7 +7,7 @@ Name variants: The Daugherty Typewriting Comp; The Daugherty Typewriter Comp; Da
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Daugherty Typewriter Co machine, 1892](../machines/daugherty-typewriter-co-1892.md) | 1892 | QWERTY-type keyboard | typebar | 8 |
+| [Daugherty](../machines/daugherty.md) | 1892 | QWERTY-type keyboard | typebar | 8 |
 
 ## Inventors
 

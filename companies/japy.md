@@ -7,9 +7,9 @@ Name variants: Japy Freres & Cie; Japy Freres & Cie Beaucourt
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Japy Freres & Cie machine, 1910](../machines/japy-freres-cie-1910.md) | 1910 | QWERTY-type keyboard | typebar | 0 |
-| [Japy Freres & Cie Beaucourt machine, 1928](../machines/japy-freres-cie-beaucourt-1928.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
-| [Japy Freres & Cie machine, 1931](../machines/japy-freres-cie-1931.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Japy Freres & Cie machine, 1934](../machines/japy-freres-cie-1934.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
-| [Japy Freres & Cie Beaucourt machine, 1934](../machines/japy-freres-cie-beaucourt-1934.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
-| [Japy Freres & Cie machine, 1937](../machines/japy-freres-cie-1937.md) | 1937 | QWERTY-type keyboard | typebar | 0 |
+| [Japy 3](../machines/japy-3.md) | 1910 | QWERTY-type keyboard | typebar | 0 |
+| [Japy 9](../machines/japy-9.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
+| [Japy Portable 5](../machines/japy-portable-5.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Japy 10](../machines/japy-10.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [Japy 50](../machines/japy-50.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [Japy Portable 6](../machines/japy-portable-6.md) | 1937 | QWERTY-type keyboard | typebar | 0 |

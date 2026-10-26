@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [United Typewriter & Supplies Co machine, 1887](../machines/united-typewriter-supplies-co-1887.md) (1887)
+- [Brooks](../machines/brooks.md) (1887)
 - [Crown Index 1](../machines/crown-index-1.md) (1888)
 - [Crown Index 2](../machines/crown-index-2.md) (1894)
 - [Peoples](../machines/peoples.md) (1891)

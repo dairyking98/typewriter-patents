@@ -7,7 +7,7 @@ Name variants: LIGNOSE AG; Aktiengesellsch=® Lignose
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Aktiengesellsch=® Lignose machine, 1924](../machines/aktiengesellsch-lignose-1924.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
+| [Lignose](../machines/lignose.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

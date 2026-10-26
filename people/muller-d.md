@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [wahrscheinl. nicht fabrikmäßig prod machine, 1907](../machines/wahrscheinl-nicht-fabrikma-ig-prod-1907.md) (1907)
+- [Universal](../machines/universal.md) (1907)
 

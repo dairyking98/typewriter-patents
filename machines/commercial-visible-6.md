@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Commercial Visible 6 (1902): a type-element typewriter by Commercial Visible Typewriter Co, USA. Type wheel, 84 characters, front strike, ribbon, double shift. Sales: few. Price when new: $50, 250 marks."
 year: 1902
 maker: "Commercial Visible Typewriter Co"
 country: "USA"
@@ -51,6 +52,10 @@ tags: ["machine"]
 ## Same maker
 
 [Commercial Visible 1 (1898)](../machines/commercial-visible-1.md), [Chinese (B) (1920)](../machines/chinese-b.md)
+
+## Elsewhere on the web
+
+- [Commercial Visible 6 Typewriter](https://www.antiquetypewriters.com/typewriter/commercial-visible-6-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

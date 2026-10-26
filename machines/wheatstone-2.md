@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Wheatstone (1850): a typewriter."
 year: 1850
 index_machine: false
 patents: 0

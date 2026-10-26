@@ -8,5 +8,5 @@ Name variants: Odo Maschinenfabrik E. Eßwein; Odo Maschinenfabrik G.m.b.H; Odo-
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Odoma (several models; a Vorgängerin before 1924)](../machines/odoma-several-models-a-vorgangerin-before-1924.md) | 1921 | QWERTY-type keyboard | typebar | 7 |
-| [Odo Maschinenfabrik G.m.b.H machine, 1924](../machines/odo-maschinenfabrik-g-m-b-h-1924.md) | 1924 | QWERTY-type keyboard | typebar | 7 |
+| [Odo Maschinenfabrik E. Eßwein machine, 1921](../machines/odo-maschinenfabrik-e-e-wein-1921.md) | 1921 | QWERTY-type keyboard | typebar | 7 |
+| [Odoma 2](../machines/odoma-2.md) | 1924 | QWERTY-type keyboard | typebar | 7 |

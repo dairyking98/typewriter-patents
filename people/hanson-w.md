@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [nicht fabrikmäßig hergestellt machine, 1899](../machines/nicht-fabrikma-ig-hergestellt-1899.md) (1899)
+- [Hanson-Lee](../machines/hanson-lee.md) (1899)
 
 ## Assigned to
 

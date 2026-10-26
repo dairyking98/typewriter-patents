@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Chicago 2 (1897): a type-element typewriter by Munson Type Writer Comp, USA. Type cylinder, 90 characters, front strike, ribbon, double shift. Sales: relatively many. Price when new: $35, 200 marks."
 year: 1897
 maker: "Munson Type Writer Comp"
 country: "USA"

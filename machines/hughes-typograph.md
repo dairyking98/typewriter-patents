@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Hughes Typograph (1850): an index typewriter by Eigenbau (bzw. in kleiner Werkstatt), USA. 34 characters, top strike. A few made. Price when new: unknown."
 year: 1850
 maker: "Eigenbau (bzw. in kleiner Werkstatt)"
 country: "USA"
@@ -34,6 +35,10 @@ tags: ["machine/index"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Hughes Typograph (typewriter)](https://www.antiquetypewriters.com/typewriter/hughes-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

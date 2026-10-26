@@ -7,8 +7,8 @@ Name variants: A NEY METALLWARENFABRIK; A.Ney; A.Ney / S.Roeder Berlin
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [A.Ney machine, 1925](../machines/a-ney-1925.md) | 1925 | QWERTY-type keyboard | typebar | 1 |
-| [A.Ney / S.Roeder Berlin machine, 1927](../machines/a-ney-s-roeder-berlin-1927.md) | 1927 | QWERTY-type keyboard | typebar | 1 |
+| [Neya 1](../machines/neya-1.md) | 1925 | QWERTY-type keyboard | typebar | 1 |
+| [Neya 2](../machines/neya-2.md) | 1927 | QWERTY-type keyboard | typebar | 1 |
 
 ## Inventors
 

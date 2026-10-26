@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Hammondmultiplex26 (1926): a type-element typewriter, USA. Type shuttle, 90 characters, front strike, ribbon, double shift. Sales: sold well. Price when new: 450 marks."
 year: 1926
 country: "USA"
 index_machine: false

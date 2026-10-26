@@ -2,12 +2,12 @@
 
 ## Machines designed (Lexikon)
 
-- [Jean Voelker & Co machine, 1907](../machines/jean-voelker-co-1907.md) (1907)
-- [Odoma (several models; a Vorgängerin before 1924)](../machines/odoma-several-models-a-vorgangerin-before-1924.md) (1921)
-- [Odo Maschinenfabrik G.m.b.H machine, 1924](../machines/odo-maschinenfabrik-g-m-b-h-1924.md) (1924)
-- [Odoma-Werk Eugen Eßwein machine, 1933](../machines/odoma-werk-eugen-e-wein-1933.md) (1933)
-- [Patria Schreibmaschinen A.G machine, 1936](../machines/patria-schreibmaschinen-a-g-1936.md) (1936)
-- [nicht fabrikmäßig hergestellt machine, 1903](../machines/nicht-fabrikma-ig-hergestellt-1903.md) (1903)
+- [Hassia](../machines/hassia.md) (1907)
+- [Odo Maschinenfabrik E. Eßwein machine, 1921](../machines/odo-maschinenfabrik-e-e-wein-1921.md) (1921)
+- [Odoma 2](../machines/odoma-2.md) (1924)
+- [Odoma 3](../machines/odoma-3.md) (1933)
+- [Patria](../machines/patria.md) (1936)
+- [Pianograph](../machines/pianograph.md) (1903)
 
 ## Patents (7)
 

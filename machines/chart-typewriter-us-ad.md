@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Chart typewriter (US ad) (1950): a typebar typewriter by Siemag Siegener Maschb Akt Ges, Germany. Typebar."
 year: 1950
 maker: "Siemag Siegener Maschb Akt Ges"
 country: "Germany"

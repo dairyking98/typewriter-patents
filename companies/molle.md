@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Molle Typewriter Co machine, 1918](../machines/molle-typewriter-co-1918.md) | 1918 | QWERTY-type keyboard |  | 6 |
+| [Molle 3](../machines/molle-3.md) | 1918 | QWERTY-type keyboard |  | 6 |

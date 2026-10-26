@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Shimada (1938): an index typewriter by Shimada Typewriter Works, Japan. 3118 characters, front strike, ink pad. Sales: sold well. Price when new: 100 D marks."
 year: 1938
 maker: "Shimada Typewriter Works"
 country: "Japan"

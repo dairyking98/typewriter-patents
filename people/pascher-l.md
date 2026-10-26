@@ -2,9 +2,9 @@
 
 ## Machines designed (Lexikon)
 
-- [Maschinenfabrik G.F. Grosser machine, 1939](../machines/maschinenfabrik-g-f-grosser-1939.md) (1939)
-- [Maschinenfabrik G. F. Grosser machine, 1938](../machines/maschinenfabrik-g-f-grosser-1938.md) (1938)
-- [Maschinenfabrik G.F. Grosser machine, 1939](../machines/maschinenfabrik-g-f-grosser-1939-2.md) (1939)
+- [Klein-Groma E](../machines/klein-groma-e.md) (1939)
+- [Klein-Groma N](../machines/klein-groma-n.md) (1938)
+- [Klein-Groma T](../machines/klein-groma-t.md) (1939)
 
 ## Assigned to
 

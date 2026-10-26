@@ -21,7 +21,7 @@ Name variants: The Blickensderfer Manufacturing Comp; Blickensderfer Manufactori
 | [Blickensderfer 6](../machines/blickensderfer-6.md) | 1910 |  | type wheel | 15 |
 | [Nocoblick](../machines/nocoblick.md) | 1912 | Ideal (DHIATENSOR) keyboard | type wheel | 0 |
 | [Blickensderfer 9](../machines/blickensderfer-9.md) | 1914 | QWERTY-type keyboard | type wheel | 14 |
-| [Blickensderfer Mfg. Co machine, 1914](../machines/blickensderfer-mfg-co-1914.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
+| [Blick-Bar](../machines/blick-bar.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
 | [Blickensd. Electric 2](../machines/blickensd-electric-2.md) | 1918 | QWERTY-type keyboard | type wheel | 0 |
 
 ## Inventors

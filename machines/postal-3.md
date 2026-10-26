@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Postal 3 (1903): a type-element typewriter by Postal Typewriter Co, USA. Type wheel, 84 characters, top strike, ribbon, double shift. Sales: a fair few. Price when new: $25, 150 marks."
 year: 1903
 maker: "Postal Typewriter Co"
 country: "USA"
@@ -42,6 +43,10 @@ None linked yet.
 ## Same maker
 
 [Postal 1 (1902)](../machines/postal-1.md), [Postal 5 (1905)](../machines/postal-5.md), [Postal 6 (1906)](../machines/postal-6.md)
+
+## Elsewhere on the web
+
+- [Postal 3 Typewriter](https://www.antiquetypewriters.com/typewriter/postal-3-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

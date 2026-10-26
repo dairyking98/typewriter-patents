@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Crandall No. 3 (1893): a type-element typewriter by Crandali Machine Co, USA. Type cylinder, 84 characters, front strike, ribbon, double shift. Sales: very few. Price when new: $75, 275 marks."
 year: 1893
 maker: "Crandali Machine Co"
 country: "USA"

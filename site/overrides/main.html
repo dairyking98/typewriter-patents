@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{#- Link previews (Discord, Slack, X, iMessage…): Open Graph and Twitter tags on every page. A page's description is
+    its "description" property if it has one (patents, machines), else its opening text; its image is its "image"
+    property (a patent's first drawing sheet), else the site card (assets/social-card.png). -#}
+{% block extrahead %}
+  {%- set is_home = page and page.is_homepage -%}
+  {%- set title = config.site_name if is_home or not (page and page.title) else page.title ~ " · " ~ config.site_name -%}
+  {%- if page and page.meta and page.meta.description -%}
+    {%- set desc = page.meta.description -%}
+  {%- elif is_home or not (page and page.content) -%}
+    {%- set desc = config.site_description -%}
+  {%- else -%}
+    {%- set text = page.content | striptags | replace("¶", "") | trim -%}
+    {%- if text.startswith(page.title) -%}{%- set text = text[page.title | length:] | trim -%}{%- endif -%}
+    {%- set desc = text | truncate(290, true, "…", 0) -%}
+  {%- endif -%}
+  {%- set image = page.meta.image if page and page.meta and page.meta.image else config.site_url ~ "assets/social-card.png" -%}
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ desc }}">
+  {% if page and page.canonical_url %}<meta property="og:url" content="{{ page.canonical_url }}">{% endif %}
+  <meta property="og:image" content="{{ image }}">
+  {% if not (page and page.meta and page.meta.image) %}<meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Typewriters &amp; Patents: 1,089 machines as dots by year and country, 1860–1960">{% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ desc }}">
+  <meta name="twitter:image" content="{{ image }}">
+  <meta name="theme-color" content="#eb6834">
+{% endblock %}

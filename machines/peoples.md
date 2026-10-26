@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Peoples (1891): an index typewriter by Garvin Machine Comp, USA. Type wheel, 72 characters, front strike, ink roller, single shift. Sales: a fair few. Price when new: 70 marks."
 year: 1891
 maker: "Garvin Machine Comp"
 country: "USA"
@@ -54,6 +55,14 @@ tags: ["machine"]
 | [US454845](../patents/US454845.md) | 1891 | Brooks, Byron A. | Type-Writing Machine | low | inventor = designer; patent 1891, machine 1891 |
 | [US463724](../patents/US463724.md) | 1891 | Brooks, Byron A. | Type-Writing Machine | low | inventor = designer; patent 1891, machine 1891; carrier differs (typebar vs wheel) |
 | [US482781](../patents/US482781.md) | 1892 | Brooks, Byron A. | Type-Writing Machine | low | inventor = designer; patent 1892, machine 1891 |
+
+## Same maker
+
+[Crary (1894)](../machines/crary.md)
+
+## Elsewhere on the web
+
+- [Peoples Typewriter](https://www.antiquetypewriters.com/typewriter/peoples-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

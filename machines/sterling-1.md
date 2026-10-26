@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Sterling 1 (1905): a type-element typewriter by Sterling Typewriter Comp, USA. Type shuttle, 84 characters, front strike, ribbon, double shift. Sales: very few. Price when new: about $50."
 year: 1905
 maker: "Sterling Typewriter Comp"
 country: "USA"
@@ -49,6 +50,10 @@ tags: ["machine"]
 ## Same maker
 
 [Sterling 2 (1912)](../machines/sterling-2.md)
+
+## Elsewhere on the web
+
+- [Sterling 1 Typewriter](https://www.antiquetypewriters.com/typewriter/sterling-1-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

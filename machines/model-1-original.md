@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Model 1 (original) (1903): a typebar typewriter by Bernh. Stoewer A.G, Germany. Typebar, 90 characters, front strike, ribbon, double shift. Sales: ca. 2.300 Exempl. Price when new: 275 / 295 marks."
 year: 1903
 maker: "Bernh. Stoewer A.G"
 country: "Germany"
@@ -44,7 +45,7 @@ None linked yet.
 
 ## Same maker
 
-[Model 2 (1905)](../machines/model-2.md), [Model 3 (1906)](../machines/model-3.md), [Model 4 (1907)](../machines/model-4.md), [Stoewer Record (1909)](../machines/stoewer-record.md), [Stoewer Elite (1912)](../machines/stoewer-elite.md), [Klein-Stoewer (1926)](../machines/klein-stoewer.md)
+[Model 2 (1905)](../machines/model-2.md), [Model 3 (1906)](../machines/model-3.md), [Model 4 (1907)](../machines/model-4.md)
 
 ## Sources
 

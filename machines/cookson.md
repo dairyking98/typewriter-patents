@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Cookson (1885): an index typewriter by wahrscheinlich nicht fabriziert, England. Type ring, 48 characters, front strike, ink pad. Sales: not sold. Price when new: none listed."
 year: 1885
 maker: "wahrscheinlich nicht fabriziert"
 country: "England"

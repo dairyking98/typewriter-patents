@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Munson 1 (1890): a type-element typewriter by Munson Type Writer Comp, USA. Type cylinder, 90 characters, front strike, ribbon, double shift. Sales: a fair few. Price when new: 360 marks."
 year: 1890
 maker: "Munson Type Writer Comp"
 country: "USA"
@@ -46,6 +47,10 @@ tags: ["machine"]
 ## Same maker
 
 [Chicago 3 (?)](../machines/chicago-3.md), [Chicago 2 (1897)](../machines/chicago-2.md)
+
+## Elsewhere on the web
+
+- [Munson 1 typewriter](https://www.antiquetypewriters.com/typewriter/munson-1-typewriter-3/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

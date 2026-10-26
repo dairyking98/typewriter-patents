@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Burridge (1897): a typewriter by nicht fabrikmäßig hergestellt, USA. Type rail, 81 characters, top strike, ribbon, double shift. Sales: not sold. Price when new: none listed."
 year: 1897
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"

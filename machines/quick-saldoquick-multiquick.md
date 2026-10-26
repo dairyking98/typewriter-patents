@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Quick, Saldoquick, Multiquick (1953): a typewriter by Siemag Siegener Maschb Akt Ges, Germany. Typewriter-accounting."
 year: 1953
 maker: "Siemag Siegener Maschb Akt Ges"
 country: "Germany"

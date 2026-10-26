@@ -5,19 +5,16 @@ Name variants: SCHREIBMASCHINENFABRIK AUGSBUR; Schreibmaschinenfabrik Sundem; Sc
 - Dingwerth, Geschichte vol. 10 (digest)
 - Dingwerth, Geschichte vol. 12 (digest)
 
-## Machines (15)
+## Machines (12)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Schreibmaschinenfabrik Sundem machine, 1898](../machines/schreibmaschinenfabrik-sundem-1898.md) | 1898 | full keyboard (one key per character) | typebar | 0 |
-| [Schreibmaschinenfabrik Sundem machine, 1898](../machines/schreibmaschinenfabrik-sundem-1898-2.md) | 1898 | full keyboard (one key per character) | typebar | 0 |
-| [Schreibmaschinenfabrik Sundern machine, 1898](../machines/schreibmaschinenfabrik-sundern-1898.md) | 1898 | full keyboard (one key per character) | typebar | 0 |
-| [Jewett / Germania-Jewett (3, 5)](../machines/jewett-germania-jewett-3-5.md) | 1898 |  | typebar basket, blind (under-strike) | 0 |
-| [Duplex (agency item, 1898 ad)](../machines/duplex-agency-item-1898-ad.md) | 1898 |  | typebar | 0 |
-| [Germania (visible)](../machines/germania-visible.md) | 1900 | QWERTY-type keyboard | typebar | 0 |
-| [Electric Germania](../machines/electric-germania.md) | 1900 |  | typebar, electric | 0 |
-| [Schreibmaschinenfabrik Augsburg AG machine, 1921](../machines/schreibmaschinenfabrik-augsburg-ag-1921.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
-| [Schreibmaschinenfabrik Augsburg AG machine, 1922](../machines/schreibmaschinenfabrik-augsburg-ag-1922.md) | 1922 | QWERTY-type keyboard | typebar | 0 |
+| [Germania 2](../machines/germania-2.md) | 1898 | full keyboard (one key per character) | typebar | 0 |
+| [Germania 3](../machines/germania-3.md) | 1898 | full keyboard (one key per character) | typebar | 0 |
+| [Germania 5](../machines/germania-5.md) | 1898 | full keyboard (one key per character) | typebar | 0 |
+| [Electric Germania](../machines/electric-germania.md) | 1900 | QWERTY-type keyboard | typebar | 0 |
+| [Excelsior 1](../machines/excelsior-1.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
+| [Excelsior 2](../machines/excelsior-2.md) | 1922 | QWERTY-type keyboard | typebar | 0 |
 | [Klein-Voss / Voss 50](../machines/klein-voss-voss-50.md) | 1949 |  | typebar, portable | 0 |
 | [Voss 52](../machines/voss-52.md) | 1952 |  | same | 0 |
 | [S 24, ST 24, S 32, ST 32, SDT 24, SDT 32, SB 32](../machines/s-24-st-24-s-32-st-32-sdt-24-sdt-32-sb-32.md) | 1957 |  | same | 0 |

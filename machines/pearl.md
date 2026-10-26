@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Pearl (1854): an index typewriter by Enoch Prouty, USA. Type bar (straight), ? characters, top strike, ink roller. Sales: nur einige Exempl. Price when new: vielleicht 15 - $20."
 year: 1854
 maker: "Enoch Prouty"
 country: "USA"

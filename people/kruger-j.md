@@ -2,10 +2,10 @@
 
 ## Machines designed (Lexikon)
 
-- [Europa Schreibmaschinen A. G machine, 1931](../machines/europa-schreibmaschinen-a-g-1931.md) (1931)
-- [Europa Schreibmaschinen A.G machine, 1932](../machines/europa-schreibmaschinen-a-g-1932.md) (1932)
-- [Europa Schreibmaschinen A.G machine, 1933](../machines/europa-schreibmaschinen-a-g-1933.md) (1933)
-- [Europa Schreibmaschinen A.G machine, 1933](../machines/europa-schreibmaschinen-a-g-1933-2.md) (1933)
-- [Olympia Büromaschinen A.G machine, 1939](../machines/olympia-buromaschinen-a-g-1939.md) (1939)
-- [Bemh. Stoewer A.G machine, 1926](../machines/bemh-stoewer-a-g-1926.md) (1926)
+- [Olympia Portable](../machines/olympia-portable.md) (1931)
+- [Olympia Progress](../machines/olympia-progress.md) (1932)
+- [Olympia Elite](../machines/olympia-elite.md) (1933)
+- [Olympia Simplex](../machines/olympia-simplex.md) (1933)
+- [Olympia Plana](../machines/olympia-plana.md) (1939)
+- [Klein-Stoewer](../machines/klein-stoewer.md) (1926)
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Herrington (1885): an index typewriter by Mc Clees, USA. Type wheel, 46 characters, top strike, ink roller. Sales: a fair number. Price when new: $5."
 year: 1885
 maker: "Mc Clees"
 country: "USA"

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Dart Signing Typewriter (1899): a typewriter."
 year: 1899
 index_machine: false
 patents: 0

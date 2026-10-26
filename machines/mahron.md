@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Mahron (1894): a type-element typewriter by nicht fabrikmäßig hergestellt, Germany. Type cylinder, 66 characters, top strike, ribbon, single shift. Sales: not sold. Price when new: none listed."
 year: 1894
 maker: "nicht fabrikmäßig hergestellt"
 country: "Germany"

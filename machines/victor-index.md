@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Victor Index (1894): an index typewriter by Tilton Manufacturing Comp, USA. Type wheel, 80‚ characters, front strike, ink pad. Sales: very few only. Price when new: $15."
 year: 1894
 maker: "Tilton Manufacturing Comp"
 country: "USA"

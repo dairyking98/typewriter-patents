@@ -7,12 +7,12 @@ Name variants: MERZ GEB; MERZ WERKE; Merz-Werke; MERZ MERZ WERKE GEB
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Merz-Werke machine, 1926](../machines/merz-werke-1926.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
-| [Merz-Werke machine, 1927](../machines/merz-werke-1927.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
-| [Merz-Werke machine, 1928](../machines/merz-werke-1928.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
-| [Merz-Werke machine, 1928](../machines/merz-werke-1928-2.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
-| [Merz-Werke machine, 1930](../machines/merz-werke-1930.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
-| [Merz-Werke machine, 1930](../machines/merz-werke-1930-2.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
+| [Merz 1](../machines/merz-1.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
+| [Merz 2](../machines/merz-2.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Merz 3](../machines/merz-3.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
+| [Merz Simplex](../machines/merz-simplex.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
+| [Merz Standard](../machines/merz-standard.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
+| [Merz Universal](../machines/merz-universal.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

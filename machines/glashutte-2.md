@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Glashütte 2 (1924): a typebar typewriter by Schreibm.industrie Glashütte GmbH, Germany. Typebar, 92 characters, front strike, ribbon, single shift. Sales: not very many. Price when new: about 380 / 400 marks."
 year: 1924
 maker: "Schreibm.industrie Glashütte GmbH"
 country: "Germany"

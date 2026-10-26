@@ -2,9 +2,9 @@
 
 ## Machines designed (Lexikon)
 
-- [CommereialSchreibm.-Fabrik K.F. Kührt machine, 1914](../machines/commereialschreibm-fabrik-k-f-kuhrt-1914.md) (1914)
-- [CommercialSchreibm.-Fabrik K.F. Kührt machine, 1918](../machines/commercialschreibm-fabrik-k-f-kuhrt-1918.md) (1918)
-- [CommercialSchreibm.-Fabrik K.F. Kührt machine, 1920](../machines/commercialschreibm-fabrik-k-f-kuhrt-1920.md) (1920)
-- [CommercialSchreibm.-Fabrik K.F. Kührt machine, 1922](../machines/commercialschreibm-fabrik-k-f-kuhrt-1922.md) (1922)
-- [Dt. Schreibmaschinenwerke Nbg machine, 1912](../machines/dt-schreibmaschinenwerke-nbg-1912.md) (1912)
+- [Commercial 5](../machines/commercial-5.md) (1914)
+- [Commercial 6](../machines/commercial-6.md) (1918)
+- [Commercial 7](../machines/commercial-7.md) (1920)
+- [Commercial 10](../machines/commercial-10.md) (1922)
+- [Minerva 2](../machines/minerva-2.md) (1912)
 

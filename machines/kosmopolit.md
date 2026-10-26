@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Kosmopolit (1888): a type-element typewriter by Guhl & Harbeck, Germany. Type plate, 90 characters, top strike, ink pad, single shift. Sales: a fair few. Price when new: 150 marks."
 year: 1888
 maker: "Guhl & Harbeck"
 country: "Germany"
@@ -45,7 +46,11 @@ tags: ["machine"]
 
 ## Same maker
 
-[Hammonia (Hansen patent) (1884)](../machines/hammonia-hansen-patent.md)
+[Hammonia (1882)](../machines/hammonia.md)
+
+## Elsewhere on the web
+
+- [Kosmopolit typewriter](https://www.antiquetypewriters.com/typewriter/kosmopolit-typewriter-2/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

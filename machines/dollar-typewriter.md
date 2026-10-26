@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Dollar Typewriter (1890): an index typewriter by R.Ingersoll & Bros, USA. Type wheel, 46 characters, top strike, ink roller. Sales: sold well. Price when new: $1,4 marks."
 year: 1890
 maker: "R.Ingersoll & Bros"
 country: "USA"
@@ -45,6 +46,10 @@ tags: ["machine/index"]
 ## Same maker
 
 [Ingersoll (1892)](../machines/ingersoll.md), [Darling (A) (1910)](../machines/darling-a.md), [Darling (B) (1910)](../machines/darling-b.md)
+
+## Elsewhere on the web
+
+- [Dollar Typewriter](https://www.antiquetypewriters.com/typewriter/dollar-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

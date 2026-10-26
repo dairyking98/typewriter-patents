@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Tip-Tip (1936): an index typewriter by Franz Hübl, Czechoslovakia. Type cylinder, 84 characters, top strike, ribbon. Sales: a fair number. Price when new: 166360 Kc, 38,80 marks."
 year: 1936
 maker: "Franz Hübl"
 country: "Czechoslovakia"

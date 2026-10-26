@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Wirt (1909): a type-element typewriter by nicht fabrikmäßig hergestellt, USA. Type cylinder, 280 characters, front strike, ribbon. Sales: not sold. Price when new: none listed."
 year: 1909
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"

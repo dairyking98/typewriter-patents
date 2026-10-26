@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "norma, futura (1964): a typebar typewriter by GEORG KELLER, Germany. Typebar."
 year: 1964
 maker: "GEORG KELLER"
 country: "Germany"

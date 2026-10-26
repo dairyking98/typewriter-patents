@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Liliput Duplex (1907): a type-element typewriter by Justin Wm. Bamberger & Co, Germany. Type wheel."
 year: 1907
 maker: "Justin Wm. Bamberger & Co"
 country: "Germany"

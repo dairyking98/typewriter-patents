@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Gilman (1890): an index typewriter by Gilman Typewniter Co, USA. Type wheel, ca. 52 characters, top strike, ink roller. Sales: not sold. Price when new: $20 (geplant)."
 year: 1890
 maker: "Gilman Typewniter Co"
 country: "USA"

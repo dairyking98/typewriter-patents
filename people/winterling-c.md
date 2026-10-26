@@ -2,12 +2,12 @@
 
 ## Machines designed (Lexikon)
 
-- [Adlerwerke vorm. Heinr. Kleyer AG machine, 1913](../machines/adlerwerke-vorm-heinr-kleyer-ag-1913-3.md) (1913)
-- [Archo-Schreibm. Winterling&Pfahl machine, 1921](../machines/archo-schreibm-winterling-pfahl-1921.md) (1921)
-- [Archo Schreibmaschinen Co. Land Deutschland machine, 1935](../machines/archo-schreibmaschinen-co-land-deutschland-1935.md) (1935)
-- [Archo Schreibmaschinen Co machine, 1937](../machines/archo-schreibmaschinen-co-1937.md) (1937)
+- [Adler 19](../machines/adler-19.md) (1913)
+- [Archo D](../machines/archo-d.md) (1921)
+- [Archo 10](../machines/archo-10.md) (1935)
+- [Archo Noma](../machines/archo-noma.md) (1937)
 - [Pettypet](../machines/pettypet.md) (1930)
-- [Weilwerke A.G machine, 1938](../machines/weilwerke-a-g-1938.md) (1938)
+- [Torpedo S](../machines/torpedo-s.md) (1938)
 
 ## Assigned to
 

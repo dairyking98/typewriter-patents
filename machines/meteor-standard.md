@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Meteor-Standard (1922): a typebar typewriter by Sächsische Strickmaschinen-Fabrik \"Meteor\" / Vasanta Schreibund Strickmaschinenfabrik AG, Germany. Push-rod (Stoßstangen) standard."
 year: 1922
 maker: "Sächsische Strickmaschinen-Fabrik \"Meteor\" / Vasanta Schreibund Strickmaschinenfabrik AG"
 country: "Germany"
@@ -31,7 +32,7 @@ None linked yet.
 
 ## Same maker
 
-[Meteor (model 1) (1911)](../machines/meteor-model-1.md), [Vasanta (model IV) (1923)](../machines/vasanta-model-iv.md)
+[Vasanta (model IV) (1923)](../machines/vasanta-model-iv.md)
 
 ## Sources
 

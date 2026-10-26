@@ -2,10 +2,10 @@
 
 ## Machines designed (Lexikon)
 
-- [Imperial Typewriter Co. Ltd machine, 1908](../machines/imperial-typewriter-co-ltd-1908.md) (1908)
-- [Imperial Typewriter Co. Ltd machine, 1915](../machines/imperial-typewriter-co-ltd-1915.md) (1915)
-- [Imperial Typewriter Co. Ltd machine, 1915](../machines/imperial-typewriter-co-ltd-1915-2.md) (1915)
-- [Imperial Typewriter Co. Ltd machine, 1923](../machines/imperial-typewriter-co-ltd-1923.md) (1923)
+- [Imperial A](../machines/imperial-a.md) (1908)
+- [Imperial B](../machines/imperial-b.md) (1915)
+- [Imperial C](../machines/imperial-c.md) (1915)
+- [Imperial Portable](../machines/imperial-portable.md) (1923)
 - [Moya Visible 1](../machines/moya-visible-1.md) (1903)
 - [Moya Visible 2](../machines/moya-visible-2.md) (1906)
 

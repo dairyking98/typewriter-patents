@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Ludolf (1930): an index typewriter by noch unbekannt, Germany. Type disc, 91 characters, top strike, ink roller. Sales: very few."
 year: 1930
 maker: "noch unbekannt"
 country: "Germany"

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "C.Spiro Manufactoring Co u.a machine, ?: a typebar typewriter by C.Spiro Manufactoring Co u.a, USA. Typebar, 84 characters, front strike, ribbon, single shift. Sales: not very good. Price when new: about $100."
 maker: "C.Spiro Manufactoring Co u.a"
 country: "USA"
 index_machine: false

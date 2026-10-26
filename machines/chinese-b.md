@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Chinese (B) (1920): an index typewriter by Commercial Visible Typewriter Co, China. Individual type, 2.500 characters, front strike, ribbon. Sales: not very many. Price when new: $240."
 year: 1920
 maker: "Commercial Visible Typewriter Co"
 country: "China"

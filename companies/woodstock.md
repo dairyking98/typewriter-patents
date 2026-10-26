@@ -7,10 +7,10 @@ Name variants: WOODSTOCK TYPEWRITER COMPANY; Woodstock Typewriter Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Woodstock Typewriter Co machine, 1914](../machines/woodstock-typewriter-co-1914.md) | 1914 | QWERTY-type keyboard | typebar | 2 |
-| [Woodstock Typewriter Co machine, 1915](../machines/woodstock-typewriter-co-1915.md) | 1915 | QWERTY-type keyboard | typebar | 2 |
-| [Woodstock Typewriter Co machine, 1916](../machines/woodstock-typewriter-co-1916.md) | 1916 | QWERTY-type keyboard | typebar | 2 |
-| [Woodstock Typewriter Co machine, 1924](../machines/woodstock-typewriter-co-1924.md) | 1924 | QWERTY-type keyboard |  | 0 |
+| [Woodstock 3](../machines/woodstock-3.md) | 1914 | QWERTY-type keyboard | typebar | 2 |
+| [Woodstock 4](../machines/woodstock-4.md) | 1915 | QWERTY-type keyboard | typebar | 2 |
+| [Woodstock 5](../machines/woodstock-5.md) | 1916 | QWERTY-type keyboard | typebar | 2 |
+| [Woodstock Electrite](../machines/woodstock-electrite.md) | 1924 | QWERTY-type keyboard |  | 0 |
 
 ## Inventors
 

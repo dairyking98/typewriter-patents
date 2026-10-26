@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Odell 2 (1891): an index typewriter by Odell Typewriter Co, USA. Type bar (straight), 78 characters, top strike, ink roller, single shift. Sales: relatively good. Price when new: 100 / 63 / 21 marks."
 year: 1891
 maker: "Odell Typewriter Co"
 country: "USA"
@@ -46,6 +47,10 @@ tags: ["machine"]
 ## Same maker
 
 [Odell 1 (Gerade) (1887)](../machines/odell-1-gerade.md), [Odell 1 A (Rund) (1888)](../machines/odell-1-a-rund.md), [Odell 1 B (1888)](../machines/odell-1-b.md), [Odell 3 (1894)](../machines/odell-3.md), [Odell 4 (1904)](../machines/odell-4.md)
+
+## Elsewhere on the web
+
+- [Odell 2 Typewriter](https://www.antiquetypewriters.com/typewriter/odell-2-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [Bennington Typewriter Co machine, 1903](../machines/bennington-typewriter-co-1903.md) (1903)
-- [Xcel Typewriter Co machine, 1922](../machines/xcel-typewriter-co-1922.md) (1922)
+- [Bennington](../machines/bennington.md) (1903)
+- [Xcel](../machines/xcel.md) (1922)
 
 ## Patents (1)
 

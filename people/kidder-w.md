@@ -2,20 +2,20 @@
 
 ## Machines designed (Lexikon)
 
-- [Empire / Adler 7](../machines/empire-adler-7.md) (1898)
+- [Adlerwerke vorm. Heinr. Kleyer AG machine, 1898](../machines/adlerwerke-vorm-heinr-kleyer-ag-1898.md) (1898)
 - [Adler 8](../machines/adler-8.md) (1902)
-- [Adlerwerke vorm. Heinr. Kleyer AG machine, 1913](../machines/adlerwerke-vorm-heinr-kleyer-ag-1913-4.md) (1913)
-- [Rochester Industries Inc machine, 1922](../machines/rochester-industries-inc-1922.md) (1922)
-- [Williams Manufactoring Co machine, 1892](../machines/williams-manufactoring-co-1892.md) (1892)
-- [Williams Manufactoring Co machine, 1892](../machines/williams-manufactoring-co-1892-2.md) (1892)
-- [Williams Manufactoring Co machine, 1892](../machines/williams-manufactoring-co-1892-3.md) (1892)
-- [Williams Manufactoring Co machine, 1909](../machines/williams-manufactoring-co-1909.md) (1909)
-- [Franklin Typewriter Co machine, 1891](../machines/franklin-typewriter-co-1891.md) (1891)
-- [Franklin Typewriter Co machine, 1892](../machines/franklin-typewriter-co-1892.md) (1892)
-- [Franklin Typewriter Co machine, 1896](../machines/franklin-typewriter-co-1896.md) (1896)
-- [Franklin Typewriter Co machine, 1904](../machines/franklin-typewriter-co-1904.md) (1904)
-- [Noiseless Typewriter Co machine, 1915](../machines/noiseless-typewriter-co-1915.md) (1915)
-- [Rochester Industries Inc machine, 1923](../machines/rochester-industries-inc-1923.md) (1923)
+- [Adler 21](../machines/adler-21.md) (1913)
+- [American Pocket](../machines/american-pocket.md) (1922)
+- [Empire 1 (A) (Canada)](../machines/empire-1-a-canada.md) (1892)
+- [Empire 1 (B) (Canada)](../machines/empire-1-b-canada.md) (1892)
+- [Empire 1 (C) (Canada)](../machines/empire-1-c-canada.md) (1892)
+- [Empire 2 (Canada)](../machines/empire-2-canada.md) (1909)
+- [Franklin 1, 2](../machines/franklin-1-2.md) (1891)
+- [Franklin 3, 4](../machines/franklin-3-4.md) (1892)
+- [Franklin 5, 6](../machines/franklin-5-6.md) (1896)
+- [Franklin 9, 10](../machines/franklin-9-10.md) (1904)
+- [Noiseless 1](../machines/noiseless-1.md) (1915)
+- [Rochester](../machines/rochester.md) (1923)
 
 ## Assigned to
 

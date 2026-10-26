@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [Aktienges. vorm Seidel & Naumann machine, 1904](../machines/aktienges-vorm-seidel-naumann-1904.md) (1904)
-- [Aktienges. vorm. Seidel & Naumann machine, 1908](../machines/aktienges-vorm-seidel-naumann-1908.md) (1908)
+- [Ideal Polyglott 1](../machines/ideal-polyglott-1.md) (1904)
+- [Ideal Polyglott 2](../machines/ideal-polyglott-2.md) (1908)
 
 ## Assigned to
 

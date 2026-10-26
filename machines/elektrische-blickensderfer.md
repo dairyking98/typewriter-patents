@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Elektrische Blickensderfer (1902): a typewriter."
 year: 1902
 index_machine: false
 patents: 0

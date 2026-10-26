@@ -2,12 +2,12 @@
 
 ## Machines designed (Lexikon)
 
-- [Williams Typewriter Co machine, 1891](../machines/williams-typewriter-co-1891.md) (1891)
-- [Williams Typewriter Co machine, 1895](../machines/williams-typewriter-co-1895.md) (1895)
-- [Williams Typewriter Co machine, 1896](../machines/williams-typewriter-co-1896.md) (1896)
-- [Williams Typewriter Co machine, 1896](../machines/williams-typewriter-co-1896-2.md) (1896)
-- [Williams Typewriter Co machine, 1900](../machines/williams-typewriter-co-1900.md) (1900)
-- [Williams Typewriter Co machine, 1904](../machines/williams-typewriter-co-1904.md) (1904)
+- [Williams 1 C](../machines/williams-1-c.md) (1891)
+- [Williams 1 S](../machines/williams-1-s.md) (1895)
+- [Williams 2](../machines/williams-2.md) (1896)
+- [Williams 3](../machines/williams-3.md) (1896)
+- [Williams 4](../machines/williams-4.md) (1900)
+- [Williams 6](../machines/williams-6.md) (1904)
 
 ## Patents (10)
 

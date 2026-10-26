@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Blickensderfer 8 (1907): a type-element typewriter by Blickensderfer Manufacturing Comp, USA. Type wheel, 84 characters, top strike, ink roller, double shift. Sales: large numbers. Price when new: 185 / 275 marks."
 year: 1907
 maker: "Blickensderfer Manufacturing Comp"
 country: "USA"
@@ -63,7 +64,13 @@ tags: ["machine"]
 
 ## Same maker
 
-[Blickensderfer 2 (1891)](../machines/blickensderfer-2.md), [Blickensderfer 3 (1891)](../machines/blickensderfer-3.md), [Blickensderfer 4 (1892)](../machines/blickensderfer-4.md), [Blickensderfer 5 (A) (1893)](../machines/blickensderfer-5-a.md), [Blickensderfer 5 (B) (1895)](../machines/blickensderfer-5-b.md), [Blickensderfer 7 (1897)](../machines/blickensderfer-7.md), [Dactyle (1900)](../machines/dactyle.md), [Blickensd. Electric 1 (1901)](../machines/blickensd-electric-1.md), [Niagara (1901)](../machines/niagara.md), [Blickensderfer 5 Alu (1909)](../machines/blickensderfer-5-alu.md), [Blickensderfer 6 (1910)](../machines/blickensderfer-6.md), [Nocoblick (1912)](../machines/nocoblick.md), [Blickensderfer 9 (1914)](../machines/blickensderfer-9.md), [Blickensd. Electric 2 (1918)](../machines/blickensd-electric-2.md)
+[Blickensderfer 2 (1891)](../machines/blickensderfer-2.md), [Blickensderfer 3 (1891)](../machines/blickensderfer-3.md), [Blickensderfer 4 (1892)](../machines/blickensderfer-4.md), [Blickensderfer 5 (A) (1893)](../machines/blickensderfer-5-a.md), [Blickensderfer 5 (B) (1895)](../machines/blickensderfer-5-b.md), [Blickensderfer 7 (1897)](../machines/blickensderfer-7.md), [Dactyle (1900)](../machines/dactyle.md), [Blickensd. Electric 1 (1901)](../machines/blickensd-electric-1.md), [Niagara (1901)](../machines/niagara.md), [Blickensderfer 5 Alu (1909)](../machines/blickensderfer-5-alu.md), [Blickensderfer 6 (1910)](../machines/blickensderfer-6.md), [Nocoblick (1912)](../machines/nocoblick.md), [Blickensderfer 9 (1914)](../machines/blickensderfer-9.md), [Blick-Bar (1914)](../machines/blick-bar.md), [Blickensd. Electric 2 (1918)](../machines/blickensd-electric-2.md)
+
+## Elsewhere on the web
+
+- [Blickensderfer 8 Typewriter](https://www.antiquetypewriters.com/typewriter/blickensderfer-8-typewriter/), Martin Howard Collection, antiquetypewriters.com
+- [Blickensderfer 8 - Serial N0. 151488](http://www.sljohnson.net/typewriter/blick/blick151488.html), S. L. Johnson Typewriter Page, sljohnson.net
+- More on the maker: [Blickensderfer Nr. 5](http://www.hquast.de/Einzelne/Blickensderfer_Nr5.htm) (Hartmut Quast collection, hquast.de) · [Blickensderfer Nr. 7](http://www.hquast.de/Einzelne/Blickensderfer_Nr7.htm) (Hartmut Quast collection, hquast.de) · [Blickensderfer Nr. 6](http://www.hquast.de/Einzelne/Blickensderfer6.htm) (Hartmut Quast collection, hquast.de)
 
 ## Sources
 

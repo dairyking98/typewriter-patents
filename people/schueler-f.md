@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Mercedes Bureaumaschinen GmbH machine, 1906](../machines/mercedes-bureaumaschinen-gmbh-1906.md) (1906)
+- [Mercedes 1](../machines/mercedes-1.md) (1906)
 
 ## Assigned to
 

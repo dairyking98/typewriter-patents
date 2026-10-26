@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Siemag electric M (1963): a typebar typewriter by Siemag Siegener Maschb Akt Ges, Germany. Electric typebar."
 year: 1963
 maker: "Siemag Siegener Maschb Akt Ges"
 country: "Germany"

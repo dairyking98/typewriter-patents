@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [Fisher Book Typewriter Co machine, 1894](../machines/fisher-book-typewriter-co-1894.md) (1894)
-- [Fisher Record Typewriter machine, 1896](../machines/fisher-record-typewriter-1896.md) (1896)
+- [Fisher 1](../machines/fisher-1.md) (1894)
+- [Fisher 2](../machines/fisher-2.md) (1896)
 
 ## Assigned to
 

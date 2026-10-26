@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Jackson Typewriter Co machine, 1898](../machines/jackson-typewriter-co-1898.md) (1898)
+- [Jackson](../machines/jackson.md) (1898)
 
 ## Patents (5)
 

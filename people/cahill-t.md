@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Cahill Writing Machine Co machine, 1893](../machines/cahill-writing-machine-co-1893.md) (1893)
+- [Cahill](../machines/cahill.md) (1893)
 
 ## Assigned to
 

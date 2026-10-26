@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Vasanta (model IV) (1923): a typebar typewriter by Sächsische Strickmaschinen-Fabrik \"Meteor\" / Vasanta Schreibund Strickmaschinenfabrik AG, Germany. Typebar portable, three-row."
 year: 1923
 maker: "Sächsische Strickmaschinen-Fabrik \"Meteor\" / Vasanta Schreibund Strickmaschinenfabrik AG"
 country: "Germany"
@@ -31,7 +32,7 @@ None linked yet.
 
 ## Same maker
 
-[Meteor (model 1) (1911)](../machines/meteor-model-1.md), [Meteor-Standard (1922)](../machines/meteor-standard.md)
+[Meteor-Standard (1922)](../machines/meteor-standard.md)
 
 ## Sources
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Kleine Siemag (1955): a typebar typewriter by Siemag Siegener Maschb Akt Ges, Germany. Small typebar."
 year: 1955
 maker: "Siemag Siegener Maschb Akt Ges"
 country: "Germany"

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Odell 1 (Gerade) (1887): an index typewriter by Odell Typewriter Co, USA. Type bar (straight), 41 characters, top strike, ink roller. Sales: quite few. Price when new: $15."
 year: 1887
 maker: "Odell Typewriter Co"
 country: "USA"

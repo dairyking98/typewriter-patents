@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Thürey 1, 2 (1907): a type-element typewriter by Thürey-Schreibmaschinen-Gesellschaft mbH, Germany. Type wheel, 84 characters, front strike, double shift. Sales: very small. Price when new: 1:210/2:250 marks."
 year: 1907
 maker: "Thürey-Schreibmaschinen-Gesellschaft mbH"
 country: "Germany"

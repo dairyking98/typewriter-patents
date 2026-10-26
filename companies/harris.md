@@ -7,7 +7,7 @@ Name variants: The Harris Typewriter Manufacturing Comp; The Harris Calculating 
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Harris Typewriter Co machine, 1911](../machines/harris-typewriter-co-1911.md) | 1911 | QWERTY-type keyboard | typebar | 5 |
+| [Rex 4](../machines/rex-4.md) | 1911 | QWERTY-type keyboard | typebar | 5 |
 
 ## Inventors
 

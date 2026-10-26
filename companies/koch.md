@@ -7,7 +7,7 @@ Name variants: PAUL KOCH; J. Max Koch
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [J. Max Koch machine, 1924](../machines/j-max-koch-1924.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
+| [Kontor](../machines/kontor.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Ingersoll (1892): a typewriter by R.Ingersoll & Bros, USA. Type plungers, 46 characters, top strike, ink pad. Sales: not very many. Price when new: $1.50."
 year: 1892
 maker: "R.Ingersoll & Bros"
 country: "USA"
@@ -43,6 +44,10 @@ tags: ["machine"]
 ## Same maker
 
 [Dollar Typewriter (1890)](../machines/dollar-typewriter.md), [Darling (A) (1910)](../machines/darling-a.md), [Darling (B) (1910)](../machines/darling-b.md)
+
+## Elsewhere on the web
+
+- [Ingersoll Typewriter](https://www.antiquetypewriters.com/typewriter/ingersoll-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

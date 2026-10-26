@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Larson (1894): an index typewriter by nicht fabrikmäßig hergestellt, USA. Type wheel, ? characters, top strike, ink roller. Sales: not sold. Price when new: none listed."
 year: 1894
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"

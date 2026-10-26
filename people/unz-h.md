@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [National Typewriter Co machine, 1889](../machines/national-typewriter-co-1889.md) (1889)
+- [National](../machines/national.md) (1889)
 
 ## Assigned to
 

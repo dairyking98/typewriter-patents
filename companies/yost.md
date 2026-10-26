@@ -7,12 +7,12 @@ Name variants: The Yost Writing Machine Comp; Yost Writing Machine Co; The Yost 
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Yost Writing Machine Co machine, 1889](../machines/yost-writing-machine-co-1889.md) | 1889 | full keyboard (one key per character) | typebar | 15 |
-| [Yost Writing Machine Co machine, 1889](../machines/yost-writing-machine-co-1889-2.md) | 1889 | full keyboard (one key per character) | typebar | 15 |
-| [Yost Writing Machine Co machine, 1894](../machines/yost-writing-machine-co-1894.md) | 1894 | full keyboard (one key per character) | typebar | 18 |
-| [Yost Writing Machine Co machine, 1902](../machines/yost-writing-machine-co-1902.md) | 1902 | full keyboard (one key per character) | typebar | 18 |
-| [Yost Writing Machine Co machine, 1908](../machines/yost-writing-machine-co-1908.md) | 1908 | QWERTY-type keyboard | typebar | 13 |
-| [Yost Writing Machine Co machine, 1912](../machines/yost-writing-machine-co-1912.md) | 1912 | QWERTY-type keyboard | typebar | 9 |
+| [Yost 1](../machines/yost-1.md) | 1889 | full keyboard (one key per character) | typebar | 15 |
+| [Yost 2](../machines/yost-2.md) | 1889 | full keyboard (one key per character) | typebar | 15 |
+| [Yost 4 - 9](../machines/yost-4-9.md) | 1894 | full keyboard (one key per character) | typebar | 18 |
+| [Yost 10 - 14](../machines/yost-10-14.md) | 1902 | full keyboard (one key per character) | typebar | 18 |
+| [Yost 15 - 19](../machines/yost-15-19.md) | 1908 | QWERTY-type keyboard | typebar | 13 |
+| [Yost 20](../machines/yost-20.md) | 1912 | QWERTY-type keyboard | typebar | 9 |
 
 ## Inventors
 

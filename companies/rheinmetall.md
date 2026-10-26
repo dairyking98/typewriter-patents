@@ -4,17 +4,11 @@ Name variants: RHEINMETALL BORSIG AKT GES; RHEINMETALL BORSIG AG; Rheinmetall AG
 
 - Dingwerth, Geschichte vol. 8 (digest)
 
-## Machines (12)
+## Machines (6)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Rheinmetall (Modell 8)](../machines/rheinmetall-modell-8.md) | 1920 |  | typebar, front strike | 0 |
-| [Rheinmetall Duo](../machines/rheinmetall-duo.md) | 1926 |  | typebar | 0 |
-| [Rheinmetall 9](../machines/rheinmetall-9.md) | 1929 |  | typebar | 0 |
-| [Rheinita](../machines/rheinita.md) | 1929 |  | typebar | 0 |
 | [Modell Z](../machines/modell-z.md) | 1929 |  | typebar | 0 |
-| [Rheinmetall Portable](../machines/rheinmetall-portable.md) | 1931 |  | typebar, four-row portable | 0 |
-| [Rheinita Record](../machines/rheinita-record.md) | 1931 |  | typebar | 0 |
 | [Herold](../machines/herold.md) | 1934 |  | typebar standard | 0 |
 | [Rheinmetall 10](../machines/rheinmetall-10.md) | 1936 |  | typebar | 0 |
 | [GS](../machines/gs.md) | 1947 |  | typebar standard | 0 |

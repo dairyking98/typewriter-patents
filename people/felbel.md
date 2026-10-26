@@ -2,10 +2,10 @@
 
 ## Machines designed (Lexikon)
 
-- [Monarch Typewriter Co machine, 1904](../machines/monarch-typewriter-co-1904.md) (1904)
-- [Monarch Typewriter Co machine, 1904](../machines/monarch-typewriter-co-1904-2.md) (1904)
-- [Monarch Typewriter Co machine, 1906](../machines/monarch-typewriter-co-1906.md) (1906)
-- [Smith Premier Typewriter Co machine, 1921](../machines/smith-premier-typewriter-co-1921-2.md) (1921)
+- [Monarch 1](../machines/monarch-1.md) (1904)
+- [Monarch 2](../machines/monarch-2.md) (1904)
+- [Monarch 3, 4](../machines/monarch-3-4.md) (1906)
+- [Smith Premier 40](../machines/smith-premier-40.md) (1921)
 
 Known only by surname. Possibly: [Felbel, Jacob](../people/felbel-j.md)
 

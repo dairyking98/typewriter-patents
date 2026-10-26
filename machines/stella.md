@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Stella (1918): a typewriter."
 year: 1918
 index_machine: false
 patents: 0

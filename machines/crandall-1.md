@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Crandall 1: a type-element typewriter by nicht fabrikmäßig hergestellt, USA. Type cylinder, 78 characters, top strike, ribbon, double shift. Sales: not sold. Price when new: no sale price."
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
 index_machine: false
@@ -36,6 +37,10 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Crandall 1 Typewriter](https://www.antiquetypewriters.com/typewriter/crandall-1-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

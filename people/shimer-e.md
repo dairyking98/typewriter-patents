@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Shimer ) Typewriter Co. * machine, 1898](../machines/shimer-typewriter-co-1898.md) (1898)
+- [Shimer](../machines/shimer.md) (1898)
 
 ## Patents (19)
 

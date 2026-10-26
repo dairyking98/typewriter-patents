@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Lambert (1896): a type-element typewriter by Lambert Typewriter Co. u.a, USA, France, England, Germany. Type plate, 84 characters, top strike, ink pad, double shift. Sales: a fair number. Price when new: 25 $, 150 marks."
 year: 1896
 maker: "Lambert Typewriter Co. u.a"
 country: "USA, France, England, Germany"
@@ -39,6 +40,11 @@ tags: ["machine"]
 |---|---|---|---|---|---|
 | [US306761](../patents/US306761.md) | 1884 | Lambert, Frank | Type Writing Machine | low | inventor = designer; patent 1884, machine 1896 |
 | [US640208](../patents/US640208.md) | 1900 | Lambert, Frank | Type-Writer | low | inventor = designer; patent 1900, machine 1896; carrier differs (sphere vs plate) |
+
+## Elsewhere on the web
+
+- [Lambert 1 Typewriter](https://www.antiquetypewriters.com/typewriter/lambert-1-typewriter/), Martin Howard Collection, antiquetypewriters.com
+- [Lambert Schreibmaschine](https://www.typewriters.ch/collection-2/lambert/), typewriters.ch
 
 ## Sources
 

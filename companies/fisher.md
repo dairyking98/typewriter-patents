@@ -7,8 +7,8 @@ Name variants: The Fisher Book Typewriter Comp; The Fisher Typewriter Comp; The 
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Fisher Book Typewriter Co machine, 1894](../machines/fisher-book-typewriter-co-1894.md) | 1894 | full keyboard (one key per character) | typebar | 8 |
-| [Fisher Record Typewriter machine, 1896](../machines/fisher-record-typewriter-1896.md) | 1896 | QWERTY-type keyboard | typebar | 15 |
+| [Fisher 1](../machines/fisher-1.md) | 1894 | full keyboard (one key per character) | typebar | 8 |
+| [Fisher 2](../machines/fisher-2.md) | 1896 | QWERTY-type keyboard | typebar | 15 |
 
 ## Inventors
 

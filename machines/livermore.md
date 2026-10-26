@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Livermore (1863): a typewriter."
 year: 1863
 index_machine: false
 patents: 0

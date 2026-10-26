@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Manograph (1906): an index typewriter by Manograph Company, Germany. Type band, 39 characters, top strike, ink roller. Sales: not many. Price when new: 20 marks,$5."
 year: 1906
 maker: "Manograph Company"
 country: "Germany"

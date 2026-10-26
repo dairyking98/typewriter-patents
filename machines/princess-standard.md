@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Princess Standard (1965): a typebar typewriter by GEORG KELLER, Germany. Typebar."
 year: 1965
 maker: "GEORG KELLER"
 country: "Germany"

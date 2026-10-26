@@ -7,10 +7,10 @@ Name variants: Franklin Typewriter Co; The Franklin Type-Writer Comp
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Franklin Typewriter Co machine, 1891](../machines/franklin-typewriter-co-1891.md) | 1891 | QWERTY-type keyboard | typebar | 3 |
-| [Franklin Typewriter Co machine, 1892](../machines/franklin-typewriter-co-1892.md) | 1892 | QWERTY-type keyboard | typebar | 6 |
-| [Franklin Typewriter Co machine, 1896](../machines/franklin-typewriter-co-1896.md) | 1896 | QWERTY-type keyboard | typebar | 8 |
-| [Franklin Typewriter Co machine, 1904](../machines/franklin-typewriter-co-1904.md) | 1904 | QWERTY-type keyboard | typebar | 12 |
+| [Franklin 1, 2](../machines/franklin-1-2.md) | 1891 | QWERTY-type keyboard | typebar | 3 |
+| [Franklin 3, 4](../machines/franklin-3-4.md) | 1892 | QWERTY-type keyboard | typebar | 6 |
+| [Franklin 5, 6](../machines/franklin-5-6.md) | 1896 | QWERTY-type keyboard | typebar | 8 |
+| [Franklin 9, 10](../machines/franklin-9-10.md) | 1904 | QWERTY-type keyboard | typebar | 12 |
 
 ## Inventors
 

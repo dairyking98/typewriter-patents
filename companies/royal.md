@@ -7,21 +7,21 @@ Name variants: The Royal Typewriter Comp; ROYAL TYPEWRITER CO INC; Royal Typewri
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Royal Typewriter Co machine, 1905](../machines/royal-typewriter-co-1905.md) | 1905 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1906](../machines/royal-typewriter-co-1906.md) | 1906 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1911](../machines/royal-typewriter-co-1911.md) | 1911 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1914](../machines/royal-typewriter-co-1914.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1921](../machines/royal-typewriter-co-1921.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1921](../machines/royal-typewriter-co-1921-2.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1930](../machines/royal-typewriter-co-1930.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1931](../machines/royal-typewriter-co-1931.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1931](../machines/royal-typewriter-co-1931-2.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1936](../machines/royal-typewriter-co-1936.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1936](../machines/royal-typewriter-co-1936-2.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1936](../machines/royal-typewriter-co-1936-3.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1938](../machines/royal-typewriter-co-1938.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1938](../machines/royal-typewriter-co-1938-2.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
-| [Royal Typewriter Co machine, 1938](../machines/royal-typewriter-co-1938-3.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
+| [Royal Grand](../machines/royal-grand.md) | 1905 | QWERTY-type keyboard | typebar | 0 |
+| [Royal 1 - 4](../machines/royal-1-4.md) | 1906 | QWERTY-type keyboard | typebar | 0 |
+| [Royal 5 - 8](../machines/royal-5-8.md) | 1911 | QWERTY-type keyboard | typebar | 0 |
+| [Royal 10](../machines/royal-10.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
+| [Royal 10 Quiet](../machines/royal-10-quiet.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
+| [Royal Master 10](../machines/royal-master-10.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
+| [Royal (Master) SX](../machines/royal-master-sx.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
+| [Royal SSX](../machines/royal-ssx.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Royal Portable (B)](../machines/royal-portable-b.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Royal De Luxe A](../machines/royal-de-luxe-a.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Royal De Luxe O](../machines/royal-de-luxe-o.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Royal Junior](../machines/royal-junior.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Royal (Master) KKM](../machines/royal-master-kkm.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
+| [Royal U-Modell](../machines/royal-u-modell.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
+| [Royal Speed-King](../machines/royal-speed-king.md) | 1938 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

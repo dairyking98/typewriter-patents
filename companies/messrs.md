@@ -7,7 +7,7 @@ Name variants: Messrs Egry Ltd; Messrs. E. Prouty & Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Messrs. E. Prouty & Co machine, 1885](../machines/messrs-e-prouty-co-1885.md) | 1885 | Ideal (DHIATENSOR) keyboard | typebar | 0 |
+| [Prouty-Hynes](../machines/prouty-hynes.md) | 1885 | Ideal (DHIATENSOR) keyboard | typebar | 0 |
 
 ## Inventors
 

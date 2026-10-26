@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Odell 4 (1904): an index typewriter by Odell Typewriter Co, USA. Type bar (straight), 78 characters, top strike, ink roller, single shift. Sales: sold well. Price when new: $6.50/$5."
 year: 1904
 maker: "Odell Typewriter Co"
 country: "USA"

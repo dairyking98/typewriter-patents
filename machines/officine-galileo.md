@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Officine Galileo (1904): an index typewriter by ?, Italy. Type wheel, 77 characters, top strike, ink roller. Sales: extremely few. Price when new: about 100 - 150 marks."
 year: 1904
 maker: "?"
 country: "Italy"

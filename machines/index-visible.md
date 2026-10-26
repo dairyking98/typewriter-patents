@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Index Visible (1899): a type-element typewriter by Index Typewriter Co, USA. Type wheel, 90 characters, front strike, ribbon, double shift. Sales: not many. Price when new: $25."
 year: 1899
 maker: "Index Typewriter Co"
 country: "USA"
@@ -37,6 +38,10 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Index Visible Typewriter](https://www.antiquetypewriters.com/typewriter/visible-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

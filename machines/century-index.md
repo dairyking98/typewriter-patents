@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Century Index (1889): an index typewriter by Hall Type Writer Co, USA. Type wheel, 100 characters, top strike, ink roller. Sales: very few. Price when new: about 30/$40."
 year: 1889
 maker: "Hall Type Writer Co"
 country: "USA"

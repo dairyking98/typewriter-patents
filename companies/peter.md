@@ -7,7 +7,7 @@ Name variants: PETER WILHELM BRANDENBURG; HANS PETER LUHN; PETER STRAUCH DR; Pet
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Peter Weil & Co machine, 1906](../machines/peter-weil-co-1906.md) | 1906 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 2](../machines/torpedo-2.md) | 1906 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

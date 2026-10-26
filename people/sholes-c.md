@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [A. D. Meiselbach Typewriter Co machine, 1901](../machines/a-d-meiselbach-typewriter-co-1901.md) (1901)
-- [A. D. Meiselbach Typewriter Co machine, 1909](../machines/a-d-meiselbach-typewriter-co-1909.md) (1909)
+- [Sholes Visible 1](../machines/sholes-visible-1.md) (1901)
+- [Sholes Visible 2](../machines/sholes-visible-2.md) (1909)
 
 ## Assigned to
 

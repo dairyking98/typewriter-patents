@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Pocket (1887): an index typewriter by Pocket Typewriter Co, USA. Type disc, ca. 36 characters, top strike, ink roller. Sales: few. Price when new: $2."
 year: 1887
 maker: "Pocket Typewriter Co"
 country: "USA"
@@ -36,6 +37,10 @@ tags: ["machine/index"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Pocket Typewriter](https://www.antiquetypewriters.com/typewriter/pocket-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

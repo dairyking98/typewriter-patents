@@ -4,11 +4,10 @@ Name variants: Ibm Deutschland; IBM; IBM Deutschland Internationale Büro Maschi
 
 - Dingwerth, Geschichte vol. 9 (digest)
 
-## Machines (10)
+## Machines (9)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Electromatic / International Electric](../machines/electromatic-international-electric.md) | 1930 |  | typebar, electric | 0 |
 | [IBM Standard / Electric](../machines/ibm-standard-electric.md) | 1952 |  | typebar, electric | 0 |
 | [IBM Executive](../machines/ibm-executive.md) | 1952 |  | typebar, electric, proportional | 0 |
 | [Series C (Electric, Executive)](../machines/series-c-electric-executive.md) | 1959 |  | typebar, electric | 0 |

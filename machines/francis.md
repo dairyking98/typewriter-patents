@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Francis (1857): a typewriter."
 year: 1857
 index_machine: false
 patents: 0

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Brackelsberg (A) (1897): a type-element typewriter by wahrscheinlich nicht fabriziert, Germany, England. Type segment, 108 characters, front strike, ribbon. Sales: probably hardly any. Price when new: 350 marks geplant."
 year: 1897
 maker: "wahrscheinlich nicht fabriziert"
 country: "Germany, England"

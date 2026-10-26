@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Hogar (1921): an index typewriter by Mech. Werkstatt Matias Pastor, Spain. Type cylinder, 75 characters, top strike, ink roller, double shift. Sales: ca. 1-2.000 Ex. Price when new: 120 Pts.."
 year: 1921
 maker: "Mech. Werkstatt Matias Pastor"
 country: "Spain"

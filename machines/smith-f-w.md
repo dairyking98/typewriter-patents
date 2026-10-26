@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Smith, F. W. (1891): an index typewriter by nicht fabrikmäßig hergestellt, England. Type disc, 47 characters, top strike. Sales: not sold. Price when new: kein X."
 year: 1891
 maker: "nicht fabrikmäßig hergestellt"
 country: "England"

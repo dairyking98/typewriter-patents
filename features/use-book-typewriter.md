@@ -4,7 +4,7 @@ Book or flat-bed typewriter for bound records
 
 **47 patents**, 1885–1935. Often together with: [PAP:flat-bed](../features/pap-flat-bed.md) (46), [ESC:moving-print-head](../features/esc-moving-print-head.md) (28), [INK:ribbon](../features/ink-ribbon.md) (18), [ESC:pawl-rack](../features/esc-pawl-rack.md) (15), [ELEM:typebar](../features/elem-typebar.md) (14), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (13), [IMP:element-to-platen](../features/imp-element-to-platen.md) (10), [FRM:writing-visible](../features/frm-writing-visible.md) (9)
 
-**Machines:** [Fisher Record Typewriter machine, 1896](../machines/fisher-record-typewriter-1896.md) (2)
+**Machines:** [Fisher 2](../machines/fisher-2.md) (2)
 
 ## Patents, oldest first
 

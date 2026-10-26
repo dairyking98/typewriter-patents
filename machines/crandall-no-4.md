@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Crandall No. 4 (1881): a type-element typewriter by Crandall Type-Writer Comp, USA. Type cylinder, 84 characters, front strike, ribbon, double shift. Sales: not very many. Price when new: $75, 300 marks."
 year: 1881
 maker: "Crandall Type-Writer Comp"
 country: "USA"

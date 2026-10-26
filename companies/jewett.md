@@ -7,9 +7,9 @@ Name variants: The Jewett Typewriter Comp; Jewett Typewriter Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Jewett Typewriter Co machine, 1895](../machines/jewett-typewriter-co-1895.md) | 1895 | full keyboard (one key per character) | typebar | 0 |
-| [Jewett Typewriter Co machine, 1895](../machines/jewett-typewriter-co-1895-2.md) | 1895 | full keyboard (one key per character) | typebar | 0 |
-| [Jewett Typewriter Co machine, 1897](../machines/jewett-typewriter-co-1897.md) | 1897 | full keyboard (one key per character) | typebar | 0 |
+| [Jewett 2](../machines/jewett-2.md) | 1895 | full keyboard (one key per character) | typebar | 0 |
+| [Jewett 3](../machines/jewett-3.md) | 1895 | full keyboard (one key per character) | typebar | 0 |
+| [Jewett 5](../machines/jewett-5.md) | 1897 | full keyboard (one key per character) | typebar | 0 |
 
 ## Inventors
 

@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [Messrs. E. Prouty & Co machine, 1885](../machines/messrs-e-prouty-co-1885.md) (1885)
+- [Prouty-Hynes](../machines/prouty-hynes.md) (1885)
 

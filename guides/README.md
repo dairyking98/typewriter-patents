@@ -8,6 +8,8 @@ before relying on a detail.
 
 - [The master timeline](master-timeline.md): index, type-element and typebar machines in one chronology, era by era,
   with the features each era brought. The interactive version is the [timeline browser](../explore/timeline.md).
+- [The American typewriter, landmark by landmark](../views/american-timeline.md): from Sholes & Glidden to the IBM
+  Executive, which machine or patent brought each familiar feature, with sources and the disputed firsts.
 - [Typewriter features through time](../views/typewriter-features.md): shift, ribbon, bell, margins, tabulator,
   backspace and more: when each appeared, when it became standard, and what survives today.
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Brown Wood: an index typewriter by wahrscheinlich nicht fabriziert, USA. Type disc, ca. 80 characters, top strike, ink disc. Sales: hardly any. Price when new: no sale price."
 maker: "wahrscheinlich nicht fabriziert"
 country: "USA"
 index_machine: true

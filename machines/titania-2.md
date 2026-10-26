@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Titania 2 (1911): a typebar typewriter by AG Mix & Genest and Titania Schreibmaschinen GmbH, Germany. Typebar."
 year: 1911
 maker: "AG Mix & Genest and Titania Schreibmaschinen GmbH"
 country: "Germany"
@@ -31,7 +32,7 @@ None linked yet.
 
 ## Same maker
 
-[Titania 1 (1911)](../machines/titania-1.md), [Titania 3 (1913)](../machines/titania-3.md)
+[Titania 1 (1911)](../machines/titania-1.md)
 
 ## Sources
 

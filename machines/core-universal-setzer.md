@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Coré, Universal-Setzer (1841): a typewriter."
 year: 1841
 index_machine: false
 patents: 0

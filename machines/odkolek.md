@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Odkolek (1860): a typebar typewriter by nicht fabrikmäßig hergestellt, Czechia. Type rods, 49 characters, top strike. Sales: not sold. Price when new: none listed."
 year: 1860
 maker: "nicht fabrikmäßig hergestellt"
 country: "Czechia"

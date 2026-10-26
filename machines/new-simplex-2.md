@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "New Simplex 2 (1899): an index typewriter by Simplex Typewr. Co, USA. Type disc, 72 characters, front strike, ink pad. Sales: sold well. Price when new: $3.50."
 year: 1899
 maker: "Simplex Typewr. Co"
 country: "USA"

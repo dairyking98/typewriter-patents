@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Simplex Little Giant (1900): an index typewriter by Simplex Typewr. Co, USA. Type disc, 36 characters, top strike, ink pad. Sales: nicht wenig Pr.is. Price when new: about $2."
 year: 1900
 maker: "Simplex Typewr. Co"
 country: "USA"

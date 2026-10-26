@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Hammond 1 (1884): a type-element typewriter by Hammond Typewriter Comp, USA. Type shuttle, 90 characters, front strike, ribbon, double shift. Sales: sold well. Price when new: $100, 450 marks."
 year: 1884
 maker: "Hammond Typewriter Comp"
 country: "USA"
@@ -49,7 +50,15 @@ tags: ["machine"]
 
 ## Same maker
 
-[Hammond 1B Ideal (1891)](../machines/hammond-1b-ideal.md), [Hammond 2 Ideal (1895)](../machines/hammond-2-ideal.md), [Hammond 2 Universal (1895)](../machines/hammond-2-universal.md), [Hammond 12 Ideal (1905)](../machines/hammond-12-ideal.md), [Hammond 12 Universal (1905)](../machines/hammond-12-universal.md), [Hammond Multiplex (1913)](../machines/hammond-multiplex.md), [Hammond Multiplex (1913)](../machines/hammond-multiplex-2.md), [Hammond Varityper (1927)](../machines/hammond-varityper.md)
+[Hammond 1B Ideal (1891)](../machines/hammond-1b-ideal.md), [Hammond 2 Ideal (1895)](../machines/hammond-2-ideal.md), [Hammond 2 Universal (1895)](../machines/hammond-2-universal.md), [Hammond 12 Ideal (1905)](../machines/hammond-12-ideal.md), [Hammond 12 Universal (1905)](../machines/hammond-12-universal.md), [Hammond Multiplex (1913)](../machines/hammond-multiplex.md), [Hammond Multiplex (1913)](../machines/hammond-multiplex-2.md), [Hammond Folding (1921)](../machines/hammond-folding.md), [Hammond Varityper (1927)](../machines/hammond-varityper.md)
+
+## Elsewhere on the web
+
+- [Hammond 1 Typewriter (mahogany)](https://www.antiquetypewriters.com/typewriter/hammond-1-mahogany-typewriter/), Martin Howard Collection, antiquetypewriters.com
+- [Hammond 1 Typewriter (oak)](https://www.antiquetypewriters.com/typewriter/hammond-1-typewriter-oak/), Martin Howard Collection, antiquetypewriters.com
+- [Hammond 1 Typewriter with rare accessories](https://www.antiquetypewriters.com/typewriter/hammond-1-typewriter-with-rare-accessories/), Martin Howard Collection, antiquetypewriters.com
+- [Hammond 1 Typewriter](https://www.antiquetypewriters.com/typewriter/hammond-1-typewriter/), Martin Howard Collection, antiquetypewriters.com
+- More on the maker: [Hammond Multiplex](http://www.hquast.de/Einzelne/Hammond_Multiplex.htm) (Hartmut Quast collection, hquast.de) · [Hammond Nr. 12](http://www.hquast.de/Einzelne/Hammond_Nr12.htm) (Hartmut Quast collection, hquast.de) · [Hammond Nr. 2](http://www.hquast.de/Einzelne/Hammond_%20Nr2.htm) (Hartmut Quast collection, hquast.de)
 
 ## Sources
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Zalmon G. Sholes Typewriter Co machine, ?: a typebar typewriter by Zalmon G. Sholes Typewriter Comp, USA. Typebar, 76 characters, front strike, ink pad, single shift. Sales: not very many. Price when new: $50."
 maker: "Zalmon G. Sholes Typewriter Comp"
 country: "USA"
 index_machine: false

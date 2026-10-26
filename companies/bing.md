@@ -4,22 +4,21 @@ Name variants: BING WERKE VORM GEBR BING A G; Bing-Werke A.G; Bingwerke vorm. Ge
 
 - Dingwerth, Geschichte vol. 9 (digest)
 
-## Machines (13)
+## Machines (12)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
 | [Bing-Werke A.G machine, ?](../machines/bing-werke-a-g-x.md) |  | QWERTY-type keyboard | typebar | 0 |
-| [Bing-Werke A.G machine, 1921](../machines/bing-werke-a-g-1921.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
-| [Orga Standard](../machines/orga-standard.md) | 1922 |  | typebar | 0 |
+| [Orga Standard](../machines/orga-standard.md) | 1921 | QWERTY-type keyboard | typebar | 0 |
 | [Orga Privat 1-5](../machines/orga-privat-1-5.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
-| [Bing-Werke A.G machine, 1924](../machines/bing-werke-a-g-1924.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
-| [Bing (child's typewriter)](../machines/bing-child-s-typewriter.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
-| [Bingwerke vorm. Gebr. Bing A.G machine, 1927](../machines/bingwerke-vorm-gebr-bing-a-g-1927.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
-| [Bing-Werke A.G machine, 1927](../machines/bing-werke-a-g-1927.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
-| [Bingwerke vorm. Gebr. Bing A.G.* machine, 1927](../machines/bingwerke-vorm-gebr-bing-a-g-1927-2.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Orga Privat 2](../machines/orga-privat-2.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
+| [Bingwerke vorm. Gebr. Bing A.G machine, 1925](../machines/bingwerke-vorm-gebr-bing-a-g-1925.md) | 1925 | QWERTY-type keyboard | typebar | 0 |
+| [Bing 2](../machines/bing-2.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Orga Privat 5](../machines/orga-privat-5.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Student](../machines/student.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
 | [Orga Privat 6-9](../machines/orga-privat-6-9.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
-| [Bing-Werke A.G machine, 1933](../machines/bing-werke-a-g-1933.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Bing-Werke A.G machine, 1934](../machines/bing-werke-a-g-1934.md) | 1934 |  | typebar | 0 |
+| [Orga Privat 7](../machines/orga-privat-7.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Orga Privat 8](../machines/orga-privat-8.md) | 1934 |  | typebar | 0 |
 | [Orga 10, 12](../machines/orga-10-12.md) | 1939 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors

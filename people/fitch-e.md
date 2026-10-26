@@ -2,9 +2,9 @@
 
 ## Machines designed (Lexikon)
 
-- [wahrscheinlich nicht serienmäßig produziert machine, 1886](../machines/wahrscheinlich-nicht-serienma-ig-produziert-1886.md) (1886)
-- [Brady Manufactoring Co machine, 1888](../machines/brady-manufactoring-co-1888.md) (1888)
-- [Fitch Typewriter Co. Ltd machine, 1891](../machines/fitch-typewriter-co-ltd-1891.md) (1891)
+- [Fitch 1](../machines/fitch-1.md) (1886)
+- [Fitch 2 A](../machines/fitch-2-a.md) (1888)
+- [Fitch 2 B](../machines/fitch-2-b.md) (1891)
 
 ## Assigned to
 

@@ -2,10 +2,10 @@
 
 ## Machines designed (Lexikon)
 
-- [Corona Typewriter Co. Inc machine, 1912](../machines/corona-typewriter-co-inc-1912.md) (1912)
-- [L.C. Smith & Corona Typew.Co machine, 1924](../machines/l-c-smith-corona-typew-co-1924.md) (1924)
-- [L.C. Smith & Corona Typewr. Co machine, 1932](../machines/l-c-smith-corona-typewr-co-1932.md) (1932)
-- [L.C. Smith & Corona Typew.Co machine, 1938](../machines/l-c-smith-corona-typew-co-1938.md) (1938)
+- [Corona 3](../machines/corona-3.md) (1912)
+- [Corona 4](../machines/corona-4.md) (1924)
+- [Corona Sterling](../machines/corona-sterling.md) (1932)
+- [Corona Zephyr](../machines/corona-zephyr.md) (1938)
 
 ## Assigned to
 

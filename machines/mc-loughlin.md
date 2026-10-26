@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Mc Loughlin (1884): an index typewriter by Mc Loughlin Bros, USA. Type plate, 45 characters, top strike. Sales: very few. Price when new: $10."
 year: 1884
 maker: "Mc Loughlin Bros"
 country: "USA"

@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Conde Typewriter Co machine, 1885](../machines/conde-typewriter-co-1885.md) (1885)
+- [Condé](../machines/conde.md) (1885)
 
 ## Patents (3)
 

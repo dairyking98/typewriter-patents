@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Picht Index (1907): an index typewriter by Oskar Picht / Herde & Wendt, Germany. Type wheel, 84 characters, front strike, ink roller, double shift. Sales: a fair few. Price when new: 48 / 65 marks."
 year: 1907
 maker: "Oskar Picht / Herde & Wendt"
 country: "Germany"

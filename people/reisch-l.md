@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [Bing-Werke A.G machine, 1924](../machines/bing-werke-a-g-1924.md) (1924)
+- [Orga Privat 2](../machines/orga-privat-2.md) (1924)
 

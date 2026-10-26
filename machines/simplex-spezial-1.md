@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Simplex Spezial 1 (1906): an index typewriter by Simplex Typewr. Co, USA. Type disc, 36 characters, top strike, ink pad. Sales: a fair number. Price when new: 5,50 marks."
 year: 1906
 maker: "Simplex Typewr. Co"
 country: "USA"

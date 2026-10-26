@@ -2,9 +2,9 @@
 
 ## Machines designed (Lexikon)
 
-- [Ellis Adding Typewriter Co machine, 1910](../machines/ellis-adding-typewriter-co-1910.md) (1910)
-- [Manufacture d' Armes de Paris machine, 1921](../machines/manufacture-d-armes-de-paris-1921.md) (1921)
-- [Societ€ des Machi- & Ecrire Map nes machine, 1926](../machines/societ-des-machi-ecrire-map-nes-1926.md) (1926)
+- [Ellis](../machines/ellis.md) (1910)
+- [M.A.P. 3](../machines/m-a-p-3.md) (1921)
+- [M.A.P. 5, 8](../machines/m-a-p-5-8.md) (1926)
 
 ## Assigned to
 

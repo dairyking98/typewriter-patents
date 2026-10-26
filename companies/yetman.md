@@ -7,7 +7,7 @@ Name variants: The Yetman Typewriter-Transmitter Comp; Yetman Transmitter Typewr
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Yetman Transmitter Typewriter Co machine, 1896](../machines/yetman-transmitter-typewriter-co-1896.md) | 1896 | QWERTY-type keyboard | typebar | 0 |
+| [Yetman](../machines/yetman.md) | 1896 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Eckels (1892): a type-element typewriter by wahrscheinl. nicht in Serie produziert, USA. Type wheel, 86 characters, front strike, ribbon. Sales: wahrscheinl. nicht Pre;'s. Price when new: none listed."
 year: 1892
 maker: "wahrscheinl. nicht in Serie produziert"
 country: "USA"

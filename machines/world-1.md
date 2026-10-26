@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "World 1 (1886): an index typewriter by Typewriter Improvement Comp, USA. Type plate, 44 characters, top strike, ink pad. Sales: a fair few. Price when new: $8, 60 / 35 marks."
 year: 1886
 maker: "Typewriter Improvement Comp"
 country: "USA"
@@ -44,6 +45,10 @@ tags: ["machine/index"]
 ## Same maker
 
 [World 2 (1890)](../machines/world-2.md)
+
+## Elsewhere on the web
+
+- [World 1 Typewriter](https://www.antiquetypewriters.com/typewriter/world-1-typewriter-2/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

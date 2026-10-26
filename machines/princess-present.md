@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Princess Present (1960): a typebar typewriter by GEORG KELLER, Germany. Typebar."
 year: 1960
 maker: "GEORG KELLER"
 country: "Germany"

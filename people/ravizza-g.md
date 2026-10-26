@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [nicht fabrikmäßig hergestellt machine, 1867](../machines/nicht-fabrikma-ig-hergestellt-1867.md) (1867)
+- [Ravizza](../machines/ravizza.md) (1867)
 

@@ -7,12 +7,12 @@ Name variants: The L. C. Smith and Bros. Typewriter Comp; The L. C. Smith & Bros
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [L.C. Smith & Bros. Typewriter machine, 1904](../machines/l-c-smith-bros-typewriter-1904.md) | 1904 | QWERTY-type keyboard | typebar | 20 |
-| [L.C.Smith & Bros. Typewriter Co machine, 1905](../machines/l-c-smith-bros-typewriter-co-1905.md) | 1905 | QWERTY-type keyboard | typebar | 21 |
-| [L.C.Smith & Bros. Typewriter Co machine, 1907](../machines/l-c-smith-bros-typewriter-co-1907.md) | 1907 | QWERTY-type keyboard | typebar | 28 |
-| [L.C.Smith & Bros. Typewriter Co machine, 1909](../machines/l-c-smith-bros-typewriter-co-1909.md) | 1909 | QWERTY-type keyboard | typebar | 31 |
-| [L.C.Smith & Bros Typewriter Co machine, 1911](../machines/l-c-smith-bros-typewriter-co-1911.md) | 1911 | QWERTY-type keyboard | typebar | 34 |
-| [Harry A. Smith Typewriter Co machine, 1920](../machines/harry-a-smith-typewriter-co-1920.md) | 1920 | QWERTY-type keyboard | typebar | 0 |
+| [L. C. Smith 2](../machines/l-c-smith-2.md) | 1904 | QWERTY-type keyboard | typebar | 20 |
+| [L. C. Smith 1](../machines/l-c-smith-1.md) | 1905 | QWERTY-type keyboard | typebar | 21 |
+| [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) | 1907 | QWERTY-type keyboard | typebar | 28 |
+| [L. C. Smith 6](../machines/l-c-smith-6.md) | 1909 | QWERTY-type keyboard | typebar | 31 |
+| [L. C. Smith 7](../machines/l-c-smith-7.md) | 1911 | QWERTY-type keyboard | typebar | 34 |
+| [Smith, Harry A.](../machines/smith-harry-a.md) | 1920 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [E.C .Steams & Co machine, 1900](../machines/e-c-steams-co-1900.md) (1900)
+- [Stearns 2, 4](../machines/stearns-2-4.md) (1900)
 

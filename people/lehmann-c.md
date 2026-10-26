@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [Schreibm.fabrik Gebr. Lehmann KG machine, 1919](../machines/schreibm-fabrik-gebr-lehmann-kg-1919.md) (1919)
-- [Hansa Büromasch.- Werke F. Wallbröhl machine, 1925](../machines/hansa-buromasch-werke-f-wallbrohl-1925.md) (1925)
+- [Culema 1 - 3](../machines/culema-1-3.md) (1919)
+- [Hansa 4](../machines/hansa-4.md) (1925)
 
 ## Assigned to
 

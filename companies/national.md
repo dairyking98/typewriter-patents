@@ -7,7 +7,7 @@ Name variants: The National Typewriter Comp; The National Type Writer Comp; Nati
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [National Typewriter Co machine, 1889](../machines/national-typewriter-co-1889.md) | 1889 |  | typebar | 5 |
+| [National](../machines/national.md) | 1889 |  | typebar | 5 |
 
 ## Inventors
 

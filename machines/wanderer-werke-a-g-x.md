@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Wanderer-Werke A.G machine, ?: a typebar typewriter by WANDERER WERKE VORM WINKLHOFER, Germany. Typebar, 88 characters, front strike, ribbon, single shift. Sales: large numbers. Price when new: about 250 marks."
 maker: "WANDERER WERKE VORM WINKLHOFER"
 country: "Germany"
 index_machine: false
@@ -36,7 +37,7 @@ None linked yet.
 
 ## Same maker
 
-[Continental (Standard) (1904)](../machines/continental-standard.md), [Continental special models (1920)](../machines/continental-special-models.md), [Klein-Continental (1927)](../machines/klein-continental.md), [Continental Silenta (1932)](../machines/continental-silenta.md), [Continental 34 / 35 / 100 (1933)](../machines/continental-34-35-100.md), [Wanderer Notenschreibmaschine (1939)](../machines/wanderer-notenschreibmaschine.md), [Continental 200 (1939)](../machines/continental-200.md)
+[Continental (Standard) (1904)](../machines/continental-standard.md), [Continental special models (1920)](../machines/continental-special-models.md), [Klein-Continental (1929)](../machines/klein-continental.md), [Continental 34 / 35 / 100 (1933)](../machines/continental-34-35-100.md), [Continental Silenta (1934)](../machines/continental-silenta.md), [Continental 35 (1935)](../machines/continental-35.md), [Wanderer Notenschreibmaschine (1939)](../machines/wanderer-notenschreibmaschine.md), [Continental 200 (1939)](../machines/continental-200.md)
 
 ## Sources
 

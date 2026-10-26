@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Helios 3 (1909): a type-element typewriter by Kanzler Schreibmaschinen A.-G, Germany. Type wheel, 84 characters, front strike, ribbon, triple shift. Sales: relatively good. Price when new: 98 / 135 marks."
 year: 1909
 maker: "Kanzler Schreibmaschinen A.-G"
 country: "Germany"
@@ -43,7 +44,7 @@ tags: ["machine"]
 
 ## Same maker
 
-[Kanzler 1/2 (1903)](../machines/kanzler-1-2.md), [Kanzler 3 (1907)](../machines/kanzler-3.md), [Kanzler 4 (1910)](../machines/kanzler-4.md)
+[Kanzler 3 (1907)](../machines/kanzler-3.md), [Kanzler 4 (1910)](../machines/kanzler-4.md)
 
 ## Sources
 

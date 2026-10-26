@@ -7,13 +7,13 @@ Name variants: EUROPA SCHREIBMASCHINEN A G; Europa Schreibmaschinen A.G; EUROPA 
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Europa Schreibmaschinen A.G machine, 1930](../machines/europa-schreibmaschinen-a-g-1930.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
-| [Europa Schreibmaschinen A. G machine, 1931](../machines/europa-schreibmaschinen-a-g-1931.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Europa Schreibmaschinen A.G machine, 1932](../machines/europa-schreibmaschinen-a-g-1932.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
-| [Europa Schreibmaschinen A.G machine, 1933](../machines/europa-schreibmaschinen-a-g-1933.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Europa Schreibmaschinen A.G machine, 1933](../machines/europa-schreibmaschinen-a-g-1933-2.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Europa Schreibmaschinen A.G machine, 1934](../machines/europa-schreibmaschinen-a-g-1934.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
-| [Europa Schreibmaschinen A.G machine, 1934](../machines/europa-schreibmaschinen-a-g-1934-2.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [Olympia 7](../machines/olympia-7.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
+| [Olympia Portable](../machines/olympia-portable.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Olympia Progress](../machines/olympia-progress.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
+| [Olympia Elite](../machines/olympia-elite.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Olympia Simplex](../machines/olympia-simplex.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Olympia 8](../machines/olympia-8.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [Olympia Filia A](../machines/olympia-filia-a.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

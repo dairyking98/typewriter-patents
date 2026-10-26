@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Keystone (1899): a type-element typewriter by Keystone Typewriter Comp, USA. Type shuttle, 84 characters, front strike, ribbon, double shift. Sales: only very modest. Price when new: $35, 150 marks."
 year: 1899
 maker: "Keystone Typewriter Comp"
 country: "USA"
@@ -36,6 +37,12 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Keystone 1 Typewriter](https://www.antiquetypewriters.com/typewriter/keystone-1-typewriter/), Martin Howard Collection, antiquetypewriters.com
+- [Keystone 2 Typewriter](https://www.antiquetypewriters.com/typewriter/keystone-2-typewriter/), Martin Howard Collection, antiquetypewriters.com
+- [The Keystone Antique Typewriter](http://www.typewritercollector.com/collectible/keystone.htm), Tony Casillo, typewritercollector.com
 
 ## Sources
 

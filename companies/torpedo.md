@@ -7,14 +7,14 @@ Name variants: TORPEDO WERKE A G FAHRRAEDER U; Torpedo-Werke A.G; SCHREIBMASCHIN
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Torpedo Weilwerke A.G machine, 1928](../machines/torpedo-weilwerke-a-g-1928.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
-| [Torpedo-Werke A.G machine, 1931](../machines/torpedo-werke-a-g-1931.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Torpedo-Werke A.G machine, 1931](../machines/torpedo-werke-a-g-1931-2.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Torpedo Weilwerke ge machine, 1933](../machines/torpedo-weilwerke-ge-1933.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Torpedo-Werke A.G machine, 1933](../machines/torpedo-werke-a-g-1933.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Torpedo-Werke A.G machine, 1933](../machines/torpedo-werke-a-g-1933-2.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Torpedo-Werke A.G machine, 1934](../machines/torpedo-werke-a-g-1934.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
-| [Torpedo-Werke A.G machine, 1936](../machines/torpedo-werke-a-g-1936.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 14](../machines/torpedo-14.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 15](../machines/torpedo-15.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 15 A](../machines/torpedo-15-a.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Dt. Remington](../machines/dt-remington.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 16](../machines/torpedo-16.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 17](../machines/torpedo-17.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo Lautlos](../machines/torpedo-lautlos.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 20](../machines/torpedo-20.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

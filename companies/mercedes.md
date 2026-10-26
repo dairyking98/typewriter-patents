@@ -4,27 +4,25 @@ Name variants: MERCEDES BUEROMASCHINEN WERKE; MERCEDES BUERO MASCHINEN UND W; ME
 
 - Dingwerth, Geschichte vol. 2 (digest)
 
-## Machines (18)
+## Machines (16)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
 | [Mercedes Büromaschinen-Werke machine, ?](../machines/mercedes-buromaschinen-werke-x.md) |  | QWERTY-type keyboard |  | 0 |
-| [Mercedes Bureaumaschinen GmbH machine, 1906](../machines/mercedes-bureaumaschinen-gmbh-1906.md) | 1906 | QWERTY-type keyboard | typebar | 0 |
-| [Mercedes 1](../machines/mercedes-1.md) | 1907 |  | typebar, visible | 0 |
-| [Mercedes 2](../machines/mercedes-2.md) | 1908 |  | typebar, visible | 0 |
-| [Mercedes Büromasch.werke AG machine, 1909](../machines/mercedes-buromasch-werke-ag-1909.md) | 1909 | QWERTY-type keyboard | typebar | 0 |
+| [Mercedes 1](../machines/mercedes-1.md) | 1906 | QWERTY-type keyboard | typebar | 0 |
+| [Mercedes 2](../machines/mercedes-2.md) | 1909 | QWERTY-type keyboard | typebar | 0 |
 | [Mercedes 3 / 4 / 5](../machines/mercedes-3-4-5.md) | 1911 | QWERTY-type keyboard | typebar | 0 |
 | [Elektra, Elektra 2, 3](../machines/elektra-elektra-2-3.md) | 1921 |  | electric typebar | 0 |
-| [Mercedes-Büromaschinen-Werke machine, 1924](../machines/mercedes-buromaschinen-werke-1924.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
-| [Mercedes-Büromaschinen-Werke machine, 1926](../machines/mercedes-buromaschinen-werke-1926.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
-| [Mercedes Büromaschinen-Werke machine, 1927](../machines/mercedes-buromaschinen-werke-1927.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Mercedes 4](../machines/mercedes-4.md) | 1924 | QWERTY-type keyboard | typebar | 0 |
+| [Mercedes 5](../machines/mercedes-5.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
+| [Mercedes Elektra 2](../machines/mercedes-elektra-2.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
 | [Mercedes 6 Expreß (S 6)](../machines/mercedes-6-expre-s-6.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
 | [Klein-Mercedes, 33, Prima, Selecta, Superba](../machines/klein-mercedes-33-prima-selecta-superba.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
 | [Mercedes Favorit (S 5)](../machines/mercedes-favorit-s-5.md) | 1932 | QWERTY-type keyboard | typebar | 0 |
-| [Mercedes Büromaschinen-Werke machine, 1933](../machines/mercedes-buromaschinen-werke-1933.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Mercedes Büromaschinen-Werke machine, 1933](../machines/mercedes-buromaschinen-werke-1933-2.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
-| [Mercedes Büromaschinen-Werke machine, 1934](../machines/mercedes-buromaschinen-werke-1934.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
-| [Mercedes Büromaschinen-Werke machine, 1936](../machines/mercedes-buromaschinen-werke-1936.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
+| [Mercedes Prima](../machines/mercedes-prima.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Mercedes Elektra 3](../machines/mercedes-elektra-3.md) | 1933 | QWERTY-type keyboard | typebar | 0 |
+| [Mercedes Selecta](../machines/mercedes-selecta.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [Mercedes Superba](../machines/mercedes-superba.md) | 1936 | QWERTY-type keyboard | typebar | 0 |
 | [SE 4 / SE 5 (Cellatron)](../machines/se-4-se-5-cellatron.md) | 1950 |  | electric typebar | 0 |
 
 ## Inventors

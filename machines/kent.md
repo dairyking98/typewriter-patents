@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Kent (1892): a type-element typewriter by Kent Writing Machine Co, USA. Type wheel, 72 characters, front strike, ink roller. Sales: not sold. Price when new: none listed."
 year: 1892
 maker: "Kent Writing Machine Co"
 country: "USA"

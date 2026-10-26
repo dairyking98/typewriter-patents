@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Brady-Warner (1878): an index typewriter by nicht serienmäßig hergestellt, USA. Type wheel, °? characters, top strike, ink roller. Sales: not sold. Price when new: none listed."
 year: 1878
 maker: "nicht serienmäßig hergestellt"
 country: "USA"

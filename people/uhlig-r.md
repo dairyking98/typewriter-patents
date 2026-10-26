@@ -2,15 +2,15 @@
 
 ## Machines designed (Lexikon)
 
-- [Allen Typewriter Mfg. Co machine, 1920](../machines/allen-typewriter-mfg-co-1920.md) (1920)
-- [Allen Typewriter Mfg. Co machine, 1922](../machines/allen-typewriter-mfg-co-1922.md) (1922)
-- [Allen Typewriter Mfg. Co machine, 1922](../machines/allen-typewriter-mfg-co-1922-2.md) (1922)
-- [Arlington (Uhlig) Typewriter Co machine, 1913](../machines/arlington-uhlig-typewriter-co-1913.md) (1913)
-- [Atlas Typewriter Co machine, 1915](../machines/atlas-typewriter-co-1915.md) (1915)
+- [Allen 9](../machines/allen-9.md) (1920)
+- [Allen 10](../machines/allen-10.md) (1922)
+- [Allen Vierreihig](../machines/allen-vierreihig.md) (1922)
+- [Arlington](../machines/arlington.md) (1913)
+- [Atlas](../machines/atlas.md) (1915)
 - [Commercial Visible 1](../machines/commercial-visible-1.md) (1898)
 - [Commercial Visible 6](../machines/commercial-visible-6.md) (1902)
-- [Emerson Typewriter Co machine, 1907](../machines/emerson-typewriter-co-1907.md) (1907)
-- [Emerson Typewriter Co machine, 1909](../machines/emerson-typewriter-co-1909.md) (1909)
+- [Emerson 1](../machines/emerson-1.md) (1907)
+- [Emerson 3](../machines/emerson-3.md) (1909)
 
 ## Assigned to
 

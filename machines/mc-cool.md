@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Mc Cool (1903): a type-element typewriter by Acme-Keystone Manufacturing Comp, USA. Type wheel, 84 characters, front strike, ribbon, double shift. Sales: very few. Price when new: $25."
 year: 1903
 maker: "Acme-Keystone Manufacturing Comp"
 country: "USA"

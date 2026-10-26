@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Coffman (1902): an index typewriter by Sears, USA. Type band, 39 characters, top strike, ink roller. Sales: very few. Price when new: $3.99/5 s."
 year: 1902
 maker: "Sears"
 country: "USA"
@@ -38,6 +39,10 @@ tags: ["machine/index"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Coffman Typewriter](https://www.antiquetypewriters.com/typewriter/coffman-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

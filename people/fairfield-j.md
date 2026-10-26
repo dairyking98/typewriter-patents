@@ -2,9 +2,9 @@
 
 ## Machines designed (Lexikon)
 
-- [Hartford Typewriter Co machine, 1894](../machines/hartford-typewriter-co-1894.md) (1894)
-- [Hartford Typewriter Co machine, 1896](../machines/hartford-typewriter-co-1896.md) (1896)
-- [Hartford Typewriter Co machine, 1905](../machines/hartford-typewriter-co-1905.md) (1905)
+- [Hartford 1](../machines/hartford-1.md) (1894)
+- [Hartford 2](../machines/hartford-2.md) (1896)
+- [Hartford 3](../machines/hartford-3.md) (1905)
 
 ## Assigned to
 

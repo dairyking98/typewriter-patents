@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Darling (A) (1910): an index typewriter by R.Ingersoll & Bros. Type wheel, ca. 48 characters, front strike, ink roller. Price when new: 25 marks."
 year: 1910
 maker: "R.Ingersoll & Bros"
 index_machine: true
@@ -37,6 +38,10 @@ None linked yet.
 ## Same maker
 
 [Dollar Typewriter (1890)](../machines/dollar-typewriter.md), [Ingersoll (1892)](../machines/ingersoll.md), [Darling (B) (1910)](../machines/darling-b.md)
+
+## Elsewhere on the web
+
+- On the maker: [Darling Schreibmaschine](https://www.typewriters.ch/collection-2/darling/) (typewriters.ch)
 
 ## Sources
 

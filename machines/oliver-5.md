@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Oliver 5 (1907): a typebar typewriter by Oliver Typewriter Comp, USA. Type bow, 84 characters, top strike, ribbon, double shift. Sales: large numbers. Price when new: 440 marks."
 year: 1907
 maker: "Oliver Typewriter Comp"
 country: "USA"
@@ -52,7 +53,16 @@ tags: ["machine"]
 
 ## Same maker
 
-[Oliver 10 (?)](../machines/oliver-10.md), [Oliver 1 (1893)](../machines/oliver-1.md), [Oliver 3 (1902)](../machines/oliver-3.md), [Oliver 4 (1904)](../machines/oliver-4.md), [Oliver 7, 8 (1914)](../machines/oliver-7-8.md), [Oliver 9 (1915)](../machines/oliver-9.md), [Oliver 11, 12 (1922)](../machines/oliver-11-12.md), [Oliver 15, 16 (1928)](../machines/oliver-15-16.md)
+[Oliver 10 (?)](../machines/oliver-10.md), [Oliver 1 (1893)](../machines/oliver-1.md), [Oliver 3 (1902)](../machines/oliver-3.md), [Oliver 4 (1904)](../machines/oliver-4.md), [Oliver 6 (1907)](../machines/oliver-6.md), [Oliver 7, 8 (1914)](../machines/oliver-7-8.md), [Oliver 9 (1915)](../machines/oliver-9.md), [Oliver 11, 12 (1922)](../machines/oliver-11-12.md), [Oliver 15, 16 (1928)](../machines/oliver-15-16.md), [Oliver Portable 4 (1930)](../machines/oliver-portable-4.md)
+
+## Elsewhere on the web
+
+- [The Oliver Model No. 5 - Serial No. 246891](http://www.sljohnson.net/typewriter/oliver/Oliver246891.html), S. L. Johnson Typewriter Page, sljohnson.net
+- [Oliver Model No. 5 - Standard Visible Writer](http://www.sljohnson.net/typewriter/oliver/oliver-5.html), S. L. Johnson Typewriter Page, sljohnson.net
+- [Oliver Model No. 5 - Carriage Views](http://www.sljohnson.net/typewriter/oliver/oliver-5-carriage.html), S. L. Johnson Typewriter Page, sljohnson.net
+- [Oliver Model No. 5 - Top View of Machine](http://www.sljohnson.net/typewriter/oliver/oliver-5-top.html), S. L. Johnson Typewriter Page, sljohnson.net
+- [Oliver Model No. 5 - Under Side of Machine](http://www.sljohnson.net/typewriter/oliver/oliver-5-bottom.html), S. L. Johnson Typewriter Page, sljohnson.net
+- More on the maker: [Oliver Nr. 3](http://www.hquast.de/Einzelne/Oliver_Nr3.htm) (Hartmut Quast collection, hquast.de) · [Oliver Nr. 9](http://www.hquast.de/Einzelne/Oliver_Nr9.htm) (Hartmut Quast collection, hquast.de) · [Oliver Nr. 6](http://www.hquast.de/Einzelne/Oliver6.htm) (Hartmut Quast collection, hquast.de)
 
 ## Sources
 

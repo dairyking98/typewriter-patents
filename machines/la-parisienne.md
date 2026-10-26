@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "La Parisienne (1886): an index typewriter by Emest Enjalbert, France. Type band, 78 characters, front strike, ink roller. Sales: nur sehr mäßig Pre s. Price when new: 180 Fr.."
 year: 1886
 maker: "Emest Enjalbert"
 country: "France"

@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [American Typewriter Co machine, 1901](../machines/american-typewriter-co-1901.md) (1901)
+- [American Armstrong 5](../machines/american-armstrong-5.md) (1901)
 

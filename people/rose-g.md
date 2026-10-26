@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Mass Production Corporation machine, 1932](../machines/mass-production-corporation-1932.md) (1932)
+- [Masspro](../machines/masspro.md) (1932)
 
 ## Patents (3)
 

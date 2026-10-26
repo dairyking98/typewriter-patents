@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Aktiv (1913): an index typewriter by Gustav Tietze A.G. Type wheel, 90 characters, front strike, ink roller, double shift. Sales: not many. Price when new: 25 to 30 marks."
 year: 1913
 maker: "Gustav Tietze A.G"
 index_machine: true

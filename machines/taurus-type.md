@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Taurus Type (1908): an index typewriter by Torrani & Cie. Vertrieb Füllfeder-Industrie in Deutschl.: Albert Fink, Italy. Type wheel, 42 characters, top strike, ink pad. Sales: very small. Price when new: 20 marks / 10,50 marks."
 year: 1908
 maker: "Torrani & Cie. Vertrieb Füllfeder-Industrie in Deutschl.: Albert Fink"
 country: "Italy"

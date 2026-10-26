@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Nuese (1904): a type-element typewriter by nicht fabrikmäßig hergestellt, Germany. Type segment, 84 characters, front strike, ribbon, double shift. Sales: not sold. Price when new: none listed."
 year: 1904
 maker: "nicht fabrikmäßig hergestellt"
 country: "Germany"

@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [E. Stauder machine, 1899](../machines/e-stauder-1899.md) | 1899 |  |  | 0 |
+| [Saturn](../machines/saturn.md) | 1899 |  |  | 0 |

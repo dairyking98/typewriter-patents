@@ -7,7 +7,7 @@ Name variants: ELECTROMATIC TYPEWRITERS INC; Electromatic Typewriters Inc
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Electromatic Typewriters Inc machine, 1930](../machines/electromatic-typewriters-inc-1930.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
+| [Electromatic](../machines/electromatic.md) | 1930 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

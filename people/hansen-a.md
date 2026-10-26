@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Guhl & Harbeck machine, 1882](../machines/guhl-harbeck-1882.md) (1882)
+- [Hammonia](../machines/hammonia.md) (1882)
 
 ## Assigned to
 

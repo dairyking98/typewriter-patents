@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Wanderer Notenschreibmaschine (1939): a typebar typewriter by WANDERER WERKE VORM WINKLHOFER, Germany. Typebar, music."
 year: 1939
 maker: "WANDERER WERKE VORM WINKLHOFER"
 country: "Germany"
@@ -31,7 +32,7 @@ None linked yet.
 
 ## Same maker
 
-[Continental (Standard) (1904)](../machines/continental-standard.md), [Continental special models (1920)](../machines/continental-special-models.md), [Klein-Continental (1927)](../machines/klein-continental.md), [Continental Silenta (1932)](../machines/continental-silenta.md), [Continental 34 / 35 / 100 (1933)](../machines/continental-34-35-100.md), [Continental 200 (1939)](../machines/continental-200.md)
+[Continental (Standard) (1904)](../machines/continental-standard.md), [Continental special models (1920)](../machines/continental-special-models.md), [Klein-Continental (1929)](../machines/klein-continental.md), [Continental 34 / 35 / 100 (1933)](../machines/continental-34-35-100.md), [Continental Silenta (1934)](../machines/continental-silenta.md), [Continental 35 (1935)](../machines/continental-35.md), [Continental 200 (1939)](../machines/continental-200.md)
 
 ## Sources
 

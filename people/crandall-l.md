@@ -5,7 +5,7 @@
 - [Crandall 1](../machines/crandall-1.md) (?)
 - [Crandall No. 3](../machines/crandall-no-3.md) (1893)
 - [Parish Manufactoring Co machine, ?](../machines/parish-manufactoring-co-x.md) (?)
-- [Parish Manufactoring Co machine, 1892](../machines/parish-manufactoring-co-1892.md) (1892)
+- [International 2](../machines/international-2.md) (1892)
 
 ## Patents (13)
 

@@ -7,11 +7,11 @@ Name variants: The Densmore Typewriter Comp; Densmore & Densmore; Densmore Typew
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Densmore & Densmore machine, 1891](../machines/densmore-densmore-1891.md) | 1891 | QWERTY-type keyboard | typebar | 0 |
-| [Densmore & Densmore machine, 1897](../machines/densmore-densmore-1897.md) | 1897 | QWERTY-type keyboard | typebar | 0 |
-| [Densmore & Densmore machine, 1897](../machines/densmore-densmore-1897-2.md) | 1897 | QWERTY-type keyboard | typebar | 0 |
-| [Densmore Typewriter Co machine, 1902](../machines/densmore-typewriter-co-1902.md) | 1902 | QWERTY-type keyboard | typebar | 0 |
-| [Densmore Typewriter Co machine, 1902](../machines/densmore-typewriter-co-1902-2.md) | 1902 | QWERTY-type keyboard | typebar | 0 |
+| [Densmore 1](../machines/densmore-1.md) | 1891 | QWERTY-type keyboard | typebar | 0 |
+| [Densmore 2](../machines/densmore-2.md) | 1897 | QWERTY-type keyboard | typebar | 0 |
+| [Densmore 3](../machines/densmore-3.md) | 1897 | QWERTY-type keyboard | typebar | 0 |
+| [Densmore 4](../machines/densmore-4.md) | 1902 | QWERTY-type keyboard | typebar | 0 |
+| [Densmore 5, 6](../machines/densmore-5-6.md) | 1902 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Die kleine Gundka (1924): an index typewriter by GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER, Germany. Index (pointer + type wheel)."
 year: 1924
 maker: "GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER"
 country: "Germany"

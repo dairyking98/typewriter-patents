@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Pettypet (1930): an index typewriter by E D A M S A FA, Germany. Type wheel, 84 characters, front strike, ribbon, double shift. Sales: very few."
 year: 1930
 maker: "E D A M S A FA"
 country: "Germany"

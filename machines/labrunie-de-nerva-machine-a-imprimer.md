@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Labrunie de Nerva, machine à imprimer (1844): a typewriter."
 year: 1844
 index_machine: false
 patents: 0

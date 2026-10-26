@@ -7,8 +7,8 @@ Name variants: The Duplex Typewriter Comp; Duplex Typewriter Co; Duplex Typewnit
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Duplex Typewriter Co machine, 1892](../machines/duplex-typewriter-co-1892.md) | 1892 | full keyboard (one key per character) | typebar | 4 |
-| [Duplex Typewniter Co machine, 1895](../machines/duplex-typewniter-co-1895.md) | 1895 | full keyboard (one key per character) | typebar | 4 |
+| [Duplex 1](../machines/duplex-1.md) | 1892 | full keyboard (one key per character) | typebar | 4 |
+| [Duplex 2](../machines/duplex-2.md) | 1895 | full keyboard (one key per character) | typebar | 4 |
 
 ## Inventors
 

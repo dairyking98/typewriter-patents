@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Columbia Typewniter Mfg. Co machine, 1893](../machines/columbia-typewniter-mfg-co-1893.md) | 1893 | full keyboard (one key per character) | typebar | 36 |
+| [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) | 1893 | full keyboard (one key per character) | typebar | 36 |

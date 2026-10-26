@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Guillemot (1859): a type-element typewriter by nicht fabrikmäßig hergestellt, France. Type wheel, 3 × ca. 26 characters, top strike. Sales: not sold. Price when new: none listed."
 year: 1859
 maker: "nicht fabrikmäßig hergestellt"
 country: "France"

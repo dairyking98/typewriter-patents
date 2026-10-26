@@ -4,12 +4,11 @@ Name variants: WAFFENFABRIK; WALTHER CARL; Waffenfabrik J.P. Sauer & Sohn; Waffe
 
 - Dingwerth, Geschichte vol. 10 (digest)
 
-## Machines (4)
+## Machines (3)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
 | [Stolzenberg-Fortuna / Fortuna](../machines/stolzenberg-fortuna-fortuna.md) | 1922 | QWERTY-type keyboard | typebar | 0 |
-| [Fortuna 4](../machines/fortuna-4.md) | 1928 |  | typebar | 0 |
 | [Fortuna portable (1931 ads)](../machines/fortuna-portable-1931-ads.md) | 1931 |  | typebar | 0 |
 | [Fortuna with front plate](../machines/fortuna-with-front-plate.md) | 1939 |  | typebar | 0 |
 

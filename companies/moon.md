@@ -7,7 +7,7 @@ Name variants: The Moon-Hopkins Billing Machine Comp; Moon-Hopkins Billing Machi
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Moon-Hopkins Billing Machine C» machine, 1902](../machines/moon-hopkins-billing-machine-c-1902.md) | 1902 | QWERTY-type keyboard | typebar | 0 |
+| [Moon Hopkins](../machines/moon-hopkins.md) | 1902 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

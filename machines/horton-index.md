@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Horton Index (1883): an index typewriter by nicht fabrikmäßig hergestellt, USA. Type plate, ? characters, understrike (blind), ink pad, double shift. Sales: not sold. Price when new: no sale price."
 year: 1883
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"

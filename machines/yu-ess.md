@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Yu Ess (1918): an index typewriter by Yu-EssTypewriter Co, USA. Type cylinder, 84 characters, top strike, ribbon. Sales: a fair few."
 year: 1918
 maker: "Yu-EssTypewriter Co"
 country: "USA"

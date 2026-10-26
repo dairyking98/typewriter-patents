@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Westphalia (1884): an index typewriter by Emst Wilhelm Brackelsberg &Co, Germany. Linear type rule, 86/87 characters, top strike, carbon paper. Sales: very few. Price when new: 300 marks."
 year: 1884
 maker: "Emst Wilhelm Brackelsberg &Co"
 country: "Germany"

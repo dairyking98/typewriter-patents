@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "New England (1900): a typewriter."
 year: 1900
 index_machine: false
 patents: 0

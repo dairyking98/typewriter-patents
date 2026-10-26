@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Travis (1905): a type-element typewriter by Philadelphia Typewriter Comp, USA. Type wheel, 80 characters, front strike, ribbon, single shift. Sales: very few. Price when new: $100."
 year: 1905
 maker: "Philadelphia Typewriter Comp"
 country: "USA"
@@ -67,6 +68,10 @@ tags: ["machine"]
 | [US846978](../patents/US846978.md) | 1907 | Brooks, Byron A. | Type-Writing Machine | low | inventor = designer; patent 1907, machine 1905 |
 | [US896707](../patents/US896707.md) | 1908 | Brooks, Byron A. | Type-Writing Machine | low | inventor = designer; patent 1908, machine 1905 |
 | [US897269](../patents/US897269.md) | 1908 | Brooks, Byron A. | Type-Writing Machine | low | inventor = designer; patent 1908, machine 1905; carrier differs (typebar vs wheel) |
+
+## Elsewhere on the web
+
+- [Travis typewriter](https://www.antiquetypewriters.com/typewriter/travis-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

@@ -7,8 +7,8 @@ Name variants: Pneumatic Typewriter Co; The Pneumatic Patents Comp
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Pneumatic Typewriter Co machine, 1892](../machines/pneumatic-typewriter-co-1892.md) | 1892 | QWERTY-type keyboard | push-rod typebars | 0 |
-| [Pneumatic Typewriter Co machine, 1892](../machines/pneumatic-typewriter-co-1892-2.md) | 1892 | full keyboard (one key per character) | push-rod typebars | 0 |
+| [Pneumatic (A)](../machines/pneumatic-a.md) | 1892 | QWERTY-type keyboard | push-rod typebars | 0 |
+| [Pneumatic (B)](../machines/pneumatic-b.md) | 1892 | full keyboard (one key per character) | push-rod typebars | 0 |
 
 ## Inventors
 

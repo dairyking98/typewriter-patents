@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Rose Typewriter Co machine, 1907](../machines/rose-typewriter-co-1907.md) | 1907 | QWERTY-type keyboard | typebar | 1 |
+| [Standard Folding 1](../machines/standard-folding-1.md) | 1907 | QWERTY-type keyboard | typebar | 1 |

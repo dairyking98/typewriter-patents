@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Usapax-Visityp Modell 1921 (1921): a typebar typewriter by Schreibm.industrie Glashütte GmbH, Germany. Typebar, 90 characters, front strike, ribbon, single shift. Sales: not very many. Price when new: about 380 /400 marks."
 year: 1921
 maker: "Schreibm.industrie Glashütte GmbH"
 country: "Germany"

@@ -7,7 +7,7 @@ Name variants: VICTOR ADDING MACHINE COMPANY; VICTOR ADDING MACHINE CO; Victor A
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Victor Adding Machine Co machine, 1927](../machines/victor-adding-machine-co-1927.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
+| [Victor Portable](../machines/victor-portable.md) | 1927 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

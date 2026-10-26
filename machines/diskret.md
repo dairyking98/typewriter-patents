@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Diskret (1899): a typewriter."
 year: 1899
 index_machine: false
 patents: 0
@@ -18,6 +19,10 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Diskret Typewriter](https://www.antiquetypewriters.com/typewriter/diskret-typewriter-3/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

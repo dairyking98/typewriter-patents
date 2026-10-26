@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Trebla (1910): an index typewriter by Sullivan & Cie, Germany. Type wheel, 54 characters, front strike, ink roller. Sales: very few. Price when new: 20 / 25 / 28 marks."
 year: 1910
 maker: "Sullivan & Cie"
 country: "Germany"

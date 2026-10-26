@@ -2,15 +2,15 @@
 
 ## Machines designed (Lexikon)
 
-- [Smith Premier Typewriter Co machine, 1888](../machines/smith-premier-typewriter-co-1888.md) (1888)
-- [Smith Premier Typewriter Co machine, 1895](../machines/smith-premier-typewriter-co-1895.md) (1895)
-- [Smith Premier Typewriter Co machine, 1896](../machines/smith-premier-typewriter-co-1896.md) (1896)
-- [Smith Premier Typewriter Co machine, 1896](../machines/smith-premier-typewriter-co-1896-2.md) (1896)
-- [Smith Premier Typewriter Co machine, 1900](../machines/smith-premier-typewriter-co-1900.md) (1900)
-- [Smith Premier Typewriter Co machine, 1900](../machines/smith-premier-typewriter-co-1900-2.md) (1900)
-- [Smith Premier Typewriter Co machine, 1908](../machines/smith-premier-typewriter-co-1908.md) (1908)
-- [Smith Premier Typewriter Co machine, 1914](../machines/smith-premier-typewriter-co-1914.md) (1914)
-- [Smith Premier Typewriter Co machine, 1913](../machines/smith-premier-typewriter-co-1913.md) (1913)
+- [Smith Premier 1](../machines/smith-premier-1.md) (1888)
+- [Smith Premier 2](../machines/smith-premier-2.md) (1895)
+- [Smith Premier 3](../machines/smith-premier-3.md) (1896)
+- [Smith Premier 4](../machines/smith-premier-4.md) (1896)
+- [Smith Premier 5](../machines/smith-premier-5.md) (1900)
+- [Smith Premier 6](../machines/smith-premier-6.md) (1900)
+- [Smith Premier 10](../machines/smith-premier-10.md) (1908)
+- [Smith Premier Simplex](../machines/smith-premier-simplex.md) (1914)
+- [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (1913)
 
 ## Assigned to
 

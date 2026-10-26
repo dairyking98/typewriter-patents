@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Liliput A (1907): an index typewriter by Justin Wm. Bamberger & Co, Germany. Type disc, 86 characters, top strike, ink roller. Sales: not many. Price when new: 18,50 to 45 marks."
 year: 1907
 maker: "Justin Wm. Bamberger & Co"
 country: "Germany"

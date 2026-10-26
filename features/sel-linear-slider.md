@@ -4,7 +4,7 @@ Slider or carriage moved along a straight index
 
 **72 patents**, 1850–1940. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (49), [ESC:pawl-rack](../features/esc-pawl-rack.md) (46), [FRM:few-parts](../features/frm-few-parts.md) (39), [PAP:platen-roller](../features/pap-platen-roller.md) (31), [IMP:element-to-platen](../features/imp-element-to-platen.md) (30), [IMP:press-through](../features/imp-press-through.md) (29), [PAP:line-space](../features/pap-line-space.md) (28), [IMP:print-lever](../features/imp-print-lever.md) (27)
 
-**Machines:** [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (2), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (2), [Odell 1 B](../machines/odell-1-b.md) (2), [Odell 2](../machines/odell-2.md) (2), [Odell 3](../machines/odell-3.md) (2), [Odell 4](../machines/odell-4.md) (2), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1), [A. D. Meiselbach Typewriter Co machine, 1901](../machines/a-d-meiselbach-typewriter-co-1901.md) (1), [Gundka 3](../machines/gundka-3.md) (1), [Gundka 5](../machines/gundka-5.md) (1)
+**Machines:** [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (2), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (2), [Odell 1 B](../machines/odell-1-b.md) (2), [Odell 2](../machines/odell-2.md) (2), [Odell 3](../machines/odell-3.md) (2), [Odell 4](../machines/odell-4.md) (2), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Gundka 3](../machines/gundka-3.md) (1), [Gundka 5](../machines/gundka-5.md) (1)
 
 ## Patents, oldest first
 

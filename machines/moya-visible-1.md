@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Moya Visible 1 (1903): a type-element typewriter by Moya Typewniter Co, England. Type cylinder, 84 characters, front strike, ribbon, double shift. Sales: \"sehr wenig. Price when new: £ 5. 5s., $25."
 year: 1903
 maker: "Moya Typewniter Co"
 country: "England"

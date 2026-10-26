@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [Victor Typewr.Co machine, 1907](../machines/victor-typewr-co-1907.md) (1907)
-- [Victor Typewr.Co machine, 1910](../machines/victor-typewr-co-1910.md) (1910)
-- [Victor Typewr.Co machine, 1912](../machines/victor-typewr-co-1912.md) (1912)
-- [Victor Typewr.Co machine, 1919](../machines/victor-typewr-co-1919.md) (1919)
+- [Victor 1](../machines/victor-1.md) (1907)
+- [Victor 2](../machines/victor-2.md) (1910)
+- [Victor 3](../machines/victor-3.md) (1912)
+- [Victor 10](../machines/victor-10.md) (1919)
 

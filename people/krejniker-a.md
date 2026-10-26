@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [A.Ney machine, 1925](../machines/a-ney-1925.md) (1925)
-- [A.Ney / S.Roeder Berlin machine, 1927](../machines/a-ney-s-roeder-berlin-1927.md) (1927)
+- [Neya 1](../machines/neya-1.md) (1925)
+- [Neya 2](../machines/neya-2.md) (1927)
 
 ## Assigned to
 

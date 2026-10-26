@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Hammond 12 Universal (1905): a type-element typewriter by Hammond Typewriter Comp, USA. Type shuttle, 90 characters, front strike, double shift. Price when new: 450 marks."
 year: 1905
 maker: "Hammond Typewriter Comp"
 country: "USA"
@@ -53,7 +54,11 @@ tags: ["machine"]
 
 ## Same maker
 
-[Hammond 1 (1884)](../machines/hammond-1.md), [Hammond 1B Ideal (1891)](../machines/hammond-1b-ideal.md), [Hammond 2 Ideal (1895)](../machines/hammond-2-ideal.md), [Hammond 2 Universal (1895)](../machines/hammond-2-universal.md), [Hammond 12 Ideal (1905)](../machines/hammond-12-ideal.md), [Hammond Multiplex (1913)](../machines/hammond-multiplex.md), [Hammond Multiplex (1913)](../machines/hammond-multiplex-2.md), [Hammond Varityper (1927)](../machines/hammond-varityper.md)
+[Hammond 1 (1884)](../machines/hammond-1.md), [Hammond 1B Ideal (1891)](../machines/hammond-1b-ideal.md), [Hammond 2 Ideal (1895)](../machines/hammond-2-ideal.md), [Hammond 2 Universal (1895)](../machines/hammond-2-universal.md), [Hammond 12 Ideal (1905)](../machines/hammond-12-ideal.md), [Hammond Multiplex (1913)](../machines/hammond-multiplex.md), [Hammond Multiplex (1913)](../machines/hammond-multiplex-2.md), [Hammond Folding (1921)](../machines/hammond-folding.md), [Hammond Varityper (1927)](../machines/hammond-varityper.md)
+
+## Elsewhere on the web
+
+- On the maker: [Hammond Multiplex](http://www.hquast.de/Einzelne/Hammond_Multiplex.htm) (Hartmut Quast collection, hquast.de) · [Hammond Nr. 12](http://www.hquast.de/Einzelne/Hammond_Nr12.htm) (Hartmut Quast collection, hquast.de) · [Hammond Nr. 2](http://www.hquast.de/Einzelne/Hammond_%20Nr2.htm) (Hartmut Quast collection, hquast.de)
 
 ## Sources
 

@@ -7,7 +7,7 @@ Name variants: HANSA SCHREIBMASCHINENFABRIK G; LEHMANN GEB; Hansa Büromasch.- W
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Hansa Büromasch.- Werke F. Wallbröhl machine, 1925](../machines/hansa-buromasch-werke-f-wallbrohl-1925.md) | 1925 | QWERTY-type keyboard | typebar | 4 |
+| [Hansa 4](../machines/hansa-4.md) | 1925 | QWERTY-type keyboard | typebar | 4 |
 
 ## Inventors
 

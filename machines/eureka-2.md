@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Eureka (1896): an index typewriter by Simplex Typewr. Co, USA, France. Type ring, 71 characters, top strike, ink pad. Sales: a fair few. Price when new: 36 Frs.."
 year: 1896
 maker: "Simplex Typewr. Co"
 country: "USA, France"
@@ -42,6 +43,10 @@ None linked yet.
 ## Same maker
 
 [Simplex Type Writer (1892)](../machines/simplex-type-writer.md), [New Simplex 2 (1899)](../machines/new-simplex-2.md), [Simplex Little Giant (1900)](../machines/simplex-little-giant.md), [Simplex Special A (1901)](../machines/simplex-special-a.md), [Simplex Spezial 1 (1906)](../machines/simplex-spezial-1.md)
+
+## Elsewhere on the web
+
+- [Eureka Kinderschreibmaschine](https://www.typewriters.ch/collection-2/kinderschreibmaschinen-2/eureka/), typewriters.ch
 
 ## Sources
 

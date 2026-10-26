@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Crown Index 1 (1888): an index typewriter by National Meter Co, USA. Type wheel, 81 characters, top strike, ink roller, double shift. Sales: schr wenig. Price when new: $20."
 year: 1888
 maker: "National Meter Co"
 country: "USA"

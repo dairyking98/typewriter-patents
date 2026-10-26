@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Eureka (1898): an index typewriter by Nähmasch.fabrik H. Kochendörfer, Germany. Type plate, 76 characters, top strike, ink pad. Sales: very few. Price when new: 45 marks."
 year: 1898
 maker: "Nähmasch.fabrik H. Kochendörfer"
 country: "Germany"
@@ -36,6 +37,10 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Eureka Kinderschreibmaschine](https://www.typewriters.ch/collection-2/kinderschreibmaschinen-2/eureka/), typewriters.ch
 
 ## Sources
 

@@ -2,10 +2,10 @@
 
 ## Machines designed (Lexikon)
 
-- [Smith Premier Co machine, 1914](../machines/smith-premier-co-1914.md) (1914)
-- [Remington Typewriter Co machine, 1921](../machines/remington-typewriter-co-1921.md) (1921)
-- [Remington Typewriter Co machine, 1926](../machines/remington-typewriter-co-1926-4.md) (1926)
-- [Remington Rand Inc machine, 1929](../machines/remington-rand-inc-1929.md) (1929)
+- [Remington Junior](../machines/remington-junior.md) (1914)
+- [Remington Port. 1, 2](../machines/remington-port-1-2.md) (1921)
+- [Remington Portable 3](../machines/remington-portable-3.md) (1926)
+- [Remington Port. Tab](../machines/remington-port-tab.md) (1929)
 
 ## Assigned to
 

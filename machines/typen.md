@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Typen (1924): an index typewriter by Wetherill, USA. Type wheel, ca. 42 characters, top strike, ink roller. Sales: very few."
 year: 1924
 maker: "Wetherill"
 country: "USA"

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Official (1901): a type-element typewriter by Fabrik in Ligov bei Leningrad, USA. Type wheel, 84 characters, front strike, ribbon, double shift. Sales: very few. Price when new: $20."
 year: 1901
 maker: "Fabrik in Ligov bei Leningrad"
 country: "USA"
@@ -40,6 +41,10 @@ tags: ["machine"]
 | Patent | Year | Inventor | Title | Confidence | Evidence |
 |---|---|---|---|---|---|
 | [US634183](../patents/US634183.md) | 1899 | Peterson, Charles E. | Type-Writer | low | inventor surname = designer; patent 1899, machine 1901; both wheel |
+
+## Same maker
+
+[Leningrad (1931)](../machines/leningrad.md), [Ukraina (1935)](../machines/ukraina.md)
 
 ## Sources
 

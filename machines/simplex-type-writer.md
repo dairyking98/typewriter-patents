@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Simplex Type Writer (1892): an index typewriter by Simplex Typewr. Co, USA. Type disc, 42 characters, front strike, ink pad. Sales: sold well. Price when new: $2.50, 20 marks."
 year: 1892
 maker: "Simplex Typewr. Co"
 country: "USA"

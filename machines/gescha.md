@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Gescha (1920): an index typewriter by MAX SCHMID, Germany. Type wheel, 65 characters, front strike, ribbon, single shift. Sales: a fair few."
 year: 1920
 maker: "MAX SCHMID"
 country: "Germany"
@@ -37,6 +38,10 @@ tags: ["machine/index"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Gescha Junior](https://www.typewriters.ch/collection-2/gescha-junior/), typewriters.ch
 
 ## Sources
 

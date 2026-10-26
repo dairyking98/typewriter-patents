@@ -7,12 +7,12 @@ Name variants: The Underwood Typewriter Comp; UNDERWOOD TYPEWRITER CO; UNDERWOOD
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Underwood Typewriter Co machine, 1919](../machines/underwood-typewriter-co-1919.md) | 1919 | QWERTY-type keyboard | typebar | 0 |
-| [Underwood Typewriter Co machine, 1926](../machines/underwood-typewriter-co-1926.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
-| [Underwood Elliott Fisher Typewriter machine, 1930](../machines/underwood-elliott-fisher-typewriter-1930.md) | 1930 | QWERTY-type keyboard |  | 0 |
-| [Underwood Typewriter Co machine, 1931](../machines/underwood-typewriter-co-1931.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
-| [Underwood Elliott Fisher Co machine, 1934](../machines/underwood-elliott-fisher-co-1934.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
-| [Underwood Elliott Fisher Co machine, 1937](../machines/underwood-elliott-fisher-co-1937.md) | 1937 | QWERTY-type keyboard | typebar | 0 |
+| [Underwood Portable](../machines/underwood-portable.md) | 1919 | QWERTY-type keyboard | typebar | 0 |
+| [Underwood Port. Universal](../machines/underwood-port-universal.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
+| [Underwood Noiseless](../machines/underwood-noiseless.md) | 1930 | QWERTY-type keyboard |  | 0 |
+| [Underwood Port. C](../machines/underwood-port-c.md) | 1931 | QWERTY-type keyboard | typebar | 0 |
+| [Underwood Ace](../machines/underwood-ace.md) | 1934 | QWERTY-type keyboard | typebar | 0 |
+| [Underwood Champion](../machines/underwood-champion.md) | 1937 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

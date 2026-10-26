@@ -7,8 +7,8 @@ Name variants: The Fay-Sholes Comp; Fay-Sholes Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Fay-Sholes Co machine, 1901](../machines/fay-sholes-co-1901.md) | 1901 | QWERTY-type keyboard | typebar | 12 |
-| [Fay-Sholes Co machine, 1903](../machines/fay-sholes-co-1903.md) | 1903 | QWERTY-type keyboard | typebar | 13 |
+| [Rem-Sho 7](../machines/rem-sho-7.md) | 1901 | QWERTY-type keyboard | typebar | 12 |
+| [Rem-Sho 9](../machines/rem-sho-9.md) | 1903 | QWERTY-type keyboard | typebar | 13 |
 
 ## Inventors
 

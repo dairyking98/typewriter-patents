@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Mill Henry: an index typewriter by nicht fabrikmäßig hergestellt, England. Type rods, ? characters, top strike. Sales: not sold. Price when new: kein Verkaufspres."
 maker: "nicht fabrikmäßig hergestellt"
 country: "England"
 index_machine: true

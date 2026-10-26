@@ -4,7 +4,7 @@ Flat type plate or matrix of characters
 
 **55 patents**, 1850–1949. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (37), [ESC:print-and-space](../features/esc-print-and-space.md) (34), [SEL:selector-locking](../features/sel-selector-locking.md) (22), [PAP:line-space](../features/pap-line-space.md) (21), [SEL:pointer-chart](../features/sel-pointer-chart.md) (20), [FRM:few-parts](../features/frm-few-parts.md) (20), [IMP:press-through](../features/imp-press-through.md) (19), [PAP:platen-roller](../features/pap-platen-roller.md) (19)
 
-**Machines:** [Morris](../machines/morris.md) (1), [A. D. Meiselbach Typewriter Co machine, 1901](../machines/a-d-meiselbach-typewriter-co-1901.md) (1), [Postal 5](../machines/postal-5.md) (1)
+**Machines:** [Morris](../machines/morris.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Postal 5](../machines/postal-5.md) (1)
 
 ## Patents, oldest first
 

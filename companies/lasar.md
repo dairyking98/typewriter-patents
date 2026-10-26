@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Lasar Typewris= Co machine, 1890](../machines/lasar-typewris-co-1890.md) | 1890 | QWERTY-type keyboard | typebar | 21 |
+| [Lasar](../machines/lasar.md) | 1890 | QWERTY-type keyboard | typebar | 21 |

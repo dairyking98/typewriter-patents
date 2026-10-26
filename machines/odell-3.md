@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Odell 3 (1894): an index typewriter by Odell Typewriter Co, USA. Type bar (straight), 78 characters, top strike, ink roller, single shift. Sales: few. Price when new: about $20."
 year: 1894
 maker: "Odell Typewriter Co"
 country: "USA"

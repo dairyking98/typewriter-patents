@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Büttner (1896): an index typewriter by nicht fabrikmäßig hergestellt, Germany. Type wheel, ? characters, front strike, ink roller. Sales: not sold. Price when new: none listed."
 year: 1896
 maker: "nicht fabrikmäßig hergestellt"
 country: "Germany"

@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Crown Typewriter Mfg. Co machine, 1887](../machines/crown-typewriter-mfg-co-1887.md) (1887)
+- [Crown (Rund)](../machines/crown-rund.md) (1887)
 
 ## Patents (4)
 

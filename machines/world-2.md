@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "World 2 (1890): an index typewriter by Typewriter Improvement Comp, USA. Type plate, 77 characters, top strike, ink pad. Price when new: $15, 75 marks."
 year: 1890
 maker: "Typewriter Improvement Comp"
 country: "USA"

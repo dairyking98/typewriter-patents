@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Odell 1 A (Rund) (1888): an index typewriter by Odell Typewriter Co, USA. Type bar (straight), 41 characters, top strike, ink roller. Sales: very few. Price when new: $15."
 year: 1888
 maker: "Odell Typewriter Co"
 country: "USA"

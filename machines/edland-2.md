@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Edland 2 (1894): an index typewriter by Liberty Mfg. Co, USA. Type disc, 78 characters, top strike, ink roller, single shift. Sales: very few. Price when new: about $5."
 year: 1894
 maker: "Liberty Mfg. Co"
 country: "USA"

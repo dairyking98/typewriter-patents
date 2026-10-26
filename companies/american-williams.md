@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [American (Williams) Typewriter Co machine, 1899](../machines/american-williams-typewriter-co-1899.md) | 1899 | QWERTY-type keyboard | typebar | 0 |
+| [American Armstrong 2](../machines/american-armstrong-2.md) | 1899 | QWERTY-type keyboard | typebar | 0 |

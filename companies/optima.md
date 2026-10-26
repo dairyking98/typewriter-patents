@@ -11,7 +11,7 @@ Name variants: VEB Optima Büromasch.werk; VEB Optima Büromaschinenwerk Erfurt
 | [Olympia M 8 / M 10](../machines/olympia-m-8-m-10.md) | 1945 |  | typebar | 0 |
 | [Plana, Progreß, Elite](../machines/plana-progre-elite.md) | 1946 |  | typebar portable | 0 |
 | [Arabic machine](../machines/arabic-machine.md) | 1949 |  | typebar | 0 |
-| [VEB Optima Büromasch.werk machine, 1950](../machines/veb-optima-buromasch-werk-1950.md) | 1950 | QWERTY-type keyboard | typebar | 0 |
+| [Optima M 10](../machines/optima-m-10.md) | 1950 | QWERTY-type keyboard | typebar | 0 |
 | [Chinese machine](../machines/chinese-machine.md) | 1952 |  | large character set | 0 |
 | [Bambino](../machines/bambino.md) | 1954 |  | child's | 0 |
 | [Chinese (C) Optima](../machines/chinese-c-optima.md) | 1955 | index |  | 0 |

@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [A.B. Halda Fabriker machine, 1930](../machines/a-b-halda-fabriker-1930.md) (1930)
-- [A.B. Halda Fabriker machine, 1930](../machines/a-b-halda-fabriker-1930-2.md) (1930)
-- [A.B. Halda Fabriker machine, 1935](../machines/a-b-halda-fabriker-1935.md) (1935)
+- [Halda-Norden 2](../machines/halda-norden-2.md) (1930)
+- [Halda Norden 3, 4](../machines/halda-norden-3-4.md) (1930)
+- [Halda-Norden 5](../machines/halda-norden-5.md) (1935)
 

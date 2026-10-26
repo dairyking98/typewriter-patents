@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Pellaton (1932): an index typewriter by nicht fabrikmäßig hergestellt, Switzerland. Type wheel, 84 characters, front strike, double shift. Sales: not sold. Price when new: none listed."
 year: 1932
 maker: "nicht fabrikmäßig hergestellt"
 country: "Switzerland"

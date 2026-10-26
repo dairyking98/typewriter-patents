@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Gardner (1890): a type-element typewriter by KARL LIPP, England, Germany, France. Type cylinder, 84 characters, front strike, double shift. Sales: very few. Price when new: 250 marks."
 year: 1890
 maker: "KARL LIPP"
 country: "England, Germany, France"
@@ -40,6 +41,10 @@ tags: ["machine"]
 | [US463859](../patents/US463859.md) | 1891 | Gardner, John | Type-Writing Machine | medium | inventor = designer; patent 1891, machine 1890; both wheel |
 | [US463860](../patents/US463860.md) | 1891 | Gardner, John | Type-Writing Machine | medium | inventor = designer; patent 1891, machine 1890; both wheel |
 | [US505547](../patents/US505547.md) | 1893 | Gardner, John | Type-Writing Machine | medium | inventor = designer; patent 1893, machine 1890; both wheel |
+
+## Elsewhere on the web
+
+- [Gardner Typewriter](https://www.antiquetypewriters.com/typewriter/gardner-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

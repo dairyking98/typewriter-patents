@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [Maskelyne Typewriter Mfg. Co machine, 1893](../machines/maskelyne-typewriter-mfg-co-1893.md) (1893)
-- [Maskeiyne Typewriter Mfg. Co machine, 1897](../machines/maskeiyne-typewriter-mfg-co-1897.md) (1897)
+- [Maskelyne 1, 2](../machines/maskelyne-1-2.md) (1893)
+- [Maskelyne 3](../machines/maskelyne-3.md) (1897)
 
 ## Patents (2)
 

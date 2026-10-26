@@ -2,10 +2,10 @@
 
 ## Machines designed (Lexikon)
 
-- [Woodstock Typewriter Co machine, 1914](../machines/woodstock-typewriter-co-1914.md) (1914)
-- [Woodstock Typewriter Co machine, 1915](../machines/woodstock-typewriter-co-1915.md) (1915)
-- [Woodstock Typewriter Co machine, 1916](../machines/woodstock-typewriter-co-1916.md) (1916)
-- [Harry Annell Smith Typewriter Co machine, 1922](../machines/harry-annell-smith-typewriter-co-1922.md) (1922)
+- [Woodstock 3](../machines/woodstock-3.md) (1914)
+- [Woodstock 4](../machines/woodstock-4.md) (1915)
+- [Woodstock 5](../machines/woodstock-5.md) (1916)
+- [Woodstock Annell](../machines/woodstock-annell.md) (1922)
 
 ## Assigned to
 

@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [Excelsior Script and Typewniting Co machine, 1895](../machines/excelsior-script-and-typewniting-co-1895.md) (1895)
+- [Excelsior Script](../machines/excelsior-script.md) (1895)
 

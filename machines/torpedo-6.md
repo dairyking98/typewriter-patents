@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Torpedo 6 (1927): a typebar typewriter by WEILWERKE A G, Germany. Typebar office."
 year: 1927
 maker: "WEILWERKE A G"
 country: "Germany"
@@ -31,7 +32,12 @@ None linked yet.
 
 ## Same maker
 
-[Hassia (1905)](../machines/hassia.md), [Torpedo 2 (1907)](../machines/torpedo-2.md), [Torpedo 3, 4, 5, 5 B (1908)](../machines/torpedo-3-4-5-5-b.md), [Torpedo Simplex (1914)](../machines/torpedo-simplex.md), [Torpedo 12, 14 (1924)](../machines/torpedo-12-14.md), [Torpedo 15, 15 a, 16 (1931)](../machines/torpedo-15-15-a-16.md), [Torpedo 17 (1933)](../machines/torpedo-17.md), [Torpedo Lautlos (1933)](../machines/torpedo-lautlos.md), [Torpedo 18 (18 a/b), 20 (1936)](../machines/torpedo-18-18-a-b-20.md), [Solitaire (Model 8) (1949)](../machines/solitaire-model-8.md), [Torpedo 30, 700, Super 6, 10, Dynacord (1950)](../machines/torpedo-30-700-super-6-10-dynacord.md), [Torpedo Electric (1957)](../machines/torpedo-electric.md)
+[Torpedo 3, 4, 5, 5 B (1908)](../machines/torpedo-3-4-5-5-b.md), [Torpedo 4 (1910)](../machines/torpedo-4.md), [Torpedo 5 (1911)](../machines/torpedo-5.md), [Torpedo 5 B (1913)](../machines/torpedo-5-b.md), [Torpedo Simplex (1914)](../machines/torpedo-simplex.md), [Torpedo 5 C (1922)](../machines/torpedo-5-c.md), [Torpedo 12, 14 (1924)](../machines/torpedo-12-14.md), [Torpedo 15, 15 a, 16 (1931)](../machines/torpedo-15-15-a-16.md), [Torpedo 18 (18 a/b), 20 (1936)](../machines/torpedo-18-18-a-b-20.md), [Torpedo S (1938)](../machines/torpedo-s.md), [Solitaire (Model 8) (1949)](../machines/solitaire-model-8.md), [Torpedo 30, 700, Super 6, 10, Dynacord (1950)](../machines/torpedo-30-700-super-6-10-dynacord.md), [Torpedo Electric (1957)](../machines/torpedo-electric.md)
+
+## Elsewhere on the web
+
+- [Torpedo Nr. 6](http://www.hquast.de/Einzelne/Torpedo_Nr6.htm), Hartmut Quast collection, hquast.de
+- More on the maker: [Torpedo Simplex](http://www.hquast.de/Einzelne/Torpedo_Simplex.htm) (Hartmut Quast collection, hquast.de) · [Torpedo Schreibmaschinen](https://www.typewriters.ch/collection-2/torpedo/) (typewriters.ch) · [Torpedo 5](https://www.typewriters.ch/collection-2/torpedo/torpedo-5/) (typewriters.ch)
 
 ## Sources
 

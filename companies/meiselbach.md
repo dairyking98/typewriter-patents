@@ -5,5 +5,5 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [A. D. Meiselbach Typewriter Co machine, 1901](../machines/a-d-meiselbach-typewriter-co-1901.md) | 1901 | QWERTY-type keyboard | typebar | 2 |
-| [A. D. Meiselbach Typewriter Co machine, 1909](../machines/a-d-meiselbach-typewriter-co-1909.md) | 1909 | QWERTY-type keyboard | typebar | 1 |
+| [Sholes Visible 1](../machines/sholes-visible-1.md) | 1901 | QWERTY-type keyboard | typebar | 2 |
+| [Sholes Visible 2](../machines/sholes-visible-2.md) | 1909 | QWERTY-type keyboard | typebar | 1 |

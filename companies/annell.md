@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Harry Annell Smith Typewriter Co machine, 1922](../machines/harry-annell-smith-typewriter-co-1922.md) | 1922 | QWERTY-type keyboard | typebar | 4 |
+| [Woodstock Annell](../machines/woodstock-annell.md) | 1922 | QWERTY-type keyboard | typebar | 4 |

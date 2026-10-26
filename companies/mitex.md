@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Mitex Schreibmaschinen GmbH machine, 1922](../machines/mitex-schreibmaschinen-gmbh-1922.md) | 1922 | QWERTY-type keyboard | typebar | 1 |
+| [Mitex](../machines/mitex.md) | 1922 | QWERTY-type keyboard | typebar | 1 |

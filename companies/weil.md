@@ -4,25 +4,21 @@ Name variants: WEILWERKE A G; WEILWERKE AKT GES FA; WEILWERKE AKT GES; Weilwerke
 
 - Dingwerth, Geschichte vol. 3 (digest)
 
-## Machines (18)
+## Machines (14)
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Hassia](../machines/hassia.md) | 1905 |  | typebar, front strike, visible | 0 |
-| [Torpedo 2](../machines/torpedo-2.md) | 1907 |  | typebar | 0 |
 | [Torpedo 3, 4, 5, 5 B](../machines/torpedo-3-4-5-5-b.md) | 1908 | QWERTY-type keyboard | typebar | 0 |
-| [Weil-Werke GmbH machine, 1910](../machines/weil-werke-gmbh-1910.md) | 1910 | QWERTY-type keyboard | typebar | 0 |
-| [Weilwerke GmbH machine, 1911](../machines/weilwerke-gmbh-1911.md) | 1911 | QWERTY-type keyboard | typebar | 0 |
-| [Weilwerke GmbH machine, 1913](../machines/weilwerke-gmbh-1913.md) | 1913 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 4](../machines/torpedo-4.md) | 1910 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 5](../machines/torpedo-5.md) | 1911 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 5 B](../machines/torpedo-5-b.md) | 1913 | QWERTY-type keyboard | typebar | 0 |
 | [Torpedo Simplex](../machines/torpedo-simplex.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
-| [Weil-Werke A.G machine, 1922](../machines/weil-werke-a-g-1922.md) | 1922 | QWERTY-type keyboard | typebar | 0 |
+| [Torpedo 5 C](../machines/torpedo-5-c.md) | 1922 | QWERTY-type keyboard | typebar | 0 |
 | [Torpedo 12, 14](../machines/torpedo-12-14.md) | 1924 | QWERTY-type keyboard |  | 0 |
 | [Torpedo 6](../machines/torpedo-6.md) | 1927 |  | typebar office | 0 |
 | [Torpedo 15, 15 a, 16](../machines/torpedo-15-15-a-16.md) | 1931 |  | typebar portable | 0 |
-| [Torpedo 17](../machines/torpedo-17.md) | 1933 |  | typebar simplified | 0 |
-| [Torpedo Lautlos](../machines/torpedo-lautlos.md) | 1933 |  | typebar, quiet | 0 |
 | [Torpedo 18 (18 a/b), 20](../machines/torpedo-18-18-a-b-20.md) | 1936 |  | typebar portable | 0 |
-| [Weilwerke A.G machine, 1938](../machines/weilwerke-a-g-1938.md) | 1938 | QWERTY-type keyboard | typebar | 6 |
+| [Torpedo S](../machines/torpedo-s.md) | 1938 | QWERTY-type keyboard | typebar | 6 |
 | [Solitaire (Model 8)](../machines/solitaire-model-8.md) | 1949 |  | typebar | 0 |
 | [Torpedo 30, 700, Super 6, 10, Dynacord](../machines/torpedo-30-700-super-6-10-dynacord.md) | 1950 |  | typebar | 0 |
 | [Torpedo Electric](../machines/torpedo-electric.md) | 1957 |  | electric typebar | 0 |

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Famos (1910): an index typewriter by Gustav Tietze A.G, Germany. Type wheel, 85 characters, top strike, ink roller. Sales: not very many. Price when new: 3,50 marks."
 year: 1910
 maker: "Gustav Tietze A.G"
 country: "Germany"

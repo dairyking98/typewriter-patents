@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [nicht serienmäßig hergestellt machine, 1879](../machines/nicht-serienma-ig-hergestellt-1879.md) (1879)
+- [Slocum](../machines/slocum.md) (1879)
 
 ## Assigned to
 

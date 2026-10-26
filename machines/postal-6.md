@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Postal 6 (1906): a type-element typewriter by Postal Typewriter Co, USA. Type wheel, 84 characters, top strike, ribbon, double shift. Sales: not many. Price when new: about $40."
 year: 1906
 maker: "Postal Typewriter Co"
 country: "USA"

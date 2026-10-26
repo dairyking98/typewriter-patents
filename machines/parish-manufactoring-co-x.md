@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Parish Manufactoring Co machine, ?: a typebar typewriter by Parish Manufactoring Co, USA. Typebar, 76 characters, understrike (blind), ribbon, single shift. Sales: very few. Price when new: 100%."
 maker: "Parish Manufactoring Co"
 country: "USA"
 index_machine: false
@@ -34,6 +35,10 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
+
+## Same maker
+
+[International 2 (1892)](../machines/international-2.md)
 
 ## Sources
 

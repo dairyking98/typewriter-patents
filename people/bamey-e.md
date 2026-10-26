@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [Aktienges. vorm. Seidel & Naumann machine, 1912](../machines/aktienges-vorm-seidel-naumann-1912.md) (1912)
+- [Ideal A 5](../machines/ideal-a-5.md) (1912)
 

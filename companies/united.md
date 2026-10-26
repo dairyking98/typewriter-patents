@@ -7,7 +7,7 @@ Name variants: The United States Wireless Printing Telegraph Comp; United Typewr
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [United Typewriter & Supplies Co machine, 1887](../machines/united-typewriter-supplies-co-1887.md) | 1887 | QWERTY-type keyboard | typebar | 12 |
+| [Brooks](../machines/brooks.md) | 1887 | QWERTY-type keyboard | typebar | 12 |
 
 ## Inventors
 

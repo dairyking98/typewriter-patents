@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Carissima (1934): an index typewriter, Germany. Type wheel, 87 characters, front strike, ribbon, double shift. Sales: only very modest. Price when new: 45 / 55 marks."
 year: 1934
 country: "Germany"
 index_machine: true

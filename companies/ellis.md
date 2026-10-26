@@ -7,7 +7,7 @@ Name variants: The Ellis-Southwick Comp; Ellis Spear + John T. Schaaf + E. Hilto
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Ellis Adding Typewriter Co machine, 1910](../machines/ellis-adding-typewriter-co-1910.md) | 1910 | QWERTY-type keyboard | typebar | 3 |
+| [Ellis](../machines/ellis.md) | 1910 | QWERTY-type keyboard | typebar | 3 |
 
 ## Inventors
 

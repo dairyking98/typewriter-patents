@@ -2,7 +2,7 @@
 
 ## Machines designed (Lexikon)
 
-- [Lasar Typewris= Co machine, 1890](../machines/lasar-typewris-co-1890.md) (1890)
+- [Lasar](../machines/lasar.md) (1890)
 
 ## Patents (21)
 

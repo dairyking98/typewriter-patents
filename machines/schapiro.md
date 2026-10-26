@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Schapiro: an index typewriter by A. Schapiro, Germany. Type wheel, 90 characters, top strike, ink roller, single shift. Sales: very few. Price when new: 90 marks."
 maker: "A. Schapiro"
 country: "Germany"
 index_machine: true

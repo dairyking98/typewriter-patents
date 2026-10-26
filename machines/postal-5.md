@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Postal 5 (1905): a type-element typewriter by Postal Typewriter Co, USA. Type wheel, 84 characters, top strike, ribbon, double shift. Sales: sold well. Price when new: $35, 150 marks."
 year: 1905
 maker: "Postal Typewriter Co"
 country: "USA"
@@ -57,6 +58,10 @@ tags: ["machine"]
 ## Same maker
 
 [Postal 1 (1902)](../machines/postal-1.md), [Postal 3 (1903)](../machines/postal-3.md), [Postal 6 (1906)](../machines/postal-6.md)
+
+## Elsewhere on the web
+
+- [Postal 5 Typewriter](https://www.antiquetypewriters.com/typewriter/postal-5-typewriter/), Martin Howard Collection, antiquetypewriters.com
 
 ## Sources
 

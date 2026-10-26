@@ -2,10 +2,10 @@
 
 ## Machines designed (Lexikon)
 
-- [Ing. C. Olovetti & C machine, 1911](../machines/ing-c-olovetti-c-1911.md) (1911)
-- [Ing. C. Olivetti & Cie machine, 1923](../machines/ing-c-olivetti-cie-1923.md) (1923)
-- [Ing. C. Olivetti & Cie machine, 1930](../machines/ing-c-olivetti-cie-1930.md) (1930)
-- [Ing. C. Olovetti & C machine, 1938](../machines/ing-c-olovetti-c-1938.md) (1938)
+- [Olivetti M 1](../machines/olivetti-m-1.md) (1911)
+- [Olivetti M 20 Tab](../machines/olivetti-m-20-tab.md) (1923)
+- [Olivetti M 40](../machines/olivetti-m-40.md) (1930)
+- [Olivetti Studio 42](../machines/olivetti-studio-42.md) (1938)
 
 ## Patents (1)
 

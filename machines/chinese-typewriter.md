@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "unknown"
+description: "Chinese typewriter (1920): a typewriter."
 year: 1920
 index_machine: false
 patents: 0

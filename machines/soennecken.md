@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Soennecken (1890): an index typewriter, Germany. Linear type rule, 88 characters, top strike, ribbon, single shift. Sales: not sold. Price when new: none listed."
 year: 1890
 country: "Germany"
 index_machine: true

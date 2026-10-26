@@ -7,8 +7,8 @@ Name variants: Bemh. Stoewer A.G; Bemh. Stoewer A. G
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Bemh. Stoewer A.G machine, 1906](../machines/bemh-stoewer-a-g-1906.md) | 1906 | QWERTY-type keyboard | typebar | 0 |
-| [Bemh. Stoewer A. G machine, 1907](../machines/bemh-stoewer-a-g-1907.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
-| [Bemh. Stoewer A. G machine, 1909](../machines/bemh-stoewer-a-g-1909.md) | 1909 | QWERTY-type keyboard | typebar | 0 |
-| [Bemh. Stoewer A.G machine, 1912](../machines/bemh-stoewer-a-g-1912.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
-| [Bemh. Stoewer A.G machine, 1926](../machines/bemh-stoewer-a-g-1926.md) | 1926 | QWERTY-type keyboard | typebar | 0 |
+| [Stoewer 3](../machines/stoewer-3.md) | 1906 | QWERTY-type keyboard | typebar | 0 |
+| [Stoewer 4](../machines/stoewer-4.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
+| [Stoewer 5 (Record)](../machines/stoewer-5-record.md) | 1909 | QWERTY-type keyboard | typebar | 0 |
+| [Stoewer Elite](../machines/stoewer-elite.md) | 1912 | QWERTY-type keyboard | typebar | 0 |
+| [Klein-Stoewer](../machines/klein-stoewer.md) | 1926 | QWERTY-type keyboard | typebar | 0 |

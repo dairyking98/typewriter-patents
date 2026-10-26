@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "UnderwoodElliott-Fisher Co machine, ?: a typebar typewriter by UnderwoodElliott-Fisher Co, USA. Typebar, 84 characters, front strike, ribbon, single shift. Sales: sold well. Price when new: $69.50, 315 marks."
 maker: "UnderwoodElliott-Fisher Co"
 country: "USA"
 index_machine: false
@@ -34,6 +35,10 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
+
+## Same maker
+
+[Underwood 6 (1931)](../machines/underwood-6.md), [Underwood Lautlos 77 (1931)](../machines/underwood-lautlos-77.md), [Underwood Junior (1933)](../machines/underwood-junior.md), [Underwood Z (1934)](../machines/underwood-z.md), [Underwood Master (1935)](../machines/underwood-master.md), [Underwood Universal (1937)](../machines/underwood-universal.md)
 
 ## Sources
 

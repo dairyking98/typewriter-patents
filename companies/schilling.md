@@ -7,9 +7,9 @@ Name variants: Schilling & Krämer; SCHILLING & KRAEMER
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Schilling & Krämer machine, 1904](../machines/schilling-kramer-1904.md) | 1904 | QWERTY-type keyboard | typebar | 0 |
-| [Schilling & Krämer machine, 1907](../machines/schilling-kramer-1907.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
-| [Schilling & Krämer machine, 1923](../machines/schilling-kramer-1923.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
+| [Regina 2](../machines/regina-2.md) | 1904 | QWERTY-type keyboard | typebar | 0 |
+| [Regina 3](../machines/regina-3.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
+| [Regina 7](../machines/regina-7.md) | 1923 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

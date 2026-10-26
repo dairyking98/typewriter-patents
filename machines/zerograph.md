@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Zerograph (1895): a type-element typewriter by Leo Kamm, England. Type wheel, 78 characters, front strike, ribbon, double shift. Sales: nur einige Expl."
 year: 1895
 maker: "Leo Kamm"
 country: "England"

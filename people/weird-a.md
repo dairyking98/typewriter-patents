@@ -2,6 +2,6 @@
 
 ## Machines designed (Lexikon)
 
-- [Pneumatic Typewriter Co machine, 1892](../machines/pneumatic-typewriter-co-1892.md) (1892)
-- [Pneumatic Typewriter Co machine, 1892](../machines/pneumatic-typewriter-co-1892-2.md) (1892)
+- [Pneumatic (A)](../machines/pneumatic-a.md) (1892)
+- [Pneumatic (B)](../machines/pneumatic-b.md) (1892)
 

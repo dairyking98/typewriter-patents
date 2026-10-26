@@ -5,6 +5,6 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [CommercialSchreibm.-Fabrik K.F. Kührt machine, 1918](../machines/commercialschreibm-fabrik-k-f-kuhrt-1918.md) | 1918 | QWERTY-type keyboard | typebar | 0 |
-| [CommercialSchreibm.-Fabrik K.F. Kührt machine, 1920](../machines/commercialschreibm-fabrik-k-f-kuhrt-1920.md) | 1920 | QWERTY-type keyboard | typebar | 0 |
-| [CommercialSchreibm.-Fabrik K.F. Kührt machine, 1922](../machines/commercialschreibm-fabrik-k-f-kuhrt-1922.md) | 1922 | QWERTY-type keyboard | typebar | 0 |
+| [Commercial 6](../machines/commercial-6.md) | 1918 | QWERTY-type keyboard | typebar | 0 |
+| [Commercial 7](../machines/commercial-7.md) | 1920 | QWERTY-type keyboard | typebar | 0 |
+| [Commercial 10](../machines/commercial-10.md) | 1922 | QWERTY-type keyboard | typebar | 0 |

@@ -7,7 +7,7 @@ Name variants: The Lawrence Manufacturing Comp. Ltd; CHARLES LAWRENCE KELLY; Law
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Lawrence Mfg. Co machine, 1913](../machines/lawrence-mfg-co-1913.md) | 1913 | QWERTY-type keyboard | typebar | 11 |
+| [Zalsho](../machines/zalsho.md) | 1913 | QWERTY-type keyboard | typebar | 11 |
 
 ## Inventors
 

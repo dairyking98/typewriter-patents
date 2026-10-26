@@ -7,7 +7,7 @@ Name variants: Barr to The Smith Premier Typewriter Comp; BARR MORSE CORP; Barr-
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Barr-Morse Corp machine, 1926](../machines/barr-morse-corp-1926.md) | 1926 | QWERTY-type keyboard | typebar | 12 |
+| [Barr](../machines/barr.md) | 1926 | QWERTY-type keyboard | typebar | 12 |
 
 ## Inventors
 

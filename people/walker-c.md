@@ -2,8 +2,8 @@
 
 ## Machines designed (Lexikon)
 
-- [Yost Writing Machine Co machine, 1908](../machines/yost-writing-machine-co-1908.md) (1908)
-- [Yost Writing Machine Co machine, 1912](../machines/yost-writing-machine-co-1912.md) (1912)
+- [Yost 15 - 19](../machines/yost-15-19.md) (1908)
+- [Yost 20](../machines/yost-20.md) (1912)
 
 ## Assigned to
 

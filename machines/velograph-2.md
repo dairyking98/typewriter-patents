@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Velograph 2 (1887): an index typewriter by Rymtowi--Prince & Cie, Switzerland. Type disc, 80 characters, front strike, ribbon; ink roller. Sales: nicht ganz wenig damals."
 year: 1887
 maker: "Rymtowi--Prince & Cie"
 country: "Switzerland"

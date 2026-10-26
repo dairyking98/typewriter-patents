@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Fortuna portable (1931 ads) (1931): a typebar typewriter by WAFFENFABRIK; WALTHER CARL, Germany. Typebar."
 year: 1931
 maker: "WAFFENFABRIK; WALTHER CARL"
 country: "Germany"
@@ -31,7 +32,7 @@ None linked yet.
 
 ## Same maker
 
-[Stolzenberg-Fortuna / Fortuna (1922)](../machines/stolzenberg-fortuna-fortuna.md), [Fortuna 4 (1928)](../machines/fortuna-4.md), [Fortuna with front plate (1939)](../machines/fortuna-with-front-plate.md)
+[Stolzenberg-Fortuna / Fortuna (1922)](../machines/stolzenberg-fortuna-fortuna.md), [Fortuna with front plate (1939)](../machines/fortuna-with-front-plate.md)
 
 ## Sources
 

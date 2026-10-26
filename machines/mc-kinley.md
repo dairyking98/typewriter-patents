@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Mc Kinley (1880): an index typewriter by nicht fabrikmäßig hergestellt, USA. Type wheel, ? characters, top strike, ink roller, double shift. Sales: not sold. Price when new: none listed."
 year: 1880
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Cram (1906): an index typewriter by Cram Writing Machien Comp, USA. Type wheel, 51 characters, top strike, ribbon. Sales: wahrscheinl. wenig."
 year: 1906
 maker: "Cram Writing Machien Comp"
 country: "USA"

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Sterling 2 (1912): a type-element typewriter by Sterling Typewriter Comp, USA. Type shuttle, 90 characters, front strike, ribbon, double shift. Sales: very few. Price when new: about $50."
 year: 1912
 maker: "Sterling Typewriter Comp"
 country: "USA"

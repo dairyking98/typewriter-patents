@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Geniatus (1924): an index typewriter by Unbekannt, Germany. Type band, 90 characters, front strike, ribbon, double shift. Sales: a fair number. Price when new: 38 marks."
 year: 1924
 maker: "Unbekannt"
 country: "Germany"
@@ -38,6 +39,11 @@ tags: ["machine"]
 ## Patents (0)
 
 None linked yet.
+
+## Elsewhere on the web
+
+- [Geniatus](http://www.hquast.de/Einzelne/Geniatus.htm), Hartmut Quast collection, hquast.de
+- [Geniatus Schreibmaschine](https://www.typewriters.ch/collection-2/geniatus/), typewriters.ch
 
 ## Sources
 

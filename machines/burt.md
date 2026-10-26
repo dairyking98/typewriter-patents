@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Burt (1829): an index typewriter by nicht fabrikmäßig hergestellt, USA. Type segment, ? characters, top strike, ink roller, single shift. Sales: not sold. Price when new: none listed."
 year: 1829
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"

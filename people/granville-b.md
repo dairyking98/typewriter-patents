@@ -2,9 +2,9 @@
 
 ## Machines designed (Lexikon)
 
-- [Granville Manufactoring Co machine, 1896](../machines/granville-manufactoring-co-1896.md) (1896)
-- [Mead machine, 1888](../machines/mead-1888.md) (1888)
-- [Mead machine, 1891](../machines/mead-1891.md) (1891)
+- [Granville Automatic](../machines/granville-automatic.md) (1896)
+- [Rapid 1 (Vierreihig)](../machines/rapid-1-vierreihig.md) (1888)
+- [Rapid 2 (Dreireihig)](../machines/rapid-2-dreireihig.md) (1891)
 
 ## Assigned to
 

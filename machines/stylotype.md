@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Stylotype (1934): an index typewriter by Stylotyp Kleinmaschinen GmbH, Germany. Type wheel, 84 characters, front strike, ribbon, double shift. Sales: quite few. Price when new: 55 / 60 marks."
 year: 1934
 maker: "Stylotyp Kleinmaschinen GmbH"
 country: "Germany"

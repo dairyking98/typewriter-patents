@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Dart (1899): an index typewriter by Dart Marking Machine Co, USA. Type wheel, 41 characters, top strike, ink roller. Sales: not very many. Price when new: 45 marks."
 year: 1899
 maker: "Dart Marking Machine Co"
 country: "USA"

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Postal 1 (1902): a type-element typewriter by Postal Typewriter Co, USA. Type wheel, 84 characters, top strike, ribbon, double shift. Sales: few. Price when new: $25, 100 marks."
 year: 1902
 maker: "Postal Typewriter Co"
 country: "USA"

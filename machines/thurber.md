@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "typebar"
+description: "Thurber (1843): a typebar typewriter by nicht fabrikmäßig hergestellt, USA. Type rods, 44 characters, top strike, ink roller. Sales: not sold. Price when new: none listed."
 year: 1843
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"

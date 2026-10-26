@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Thomas (1854): an index typewriter by nicht fabrikmäßig hergestellt, USA. Type rods, ca. 52 characters, top strike, ink pad. Sales: not sold. Price when new: none listed."
 year: 1854
 maker: "nicht fabrikmäßig hergestellt"
 country: "USA"
@@ -38,6 +39,17 @@ tags: ["machine"]
 | Patent | Year | Inventor | Title | Confidence | Evidence |
 |---|---|---|---|---|---|
 | [US10995](../patents/US10995.md) | 1854 | Thomas, Robert S. | Typograph | medium | inventor = designer; patent 1854, machine 1854; both typebar |
+
+## Elsewhere on the web
+
+- [Oliver - Thomas Oliver Obituary](http://www.sljohnson.net/typewriter/oliver/Thomas_Oliver.html), S. L. Johnson Typewriter Page, sljohnson.net
+- [Oliver - Thomas Oliver Descendants](http://www.sljohnson.net/typewriter/oliver/Thomas_Oliver_family.html), S. L. Johnson Typewriter Page, sljohnson.net
+- [The International Rasmus Malling-Hansen Society: Thomas J�rgen J. Hansens barnsdomserindringer](https://www.malling-hansen.org/rasmus-malling-hansen/thomas-joergen-j-hansens-barnsdomserindringer.html), International Rasmus Malling-Hansen Society, malling-hansen.org
+- [The International Rasmus Malling-Hansen Society: 1872.03.27 Danish To brother Thomas J�rgen Hansen](https://www.malling-hansen.org/letters-by-malling-hansen/letter-overview/18720327-danish-to-brother-thomas-joergen-hansen.html), International Rasmus Malling-Hansen Society, malling-hansen.org
+- [The International Rasmus Malling-Hansen Society: 1871.02.09 Danish To brother Thomas J�rgen Hansen](https://www.malling-hansen.org/letters-by-malling-hansen/letter-overview/18710209-danish-to-brother-thomas-joergen-hansen.html), International Rasmus Malling-Hansen Society, malling-hansen.org
+- [The International Rasmus Malling-Hansen Society: 1870.11.14 Danish To brother Thomas J�rgen Hansen](https://www.malling-hansen.org/letters-by-malling-hansen/letter-overview/18701114-danish-to-brother-thomas-joergen-hansen.html), International Rasmus Malling-Hansen Society, malling-hansen.org
+- [The International Rasmus Malling-Hansen Society: 1870.11.14 English To brother Thomas J�rgen Hansen](https://www.malling-hansen.org/letters-by-malling-hansen/letter-overview/18701114-english-to-brother-thomas-joergen-hansen.html), International Rasmus Malling-Hansen Society, malling-hansen.org
+- [The International Rasmus Malling-Hansen Society: 1870.11.19 Danish To brother Thomas J�rgen Hansen](https://www.malling-hansen.org/letters-by-malling-hansen/letter-overview/18701119-danish-to-brother-thomas-joergen-hansen.html), International Rasmus Malling-Hansen Society, malling-hansen.org
 
 ## Sources
 

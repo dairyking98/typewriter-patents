@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "index"
+description: "Karli 2 Zweireihig (1928): an index typewriter by Karl Dietrich, Germany. Individual type, 84 characters, top strike, ribbon, single shift. Sales: extremely few. Price when new: about 50 / 60 marks."
 year: 1928
 maker: "Karl Dietrich"
 country: "Germany"

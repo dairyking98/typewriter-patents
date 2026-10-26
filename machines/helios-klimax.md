@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "Helios Klimax (1914): a type-element typewriter by Schreibmaschinenfabrik A. Ney, Germany. Type wheel, 84 characters, front strike, ribbon, triple shift. Sales: a fair few. Price when new: 135 marks."
 year: 1914
 maker: "Schreibmaschinenfabrik A. Ney"
 country: "Germany"

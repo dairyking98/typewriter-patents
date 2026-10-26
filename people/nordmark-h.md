@@ -2,5 +2,5 @@
 
 ## Machines designed (Lexikon)
 
-- [Fox Typewriter Co machine, 1917](../machines/fox-typewriter-co-1917.md) (1917)
+- [Fox Portable 1](../machines/fox-portable-1.md) (1917)
 

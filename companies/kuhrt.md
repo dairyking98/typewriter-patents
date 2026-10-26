@@ -7,8 +7,8 @@ Name variants: Kührt & Riegelmann GmbH; ERNST KUHRT
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Kührt & Riegelmann GmbH machine, 1907](../machines/kuhrt-riegelmann-gmbh-1907.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
-| [Kührt & Riegelmann GmbH machine, 1909](../machines/kuhrt-riegelmann-gmbh-1909.md) | 1909 | QWERTY-type keyboard | typebar | 0 |
+| [Norica](../machines/norica.md) | 1907 | QWERTY-type keyboard | typebar | 0 |
+| [Franconia 1](../machines/franconia-1.md) | 1909 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

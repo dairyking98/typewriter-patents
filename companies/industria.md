@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [S. A. Industria Dattilografica machine, 1922](../machines/s-a-industria-dattilografica-1922.md) | 1922 | QWERTY-type keyboard | typebar | 0 |
+| [Juventa 1](../machines/juventa-1.md) | 1922 | QWERTY-type keyboard | typebar | 0 |

@@ -1,6 +1,7 @@
 ---
 type: "machine"
 machine_kind: "type element"
+description: "American Double Wheel (1898): a type-element typewriter by American Typewriter Co, USA. Type shuttle, 37 characters, front strike, ink pad. Sales: not sold. Price when new: kein X Klasse XX."
 year: 1898
 maker: "American Typewriter Co"
 country: "USA"
@@ -38,7 +39,7 @@ None linked yet.
 
 ## Same maker
 
-[American Visible (?)](../machines/american-visible.md), [American Index (1893)](../machines/american-index.md)
+[American Visible (?)](../machines/american-visible.md), [American Index (1893)](../machines/american-index.md), [American Armstrong 5 (1901)](../machines/american-armstrong-5.md), [American Armstrong 7 (1905)](../machines/american-armstrong-7.md), [American Armstrong 8 (1908)](../machines/american-armstrong-8.md)
 
 ## Sources
 

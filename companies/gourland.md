@@ -7,7 +7,7 @@ Name variants: GOURLAND TYPEWRITER CORP; Gourland Typewriter Co
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Gourland Typewriter Co machine, 1920](../machines/gourland-typewriter-co-1920.md) | 1920 | QWERTY-type keyboard | typebar | 17 |
+| [Gourland](../machines/gourland.md) | 1920 | QWERTY-type keyboard | typebar | 17 |
 
 ## Inventors
 

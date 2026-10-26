@@ -7,7 +7,7 @@ Name variants: KARL GRAF; Graf & Oertel
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Graf & Oertel machine, 1939](../machines/graf-oertel-1939.md) | 1939 | QWERTY-type keyboard | typebar | 0 |
+| [G & O](../machines/g-o.md) | 1939 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors
 

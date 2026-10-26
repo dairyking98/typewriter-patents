@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [CommereialSchreibm.-Fabrik K.F. Kührt machine, 1914](../machines/commereialschreibm-fabrik-k-f-kuhrt-1914.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
+| [Commercial 5](../machines/commercial-5.md) | 1914 | QWERTY-type keyboard | typebar | 0 |
