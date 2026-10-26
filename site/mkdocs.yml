@@ -1,0 +1,73 @@
+# Static site for this repo (generated; don't edit here).
+# The pages live at the repo root, so site/build.sh copies them into _docs/ first (MkDocs can't use its own folder).
+site_name: "Index typewriters: patents and machines"
+site_url: https://leonardchau.com/typewriter-patents/
+site_description: A browsable library of historical typewriter patents and machines, with a focus on index typewriters.
+repo_url: https://github.com/dairyking98/typewriter-patents
+edit_uri: ""
+docs_dir: ../_docs
+site_dir: ../_site
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle: {icon: material/brightness-7, name: Dark mode}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: deep orange
+      toggle: {icon: material/brightness-4, name: Light mode}
+plugins:
+  - search
+  - tags
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+extra_css:
+  - extra.css
+validation:
+  nav:
+    omitted_files: ignore
+    not_found: warn
+  links:
+    not_found: warn
+    unrecognized_links: ignore
+nav:
+  - Home: README.md
+  - Guides: guides/README.md
+  - Views:
+      - Index machines: views/index-machines.md
+      - Mechanisms: views/mechanisms.md
+      - Timeline: views/timeline.md
+      - Inventors: views/inventors.md
+      - Selection: views/sel.md
+      - Type element: views/elem.md
+      - Shift: views/shift.md
+      - Impression: views/imp.md
+      - Inking: views/ink.md
+      - Escapement: views/esc.md
+      - Paper: views/pap.md
+      - Frame: views/frm.md
+      - Uses: views/use.md
+  - Browse:
+      - Patents: patents/README.md
+      - Machines: machines/README.md
+      - Features: features/README.md
+      - People: people/README.md
+      - Companies: companies/README.md
+      - Families: families/README.md
+      - Tags: tags.md

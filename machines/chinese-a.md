@@ -1,0 +1,43 @@
+---
+type: "machine"
+year: 1899
+maker: "wahrscheinlich nicht produziert"
+country: "China"
+index_machine: true
+selection: "index"
+carrier: "type wheel"
+strike: "upstrike / top strike"
+inking: "ink roller"
+shift: "none"
+characters: "4.000 Zeichen"
+patents: 0
+tags: ["machine/index"]
+---
+
+# Chinese (A)
+
+*Index typewriter with huge type wheel*
+
+| | |
+|---|---|
+| Year | 1899 |
+| Maker | wahrscheinlich nicht produziert |
+| Designer | [Sheffield, D. Z](../people/sheffield-d.md) |
+| Country | China |
+| Selection | index |
+| Type carrier | type wheel |
+| Characters | 4.000 Zeichen |
+| Strike | upstrike / top strike |
+| Inking | ink roller |
+| Shift | none |
+| Sales | kein / oder wenig |
+| Price | unbekannt |
+| Rarity (Lexikon) | X |
+
+## Patents (0)
+
+None linked yet. To add one, put a `confirm` row in `curated/links.csv`.
+
+## Sources
+
+- [Dingwerth, Lexikon 1997, p. 156 (C057)](https://archive.org/details/kleines-lexikon-historischer-schreibmaschinen/page/n156)

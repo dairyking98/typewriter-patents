@@ -1,0 +1,59 @@
+# USE:book-typewriter
+
+Book or flat-bed typewriter for bound records
+
+**47 patents**, 1885–1935. Often together with: [PAP:flat-bed](../features/pap-flat-bed.md) (46), [ESC:moving-print-head](../features/esc-moving-print-head.md) (28), [INK:ribbon](../features/ink-ribbon.md) (18), [ESC:pawl-rack](../features/esc-pawl-rack.md) (15), [ELEM:typebar](../features/elem-typebar.md) (14), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (13), [IMP:element-to-platen](../features/imp-element-to-platen.md) (10), [FRM:writing-visible](../features/frm-writing-visible.md) (9)
+
+**Machines:** [Fisher Record Typewriter machine, 1896](../machines/fisher-record-typewriter-1896.md) (2)
+
+## Patents, oldest first
+
+| Patent | Year | Inventor | Solution |
+|---|---|---|---|
+| [US312981](../patents/US312981.md) | 1885 | Dodge, Manly C. | A hand-held type-wheel carriage rides on a frame over the book; a knobbed handle turns a pointer over a lettered dial to choose a type, pressing the handle drives a plunger onto that spring-held type, and a thumb lever advances the carriage by a chain. |
+| [US439068](../patents/US439068.md) | 1890 | Hewlett, Maddra J. | A small print head travels over a clamped flat plate: a pivoted curved type segment with a type band is slid by an indicator arm over a letter chart, and one printing lever punches the type down through a slot onto the paper while also stepping the head along a toothed bar. |
+| [US441880](../patents/US441880.md) | 1890 | Lowe, Austin | A typewriter whose frame slides along a fixed ratchet spacing bar over the book and shifts its centre so different types on a multi-type bar strike flat. |
+| [US443547](../patents/US443547.md) | 1890 | Smith, Roswell T. | A small carriage travels over a thin flat platform; a knob turns a central shaft carrying both a pointer over a letter dial and a rubber type segment, and a key drops a latch into a slot to register the type and hammer it onto the paper while also stepping the carriage by a dog on a rack. |
+| [US477353](../patents/US477353.md) | 1892 | Crary, Joseph M. | A circular array of downward-printing type-bars on an annular fulcrum-plate, carried by a frame and carriage that move laterally and longitudinally over a book leaf held on a platen. |
+| [US493016](../patents/US493016.md) | 1893 | Crary, Joseph M. | A half-space adjustment of the paper or of the type carriage relative to the other lets the next impressions fall between existing ones. |
+| [US516973](../patents/US516973.md) | 1894 | Hess, Christian | A small hand-held printing head with a knob-turned type wheel runs along a rail frame, and pressing the wheel down prints and, through a bell crank and pawl on a rack, steps the head one space. |
+| [US535739](../patents/US535739.md) | 1895 | Smith, Roswell T. | A power-spun type wheel on a central shaft is stopped by a finger swinging into the rod of a pressed key, and a printing device then strikes, with feeding that moves either the head over the paper or the paper past the head. |
+| [US545594](../patents/US545594.md) | 1895 | Larson, Swante P. | A pivoted frame carrying a type wheel turned by a horizontally moved index pointer and pressed down by hand to print. |
+| [US556812](../patents/US556812.md) | 1896 | Ellis, Stephen A. | A flat base frame resting on the book page with a line-spacing frame, carriage and curved typebars with toothed segments driven by key levers. |
+| [US567937](../patents/US567937.md) | 1896 | Blackstock - Conley, William M. - John | A frame travels on rack-bars resting on the page, with the carriage on a rail held by tilting crank-arms so it can be lifted to inspect the writing. |
+| [US569627](../patents/US569627.md) | 1896 | Fisher, Robert Joseph | A machine runs on tracks resting on the page above a rubber-faced printing plate placed under the leaf. |
+| [US613201](../patents/US613201.md) | 1898 | Hopkins, William B. | A book typewriter with letter-carrying arms on a notched segment, lateral feed control, ribbon lateral feed, line-length stop and book supports. |
+| [US631144](../patents/US631144.md) | 1899 | Anderson, George S. | A ribbon-shift key on the carriage moves the ribbon guide widthwise to several held positions, using the full ribbon width, two colours, or clearing the print point to view. |
+| [US635946](../patents/US635946.md) | 1899 | Treadgold, George H. | A book-writing typewriter whose printing carriage runs on a frame resting on the book, with typearms in two opposed rows (capitals and lowercase) joined to common keys by evener levers and alternately locked by a sliding frame. |
+| [US637749](../patents/US637749.md) | 1899 | Fisher, Robert Joseph | Ribbon mechanism that withdraws from the line of sight after each stroke and returns to the type path on each key depression, plus means to hold the type-bar ring steady. |
+| [US637816](../patents/US637816.md) | 1899 | Myers, James Hamilton | A traveling type-frame carrying an oscillating type disk or cylinder with a type-bar in each socket, advanced by a feed screw with each keystroke and reversible. |
+| [USRE11850](../patents/USRE11850.md) | 1900 | Fisher, Robert Joseph | A reissued Fisher machine with type-bars in adjustable clips on a ring, tracks that rest on the page and a hard-rubber platen inserted between book leaves. |
+| [US661472](../patents/US661472.md) | 1900 | Hillard, Frederic W. | Give the stop-arm a two-lobed rounded end so each key-lever stop touches it at a different point, spreading the wear. |
+| [US662790](../patents/US662790.md) | 1900 | Hopkins, Edward A. | Shift the ribbon spools axially a small step each time the ribbon feed reverses, so successive passes use parallel stripes across the ribbon width. |
+| [US671162](../patents/US671162.md) | 1901 | Dukes, Harry S. | Trip latches on the spool ratchet disks move a reciprocating reversing bar, switching pawls; ribbon guide holds ribbon in front of the writing. |
+| [US671186](../patents/US671186.md) | 1901 | Dukes, Harry S. | A book typewriter with a vertically and horizontally adjustable frame carrying track rails, line spacing and typebar action with shift reversal. |
+| [US703961](../patents/US703961.md) | 1902 | Laganke, Charles Frederick | A shiftable stop device sets fixed or universal line spacings, and the actuator also acts as a holdback dog when the machine frame is moved freely. |
+| [US705523](../patents/US705523.md) | 1902 | Fisher, Robert Joseph | A simple automatic ribbon feed, driven from an operating rack as the carriage moves, with an operator-reversible direction. |
+| [US711070](../patents/US711070.md) | 1902 | Poage, Jesse Edwin | An attachment moves the ribbon transversely as it winds so type contact traces a zigzag path. |
+| [US723884](../patents/US723884.md) | 1903 | Laganke - Smith, Charles Frederick - John A. | Ribbon guiding, guarding and shifting mechanism for a Fisher book typewriter. |
+| [US723936](../patents/US723936.md) | 1903 | Smith, John A. | Ribbon feed and control mechanism for the Fisher book typewriter. |
+| [US747917](../patents/US747917.md) | 1903 | Hillard, Frederic W. | A gear train driven by carriage spacing feeds the ribbon, a ribbon-held trip releases at spool end to slide a bevel-gear shaft and reverse, and a cross-feed moves the ribbon transversely. |
+| [US747953](../patents/US747953.md) | 1903 | Eckert, Herman F. | A work-guard plate that clamps or protects the top edge of the work and can be moved in the line-space direction to any point over the platen. |
+| [US753788](../patents/US753788.md) | 1904 | Dukes - Clayton, Harry S. - William H. | A compact book typewriter whose printing mechanism travels lengthwise and transversely over the page on a vertically adjustable, shiftable frame. |
+| [US753789](../patents/US753789.md) | 1904 | Dukes  -  Clayton, Harry S. - William H. | A shiftable machine-supporting frame and a self-leveling work-holder let either page of a book be brought beneath the printer in front of the operator. |
+| [US759816](../patents/US759816.md) | 1904 | Marriott, James H. W. | A typewriter riding on fixed guideways above a flat bed that is line-spaced by moving the machine for books or by moving the platen for loose sheets. |
+| [US778454](../patents/US778454.md) | 1904 | Laganke, Charles Frederick | A set of platen equipment: adjustable card-guiding flexible strips, individually adjustable gauge pins for a reversed sales-sheet, and a machine-operated work clamp shiftable in the line-space direction. |
+| [US827514](../patents/US827514.md) | 1906 | Dukes, Harry S. | A front-strike typebar machine whose print point lies in a vertical plane, with a compact typebar action of uniform leverage, for flat or roller platens. |
+| [US856333](../patents/US856333.md) | 1907 | Bolton, Herbert D. | A web feeding and roll-supporting mechanism with separate retention of paper and transfer ribbons so each can move independently. |
+| [US929837](../patents/US929837.md) | 1909 | Donning, George W. | A flexible band across the platen, held under spring tension and shiftable sideways along a rod, clamps the sheet and is raised automatically when the carbon sheets are lifted. |
+| [US929840](../patents/US929840.md) | 1909 | Donning, George W. | Fine longitudinal shifting of the line-spacing racks, self-retaining, moves the whole writing mechanism a small amount apart from the step-by-step feed. |
+| [US970195](../patents/US970195.md) | 1910 | Donning, George W. | A flat-platen book typewriter with a suspended writing carriage that travels laterally on a longitudinally travelling carriage over a laterally moving book support. |
+| [US1004538](../patents/US1004538.md) | 1911 | Donning, George W. | A flat platen is carried on a support that shifts transversely beneath the track frame and sits in different horizontal planes. |
+| [US1009392](../patents/US1009392.md) | 1911 | Dunlap, John W. | A book typewriter whose carriage traverses the platen on a line-spacing frame, with an adjustable ratchet line-spacing hand lever. |
+| [US1056644](../patents/US1056644.md) | 1913 | Donning, George W. | A flat-platen typewriter where the writing mechanism runs on tracks over a hinged flat platen, with a book support underneath. |
+| [US1056645](../patents/US1056645.md) | 1913 | Donning, George W. | A device that momentarily moves the platen, the track frame or the writing mechanism out of its aligned line and back. |
+| [US1082057](../patents/US1082057.md) | 1913 | Watt, George F. | Front and rear tally carriers adjustable and shiftable in unison into and out of position, feeding the strip front to rear so numbers read top to bottom. |
+| [DE332718](../patents/DE332718.md) | 1921 | Vester, Heinrich | A pointer-driven type cylinder carries several fonts as spring-loaded type pistons, positioned by rotation and axial slide, struck from above by a hammer-tipped key and inked by a self-inking roller, so it can write on any thick object. |
+| [DE397320](../patents/DE397320.md) | 1924 | Fachetti, Guido | The print button moves a spring-tensioned slide whose pawl catches the rack, and the slide's stroke is set by an adjustable stop to vary the step. |
+| [DE552272](../patents/DE552272.md) | 1932 |  | Connect the cam belt to the vertically movable plate by a lever and ratchet so each plate depression advances the posting sheet one line. |
+| [DE620912](../patents/DE620912.md) | 1935 |  | A second rod parallel to the carriage push rod with an adjustable stop decouples carriage and line-feed pull rod at any chosen margin position. |

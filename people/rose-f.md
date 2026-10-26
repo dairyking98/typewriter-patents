@@ -1,0 +1,11 @@
+# Rose, Frank S
+
+## Machines designed (Lexikon)
+
+- [Rose Typewriter Co machine, 1907](../machines/rose-typewriter-co-1907.md) (1907)
+
+## Patents (1)
+
+| Patent | Date | Title | Carrier | Index score |
+|---|---|---|---|---|
+| [US754242](../patents/US754242.md) | 1904-03-08 | Type-Writing Machine | sliding bars | -4.5 |

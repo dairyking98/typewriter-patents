@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.inFolder("machines")
+views:
+  - type: table
+    name: Index machines by carrier
+    groupBy:
+      property: note.carrier
+      direction: ASC
+    filters:
+      and:
+        - "index_machine == true"
+    order:
+      - file.name
+      - note.year
+      - note.maker
+      - note.country
+      - note.strike
+      - note.inking
+      - note.shift
+      - note.characters
+      - note.patents
+  - type: table
+    name: All machines
+    order:
+      - file.name
+      - note.year
+      - note.maker
+      - note.country
+      - note.selection
+      - note.carrier
+      - note.patents

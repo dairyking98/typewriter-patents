@@ -1,0 +1,22 @@
+# INK:disc
+
+Ink disc
+
+**10 patents**, 1885–1903. Often together with: [SEL:selector-locking](../features/sel-selector-locking.md) (4), [ESC:pawl-rack](../features/esc-pawl-rack.md) (4), [ESC:print-and-space](../features/esc-print-and-space.md) (4), [ESC:space-key](../features/esc-space-key.md) (4), [PAP:platen-roller](../features/pap-platen-roller.md) (4), [ELEM:alignment-lock](../features/elem-alignment-lock.md) (4), [ESC:carriage-release](../features/esc-carriage-release.md) (3), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (3)
+
+**Machines:** [Columbia Index 2](../machines/columbia-index-2.md) (2), [Columbia Index 1](../machines/columbia-index-1.md) (1)
+
+## Patents, oldest first
+
+| Patent | Year | Inventor | Solution |
+|---|---|---|---|
+| [DE33343](../patents/DE33343.md) | 1885 |  | A thin sheet-metal type disc with elastic rubber-typed tongues is turned by a lever swung over a notched letter table, and pressing the lever into a notch prints through a stamp and releases the carriage by one tooth. |
+| [US352160](../patents/US352160.md) | 1886 | Spiro, Charles | Two stacked type-wheels on a fixed vertical shaft, slidable by a shift key, are turned by a twirling handle and printed by tilting a rocking paper carriage against the wheel by pressing that handle down, with the feed stroke limited by variable-depth stops on the wheel. |
+| [US355418](../patents/US355418.md) | 1887 | Spiro, Charles | A small disk of inked paper or cloth is carried on a bracket and turned by a rack on the moving platen frame, so each impression finds a fresh spot. |
+| [US395799](../patents/US395799.md) | 1889 | Spiro, Charles | Two type-wheels are fixed to one twirling handle on a depressible lever and slid in or out to choose case, with a slotted guard plate stopping the idle wheel and a feed pawl whose tail enters rim recesses of varying depth to set the carriage step. |
+| [US400265](../patents/US400265.md) | 1889 | Spiro, Charles | A fixed locking plate with slotted ribs close to the print point catches and aligns the typebars as they arrive, with several bent bars sharing one slot, plus soldered adjustable type plugs and a gravity-pawl-rotated ink disc. |
+| [US575145](../patents/US575145.md) | 1897 | Burridge - Marshman, Lee S. - Newman R. | A cheap perforated textile disk with a stiffened rim serves as an inking sheet placed between type and platen. |
+| [US575146](../patents/US575146.md) | 1897 | Burridge - Marshman, Lee S. - Newman R. | Gearing rotates the disk while an eccentric gear train also reciprocates it, so the strike point traces many crossing paths over an annulus. |
+| [US599397](../patents/US599397.md) | 1898 | Marshman - Burridge, Newman R. - Lee S. | Two independently pivoted rubber-type segments, each with a rigid finger-ring handle swung over a keyboard of imitation finger keys, so both hands select and one common impression device prints. |
+| [US691189](../patents/US691189.md) | 1902 | Sears, Charles | A fixed finger enters a groove in the oscillating type segment to stop it moving up or down at the impression point, with a paper-moving shield. |
+| [US726235](../patents/US726235.md) | 1903 | Uhlig, Richard W. | A circular flexible inked disc ribbon between type-wheel and platen, mounted on the swinging type-wheel frame and rotated each stroke. |

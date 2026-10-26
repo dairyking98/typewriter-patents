@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.inFolder("patents")
+views:
+  - type: table
+    name: Index machines (likely)
+    filters:
+      and:
+        - file.hasTag("index-machine")
+    order:
+      - file.name
+      - note.year
+      - note.inventor
+      - note.title
+      - note.carrier
+      - note.index_score
+      - note.machines
+  - type: table
+    name: German
+    filters:
+      and:
+        - 'country == "DE"'
+    order:
+      - file.name
+      - note.year
+      - note.inventor
+      - note.title
+      - note.kind
+  - type: table
+    name: Linked to machines
+    filters:
+      and:
+        - "machines"
+    order:
+      - file.name
+      - note.year
+      - note.inventor
+      - note.title
+      - note.machines
