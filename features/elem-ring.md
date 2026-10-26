@@ -2,7 +2,7 @@
 
 Types on a ring or annulus
 
-**34 patents**, 1878–1939. Often together with: [IMP:press-through](../features/imp-press-through.md) (14), [ESC:print-and-space](../features/esc-print-and-space.md) (12), [SEL:selector-locking](../features/sel-selector-locking.md) (11), [SEL:keyboard-full](../features/sel-keyboard-full.md) (11), [IMP:element-to-platen](../features/imp-element-to-platen.md) (10), [ESC:pawl-rack](../features/esc-pawl-rack.md) (9), [FRM:few-parts](../features/frm-few-parts.md) (9), [INK:ribbon](../features/ink-ribbon.md) (9)
+**36 patents**, 1878–1939. Often together with: [IMP:press-through](../features/imp-press-through.md) (15), [ESC:print-and-space](../features/esc-print-and-space.md) (12), [SEL:selector-locking](../features/sel-selector-locking.md) (11), [SEL:keyboard-full](../features/sel-keyboard-full.md) (11), [FRM:few-parts](../features/frm-few-parts.md) (10), [INK:ribbon](../features/ink-ribbon.md) (10), [IMP:element-to-platen](../features/imp-element-to-platen.md) (10), [ESC:pawl-rack](../features/esc-pawl-rack.md) (9)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (1), [National](../machines/national.md) (1), [Yost 4 - 9](../machines/yost-4-9.md) (1), [Yost 10 - 14](../machines/yost-10-14.md) (1)
 
@@ -39,8 +39,10 @@ Types on a ring or annulus
 | [US545594](../patents/US545594.md) | 1895 | Larson, Swante P. | A pivoted frame carrying a type wheel turned by a horizontally moved index pointer and pressed down by hand to print. |
 | [US581500](../patents/US581500.md) | 1897 | Webb, George B. | Two spool frames ride on ball bearings and are shifted transversely by a rock shaft while spring-fork-driven ratchet pawls wind the ribbon lengthwise. |
 | [US607270](../patents/US607270.md) | 1898 | Pastre - Lambert, Eugène - Frank | A single nutating disc key with all characters marked on it carries a rigid spherical type-ring beneath it; pressing the edge at a character tilts the ring until a stop pin seats in a recess, and continued pressure drives the ring straight down to print and release a spring carriage for one space. |
+| [US795605](../patents/US795605.md) | 1905 | Görwitz, Oskar | A device holds the type-bar links and the type-ring in an abnormal position, clear of the pad, so the inking pad can be mounted and removed without interference. |
 | [US825966](../patents/US825966.md) | 1906 | Hammond, James B. | Two spring-held retainer bars with overhanging fingers clamp over the shuttle's top flange and are squeezed inward to release it for vertical removal. |
 | [US825967](../patents/US825967.md) | 1906 | Hammond, James B. | Make the shuttle a very thin hard-rubber ring whose top flange both stiffens it and connects to the shuttle arm, and add independent speed-dogs between the key drivers and the arm so the shuttle can reverse without recentring. |
 | [US825968](../patents/US825968.md) | 1906 | Hammond, James Bartlett | A ring-form hard-rubber shuttle reinforced by an inner metal flange molded in, driven by a radially releasable shuttle-arm finger so the shuttle can be twirled to a different font set without lifting. |
 | [US1151757](../patents/US1151757.md) | 1915 | Bennett, Orin | Keys only position a rotary annular type rack (by notch depth) and then close an electric circuit, so a solenoid-driven hammer gives every impression the same force. |
+| [DE580989](../patents/DE580989.md) | 1933 | Gerson, Adolf | Trapezoidal type sticks lie side by side forming a closed ring that is turned along a fixed rail with a cutout where one stick is pressed down. |
 | [DE676014](../patents/DE676014.md) | 1939 | Chisholm, Clifton | Put the upper and lower case die pairs alternately in one single ring of the carrier and give the carrier a shift: a partial rotation relative to its continuously turning shaft equal to the spacing of two neighbouring dies, so one stop per two dies selects either of the pair. |

@@ -8,17 +8,17 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [INK:ribbon](../features/ink-ribbon.md) | Ribbon between type and paper | 717 | 20 | 1867 [US65807](../patents/US65807.md) | 1890s | `    ▁▁▂█▆▄▁▁▁▁` |  |
-| [INK:ribbon-feed](../features/ink-ribbon-feed.md) | Ribbon feed mechanism (pawl | 541 | 10 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▂█▅▄▁▁▁▁` |  |
-| [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) | Automatic ribbon reversing | 299 | 3 | 1880 [US224183](../patents/US224183.md) | 1890s | `      ▂█▇▅▁▁▁▁` |  |
-| [INK:ribbon-lift](../features/ink-ribbon-lift.md) | Ribbon lift or vibrator to the print point | 294 | 1 | 1880 [US224183](../patents/US224183.md) | 1900s | `      ▁▃█▇▁▁▁ ` |  |
-| [INK:pad](../features/ink-pad.md) | Felt or ink pad inking the type | 210 | 26 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁ ▁▄█▂▁▁  ▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [INK:roller](../features/ink-roller.md) | Ink roller touching the type | 202 | 30 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁ ▁▆█▄▁▁▁ ▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [INK:ribbon-color](../features/ink-ribbon-color.md) | Two-colour ribbon change | 168 | 3 | 1884 [US292854](../patents/US292854.md) | 1900s | `      ▁▂█▆▁▁▁ ` |  |
-| [INK:carbon](../features/ink-carbon.md) | Carbon paper or inked strip instead of ribbon | 22 | 0 | 1856 [US15164](../patents/US15164.md) | 1880s | `   ▁▃▃█▃▇▄▁   ` |  |
-| [INK:disc](../features/ink-disc.md) | Ink disc | 12 | 2 | 1885 [DE33343](../patents/DE33343.md) | 1880s | `      █▃▂     ` |  |
+| [INK:ribbon](../features/ink-ribbon.md) | Ribbon between type and paper | 904 | 20 | 1867 [US65807](../patents/US65807.md) | 1900s | `    ▁▁▂██▆▂▁▁▁` |  |
+| [INK:ribbon-feed](../features/ink-ribbon-feed.md) | Ribbon feed mechanism (pawl | 681 | 10 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▂█▆▆▂▁▁▁` |  |
+| [INK:ribbon-lift](../features/ink-ribbon-lift.md) | Ribbon lift or vibrator to the print point | 421 | 1 | 1880 [US224183](../patents/US224183.md) | 1900s | `      ▁▂█▇▂▁▁ ` |  |
+| [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) | Automatic ribbon reversing | 377 | 3 | 1871 [US118491](../patents/US118491.md) | 1900s | `     ▁▂▇█▇▃▁▁▁` |  |
+| [INK:pad](../features/ink-pad.md) | Felt or ink pad inking the type | 244 | 27 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁ ▁▄█▃▁▁▁ ▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [INK:ribbon-color](../features/ink-ribbon-color.md) | Two-colour ribbon change | 234 | 3 | 1884 [US292854](../patents/US292854.md) | 1900s | `      ▁▁█▆▁▁▁ ` |  |
+| [INK:roller](../features/ink-roller.md) | Ink roller touching the type | 222 | 30 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁ ▁▆█▄▁▁▁▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [INK:carbon](../features/ink-carbon.md) | Carbon paper or inked strip instead of ribbon | 49 | 0 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁▁▁▄▁█▇▃▆▁ ` |  |
+| [INK:disc](../features/ink-disc.md) | Ink disc | 13 | 2 | 1885 [DE33343](../patents/DE33343.md) | 1880s | `      █▃▂  ▁  ` |  |
 
-## Index-type patents, oldest first (74)
+## Index-type patents, oldest first (75)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -94,5 +94,6 @@
 | 1911 | [US1011366](../patents/US1011366.md) | Payne - Wray, Halbert E. - Silas G. | index | A stamped sheet-metal frame carrying a hand-slid ribbon guide and a spring-loaded pointer is screwed to the platen-shift frame. | ribbon, ribbon-color |
 | 1915 | [US1138851](../patents/US1138851.md) | des Jardins, Benjamin M. | index | A hand-turned type wheel with a matching index is coupled to a stack of spring-return stop disks which, stopped one after another by an escapement ring, shift the… | pad |
 | 1921 | [DE332718](../patents/DE332718.md) | Vester, Heinrich | index | A pointer-driven type cylinder carries several fonts as spring-loaded type pistons, positioned by rotation and axial slide, struck from above by a hammer-tipped key and… | roller |
+| 1928 | [DE466818](../patents/DE466818.md) | Kaftanski, Alfons | index | A hand-held device with a type wheel whose faces carry note marks, pressed by a button onto an ink pad; a geared rack sets four heights and a linear scale moves the… | pad |
 | 1939 | [DE673875](../patents/DE673875.md) |  | index | All sheet holding, feeding and switching is combined in one unit at the top edge of the board, with the lower feed roller advanced by a ratchet driven by the clamp bar. | ribbon |
 | 1942 | [DE720260](../patents/DE720260.md) | Soc, Stenotype Grandjean | index | A double lever under the hood is dragged out at one end by the ribbon-end buckle, showing a coloured tip outside the hood. | ribbon-feed, ribbon-reverse |

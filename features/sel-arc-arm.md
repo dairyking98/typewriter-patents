@@ -2,7 +2,7 @@
 
 Arm swung over an arc or semicircular scale to choose the character
 
-**57 patents**, 1876–1935. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (44), [ESC:print-and-space](../features/esc-print-and-space.md) (41), [SEL:selector-locking](../features/sel-selector-locking.md) (36), [PAP:platen-roller](../features/pap-platen-roller.md) (32), [IMP:element-to-platen](../features/imp-element-to-platen.md) (30), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (29), [SEL:pointer-chart](../features/sel-pointer-chart.md) (29), [IMP:print-lever](../features/imp-print-lever.md) (29)
+**59 patents**, 1871–1935. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (44), [ESC:print-and-space](../features/esc-print-and-space.md) (41), [SEL:selector-locking](../features/sel-selector-locking.md) (37), [PAP:platen-roller](../features/pap-platen-roller.md) (32), [SEL:pointer-chart](../features/sel-pointer-chart.md) (30), [IMP:element-to-platen](../features/imp-element-to-platen.md) (30), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (30), [IMP:print-lever](../features/imp-print-lever.md) (30)
 
 **Machines:** [Gundka 3](../machines/gundka-3.md) (2), [Gundka 5](../machines/gundka-5.md) (2), [Boston](../machines/boston.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Travis](../machines/travis.md) (1), [American Index](../machines/american-index.md) (1), [Gerda 2](../machines/gerda-2.md) (1)
 
@@ -10,6 +10,7 @@ Arm swung over an arc or semicircular scale to choose the character
 
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
+| [US115287](../patents/US115287.md) | 1871 | Draper, Robert E. | An oscillating segment carries die letters on an arc, and a pointer on it is moved over a fixed letter arc on the frame; when the pointer registers with a letter, the die beneath a vertical plunger is struck into the paper on an adjustable bed. |
 | [US175584](../patents/US175584.md) | 1876 | Arnold, Benjamin | A lever swung over a notched arc turns a vertical shaft carrying a raised-letter plate to the selected letter, and pressing the lever into the notch rubs a marker over the letter against the paper while the notch depth sets the carriage feed. |
 | [US202143](../patents/US202143.md) | 1878 | Brady - Warner, Gilbert A. - Francis F. | A crank arm with a spring-loaded pin is turned over a graduated face plate (geared to the type wheel) and the pin dropped in a flaring hole beside the letter, which corrects the wheel position and also presses a platform that lifts the paper against the type; a separate lever then screws the type wheel sideways one space. |
 | [US210739](../patents/US210739.md) | 1878 | Anderson - Anderson, Homer - Frank | An oscillating type carrier holds two rows of detachable vertical types that are struck by a hammer, positioned by an index and lever, with a belt that spaces the paper carriage unequal distances. |
@@ -61,6 +62,7 @@ Arm swung over an arc or semicircular scale to choose the character
 | [US895088](../patents/US895088.md) | 1908 | Hinklein, Johannes | The type carrier is two spaced disks on a shaft with concentric notches guiding sliding type bars, turned by a lever-and-segment index and struck by a hammer, with vertical carrier shift for the second row. |
 | [US953489](../patents/US953489.md) | 1910 | Petit, Nelzire Francis | A rubber type disk carried on a small hand-moved carriage is turned by a pointer arm over a serrated-edge dial, and pressing the carriage down onto a rolling platen prints the selected type while an alternating tooth pair advances the carriage one space. |
 | [US1074858](../patents/US1074858.md) | 1913 | Groyen, Ferdinand | A toothed gear wheel coupled to the platen shaft by a clutch, driven by a lever-operated toothed sector on a slide that can be thrown out of mesh, positions the platen to any staff line or space. |
+| [DE319715](../patents/DE319715.md) | 1920 | Maschb, Mechanik Automobil Und | A type wheel carries both hole patterns (Braille) and block letters, with a spring-pin stamp on the opposite side of the paper pressing paper into the holes while the type prints, so both appear on the same side, reading left to right. |
 | [DE348153](../patents/DE348153.md) | 1922 | Hoffmann, Ferdinand | One swingable, radially pressable bracket on the housing both sets the type wheel and prints, and its return stroke advances the whole machine and the ribbon. |
 | [DE386555](../patents/DE386555.md) | 1923 | Muchajer, Paul | A guide lever coupled to the stylus lever carries a wedge that raises the type wheel to the selected row as the stylus moves over a three-ring character plate. |
 | [DE393929](../patents/DE393929.md) | 1924 | Emig, Georg | Put the pointer and character plate in the machine's symmetry plane directly above the type wheel axis, and have the pointer drive the wheel through a toothed segment and gear. |

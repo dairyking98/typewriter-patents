@@ -2,7 +2,7 @@
 
 Ink disc
 
-**12 patents**, 1885–1903. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (5), [ESC:space-key](../features/esc-space-key.md) (5), [SEL:selector-locking](../features/sel-selector-locking.md) (4), [ESC:print-and-space](../features/esc-print-and-space.md) (4), [ESC:carriage-release](../features/esc-carriage-release.md) (4), [PAP:platen-roller](../features/pap-platen-roller.md) (4), [ELEM:alignment-lock](../features/elem-alignment-lock.md) (4), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (4)
+**13 patents**, 1885–1933. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (5), [ESC:space-key](../features/esc-space-key.md) (5), [SEL:selector-locking](../features/sel-selector-locking.md) (4), [ESC:print-and-space](../features/esc-print-and-space.md) (4), [ESC:carriage-release](../features/esc-carriage-release.md) (4), [PAP:platen-roller](../features/pap-platen-roller.md) (4), [ELEM:alignment-lock](../features/elem-alignment-lock.md) (4), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (4)
 
 **Machines:** [Columbia Index 2](../machines/columbia-index-2.md) (2), [Columbia Index 1](../machines/columbia-index-1.md) (1)
 
@@ -22,3 +22,4 @@ Ink disc
 | [US599397](../patents/US599397.md) | 1898 | Marshman - Burridge, Newman R. - Lee S. | Two independently pivoted rubber-type segments, each with a rigid finger-ring handle swung over a keyboard of imitation finger keys, so both hands select and one common impression device prints. |
 | [US691189](../patents/US691189.md) | 1902 | Sears, Charles | A fixed finger enters a groove in the oscillating type segment to stop it moving up or down at the impression point, with a paper-moving shield. |
 | [US726235](../patents/US726235.md) | 1903 | Uhlig, Richard W. | A circular flexible inked disc ribbon between type-wheel and platen, mounted on the swinging type-wheel frame and rotated each stroke. |
+| [DE579492](../patents/DE579492.md) | 1933 | Fa, Alfred Dassler | A round ink plate is turned by a one-way gear from the moving carriage, and a rubbing roller applies ink to the plate and works it in before the plate inks the types; the transfer rate is adjustable with a pressure screw. |

@@ -2,7 +2,7 @@
 
 Flat type plate or matrix of characters
 
-**75 patents**, 1850–1950. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (48), [ESC:print-and-space](../features/esc-print-and-space.md) (42), [PAP:line-space](../features/pap-line-space.md) (30), [SEL:selector-locking](../features/sel-selector-locking.md) (30), [IMP:hammer-behind](../features/imp-hammer-behind.md) (27), [PAP:platen-roller](../features/pap-platen-roller.md) (27), [FRM:few-parts](../features/frm-few-parts.md) (26), [IMP:press-through](../features/imp-press-through.md) (25)
+**80 patents**, 1850–1950. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (48), [ESC:print-and-space](../features/esc-print-and-space.md) (42), [PAP:line-space](../features/pap-line-space.md) (30), [SEL:selector-locking](../features/sel-selector-locking.md) (30), [IMP:hammer-behind](../features/imp-hammer-behind.md) (27), [PAP:platen-roller](../features/pap-platen-roller.md) (27), [FRM:few-parts](../features/frm-few-parts.md) (26), [INK:ribbon](../features/ink-ribbon.md) (26)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Postal 5](../machines/postal-5.md) (1)
 
@@ -11,6 +11,7 @@ Flat type plate or matrix of characters
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
 | [US7771](../patents/US7771.md) | 1850 | Eddy, Oliver T. | A grid of spring-held type bars is moved in two directions until the wanted type lies over a hole in a fixed inking plate, then pressed through onto the paper. |
+| [US22423](../patents/US22423.md) | 1858 | Harger, Henry | A bed-piece pivoted on the frame carries a sliding frame of type plates, which are actuated to print directly on paper or to make impressions in wax for electrotype moulds. |
 | [US57182](../patents/US57182.md) | 1866 | Peeler, Abner | A plate of raised characters is moved by finger plates and ratchets over the paper, and a hinged lever with a pin presses the chosen character onto the paper. |
 | [US81000](../patents/US81000.md) | 1868 | Pratt, John | A single flat plate bearing all the type is moved in a vertical and a horizontal direction by two oscillating rods, whose throw is set per key by adjusting screws, so any character arrives at one fixed point where a spring-driven hammer strikes the paper and carbon against it. |
 | [US206160](../patents/US206160.md) | 1878 | Bellows, Benjamin F. | Thirty keys pick a type from a closely packed holder struck by one weighted hammer, with two shift keys sliding the holder sideways to select capitals or figures. |
@@ -80,7 +81,11 @@ Flat type plate or matrix of characters
 | [US953489](../patents/US953489.md) | 1910 | Petit, Nelzire Francis | A rubber type disk carried on a small hand-moved carriage is turned by a pointer arm over a serrated-edge dial, and pressing the carriage down onto a rolling platen prints the selected type while an alternating tooth pair advances the carriage one space. |
 | [US1031541](../patents/US1031541.md) | 1912 | Duncan, Joseph S. | Run the ribbon diagonally across the path of the type forms and feed it a small step each time so the whole width is used. |
 | [US1056159](../patents/US1056159.md) | 1913 | Emeliantzeff, Gregory | Spring-loaded hooks grip the eye of each type plate while the holder is raised and turned, and are released by fixed levers when the holder is lowered so the driving pin can move the plate. |
+| [DE369522](../patents/DE369522.md) | 1923 | Krejniker, Arpad | Each of 88 thin template plates carries a grid of guide slots and transmission pins that drive the print pins; a key lever advances the chosen plate, and plates are interchangeable so a different font can be fitted to the same machine. |
+| [DE375016](../patents/DE375016.md) | 1923 |  | The retaining slide has projecting edges that overlap the plate and are held under frame projections, so the plate needs no recesses; the slide is thin and bends in, and in one form it is pulled in and out with a key. |
+| [DE406084](../patents/DE406084.md) | 1924 |  | A flat printer with fixed plate and travelling roller frame prints with inking rollers and ribbon in one pass. |
 | [DE494598](../patents/DE494598.md) | 1930 | Roth, Franz | Each type body carries characters on two opposite sides and the frame is turned 180 degrees to switch between them, halving the number of bodies. |
+| [DE562590](../patents/DE562590.md) | 1932 |  | Guide surfaces on the clamping jaws and straightened plate edges line the key plates up automatically when placed. |
 | [DE683955](../patents/DE683955.md) | 1939 | Strauss, Emil | Six keys, three for each axis and weighted 1, 2, 4, with their movements adding when pressed together, select any of 126 types on a type plate or cylinder following a Braille dot pattern, then a hammer prints. |
 | [DE657070](../patents/DE657070.md) | 1942 | Sander, Ernst | Each key's pin depresses a spring-mounted grate that first swings a fan of type carriers out until the carrier's stop meets the pressed key's pin, then trips the hammer and advance. |
 | [DE842207](../patents/DE842207.md) | 1949 | Broecker, Ludwine | Split the type carriage into a lower part that always moves to its far limit and an upper part carrying the type blocks that is stopped at the right position and decoupled. |

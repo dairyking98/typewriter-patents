@@ -8,22 +8,22 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [SEL:keyboard-full](../features/sel-keyboard-full.md) | One key per character (typebar-style keyboard) | 926 | 6 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▂█▄▂▁▁▁▁` |  |
-| [SEL:selector-locking](../features/sel-selector-locking.md) | Detent or locking that holds the selected position during printing | 417 | 57 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁▁▁▃█▄▁▁▁▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [SEL:differential-drive](../features/sel-differential-drive.md) | Keys or levers drive the carrier through differential gearing or racks to a position | 218 | 9 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁ ▂█▄▁▁▁▁▁` |  |
-| [SEL:pointer-chart](../features/sel-pointer-chart.md) | Pointer or stylus moved over a flat character chart; a separate key or lever prints | 142 | 47 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▆█▁▁▂▁  ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md), [Gerda 2](../machines/gerda-2.md) |
-| [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) | Small keyboard where each key picks a position and shift keys pick the row | 122 | 1 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▃█▃▁▁▁▁ ` |  |
-| [SEL:pointer-hole](../features/sel-pointer-hole.md) | Pointer dropped into a hole or notch for each character; locates the carrier | 96 | 24 | 1852 [US8980](../patents/US8980.md) | 1880s | `   ▁ ▁█▇▁▁▁   ` |  |
-| [SEL:linear-slider](../features/sel-linear-slider.md) | Slider or carriage moved along a straight index | 85 | 14 | 1850 [US7771](../patents/US7771.md) | 1890s | `   ▁ ▁▇█▃▁▁▁▁ ` |  |
-| [SEL:pointer-press-prints](../features/sel-pointer-press-prints.md) | Pressing the pointer itself prints (select and print in one motion) | 81 | 16 | 1852 [US8980](../patents/US8980.md) | 1880s | `   ▁ ▁█▆▂▁▁▁  ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [SEL:dummy-keyboard](../features/sel-dummy-keyboard.md) | Keys that only set the carrier position (index by keys); one print action | 65 | 2 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁ ▂█▆▁▁▁▁ ` |  |
-| [SEL:arc-arm](../features/sel-arc-arm.md) | Arm swung over an arc or semicircular scale to choose the character | 57 | 21 | 1876 [US175584](../patents/US175584.md) | 1890s | `     ▁▆█▁▁▁▁  ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
-| [SEL:dial](../features/sel-dial.md) | Dial or knob turned to the character; carrier coupled rotationally | 51 | 21 | 1856 [US14907](../patents/US14907.md) | 1880s | `   ▁▁▂██▃▁▁   ` |  |
-| [SEL:index-wheel](../features/sel-index-wheel.md) | Hand wheel carrying the characters turned directly (the element is the index) | 46 | 15 | 1843 [US3228](../patents/US3228.md) | 1880s | `  ▁▁ ▁██▂▁    ` |  |
-| [SEL:chart-interchangeable](../features/sel-chart-interchangeable.md) | Index chart or scale swapped with the element for other fonts or languages | 38 | 13 | 1880 [US232741](../patents/US232741.md) | 1880s | `      █▆▃▁ ▁  ` |  |
-| [SEL:stylus-plate](../features/sel-stylus-plate.md) | Stylus touched to a plate or balance-beam letter field | 5 | 0 | 1879 [US220356](../patents/US220356.md) | 1870s | `     ███  ██  ` |  |
+| [SEL:keyboard-full](../features/sel-keyboard-full.md) | One key per character (typebar-style keyboard) | 1256 | 6 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▂█▅▄▂▂▁▁` |  |
+| [SEL:selector-locking](../features/sel-selector-locking.md) | Detent or locking that holds the selected position during printing | 492 | 57 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁▁▁▃█▅▂▂▁▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [SEL:differential-drive](../features/sel-differential-drive.md) | Keys or levers drive the carrier through differential gearing or racks to a position | 241 | 9 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁ ▂█▄▂▁▁▁▁` |  |
+| [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) | Small keyboard where each key picks a position and shift keys pick the row | 168 | 1 | 1850 [US7652](../patents/US7652.md) | 1890s | `   ▁▁▁▃█▆▂▂▁▁▁` |  |
+| [SEL:pointer-chart](../features/sel-pointer-chart.md) | Pointer or stylus moved over a flat character chart; a separate key or lever prints | 158 | 47 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▆█▁▁▃▁  ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md), [Gerda 2](../machines/gerda-2.md) |
+| [SEL:pointer-hole](../features/sel-pointer-hole.md) | Pointer dropped into a hole or notch for each character; locates the carrier | 101 | 24 | 1852 [US8980](../patents/US8980.md) | 1880s | `   ▁ ▁█▇▁▁▁▁  ` |  |
+| [SEL:linear-slider](../features/sel-linear-slider.md) | Slider or carriage moved along a straight index | 99 | 15 | 1845 [US4271](../patents/US4271.md) | 1890s | `  ▁▁ ▁▇█▄▂▂▁▁ ` |  |
+| [SEL:pointer-press-prints](../features/sel-pointer-press-prints.md) | Pressing the pointer itself prints (select and print in one motion) | 85 | 16 | 1852 [US8980](../patents/US8980.md) | 1880s | `   ▁ ▁█▆▂▁▁▁  ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [SEL:dummy-keyboard](../features/sel-dummy-keyboard.md) | Keys that only set the carrier position (index by keys); one print action | 74 | 2 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁ ▂█▆▁▁▁▁ ` |  |
+| [SEL:arc-arm](../features/sel-arc-arm.md) | Arm swung over an arc or semicircular scale to choose the character | 59 | 21 | 1871 [US115287](../patents/US115287.md) | 1890s | `     ▁▆█▁▁▂▁  ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
+| [SEL:dial](../features/sel-dial.md) | Dial or knob turned to the character; carrier coupled rotationally | 58 | 21 | 1856 [US14907](../patents/US14907.md) | 1880s | `   ▁▁▃██▄▁▁▁  ` |  |
+| [SEL:index-wheel](../features/sel-index-wheel.md) | Hand wheel carrying the characters turned directly (the element is the index) | 49 | 15 | 1843 [US3228](../patents/US3228.md) | 1880s | `  ▁▁▁▁██▂▁ ▁  ` |  |
+| [SEL:chart-interchangeable](../features/sel-chart-interchangeable.md) | Index chart or scale swapped with the element for other fonts or languages | 46 | 13 | 1880 [US232741](../patents/US232741.md) | 1880s | `      █▆▄▂▂▂  ` |  |
+| [SEL:stylus-plate](../features/sel-stylus-plate.md) | Stylus touched to a plate or balance-beam letter field | 6 | 0 | 1879 [US220356](../patents/US220356.md) | 1920s | `     ▄▄▄  █▄  ` |  |
 
-## Index-type patents, oldest first (95)
+## Index-type patents, oldest first (96)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -121,4 +121,5 @@
 | 1924 | [DE393929](../patents/DE393929.md) | Emig, Georg | index | Put the pointer and character plate in the machine's symmetry plane directly above the type wheel axis, and have the pointer drive the wheel through a toothed segment… | pointer-chart, arc-arm, selector-locking |
 | 1925 | [DE422744](../patents/DE422744.md) |  | index | A detachable pliers-and-flap coupling links the adder's adjusting slide to the typewriter's setting pointer so the pointer follows the digit rack pulled on the adder. | pointer-chart |
 | 1926 | [DE426869](../patents/DE426869.md) |  | index | A backspace key lever depresses the writing-key switch frame to disengage the forward pawl and, through a parallelogram linkage, engages a reset pawl that pulls the… | pointer-chart |
+| 1928 | [DE466818](../patents/DE466818.md) | Kaftanski, Alfons | index | A hand-held device with a type wheel whose faces carry note marks, pressed by a button onto an ink pad; a geared rack sets four heights and a linear scale moves the… | linear-slider |
 | 1930 | [DE489650](../patents/DE489650.md) | Arondel, Maurice Leon | index | Incline the type carriers and their guide plate downward so they rest below the writing line, leaving it visible and shortening the machine. | keyboard-full |

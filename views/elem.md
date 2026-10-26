@@ -8,25 +8,25 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [ELEM:typebar](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 1231 | 9 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▂█▅▅▁▁▁ ` |  |
-| [ELEM:wheel-rim](../features/elem-wheel-rim.md) | Types on the rim of a wheel (face parallel to axis) | 311 | 48 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▄▁▁▁▁▁` | [Gerda 2](../machines/gerda-2.md) |
-| [ELEM:alignment-lock](../features/elem-alignment-lock.md) | Locking pin or tooth that aligns the type exactly at the print point | 257 | 28 | 1856 [US14919](../patents/US14919.md) | 1890s | `   ▁ ▁▂█▄▁▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ELEM:interchangeable](../features/elem-interchangeable.md) | Element made to be removed and replaced (fonts or languages) | 180 | 19 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▅█▅▃▂▁▁ ` |  |
-| [ELEM:individual-slugs](../features/elem-individual-slugs.md) | Separate type slugs or plungers selected and driven individually | 167 | 10 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▂▄█▄▁▂▁▁▁` |  |
-| [ELEM:cylinder-multirow](../features/elem-cylinder-multirow.md) | Type cylinder with several rows along its length | 151 | 8 | 1876 [US181463](../patents/US181463.md) | 1890s | `     ▁▃█▃▂▂▃▁ ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [ELEM:rubber-type](../features/elem-rubber-type.md) | Elastic or rubber types | 119 | 25 | 1879 [US217444](../patents/US217444.md) | 1890s | `     ▁▄█▁▁▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ELEM:sector-segment](../features/elem-sector-segment.md) | Curved type sector or segment (e.g. Hammond shuttle) | 116 | 14 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▃█▄▂▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ELEM:plate-flat](../features/elem-plate-flat.md) | Flat type plate or matrix of characters | 75 | 10 | 1850 [US7771](../patents/US7771.md) | 1890s | `   ▁▁▁▄█▁▁ ▁▁▁` |  |
-| [ELEM:disc-face](../features/elem-disc-face.md) | Types on the face of a disc (face perpendicular to axis) | 70 | 13 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▅█▂▁▁▁▁ ` |  |
-| [ELEM:element-construction](../features/elem-element-construction.md) | How the element itself is made or assembled | 69 | 4 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▄█▂▂▁▁▁ ` |  |
-| [ELEM:metal-type](../features/elem-metal-type.md) | Metal types (cast or stamped) | 66 | 8 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▆█▂▁▁▁  ` |  |
-| [ELEM:hub-keying](../features/elem-hub-keying.md) | How the element mounts and keys to its shaft or hub | 49 | 2 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▂▄█▆▂▂▁▂ ` |  |
-| [ELEM:linear-bar](../features/elem-linear-bar.md) | Types along a straight bar or rule | 37 | 5 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▇█▃▁▁▁  ` |  |
-| [ELEM:ring](../features/elem-ring.md) | Types on a ring or annulus | 34 | 4 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▇█▂▁ ▁  ` |  |
-| [ELEM:band](../features/elem-band.md) | Flexible type band or belt | 19 | 3 | 1886 [US347373](../patents/US347373.md) | 1890s | `      ▃██▂▅▃▂ ` |  |
+| [ELEM:typebar](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 2106 | 9 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁▁▁▁▆█▆▃▂▁▁` |  |
+| [ELEM:wheel-rim](../features/elem-wheel-rim.md) | Types on the rim of a wheel (face parallel to axis) | 355 | 48 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▂▂▂▁▁` | [Gerda 2](../machines/gerda-2.md) |
+| [ELEM:alignment-lock](../features/elem-alignment-lock.md) | Locking pin or tooth that aligns the type exactly at the print point | 301 | 28 | 1856 [US14919](../patents/US14919.md) | 1890s | `   ▁ ▁▂█▅▂▂▂▁ ` | [American Index](../machines/american-index.md) |
+| [ELEM:interchangeable](../features/elem-interchangeable.md) | Element made to be removed and replaced (fonts or languages) | 231 | 19 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▅█▆▄▅▂▁ ` |  |
+| [ELEM:individual-slugs](../features/elem-individual-slugs.md) | Separate type slugs or plungers selected and driven individually | 198 | 10 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▂▄█▅▁▂▂▁▁` |  |
+| [ELEM:cylinder-multirow](../features/elem-cylinder-multirow.md) | Type cylinder with several rows along its length | 179 | 8 | 1875 [US169757](../patents/US169757.md) | 1890s | `     ▁▃█▅▂▄▃▁ ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [ELEM:element-construction](../features/elem-element-construction.md) | How the element itself is made or assembled | 160 | 4 | 1863 [US39296](../patents/US39296.md) | 1900s | `    ▁▁▃▅█▅▄▃▁ ` |  |
+| [ELEM:sector-segment](../features/elem-sector-segment.md) | Curved type sector or segment (e.g. Hammond shuttle) | 156 | 14 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▃█▆▄▁▁▁▁` | [American Index](../machines/american-index.md) |
+| [ELEM:rubber-type](../features/elem-rubber-type.md) | Elastic or rubber types | 120 | 25 | 1879 [US217444](../patents/US217444.md) | 1890s | `     ▁▄█▁▁▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [ELEM:disc-face](../features/elem-disc-face.md) | Types on the face of a disc (face perpendicular to axis) | 86 | 14 | 1858 [US20081](../patents/US20081.md) | 1890s | `   ▁▁▁▅█▃▁▁▁▁ ` |  |
+| [ELEM:plate-flat](../features/elem-plate-flat.md) | Flat type plate or matrix of characters | 80 | 10 | 1850 [US7771](../patents/US7771.md) | 1890s | `   ▁▁▁▄█▁▁▁▁▁▁` |  |
+| [ELEM:metal-type](../features/elem-metal-type.md) | Metal types (cast or stamped) | 78 | 8 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▆█▂▁▂▁▁ ` |  |
+| [ELEM:hub-keying](../features/elem-hub-keying.md) | How the element mounts and keys to its shaft or hub | 61 | 2 | 1875 [US171408](../patents/US171408.md) | 1900s | `     ▁▄▇█▃▂▁▁ ` |  |
+| [ELEM:linear-bar](../features/elem-linear-bar.md) | Types along a straight bar or rule | 44 | 5 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▇█▃▁▃▂  ` |  |
+| [ELEM:ring](../features/elem-ring.md) | Types on a ring or annulus | 36 | 4 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▇█▂▁ ▁  ` |  |
+| [ELEM:band](../features/elem-band.md) | Flexible type band or belt | 22 | 3 | 1886 [US347373](../patents/US347373.md) | 1890s | `      ▃██▂█▅▂ ` |  |
 | [ELEM:sphere](../features/elem-sphere.md) | Types on a sphere or hemisphere | 15 | 0 | 1872 [US125952](../patents/US125952.md) | 1870s | `     █▆▄▆▆    ` |  |
 
-## Index-type patents, oldest first (99)
+## Index-type patents, oldest first (100)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -128,4 +128,5 @@
 | 1924 | [DE393929](../patents/DE393929.md) | Emig, Georg | index | Put the pointer and character plate in the machine's symmetry plane directly above the type wheel axis, and have the pointer drive the wheel through a toothed segment… | wheel-rim |
 | 1925 | [DE422744](../patents/DE422744.md) |  | index | A detachable pliers-and-flap coupling links the adder's adjusting slide to the typewriter's setting pointer so the pointer follows the digit rack pulled on the adder. | wheel-rim |
 | 1926 | [DE426869](../patents/DE426869.md) |  | index | A backspace key lever depresses the writing-key switch frame to disengage the forward pawl and, through a parallelogram linkage, engages a reset pawl that pulls the… | cylinder-multirow |
+| 1928 | [DE466818](../patents/DE466818.md) | Kaftanski, Alfons | index | A hand-held device with a type wheel whose faces carry note marks, pressed by a button onto an ink pad; a geared rack sets four heights and a linear scale moves the… | disc-face |
 | 1930 | [DE489650](../patents/DE489650.md) | Arondel, Maurice Leon | index | Incline the type carriers and their guide plate downward so they rest below the writing line, leaving it visible and shortening the machine. | individual-slugs |

@@ -8,17 +8,17 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 357 | 39 | 1875 [US171139](../patents/US171139.md) | 1890s | `     ▁▂█▄▃▁▁▁▁` |  |
-| [USE:book-typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 81 | 6 | 1881 [DE16716](../patents/DE16716.md) | 1890s | `      ▁█▅▁▁▁  ` |  |
-| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 61 | 2 | 1890 [US441232](../patents/US441232.md) | 1910s | `       ▄▅█▆▄▃▁` |  |
-| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 57 | 1 | 1879 [US217210](../patents/US217210.md) | 1910s | `     ▁▄▆▇█▃▁▁ ` |  |
-| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 40 | 1 | 1872 [US133841](../patents/US133841.md) | 1890s | `     ▂▅█▇▃▁▁▁▁` |  |
-| [USE:stenotype](../features/use-stenotype.md) | Shorthand or stenographic machine | 35 | 1 | 1868 [US81000](../patents/US81000.md) | 1910s | `    ▁▂▃▆▄█ ▅  ` |  |
-| [USE:blind](../features/use-blind.md) | For the blind (embossing | 22 | 0 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁▁  ▄▇█  ▁  ` |  |
-| [USE:toy](../features/use-toy.md) | Toy or educational machine | 19 | 3 | 1876 [US175661](../patents/US175661.md) | 1890s | `     ▂▆██▂▂█▂ ` |  |
-| [USE:check-writer](../features/use-check-writer.md) | Check writer or amount printer | 7 | 0 | 1893 [US511313](../patents/US511313.md) | 1900s | `       ▅█▃   ▃` |  |
+| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 474 | 39 | 1875 [US171139](../patents/US171139.md) | 1890s | `     ▁▂█▇▅▁▁▁▁` |  |
+| [USE:book-typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 120 | 6 | 1881 [DE16716](../patents/DE16716.md) | 1900s | `      ▁▇█▂▁▂▁ ` |  |
+| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 109 | 2 | 1879 [US217210](../patents/US217210.md) | 1900s | `     ▁▂▃██▆▂▁ ` |  |
+| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 93 | 2 | 1890 [US441232](../patents/US441232.md) | 1930s | `       ▃▅▇▇█▂▁` |  |
+| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 58 | 1 | 1872 [US133841](../patents/US133841.md) | 1900s | `     ▂▄▆█▃▃▃▂▁` |  |
+| [USE:stenotype](../features/use-stenotype.md) | Shorthand or stenographic machine | 49 | 1 | 1868 [US81000](../patents/US81000.md) | 1910s | `    ▁▄▂▄▄█▁▆ ▁` |  |
+| [USE:blind](../features/use-blind.md) | For the blind (embossing | 42 | 0 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁▁ ▁▂▄█▂▅▂  ` |  |
+| [USE:toy](../features/use-toy.md) | Toy or educational machine | 25 | 3 | 1876 [US175661](../patents/US175661.md) | 1930s | `     ▁▄▅▇▄▃█▁ ` |  |
+| [USE:check-writer](../features/use-check-writer.md) | Check writer or amount printer | 10 | 0 | 1893 [US511313](../patents/US511313.md) | 1900s | `       ▅█▅▃▃ ▃` |  |
 
-## Index-type patents, oldest first (50)
+## Index-type patents, oldest first (51)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | 1923 | [DE366618](../patents/DE366618.md) | Navarre, Gaston | index | A carriage-mounted ratchet wheel with a presettable pointer counts line feeds and rings a bell at the chosen line. | accessory |
 | 1924 | [DE406096](../patents/DE406096.md) |  | index | Mount the line pointer on a slider on the clamping strip so it lifts and folds down with the clamp in one motion. | accessory |
 | 1925 | [DE422744](../patents/DE422744.md) |  | index | A detachable pliers-and-flap coupling links the adder's adjusting slide to the typewriter's setting pointer so the pointer follows the digit rack pulled on the adder. | calculating, accessory |
+| 1928 | [DE466818](../patents/DE466818.md) | Kaftanski, Alfons | index | A hand-held device with a type wheel whose faces carry note marks, pressed by a button onto an ink pad; a geared rack sets four heights and a linear scale moves the… | special-script |
 | 1931 | [DE521627](../patents/DE521627.md) |  | index | The pivoting upper part is pressed by a torsion spring against a horizontally rotatable flatted disc, so turning the disc sets the holder to the working or rest position. | accessory |
 | 1931 | [DE524809](../patents/DE524809.md) |  | index | Both the cable and its sheath are hung in sprung open eyes so the owner can detach and replace the Bowden cable. | accessory |
 | 1932 | [DE545922](../patents/DE545922.md) | Sa, Stenotype Grandjean | index | A one-piece pawl with a switching tooth and a trailing safety tooth, plus an adjustable stop on the holder, moves the ratchet exactly one tooth per stroke. | stenotype |

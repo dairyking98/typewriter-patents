@@ -8,11 +8,11 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [SHIFT:platen](../features/shift-platen.md) | Platen or carriage moves to change case | 619 | 7 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▆██▁▁▁▁` |  |
-| [SHIFT:triple](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 315 | 3 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▄▃▁▁▁ ` |  |
-| [SHIFT:axial](../features/shift-axial.md) | Element slides along its axis to change case or row | 279 | 11 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▄▂▁▁▁▁` |  |
-| [SHIFT:lock](../features/shift-lock.md) | Shift lock | 167 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁██▆▁▁▁▁` |  |
-| [SHIFT:rotary](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 114 | 13 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▄█▂▁▁▁▁ ` |  |
+| [SHIFT:platen](../features/shift-platen.md) | Platen or carriage moves to change case | 698 | 7 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▅██▂▁▁▁` |  |
+| [SHIFT:triple](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 340 | 3 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▄▃▂▁▁ ` |  |
+| [SHIFT:axial](../features/shift-axial.md) | Element slides along its axis to change case or row | 316 | 11 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▅▂▂▁▁▁` |  |
+| [SHIFT:lock](../features/shift-lock.md) | Shift lock | 181 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁██▆▂▁▁▁` |  |
+| [SHIFT:rotary](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 129 | 13 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▄█▄▂▁▁▁ ` |  |
 
 ## Index-type patents, oldest first (30)
 
