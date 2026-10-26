@@ -4,7 +4,13 @@
 
 Explicit aim of few parts
 
-**854 patents**, 1868–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (229), [Typebars](../features/elem-typebar.md) (198), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (187), [Roller platen](../features/pap-platen-roller.md) (181), [Element struck to the platen](../features/imp-element-to-platen.md) (161), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (152), [Selection locked for printing](../features/sel-selector-locking.md) (122), [Line spacing](../features/pap-line-space.md) (117)
+**854 patents**, 1868–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (187), [Selection locked for printing](../features/sel-selector-locking.md) (122)
+- **Type element:** [Typebars](../features/elem-typebar.md) (198)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (161)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (229), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (152)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (181), [Line spacing](../features/pap-line-space.md) (117)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (6), [Corona 3](../machines/corona-3.md) (5), [Gundka 3](../machines/gundka-3.md) (5), [Gundka 5](../machines/gundka-5.md) (5), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (4), [Fisher 2](../machines/fisher-2.md) (4), [Bar-Lock 12](../machines/bar-lock-12.md) (4), [Bar-Lock 14](../machines/bar-lock-14.md) (4), [Bar-Lock 15](../machines/bar-lock-15.md) (4), [Visigraph](../machines/visigraph.md) (4), [Caligraph 3](../machines/caligraph-3.md) (3), [Caligraph 4](../machines/caligraph-4.md) (3), [Caligraph 5](../machines/caligraph-5.md) (3), [Caligraph 6, 7](../machines/caligraph-6-7.md) (3), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (3)
 

@@ -4,7 +4,13 @@
 
 Automatic ribbon reversing
 
-**441 patents**, 1871–1950. Often together with: [Ribbon feed](../features/ink-ribbon-feed.md) (411), [Ink ribbon](../features/ink-ribbon.md) (298), [Typebars](../features/elem-typebar.md) (111), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (101), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (80), [Ribbon lift](../features/ink-ribbon-lift.md) (72), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (68), [Roller platen](../features/pap-platen-roller.md) (61)
+**441 patents**, 1871–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (68)
+- **Type element:** [Typebars](../features/elem-typebar.md) (111)
+- **Inking:** [Ribbon feed](../features/ink-ribbon-feed.md) (411), [Ink ribbon](../features/ink-ribbon.md) (298), [Ribbon lift](../features/ink-ribbon-lift.md) (72)
+- **Spacing and escapement:** [Mainspring-drawn carriage](../features/esc-spring-drum.md) (101), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (80)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (61)
 
 **Machines:** [L. C. Smith 7](../machines/l-c-smith-7.md) (3), [Caligraph 2](../machines/caligraph-2.md) (2), [Caligraph 3](../machines/caligraph-3.md) (2), [Caligraph 4](../machines/caligraph-4.md) (2), [Caligraph 5](../machines/caligraph-5.md) (2), [Caligraph 6, 7](../machines/caligraph-6-7.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Chicago 2](../machines/chicago-2.md) (2)
 

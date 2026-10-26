@@ -4,7 +4,12 @@
 
 Feed rollers and paper release
 
-**927 patents**, 1856–1950. Often together with: [Paper table and guides](../features/pap-paper-guide.md) (446), [Roller platen](../features/pap-platen-roller.md) (277), [Line spacing](../features/pap-line-space.md) (199), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (139), [Ink ribbon](../features/ink-ribbon.md) (109), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (87), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (87), [Space key or bar](../features/esc-space-key.md) (86)
+**927 patents**, 1856–1950. Often together with:
+
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (109)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (139), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (87), [Space key or bar](../features/esc-space-key.md) (86)
+- **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (446), [Roller platen](../features/pap-platen-roller.md) (277), [Line spacing](../features/pap-line-space.md) (199)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (87)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (4), [Blickensderfer 3](../machines/blickensderfer-3.md) (4), [Blickensderfer 4](../machines/blickensderfer-4.md) (4), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (4), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (4), [Blickensderfer 7](../machines/blickensderfer-7.md) (4), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (4), [Dactyle](../machines/dactyle.md) (4), [L. C. Smith 7](../machines/l-c-smith-7.md) (4), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Remington Port. Tab](../machines/remington-port-tab.md) (4), [Crown Index 1](../machines/crown-index-1.md) (3), [Crown Index 2](../machines/crown-index-2.md) (3), [Peoples](../machines/peoples.md) (3)
 

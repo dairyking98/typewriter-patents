@@ -4,7 +4,13 @@
 
 Bell near the line end
 
-**255 patents**, 1852–1935. Often together with: [Roller platen](../features/pap-platen-roller.md) (124), [Margin stops](../features/esc-margin-stop.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (113), [Line spacing](../features/pap-line-space.md) (101), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79), [Typebars](../features/elem-typebar.md) (78), [Ink ribbon](../features/ink-ribbon.md) (72), [Ribbon feed](../features/ink-ribbon-feed.md) (71)
+**255 patents**, 1852–1935. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79)
+- **Type element:** [Typebars](../features/elem-typebar.md) (78)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (72), [Ribbon feed](../features/ink-ribbon-feed.md) (71)
+- **Spacing and escapement:** [Margin stops](../features/esc-margin-stop.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (113)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (124), [Line spacing](../features/pap-line-space.md) (101)
 
 **Machines:** [Mercury 3](../machines/mercury-3.md) (3), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (3), [Blickensderfer 7](../machines/blickensderfer-7.md) (3), [Blickensderfer 8](../machines/blickensderfer-8.md) (3), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (3), [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (3), [L. C. Smith 6](../machines/l-c-smith-6.md) (3), [L. C. Smith 7](../machines/l-c-smith-7.md) (3), [Caligraph 3](../machines/caligraph-3.md) (2), [Caligraph 4](../machines/caligraph-4.md) (2), [Caligraph 5](../machines/caligraph-5.md) (2), [Caligraph 6, 7](../machines/caligraph-6-7.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2)
 

@@ -4,7 +4,15 @@
 
 Access for cleaning or element removal
 
-**453 patents**, 1876–1950. Often together with: [Typebars](../features/elem-typebar.md) (172), [Roller platen](../features/pap-platen-roller.md) (93), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (87), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (71), [Attachment or accessory](../features/use-accessory.md) (67), [Ink ribbon](../features/ink-ribbon.md) (64), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (59), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (50)
+**453 patents**, 1876–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (71)
+- **Type element:** [Typebars](../features/elem-typebar.md) (172)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (64)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (59), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (50)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (93)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (87)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (67)
 
 **Machines:** [Yost 15 - 19](../machines/yost-15-19.md) (5), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (5), [Underwood 4](../machines/underwood-4.md) (4), [Underwood 5](../machines/underwood-5.md) (4), [Alexander (1)](../machines/alexander-1.md) (4), [Alexander (2)](../machines/alexander-2.md) (4), [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (4), [L. C. Smith 6](../machines/l-c-smith-6.md) (4), [L. C. Smith 7](../machines/l-c-smith-7.md) (4), [National](../machines/national.md) (3), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (3), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (3), [Blickensderfer 7](../machines/blickensderfer-7.md) (3), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (3), [Bar-Lock 12](../machines/bar-lock-12.md) (3)
 

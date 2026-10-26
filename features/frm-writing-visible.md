@@ -4,7 +4,15 @@
 
 Writing visible to the operator while typing
 
-**648 patents**, 1876–1950. Often together with: [Typebars](../features/elem-typebar.md) (297), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (205), [Ink ribbon](../features/ink-ribbon.md) (203), [Roller platen](../features/pap-platen-roller.md) (187), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (182), [Element struck to the platen](../features/imp-element-to-platen.md) (180), [Line spacing](../features/pap-line-space.md) (138), [Shift by moving the platen](../features/shift-platen.md) (137)
+**648 patents**, 1876–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (205)
+- **Type element:** [Typebars](../features/elem-typebar.md) (297)
+- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (137)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (180)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (203)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (182)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (187), [Line spacing](../features/pap-line-space.md) (138)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (11), [Alexander (2)](../machines/alexander-2.md) (11), [Alexander (3)](../machines/alexander-3.md) (9), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (8), [Remington Junior](../machines/remington-junior.md) (7), [Corona 3](../machines/corona-3.md) (7), [Remington Portable 3](../machines/remington-portable-3.md) (5), [L. C. Smith 6](../machines/l-c-smith-6.md) (4), [L. C. Smith 7](../machines/l-c-smith-7.md) (4), [Brooks](../machines/brooks.md) (3), [Cash](../machines/cash.md) (3), [Yost 15 - 19](../machines/yost-15-19.md) (3), [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (3), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (3), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (3)
 

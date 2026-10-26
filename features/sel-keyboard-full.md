@@ -4,7 +4,14 @@
 
 One key per character (typebar-style keyboard)
 
-**1431 patents**, 1856–1950. Often together with: [Typebars](../features/elem-typebar.md) (771), [Element struck to the platen](../features/imp-element-to-platen.md) (423), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (377), [Roller platen](../features/pap-platen-roller.md) (269), [Space key or bar](../features/esc-space-key.md) (246), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (242), [Ink ribbon](../features/ink-ribbon.md) (229), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (213)
+**1431 patents**, 1856–1950. Often together with:
+
+- **Type element:** [Typebars](../features/elem-typebar.md) (771)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (423)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (229)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (377), [Space key or bar](../features/esc-space-key.md) (246), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (213)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (269)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (242)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (18), [Alexander (2)](../machines/alexander-2.md) (18), [Alexander (3)](../machines/alexander-3.md) (14), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (12), [Bar-Lock 12](../machines/bar-lock-12.md) (10), [Remington Junior](../machines/remington-junior.md) (10), [Caligraph 3](../machines/caligraph-3.md) (9), [Caligraph 4](../machines/caligraph-4.md) (9), [Caligraph 5](../machines/caligraph-5.md) (9), [Caligraph 6, 7](../machines/caligraph-6-7.md) (9), [Bar-Lock 14](../machines/bar-lock-14.md) (9), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (8), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (8), [Yost 4 - 9](../machines/yost-4-9.md) (8), [Yost 10 - 14](../machines/yost-10-14.md) (8)
 

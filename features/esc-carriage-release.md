@@ -4,7 +4,12 @@
 
 Carriage release
 
-**530 patents**, 1875–1948. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (273), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (171), [Tabulator](../features/esc-tabulator.md) (157), [Roller platen](../features/pap-platen-roller.md) (152), [Line spacing](../features/pap-line-space.md) (127), [Typebars](../features/elem-typebar.md) (123), [Space key or bar](../features/esc-space-key.md) (115), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (102)
+**530 patents**, 1875–1948. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (102)
+- **Type element:** [Typebars](../features/elem-typebar.md) (123)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (273), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (171), [Tabulator](../features/esc-tabulator.md) (157), [Space key or bar](../features/esc-space-key.md) (115)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (152), [Line spacing](../features/pap-line-space.md) (127)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (6), [Remington Portable 3](../machines/remington-portable-3.md) (6), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (5), [Remington Port. Tab](../machines/remington-port-tab.md) (5), [Blickensderfer 7](../machines/blickensderfer-7.md) (4), [Travis](../machines/travis.md) (4), [Yost 15 - 19](../machines/yost-15-19.md) (4), [Blickensderfer 5 Alu](../machines/blickensderfer-5-alu.md) (4), [Blickensderfer 6](../machines/blickensderfer-6.md) (4), [Blickensderfer 8](../machines/blickensderfer-8.md) (4), [L. C. Smith 7](../machines/l-c-smith-7.md) (4), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (4), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (4), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (3), [Williams 1 S](../machines/williams-1-s.md) (3)
 

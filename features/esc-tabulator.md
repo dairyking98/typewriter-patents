@@ -4,7 +4,11 @@
 
 Tabulator
 
-**626 patents**, 1890–1948. Often together with: [Margin stops](../features/esc-margin-stop.md) (167), [Carriage release](../features/esc-carriage-release.md) (157), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (94), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (76), [Typewriter with adding machine](../features/use-calculating.md) (52), [Attachment or accessory](../features/use-accessory.md) (45), [Typebars](../features/elem-typebar.md) (43), [Escape-wheel escapement](../features/esc-escape-wheel.md) (32)
+**626 patents**, 1890–1948. Often together with:
+
+- **Type element:** [Typebars](../features/elem-typebar.md) (43)
+- **Spacing and escapement:** [Margin stops](../features/esc-margin-stop.md) (167), [Carriage release](../features/esc-carriage-release.md) (157), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (94), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (76), [Escape-wheel escapement](../features/esc-escape-wheel.md) (32)
+- **Uses:** [Typewriter with adding machine](../features/use-calculating.md) (52), [Attachment or accessory](../features/use-accessory.md) (45)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (5), [Blickensderfer 3](../machines/blickensderfer-3.md) (5), [Blickensderfer 4](../machines/blickensderfer-4.md) (5), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (5), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (5), [Blickensderfer 7](../machines/blickensderfer-7.md) (5), [Blickensderfer 8](../machines/blickensderfer-8.md) (5), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (5), [Dactyle](../machines/dactyle.md) (5), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (5), [Remington Portable 3](../machines/remington-portable-3.md) (5), [Remington Port. Tab](../machines/remington-port-tab.md) (4), [Yost 15 - 19](../machines/yost-15-19.md) (2), [Remington Junior](../machines/remington-junior.md) (2), [L. C. Smith 7](../machines/l-c-smith-7.md) (2)
 

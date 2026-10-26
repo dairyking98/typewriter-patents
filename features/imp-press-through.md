@@ -4,7 +4,14 @@
 
 The operator's force presses the type through directly
 
-**260 patents**, 1843–1949. Often together with: [Prints and spaces in one stroke](../features/esc-print-and-space.md) (110), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (108), [Few parts, low cost](../features/frm-few-parts.md) (93), [Selection locked for printing](../features/sel-selector-locking.md) (79), [Roller platen](../features/pap-platen-roller.md) (73), [Element struck to the platen](../features/imp-element-to-platen.md) (70), [Flat bed or book typewriter](../features/pap-flat-bed.md) (63), [Separate type slugs or plungers](../features/elem-individual-slugs.md) (61)
+**260 patents**, 1843–1949. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (79)
+- **Type element:** [Separate type slugs or plungers](../features/elem-individual-slugs.md) (61)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (70)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (110), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (108)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (73), [Flat bed or book typewriter](../features/pap-flat-bed.md) (63)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (93)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Adlerwerke vorm. Heinr. Kleyer AG machine, 1898](../machines/adlerwerke-vorm-heinr-kleyer-ag-1898.md) (2), [Adler 8](../machines/adler-8.md) (2), [Empire 1 (A) (Canada)](../machines/empire-1-a-canada.md) (2), [Empire 1 (B) (Canada)](../machines/empire-1-b-canada.md) (2), [Empire 1 (C) (Canada)](../machines/empire-1-c-canada.md) (2), [Empire 2 (Canada)](../machines/empire-2-canada.md) (2), [Franklin 3, 4](../machines/franklin-3-4.md) (2)
 

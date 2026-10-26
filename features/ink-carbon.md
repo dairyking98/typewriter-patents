@@ -4,7 +4,12 @@
 
 Carbon paper or inked strip instead of ribbon
 
-**150 patents**, 1856–1948. Often together with: [Carbon copies](../features/pap-manifold.md) (53), [Ink ribbon](../features/ink-ribbon.md) (34), [Paper table and guides](../features/pap-paper-guide.md) (34), [Roller platen](../features/pap-platen-roller.md) (24), [Attachment or accessory](../features/use-accessory.md) (19), [Feed rollers and paper release](../features/pap-feed-rollers.md) (18), [Flat bed or book typewriter](../features/pap-flat-bed.md) (14), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (8)
+**150 patents**, 1856–1948. Often together with:
+
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (34)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (8)
+- **Paper and carriage:** [Carbon copies](../features/pap-manifold.md) (53), [Paper table and guides](../features/pap-paper-guide.md) (34), [Roller platen](../features/pap-platen-roller.md) (24), [Feed rollers and paper release](../features/pap-feed-rollers.md) (18), [Flat bed or book typewriter](../features/pap-flat-bed.md) (14)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (19)
 
 ## Patents, oldest first
 

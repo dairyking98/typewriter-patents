@@ -4,7 +4,14 @@
 
 Ribbon lift or vibrator to the print point
 
-**450 patents**, 1880–1950. Often together with: [Ink ribbon](../features/ink-ribbon.md) (304), [Typebars](../features/elem-typebar.md) (208), [Two-colour ribbon](../features/ink-ribbon-color.md) (170), [Ribbon feed](../features/ink-ribbon-feed.md) (139), [Shift by moving the platen](../features/shift-platen.md) (139), [Visible writing](../features/frm-writing-visible.md) (123), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (75)
+**450 patents**, 1880–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79)
+- **Type element:** [Typebars](../features/elem-typebar.md) (208)
+- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (139)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (304), [Two-colour ribbon](../features/ink-ribbon-color.md) (170), [Ribbon feed](../features/ink-ribbon-feed.md) (139)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (75)
+- **Frame and body:** [Visible writing](../features/frm-writing-visible.md) (123)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (6), [Alexander (2)](../machines/alexander-2.md) (6), [Alexander (3)](../machines/alexander-3.md) (5), [Monarch Pioneer](../machines/monarch-pioneer.md) (4), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Corona 3](../machines/corona-3.md) (4), [Cash](../machines/cash.md) (2), [Daugherty](../machines/daugherty.md) (2), [Pittsburg 9](../machines/pittsburg-9.md) (2), [Fisher 2](../machines/fisher-2.md) (2), [American Armstrong 7](../machines/american-armstrong-7.md) (2), [Nova](../machines/nova.md) (2), [Star](../machines/star.md) (2), [Sun 2, 4](../machines/sun-2-4.md) (2)
 

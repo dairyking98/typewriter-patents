@@ -4,7 +4,12 @@
 
 Paper table
 
-**1359 patents**, 1868–1950. Often together with: [Feed rollers and paper release](../features/pap-feed-rollers.md) (446), [Roller platen](../features/pap-platen-roller.md) (398), [Attachment or accessory](../features/use-accessory.md) (170), [Line spacing](../features/pap-line-space.md) (160), [Line and point indicator](../features/pap-line-indicator.md) (149), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (115), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (105), [Visible writing](../features/frm-writing-visible.md) (94)
+**1359 patents**, 1868–1950. Often together with:
+
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (115)
+- **Paper and carriage:** [Feed rollers and paper release](../features/pap-feed-rollers.md) (446), [Roller platen](../features/pap-platen-roller.md) (398), [Line spacing](../features/pap-line-space.md) (160), [Line and point indicator](../features/pap-line-indicator.md) (149)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (105), [Visible writing](../features/frm-writing-visible.md) (94)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (170)
 
 **Machines:** [Caligraph 3](../machines/caligraph-3.md) (4), [Caligraph 4](../machines/caligraph-4.md) (4), [Caligraph 5](../machines/caligraph-5.md) (4), [Caligraph 6, 7](../machines/caligraph-6-7.md) (4), [Williams 1 S](../machines/williams-1-s.md) (4), [Williams 2](../machines/williams-2.md) (4), [Williams 3](../machines/williams-3.md) (4), [Williams 4](../machines/williams-4.md) (4), [Williams 6](../machines/williams-6.md) (4), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Remington Port. Tab](../machines/remington-port-tab.md) (4), [Mercury 3](../machines/mercury-3.md) (3), [Yost 15 - 19](../machines/yost-15-19.md) (3), [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (3)
 

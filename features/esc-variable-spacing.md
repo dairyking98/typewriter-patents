@@ -4,7 +4,12 @@
 
 Proportional or variable letter spacing
 
-**339 patents**, 1843–1949. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (153), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (104), [Typebars](../features/elem-typebar.md) (84), [Space key or bar](../features/esc-space-key.md) (64), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (60), [Line spacing](../features/pap-line-space.md) (58), [Roller platen](../features/pap-platen-roller.md) (58), [Escape-wheel escapement](../features/esc-escape-wheel.md) (56)
+**339 patents**, 1843–1949. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (104)
+- **Type element:** [Typebars](../features/elem-typebar.md) (84)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (153), [Space key or bar](../features/esc-space-key.md) (64), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (60), [Escape-wheel escapement](../features/esc-escape-wheel.md) (56)
+- **Paper and carriage:** [Line spacing](../features/pap-line-space.md) (58), [Roller platen](../features/pap-platen-roller.md) (58)
 
 **Machines:** [Brooks](../machines/brooks.md) (3), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Crown Index 1](../machines/crown-index-1.md) (2), [Crown Index 2](../machines/crown-index-2.md) (2), [Peoples](../machines/peoples.md) (2), [Travis](../machines/travis.md) (2), [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1)
 

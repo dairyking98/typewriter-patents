@@ -4,7 +4,15 @@
 
 Pivoted typebars (one or two characters each)
 
-**2296 patents**, 1856–1950. Often together with: [Full keyboard, a key per character](../features/sel-keyboard-full.md) (771), [Element struck to the platen](../features/imp-element-to-platen.md) (519), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (504), [Shift by moving the platen](../features/shift-platen.md) (436), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (405), [Ink ribbon](../features/ink-ribbon.md) (321), [Visible writing](../features/frm-writing-visible.md) (297), [Roller platen](../features/pap-platen-roller.md) (273)
+**2296 patents**, 1856–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (771)
+- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (436)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (519)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (321)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (405)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (273)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (504), [Visible writing](../features/frm-writing-visible.md) (297)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (22), [Alexander (1)](../machines/alexander-1.md) (19), [Alexander (2)](../machines/alexander-2.md) (19), [Remington Portable 3](../machines/remington-portable-3.md) (17), [Remington Junior](../machines/remington-junior.md) (14), [Alexander (3)](../machines/alexander-3.md) (14), [Corona 3](../machines/corona-3.md) (14), [Yost 4 - 9](../machines/yost-4-9.md) (11), [Yost 10 - 14](../machines/yost-10-14.md) (11), [Bar-Lock 12](../machines/bar-lock-12.md) (11), [Bar-Lock 14](../machines/bar-lock-14.md) (10), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (10), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (10), [Remington Port. Tab](../machines/remington-port-tab.md) (10), [Caligraph 3](../machines/caligraph-3.md) (9)
 

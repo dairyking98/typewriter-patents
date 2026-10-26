@@ -4,7 +4,14 @@
 
 Element turns by a fixed angle to change case
 
-**133 patents**, 1875–1949. Often together with: [Element struck to the platen](../features/imp-element-to-platen.md) (61), [Typebars](../features/elem-typebar.md) (56), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (52), [Selection locked for printing](../features/sel-selector-locking.md) (47), [Three or more cases](../features/shift-triple.md) (42), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (39), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (38), [Few parts, low cost](../features/frm-few-parts.md) (38)
+**133 patents**, 1875–1949. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (52), [Selection locked for printing](../features/sel-selector-locking.md) (47)
+- **Type element:** [Typebars](../features/elem-typebar.md) (56)
+- **Shift and cases:** [Three or more cases](../features/shift-triple.md) (42)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (61)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (39), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (38)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (38)
 
 **Machines:** [Fisher 2](../machines/fisher-2.md) (4), [Velograph 2](../machines/velograph-2.md) (2), [Cash](../machines/cash.md) (2), [Chicago 2](../machines/chicago-2.md) (2), [Munson 1](../machines/munson-1.md) (2), [Fisher 1](../machines/fisher-1.md) (2), [Crandall No. 3](../machines/crandall-no-3.md) (1), [Morris](../machines/morris.md) (1), [Columbia Index 1](../machines/columbia-index-1.md) (1), [Columbia Index 2](../machines/columbia-index-2.md) (1), [National](../machines/national.md) (1), [Postal 5](../machines/postal-5.md) (1), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1)
 

@@ -4,7 +4,14 @@
 
 Small
 
-**403 patents**, 1863–1951. Often together with: [Typebars](../features/elem-typebar.md) (113), [Few parts, low cost](../features/frm-few-parts.md) (96), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (85), [Roller platen](../features/pap-platen-roller.md) (73), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (65), [Element struck to the platen](../features/imp-element-to-platen.md) (64), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (63), [Line spacing](../features/pap-line-space.md) (61)
+**403 patents**, 1863–1951. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (65)
+- **Type element:** [Typebars](../features/elem-typebar.md) (113)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (64)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (85), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (63)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (73), [Line spacing](../features/pap-line-space.md) (61)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (96)
 
 **Machines:** [Corona 3](../machines/corona-3.md) (20), [Corona 4](../machines/corona-4.md) (7), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Williams 1 S](../machines/williams-1-s.md) (2), [Williams 2](../machines/williams-2.md) (2), [Williams 3](../machines/williams-3.md) (2), [Williams 4](../machines/williams-4.md) (2), [Williams 6](../machines/williams-6.md) (2)
 

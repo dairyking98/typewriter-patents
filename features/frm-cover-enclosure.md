@@ -4,7 +4,15 @@
 
 Cover or enclosure of the mechanism
 
-**265 patents**, 1870–1950. Often together with: [Frame construction](../features/frm-frame-construction.md) (53), [Typebars](../features/elem-typebar.md) (49), [Portable or compact](../features/frm-compact-portable.md) (48), [Attachment or accessory](../features/use-accessory.md) (36), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (35), [Roller platen](../features/pap-platen-roller.md) (31), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (30), [Ink ribbon](../features/ink-ribbon.md) (27)
+**265 patents**, 1870–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (35)
+- **Type element:** [Typebars](../features/elem-typebar.md) (49)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (27)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (30)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (31)
+- **Frame and body:** [Frame construction](../features/frm-frame-construction.md) (53), [Portable or compact](../features/frm-compact-portable.md) (48)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (36)
 
 **Machines:** [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (2), [L. C. Smith 6](../machines/l-c-smith-6.md) (2), [L. C. Smith 7](../machines/l-c-smith-7.md) (2), [L. C. Smith 1](../machines/l-c-smith-1.md) (2), [L. C. Smith 2](../machines/l-c-smith-2.md) (2), [Secor 2](../machines/secor-2.md) (2), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (2), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (2), [Williams 1 C](../machines/williams-1-c.md) (1), [Williams 1 S](../machines/williams-1-s.md) (1), [Williams 2](../machines/williams-2.md) (1), [Williams 3](../machines/williams-3.md) (1), [Williams 4](../machines/williams-4.md) (1), [Williams 6](../machines/williams-6.md) (1), [Daugherty](../machines/daugherty.md) (1)
 

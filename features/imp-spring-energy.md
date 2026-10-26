@@ -4,7 +4,12 @@
 
 Impression by a spring cocked and released (force independent of the hand)
 
-**221 patents**, 1868–1950. Often together with: [Full keyboard, a key per character](../features/sel-keyboard-full.md) (76), [Selection locked for printing](../features/sel-selector-locking.md) (70), [Hammer behind the paper](../features/imp-hammer-behind.md) (61), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (56), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (52), [Shift by sliding the element](../features/shift-axial.md) (47), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (46), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (46)
+**221 patents**, 1868–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (76), [Selection locked for printing](../features/sel-selector-locking.md) (70), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (46)
+- **Shift and cases:** [Shift by sliding the element](../features/shift-axial.md) (47)
+- **Impression:** [Hammer behind the paper](../features/imp-hammer-behind.md) (61)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (56), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (52), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (46)
 
 **Machines:** [Gardner](../machines/gardner.md) (3), [Alexander (1)](../machines/alexander-1.md) (3), [Alexander (2)](../machines/alexander-2.md) (3), [Alexander (3)](../machines/alexander-3.md) (3), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Travis](../machines/travis.md) (2), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (1), [Bar-Lock 1](../machines/bar-lock-1.md) (1), [Bar-Lock 2, 3](../machines/bar-lock-2-3.md) (1), [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1)
 

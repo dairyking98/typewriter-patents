@@ -4,7 +4,13 @@
 
 Pointer dropped into a hole or notch for each character; locates the carrier
 
-**112 patents**, 1852–1949. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (66), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (62), [Selection locked for printing](../features/sel-selector-locking.md) (50), [Roller platen](../features/pap-platen-roller.md) (46), [Element struck to the platen](../features/imp-element-to-platen.md) (45), [Hand presses the type through](../features/imp-press-through.md) (45), [Few parts, low cost](../features/frm-few-parts.md) (44), [Press the pointer to print](../features/sel-pointer-press-prints.md) (43)
+**112 patents**, 1852–1949. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (50), [Press the pointer to print](../features/sel-pointer-press-prints.md) (43)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (45), [Hand presses the type through](../features/imp-press-through.md) (45)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (66), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (62)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (46)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (44)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (2), [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (2), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (2), [Odell 1 B](../machines/odell-1-b.md) (2), [Odell 2](../machines/odell-2.md) (2), [Odell 3](../machines/odell-3.md) (2), [Odell 4](../machines/odell-4.md) (2), [Pearl](../machines/pearl.md) (1), [Thomas](../machines/thomas.md) (1), [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1), [Century Index](../machines/century-index.md) (1)
 

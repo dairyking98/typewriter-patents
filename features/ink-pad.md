@@ -4,7 +4,14 @@
 
 Felt or ink pad inking the type
 
-**273 patents**, 1829–1950. Often together with: [Typebars](../features/elem-typebar.md) (103), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (102), [Element struck to the platen](../features/imp-element-to-platen.md) (99), [Roller platen](../features/pap-platen-roller.md) (86), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (85), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (85), [Few parts, low cost](../features/frm-few-parts.md) (74), [Space key or bar](../features/esc-space-key.md) (65)
+**273 patents**, 1829–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (85)
+- **Type element:** [Typebars](../features/elem-typebar.md) (103)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (99)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (102), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (85), [Space key or bar](../features/esc-space-key.md) (65)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (86)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (74)
 
 **Machines:** [Yost 15 - 19](../machines/yost-15-19.md) (5), [Williams 1 S](../machines/williams-1-s.md) (4), [Williams 2](../machines/williams-2.md) (4), [Williams 3](../machines/williams-3.md) (4), [Williams 4](../machines/williams-4.md) (4), [Williams 6](../machines/williams-6.md) (4), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (3), [Bar-Lock 6](../machines/bar-lock-6.md) (3), [Bar-Lock 7](../machines/bar-lock-7.md) (3), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (3), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (3), [Bar-Lock Columbia](../machines/bar-lock-columbia.md) (3), [Bar-Lock 12](../machines/bar-lock-12.md) (3), [Yost 20](../machines/yost-20.md) (3), [Remington Junior](../machines/remington-junior.md) (3)
 

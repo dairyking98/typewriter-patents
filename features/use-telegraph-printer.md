@@ -4,7 +4,12 @@
 
 Printing telegraph or remote printing
 
-**129 patents**, 1872–1950. Often together with: [Electric drive](../features/imp-electric.md) (40), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (26), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (22), [Selection locked for printing](../features/sel-selector-locking.md) (16), [Attachment or accessory](../features/use-accessory.md) (15), [Typebars](../features/elem-typebar.md) (14), [Hammer behind the paper](../features/imp-hammer-behind.md) (11), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (9)
+**129 patents**, 1872–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (26), [Selection locked for printing](../features/sel-selector-locking.md) (16), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (9)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (22), [Typebars](../features/elem-typebar.md) (14)
+- **Impression:** [Electric drive](../features/imp-electric.md) (40), [Hammer behind the paper](../features/imp-hammer-behind.md) (11)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (15)
 
 ## Patents, oldest first
 

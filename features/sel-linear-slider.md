@@ -4,7 +4,13 @@
 
 Slider or carriage moved along a straight index
 
-**126 patents**, 1845–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (56), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (56), [Few parts, low cost](../features/frm-few-parts.md) (48), [Hand presses the type through](../features/imp-press-through.md) (40), [Roller platen](../features/pap-platen-roller.md) (37), [Separate print key or lever](../features/imp-print-lever.md) (36), [Element struck to the platen](../features/imp-element-to-platen.md) (35), [Pointer over a chart](../features/sel-pointer-chart.md) (35)
+**126 patents**, 1845–1950. Often together with:
+
+- **Selection:** [Pointer over a chart](../features/sel-pointer-chart.md) (35)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (40), [Separate print key or lever](../features/imp-print-lever.md) (36), [Element struck to the platen](../features/imp-element-to-platen.md) (35)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (56), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (56)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (37)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (48)
 
 **Machines:** [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (2), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (2), [Odell 1 B](../machines/odell-1-b.md) (2), [Odell 2](../machines/odell-2.md) (2), [Odell 3](../machines/odell-3.md) (2), [Odell 4](../machines/odell-4.md) (2), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Gundka 3](../machines/gundka-3.md) (1), [Gundka 5](../machines/gundka-5.md) (1)
 

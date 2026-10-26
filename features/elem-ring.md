@@ -4,7 +4,13 @@
 
 Types on a ring or annulus
 
-**57 patents**, 1878–1949. Often together with: [Hand presses the type through](../features/imp-press-through.md) (17), [Selection locked for printing](../features/sel-selector-locking.md) (13), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (12), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (12), [Interchangeable element](../features/elem-interchangeable.md) (11), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (11), [Separate type slugs or plungers](../features/elem-individual-slugs.md) (10), [Few parts, low cost](../features/frm-few-parts.md) (10)
+**57 patents**, 1878–1949. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (13), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (11)
+- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (11), [Separate type slugs or plungers](../features/elem-individual-slugs.md) (10)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (17)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (12), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (12)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (10)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (1), [National](../machines/national.md) (1), [Yost 4 - 9](../machines/yost-4-9.md) (1), [Yost 10 - 14](../machines/yost-10-14.md) (1)
 

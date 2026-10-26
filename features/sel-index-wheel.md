@@ -4,7 +4,14 @@
 
 Hand wheel carrying the characters turned directly (the element is the index)
 
-**52 patents**, 1843–1949. Often together with: [Prints and spaces in one stroke](../features/esc-print-and-space.md) (31), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (30), [Hand presses the type through](../features/imp-press-through.md) (28), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (27), [Element struck to the platen](../features/imp-element-to-platen.md) (23), [Selection locked for printing](../features/sel-selector-locking.md) (23), [Ink roller](../features/ink-roller.md) (22), [Few parts, low cost](../features/frm-few-parts.md) (22)
+**52 patents**, 1843–1949. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (23)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (30)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (28), [Element struck to the platen](../features/imp-element-to-platen.md) (23)
+- **Inking:** [Ink roller](../features/ink-roller.md) (22)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (31), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (27)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (22)
 
 **Machines:** [Dollar Typewriter](../machines/dollar-typewriter.md) (1)
 

@@ -4,7 +4,14 @@
 
 The platen or paper moves into a stationary element
 
-**124 patents**, 1856–1944. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (65), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (61), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (60), [Roller platen](../features/pap-platen-roller.md) (54), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (53), [Space key or bar](../features/esc-space-key.md) (43), [Ink roller](../features/ink-roller.md) (41), [Shift by sliding the element](../features/shift-axial.md) (40)
+**124 patents**, 1856–1944. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (65)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (60)
+- **Shift and cases:** [Shift by sliding the element](../features/shift-axial.md) (40)
+- **Inking:** [Ink roller](../features/ink-roller.md) (41)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (61), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (53), [Space key or bar](../features/esc-space-key.md) (43)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (54)
 
 **Machines:** [Crown Index 1](../machines/crown-index-1.md) (4), [Crown Index 2](../machines/crown-index-2.md) (4), [Peoples](../machines/peoples.md) (4), [Mercury 3](../machines/mercury-3.md) (4), [Travis](../machines/travis.md) (3), [Postal 5](../machines/postal-5.md) (3), [Gardner](../machines/gardner.md) (2), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (1), [Bar-Lock 1](../machines/bar-lock-1.md) (1), [Bar-Lock 2, 3](../machines/bar-lock-2-3.md) (1), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1)
 

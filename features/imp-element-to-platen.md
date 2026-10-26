@@ -4,7 +4,13 @@
 
 The element swings or moves to the platen to print
 
-**905 patents**, 1829–1950. Often together with: [Typebars](../features/elem-typebar.md) (519), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (423), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (283), [Roller platen](../features/pap-platen-roller.md) (237), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (194), [Selection locked for printing](../features/sel-selector-locking.md) (183), [Visible writing](../features/frm-writing-visible.md) (180), [Space key or bar](../features/esc-space-key.md) (161)
+**905 patents**, 1829–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (423), [Selection locked for printing](../features/sel-selector-locking.md) (183)
+- **Type element:** [Typebars](../features/elem-typebar.md) (519)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (283), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (194), [Space key or bar](../features/esc-space-key.md) (161)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (237)
+- **Frame and body:** [Visible writing](../features/frm-writing-visible.md) (180)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (16), [Alexander (2)](../machines/alexander-2.md) (16), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (12), [Alexander (3)](../machines/alexander-3.md) (12), [Blickensderfer 7](../machines/blickensderfer-7.md) (10), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (10), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (9), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (8), [Blickensderfer 2](../machines/blickensderfer-2.md) (7), [Blickensderfer 3](../machines/blickensderfer-3.md) (7), [Blickensderfer 4](../machines/blickensderfer-4.md) (7), [Dactyle](../machines/dactyle.md) (7), [Smith Premier 10](../machines/smith-premier-10.md) (7), [Remington Junior](../machines/remington-junior.md) (7), [Remington Portable 3](../machines/remington-portable-3.md) (7)
 

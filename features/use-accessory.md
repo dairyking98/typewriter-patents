@@ -4,7 +4,13 @@
 
 Attachment or accessory for an existing typewriter
 
-**1019 patents**, 1875–1950. Often together with: [Paper table and guides](../features/pap-paper-guide.md) (170), [Line and point indicator](../features/pap-line-indicator.md) (105), [Ink ribbon](../features/ink-ribbon.md) (102), [Roller platen](../features/pap-platen-roller.md) (94), [Line spacing](../features/pap-line-space.md) (90), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (71), [Typebars](../features/elem-typebar.md) (70), [Cleaning access](../features/frm-cleaning-access.md) (67)
+**1019 patents**, 1875–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (71)
+- **Type element:** [Typebars](../features/elem-typebar.md) (70)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (102)
+- **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (170), [Line and point indicator](../features/pap-line-indicator.md) (105), [Roller platen](../features/pap-platen-roller.md) (94), [Line spacing](../features/pap-line-space.md) (90)
+- **Frame and body:** [Cleaning access](../features/frm-cleaning-access.md) (67)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (4), [Blickensderfer 3](../machines/blickensderfer-3.md) (4), [Blickensderfer 4](../machines/blickensderfer-4.md) (4), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (4), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (4), [Blickensderfer 7](../machines/blickensderfer-7.md) (4), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (4), [Dactyle](../machines/dactyle.md) (4), [Blickensderfer 8](../machines/blickensderfer-8.md) (3), [Fisher 2](../machines/fisher-2.md) (2), [Underwood 4](../machines/underwood-4.md) (2), [Underwood 5](../machines/underwood-5.md) (2), [Oliver 5](../machines/oliver-5.md) (2), [Oliver 6](../machines/oliver-6.md) (2), [Oliver 7, 8](../machines/oliver-7-8.md) (2)
 

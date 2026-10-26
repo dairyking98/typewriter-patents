@@ -4,7 +4,13 @@
 
 A separate print key or lever performs the impression
 
-**347 patents**, 1829–1949. Often together with: [Prints and spaces in one stroke](../features/esc-print-and-space.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (117), [Selection locked for printing](../features/sel-selector-locking.md) (112), [Element struck to the platen](../features/imp-element-to-platen.md) (93), [Roller platen](../features/pap-platen-roller.md) (85), [Typebars](../features/elem-typebar.md) (76), [Space key or bar](../features/esc-space-key.md) (72), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (70)
+**347 patents**, 1829–1949. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (112), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (70)
+- **Type element:** [Typebars](../features/elem-typebar.md) (76)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (93)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (117), [Space key or bar](../features/esc-space-key.md) (72)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (85)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (3), [Crown Index 1](../machines/crown-index-1.md) (2), [Crown Index 2](../machines/crown-index-2.md) (2), [Peoples](../machines/peoples.md) (2), [Mercury 3](../machines/mercury-3.md) (2), [Travis](../machines/travis.md) (2), [Moya Visible 2](../machines/moya-visible-2.md) (2), [Gundka 3](../machines/gundka-3.md) (2), [Gundka 5](../machines/gundka-5.md) (2), [Crandall No. 3](../machines/crandall-no-3.md) (1), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1), [Lasar](../machines/lasar.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [American Index](../machines/american-index.md) (1), [Adlerwerke vorm. Heinr. Kleyer AG machine, 1898](../machines/adlerwerke-vorm-heinr-kleyer-ag-1898.md) (1)
 

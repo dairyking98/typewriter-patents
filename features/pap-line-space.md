@@ -4,7 +4,12 @@
 
 Line-space ratchet and pawl
 
-**1134 patents**, 1843–1950. Often together with: [Roller platen](../features/pap-platen-roller.md) (700), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (286), [Carriage return](../features/esc-carriage-return.md) (228), [Feed rollers and paper release](../features/pap-feed-rollers.md) (199), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (183), [Typebars](../features/elem-typebar.md) (166), [Space key or bar](../features/esc-space-key.md) (160), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (160)
+**1134 patents**, 1843–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (183)
+- **Type element:** [Typebars](../features/elem-typebar.md) (166)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (286), [Carriage return](../features/esc-carriage-return.md) (228), [Space key or bar](../features/esc-space-key.md) (160), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (160)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (700), [Feed rollers and paper release](../features/pap-feed-rollers.md) (199)
 
 **Machines:** [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (5), [Blickensderfer 7](../machines/blickensderfer-7.md) (5), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (5), [Mercury 3](../machines/mercury-3.md) (5), [Caligraph 3](../machines/caligraph-3.md) (4), [Caligraph 4](../machines/caligraph-4.md) (4), [Caligraph 5](../machines/caligraph-5.md) (4), [Caligraph 6, 7](../machines/caligraph-6-7.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (4), [Blickensderfer 3](../machines/blickensderfer-3.md) (4), [Blickensderfer 4](../machines/blickensderfer-4.md) (4), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (4), [Dactyle](../machines/dactyle.md) (4), [Yost 15 - 19](../machines/yost-15-19.md) (4), [Corona 3](../machines/corona-3.md) (4)
 

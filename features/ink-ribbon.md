@@ -4,7 +4,14 @@
 
 Ribbon between type and paper
 
-**1168 patents**, 1867–1950. Often together with: [Ribbon feed](../features/ink-ribbon-feed.md) (593), [Typebars](../features/elem-typebar.md) (321), [Ribbon lift](../features/ink-ribbon-lift.md) (304), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (298), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (229), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (225), [Roller platen](../features/pap-platen-roller.md) (209), [Visible writing](../features/frm-writing-visible.md) (203)
+**1168 patents**, 1867–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (229)
+- **Type element:** [Typebars](../features/elem-typebar.md) (321)
+- **Inking:** [Ribbon feed](../features/ink-ribbon-feed.md) (593), [Ribbon lift](../features/ink-ribbon-lift.md) (304), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (298)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (225)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (209)
+- **Frame and body:** [Visible writing](../features/frm-writing-visible.md) (203)
 
 **Machines:** [Corona 3](../machines/corona-3.md) (5), [L. C. Smith 7](../machines/l-c-smith-7.md) (4), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Caligraph 2](../machines/caligraph-2.md) (3), [Caligraph 3](../machines/caligraph-3.md) (3), [Caligraph 4](../machines/caligraph-4.md) (3), [Caligraph 5](../machines/caligraph-5.md) (3), [Caligraph 6, 7](../machines/caligraph-6-7.md) (3), [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (3), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (3), [Blickensderfer 7](../machines/blickensderfer-7.md) (3)
 

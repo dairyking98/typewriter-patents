@@ -4,7 +4,14 @@
 
 Keys or levers drive the carrier through differential gearing or racks to a position
 
-**278 patents**, 1868–1950. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (153), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (149), [Element struck to the platen](../features/imp-element-to-platen.md) (113), [Shift by sliding the element](../features/shift-axial.md) (110), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (105), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (102), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (101), [Roller platen](../features/pap-platen-roller.md) (89)
+**278 patents**, 1868–1950. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (153), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (149)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (105)
+- **Shift and cases:** [Shift by sliding the element](../features/shift-axial.md) (110)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (113)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (102), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (101)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (89)
 
 **Machines:** [Blickensderfer 7](../machines/blickensderfer-7.md) (7), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (7), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (6), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (6), [Blickensderfer 2](../machines/blickensderfer-2.md) (5), [Blickensderfer 3](../machines/blickensderfer-3.md) (5), [Blickensderfer 4](../machines/blickensderfer-4.md) (5), [Dactyle](../machines/dactyle.md) (5), [Postal 5](../machines/postal-5.md) (5), [Crown Index 1](../machines/crown-index-1.md) (4), [Crown Index 2](../machines/crown-index-2.md) (4), [Peoples](../machines/peoples.md) (4), [Mercury 3](../machines/mercury-3.md) (4), [Travis](../machines/travis.md) (4), [Gardner](../machines/gardner.md) (3)
 

@@ -4,7 +4,13 @@
 
 Escapement by pawl or dogs on a rack
 
-**1417 patents**, 1843–1950. Often together with: [Typebars](../features/elem-typebar.md) (405), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (388), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (377), [Roller platen](../features/pap-platen-roller.md) (375), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (325), [Space key or bar](../features/esc-space-key.md) (313), [Line spacing](../features/pap-line-space.md) (286), [Element struck to the platen](../features/imp-element-to-platen.md) (283)
+**1417 patents**, 1843–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (377)
+- **Type element:** [Typebars](../features/elem-typebar.md) (405)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (283)
+- **Spacing and escapement:** [Mainspring-drawn carriage](../features/esc-spring-drum.md) (388), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (325), [Space key or bar](../features/esc-space-key.md) (313)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (375), [Line spacing](../features/pap-line-space.md) (286)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (10), [Blickensderfer 7](../machines/blickensderfer-7.md) (9), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (9), [Yost 4 - 9](../machines/yost-4-9.md) (8), [Yost 10 - 14](../machines/yost-10-14.md) (8), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (8), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (7), [Postal 5](../machines/postal-5.md) (7), [Remington Portable 3](../machines/remington-portable-3.md) (7), [Caligraph 3](../machines/caligraph-3.md) (6), [Caligraph 4](../machines/caligraph-4.md) (6), [Caligraph 5](../machines/caligraph-5.md) (6), [Caligraph 6, 7](../machines/caligraph-6-7.md) (6), [Mercury 3](../machines/mercury-3.md) (6), [Blickensderfer 2](../machines/blickensderfer-2.md) (6)
 

@@ -4,7 +4,12 @@
 
 How the element mounts and keys to its shaft or hub
 
-**75 patents**, 1875–1949. Often together with: [Interchangeable element](../features/elem-interchangeable.md) (34), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (27), [Shift by sliding the element](../features/shift-axial.md) (25), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (19), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (19), [How the element is made](../features/elem-element-construction.md) (18), [Selection locked for printing](../features/sel-selector-locking.md) (18), [Alignment lock at the print point](../features/elem-alignment-lock.md) (18)
+**75 patents**, 1875–1949. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (18)
+- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (34), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (27), [How the element is made](../features/elem-element-construction.md) (18), [Alignment lock at the print point](../features/elem-alignment-lock.md) (18)
+- **Shift and cases:** [Shift by sliding the element](../features/shift-axial.md) (25)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (19), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (19)
 
 **Machines:** [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (4), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (4), [Blickensderfer 7](../machines/blickensderfer-7.md) (4), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3), [Dactyle](../machines/dactyle.md) (3), [Blickensderfer 8](../machines/blickensderfer-8.md) (2), [Gundka 3](../machines/gundka-3.md) (2), [Gundka 5](../machines/gundka-5.md) (2), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1)
 

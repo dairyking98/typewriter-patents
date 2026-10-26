@@ -4,7 +4,13 @@
 
 Flat type plate or matrix of characters
 
-**118 patents**, 1850–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (49), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (42), [Selection locked for printing](../features/sel-selector-locking.md) (32), [Line spacing](../features/pap-line-space.md) (31), [Hand presses the type through](../features/imp-press-through.md) (29), [Roller platen](../features/pap-platen-roller.md) (28), [Hammer behind the paper](../features/imp-hammer-behind.md) (27), [Few parts, low cost](../features/frm-few-parts.md) (26)
+**118 patents**, 1850–1950. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (32)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (29), [Hammer behind the paper](../features/imp-hammer-behind.md) (27)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (49), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (42)
+- **Paper and carriage:** [Line spacing](../features/pap-line-space.md) (31), [Roller platen](../features/pap-platen-roller.md) (28)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (26)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Postal 5](../machines/postal-5.md) (1)
 

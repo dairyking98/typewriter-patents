@@ -4,7 +4,14 @@
 
 Check writer or amount printer
 
-**101 patents**, 1886–1950. Often together with: [Feed rollers and paper release](../features/pap-feed-rollers.md) (19), [Separate print key or lever](../features/imp-print-lever.md) (15), [Typewriter with adding machine](../features/use-calculating.md) (10), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (8), [Type disc (types on the face)](../features/elem-disc-face.md) (8), [Dial or knob](../features/sel-dial.md) (7), [Few parts, low cost](../features/frm-few-parts.md) (6), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (6)
+**101 patents**, 1886–1950. Often together with:
+
+- **Selection:** [Dial or knob](../features/sel-dial.md) (7), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (6)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (8), [Type disc (types on the face)](../features/elem-disc-face.md) (8)
+- **Impression:** [Separate print key or lever](../features/imp-print-lever.md) (15)
+- **Paper and carriage:** [Feed rollers and paper release](../features/pap-feed-rollers.md) (19)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (6)
+- **Uses:** [Typewriter with adding machine](../features/use-calculating.md) (10)
 
 ## Patents, oldest first
 

@@ -4,7 +4,13 @@
 
 Ink roller touching the type
 
-**267 patents**, 1843–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (123), [Selection locked for printing](../features/sel-selector-locking.md) (110), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (107), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (103), [Roller platen](../features/pap-platen-roller.md) (102), [Element struck to the platen](../features/imp-element-to-platen.md) (101), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (82), [Space key or bar](../features/esc-space-key.md) (81)
+**267 patents**, 1843–1950. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (110), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (82)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (107)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (101)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (123), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (103), [Space key or bar](../features/esc-space-key.md) (81)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (102)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (6), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (5), [Blickensderfer 7](../machines/blickensderfer-7.md) (5), [Postal 5](../machines/postal-5.md) (5), [Crown Index 1](../machines/crown-index-1.md) (4), [Crown Index 2](../machines/crown-index-2.md) (4), [Peoples](../machines/peoples.md) (4), [Mercury 3](../machines/mercury-3.md) (4), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (4), [Blickensderfer 8](../machines/blickensderfer-8.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3), [Dactyle](../machines/dactyle.md) (3), [Travis](../machines/travis.md) (3)
 

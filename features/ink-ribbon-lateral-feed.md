@@ -4,7 +4,12 @@
 
 Ribbon is automatically moved sideways within its width so the whole width is used *(proposed by a reader)*
 
-**2 patents**, 1907–1907. Often together with: [Ink ribbon](../features/ink-ribbon.md) (2), [Two-colour ribbon](../features/ink-ribbon-color.md) (2), [Ribbon feed](../features/ink-ribbon-feed.md) (2), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (2), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (2), [Typebars](../features/elem-typebar.md) (2), [Attachment or accessory](../features/use-accessory.md) (1)
+**2 patents**, 1907–1907. Often together with:
+
+- **Type element:** [Typebars](../features/elem-typebar.md) (2)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (2), [Two-colour ribbon](../features/ink-ribbon-color.md) (2), [Ribbon feed](../features/ink-ribbon-feed.md) (2), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (2)
+- **Spacing and escapement:** [Mainspring-drawn carriage](../features/esc-spring-drum.md) (2)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (1)
 
 ## Patents, oldest first
 

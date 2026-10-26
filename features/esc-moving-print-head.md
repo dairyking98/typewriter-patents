@@ -4,7 +4,14 @@
 
 The print head moves along a fixed paper carriage
 
-**152 patents**, 1872–1950. Often together with: [Flat bed or book typewriter](../features/pap-flat-bed.md) (97), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (61), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (56), [Element struck to the platen](../features/imp-element-to-platen.md) (51), [Book typewriter](../features/use-book-typewriter.md) (51), [Few parts, low cost](../features/frm-few-parts.md) (46), [Selection locked for printing](../features/sel-selector-locking.md) (41), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (40)
+**152 patents**, 1872–1950. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (41), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (40)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (51)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (61), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (56)
+- **Paper and carriage:** [Flat bed or book typewriter](../features/pap-flat-bed.md) (97)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (46)
+- **Uses:** [Book typewriter](../features/use-book-typewriter.md) (51)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Century Index](../machines/century-index.md) (1), [Dollar Typewriter](../machines/dollar-typewriter.md) (1), [Fisher 2](../machines/fisher-2.md) (1), [Elliott & Hatch 1](../machines/elliott-hatch-1.md) (1), [Elliott & Hatch 2](../machines/elliott-hatch-2.md) (1), [Elliott & Hatch 3](../machines/elliott-hatch-3.md) (1)
 

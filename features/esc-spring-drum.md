@@ -4,7 +4,13 @@
 
 Carriage pulled by a mainspring or drum
 
-**772 patents**, 1856–1949. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (388), [Typebars](../features/elem-typebar.md) (272), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (213), [Roller platen](../features/pap-platen-roller.md) (202), [Ink ribbon](../features/ink-ribbon.md) (194), [Ribbon feed](../features/ink-ribbon-feed.md) (182), [Escape-wheel escapement](../features/esc-escape-wheel.md) (175), [Carriage release](../features/esc-carriage-release.md) (171)
+**772 patents**, 1856–1949. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (213)
+- **Type element:** [Typebars](../features/elem-typebar.md) (272)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (194), [Ribbon feed](../features/ink-ribbon-feed.md) (182)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (388), [Escape-wheel escapement](../features/esc-escape-wheel.md) (175), [Carriage release](../features/esc-carriage-release.md) (171)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (202)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (12), [Remington Portable 3](../machines/remington-portable-3.md) (11), [Caligraph 3](../machines/caligraph-3.md) (7), [Caligraph 4](../machines/caligraph-4.md) (7), [Caligraph 5](../machines/caligraph-5.md) (7), [Caligraph 6, 7](../machines/caligraph-6-7.md) (7), [Yost 15 - 19](../machines/yost-15-19.md) (7), [Remington Port. Tab](../machines/remington-port-tab.md) (7), [Yost 4 - 9](../machines/yost-4-9.md) (5), [Yost 10 - 14](../machines/yost-10-14.md) (5), [Remington Junior](../machines/remington-junior.md) (5), [L. C. Smith 7](../machines/l-c-smith-7.md) (5), [Monarch Pioneer](../machines/monarch-pioneer.md) (5), [Corona 3](../machines/corona-3.md) (5), [Caligraph 2](../machines/caligraph-2.md) (4)
 

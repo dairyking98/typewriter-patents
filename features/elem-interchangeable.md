@@ -4,7 +4,13 @@
 
 Element made to be removed and replaced (fonts or languages)
 
-**267 patents**, 1854–1948. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (82), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (70), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (66), [Roller platen](../features/pap-platen-roller.md) (63), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (62), [Alignment lock at the print point](../features/elem-alignment-lock.md) (61), [Element struck to the platen](../features/imp-element-to-platen.md) (57)
+**267 patents**, 1854–1948. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (82), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (62), [Alignment lock at the print point](../features/elem-alignment-lock.md) (61)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (57)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (70), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (66)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (63)
 
 **Machines:** [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (4), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (4), [Blickensderfer 7](../machines/blickensderfer-7.md) (4), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3), [Dactyle](../machines/dactyle.md) (3), [Blickensderfer 8](../machines/blickensderfer-8.md) (2), [Imperial A](../machines/imperial-a.md) (2), [Imperial B](../machines/imperial-b.md) (2), [Imperial C](../machines/imperial-c.md) (2), [Imperial Portable](../machines/imperial-portable.md) (2), [Gundka 3](../machines/gundka-3.md) (2), [Gundka 5](../machines/gundka-5.md) (2)
 

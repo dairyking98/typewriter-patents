@@ -4,7 +4,12 @@
 
 Types on a sphere or hemisphere
 
-**15 patents**, 1872–1913. Often together with: [Hand presses the type through](../features/imp-press-through.md) (10), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (7), [Element struck to the platen](../features/imp-element-to-platen.md) (7), [Roller platen](../features/pap-platen-roller.md) (6), [Flat bed or book typewriter](../features/pap-flat-bed.md) (6), [Selection locked for printing](../features/sel-selector-locking.md) (6), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (5), [Space key or bar](../features/esc-space-key.md) (5)
+**15 patents**, 1872–1913. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (6), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (5)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (10), [Element struck to the platen](../features/imp-element-to-platen.md) (7)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (7), [Space key or bar](../features/esc-space-key.md) (5)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (6), [Flat bed or book typewriter](../features/pap-flat-bed.md) (6)
 
 ## Patents, oldest first
 

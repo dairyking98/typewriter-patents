@@ -4,7 +4,14 @@
 
 Adjustment of impression force or depth
 
-**200 patents**, 1866–1950. Often together with: [Typebars](../features/elem-typebar.md) (74), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (65), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (64), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (59), [Element struck to the platen](../features/imp-element-to-platen.md) (56), [Roller platen](../features/pap-platen-roller.md) (51), [Selection locked for printing](../features/sel-selector-locking.md) (49), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (47)
+**200 patents**, 1866–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (65), [Selection locked for printing](../features/sel-selector-locking.md) (49)
+- **Type element:** [Typebars](../features/elem-typebar.md) (74)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (56)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (59), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (47)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (51)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (64)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (6), [Alexander (2)](../machines/alexander-2.md) (6), [Alexander (3)](../machines/alexander-3.md) (5), [Noiseless 1](../machines/noiseless-1.md) (3), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (2), [Bar-Lock 6](../machines/bar-lock-6.md) (2), [Bar-Lock 7](../machines/bar-lock-7.md) (2), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (2), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (2), [Blickensderfer 5 Alu](../machines/blickensderfer-5-alu.md) (2), [Blickensderfer 6](../machines/blickensderfer-6.md) (2), [Blickensderfer 8](../machines/blickensderfer-8.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Adler 21](../machines/adler-21.md) (2), [Bar-Lock 1](../machines/bar-lock-1.md) (1)
 

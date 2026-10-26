@@ -4,7 +4,13 @@
 
 Separate space key or bar
 
-**549 patents**, 1843–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (313), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (246), [Roller platen](../features/pap-platen-roller.md) (209), [Typebars](../features/elem-typebar.md) (174), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (172), [Element struck to the platen](../features/imp-element-to-platen.md) (161), [Line spacing](../features/pap-line-space.md) (160), [Selection locked for printing](../features/sel-selector-locking.md) (155)
+**549 patents**, 1843–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (246), [Selection locked for printing](../features/sel-selector-locking.md) (155)
+- **Type element:** [Typebars](../features/elem-typebar.md) (174)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (161)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (313), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (172)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (209), [Line spacing](../features/pap-line-space.md) (160)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (8), [Blickensderfer 7](../machines/blickensderfer-7.md) (7), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (6), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (5), [Mercury 3](../machines/mercury-3.md) (5), [Yost 4 - 9](../machines/yost-4-9.md) (5), [Yost 10 - 14](../machines/yost-10-14.md) (5), [Blickensderfer 8](../machines/blickensderfer-8.md) (5), [Yost 15 - 19](../machines/yost-15-19.md) (5), [Caligraph 3](../machines/caligraph-3.md) (4), [Caligraph 4](../machines/caligraph-4.md) (4), [Caligraph 5](../machines/caligraph-5.md) (4), [Caligraph 6, 7](../machines/caligraph-6-7.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (4), [Blickensderfer 3](../machines/blickensderfer-3.md) (4)
 

@@ -4,7 +4,13 @@
 
 Dial or knob turned to the character; carrier coupled rotationally
 
-**85 patents**, 1856–1941. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (36), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (33), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31), [Selection locked for printing](../features/sel-selector-locking.md) (30), [Hand presses the type through](../features/imp-press-through.md) (28), [Element struck to the platen](../features/imp-element-to-platen.md) (28), [Few parts, low cost](../features/frm-few-parts.md) (25), [Separate print key or lever](../features/imp-print-lever.md) (23)
+**85 patents**, 1856–1941. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (30)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (28), [Element struck to the platen](../features/imp-element-to-platen.md) (28), [Separate print key or lever](../features/imp-print-lever.md) (23)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (36), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (33)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (25)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (2), [Columbia Index 1](../machines/columbia-index-1.md) (1), [Columbia Index 2](../machines/columbia-index-2.md) (1)
 

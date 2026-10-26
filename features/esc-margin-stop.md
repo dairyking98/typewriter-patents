@@ -4,7 +4,11 @@
 
 Margin stops or line lock
 
-**570 patents**, 1867–1950. Often together with: [Tabulator](../features/esc-tabulator.md) (167), [Line-end bell](../features/esc-bell.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (112), [Roller platen](../features/pap-platen-roller.md) (99), [Carriage release](../features/esc-carriage-release.md) (98), [Line spacing](../features/pap-line-space.md) (89), [Typebars](../features/elem-typebar.md) (88), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (80)
+**570 patents**, 1867–1950. Often together with:
+
+- **Type element:** [Typebars](../features/elem-typebar.md) (88)
+- **Spacing and escapement:** [Tabulator](../features/esc-tabulator.md) (167), [Line-end bell](../features/esc-bell.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (112), [Carriage release](../features/esc-carriage-release.md) (98), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (80)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (99), [Line spacing](../features/pap-line-space.md) (89)
 
 **Machines:** [Blickensderfer 8](../machines/blickensderfer-8.md) (8), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (8), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (7), [Blickensderfer 7](../machines/blickensderfer-7.md) (7), [Blickensderfer 2](../machines/blickensderfer-2.md) (6), [Blickensderfer 3](../machines/blickensderfer-3.md) (6), [Blickensderfer 4](../machines/blickensderfer-4.md) (6), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (6), [Dactyle](../machines/dactyle.md) (6), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Remington Port. Tab](../machines/remington-port-tab.md) (4), [Travis](../machines/travis.md) (2), [Commercial Visible 6](../machines/commercial-visible-6.md) (2), [Blickensderfer 5 Alu](../machines/blickensderfer-5-alu.md) (2)
 

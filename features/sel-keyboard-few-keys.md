@@ -4,7 +4,14 @@
 
 Small keyboard where each key picks a position and shift keys pick the row
 
-**208 patents**, 1850–1950. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (52), [Three or more cases](../features/shift-triple.md) (49), [Element struck to the platen](../features/imp-element-to-platen.md) (45), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (41), [Shift by sliding the element](../features/shift-axial.md) (41), [Space key or bar](../features/esc-space-key.md) (37), [Typebars](../features/elem-typebar.md) (36), [Ink ribbon](../features/ink-ribbon.md) (34)
+**208 patents**, 1850–1950. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (52), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (41)
+- **Type element:** [Typebars](../features/elem-typebar.md) (36)
+- **Shift and cases:** [Three or more cases](../features/shift-triple.md) (49), [Shift by sliding the element](../features/shift-axial.md) (41)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (45)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (34)
+- **Spacing and escapement:** [Space key or bar](../features/esc-space-key.md) (37)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (5), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (4), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (4), [Blickensderfer 7](../machines/blickensderfer-7.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3), [Dactyle](../machines/dactyle.md) (3), [Blickensderfer 8](../machines/blickensderfer-8.md) (3), [Mercury 3](../machines/mercury-3.md) (2), [Blickensderfer 5 Alu](../machines/blickensderfer-5-alu.md) (2), [Blickensderfer 6](../machines/blickensderfer-6.md) (2), [Chicago 2](../machines/chicago-2.md) (1), [Munson 1](../machines/munson-1.md) (1), [International 2](../machines/international-2.md) (1)
 

@@ -4,7 +4,14 @@
 
 Combined with adding or calculating
 
-**567 patents**, 1890–1950. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (64), [Tabulator](../features/esc-tabulator.md) (52), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (42), [Attachment or accessory](../features/use-accessory.md) (41), [Few parts, low cost](../features/frm-few-parts.md) (36), [Paper table and guides](../features/pap-paper-guide.md) (36), [Typebars](../features/elem-typebar.md) (33), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
+**567 patents**, 1890–1950. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (64), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (42)
+- **Type element:** [Typebars](../features/elem-typebar.md) (33), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
+- **Spacing and escapement:** [Tabulator](../features/esc-tabulator.md) (52)
+- **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (36)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (36)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (41)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (2), [Remington Portable 3](../machines/remington-portable-3.md) (2), [Remington Port. Tab](../machines/remington-port-tab.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1), [Blickensderfer 4](../machines/blickensderfer-4.md) (1), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (1), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (1), [Blickensderfer 7](../machines/blickensderfer-7.md) (1), [Blickensderfer 8](../machines/blickensderfer-8.md) (1), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (1), [Dactyle](../machines/dactyle.md) (1)
 

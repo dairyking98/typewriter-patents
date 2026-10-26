@@ -4,7 +4,12 @@
 
 For the blind (embossing
 
-**57 patents**, 1843–1943. Often together with: [Hand presses the type through](../features/imp-press-through.md) (15), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (10), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (9), [Backing or anvil behind the paper](../features/imp-anvil-backing.md) (9), [Feed rollers and paper release](../features/pap-feed-rollers.md) (9), [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) (9), [Paper table and guides](../features/pap-paper-guide.md) (9), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (8)
+**57 patents**, 1843–1943. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (10), [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) (9)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (15), [Backing or anvil behind the paper](../features/imp-anvil-backing.md) (9)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (9), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (8)
+- **Paper and carriage:** [Feed rollers and paper release](../features/pap-feed-rollers.md) (9), [Paper table and guides](../features/pap-paper-guide.md) (9)
 
 ## Patents, oldest first
 

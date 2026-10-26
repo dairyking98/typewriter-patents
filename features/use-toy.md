@@ -4,7 +4,14 @@
 
 Toy or educational machine
 
-**43 patents**, 1876–1951. Often together with: [Few parts, low cost](../features/frm-few-parts.md) (23), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (8), [Hand presses the type through](../features/imp-press-through.md) (8), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (8), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (8), [Selection locked for printing](../features/sel-selector-locking.md) (7), [Ink ribbon](../features/ink-ribbon.md) (7), [Separate print key or lever](../features/imp-print-lever.md) (6)
+**43 patents**, 1876–1951. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (8), [Selection locked for printing](../features/sel-selector-locking.md) (7)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (8)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (8), [Separate print key or lever](../features/imp-print-lever.md) (6)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (7)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (8)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (23)
 
 ## Patents, oldest first
 

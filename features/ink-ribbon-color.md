@@ -4,7 +4,13 @@
 
 Two-colour ribbon change
 
-**274 patents**, 1880–1950. Often together with: [Ink ribbon](../features/ink-ribbon.md) (189), [Ribbon lift](../features/ink-ribbon-lift.md) (170), [Typebars](../features/elem-typebar.md) (96), [Ribbon feed](../features/ink-ribbon-feed.md) (82), [Shift by moving the platen](../features/shift-platen.md) (65), [Visible writing](../features/frm-writing-visible.md) (47), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (33), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (24)
+**274 patents**, 1880–1950. Often together with:
+
+- **Type element:** [Typebars](../features/elem-typebar.md) (96)
+- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (65)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (189), [Ribbon lift](../features/ink-ribbon-lift.md) (170), [Ribbon feed](../features/ink-ribbon-feed.md) (82), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (33)
+- **Spacing and escapement:** [Mainspring-drawn carriage](../features/esc-spring-drum.md) (24)
+- **Frame and body:** [Visible writing](../features/frm-writing-visible.md) (47)
 
 **Machines:** [Corona 3](../machines/corona-3.md) (4), [Monarch Pioneer](../machines/monarch-pioneer.md) (2), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (2), [Remington Portable 3](../machines/remington-portable-3.md) (2), [Boston](../machines/boston.md) (1), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (1), [Bar-Lock Columbia](../machines/bar-lock-columbia.md) (1), [Bar-Lock 12](../machines/bar-lock-12.md) (1), [Bar-Lock 14](../machines/bar-lock-14.md) (1), [Bar-Lock 15](../machines/bar-lock-15.md) (1), [Visigraph](../machines/visigraph.md) (1)
 

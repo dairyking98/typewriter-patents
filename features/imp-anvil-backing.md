@@ -4,7 +4,12 @@
 
 Backing
 
-**175 patents**, 1856–1948. Often together with: [Roller platen](../features/pap-platen-roller.md) (81), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (54), [Selection locked for printing](../features/sel-selector-locking.md) (52), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (50), [Line spacing](../features/pap-line-space.md) (46), [Feed rollers and paper release](../features/pap-feed-rollers.md) (43), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (42), [Element struck to the platen](../features/imp-element-to-platen.md) (41)
+**175 patents**, 1856–1948. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (52), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (42)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (41)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (54), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (50)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (81), [Line spacing](../features/pap-line-space.md) (46), [Feed rollers and paper release](../features/pap-feed-rollers.md) (43)
 
 **Machines:** [Noiseless 1](../machines/noiseless-1.md) (2), [L. C. Smith 7](../machines/l-c-smith-7.md) (2), [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Cash](../machines/cash.md) (1), [Mercury 3](../machines/mercury-3.md) (1), [Postal 5](../machines/postal-5.md) (1), [Williams 1 C](../machines/williams-1-c.md) (1), [Williams 1 S](../machines/williams-1-s.md) (1), [Williams 2](../machines/williams-2.md) (1), [Williams 3](../machines/williams-3.md) (1), [Williams 4](../machines/williams-4.md) (1), [Williams 6](../machines/williams-6.md) (1), [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1)
 

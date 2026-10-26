@@ -4,7 +4,13 @@
 
 Escape wheel or star wheel escapement with fixed and loose dogs
 
-**482 patents**, 1868–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (221), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (175), [Typebars](../features/elem-typebar.md) (135), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (97), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (91), [Space key or bar](../features/esc-space-key.md) (74), [Carriage release](../features/esc-carriage-release.md) (73), [Roller platen](../features/pap-platen-roller.md) (61)
+**482 patents**, 1868–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (97)
+- **Type element:** [Typebars](../features/elem-typebar.md) (135)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (221), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (175), [Space key or bar](../features/esc-space-key.md) (74), [Carriage release](../features/esc-carriage-release.md) (73)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (61)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (91)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (9), [Remington Portable 3](../machines/remington-portable-3.md) (8), [Remington Junior](../machines/remington-junior.md) (5), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (5), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (5), [Smith Premier 10](../machines/smith-premier-10.md) (4), [Monarch Pioneer](../machines/monarch-pioneer.md) (4), [Chicago 2](../machines/chicago-2.md) (3), [Remington Port. Tab](../machines/remington-port-tab.md) (3), [Corona 3](../machines/corona-3.md) (3), [Cash](../machines/cash.md) (2), [Munson 1](../machines/munson-1.md) (2), [Gardner](../machines/gardner.md) (2), [Ideal A4 / A5](../machines/ideal-a4-a5.md) (2), [Oliver 4](../machines/oliver-4.md) (2)
 

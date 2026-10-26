@@ -4,7 +4,12 @@
 
 Flexible type band or belt
 
-**37 patents**, 1886–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (12), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (12), [Few parts, low cost](../features/frm-few-parts.md) (10), [Pointer over a chart](../features/sel-pointer-chart.md) (9), [Selection locked for printing](../features/sel-selector-locking.md) (8), [Moving print head](../features/esc-moving-print-head.md) (8), [Visible writing](../features/frm-writing-visible.md) (8), [Roller platen](../features/pap-platen-roller.md) (8)
+**37 patents**, 1886–1950. Often together with:
+
+- **Selection:** [Pointer over a chart](../features/sel-pointer-chart.md) (9), [Selection locked for printing](../features/sel-selector-locking.md) (8)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (12), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (12), [Moving print head](../features/esc-moving-print-head.md) (8)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (8)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (10), [Visible writing](../features/frm-writing-visible.md) (8)
 
 ## Patents, oldest first
 

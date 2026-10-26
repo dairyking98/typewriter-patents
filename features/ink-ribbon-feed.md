@@ -4,7 +4,13 @@
 
 Ribbon feed mechanism (pawl
 
-**831 patents**, 1868–1950. Often together with: [Ink ribbon](../features/ink-ribbon.md) (593), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (411), [Typebars](../features/elem-typebar.md) (236), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (183), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (182), [Roller platen](../features/pap-platen-roller.md) (153), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (152), [Ribbon lift](../features/ink-ribbon-lift.md) (139)
+**831 patents**, 1868–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (152)
+- **Type element:** [Typebars](../features/elem-typebar.md) (236)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (593), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (411), [Ribbon lift](../features/ink-ribbon-lift.md) (139)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (183), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (182)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (153)
 
 **Machines:** [L. C. Smith 7](../machines/l-c-smith-7.md) (4), [Caligraph 2](../machines/caligraph-2.md) (3), [Caligraph 3](../machines/caligraph-3.md) (3), [Caligraph 4](../machines/caligraph-4.md) (3), [Caligraph 5](../machines/caligraph-5.md) (3), [Caligraph 6, 7](../machines/caligraph-6-7.md) (3), [Chicago 2](../machines/chicago-2.md) (3), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (3), [Remington Portable 3](../machines/remington-portable-3.md) (3), [Remington Port. Tab](../machines/remington-port-tab.md) (3), [National](../machines/national.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2)
 

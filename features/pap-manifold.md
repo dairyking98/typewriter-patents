@@ -4,7 +4,11 @@
 
 Carbon copies or manifolding emphasis
 
-**274 patents**, 1867–1949. Often together with: [Roller platen](../features/pap-platen-roller.md) (83), [Paper table and guides](../features/pap-paper-guide.md) (77), [Carbon paper or inked strip](../features/ink-carbon.md) (53), [Feed rollers and paper release](../features/pap-feed-rollers.md) (53), [Ink ribbon](../features/ink-ribbon.md) (52), [Line spacing](../features/pap-line-space.md) (40), [Attachment or accessory](../features/use-accessory.md) (38), [Ribbon feed](../features/ink-ribbon-feed.md) (38)
+**274 patents**, 1867–1949. Often together with:
+
+- **Inking:** [Carbon paper or inked strip](../features/ink-carbon.md) (53), [Ink ribbon](../features/ink-ribbon.md) (52), [Ribbon feed](../features/ink-ribbon-feed.md) (38)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (83), [Paper table and guides](../features/pap-paper-guide.md) (77), [Feed rollers and paper release](../features/pap-feed-rollers.md) (53), [Line spacing](../features/pap-line-space.md) (40)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (38)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (4), [Alexander (2)](../machines/alexander-2.md) (4), [Alexander (3)](../machines/alexander-3.md) (3), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Boston](../machines/boston.md) (1), [Remington 5](../machines/remington-5.md) (1), [Remington 6](../machines/remington-6.md) (1), [Remington 7](../machines/remington-7.md) (1)
 

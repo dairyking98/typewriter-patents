@@ -4,7 +4,12 @@
 
 Carriage return lever or mechanism (often with line space)
 
-**476 patents**, 1852–1950. Often together with: [Line spacing](../features/pap-line-space.md) (228), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (133), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (126), [Roller platen](../features/pap-platen-roller.md) (120), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (74), [Margin stops](../features/esc-margin-stop.md) (66), [Carriage release](../features/esc-carriage-release.md) (65), [Attachment or accessory](../features/use-accessory.md) (62)
+**476 patents**, 1852–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (74)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (133), [Mainspring-drawn carriage](../features/esc-spring-drum.md) (126), [Margin stops](../features/esc-margin-stop.md) (66), [Carriage release](../features/esc-carriage-release.md) (65)
+- **Paper and carriage:** [Line spacing](../features/pap-line-space.md) (228), [Roller platen](../features/pap-platen-roller.md) (120)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (62)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (5), [Remington Portable 3](../machines/remington-portable-3.md) (5), [Remington Port. Tab](../machines/remington-port-tab.md) (5), [Caligraph 3](../machines/caligraph-3.md) (3), [Caligraph 4](../machines/caligraph-4.md) (3), [Caligraph 5](../machines/caligraph-5.md) (3), [Caligraph 6, 7](../machines/caligraph-6-7.md) (3), [Caligraph 2](../machines/caligraph-2.md) (2), [Williams 1 C](../machines/williams-1-c.md) (2), [Williams 1 S](../machines/williams-1-s.md) (2), [Williams 2](../machines/williams-2.md) (2), [Williams 3](../machines/williams-3.md) (2), [Williams 4](../machines/williams-4.md) (2), [Williams 6](../machines/williams-6.md) (2), [Blickensderfer 5 Alu](../machines/blickensderfer-5-alu.md) (2)
 

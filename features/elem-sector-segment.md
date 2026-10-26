@@ -4,7 +4,13 @@
 
 Curved type sector or segment (e.g. Hammond shuttle)
 
-**173 patents**, 1829–1950. Often together with: [Hammer behind the paper](../features/imp-hammer-behind.md) (55), [Selection locked for printing](../features/sel-selector-locking.md) (54), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (48), [Ink ribbon](../features/ink-ribbon.md) (46), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (44), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (43), [Space key or bar](../features/esc-space-key.md) (42), [Interchangeable element](../features/elem-interchangeable.md) (33)
+**173 patents**, 1829–1950. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (54), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (44)
+- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (33)
+- **Impression:** [Hammer behind the paper](../features/imp-hammer-behind.md) (55)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (46)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (48), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (43), [Space key or bar](../features/esc-space-key.md) (42)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (3), [Gardner](../machines/gardner.md) (1), [American Index](../machines/american-index.md) (1)
 

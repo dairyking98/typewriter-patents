@@ -4,7 +4,13 @@
 
 Types on the rim of a wheel (face parallel to axis)
 
-**440 patents**, 1843–1950. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (209), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (160), [Element struck to the platen](../features/imp-element-to-platen.md) (160), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (150), [Shift by sliding the element](../features/shift-axial.md) (140), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (137), [Roller platen](../features/pap-platen-roller.md) (116), [Space key or bar](../features/esc-space-key.md) (109)
+**440 patents**, 1843–1950. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (209), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (137)
+- **Shift and cases:** [Shift by sliding the element](../features/shift-axial.md) (140)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (160)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (160), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (150), [Space key or bar](../features/esc-space-key.md) (109)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (116)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (12), [Blickensderfer 7](../machines/blickensderfer-7.md) (10), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (9), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (8), [Blickensderfer 2](../machines/blickensderfer-2.md) (7), [Blickensderfer 3](../machines/blickensderfer-3.md) (7), [Blickensderfer 4](../machines/blickensderfer-4.md) (7), [Dactyle](../machines/dactyle.md) (7), [Blickensderfer 8](../machines/blickensderfer-8.md) (6), [Mercury 3](../machines/mercury-3.md) (5), [Travis](../machines/travis.md) (5), [Blickensderfer 5 Alu](../machines/blickensderfer-5-alu.md) (5), [Blickensderfer 6](../machines/blickensderfer-6.md) (5), [Crown Index 1](../machines/crown-index-1.md) (4), [Crown Index 2](../machines/crown-index-2.md) (4)
 

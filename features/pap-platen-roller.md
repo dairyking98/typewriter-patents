@@ -4,7 +4,14 @@
 
 Roller platen
 
-**1762 patents**, 1852–1950. Often together with: [Line spacing](../features/pap-line-space.md) (700), [Paper table and guides](../features/pap-paper-guide.md) (398), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (375), [Feed rollers and paper release](../features/pap-feed-rollers.md) (277), [Typebars](../features/elem-typebar.md) (273), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (269), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (263), [Element struck to the platen](../features/imp-element-to-platen.md) (237)
+**1762 patents**, 1852–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (269)
+- **Type element:** [Typebars](../features/elem-typebar.md) (273)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (237)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (375)
+- **Paper and carriage:** [Line spacing](../features/pap-line-space.md) (700), [Paper table and guides](../features/pap-paper-guide.md) (398), [Feed rollers and paper release](../features/pap-feed-rollers.md) (277)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (263)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (9), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (8), [Blickensderfer 7](../machines/blickensderfer-7.md) (8), [Yost 15 - 19](../machines/yost-15-19.md) (8), [Blickensderfer 2](../machines/blickensderfer-2.md) (7), [Blickensderfer 3](../machines/blickensderfer-3.md) (7), [Blickensderfer 4](../machines/blickensderfer-4.md) (7), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (7), [Dactyle](../machines/dactyle.md) (7), [Caligraph 3](../machines/caligraph-3.md) (6), [Caligraph 4](../machines/caligraph-4.md) (6), [Caligraph 5](../machines/caligraph-5.md) (6), [Caligraph 6, 7](../machines/caligraph-6-7.md) (6), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (6), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (6)
 

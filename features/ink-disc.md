@@ -4,7 +4,12 @@
 
 Ink disc
 
-**19 patents**, 1885–1948. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (5), [Space key or bar](../features/esc-space-key.md) (5), [Ink roller](../features/ink-roller.md) (5), [Ink pad](../features/ink-pad.md) (5), [Selection locked for printing](../features/sel-selector-locking.md) (4), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (4), [Carriage release](../features/esc-carriage-release.md) (4), [Roller platen](../features/pap-platen-roller.md) (4)
+**19 patents**, 1885–1948. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (4)
+- **Inking:** [Ink roller](../features/ink-roller.md) (5), [Ink pad](../features/ink-pad.md) (5)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (5), [Space key or bar](../features/esc-space-key.md) (5), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (4), [Carriage release](../features/esc-carriage-release.md) (4)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (4)
 
 **Machines:** [Columbia Index 2](../machines/columbia-index-2.md) (2), [Columbia Index 1](../machines/columbia-index-1.md) (1)
 

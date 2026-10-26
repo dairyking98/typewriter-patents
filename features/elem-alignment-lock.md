@@ -4,7 +4,13 @@
 
 Locking pin or tooth that aligns the type exactly at the print point
 
-**339 patents**, 1856–1950. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (153), [Element struck to the platen](../features/imp-element-to-platen.md) (138), [Typebars](../features/elem-typebar.md) (115), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (106), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (105), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (103), [Roller platen](../features/pap-platen-roller.md) (92), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (90)
+**339 patents**, 1856–1950. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (153), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (106)
+- **Type element:** [Typebars](../features/elem-typebar.md) (115), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (103)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (138)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (105), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (90)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (92)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (7), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (6), [Blickensderfer 7](../machines/blickensderfer-7.md) (6), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (5), [Blickensderfer 2](../machines/blickensderfer-2.md) (4), [Blickensderfer 3](../machines/blickensderfer-3.md) (4), [Blickensderfer 4](../machines/blickensderfer-4.md) (4), [Dactyle](../machines/dactyle.md) (4), [Travis](../machines/travis.md) (4), [Secor 2](../machines/secor-2.md) (4), [Chicago 2](../machines/chicago-2.md) (3), [Crown Index 1](../machines/crown-index-1.md) (3), [Crown Index 2](../machines/crown-index-2.md) (3), [Peoples](../machines/peoples.md) (3), [Blickensderfer 5 Alu](../machines/blickensderfer-5-alu.md) (3)
 

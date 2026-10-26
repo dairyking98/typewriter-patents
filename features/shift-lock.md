@@ -4,7 +4,14 @@
 
 Shift lock
 
-**186 patents**, 1883–1950. Often together with: [Shift by moving the platen](../features/shift-platen.md) (123), [Typebars](../features/elem-typebar.md) (105), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (71), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (67), [Roller platen](../features/pap-platen-roller.md) (60), [Three or more cases](../features/shift-triple.md) (50), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (38), [Space key or bar](../features/esc-space-key.md) (34)
+**186 patents**, 1883–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (67)
+- **Type element:** [Typebars](../features/elem-typebar.md) (105)
+- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (123), [Three or more cases](../features/shift-triple.md) (50)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (38), [Space key or bar](../features/esc-space-key.md) (34)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (60)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (71)
 
 **Machines:** [Corona 3](../machines/corona-3.md) (4), [Corona 4](../machines/corona-4.md) (4), [Rem-Sho 1](../machines/rem-sho-1.md) (2), [Rem-Sho 2](../machines/rem-sho-2.md) (2), [Rem-Sho 3](../machines/rem-sho-3.md) (2), [Empire 2 (Canada)](../machines/empire-2-canada.md) (2), [Franklin 9, 10](../machines/franklin-9-10.md) (2), [Williams 1 S](../machines/williams-1-s.md) (2), [Williams 2](../machines/williams-2.md) (2), [Williams 3](../machines/williams-3.md) (2), [Williams 4](../machines/williams-4.md) (2), [Williams 6](../machines/williams-6.md) (2), [L. C. Smith 6](../machines/l-c-smith-6.md) (2), [L. C. Smith 7](../machines/l-c-smith-7.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (1)
 

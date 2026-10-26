@@ -4,7 +4,12 @@
 
 Line or point indicator and scale
 
-**501 patents**, 1829–1950. Often together with: [Paper table and guides](../features/pap-paper-guide.md) (149), [Roller platen](../features/pap-platen-roller.md) (141), [Attachment or accessory](../features/use-accessory.md) (105), [Line spacing](../features/pap-line-space.md) (95), [Visible writing](../features/frm-writing-visible.md) (76), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (72), [Feed rollers and paper release](../features/pap-feed-rollers.md) (69), [Margin stops](../features/esc-margin-stop.md) (61)
+**501 patents**, 1829–1950. Often together with:
+
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (72), [Margin stops](../features/esc-margin-stop.md) (61)
+- **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (149), [Roller platen](../features/pap-platen-roller.md) (141), [Line spacing](../features/pap-line-space.md) (95), [Feed rollers and paper release](../features/pap-feed-rollers.md) (69)
+- **Frame and body:** [Visible writing](../features/frm-writing-visible.md) (76)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (105)
 
 **Machines:** [Caligraph 3](../machines/caligraph-3.md) (2), [Caligraph 4](../machines/caligraph-4.md) (2), [Caligraph 5](../machines/caligraph-5.md) (2), [Caligraph 6, 7](../machines/caligraph-6-7.md) (2), [Yost 1](../machines/yost-1.md) (2), [Yost 2](../machines/yost-2.md) (2), [Yost 4 - 9](../machines/yost-4-9.md) (2), [Yost 10 - 14](../machines/yost-10-14.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensderfer 8](../machines/blickensderfer-8.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Williams 1 S](../machines/williams-1-s.md) (2), [Williams 2](../machines/williams-2.md) (2), [Williams 3](../machines/williams-3.md) (2)
 

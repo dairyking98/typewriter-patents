@@ -4,7 +4,14 @@
 
 Platen or carriage moves to change case
 
-**709 patents**, 1875–1950. Often together with: [Typebars](../features/elem-typebar.md) (436), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (220), [Roller platen](../features/pap-platen-roller.md) (216), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (205), [Ink ribbon](../features/ink-ribbon.md) (164), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (161), [Ribbon lift](../features/ink-ribbon-lift.md) (139), [Visible writing](../features/frm-writing-visible.md) (137)
+**709 patents**, 1875–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (205)
+- **Type element:** [Typebars](../features/elem-typebar.md) (436)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (164), [Ribbon lift](../features/ink-ribbon-lift.md) (139)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (161)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (216)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (220), [Visible writing](../features/frm-writing-visible.md) (137)
 
 **Machines:** [Corona 3](../machines/corona-3.md) (10), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (9), [Remington Portable 3](../machines/remington-portable-3.md) (8), [Williams 1 S](../machines/williams-1-s.md) (5), [Williams 2](../machines/williams-2.md) (5), [Williams 3](../machines/williams-3.md) (5), [Williams 4](../machines/williams-4.md) (5), [Williams 6](../machines/williams-6.md) (5), [Franklin 9, 10](../machines/franklin-9-10.md) (5), [Bar-Lock 12](../machines/bar-lock-12.md) (5), [Bar-Lock 14](../machines/bar-lock-14.md) (5), [Bar-Lock 15](../machines/bar-lock-15.md) (5), [Visigraph](../machines/visigraph.md) (5), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (5), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (5)
 

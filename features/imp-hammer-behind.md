@@ -4,7 +4,13 @@
 
 A hammer strikes from behind the paper into the type
 
-**236 patents**, 1868–1950. Often together with: [Selection locked for printing](../features/sel-selector-locking.md) (98), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (97), [Ink ribbon](../features/ink-ribbon.md) (80), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (73), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (70), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (67), [Shift by sliding the element](../features/shift-axial.md) (67), [Spring-powered blow](../features/imp-spring-energy.md) (61)
+**236 patents**, 1868–1950. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (98), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (97), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (67)
+- **Shift and cases:** [Shift by sliding the element](../features/shift-axial.md) (67)
+- **Impression:** [Spring-powered blow](../features/imp-spring-energy.md) (61)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (80)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (73), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (70)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (3), [Gardner](../machines/gardner.md) (3), [Lasar](../machines/lasar.md) (2), [Chicago 2](../machines/chicago-2.md) (2), [Munson 1](../machines/munson-1.md) (2), [International 2](../machines/international-2.md) (1), [Travis](../machines/travis.md) (1), [Commercial Visible 1](../machines/commercial-visible-1.md) (1), [Commercial Visible 6](../machines/commercial-visible-6.md) (1), [Eagle](../machines/eagle.md) (1), [Moya Visible 1](../machines/moya-visible-1.md) (1), [Moya Visible 2](../machines/moya-visible-2.md) (1), [Thürey 1, 2](../machines/thurey-1-2.md) (1), [Sterling 2](../machines/sterling-2.md) (1)
 

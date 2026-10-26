@@ -4,7 +4,13 @@
 
 Separate type slugs or plungers selected and driven individually
 
-**267 patents**, 1843–1950. Often together with: [Full keyboard, a key per character](../features/sel-keyboard-full.md) (86), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (68), [Hand presses the type through](../features/imp-press-through.md) (61), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (57), [Element struck to the platen](../features/imp-element-to-platen.md) (56), [Roller platen](../features/pap-platen-roller.md) (52), [Selection locked for printing](../features/sel-selector-locking.md) (51), [Ink ribbon](../features/ink-ribbon.md) (43)
+**267 patents**, 1843–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (86), [Selection locked for printing](../features/sel-selector-locking.md) (51)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (61), [Element struck to the platen](../features/imp-element-to-platen.md) (56)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (43)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (68), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (57)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (52)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1), [Boston](../machines/boston.md) (1), [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1), [Blickensderfer 4](../machines/blickensderfer-4.md) (1), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (1), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (1), [Blickensderfer 7](../machines/blickensderfer-7.md) (1), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (1), [Dactyle](../machines/dactyle.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (1), [Bar-Lock Columbia](../machines/bar-lock-columbia.md) (1)
 

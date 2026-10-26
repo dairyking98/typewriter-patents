@@ -4,7 +4,15 @@
 
 Elastic or rubber types
 
-**130 patents**, 1872–1949. Often together with: [Prints and spaces in one stroke](../features/esc-print-and-space.md) (72), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (71), [Selection locked for printing](../features/sel-selector-locking.md) (62), [Roller platen](../features/pap-platen-roller.md) (53), [Few parts, low cost](../features/frm-few-parts.md) (49), [Element struck to the platen](../features/imp-element-to-platen.md) (49), [Ink pad](../features/ink-pad.md) (47), [Alignment lock at the print point](../features/elem-alignment-lock.md) (41)
+**130 patents**, 1872–1949. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (62)
+- **Type element:** [Alignment lock at the print point](../features/elem-alignment-lock.md) (41)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (49)
+- **Inking:** [Ink pad](../features/ink-pad.md) (47)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (72), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (71)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (53)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (49)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Travis](../machines/travis.md) (2), [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Mercury 3](../machines/mercury-3.md) (1)
 

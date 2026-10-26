@@ -4,7 +4,13 @@
 
 Index chart or scale swapped with the element for other fonts or languages
 
-**59 patents**, 1880–1946. Often together with: [Prints and spaces in one stroke](../features/esc-print-and-space.md) (22), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (22), [Interchangeable element](../features/elem-interchangeable.md) (21), [Pointer into a hole or notch](../features/sel-pointer-hole.md) (17), [Line spacing](../features/pap-line-space.md) (17), [Selection locked for printing](../features/sel-selector-locking.md) (16), [Roller platen](../features/pap-platen-roller.md) (16), [Hand presses the type through](../features/imp-press-through.md) (15)
+**59 patents**, 1880–1946. Often together with:
+
+- **Selection:** [Pointer into a hole or notch](../features/sel-pointer-hole.md) (17), [Selection locked for printing](../features/sel-selector-locking.md) (16)
+- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (21)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (15)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (22), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (22)
+- **Paper and carriage:** [Line spacing](../features/pap-line-space.md) (17), [Roller platen](../features/pap-platen-roller.md) (16)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (1), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (1), [Odell 1 B](../machines/odell-1-b.md) (1), [Odell 2](../machines/odell-2.md) (1), [Odell 3](../machines/odell-3.md) (1), [Odell 4](../machines/odell-4.md) (1)
 

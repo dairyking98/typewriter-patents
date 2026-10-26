@@ -4,7 +4,13 @@
 
 Pressing the pointer itself prints (select and print in one motion)
 
-**85 patents**, 1852–1935. Often together with: [Prints and spaces in one stroke](../features/esc-print-and-space.md) (60), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (52), [Hand presses the type through](../features/imp-press-through.md) (48), [Roller platen](../features/pap-platen-roller.md) (46), [Few parts, low cost](../features/frm-few-parts.md) (45), [Pointer into a hole or notch](../features/sel-pointer-hole.md) (43), [Element struck to the platen](../features/imp-element-to-platen.md) (41), [Selection locked for printing](../features/sel-selector-locking.md) (35)
+**85 patents**, 1852–1935. Often together with:
+
+- **Selection:** [Pointer into a hole or notch](../features/sel-pointer-hole.md) (43), [Selection locked for printing](../features/sel-selector-locking.md) (35)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (48), [Element struck to the platen](../features/imp-element-to-platen.md) (41)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (60), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (52)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (46)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (45)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Boston](../machines/boston.md) (1), [Velograph 2](../machines/velograph-2.md) (1), [Century Index](../machines/century-index.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Travis](../machines/travis.md) (1), [Mignon 1](../machines/mignon-1.md) (1), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) (1)
 

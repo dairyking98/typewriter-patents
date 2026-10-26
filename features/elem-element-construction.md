@@ -4,7 +4,11 @@
 
 How the element itself is made or assembled
 
-**274 patents**, 1863–1950. Often together with: [Typebars](../features/elem-typebar.md) (99), [Alignment lock at the print point](../features/elem-alignment-lock.md) (38), [Metal type](../features/elem-metal-type.md) (37), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31), [Few parts, low cost](../features/frm-few-parts.md) (29), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (26), [Interchangeable element](../features/elem-interchangeable.md) (25), [Rubber type](../features/elem-rubber-type.md) (23)
+**274 patents**, 1863–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (26)
+- **Type element:** [Typebars](../features/elem-typebar.md) (99), [Alignment lock at the print point](../features/elem-alignment-lock.md) (38), [Metal type](../features/elem-metal-type.md) (37), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31), [Interchangeable element](../features/elem-interchangeable.md) (25), [Rubber type](../features/elem-rubber-type.md) (23)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (29)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (3), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (3), [Blickensderfer 7](../machines/blickensderfer-7.md) (3), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (3), [Dactyle](../machines/dactyle.md) (3), [Travis](../machines/travis.md) (2), [Columbia Index 2](../machines/columbia-index-2.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Commercial Visible 1](../machines/commercial-visible-1.md) (1), [Commercial Visible 6](../machines/commercial-visible-6.md) (1)
 

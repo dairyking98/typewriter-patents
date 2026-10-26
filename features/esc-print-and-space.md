@@ -4,7 +4,13 @@
 
 The single print action also spaces the carriage
 
-**507 patents**, 1829–1944. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (325), [Roller platen](../features/pap-platen-roller.md) (205), [Element struck to the platen](../features/imp-element-to-platen.md) (194), [Selection locked for printing](../features/sel-selector-locking.md) (193), [Space key or bar](../features/esc-space-key.md) (172), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (170), [Line spacing](../features/pap-line-space.md) (158), [Few parts, low cost](../features/frm-few-parts.md) (152)
+**507 patents**, 1829–1944. Often together with:
+
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (193), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (170)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (194)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (325), [Space key or bar](../features/esc-space-key.md) (172)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (205), [Line spacing](../features/pap-line-space.md) (158)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (152)
 
 **Machines:** [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (7), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (7), [Blickensderfer 7](../machines/blickensderfer-7.md) (7), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (7), [Blickensderfer 2](../machines/blickensderfer-2.md) (6), [Blickensderfer 3](../machines/blickensderfer-3.md) (6), [Blickensderfer 4](../machines/blickensderfer-4.md) (6), [Dactyle](../machines/dactyle.md) (6), [Mercury 3](../machines/mercury-3.md) (5), [Postal 5](../machines/postal-5.md) (5), [Crown Index 1](../machines/crown-index-1.md) (3), [Crown Index 2](../machines/crown-index-2.md) (3), [Peoples](../machines/peoples.md) (3), [Yost 4 - 9](../machines/yost-4-9.md) (3), [Yost 10 - 14](../machines/yost-10-14.md) (3)
 

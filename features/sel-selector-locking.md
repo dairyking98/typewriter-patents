@@ -4,7 +4,14 @@
 
 Detent or locking that holds the selected position during printing
 
-**647 patents**, 1854–1950. Often together with: [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (211), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (209), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (200), [Roller platen](../features/pap-platen-roller.md) (194), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (193), [Element struck to the platen](../features/imp-element-to-platen.md) (183), [Shift by sliding the element](../features/shift-axial.md) (163), [Space key or bar](../features/esc-space-key.md) (155)
+**647 patents**, 1854–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (200)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (209)
+- **Shift and cases:** [Shift by sliding the element](../features/shift-axial.md) (163)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (183)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (211), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (193), [Space key or bar](../features/esc-space-key.md) (155)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (194)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (10), [Blickensderfer 7](../machines/blickensderfer-7.md) (9), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (8), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (7), [Blickensderfer 2](../machines/blickensderfer-2.md) (6), [Blickensderfer 3](../machines/blickensderfer-3.md) (6), [Blickensderfer 4](../machines/blickensderfer-4.md) (6), [Dactyle](../machines/dactyle.md) (6), [Postal 5](../machines/postal-5.md) (6), [Mercury 3](../machines/mercury-3.md) (5), [Travis](../machines/travis.md) (5), [Blickensderfer 8](../machines/blickensderfer-8.md) (5), [Crown Index 1](../machines/crown-index-1.md) (4), [Crown Index 2](../machines/crown-index-2.md) (4), [Peoples](../machines/peoples.md) (4)
 

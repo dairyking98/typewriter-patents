@@ -4,7 +4,14 @@
 
 Flat paper bed or the machine travelling over the paper or a book
 
-**371 patents**, 1843–1943. Often together with: [Book typewriter](../features/use-book-typewriter.md) (134), [Moving print head](../features/esc-moving-print-head.md) (97), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (94), [Typebars](../features/elem-typebar.md) (76), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (74), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (72), [Ink ribbon](../features/ink-ribbon.md) (67), [Paper table and guides](../features/pap-paper-guide.md) (67)
+**371 patents**, 1843–1943. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (72)
+- **Type element:** [Typebars](../features/elem-typebar.md) (76)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (67)
+- **Spacing and escapement:** [Moving print head](../features/esc-moving-print-head.md) (97), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (94), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (74)
+- **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (67)
+- **Uses:** [Book typewriter](../features/use-book-typewriter.md) (134)
 
 **Machines:** [Fisher 2](../machines/fisher-2.md) (4), [Cash](../machines/cash.md) (2), [Elliott & Hatch 1](../machines/elliott-hatch-1.md) (2), [Elliott & Hatch 2](../machines/elliott-hatch-2.md) (2), [Elliott & Hatch 3](../machines/elliott-hatch-3.md) (2), [Corona 3](../machines/corona-3.md) (2), [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Brooks](../machines/brooks.md) (1), [Dollar Typewriter](../machines/dollar-typewriter.md) (1), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (1), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (1)
 

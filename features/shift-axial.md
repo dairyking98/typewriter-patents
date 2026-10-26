@@ -4,7 +4,14 @@
 
 Element slides along its axis to change case or row
 
-**322 patents**, 1875–1950. Often together with: [Full keyboard, a key per character](../features/sel-keyboard-full.md) (166), [Selection locked for printing](../features/sel-selector-locking.md) (163), [Element struck to the platen](../features/imp-element-to-platen.md) (148), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (140), [Three or more cases](../features/shift-triple.md) (122), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (120), [Roller platen](../features/pap-platen-roller.md) (117), [Space key or bar](../features/esc-space-key.md) (114)
+**322 patents**, 1875–1950. Often together with:
+
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (166), [Selection locked for printing](../features/sel-selector-locking.md) (163)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (140)
+- **Shift and cases:** [Three or more cases](../features/shift-triple.md) (122)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (148)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (120), [Space key or bar](../features/esc-space-key.md) (114)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (117)
 
 **Machines:** [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (10), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (9), [Blickensderfer 7](../machines/blickensderfer-7.md) (9), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (8), [Blickensderfer 2](../machines/blickensderfer-2.md) (7), [Blickensderfer 3](../machines/blickensderfer-3.md) (7), [Blickensderfer 4](../machines/blickensderfer-4.md) (7), [Dactyle](../machines/dactyle.md) (7), [Postal 5](../machines/postal-5.md) (6), [Travis](../machines/travis.md) (5), [Mercury 3](../machines/mercury-3.md) (4), [Crown Index 1](../machines/crown-index-1.md) (4), [Crown Index 2](../machines/crown-index-2.md) (4), [Peoples](../machines/peoples.md) (4), [Blickensderfer 8](../machines/blickensderfer-8.md) (4)
 
