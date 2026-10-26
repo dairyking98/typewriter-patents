@@ -2,13 +2,21 @@
 
 For the blind (embossing
 
-**11 patents**, 1843–1935. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (6), [ESC:space-key](../features/esc-space-key.md) (6), [ELEM:interchangeable](../features/elem-interchangeable.md) (6), [ELEM:sector-segment](../features/elem-sector-segment.md) (5), [IMP:hammer-behind](../features/imp-hammer-behind.md) (5), [IMP:press-through](../features/imp-press-through.md) (4), [ESC:variable-spacing](../features/esc-variable-spacing.md) (4), [PAP:line-space](../features/pap-line-space.md) (4)
+**19 patents**, 1843–1935. Often together with: [IMP:press-through](../features/imp-press-through.md) (9), [ESC:print-and-space](../features/esc-print-and-space.md) (8), [IMP:anvil-backing](../features/imp-anvil-backing.md) (7), [ESC:space-key](../features/esc-space-key.md) (6), [ESC:spring-drum](../features/esc-spring-drum.md) (6), [ELEM:interchangeable](../features/elem-interchangeable.md) (6), [ESC:variable-spacing](../features/esc-variable-spacing.md) (5), [ESC:pawl-rack](../features/esc-pawl-rack.md) (5)
 
 ## Patents, oldest first
 
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
 | [US3228](../patents/US3228.md) | 1843 | Thurber, Charles | A horizontal wheel carries one key per character with type soldered to its lower end; the wheel is whirled to bring a key over a hole and the key is pressed down onto paper on a movable platen carriage, which is advanced by an amount set by each key's steady-pin. |
+| [US15164](../patents/US15164.md) | 1856 | Beach, A. Ely | Pivoted pairs of male and female type-keys meet at a common center to emboss a raised letter on a paper strip, with a clockwork escapement advancing the paper after each stroke. |
+| [US329675](../patents/US329675.md) | 1885 | Perkins, William H. | Four keys each raise one of four needles grouped in a square, and a chain carries the needle group along so dots are punctured in the standard embossed cell order. |
+| [US389756](../patents/US389756.md) | 1888 | McElroy, James F. | A small carriage with finger-keys carrying plunger dies runs on a feed rack, pulled by a spring roller, advancing one tooth per dot embossed. |
+| [DE45947](../patents/DE45947.md) | 1888 |  | Six independent pin levers raised by keys emboss the dots of each Braille cell. |
+| [DE48578](../patents/DE48578.md) | 1889 |  | A hand-positioned writing rod with ordinary type on two sides and Braille dots on two others, located by a lever tip dropped into holes in a character plate and pressed down to print. |
+| [US422614](../patents/US422614.md) | 1890 | Nolan, Edward J. | Electromagnet-driven punches that emboss dots into paper on a grooved platen, with raised characters on the keys. |
+| [DE54385](../patents/DE54385.md) | 1890 |  | Two coaxial discs, one with raised letters on its upper edge and the other with matching matrices, are turned by the finger of the blind user to a stop and then self-centred and embossed through the paper by a lifted punch, the paper advancing by each letter's width. |
+| [US443977](../patents/US443977.md) | 1890 | Sthreshley, Lizzie | A hand embossing implement with a spring-fed carriage on a cylindrical rack and depressed levers that press points into paper over a plate of projections. |
 | [US579433](../patents/US579433.md) | 1897 | Hertzberg, Rafaël | A polygonal type roller carries ordinary and Braille characters on its upper index faces and matching types and pins on its lower printing faces, in a slide frame pressed down to print. |
 | [US629233](../patents/US629233.md) | 1899 | Burg, Hubert | A type-cylinder that is shifted, rotated and pressed against the paper by combinations of two simultaneously depressed keys, one from each hand, with a shift key selecting sections of the cylinder. |
 | [US703689](../patents/US703689.md) | 1902 | Young, William Henry | A finger guide attached to a sliding type bar is moved over a lettered indicator plate by feel, and when the finger is over the character, pressing the plate itself impresses that type and spaces the paper. |

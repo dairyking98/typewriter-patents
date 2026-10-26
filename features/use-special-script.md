@@ -2,7 +2,7 @@
 
 Non-Latin scripts
 
-**46 patents**, 1880–1944. Often together with: [ELEM:interchangeable](../features/elem-interchangeable.md) (21), [SEL:keyboard-full](../features/sel-keyboard-full.md) (18), [ELEM:typebar](../features/elem-typebar.md) (15), [SHIFT:triple](../features/shift-triple.md) (14), [ESC:pawl-rack](../features/esc-pawl-rack.md) (12), [SHIFT:platen](../features/shift-platen.md) (12), [IMP:element-to-platen](../features/imp-element-to-platen.md) (11), [PAP:platen-roller](../features/pap-platen-roller.md) (11)
+**50 patents**, 1879–1944. Often together with: [ELEM:interchangeable](../features/elem-interchangeable.md) (22), [SEL:keyboard-full](../features/sel-keyboard-full.md) (20), [ELEM:typebar](../features/elem-typebar.md) (16), [SHIFT:triple](../features/shift-triple.md) (14), [ESC:pawl-rack](../features/esc-pawl-rack.md) (12), [SHIFT:platen](../features/shift-platen.md) (12), [IMP:element-to-platen](../features/imp-element-to-platen.md) (11), [PAP:platen-roller](../features/pap-platen-roller.md) (11)
 
 **Machines:** [Crandall No. 3](../machines/crandall-no-3.md) (1), [Underwood 2](../machines/underwood-2.md) (1), [Underwood 4](../machines/underwood-4.md) (1), [Underwood 5](../machines/underwood-5.md) (1), [Bar-Lock 12](../machines/bar-lock-12.md) (1), [Bar-Lock 14](../machines/bar-lock-14.md) (1), [Bar-Lock 15](../machines/bar-lock-15.md) (1), [Gourland](../machines/gourland.md) (1), [Visigraph](../machines/visigraph.md) (1)
 
@@ -10,12 +10,16 @@ Non-Latin scripts
 
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
+| [US217210](../patents/US217210.md) | 1879 | Grant, Henry M. | A nest of elementary-mark types pushed in combinations by a key to form each letter as a monogram. |
 | [US232741](../patents/US232741.md) | 1880 | McKinley, Carl | One hand lever swings sideways over a notched sector plate to rotate a multi-row type wheel and presses down to print, while a slide shifts the wheel along its shaft to change rows and the wheel can be quickly swapped for another style. |
 | [US251338](../patents/US251338.md) | 1881 | Crandall, Lucien S. | A single interchangeable type sleeve carrying 9 rows of 9 types is slid and twisted on an oscillating printing lever by key-driven cams so any type reaches one printing point, with a lateral field-shifter for case. |
 | [US292854](../patents/US292854.md) | 1884 | Richardson, Henry B. | A stylus on a gimbal moves a convex-sided type block under a hammer to match the letter touched on a perforated letter plate, and the depth the plate is pressed (set by hole diameter) selects the carriage step for proportional spacing. |
 | [US331337](../patents/US331337.md) | 1885 | Spiro, Charles | A hand-held music typewriter with all parts on a handle: a type wheel turned by thumb and finger, an inking roller and a marking wheel for lines. |
+| [US344627](../patents/US344627.md) | 1886 | Cookson, Frederick Nesfield | A rotating turret holds a ring of radial spring-returned type plungers, turned by a cord-driven pulley to a ring dial, with a push-down striker to print and a push for letter and word spacing. |
 | [US387534](../patents/US387534.md) | 1888 | Osborne, Alvah P. | A hand arm swung over a curved dial plate turns a type wheel through a rack and gear until an indicator spring points to the letter, then pressing the arm down drops the indicator into a notch, locks the wheel, prints and advances the paper. |
+| [DE46839](../patents/DE46839.md) | 1889 |  | Keys advance sleds with stepped inclined surfaces that lift the paper plate to the pitch height before a note pen is pressed. |
 | [US403075](../patents/US403075.md) | 1889 | Rennyson, William | Two-piece hinged type-bars worked by toggle levers are driven forcibly by light finger pressure onto a matrix platen, which an escapement advances. |
+| [US433765](../patents/US433765.md) | 1890 | Collins, Samuel | Single types and keys carry a small numerator figure together with an inclined stroke, followed by a line of small denominator figures. |
 | [US448079](../patents/US448079.md) | 1891 | Robertson, George Francis | A hand-held knob turns, slides and presses a hinged type roller over a character board, with pointers showing the character, a bar locking the roller at the print position, and a spring-driven carrier that steps along a grooved rod each time the roller is raised. |
 | [DE67833](../patents/DE67833.md) | 1893 |  | A carriage carrying vertically sprung note and sign type rods slides over a baseplate rack and can be offset forward or back against a graduated scale, so the same note keys print at a shifted pitch for transposition. |
 | [US500793](../patents/US500793.md) | 1893 | Bowen, Frank H. | A Remington-type typebar machine with music symbols that feeds the paper crosswise at each stroke and shifts note position and octave by shifting the platen. |

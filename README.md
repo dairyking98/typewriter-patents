@@ -58,7 +58,7 @@ The history of the typewriter through its patents and machines: 10,201 patents (
 
     ---
 
-    All 10,201 patents, oldest first; 2,297 read and summarised in full.
+    All 10,201 patents, oldest first; 2,717 read and summarised in full.
 
 </div>
 

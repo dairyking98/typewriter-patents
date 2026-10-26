@@ -2,7 +2,7 @@
 
 Tabulator
 
-**72 patents**, 1890–1944. Often together with: [ESC:carriage-release](../features/esc-carriage-release.md) (38), [ESC:pawl-rack](../features/esc-pawl-rack.md) (31), [ESC:spring-drum](../features/esc-spring-drum.md) (31), [ELEM:typebar](../features/elem-typebar.md) (22), [ESC:margin-stop](../features/esc-margin-stop.md) (20), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (19), [USE:accessory](../features/use-accessory.md) (16), [ESC:escape-wheel](../features/esc-escape-wheel.md) (13)
+**75 patents**, 1890–1944. Often together with: [ESC:carriage-release](../features/esc-carriage-release.md) (39), [ESC:pawl-rack](../features/esc-pawl-rack.md) (33), [ESC:spring-drum](../features/esc-spring-drum.md) (32), [ELEM:typebar](../features/elem-typebar.md) (23), [ESC:margin-stop](../features/esc-margin-stop.md) (22), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (19), [USE:accessory](../features/use-accessory.md) (18), [SHIFT:platen](../features/shift-platen.md) (13)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (5), [Blickensderfer 3](../machines/blickensderfer-3.md) (5), [Blickensderfer 4](../machines/blickensderfer-4.md) (5), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (5), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (5), [Blickensderfer 7](../machines/blickensderfer-7.md) (5), [Blickensderfer 8](../machines/blickensderfer-8.md) (5), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (5), [Dactyle](../machines/dactyle.md) (5), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (5), [Remington Portable 3](../machines/remington-portable-3.md) (5), [Remington Port. Tab](../machines/remington-port-tab.md) (4), [Yost 15 - 19](../machines/yost-15-19.md) (2), [Remington Junior](../machines/remington-junior.md) (2), [L. C. Smith 7](../machines/l-c-smith-7.md) (2)
 
@@ -11,7 +11,10 @@ Tabulator
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
 | [US436916](../patents/US436916.md) | 1890 | Gathright, Josiah B. | A supplemental skip key that releases the carriage rack from the escapement detent and lets the carriage run until it hits an adjustable column stop lug. |
+| [US439544](../patents/US439544.md) | 1890 | McCormack, Ulysses Sherman | A slotted rack on the carriage carries clampable column stops that the carriage dog runs against, giving an exact column start, with graduation marks and pointers. |
 | [US446381](../patents/US446381.md) | 1891 | Dodge, Walter S. | Fit the frame's tabulating scale with slidable, removable pointer buttons that mark column start positions against the carriage pointer. |
+| [US450701](../patents/US450701.md) | 1891 | Hardie, William C. | A set of nine independently pushable stops by value (units, tens, hundreds) arrests the carriage so numbers right-align automatically. |
+| [US452268](../patents/US452268.md) | 1891 | Gathright, Josiah B. | A skipping key rocks the trip rod so the detent drops out of the feed racks and an adjustable block stops the carriage at a preset lug, giving column skips. |
 | [US472692](../patents/US472692.md) | 1892 | Blickensderfer, George C. | Pressing a key rotates the type-wheel through a pinion on segment racks until a graded stop ratchet halts it at the right type, then tilts the wheel to the platen, with the wheel sliding on a non-rotating spindle to choose among three type fields. |
 | [US472694](../patents/US472694.md) | 1892 | Blickensderfer, George C. | A swinging catch-lever on the carriage, set in a numbered notched quadrant, meets a graduated stop-block on the frame to halt the carriage at a chosen letter-space. |
 | [US472695](../patents/US472695.md) | 1892 | Blickensderfer, George C. | Ratchet-toothed bar with a spring-held stop whose lugs drop into the tooth spaces, so it indexes in exact letter-space steps. |
@@ -51,7 +54,7 @@ Tabulator
 | [US916720](../patents/US916720.md) | 1909 | Knapp - Harting, Theron L. - Clayton C. | Adjustable stops on the carriage frame meet a key-operated stop member that moves into their path, arresting the freed carriage at the chosen column. |
 | [US918103](../patents/US918103.md) | 1909 | Wagner, Franz X. | Make ordinary character keys double-function so a different movement also works the tabulator or backs the carriage, and improve the margin and tabulating stops. |
 | [US925373](../patents/US925373.md) | 1909 | McLaughlin, John C. | Drive the ribbon-winding shaft from the escapement pinion so that lifting the carriage rack for release also disconnects the ribbon drive. |
-| [US930885](../patents/US930885.md) | 1909 | Riegger, Frederick E. | A treadle-and-cord attachment on the typewriter stand working the shift key, tabular bar and spacing lever by foot. |
+| [US930885](../patents/US930885.md) | 1909 | Riegger, Frederick E. | A foot-treadle attachment on the typewriter stand operates these parts through cords, leaving the hands free. |
 | [US937409](../patents/US937409.md) | 1909 | Berry, Edgar H. | A sheet-metal front shield held on by leaf-spring clips snapping over pins on the type-bar segment, carrying a slotted inclined portion with a tabulator index plate behind a celluloid cover. |
 | [US946814](../patents/US946814.md) | 1910 | Wagner, Herman L. | Interchangeable short and long front, rear and shift rails on detachable blocks let one main frame take either carriage. |
 | [US954439](../patents/US954439.md) | 1910 | Kavle, Oscar C. | A spring-tempered lock lever sits just behind the shift key so the same finger can depress shift alone or shift plus lock, setting a latch that holds the shifted platen frame until either shift key is pressed again. |

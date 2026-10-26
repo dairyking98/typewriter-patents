@@ -2,7 +2,7 @@
 
 Combined with adding or calculating
 
-**59 patents**, 1890–1950. Often together with: [PAP:platen-roller](../features/pap-platen-roller.md) (11), [IMP:hammer-behind](../features/imp-hammer-behind.md) (10), [INK:ribbon](../features/ink-ribbon.md) (10), [PAP:feed-rollers](../features/pap-feed-rollers.md) (10), [ELEM:typebar](../features/elem-typebar.md) (10), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (9), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (9), [ESC:tabulator](../features/esc-tabulator.md) (9)
+**60 patents**, 1890–1950. Often together with: [PAP:platen-roller](../features/pap-platen-roller.md) (11), [IMP:hammer-behind](../features/imp-hammer-behind.md) (10), [INK:ribbon](../features/ink-ribbon.md) (10), [PAP:feed-rollers](../features/pap-feed-rollers.md) (10), [ESC:tabulator](../features/esc-tabulator.md) (10), [USE:accessory](../features/use-accessory.md) (10), [ELEM:typebar](../features/elem-typebar.md) (10), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (9)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (2), [Remington Portable 3](../machines/remington-portable-3.md) (2), [Remington Port. Tab](../machines/remington-port-tab.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1), [Blickensderfer 4](../machines/blickensderfer-4.md) (1), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (1), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (1), [Blickensderfer 7](../machines/blickensderfer-7.md) (1), [Blickensderfer 8](../machines/blickensderfer-8.md) (1), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (1), [Dactyle](../machines/dactyle.md) (1)
 
@@ -11,6 +11,7 @@ Combined with adding or calculating
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
 | [US441232](../patents/US441232.md) | 1890 | Felt, Dorr E. | A recording adding machine in which the keys directly power hammer printing of the figures, with ribbon and paper feeds driven from the unit-row keys. |
+| [US450701](../patents/US450701.md) | 1891 | Hardie, William C. | A set of nine independently pushable stops by value (units, tens, hundreds) arrests the carriage so numbers right-align automatically. |
 | [US472696](../patents/US472696.md) | 1892 | Blickensderfer, George C. | A single variable catch on the carriage that can take graduated positions, grouped in threes, against a toothed adjustable stop on the frame. |
 | [US559449](../patents/US559449.md) | 1896 | Gorin, Fred P. | A bank of auxiliary denomination keys, each releasing the carriage feed and letting a carriage-mounted stop run against a plunger one letter-space thick, so the carriage stops at a preset column offset. |
 | [US559921](../patents/US559921.md) | 1896 | Williamson, David Charles | A slip-on auxiliary scale clipped over the machine's carriage scale, graduated by denomination (cents, units, tens, thousands) so the pointer shows where each line's first figure belongs. |

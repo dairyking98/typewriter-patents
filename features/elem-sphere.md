@@ -2,12 +2,17 @@
 
 Types on a sphere or hemisphere
 
-**10 patents**, 1888–1913. Often together with: [SEL:selector-locking](../features/sel-selector-locking.md) (6), [IMP:press-through](../features/imp-press-through.md) (6), [IMP:element-to-platen](../features/imp-element-to-platen.md) (6), [PAP:flat-bed](../features/pap-flat-bed.md) (5), [SHIFT:triple](../features/shift-triple.md) (5), [PAP:platen-roller](../features/pap-platen-roller.md) (4), [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) (4), [INK:ribbon](../features/ink-ribbon.md) (4)
+**15 patents**, 1872–1913. Often together with: [IMP:press-through](../features/imp-press-through.md) (10), [ESC:print-and-space](../features/esc-print-and-space.md) (7), [IMP:element-to-platen](../features/imp-element-to-platen.md) (7), [PAP:platen-roller](../features/pap-platen-roller.md) (6), [PAP:flat-bed](../features/pap-flat-bed.md) (6), [SEL:selector-locking](../features/sel-selector-locking.md) (6), [SEL:keyboard-full](../features/sel-keyboard-full.md) (5), [ESC:space-key](../features/esc-space-key.md) (5)
 
 ## Patents, oldest first
 
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
+| [US125952](../patents/US125952.md) | 1872 | Hansen, Hans Rasmus Malling Johan | Reciprocating spring-loaded types in a hemispherical shell all converge on one point on a paper drum, each type's stem end being its own finger key. |
+| [US158071](../patents/US158071.md) | 1874 | Hansen, Hans Rasmus Malling Johan | A stationary writing-ball of converging sprung type pistons prints onto paper on a flat table moved in two directions, with a spring-driven escapement released by an electromagnet. |
+| [US168898](../patents/US168898.md) | 1875 | Hansen, Hans Rasmus Malling Johan | A writing-ball with sprung type pistons is mounted above a movable bed-plate carrying an anvil and a sector frame that holds the paper, and the whole bed-plate is pressed and stepped by pawl and ratchet. |
+| [US211010](../patents/US211010.md) | 1878 | Hansen, Hans Rasmus Malling Johan | A hinged, spring-loaded oscillating anvil carrying a paper strip beneath the converging types. |
+| [US306761](../patents/US306761.md) | 1884 | Lambert, Frank | One disc-shaped multiple key on a ball joint carries all characters and, pressed at a character, swings a matching type ring on its underside to a common stop and then prints. |
 | [US393259](../patents/US393259.md) | 1888 | Perry, Charles H. | A hand-held printing plunger with a spherical face carrying concentric circles of type is tilted by a universal joint to be located by notches in a guide plate, then pressed on a sliding platen. |
 | [US409073](../patents/US409073.md) | 1889 | Stover, Daniel C. | A spherical type segment hung on a universal joint at its centre is tilted by three oscillating cross-bars, selected by notched 'wards' on each key lever, so the chosen type comes under the centre and the whole block is then pushed straight down onto the paper. |
 | [US435654](../patents/US435654.md) | 1890 | Perry, Charles H. | A single gimbal-mounted printing plunger with a convex type-plate is tilted to the chosen character by a key-operated push-pin, then pressed down onto a short platen while the whole print head travels along the line. |

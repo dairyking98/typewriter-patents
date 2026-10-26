@@ -8,19 +8,19 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [ESC:pawl-rack](../features/esc-pawl-rack.md) | Escapement by pawl or dogs on a rack | 686 | 64 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁ ▁▁▄█▅▃▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ESC:spring-drum](../features/esc-spring-drum.md) | Carriage pulled by a mainspring or drum | 385 | 9 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▃█▇▅▁▁▁ ` |  |
-| [ESC:print-and-space](../features/esc-print-and-space.md) | The single print action also spaces the carriage | 355 | 57 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁ ▁▁▁▁▅█▃▁▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ESC:space-key](../features/esc-space-key.md) | Separate space key or bar | 349 | 29 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▃█▄▂▁▁▁ ` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [ESC:carriage-release](../features/esc-carriage-release.md) | Carriage release | 242 | 19 | 1879 [US218148](../patents/US218148.md) | 1890s | `     ▁▃█▆▄▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ESC:escape-wheel](../features/esc-escape-wheel.md) | Escape wheel or star wheel escapement with fixed and loose dogs | 190 | 2 | 1868 [US79868](../patents/US79868.md) | 1900s | `    ▁ ▂▄█▆▁▂▁ ` |  |
-| [ESC:carriage-return](../features/esc-carriage-return.md) | Carriage return lever or mechanism (often with line space) | 141 | 9 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁▁▁▄█▅▃▁▁▁ ` |  |
-| [ESC:bell](../features/esc-bell.md) | Bell near the line end | 139 | 15 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▃█▂▂▁▁  ` |  |
-| [ESC:margin-stop](../features/esc-margin-stop.md) | Margin stops or line lock | 136 | 14 | 1878 [US207559](../patents/US207559.md) | 1890s | `     ▁▁█▄▄▁▁▁ ` |  |
-| [ESC:variable-spacing](../features/esc-variable-spacing.md) | Proportional or variable letter spacing | 120 | 7 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁ ▁▆█▄▂▁▁▁ ` |  |
-| [ESC:moving-print-head](../features/esc-moving-print-head.md) | The print head moves along a fixed paper carriage | 93 | 20 | 1878 [US202143](../patents/US202143.md) | 1890s | `     ▁▃█▄▂▁▁▁▁` |  |
-| [ESC:tabulator](../features/esc-tabulator.md) | Tabulator | 72 | 6 | 1890 [US436916](../patents/US436916.md) | 1900s | `       ▅█▇ ▁▁ ` |  |
-| [ESC:backspace](../features/esc-backspace.md) | Backspace | 28 | 1 | 1884 [US309272](../patents/US309272.md) | 1910s | `      ▂▄▅█▄▃▂ ` |  |
+| [ESC:pawl-rack](../features/esc-pawl-rack.md) | Escapement by pawl or dogs on a rack | 826 | 64 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁ ▁▁▅█▄▂▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [ESC:spring-drum](../features/esc-spring-drum.md) | Carriage pulled by a mainspring or drum | 455 | 9 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▄█▅▄▁▁▁ ` |  |
+| [ESC:space-key](../features/esc-space-key.md) | Separate space key or bar | 404 | 29 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▄▂▁▁▁ ` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [ESC:print-and-space](../features/esc-print-and-space.md) | The single print action also spaces the carriage | 402 | 57 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁ ▁▁▁▁▆█▃▁▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [ESC:carriage-release](../features/esc-carriage-release.md) | Carriage release | 283 | 19 | 1875 [US170233](../patents/US170233.md) | 1890s | `     ▁▄█▄▃▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [ESC:escape-wheel](../features/esc-escape-wheel.md) | Escape wheel or star wheel escapement with fixed and loose dogs | 210 | 2 | 1868 [US79868](../patents/US79868.md) | 1900s | `    ▁▁▃▅█▆▁▂▁ ` |  |
+| [ESC:carriage-return](../features/esc-carriage-return.md) | Carriage return lever or mechanism (often with line space) | 178 | 9 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁▁▁▄█▃▂▁▁▁ ` |  |
+| [ESC:margin-stop](../features/esc-margin-stop.md) | Margin stops or line lock | 160 | 14 | 1867 [US65807](../patents/US65807.md) | 1890s | `    ▁▁▂█▃▃▁▁▁ ` |  |
+| [ESC:bell](../features/esc-bell.md) | Bell near the line end | 159 | 15 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▃█▂▁▁▁  ` |  |
+| [ESC:variable-spacing](../features/esc-variable-spacing.md) | Proportional or variable letter spacing | 153 | 7 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▂██▃▂▁▁▁ ` |  |
+| [ESC:moving-print-head](../features/esc-moving-print-head.md) | The print head moves along a fixed paper carriage | 115 | 20 | 1872 [US133841](../patents/US133841.md) | 1890s | `     ▁▄█▃▂▁▁▁▁` |  |
+| [ESC:tabulator](../features/esc-tabulator.md) | Tabulator | 75 | 6 | 1890 [US436916](../patents/US436916.md) | 1900s | `       ▆█▇ ▁▁ ` |  |
+| [ESC:backspace](../features/esc-backspace.md) | Backspace | 29 | 1 | 1884 [US309272](../patents/US309272.md) | 1910s | `      ▃▄▅█▄▃▂ ` |  |
 
 ## Index-type patents, oldest first (96)
 

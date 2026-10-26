@@ -2,13 +2,24 @@
 
 Printing telegraph or remote printing
 
-**20 patents**, 1886–1950. Often together with: [ELEM:wheel-rim](../features/elem-wheel-rim.md) (11), [IMP:electric](../features/imp-electric.md) (10), [SEL:keyboard-full](../features/sel-keyboard-full.md) (7), [IMP:hammer-behind](../features/imp-hammer-behind.md) (7), [SEL:selector-locking](../features/sel-selector-locking.md) (6), [SHIFT:axial](../features/shift-axial.md) (6), [USE:accessory](../features/use-accessory.md) (4), [FRM:writing-visible](../features/frm-writing-visible.md) (4)
+**31 patents**, 1872–1950. Often together with: [IMP:electric](../features/imp-electric.md) (14), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (13), [SEL:keyboard-full](../features/sel-keyboard-full.md) (9), [IMP:hammer-behind](../features/imp-hammer-behind.md) (9), [SEL:selector-locking](../features/sel-selector-locking.md) (7), [SHIFT:axial](../features/shift-axial.md) (7), [USE:accessory](../features/use-accessory.md) (6), [ELEM:typebar](../features/elem-typebar.md) (6)
 
 ## Patents, oldest first
 
 | Patent | Year | Inventor | Solution |
 |---|---|---|---|
+| [US133841](../patents/US133841.md) | 1872 | Edison, Thomas A. | A continuously turning type-wheel is stopped by a key-selected pin with the chosen letter at the print position and is traversed along its shaft across a stationary paper strip. |
+| [US171408](../patents/US171408.md) | 1875 | Morgan, George H. | A revolving wheel with radial slots holds pivoted type-carriers (circles, ellipses or polygons) that can all be turned together to present a different variety of type to the hammer. |
+| [US211010](../patents/US211010.md) | 1878 | Hansen, Hans Rasmus Malling Johan | A hinged, spring-loaded oscillating anvil carrying a paper strip beneath the converging types. |
+| [US233196](../patents/US233196.md) | 1880 | Breckenridge, Joseph W. | Reduce the number of keys with groups of levers selected by left-hand keys and then operated by a small set of broad right-hand keys. |
+| [US246411](../patents/US246411.md) | 1881 | Munson, James E. | Ten finger keys in chords move superposed punched cards so that exactly one hole lines up through all cards, releasing one pin of a bank for each key combination. |
+| [US301486](../patents/US301486.md) | 1884 | Dement, Merritt H. | A continuously revolving cylinder with pivoted tilting bars, keyed to a type ring, where a depressed key tips a bar so its hammer presses paper on the matching type via cams. |
 | [US345565](../patents/US345565.md) | 1886 | Baldridge, George W. | Finger-pieces are turned on their bent stems by a movable plate so each presses either a lower-case or upper-case key beneath. |
+| [US367650](../patents/US367650.md) | 1887 | McLaughlin, James F. | Mechanical keyboard typelevers print directly; on key release a circuit closes and an electromechanical device spaces the paper roll, while in telegraph use a remote transmitter's circuit-closing keys replace the keyboard. |
+| [US385565](../patents/US385565.md) | 1888 | McLaughlin, James F. | Circular ring of electromagnets with elbow frames pulls angular armatures that move type levers, with interchangeable key tops and removable type letters. |
+| [DE47134](../patents/DE47134.md) | 1889 |  | Electromagnets throw weighted type levers against an inked belt and paper roller, and a local circuit steps the paper roller. |
+| [US426343](../patents/US426343.md) | 1890 | Watson, James A. | A pivoted guide rail set by a dial lever changes the ratio of carriage movement to escapement movement by a chosen percentage. |
+| [US456234](../patents/US456234.md) | 1891 | Fairfield, John M. | A blank holder on the carriage with a geared needle picker that pulls one sheet at a time into the platen as the platen turns. |
 | [US625408](../patents/US625408.md) | 1899 | Neal - Eaton, Albert D. - Howard F. | An electromagnet-driven selector arm, stopped by electrically raised pins, positions a plunger over one of forty rods linked to the key levers, and a printing magnet's hammer then drives it. |
 | [US665402](../patents/US665402.md) | 1901 | Burry, John | Put extra digit type at right angles on the type wheel so they print sideways in a full-size slot and stand for eighths. |
 | [US676716](../patents/US676716.md) | 1901 | Fuchs, Edward J. | A wheel body with a separate sheet-metal rim strip bearing raised type, crimped onto the body rim. |

@@ -2,7 +2,7 @@
 
 Backspace
 
-**28 patents**, 1884–1949. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (20), [ESC:spring-drum](../features/esc-spring-drum.md) (12), [ESC:escape-wheel](../features/esc-escape-wheel.md) (10), [SEL:keyboard-full](../features/sel-keyboard-full.md) (10), [ESC:space-key](../features/esc-space-key.md) (10), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (9), [ELEM:typebar](../features/elem-typebar.md) (8), [ESC:carriage-release](../features/esc-carriage-release.md) (7)
+**29 patents**, 1884–1949. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (21), [ESC:spring-drum](../features/esc-spring-drum.md) (13), [ESC:escape-wheel](../features/esc-escape-wheel.md) (11), [SEL:keyboard-full](../features/sel-keyboard-full.md) (11), [ESC:space-key](../features/esc-space-key.md) (10), [ELEM:typebar](../features/elem-typebar.md) (9), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (9), [ESC:carriage-release](../features/esc-carriage-release.md) (7)
 
 **Machines:** [Travis](../machines/travis.md) (1), [Corona 3](../machines/corona-3.md) (1), [Bar-Lock 16, 17](../machines/bar-lock-16-17.md) (1)
 
@@ -12,6 +12,7 @@ Backspace
 |---|---|---|---|
 | [US309272](../patents/US309272.md) | 1884 | Whitcomb, James A. | A rack-bar carriage drive that steps either forward or backward, and ribbon spools that reverse themselves automatically when the ribbon runs out. |
 | [US383482](../patents/US383482.md) | 1888 | Osborne, John W. | A friction strap normally clear of the spring barrel is tightened by a key lever so it grips the barrel and rotates it backward by one ratchet tooth. |
+| [DE50292](../patents/DE50292.md) | 1889 |  | A typebar machine whose paper cylinder slide is driven by a mainspring barrel and alternating pawls, with adjustable tension and set-back stops. |
 | [US446676](../patents/US446676.md) | 1891 | Granville, Bernard | A rocking frame under the key levers raises a feather-cam actuating pawl for forward spacing, while two cam-lever-controlled holding pawls let the spring-driven carriage step back letter by letter or run fully home, and a toothed escapement wheel with three rows gives three line spacings. |
 | [US537993](../patents/US537993.md) | 1895 | Perkins, Willis J. | A key-oscillated type wheel prints on a spring-driven paper cylinder that turns and slides on its own through a double-toothed escapement, so lines and line spacing advance automatically with no carriage return. |
 | [US557728](../patents/US557728.md) | 1896 | Travis, William H. | Each key-lever carries a differently shaped cam that rocks one of two rockers to turn the type-wheel a set angle either way from a rest position, then locks the wheel while a spring hammer prints and the carriage steps. |

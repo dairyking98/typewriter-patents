@@ -8,14 +8,14 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 238 | 39 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▂██▅▁▁▁▁` |  |
-| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 59 | 2 | 1890 [US441232](../patents/US441232.md) | 1910s | `       ▃▅█▆▄▃▁` |  |
-| [USE:book-typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 53 | 6 | 1881 [DE16716](../patents/DE16716.md) | 1900s | `      ▁▇█▂▁▁  ` |  |
-| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 46 | 1 | 1880 [US232741](../patents/US232741.md) | 1910s | `      ▃▃▆█▃▁▁ ` |  |
-| [USE:stenotype](../features/use-stenotype.md) | Shorthand or stenographic machine | 27 | 1 | 1868 [US81000](../patents/US81000.md) | 1910s | `    ▁▁▁▃▃█ ▅  ` |  |
-| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 20 | 1 | 1886 [US345565](../patents/US345565.md) | 1900s | `      ▁▁█▄▂▂▁▁` |  |
-| [USE:toy](../features/use-toy.md) | Toy or educational machine | 16 | 3 | 1876 [US175661](../patents/US175661.md) | 1900s | `     ▂▆▂█▂▂█▂ ` |  |
-| [USE:blind](../features/use-blind.md) | For the blind (embossing | 11 | 0 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁    ▂█  ▁  ` |  |
+| [USE:accessory](../features/use-accessory.md) | Attachment or accessory for an existing typewriter | 286 | 39 | 1875 [US171139](../patents/US171139.md) | 1890s | `     ▁▃█▆▄▁▁▁▁` |  |
+| [USE:book-typewriter](../features/use-book-typewriter.md) | Book or flat-bed typewriter for bound records | 60 | 6 | 1881 [DE16716](../patents/DE16716.md) | 1890s | `      ▁█▇▂▁▁  ` |  |
+| [USE:calculating](../features/use-calculating.md) | Combined with adding or calculating | 60 | 2 | 1890 [US441232](../patents/US441232.md) | 1910s | `       ▄▅█▆▄▃▁` |  |
+| [USE:special-script](../features/use-special-script.md) | Non-Latin scripts | 50 | 1 | 1879 [US217210](../patents/US217210.md) | 1910s | `     ▁▄▃▆█▃▁▁ ` |  |
+| [USE:stenotype](../features/use-stenotype.md) | Shorthand or stenographic machine | 31 | 1 | 1868 [US81000](../patents/US81000.md) | 1910s | `    ▁▂▃▃▃█ ▅  ` |  |
+| [USE:telegraph-printer](../features/use-telegraph-printer.md) | Printing telegraph or remote printing | 31 | 1 | 1872 [US133841](../patents/US133841.md) | 1900s | `     ▃▇▃█▄▂▂▁▁` |  |
+| [USE:blind](../features/use-blind.md) | For the blind (embossing | 19 | 0 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁▁  ▅▆█  ▁  ` |  |
+| [USE:toy](../features/use-toy.md) | Toy or educational machine | 18 | 3 | 1876 [US175661](../patents/US175661.md) | 1900s | `     ▂▆▆█▂▂█▂ ` |  |
 | [USE:check-writer](../features/use-check-writer.md) | Check writer or amount printer | 7 | 0 | 1893 [US511313](../patents/US511313.md) | 1900s | `       ▅█▃   ▃` |  |
 
 ## Index-type patents, oldest first (50)

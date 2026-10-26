@@ -2,7 +2,7 @@
 
 Shorthand or stenographic machine
 
-**27 patents**, 1868–1939. Often together with: [ELEM:typebar](../features/elem-typebar.md) (15), [INK:ribbon](../features/ink-ribbon.md) (14), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (11), [SEL:keyboard-full](../features/sel-keyboard-full.md) (9), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (8), [PAP:feed-rollers](../features/pap-feed-rollers.md) (8), [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) (7), [ESC:space-key](../features/esc-space-key.md) (5)
+**31 patents**, 1868–1939. Often together with: [ELEM:typebar](../features/elem-typebar.md) (16), [INK:ribbon](../features/ink-ribbon.md) (15), [SEL:keyboard-full](../features/sel-keyboard-full.md) (11), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (11), [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) (9), [PAP:feed-rollers](../features/pap-feed-rollers.md) (9), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (8), [ESC:space-key](../features/esc-space-key.md) (5)
 
 ## Patents, oldest first
 
@@ -10,7 +10,11 @@ Shorthand or stenographic machine
 |---|---|---|---|
 | [US81000](../patents/US81000.md) | 1868 | Pratt, John | A single flat plate bearing all the type is moved in a vertical and a horizontal direction by two oscillating rods, whose throw is set per key by adjusting screws, so any character arrives at one fixed point where a spring-driven hammer strikes the paper and carbon against it. |
 | [US176518](../patents/US176518.md) | 1876 | Deming, Philander | A second, weighted escapement lets the carriage feed two teeth at once when an extra key is pressed together with a letter. |
+| [US179531](../patents/US179531.md) | 1876 | Deming, Philander | Lengthen the key stems and pass them through stacked perforated layers of cloth or rubber with tight rubber washers between, so key sounds are muffled. |
+| [DE18770](../patents/DE18770.md) | 1882 |  | The Klavigraph: a keyboard with letters grouped in six sector fields, where several keys pressed together swing hammers onto a clockwork-fed paper strip. |
 | [US306295](../patents/US306295.md) | 1884 | Tilton, Charles E. | Two slides on rods over the paper, one carrying type that slide through it and a pointing lever, the other carrying an index board and impression lever and stepping automatically. |
+| [US392258](../patents/US392258.md) | 1888 | Carpenter, Wilbur M. | Two parallel sets of marker keys, extra keys, and keys pressable in pairs, threes or fours with one finger. |
+| [US410628](../patents/US410628.md) | 1889 | Anderson, George Kerr | A type plate over fourteen key bars, pressed down on the paper by whichever keys are struck together, in a straight line. |
 | [US453233](../patents/US453233.md) | 1891 | Carpenter, Wilbur Marvin | Three sets of six keys with finger-plates grouped so one finger can press one, two or three adjoining keys at once, each key's marker printing a stroke that combines into composite characters. |
 | [US496297](../patents/US496297.md) | 1893 | Craigmiles, Edwin Lee | Two banks of paired keys, each pair struck by one finger to print one or two stenographic signs at once, with a key-driven carriage feed that steps one or two type widths according to which bank was struck. |
 | [US581570](../patents/US581570.md) | 1897 | Anderson, George Kerr | Three swinging type frames carrying consonants, vowels and terminal consonants are tilted by shift keys to bring chosen longitudinal rows to the print line, so a whole word prints across a paper strip in one chord of simultaneous key presses. |
