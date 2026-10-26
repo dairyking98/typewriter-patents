@@ -6,7 +6,7 @@ for d in README.md guides views patents machines features people companies famil
   [ -e "$d" ] && cp -r "$d" _docs/
 done
 rm -f _docs/views/*.base
-sed -i 's/(machines.base)/(https:\/\/github.com\/dairyking98\/typewriter-patents\/blob\/main\/views\/machines.base)/' _docs/views/index-machines.md
+sed -i -E 's#\(([./]*views/)?machines\.base\)#(https://github.com/dairyking98/typewriter-patents/blob/main/views/machines.base)#' _docs/views/index-machines.md
 # keep the search index small: leave the bulky sections (OCR excerpts, similarity and patent tables) out of search
 find _docs/patents -name '*.md' -exec sed -i -E \
   's/^(## (Description|Shares features with|Similar patents|CPC classes|Drawings).*)$/\1 { data-search-exclude }/' {} +

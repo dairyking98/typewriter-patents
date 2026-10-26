@@ -1,6 +1,6 @@
 # Index machines
 
-The 90 index machines in Dingwerth's Lexikon, grouped by type carrier, with their linked patents (**bold** = high or confirmed; plain = medium, an inference from the inventor's name, up to 8). See also [Mechanisms](mechanisms.md), [Timeline](timeline.md) and the live table [machines.base](machines.base).
+The 90 index machines in Dingwerth's Lexikon, grouped by type carrier, with their linked patents (**bold** = high or confirmed; plain = medium, an inference from the inventor's name, up to 8). See also [Mechanisms](mechanisms.md), [Timeline](timeline.md) and the live table [machines.base](../views/machines.base).
 
 ## By carrier and decade
 

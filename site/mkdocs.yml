@@ -48,7 +48,12 @@ validation:
     unrecognized_links: ignore
 nav:
   - Home: README.md
-  - Guides: guides/README.md
+  - Guides:
+      - guides/README.md
+      - What is an index typewriter?: guides/index-typewriters.md
+      - How index machines work: guides/how-index-machines-work.md
+      - Timeline of important features: guides/timeline-of-features.md
+      - German index typewriters: guides/german-index-typewriters.md
   - Views:
       - Index machines: views/index-machines.md
       - Mechanisms: views/mechanisms.md

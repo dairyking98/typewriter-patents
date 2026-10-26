@@ -4,6 +4,13 @@ A browsable library of 10,201 typewriter patents (the US list 1829–1951 and Ge
 
 Browse it here on GitHub, or clone it and open the folder as an [Obsidian](https://obsidian.md) vault (tags, backlinks, graph view, and live tables in `views/*.base`).
 
+## Guides
+
+- [What is an index typewriter?](guides/index-typewriters.md): kinds, history and a glossary
+- [How index machines work](guides/how-index-machines-work.md): the mechanisms, subsystem by subsystem
+- [A timeline of important features](guides/timeline-of-features.md), 1829 to 1950
+- [German index typewriters, 1880–1950](guides/german-index-typewriters.md)
+
 ## Views
 
 - [Index machines](views/index-machines.md): the 90 index machines by type carrier, with their patents and mechanisms
