@@ -2,7 +2,7 @@
 
 Non-Latin scripts
 
-**50 patents**, 1879–1944. Often together with: [ELEM:interchangeable](../features/elem-interchangeable.md) (22), [SEL:keyboard-full](../features/sel-keyboard-full.md) (20), [ELEM:typebar](../features/elem-typebar.md) (16), [SHIFT:triple](../features/shift-triple.md) (14), [ESC:pawl-rack](../features/esc-pawl-rack.md) (12), [SHIFT:platen](../features/shift-platen.md) (12), [IMP:element-to-platen](../features/imp-element-to-platen.md) (11), [PAP:platen-roller](../features/pap-platen-roller.md) (11)
+**57 patents**, 1879–1944. Often together with: [ELEM:interchangeable](../features/elem-interchangeable.md) (23), [SEL:keyboard-full](../features/sel-keyboard-full.md) (22), [ELEM:typebar](../features/elem-typebar.md) (19), [SHIFT:triple](../features/shift-triple.md) (14), [ESC:pawl-rack](../features/esc-pawl-rack.md) (14), [SHIFT:platen](../features/shift-platen.md) (12), [SEL:selector-locking](../features/sel-selector-locking.md) (11), [IMP:element-to-platen](../features/imp-element-to-platen.md) (11)
 
 **Machines:** [Crandall No. 3](../machines/crandall-no-3.md) (1), [Underwood 2](../machines/underwood-2.md) (1), [Underwood 4](../machines/underwood-4.md) (1), [Underwood 5](../machines/underwood-5.md) (1), [Bar-Lock 12](../machines/bar-lock-12.md) (1), [Bar-Lock 14](../machines/bar-lock-14.md) (1), [Bar-Lock 15](../machines/bar-lock-15.md) (1), [Gourland](../machines/gourland.md) (1), [Visigraph](../machines/visigraph.md) (1)
 
@@ -24,8 +24,15 @@ Non-Latin scripts
 | [DE67833](../patents/DE67833.md) | 1893 |  | A carriage carrying vertically sprung note and sign type rods slides over a baseplate rack and can be offset forward or back against a graduated scale, so the same note keys print at a shifted pitch for transposition. |
 | [US500793](../patents/US500793.md) | 1893 | Bowen, Frank H. | A Remington-type typebar machine with music symbols that feeds the paper crosswise at each stroke and shifts note position and octave by shifting the platen. |
 | [US527083](../patents/US527083.md) | 1894 | Smith, John P. | An adjustable stop key stops the platen midway on its transverse shift and holds the carriage from spacing while more characters are struck. |
+| [DE78750](../patents/DE78750.md) | 1895 |  | Interchangeable letter discs carrying spring-mounted steel letters on their rims hang from a sliding rail, and a key-selected disc rotation brings the chosen letter under a cam-driven embossing punch. |
+| [US536303](../patents/US536303.md) | 1895 | Stackhouse, Thomas H. | A reversible carriage drive using two alternately engaged idler gears between a spring-driven main gear and the carriage rack, with a double escapement. |
 | [US567349](../patents/US567349.md) | 1896 | Matteson, Adelbert | Radially arranged horizontal typebars in four banks, any number of which can be picked by their finger-pieces and then thrown together at the platen by one foot-treadle carriage. |
+| [US598524](../patents/US598524.md) | 1898 | Litchfield, William | A type with a duplex face of two levels so that light or hard impact prints different characters from one key. |
+| [US637109](../patents/US637109.md) | 1899 | Haddad, Selim S. | Redesigned Arabic letters, shaped so they can be assembled from fewer type faces and joined in a word. |
+| [US639379](../patents/US639379.md) | 1899 | Guest - Richmond, Arthur Rhuvon - Ernest Tatham | Arabic alphabet with all types of equal base width, joined on one common horizontal line, with initial and medial forms merged. |
 | [US660231](../patents/US660231.md) | 1900 | Wagner, Franz X. | A bolt-on blank key attachment whose spring-loaded locking dog stops the escapement feed when the key is pressed, so the accent prints without spacing. |
+| [US661097](../patents/US661097.md) | 1900 | Winn, Frank C. | Typewriter for music with typebars carrying musical forms, paper moving on rolls on a vertically sliding frame and a staff ruling device. |
+| [US664590](../patents/US664590.md) | 1900 | Sensburg, Ernst | Several type-bar frames on a movable carriage, each frame holding sliding type-bars with multiple types, positioned so the desired type reaches the printing point. |
 | [US665402](../patents/US665402.md) | 1901 | Burry, John | Put extra digit type at right angles on the type wheel so they print sideways in a full-size slot and stand for eighths. |
 | [US701563](../patents/US701563.md) | 1902 | Hammond, James B. | Each key is a body with several faces on pivots, turned to expose another character and held by a leaf spring. |
 | [US707548](../patents/US707548.md) | 1902 | Campbell, Walter Hope | Several shuttles share one circular anvil, each with a fin gap that a spring driving-arm snaps into, so the operator swaps the working shuttle by pushing the shuttles around or by raising the anvil to a second groove. |

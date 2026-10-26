@@ -161,7 +161,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1890s
 
-1490 patents (75 German), 744 read, 54 index-type.
+1490 patents (75 German), 1115 read, 54 index-type.
 
 **First seen:**
 
@@ -184,7 +184,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1900s
 
-2431 patents (99 German), 657 read, 26 index-type.
+2431 patents (99 German), 706 read, 26 index-type.
 
 **Index machines:** [Simplex Little Giant](../machines/simplex-little-giant.md) (1900, type disc), [Niagara](../machines/niagara.md) (1901, type wheel), [Simplex Special A](../machines/simplex-special-a.md) (1901, type disc), [Coffman](../machines/coffman.md) (1902, type band), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) (1902, index (pointer)), [Mignon 1](../machines/mignon-1.md) (1902, type cylinder), [Mignon 2](../machines/mignon-2.md) (1904, type cylinder), [Officine Galileo](../machines/officine-galileo.md) (1904, type wheel), [Simplex Spezial 1](../machines/simplex-spezial-1.md) (1906, type disc), [Picht Index](../machines/picht-index.md) (1907, type wheel), [Taurus Type](../machines/taurus-type.md) (1908, type wheel)
 

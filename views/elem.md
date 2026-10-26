@@ -8,22 +8,22 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [ELEM:typebar](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 1040 | 9 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▃█▇█▁▁▁ ` |  |
-| [ELEM:wheel-rim](../features/elem-wheel-rim.md) | Types on the rim of a wheel (face parallel to axis) | 290 | 48 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▁▁▁▁▁` | [Gerda 2](../machines/gerda-2.md) |
-| [ELEM:alignment-lock](../features/elem-alignment-lock.md) | Locking pin or tooth that aligns the type exactly at the print point | 239 | 28 | 1856 [US14919](../patents/US14919.md) | 1890s | `   ▁ ▁▃█▄▂▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ELEM:interchangeable](../features/elem-interchangeable.md) | Element made to be removed and replaced (fonts or languages) | 172 | 19 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▆█▆▃▂▁▁ ` |  |
-| [ELEM:individual-slugs](../features/elem-individual-slugs.md) | Separate type slugs or plungers selected and driven individually | 147 | 10 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▃▅█▅▁▃▁▁▁` |  |
-| [ELEM:cylinder-multirow](../features/elem-cylinder-multirow.md) | Type cylinder with several rows along its length | 137 | 8 | 1876 [US181463](../patents/US181463.md) | 1890s | `     ▁▃█▄▂▃▃▁ ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [ELEM:rubber-type](../features/elem-rubber-type.md) | Elastic or rubber types | 112 | 25 | 1879 [US217444](../patents/US217444.md) | 1890s | `     ▁▄█▁▁▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ELEM:sector-segment](../features/elem-sector-segment.md) | Curved type sector or segment (e.g. Hammond shuttle) | 104 | 14 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▄█▄▂▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [ELEM:plate-flat](../features/elem-plate-flat.md) | Flat type plate or matrix of characters | 72 | 10 | 1850 [US7771](../patents/US7771.md) | 1890s | `   ▁▁▁▅█▁▁ ▁▁▁` |  |
-| [ELEM:disc-face](../features/elem-disc-face.md) | Types on the face of a disc (face perpendicular to axis) | 63 | 13 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▇█▂▁▁▁▁ ` |  |
-| [ELEM:element-construction](../features/elem-element-construction.md) | How the element itself is made or assembled | 62 | 4 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▂▅█▃▂▂▁▁ ` |  |
-| [ELEM:metal-type](../features/elem-metal-type.md) | Metal types (cast or stamped) | 60 | 8 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁██▂▁▁▁  ` |  |
-| [ELEM:hub-keying](../features/elem-hub-keying.md) | How the element mounts and keys to its shaft or hub | 47 | 2 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▂▅█▆▂▂▁▂ ` |  |
-| [ELEM:linear-bar](../features/elem-linear-bar.md) | Types along a straight bar or rule | 36 | 5 | 1854 [US10995](../patents/US10995.md) | 1880s | `   ▁ ▁██▃▁▁▁  ` |  |
-| [ELEM:ring](../features/elem-ring.md) | Types on a ring or annulus | 31 | 4 | 1878 [US209684](../patents/US209684.md) | 1880s | `     ▁█▇▂▁ ▁  ` |  |
-| [ELEM:band](../features/elem-band.md) | Flexible type band or belt | 18 | 3 | 1886 [US347373](../patents/US347373.md) | 1890s | `      ▃█▆▂▅▃▂ ` |  |
+| [ELEM:typebar](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 1231 | 9 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▂█▅▅▁▁▁ ` |  |
+| [ELEM:wheel-rim](../features/elem-wheel-rim.md) | Types on the rim of a wheel (face parallel to axis) | 311 | 48 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▄▁▁▁▁▁` | [Gerda 2](../machines/gerda-2.md) |
+| [ELEM:alignment-lock](../features/elem-alignment-lock.md) | Locking pin or tooth that aligns the type exactly at the print point | 257 | 28 | 1856 [US14919](../patents/US14919.md) | 1890s | `   ▁ ▁▂█▄▁▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [ELEM:interchangeable](../features/elem-interchangeable.md) | Element made to be removed and replaced (fonts or languages) | 180 | 19 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▅█▅▃▂▁▁ ` |  |
+| [ELEM:individual-slugs](../features/elem-individual-slugs.md) | Separate type slugs or plungers selected and driven individually | 167 | 10 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▂▄█▄▁▂▁▁▁` |  |
+| [ELEM:cylinder-multirow](../features/elem-cylinder-multirow.md) | Type cylinder with several rows along its length | 151 | 8 | 1876 [US181463](../patents/US181463.md) | 1890s | `     ▁▃█▃▂▂▃▁ ` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [ELEM:rubber-type](../features/elem-rubber-type.md) | Elastic or rubber types | 119 | 25 | 1879 [US217444](../patents/US217444.md) | 1890s | `     ▁▄█▁▁▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [ELEM:sector-segment](../features/elem-sector-segment.md) | Curved type sector or segment (e.g. Hammond shuttle) | 116 | 14 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▃█▄▂▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [ELEM:plate-flat](../features/elem-plate-flat.md) | Flat type plate or matrix of characters | 75 | 10 | 1850 [US7771](../patents/US7771.md) | 1890s | `   ▁▁▁▄█▁▁ ▁▁▁` |  |
+| [ELEM:disc-face](../features/elem-disc-face.md) | Types on the face of a disc (face perpendicular to axis) | 70 | 13 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▅█▂▁▁▁▁ ` |  |
+| [ELEM:element-construction](../features/elem-element-construction.md) | How the element itself is made or assembled | 69 | 4 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▄█▂▂▁▁▁ ` |  |
+| [ELEM:metal-type](../features/elem-metal-type.md) | Metal types (cast or stamped) | 66 | 8 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▆█▂▁▁▁  ` |  |
+| [ELEM:hub-keying](../features/elem-hub-keying.md) | How the element mounts and keys to its shaft or hub | 49 | 2 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▂▄█▆▂▂▁▂ ` |  |
+| [ELEM:linear-bar](../features/elem-linear-bar.md) | Types along a straight bar or rule | 37 | 5 | 1854 [US10995](../patents/US10995.md) | 1890s | `   ▁ ▁▇█▃▁▁▁  ` |  |
+| [ELEM:ring](../features/elem-ring.md) | Types on a ring or annulus | 34 | 4 | 1878 [US209684](../patents/US209684.md) | 1890s | `     ▁▇█▂▁ ▁  ` |  |
+| [ELEM:band](../features/elem-band.md) | Flexible type band or belt | 19 | 3 | 1886 [US347373](../patents/US347373.md) | 1890s | `      ▃██▂▅▃▂ ` |  |
 | [ELEM:sphere](../features/elem-sphere.md) | Types on a sphere or hemisphere | 15 | 0 | 1872 [US125952](../patents/US125952.md) | 1870s | `     █▆▄▆▆    ` |  |
 
 ## Index-type patents, oldest first (99)

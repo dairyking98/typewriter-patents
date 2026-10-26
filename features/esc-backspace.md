@@ -2,7 +2,7 @@
 
 Backspace
 
-**29 patents**, 1884–1949. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (21), [ESC:spring-drum](../features/esc-spring-drum.md) (13), [ESC:escape-wheel](../features/esc-escape-wheel.md) (11), [SEL:keyboard-full](../features/sel-keyboard-full.md) (11), [ESC:space-key](../features/esc-space-key.md) (10), [ELEM:typebar](../features/elem-typebar.md) (9), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (9), [ESC:carriage-release](../features/esc-carriage-release.md) (7)
+**33 patents**, 1884–1949. Often together with: [ESC:pawl-rack](../features/esc-pawl-rack.md) (25), [ESC:spring-drum](../features/esc-spring-drum.md) (15), [ESC:escape-wheel](../features/esc-escape-wheel.md) (11), [SEL:keyboard-full](../features/sel-keyboard-full.md) (11), [ESC:space-key](../features/esc-space-key.md) (10), [ELEM:typebar](../features/elem-typebar.md) (9), [FRM:adjustment-wear](../features/frm-adjustment-wear.md) (9), [PAP:platen-roller](../features/pap-platen-roller.md) (8)
 
 **Machines:** [Travis](../machines/travis.md) (1), [Corona 3](../machines/corona-3.md) (1), [Bar-Lock 16, 17](../machines/bar-lock-16-17.md) (1)
 
@@ -16,7 +16,11 @@ Backspace
 | [US446676](../patents/US446676.md) | 1891 | Granville, Bernard | A rocking frame under the key levers raises a feather-cam actuating pawl for forward spacing, while two cam-lever-controlled holding pawls let the spring-driven carriage step back letter by letter or run fully home, and a toothed escapement wheel with three rows gives three line spacings. |
 | [US537993](../patents/US537993.md) | 1895 | Perkins, Willis J. | A key-oscillated type wheel prints on a spring-driven paper cylinder that turns and slides on its own through a double-toothed escapement, so lines and line spacing advance automatically with no carriage return. |
 | [US557728](../patents/US557728.md) | 1896 | Travis, William H. | Each key-lever carries a differently shaped cam that rocks one of two rockers to turn the type-wheel a set angle either way from a rest position, then locks the wheel while a spring hammer prints and the carriage steps. |
+| [US589387](../patents/US589387.md) | 1897 | Gilbert, Justin | A key-operated dog engages the carriage rack and draws it back until the escapement dogs catch the previous tooth, where a positive stop halts it and makes it rebound, giving exactly one space per press. |
+| [US616549](../patents/US616549.md) | 1898 | Maulsby, Thomas A. | A key-operated force-feed dog engages the spacing rack and drives the carriage backwards one or more spaces. |
+| [US623451](../patents/US623451.md) | 1899 | Westwood, Coral Novello | A side attachment with a circle of numbered push-keys and treadle releases the platen carriage to run forward and stop at multiples of five, with line and back spacing. |
 | [US636709](../patents/US636709.md) | 1899 | Bennett, Emmet M. | A ratchet on the escapement shaft engaged by a pawl pulled through a rock shaft and rods by a back-space key moves the carriage back one space. |
+| [US679013](../patents/US679013.md) | 1901 | Blessing, Gay P. | A corrective auxiliary spacing device, attachable to a standard machine, that reverses the carriage a point or more via a push-rod and dog engaging a rack. |
 | [US763529](../patents/US763529.md) | 1904 | Wagner, Franz X. | Double-function keys whose slidable front section lets a depressed key also release the escapement and apply a spring brake to the rack, or drive a backspace dog. |
 | [US783432](../patents/US783432.md) | 1905 | Hammond, James B. | Drive the carriage by a cord that can be re-clipped to either end and mesh either the escapement gear or a smaller always-meshed change gear with the carriage rack, so one escapement steps the carriage in either direction. |
 | [US794851](../patents/US794851.md) | 1905 | Campbell, Walter Hope | A vertically movable shuttle anvil with guide horns on the spindle and turn-table seats a stack of shuttles accurately, with added stroke-regulated shift keys, a graduated paper-roll index for printing above/below the line, and two ribbons with a double-headed hammer for two colors. |

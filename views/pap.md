@@ -8,13 +8,13 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [PAP:platen-roller](../features/pap-platen-roller.md) | Roller platen | 719 | 61 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▃█▄▃▁▁▁ ` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [PAP:line-space](../features/pap-line-space.md) | Line-space ratchet and pawl | 477 | 52 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▃▂▁▁▁ ` | [American Index](../machines/american-index.md) |
-| [PAP:feed-rollers](../features/pap-feed-rollers.md) | Feed rollers and paper release | 248 | 28 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁ ▁▃█▃▃▁▁▁▁` | [American Index](../machines/american-index.md) |
-| [PAP:paper-guide](../features/pap-paper-guide.md) | Paper table | 239 | 15 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▄█▄▃▁▁▁▁` |  |
-| [PAP:line-indicator](../features/pap-line-indicator.md) | Line or point indicator and scale | 188 | 62 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▄█▅▄▁▁▁▁` |  |
-| [PAP:flat-bed](../features/pap-flat-bed.md) | Flat paper bed or the machine travelling over the paper or a book | 182 | 23 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁ ▁▁▅█▅▂▁▁▁ ` |  |
-| [PAP:manifold](../features/pap-manifold.md) | Carbon copies or manifolding emphasis | 93 | 5 | 1867 [US65807](../patents/US65807.md) | 1890s | `    ▁▁▂█▄▄▁▁▁ ` |  |
+| [PAP:platen-roller](../features/pap-platen-roller.md) | Roller platen | 806 | 61 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▃█▃▂▁▁▁ ` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [PAP:line-space](../features/pap-line-space.md) | Line-space ratchet and pawl | 563 | 52 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▃█▂▂▁▁▁ ` | [American Index](../machines/american-index.md) |
+| [PAP:feed-rollers](../features/pap-feed-rollers.md) | Feed rollers and paper release | 279 | 28 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁ ▁▂█▃▂▁▁▁▁` | [American Index](../machines/american-index.md) |
+| [PAP:paper-guide](../features/pap-paper-guide.md) | Paper table | 265 | 15 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▃█▃▂▁▁▁▁` |  |
+| [PAP:line-indicator](../features/pap-line-indicator.md) | Line or point indicator and scale | 218 | 62 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁    ▁▃█▄▃▁▁▁▁` |  |
+| [PAP:flat-bed](../features/pap-flat-bed.md) | Flat paper bed or the machine travelling over the paper or a book | 212 | 23 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁ ▁▁▄█▄▁▁▁▁ ` |  |
+| [PAP:manifold](../features/pap-manifold.md) | Carbon copies or manifolding emphasis | 110 | 5 | 1867 [US65807](../patents/US65807.md) | 1890s | `    ▁▁▁█▄▃▁▁▁ ` |  |
 
 ## Index-type patents, oldest first (131)
 

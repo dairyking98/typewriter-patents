@@ -2,7 +2,7 @@
 
 Printing telegraph or remote printing
 
-**31 patents**, 1872–1950. Often together with: [IMP:electric](../features/imp-electric.md) (14), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (13), [SEL:keyboard-full](../features/sel-keyboard-full.md) (9), [IMP:hammer-behind](../features/imp-hammer-behind.md) (9), [SEL:selector-locking](../features/sel-selector-locking.md) (7), [SHIFT:axial](../features/shift-axial.md) (7), [USE:accessory](../features/use-accessory.md) (6), [ELEM:typebar](../features/elem-typebar.md) (6)
+**40 patents**, 1872–1950. Often together with: [IMP:electric](../features/imp-electric.md) (19), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (14), [SEL:keyboard-full](../features/sel-keyboard-full.md) (12), [IMP:hammer-behind](../features/imp-hammer-behind.md) (10), [USE:accessory](../features/use-accessory.md) (10), [ELEM:typebar](../features/elem-typebar.md) (10), [SEL:selector-locking](../features/sel-selector-locking.md) (7), [SHIFT:axial](../features/shift-axial.md) (7)
 
 ## Patents, oldest first
 
@@ -20,9 +20,18 @@ Printing telegraph or remote printing
 | [DE47134](../patents/DE47134.md) | 1889 |  | Electromagnets throw weighted type levers against an inked belt and paper roller, and a local circuit steps the paper roller. |
 | [US426343](../patents/US426343.md) | 1890 | Watson, James A. | A pivoted guide rail set by a dial lever changes the ratio of carriage movement to escapement movement by a chosen percentage. |
 | [US456234](../patents/US456234.md) | 1891 | Fairfield, John M. | A blank holder on the carriage with a geared needle picker that pulls one sheet at a time into the platen as the platen turns. |
+| [US486889](../patents/US486889.md) | 1892 | Neal - Eaton, Albert D. - Howard F. | One type carrier carrying the characters in rows is moved horizontally and vertically by a few electromagnets, then struck by a hammer driven by a printing magnet, all controlled by key circuit-controllers. |
+| [US487227](../patents/US487227.md) | 1892 | Neal - Eaton, Albert D. - Howard F. | A transmitting typewriter has a normally open circuit-controller under each key, wired to electromagnets that work the keys of a Remington-style receiving typewriter. |
+| [US487228](../patents/US487228.md) | 1892 | Neal - Eaton, Albert D. - Howard F. | A clock-spring motor drives the carriage through a belt and escapement-controlled gearing, and an automatic mechanism winds and unwinds the ribbon. |
+| [US499911](../patents/US499911.md) | 1893 | Eckert - Scott, Thomas T. - George B. | A seamless soft-rubber ring with the type moulded integral on its outer edge and shallow radial holes on its inside, sprung over a light hub with radial pins so it can be replaced without a skilled mechanic. |
+| [US535179](../patents/US535179.md) | 1895 | Spiro, Charles | A signal-making device mounted on a key lever makes Morse dots and dashes in a telegraph circuit as the key prints its letter. |
+| [US536766](../patents/US536766.md) | 1895 | Spiro, Charles | An attachment that sends Morse signals as the typewriter key levers are struck, so each letter is printed and transmitted at once. |
+| [US600119](../patents/US600119.md) | 1898 | Cahill, Thaddeus | A few keys, singly and in combinations, select among many electromagnets through a permutational contact device that closes the circuit at the instant of key touch. |
 | [US625408](../patents/US625408.md) | 1899 | Neal - Eaton, Albert D. - Howard F. | An electromagnet-driven selector arm, stopped by electrically raised pins, positions a plunger over one of forty rods linked to the key levers, and a printing magnet's hammer then drives it. |
+| [US638591](../patents/US638591.md) | 1899 | Murray, Donald | An actuating mechanism that works keys of key-operated machines automatically from received matter while leaving hand operation possible. |
 | [US665402](../patents/US665402.md) | 1901 | Burry, John | Put extra digit type at right angles on the type wheel so they print sideways in a full-size slot and stand for eighths. |
 | [US676716](../patents/US676716.md) | 1901 | Fuchs, Edward J. | A wheel body with a separate sheet-metal rim strip bearing raised type, crimped onto the body rim. |
+| [US698845](../patents/US698845.md) | 1902 | Murray, Donald | Friction tension device, spring-pressed contact lever, a rotating shuttle feeding the tape a sub-division at a time, and releasable pawls for reverse feed. |
 | [US727213](../patents/US727213.md) | 1903 | Sedgwick, Frederick | Cipher type-wheel whose characters are shifted relative to the keys at set intervals, so key and printed letter differ and a like machine decodes. |
 | [US749000](../patents/US749000.md) | 1904 | Tyberg, Oluf | A type wheel kept continuously revolving by a geared drive is bodily moved sideways at the moment of impression by an amount that cancels the surface motion of the chosen type, so that type is momentarily stationary for the hammer to strike. |
 | [US787875](../patents/US787875.md) | 1905 | Creed, Frederick George | A tape feeder whose step length varies, set by selecting mechanism reading the perforations, advances the tape letter by letter for printing telegraph messages. |

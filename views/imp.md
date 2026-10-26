@@ -8,15 +8,15 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [IMP:element-to-platen](../features/imp-element-to-platen.md) | The element swings or moves to the platen to print | 583 | 48 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▄█▅▃▁▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md), [Gerda 2](../machines/gerda-2.md) |
-| [IMP:print-lever](../features/imp-print-lever.md) | A separate print key or lever performs the impression | 187 | 34 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▅█▅▂▂▁  ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
-| [IMP:press-through](../features/imp-press-through.md) | The operator's force presses the type through directly | 175 | 31 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▇█▂▁▁ ▁ ` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [IMP:hammer-behind](../features/imp-hammer-behind.md) | A hammer strikes from behind the paper into the type | 164 | 8 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▃█▅▁▁▁▁ ` |  |
-| [IMP:impression-adjust](../features/imp-impression-adjust.md) | Adjustment of impression force or depth | 118 | 9 | 1866 [US57182](../patents/US57182.md) | 1890s | `    ▁▁▅█▃▄▁▁  ` |  |
-| [IMP:electric](../features/imp-electric.md) | Electric or magnetic drive of the impression | 105 | 3 | 1872 [US125952](../patents/US125952.md) | 1900s | `     ▁▃▅█▃▂▅▁▁` |  |
-| [IMP:anvil-backing](../features/imp-anvil-backing.md) | Backing | 103 | 15 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▅█▃▂▁▁▁ ` |  |
-| [IMP:spring-energy](../features/imp-spring-energy.md) | Impression by a spring cocked and released (force independent of the hand) | 101 | 3 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▆█▃▂▁▁▁ ` |  |
-| [IMP:platen-to-element](../features/imp-platen-to-element.md) | The platen or paper moves into a stationary element | 89 | 13 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁ ▁▄█▁▁▁▁  ` |  |
+| [IMP:element-to-platen](../features/imp-element-to-platen.md) | The element swings or moves to the platen to print | 643 | 48 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▃█▄▃▁▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md), [Gerda 2](../machines/gerda-2.md) |
+| [IMP:print-lever](../features/imp-print-lever.md) | A separate print key or lever performs the impression | 204 | 34 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁  ▁▁▁▄█▄▁▁▁  ` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
+| [IMP:press-through](../features/imp-press-through.md) | The operator's force presses the type through directly | 186 | 31 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▆█▂▁▁ ▁ ` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [IMP:hammer-behind](../features/imp-hammer-behind.md) | A hammer strikes from behind the paper into the type | 183 | 8 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▂█▄▁▁▁▁ ` |  |
+| [IMP:electric](../features/imp-electric.md) | Electric or magnetic drive of the impression | 134 | 3 | 1872 [US125952](../patents/US125952.md) | 1890s | `     ▁▂█▇▂▂▄▁▁` |  |
+| [IMP:impression-adjust](../features/imp-impression-adjust.md) | Adjustment of impression force or depth | 131 | 9 | 1866 [US57182](../patents/US57182.md) | 1890s | `    ▁▁▄█▃▃▁▁  ` |  |
+| [IMP:spring-energy](../features/imp-spring-energy.md) | Impression by a spring cocked and released (force independent of the hand) | 116 | 3 | 1868 [US81000](../patents/US81000.md) | 1890s | `    ▁▁▄█▃▁▁▁▁ ` |  |
+| [IMP:anvil-backing](../features/imp-anvil-backing.md) | Backing | 113 | 15 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▄█▃▂▁▁▁ ` |  |
+| [IMP:platen-to-element](../features/imp-platen-to-element.md) | The platen or paper moves into a stationary element | 95 | 13 | 1856 [US14907](../patents/US14907.md) | 1890s | `   ▁ ▁▄█▁▁▁▁  ` |  |
 
 ## Index-type patents, oldest first (81)
 

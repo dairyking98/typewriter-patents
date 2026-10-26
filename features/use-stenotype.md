@@ -2,7 +2,7 @@
 
 Shorthand or stenographic machine
 
-**31 patents**, 1868–1939. Often together with: [ELEM:typebar](../features/elem-typebar.md) (16), [INK:ribbon](../features/ink-ribbon.md) (15), [SEL:keyboard-full](../features/sel-keyboard-full.md) (11), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (11), [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) (9), [PAP:feed-rollers](../features/pap-feed-rollers.md) (9), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (8), [ESC:space-key](../features/esc-space-key.md) (5)
+**35 patents**, 1868–1939. Often together with: [ELEM:typebar](../features/elem-typebar.md) (16), [INK:ribbon](../features/ink-ribbon.md) (16), [SEL:keyboard-full](../features/sel-keyboard-full.md) (13), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (12), [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) (10), [PAP:feed-rollers](../features/pap-feed-rollers.md) (10), [INK:ribbon-reverse](../features/ink-ribbon-reverse.md) (8), [FRM:compact-portable](../features/frm-compact-portable.md) (6)
 
 ## Patents, oldest first
 
@@ -17,9 +17,13 @@ Shorthand or stenographic machine
 | [US410628](../patents/US410628.md) | 1889 | Anderson, George Kerr | A type plate over fourteen key bars, pressed down on the paper by whichever keys are struck together, in a straight line. |
 | [US453233](../patents/US453233.md) | 1891 | Carpenter, Wilbur Marvin | Three sets of six keys with finger-plates grouped so one finger can press one, two or three adjoining keys at once, each key's marker printing a stroke that combines into composite characters. |
 | [US496297](../patents/US496297.md) | 1893 | Craigmiles, Edwin Lee | Two banks of paired keys, each pair struck by one finger to print one or two stenographic signs at once, with a key-driven carriage feed that steps one or two type widths according to which bank was struck. |
+| [US562562](../patents/US562562.md) | 1896 | Allen, Charles Elmer | A perforated hollow cylinder with selectable pins telescopes into a cylindrical segment carrying movable type-bars so a chosen set of characters is thrown into alignment on the segment's curved surface for printing. |
+| [US562563](../patents/US562563.md) | 1896 | Allen, Charles Elmer | A keyboard-controlled pin cylinder aligns a line of type-bars on a semicylinder, which then prints on a self-spacing carriage and is distributed while the next line is composed. |
 | [US581570](../patents/US581570.md) | 1897 | Anderson, George Kerr | Three swinging type frames carrying consonants, vowels and terminal consonants are tilted by shift keys to bring chosen longitudinal rows to the print line, so a whole word prints across a paper strip in one chord of simultaneous key presses. |
 | [US583620](../patents/US583620.md) | 1897 | Hardy, John F. | Printing bars and moving anvils print dots in transverse lines while paper steps, giving automatic line-spacing. |
+| [US606416](../patents/US606416.md) | 1898 | von Hülsen, Eduard | A key-impelled type wheel makes one cycle through all type, checked by key-controlled locks at each struck key's type, with a spring-motor impression at each stop. |
 | [US647853](../patents/US647853.md) | 1900 | Long, Eugene McLean | Finger levers print dots and dashes around a vertical dash, and a thumb lever with its own type prints in three positions, making the pocket machine usable for shorthand. |
+| [US710089](../patents/US710089.md) | 1902 | Williams, George H. | Six rows of keys each shift a curved segment typebar sideways so one chosen character per row aligns across the tape, and hammers print them simultaneously. |
 | [US810209](../patents/US810209.md) | 1906 | Keel, Charles E. | A hollow cylindrical platen that moves endwise along a sleeve as it turns, driven by a screw thread against a rack bar, with small typebars arranged for shorthand. |
 | [US828192](../patents/US828192.md) | 1906 | Chambonnaud, Léon | A chord keyboard strikes several keys at once, each group on its own printing point, to print whole syllables phonetically in ordinary letters. |
 | [US852994](../patents/US852994.md) | 1907 | Bivort, Charles | Keys feed the paper band and ribbon, take up the written band on a receiving drum, and a shiftable carriage of multi-type levers. |

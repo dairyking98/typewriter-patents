@@ -2,7 +2,7 @@
 
 For the blind (embossing
 
-**19 patents**, 1843–1935. Often together with: [IMP:press-through](../features/imp-press-through.md) (9), [ESC:print-and-space](../features/esc-print-and-space.md) (8), [IMP:anvil-backing](../features/imp-anvil-backing.md) (7), [ESC:space-key](../features/esc-space-key.md) (6), [ESC:spring-drum](../features/esc-spring-drum.md) (6), [ELEM:interchangeable](../features/elem-interchangeable.md) (6), [ESC:variable-spacing](../features/esc-variable-spacing.md) (5), [ESC:pawl-rack](../features/esc-pawl-rack.md) (5)
+**22 patents**, 1843–1935. Often together with: [IMP:press-through](../features/imp-press-through.md) (10), [ESC:print-and-space](../features/esc-print-and-space.md) (8), [IMP:anvil-backing](../features/imp-anvil-backing.md) (7), [ESC:space-key](../features/esc-space-key.md) (6), [SEL:keyboard-full](../features/sel-keyboard-full.md) (6), [ESC:spring-drum](../features/esc-spring-drum.md) (6), [SEL:keyboard-few-keys](../features/sel-keyboard-few-keys.md) (6), [PAP:platen-roller](../features/pap-platen-roller.md) (6)
 
 ## Patents, oldest first
 
@@ -17,9 +17,12 @@ For the blind (embossing
 | [US422614](../patents/US422614.md) | 1890 | Nolan, Edward J. | Electromagnet-driven punches that emboss dots into paper on a grooved platen, with raised characters on the keys. |
 | [DE54385](../patents/DE54385.md) | 1890 |  | Two coaxial discs, one with raised letters on its upper edge and the other with matching matrices, are turned by the finger of the blind user to a stop and then self-centred and embossed through the paper by a lifted punch, the paper advancing by each letter's width. |
 | [US443977](../patents/US443977.md) | 1890 | Sthreshley, Lizzie | A hand embossing implement with a spring-fed carriage on a cylindrical rack and depressed levers that press points into paper over a plate of projections. |
+| [US521397](../patents/US521397.md) | 1894 | Wait, William B. | A keyboard of levers drives a row of embossing styluses against a die, several at once if needed, to dent the paper in point-writing patterns. |
+| [US556422](../patents/US556422.md) | 1896 | von Kunowski, Albrecht | Arrange keys on four curved guiding lines matching thumb and finger paths, with large main keys on the lines and smaller by-keys before and behind, hands resting on cushions. |
 | [US579433](../patents/US579433.md) | 1897 | Hertzberg, Rafaël | A polygonal type roller carries ordinary and Braille characters on its upper index faces and matching types and pins on its lower printing faces, in a slide frame pressed down to print. |
 | [US629233](../patents/US629233.md) | 1899 | Burg, Hubert | A type-cylinder that is shifted, rotated and pressed against the paper by combinations of two simultaneously depressed keys, one from each hand, with a shift key selecting sections of the cylinder. |
 | [US703689](../patents/US703689.md) | 1902 | Young, William Henry | A finger guide attached to a sliding type bar is moved over a lettered indicator plate by feel, and when the finger is over the character, pressing the plate itself impresses that type and spaces the paper. |
+| [US726107](../patents/US726107.md) | 1903 | Stanton, Horace C. | Key-tops of distinct shapes, arranged so no two same-shaped keys are adjacent under one hand, with guide keys, let fingers recognise each key by feel. |
 | [US780102](../patents/US780102.md) | 1905 | Hammond, James B. | Make the Hammond universal by giving it a reversible carriage drive, a turret hammer with several faces, an exchangeable shuttle and rotating multi-face keys, built on a U-shaped frame that backs the anvil. |
 | [US783432](../patents/US783432.md) | 1905 | Hammond, James B. | Drive the carriage by a cord that can be re-clipped to either end and mesh either the escapement gear or a smaller always-meshed change gear with the carriage rack, so one escapement steps the carriage in either direction. |
 | [US800149](../patents/US800149.md) | 1905 | Hammond, James B. | A small Hammond shuttle bearing only a few single points or point groups, struck against a hammer with only three pits, builds each Braille cell from two successive key strokes. |

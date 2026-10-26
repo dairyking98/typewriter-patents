@@ -2,7 +2,7 @@
 
 Carbon paper or inked strip instead of ribbon
 
-**20 patents**, 1856–1924. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (8), [PAP:platen-roller](../features/pap-platen-roller.md) (7), [ESC:space-key](../features/esc-space-key.md) (6), [PAP:line-space](../features/pap-line-space.md) (6), [INK:ribbon](../features/ink-ribbon.md) (6), [ESC:pawl-rack](../features/esc-pawl-rack.md) (6), [PAP:manifold](../features/pap-manifold.md) (6), [SEL:keyboard-full](../features/sel-keyboard-full.md) (5)
+**22 patents**, 1856–1924. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (8), [PAP:platen-roller](../features/pap-platen-roller.md) (7), [PAP:manifold](../features/pap-manifold.md) (7), [ESC:space-key](../features/esc-space-key.md) (6), [PAP:flat-bed](../features/pap-flat-bed.md) (6), [PAP:line-space](../features/pap-line-space.md) (6), [INK:ribbon](../features/ink-ribbon.md) (6), [ESC:pawl-rack](../features/esc-pawl-rack.md) (6)
 
 ## Patents, oldest first
 
@@ -22,6 +22,8 @@ Carbon paper or inked strip instead of ribbon
 | [US575147](../patents/US575147.md) | 1897 | Burridge - Marshman, Lee S. - Newman R. | A sheet inker, carried on the paper carriage, is automatically stepped across the carriage's travel and at right angles by the platen's line-feed, then restored by a mutilated pinion. |
 | [US607270](../patents/US607270.md) | 1898 | Pastre - Lambert, Eugène - Frank | A single nutating disc key with all characters marked on it carries a rigid spherical type-ring beneath it; pressing the edge at a character tilts the ring until a stop pin seats in a recess, and continued pressure drives the ring straight down to print and release a spring carriage for one space. |
 | [US649514](../patents/US649514.md) | 1900 | Gorin, Fred P. | A carriage attachment holds a supplemental inking ribbon that can be thrown in or out of the way to make one copy or several copies. |
+| [US699784](../patents/US699784.md) | 1902 | Brooks, Byron A. | Use paper coated with a material that visibly changes colour under electric current and make the platen surface a conductor, so the type closes a battery circuit through the paper and prints with no ribbon. |
+| [US709893](../patents/US709893.md) | 1902 | Eylar, Matthew S. | An insulating sheet fixed to the paper-confining frame is slid under the carbon sheet to stop it transferring print onto selected areas of the lower copy. |
 | [US856333](../patents/US856333.md) | 1907 | Bolton, Herbert D. | A web feeding and roll-supporting mechanism with separate retention of paper and transfer ribbons so each can move independently. |
 | [US874695](../patents/US874695.md) | 1907 | Ehrenfried, Mirus | An oscillating type segment strikes the back of the paper through a slot in the carriage, against a small replaceable ivory block in front, with a narrow inking band running vertically over the block so the line stays visible. |
 | [US970195](../patents/US970195.md) | 1910 | Donning, George W. | A flat-platen book typewriter with a suspended writing carriage that travels laterally on a longitudinally travelling carriage over a laterally moving book support. |

@@ -2,7 +2,7 @@
 
 Toy or educational machine
 
-**18 patents**, 1876–1940. Often together with: [FRM:few-parts](../features/frm-few-parts.md) (18), [SEL:selector-locking](../features/sel-selector-locking.md) (7), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (7), [IMP:press-through](../features/imp-press-through.md) (7), [INK:ribbon](../features/ink-ribbon.md) (7), [IMP:print-lever](../features/imp-print-lever.md) (6), [IMP:platen-to-element](../features/imp-platen-to-element.md) (6), [INK:pad](../features/ink-pad.md) (6)
+**19 patents**, 1876–1940. Often together with: [FRM:few-parts](../features/frm-few-parts.md) (19), [IMP:press-through](../features/imp-press-through.md) (8), [SEL:selector-locking](../features/sel-selector-locking.md) (7), [ELEM:wheel-rim](../features/elem-wheel-rim.md) (7), [INK:ribbon](../features/ink-ribbon.md) (7), [ESC:pawl-rack](../features/esc-pawl-rack.md) (7), [IMP:print-lever](../features/imp-print-lever.md) (6), [IMP:platen-to-element](../features/imp-platen-to-element.md) (6)
 
 ## Patents, oldest first
 
@@ -15,6 +15,7 @@ Toy or educational machine
 | [US429025](../patents/US429025.md) | 1890 | Foss - Keith, Lewis T. - Thomas K. | Elastic spring plungers carrying a type at the bottom run through bent conduit tubes into a funnel so every type is directed to one printing point. |
 | [US432025](../patents/US432025.md) | 1890 | Felt, Frank | A flat type-head bar with a row of type on each edge and cylindrical handle ends is pressed by hand onto paper over a ridge platen between two ink pads, and rotated to choose the edge. |
 | [US448760](../patents/US448760.md) | 1891 | Fisher, Miers | A stencil plate that rolls across the paper on toothed spacing drums, with a hand-held stylus bearing type and fed by an ink pad. |
+| [US487897](../patents/US487897.md) | 1892 | Wilson, James E. | A hand-turned type wheel on a frame that slides along a rack bar prints by a downward movement, and the same up-down stroke of the frame advances it one tooth. |
 | [US672680](../patents/US672680.md) | 1901 | Marshman, Newman R. | A pointer turned over an alphabet plate (with locking notches) rotates a type wheel carrying an elastic band of pictures; a finger button drives a hammer inside the rim that stretches the chosen picture to the card. |
 | [US789175](../patents/US789175.md) | 1905 | Sherin, Gilbert W. | A flat disc type wheel with a handle sits on a sheet-metal carriage that slides in a slotted base plate lying on the paper; turn the wheel by hand, press it down near the pointer to print, and advance the carriage with a toothed spacing wheel. |
 | [US826616](../patents/US826616.md) | 1906 | Sherin, Gilbert W. | An endless type belt on two hand-turned spools rides on a traveling plate, and a single hammer lever presses the aligned type through a guideway opening onto the paper while the same stroke advances the plate one tooth. |

@@ -2,7 +2,7 @@
 
 Flexible type band or belt
 
-**18 patents**, 1886–1940. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (12), [ESC:pawl-rack](../features/esc-pawl-rack.md) (11), [FRM:few-parts](../features/frm-few-parts.md) (10), [SEL:pointer-chart](../features/sel-pointer-chart.md) (7), [SEL:selector-locking](../features/sel-selector-locking.md) (7), [IMP:press-through](../features/imp-press-through.md) (7), [ESC:moving-print-head](../features/esc-moving-print-head.md) (7), [FRM:writing-visible](../features/frm-writing-visible.md) (7)
+**19 patents**, 1886–1940. Often together with: [ESC:print-and-space](../features/esc-print-and-space.md) (12), [ESC:pawl-rack](../features/esc-pawl-rack.md) (11), [FRM:few-parts](../features/frm-few-parts.md) (10), [ESC:moving-print-head](../features/esc-moving-print-head.md) (8), [SEL:pointer-chart](../features/sel-pointer-chart.md) (7), [SEL:selector-locking](../features/sel-selector-locking.md) (7), [IMP:press-through](../features/imp-press-through.md) (7), [IMP:element-to-platen](../features/imp-element-to-platen.md) (7)
 
 ## Patents, oldest first
 
@@ -17,6 +17,7 @@ Flexible type band or belt
 | [US638131](../patents/US638131.md) | 1899 | Marshman, Newman R. | A swinging bail with a feed roller pressing a second roller on the carriage clamps and feeds a sheet, with a clip-and-slide label carrier and sheet holders. |
 | [US647375](../patents/US647375.md) | 1900 | Carmona, Manuel S. | A simpler and lighter five-key machine that selects among type-bands and travels bodily over stationary paper. |
 | [US691601](../patents/US691601.md) | 1902 | Consentino - Palumbo, Thomas - Frank | A hand-held rule carries an endless type band that one plunger advances until the chosen character shows opposite an index, while a second plunger fires a striker onto the band and then steps the striker and index one space along the line. |
+| [US696304](../patents/US696304.md) | 1902 | Thompson - Becker, William J. - Philip | A flexible type-form mounted for rotary movement in a basket carriage, turned by a finger-wheel to locate the type, with devices that flex the type to print and move the carriage to space. |
 | [US702706](../patents/US702706.md) | 1902 | Coffman, George W. | A flexible type band with lower- and upper-case rows is slid under a roller by a key placed in a hole of a character chart, and the roller presses the chosen type through a window onto the paper. |
 | [US826616](../patents/US826616.md) | 1906 | Sherin, Gilbert W. | An endless type belt on two hand-turned spools rides on a traveling plate, and a single hammer lever presses the aligned type through a guideway opening onto the paper while the same stroke advances the plate one tooth. |
 | [US1121284](../patents/US1121284.md) | 1914 | Payne, Halbert Edwin | A simple index machine with a flexible type band moved lengthwise by an index over a keyboard-layout plate and tilted by a key lever to print. |

@@ -2,7 +2,7 @@
 
 Combined with adding or calculating
 
-**60 patents**, 1890–1950. Often together with: [PAP:platen-roller](../features/pap-platen-roller.md) (11), [IMP:hammer-behind](../features/imp-hammer-behind.md) (10), [INK:ribbon](../features/ink-ribbon.md) (10), [PAP:feed-rollers](../features/pap-feed-rollers.md) (10), [ESC:tabulator](../features/esc-tabulator.md) (10), [USE:accessory](../features/use-accessory.md) (10), [ELEM:typebar](../features/elem-typebar.md) (10), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (9)
+**61 patents**, 1890–1950. Often together with: [ESC:tabulator](../features/esc-tabulator.md) (11), [USE:accessory](../features/use-accessory.md) (11), [PAP:platen-roller](../features/pap-platen-roller.md) (11), [IMP:hammer-behind](../features/imp-hammer-behind.md) (10), [INK:ribbon](../features/ink-ribbon.md) (10), [PAP:feed-rollers](../features/pap-feed-rollers.md) (10), [ELEM:typebar](../features/elem-typebar.md) (10), [INK:ribbon-feed](../features/ink-ribbon-feed.md) (9)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (2), [Remington Portable 3](../machines/remington-portable-3.md) (2), [Remington Port. Tab](../machines/remington-port-tab.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1), [Blickensderfer 4](../machines/blickensderfer-4.md) (1), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (1), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (1), [Blickensderfer 7](../machines/blickensderfer-7.md) (1), [Blickensderfer 8](../machines/blickensderfer-8.md) (1), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (1), [Dactyle](../machines/dactyle.md) (1)
 
@@ -17,6 +17,7 @@ Combined with adding or calculating
 | [US559921](../patents/US559921.md) | 1896 | Williamson, David Charles | A slip-on auxiliary scale clipped over the machine's carriage scale, graduated by denomination (cents, units, tens, thousands) so the pointer shows where each line's first figure belongs. |
 | [US573622](../patents/US573622.md) | 1896 | Richards, Francis H. | Mount the traveling jacquard so the assembled apparatus slides into and out of the machine framework, with guides and resetting pawls. |
 | [US575570](../patents/US575570.md) | 1897 | Marshall, Holmes | An adding machine under the typewriter has plungers on a carriage that press its keys when typewriter keys are struck. |
+| [US630725](../patents/US630725.md) | 1899 | Miner, Robert J. | An attachment with numbered keys that set the carriage stop at the correct column so figures align automatically. |
 | [US654992](../patents/US654992.md) | 1900 | Marshall, Holmes | Give the computer's plunger carriage its own escapement, operated by the numeral keys, so its lateral movement is independent of the typewriter carriage. |
 | [US718390](../patents/US718390.md) | 1903 | Schuman, Alexander C. | A platen frame that slides out beyond the right end of the carriage when raised, so paper can be fed to a Burroughs accountant. |
 | [US779992](../patents/US779992.md) | 1905 | Cram, Edwin B. | A splined type wheel is turned by a lever sweeping a curved character scale, slid along its shaft by a rack-feed dog, and pressed down onto a pivoted platen by one key that also locks the wheel in alignment and spaces it. |
