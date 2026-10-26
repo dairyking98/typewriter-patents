@@ -14,29 +14,29 @@ See also [Typewriter features through time](typewriter-features.md) (when each f
 | 1868 | Sholes, Glidden & Soule patent the type-writer: Sholes, Glidden & Soule type-writer (patent model) |  |
 | 1873 | Remington contracts to build the Sholes & Glidden: [Sholes & Glidden "Type Writer"](../machines/sholes-glidden-2.md) |  |
 | 1874 | Carriage return by foot treadle, soon replaced by a hand lever: [Sholes & Glidden "Type Writer"](../machines/sholes-glidden-3.md) | [Carriage return and line space](typewriter-features.md) |
-| 1874 | Sholes & Glidden goes on sale with the QWERTY keyboard: [Sholes & Glidden "Type Writer" (Remington Model 1)](../machines/sholes-glidden-3.md) | [QWERTY keyboard](typewriter-features.md) |
+| 1874 | Sholes & Glidden goes on sale with the QWERTY keyboard: [Sholes & Glidden "Type Writer" (Remington No. 1)](../machines/sholes-glidden-3.md) | [QWERTY keyboard](typewriter-features.md) |
 | 1874 | Sholes & Glidden prints through a travelling inked ribbon: [Sholes & Glidden "Type Writer"](../machines/sholes-glidden-3.md) | [Ink ribbon](typewriter-features.md) |
 | 1878 | Bell warns of the line end: Remington blind models (No. 2 era) | [Line-end bell](typewriter-features.md) |
 | 1878 | Remington No. 2 adds the shift key: [Remington No. 2](../machines/remington-2.md) | [Shift key (case shift)](typewriter-features.md) |
 | 1878 | Sholes patents the QWERTY keyboard: Sholes type-writer (keyboard patent) | [QWERTY keyboard](typewriter-features.md) |
-| 1880 | Hammond patent: interchangeable type shuttle: Hammond Model 1 (Ideal keyboard) | [Interchangeable type](typewriter-features.md) |
-| 1881 | Caligraph: first double-keyboard machine: [Caligraph (Model 1 caps only; No. 2 upper and lower case)](../machines/caligraph-1.md) |  |
-| 1883 | Crandall type-sleeve machine: Crandall Model 1 (patent: three-bank Crandall) | [Interchangeable type](typewriter-features.md) |
-| 1887 | Yost: ink pad instead of a ribbon: [Yost Model 1](../machines/yost-1.md) |  |
+| 1880 | Hammond patent: interchangeable type shuttle: Hammond No. 1 (Ideal keyboard) | [Interchangeable type](typewriter-features.md) |
+| 1881 | Caligraph: first double-keyboard machine: [Caligraph (No. 1 caps only; No. 2 upper and lower case)](../machines/caligraph-1.md) |  |
+| 1883 | Crandall type-sleeve machine: Crandall No. 1 (patent: three-bank Crandall) | [Interchangeable type](typewriter-features.md) |
+| 1887 | Yost: ink pad instead of a ribbon: [Yost No. 1](../machines/yost-1.md) |  |
 | 1889 | Columbia Bar-Lock: early downstrike visible writer: Columbia Bar-Lock | [Visible writing](typewriter-features.md) |
 | 1890 | Gathright tabulator patent: Underwood (tabulator later controlled by Underwood) | [Tabulator](typewriter-features.md) |
-| 1890 | Smith Premier Model 1: [Smith Premier Model 1](../machines/smith-premier-1.md) |  |
+| 1890 | Smith Premier No. 1: [Smith Premier No. 1](../machines/smith-premier-1.md) |  |
 | 1891 | Daugherty patent: front-strike visible machine: Daugherty Visible | [Visible writing](typewriter-features.md) |
 | 1891 | Densmore: early practical back-spacer: [Densmore](../machines/densmore-1.md) | [Backspace](typewriter-features.md) |
-| 1891 | Oliver patent; Oliver Model 1 follows: [Oliver Model 1](../machines/oliver-1.md) | [Visible writing](typewriter-features.md) |
+| 1891 | Oliver patent; Oliver No. 1 follows: [Oliver No. 1](../machines/oliver-1.md) | [Visible writing](typewriter-features.md) |
 | 1893 | Blickensderfer: portable type-wheel machine: [Blickensderfer No. 5](../machines/blickensderfer-5-a.md) | [Portable machines](typewriter-features.md) |
 | 1893 | Crandall offers a two-colour ribbon: [Crandall (later model)](../machines/crandall-no-3.md) | [Two-colour ribbon](typewriter-features.md) |
 | 1893 | Union Typewriter Co. makes QWERTY the standard:  | [QWERTY keyboard](typewriter-features.md) |
 | 1894 | Wagner visible-writing patent (basis of the Underwood): Wagner / Underwood front-strike | [Visible writing](typewriter-features.md) |
 | 1895 | Bar-Lock No. 4 tabulator: Columbia Bar-Lock No. 4 | [Tabulator](typewriter-features.md) |
 | 1896 | Remington automatic ribbon reverse: [Remington (No. 6/7 era)](../machines/remington-7.md) | [Automatic ribbon reverse](typewriter-features.md) |
-| 1896 | Underwood Model 1: front-strike, fully visible: Underwood Model 1 | [Visible writing](typewriter-features.md) |
-| 1897 | Underwood builds the tabulator into the machine: Underwood Model 1 | [Tabulator](typewriter-features.md) |
+| 1896 | Underwood No. 1: front-strike, fully visible: Underwood No. 1 | [Visible writing](typewriter-features.md) |
+| 1897 | Underwood builds the tabulator into the machine: Underwood No. 1 | [Tabulator](typewriter-features.md) |
 | 1898 | Gorin decimal tabulator on the Remington: [Remington (attachment)](../machines/remington-8.md) | [Decimal tabulator](typewriter-features.md) |
 | 1898 | Hammond back spacer: [Hammond (No. 2 / No. 12)](../machines/hammond-2-ideal.md) | [Backspace](typewriter-features.md) |
 | 1900 | Cahill electric typewriter: Cahill electric | [Electric drive](typewriter-features.md) |
@@ -46,11 +46,11 @@ See also [Typewriter features through time](typewriter-features.md) (when each f
 | 1908 | Remington No. 10: Remington goes visible: [Remington No. 10](../machines/remington-10.md) | [Visible writing](typewriter-features.md) |
 | 1909 | Bichrome ribbon becomes standard: Standard office machines (e.g. Underwood No. 5) | [Two-colour ribbon](typewriter-features.md) |
 | 1909 | Built-in tabulator and backspace become standard: Standard office machines | [Backspace](typewriter-features.md) |
-| 1910 | Noiseless typewriter: Noiseless Model 1 |  |
+| 1910 | Noiseless typewriter: Noiseless No. 1 |  |
 | 1911 | Remington key-set decimal tabulator: [Remington](../machines/remington-11.md) | [Decimal tabulator](typewriter-features.md) |
 | 1912 | Corona No. 3 folding portable: [Corona No. 3](../machines/corona-3.md) | [Portable machines](typewriter-features.md) |
 | 1912 | Smathers power typewriter patent: Smathers power-operated typewriter | [Electric drive](typewriter-features.md) |
-| 1920 | Remington Portable: four-row keyboard: Remington Portable (Model 1) | [Portable machines](typewriter-features.md) |
+| 1920 | Remington Portable: four-row keyboard: Remington Portable No. 1 | [Portable machines](typewriter-features.md) |
 | 1925 | Remington Electric: [Remington Electric](../machines/remington-electric.md) | [Electric drive](typewriter-features.md) |
 | 1929 | Electromatic: [Electromatic](../machines/electromatic.md) | [Electric drive](typewriter-features.md) |
 | 1935 | IBM Electric Model 01: IBM Electric Typewriter Model 01 | [Electric drive](typewriter-features.md) |
@@ -153,9 +153,9 @@ Sources: [hagley.org](https://hagley.org/node/2906), [patents.google.com](https:
 
 ### 1880: Hammond patent: interchangeable type shuttle
 
-James B. Hammond patents a type-wheel machine whose type shuttle can be swapped in seconds to change typeface or language; the Hammond Model 1 reached buyers in 1884.
+James B. Hammond patents a type-wheel machine whose type shuttle can be swapped in seconds to change typeface or language; the Hammond No. 1 reached buyers in 1884.
 
-**Machine:** Hammond Model 1 (Ideal keyboard) (Hammond Typewriter Co. (New York)) · **Patent:** [US224088](../patents/US224088.md), 1880-02-03, James B. Hammond · **Feature:** [Interchangeable type](typewriter-features.md) · **Confidence:** high
+**Machine:** Hammond No. 1 (Ideal keyboard) (Hammond Typewriter Co. (New York)) · **Patent:** [US224088](../patents/US224088.md), 1880-02-03, James B. Hammond · **Feature:** [Interchangeable type](typewriter-features.md) · **Confidence:** high
 
 Sources: [gutenberg.org](https://www.gutenberg.org/ebooks/60794), [princeton.edu](https://www.princeton.edu/~graphicarts/2012/07/a_typewriter.html)
 
@@ -173,9 +173,9 @@ Sources: [antiquetypewriters.com](https://www.antiquetypewriters.com/typewriter/
 
 ### 1883: Crandall type-sleeve machine
 
-Crandall's type sleeve, a removable cylinder carrying all the characters, goes into production with the Crandall Model 1 in 1883 after his 1881 patent.
+Crandall's type sleeve, a removable cylinder carrying all the characters, goes into production with the Crandall No. 1 in 1883 after his 1881 patent.
 
-**Machine:** Crandall Model 1 (patent: three-bank Crandall) (Crandall Machine Co. (Groton / Syracuse, NY)) · **Patent:** [US251338](../patents/US251338.md), 1881-12-20, Lucien S. Crandall · **Feature:** [Interchangeable type](typewriter-features.md) · **Confidence:** medium
+**Machine:** Crandall No. 1 (patent: three-bank Crandall) (Crandall Machine Co. (Groton / Syracuse, NY)) · **Patent:** [US251338](../patents/US251338.md), 1881-12-20, Lucien S. Crandall · **Feature:** [Interchangeable type](typewriter-features.md) · **Confidence:** medium
 
 Sources: [antiquetypewriters.com](https://www.antiquetypewriters.com/typewriter/crandall-1-typewriter/), [patents.google.com](https://patents.google.com/patent/US251338A/en)
 
@@ -214,7 +214,7 @@ Sources: [archive.org](https://archive.org/details/evolutionoftypew00oden), [pat
 
 *Second Gathright patent US452268 (1891-05-12,). Underwood owned and enforced these patents (Underwood v. Fox, 1909). Oden (1917) says the Underwood "controlled all patents... covering the tabulating idea".*
 
-### 1890: Smith Premier Model 1
+### 1890: Smith Premier No. 1
 
 Lyman C. Smith markets Alexander T. Brown's Smith Premier, which became the leading double-keyboard machine and had a built-in type-cleaning brush.
 
@@ -244,7 +244,7 @@ Sources: [archive.org](https://archive.org/details/evolutionoftypew00oden), [arc
 
 *Disputed first: Oden (1917) credits the Densmore; Mares (1909) thinks the Hammond had it first, then the Densmore; hammondtypewriter.com puts Hammond first (1898) and cites a Travis patent (1897). It is not established that the 1891 Densmore already had the back-spacer.*
 
-### 1891: Oliver patent; Oliver Model 1 follows
+### 1891: Oliver patent; Oliver No. 1 follows
 
 Thomas Oliver patents his U-shaped downstrike typebars; the Oliver went on sale around 1894-95 and became the most successful downstrike visible writer.
 
@@ -314,11 +314,11 @@ Sources: [gutenberg.org](https://www.gutenberg.org/ebooks/60794), [archive.org](
 
 *Remington's own claim (Story of the Typewriter and Remington copy in Typewriter Topics 1923). Oden (1917) credits the Smith Premier with the first practical automatic ribbon reverse; Spiro had ribbon-reverse patents from 1890; US446886 (Joshua Pusey, 1891,) is an earlier ribbon-feed-reversing patent for Remington-type machines. Webb's patent number not found.*
 
-### 1896: Underwood Model 1: front-strike, fully visible
+### 1896: Underwood No. 1: front-strike, fully visible
 
-The Underwood Model 1 strikes the front of the platen so the whole line stays in view, the layout that every standard typewriter later copied.
+The Underwood No. 1 strikes the front of the platen so the whole line stays in view, the layout that every standard typewriter later copied.
 
-**Machine:** Underwood Model 1 (Wagner Typewriter Co. / Underwood Typewriter Co. (New York)) · **Patent:** [US559345](../patents/US559345.md), 1896-04-28, Herman L. Wagner; Franz X. Wagner · **Feature:** [Visible writing](typewriter-features.md) · **Confidence:** high
+**Machine:** Underwood No. 1 (Wagner Typewriter Co. / Underwood Typewriter Co. (New York)) · **Patent:** [US559345](../patents/US559345.md), 1896-04-28, Herman L. Wagner; Franz X. Wagner · **Feature:** [Visible writing](typewriter-features.md) · **Confidence:** high
 
 Sources: [antiquetypewriters.com](https://www.antiquetypewriters.com/typewriter/underwood-1-typewriter/), [collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk/objects/co38171/underwood-1-typewriter-1897)
 
@@ -328,7 +328,7 @@ Sources: [antiquetypewriters.com](https://www.antiquetypewriters.com/typewriter/
 
 The Underwood is the first machine with a tabulator built in at no extra charge, for setting work in neat columns.
 
-**Machine:** Underwood Model 1 (Underwood Typewriter Co.) · **Feature:** [Tabulator](typewriter-features.md) · **Confidence:** medium
+**Machine:** Underwood No. 1 (Underwood Typewriter Co.) · **Feature:** [Tabulator](typewriter-features.md) · **Confidence:** medium
 
 Sources: [collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk/objects/co38171/underwood-1-typewriter-1897), [archive.org](https://archive.org/details/in.ernet.dli.2015.201721)
 
@@ -431,11 +431,11 @@ Sources: [archive.org](https://archive.org/details/in.ernet.dli.2015.201721), [h
 
 Kidder's Noiseless replaces the hammer blow with a pressing typebar so the machine is quiet; a cam-driven first model was replaced by Anderson's 1912 type action.
 
-**Machine:** Noiseless Model 1 (Noiseless Typewriter Co. (Middletown, CT)) · **Confidence:** medium
+**Machine:** Noiseless No. 1 (Noiseless Typewriter Co. (Middletown, CT)) · **Confidence:** medium
 
 Sources: [archive.org](https://archive.org/details/TypewriterTopicsVol55No2Oct1923-medium), [typewriterdatabase.com](https://typewriterdatabase.com/1910-noiseless-no1.11099.typewriter)
 
-*Dates: first production Model 1 c. 1910 (typewriterdatabase, serial 1066); 1912 company catalogue (Hagley); Wikipedia says the company released its first model in 1917. Kidder's noiseless patents filed 1908-09; numbers not established.*
+*Dates: first production Noiseless No. 1 c. 1910 (typewriterdatabase, serial 1066); 1912 company catalogue (Hagley); Wikipedia says the company released its first model in 1917. Kidder's noiseless patents filed 1908-09; numbers not established.*
 
 ### 1911: Remington key-set decimal tabulator
 
@@ -474,7 +474,7 @@ Sources: [patents.google.com](https://patents.google.com/patent/US1077005A/en), 
 
 The Remington Portable is the first portable with the full four-row standard keyboard, shown at the New York Business Show in October 1920.
 
-**Machine:** Remington Portable (Model 1) (Remington Typewriter Co.) · **Feature:** [Portable machines](typewriter-features.md) · **Confidence:** high
+**Machine:** Remington Portable No. 1 (Remington Typewriter Co.) · **Feature:** [Portable machines](typewriter-features.md) · **Confidence:** high
 
 Sources: [archive.org](https://archive.org/details/TypewriterTopicsVol55No2Oct1923-medium), [si.edu](https://www.si.edu/object/nmah_850041)
 
@@ -518,7 +518,7 @@ The IBM Executive gives each letter a width in units of 1/32 inch (proportional 
 
 Sources: [en.wikipedia.org](https://en.wikipedia.org/wiki/IBM_Electric), [typewriterdatabase.com](https://typewriterdatabase.com/1950-ibm-model-04-executive.15625.typewriter)
 
-*"First proportional" is disputed: antiquetypewriters credits the Crandall Model 1 (1883) with 2-, 3- and 4-unit spacing, and Hammond advertised variable spacing in 1923 (Typewriter Topics). Typewriter Database says the first Executive went to President Roosevelt. Patent number not found.*
+*"First proportional" is disputed: antiquetypewriters credits the Crandall No. 1 (1883) with 2-, 3- and 4-unit spacing, and Hammond advertised variable spacing in 1923 (Typewriter Topics). Typewriter Database says the first Executive went to President Roosevelt. Patent number not found.*
 
 ## About this page
 

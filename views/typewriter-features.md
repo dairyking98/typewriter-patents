@@ -19,7 +19,7 @@ The features typewriters gained between the 1860s and 1950, in the order they fi
 | **QWERTY keyboard** | 1878, [US207559](../patents/US207559.md) (Sholes, C. Latham) | 1874, [Sholes & Glidden](../machines/sholes-glidden-3.md) | 1900s | ` ▁ ▁▄█▁▃  ` | Still the standard layout of computer and phone keyboards. |
 | **Shift key (case shift)** | 1878, [US202923](../patents/US202923.md) (Brooks, Byron A.) | 1878, [Remington 2](../machines/remington-2.md) | 1900s | ` ▁▁▃█▆▃▂▁▁` | The Shift key. |
 | **Line-end bell** | 1880, [US224088](../patents/US224088.md) (Hammond, James B.) | 1878, Remington blind models (No. 2 era)? |  | `  ▁█▆▄▁▁▁ ` | The terminal bell (BEL in ASCII). |
-| **Interchangeable type** | 1880, [US224088](../patents/US224088.md) (Hammond, James B.) | 1880, Hammond Model 1 (Ideal keyboard) |  | `  ██▅▃▇▅▁ ` | Changeable fonts: the Selectric's golf ball (1961), daisy wheels, then digital fonts. |
+| **Interchangeable type** | 1880, [US224088](../patents/US224088.md) (Hammond, James B.) | 1880, Hammond No. 1 (Ideal keyboard) |  | `  ██▅▃▇▅▁ ` | Changeable fonts: the Selectric's golf ball (1961), daisy wheels, then digital fonts. |
 | **Proportional spacing** | 1881, [US251338](../patents/US251338.md) (Crandall, Lucien S.) | 1944, IBM Executive |  | `  ▃█▆▃    ` | Proportional fonts: nearly all text today. |
 | **Correction and erasing** | 1881, [US246960](../patents/US246960.md) (Lindgren, Justus F.) |  |  | ` ▁▁▄█▅▁▁▁▁` | Delete and undo. |
 | **Automatic ribbon reverse** | 1884, [US309272](../patents/US309272.md) (Whitcomb, James A.) | 1896, [Remington 7](../machines/remington-7.md) |  | `  ▁▄█▇▂▁▁▁` |  |
