@@ -4,15 +4,15 @@
 
 Arm swung over an arc or semicircular scale to choose the character
 
-**62 patents**, 1871–1935. Often together with:
+**64 patents**, 1871–1935. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (37), [Pointer over a chart](../features/sel-pointer-chart.md) (31)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (38), [Pointer over a chart](../features/sel-pointer-chart.md) (33)
 - **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (30), [Separate print key or lever](../features/imp-print-lever.md) (30)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (44), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (41)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (32)
+- **Impression:** [Separate print key or lever](../features/imp-print-lever.md) (32), [Element struck to the platen](../features/imp-element-to-platen.md) (31)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (44), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (43)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (34)
 
-**Machines:** [Gundka 3](../machines/gundka-3.md) (2), [Gundka 5](../machines/gundka-5.md) (2), [Boston](../machines/boston.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Travis](../machines/travis.md) (1), [American Index](../machines/american-index.md) (1), [Gerda 2](../machines/gerda-2.md) (1)
+**Machines:** [Boston](../machines/boston.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Travis](../machines/travis.md) (1), [American Index](../machines/american-index.md) (1), [Gundka 3](../machines/gundka-3.md) (1), [Gundka 5](../machines/gundka-5.md) (1), [Gerda 2](../machines/gerda-2.md) (1)
 
 ## Patents, oldest first
 
@@ -73,10 +73,12 @@ Arm swung over an arc or semicircular scale to choose the character
 | [US953489](../patents/US953489.md) | 1910 | Petit, Nelzire Francis | A rubber type disk carried on a small hand-moved carriage is turned by a pointer arm over a serrated-edge dial, and pressing the carriage down onto a rolling platen prints the selected type while an alternating tooth pair advances the carriage one space. |
 | [US987626](../patents/US987626.md) | 1911 | Hartog, Stephen D. | Arcuate rows of characters on a fixed dial are read by pointers on a rotating punch carrier, and a toggle joint between the handle and punch lever gives the punches high pressure. |
 | [US1074858](../patents/US1074858.md) | 1913 | Groyen, Ferdinand | A toothed gear wheel coupled to the platen shaft by a clutch, driven by a lever-operated toothed sector on a slide that can be thrown out of mesh, positions the platen to any staff line or space. |
+| [JP27937](../patents/JP27937.md) | 1915 | Shinozawa, Yūsaku | A multi-row type drum is turned and the paper holder swung along the drum axis together by one handle with a pointer that moves over the character chart, then a hammer behind the paper presses it onto the chosen type. |
 | [DE319715](../patents/DE319715.md) | 1920 | Maschb, Mechanik Automobil Und | A type wheel carries both hole patterns (Braille) and block letters, with a spring-pin stamp on the opposite side of the paper pressing paper into the holes while the type prints, so both appear on the same side, reading left to right. |
 | [DE348153](../patents/DE348153.md) | 1922 | Hoffmann, Ferdinand | One swingable, radially pressable bracket on the housing both sets the type wheel and prints, and its return stroke advances the whole machine and the ribbon. |
 | [DE386555](../patents/DE386555.md) | 1923 | Muchajer, Paul | A guide lever coupled to the stylus lever carries a wedge that raises the type wheel to the selected row as the stylus moves over a three-ring character plate. |
 | [DE393929](../patents/DE393929.md) | 1924 | Emig, Georg | Put the pointer and character plate in the machine's symmetry plane directly above the type wheel axis, and have the pointer drive the wheel through a toothed segment and gear. |
-| [DE417060](../patents/DE417060.md) | 1925 | Muchajer, Paul | One cross-machine axis carries both the swivel plate and the shift lever, with a single key lever and stop buttons on the pushers limiting the shift to three rows. |
+| [JP62663](../patents/JP62663.md) | 1924 | Murakami, Masaomi | A ring-shaped rotating type tray has a post at its centre carrying a swinging rail, and a carriage with paper cylinder and a two-tube printing arm slides on it, pushing up an inked type, flipping it 180 degrees automatically and printing it, in either columns or rows. |
+| [DE417060](../patents/DE417060.md) | 1925 | S, Gundka Werk Vereinigte Blech | One cross-machine axis carries both the swivel plate and the shift lever, with a single key lever and stop buttons on the pushers limiting the shift to three rows. |
 | [DE576185](../patents/DE576185.md) | 1933 | Knorr, Alfred | A button moves a type wheel sector with a type plate tape about a vertical axis to the letter, and pressing the button swings the whole sector against the platen and locks it with a pawl. |
 | [US1986244](../patents/US1986244.md) | 1935 | Bates, Harry | A swinging arm with a button is dropped onto a depression in a keyboard-shaped plate, which turns an arcuate type segment to that character, and pressing down tilts the keyboard and platen frame so the paper meets the type. |

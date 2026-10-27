@@ -3,7 +3,7 @@
 
 ## Inventors
 
-[Fa, P Baumer](../people/fa-p.md) (1)
+[Fa, Polygraphische Ges](../people/fa-p.md) (1)
 
 ## Patents assigned (1)
 

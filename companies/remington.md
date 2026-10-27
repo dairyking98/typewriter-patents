@@ -41,7 +41,7 @@ Name variants: The Remington Typewriter Comp; REMINGTON TYPEWRITER CO; Remington
 
 ## Inventors
 
-[Yaw, Clio B](../people/yaw-c.md) (33), [Smith, Arthur W](../people/smith-a.md) (16), [Briggs, Arthur J](../people/briggs-a.md) (9), [Sholes, Zalmon G](../people/sholes-z.md) (8), [Barron, Walter J](../people/barron-w.md) (7), [Webb, George B](../people/webb-g.md) (7), [Seib, George A](../people/seib-g.md) (7), [Barr, John H](../people/barr-j.md) (7), [Shepard, Charles H](../people/shepard-c.md) (5), [Woodward, Oscar](../people/woodward-o.md) (5), [Ballou, George F](../people/ballou-g.md) (4), [Barney, Edwin E](../people/barney-e.md) (4), [Farnham - Smith - Phelps, Stephen H. - Arthur W. - Joseph](../people/farnham-smith-phelps-s.md) (4), [Roche, William Janson](../people/roche-w.md) (3), [Felbel, Jacob](../people/felbel-j.md) (3), [Jenne, William K](../people/jenne-w.md) (2), [Greenwood, George A](../people/greenwood-g.md) (2), [Waldheim, John](../people/waldheim-j.md) (2), [Carhart, Herbert A](../people/carhart-h.md) (2), [Sheldon, William Garfield](../people/sheldon-w.md) (2), [Smith, Charles E](../people/smith-c.md) (2), [Dodge, Philip T](../people/dodge-p.md) (1), [Dodge, Walter S](../people/dodge-w.md) (1), [Baker, Walter](../people/baker-w.md) (1), [Webb - Chapin, George B. - Louis N](../people/webb-chapin-g.md) (1), [Diss, Louis P](../people/diss-l.md) (1), [Trouslot, Eugene C](../people/trouslot-e.md) (1), [Steiger, Andrew W](../people/steiger-a.md) (1), [Stern, Vasili](../people/stern-v.md) (1), [Burnett, William E](../people/burnett-w.md) (1), [Peery, Roy W](../people/peery-r.md) (1), [Pool, Morris W](../people/pool-m.md) (1), [Orbell, Clifford](../people/orbell-c.md) (1), [Beaudry, Severe J](../people/beaudry-s.md) (1), [Smith, George H](../people/smith-g.md) (1), [Ellis, Albert H](../people/ellis-a.md) (1), [Hunter, Charles H](../people/hunter-c.md) (1), [Phelps, James Harper](../people/phelps-j.md) (1), [Higham - Risley, Harry William - Philemon](../people/higham-risley-h.md) (1), [Strother, Robert H](../people/strother-r.md) (1)
+[Co, Remington Typewriter](../people/co-r.md) (72), [Yaw, Clio B](../people/yaw-c.md) (33), [Smith, Arthur W](../people/smith-a.md) (16), [Briggs, Arthur J](../people/briggs-a.md) (9), [Sholes, Zalmon G](../people/sholes-z.md) (8), [Barron, Walter J](../people/barron-w.md) (7), [Webb, George B](../people/webb-g.md) (7), [Seib, George A](../people/seib-g.md) (7), [Barr, John H](../people/barr-j.md) (7), [Shepard, Charles H](../people/shepard-c.md) (5), [Woodward, Oscar](../people/woodward-o.md) (5), [Ballou, George F](../people/ballou-g.md) (4), [Barney, Edwin E](../people/barney-e.md) (4), [Farnham - Smith - Phelps, Stephen H. - Arthur W. - Joseph](../people/farnham-smith-phelps-s.md) (4), [Inc, Royal Typewriter Co](../people/inc-r.md) (4), [Roche, William Janson](../people/roche-w.md) (3), [Felbel, Jacob](../people/felbel-j.md) (3), [Jenne, William K](../people/jenne-w.md) (2), [Greenwood, George A](../people/greenwood-g.md) (2), [Waldheim, John](../people/waldheim-j.md) (2), [Carhart, Herbert A](../people/carhart-h.md) (2), [Sheldon, William Garfield](../people/sheldon-w.md) (2), [Smith, Charles E](../people/smith-c.md) (2), [Dodge, Philip T](../people/dodge-p.md) (1), [Dodge, Walter S](../people/dodge-w.md) (1), [Baker, Walter](../people/baker-w.md) (1), [Webb - Chapin, George B. - Louis N](../people/webb-chapin-g.md) (1), [Diss, Louis P](../people/diss-l.md) (1), [Trouslot, Eugene C](../people/trouslot-e.md) (1), [Steiger, Andrew W](../people/steiger-a.md) (1), [Stern, Vasili](../people/stern-v.md) (1), [Burnett, William E](../people/burnett-w.md) (1), [Peery, Roy W](../people/peery-r.md) (1), [Pool, Morris W](../people/pool-m.md) (1), [Orbell, Clifford](../people/orbell-c.md) (1), [Beaudry, Severe J](../people/beaudry-s.md) (1), [Smith, George H](../people/smith-g.md) (1), [Ellis, Albert H](../people/ellis-a.md) (1), [Hunter, Charles H](../people/hunter-c.md) (1), [Phelps, James Harper](../people/phelps-j.md) (1)
 
 ## Patents assigned (238)
 
@@ -204,84 +204,84 @@ Name variants: The Remington Typewriter Comp; REMINGTON TYPEWRITER CO; Remington
 | [US1161542](../patents/US1161542.md) | 1915-11-23 | Smith, Arthur W. | Type-Writing Machine |  |
 | [US1161915](../patents/US1161915.md) | 1915-11-30 | Yaw, Clio B. | Type-Writing Machine |  |
 | [US1164056](../patents/US1164056.md) | 1915-12-14 | Barr - Barney, John H. - Edwin E. | Type-Writing Machine | typebar |
-| [DE331594](../patents/DE331594.md) | 1920-02-15 |  | Device for fixing the bearing wire for the type lever of typewriters | typebar |
-| [DE321663](../patents/DE321663.md) | 1920-06-11 |  | Device for variable stroke movement of the ribbon fork |  |
-| [DE324144](../patents/DE324144.md) | 1920-08-24 |  | Universal rail mounting |  |
-| [DE329782](../patents/DE329782.md) | 1920-11-29 |  | Adjustment device for the paper roller |  |
-| [DE335713](../patents/DE335713.md) | 1921-04-09 |  | Type rods for typewriters | typebar |
-| [DE336670](../patents/DE336670.md) | 1921-05-07 |  | Carriage switching device |  |
-| [DE336671](../patents/DE336671.md) | 1921-05-10 |  | Paper carriage switching device |  |
-| [DE336672](../patents/DE336672.md) | 1921-05-10 |  | Downshift device for the paper trolley |  |
-| [DE336673](../patents/DE336673.md) | 1921-05-10 |  | Zeilenbegrenzungsvorrichtung |  |
-| [DE346765](../patents/DE346765.md) | 1922-01-07 |  | Device for producing the line spacing |  |
-| [DE348158](../patents/DE348158.md) | 1922-01-30 |  | Collapsible typewriter |  |
-| [DE351534](../patents/DE351534.md) | 1922-04-08 |  | Storage for the swing frame to guide the universal rail |  |
-| [DE355655](../patents/DE355655.md) | 1922-06-29 |  | Portable typewriter |  |
-| [DE359981](../patents/DE359981.md) | 1922-09-28 |  | Switching device for the platen carriage |  |
-| [DE360042](../patents/DE360042.md) | 1922-09-29 |  | Universal rail |  |
-| [DE360570](../patents/DE360570.md) | 1922-10-24 |  | Typewriter tab with column selection device |  |
-| [DE364057](../patents/DE364057.md) | 1922-11-16 |  | Paper carriage switching device |  |
-| [DE364186](../patents/DE364186.md) | 1922-11-18 |  | Paper feed device |  |
-| [DE364537](../patents/DE364537.md) | 1922-11-28 |  | Line delimiter |  |
-| [DE373914](../patents/DE373914.md) | 1923-04-17 |  | typewriter |  |
-| [DE375721](../patents/DE375721.md) | 1923-05-17 |  | Type lever rods for typewriters | typebar |
-| [DE375722](../patents/DE375722.md) | 1923-05-23 |  | Switching device, especially for switching back the car |  |
-| [DE390129](../patents/DE390129.md) | 1924-02-14 |  | Soundproofing device for typewriters |  |
-| [DE392074](../patents/DE392074.md) | 1924-03-15 |  | Device for transverse oscillation of the ribbon |  |
-| [DE397323](../patents/DE397323.md) | 1924-06-20 |  | Paper cart switching device for typewriters |  |
-| [DE397324](../patents/DE397324.md) | 1924-06-20 |  | Switching device for typewriters |  |
-| [DE401873](../patents/DE401873.md) | 1924-09-16 |  | Device for regulating the speed of the carriage of typewriters |  |
-| [DE403931](../patents/DE403931.md) | 1924-10-09 |  | Catching device for the type lever of typewriters |  |
-| [DE408429](../patents/DE408429.md) | 1925-01-17 |  | Paper holding device for typewriters |  |
-| [DE408953](../patents/DE408953.md) | 1925-01-27 |  | Collapsible typewriter |  |
-| [DE409633](../patents/DE409633.md) | 1925-02-07 |  | For the transport to be reduced typewriter with reversible paper trolley |  |
-| [DE410778](../patents/DE410778.md) | 1925-03-16 |  | Collapsible typewriter |  |
-| [DE411806](../patents/DE411806.md) | 1925-04-04 |  | Catcher for the type lever | typebar |
-| [DE412930](../patents/DE412930.md) | 1925-04-28 |  | Typewriter with an accent type lever |  |
-| [DE416394](../patents/DE416394.md) | 1925-07-15 |  | Portable typewriter |  |
-| [DE416395](../patents/DE416395.md) | 1925-07-15 |  | Portable typewriter |  |
-| [DE417063](../patents/DE417063.md) | 1925-08-05 |  | Collapsible typewriter |  |
-| [DE417379](../patents/DE417379.md) | 1925-08-10 |  | Collapsible typewriter |  |
-| [DE420858](../patents/DE420858.md) | 1925-11-02 |  | Typewriter with switching |  |
-| [DE431520](../patents/DE431520.md) | 1926-07-08 |  | Paper guide for typewriters |  |
-| [DE433738](../patents/DE433738.md) | 1926-09-10 |  | Typewriter with an essentially horizontally movable changeover frame |  |
-| [DE435992](../patents/DE435992.md) | 1926-10-22 |  | Typewriter with two switching mechanisms |  |
-| [DE445671](../patents/DE445671.md) | 1927-06-16 |  | typewriter |  |
-| [DE446801](../patents/DE446801.md) | 1927-07-11 |  | Portable typewriter |  |
-| [DE447402](../patents/DE447402.md) | 1927-07-25 |  | Typewriter or the like with tabulator and power drive for the carriage return |  |
-| [DE453512](../patents/DE453512.md) | 1927-12-08 |  | Typewriter with a center lock that fixes the paper carriage in the center &hellip; |  |
+| [DE331594](../patents/DE331594.md) | 1920-02-15 | Co, Remington Typewriter | Device for fixing the bearing wire for the type lever of typewriters | typebar |
+| [DE321663](../patents/DE321663.md) | 1920-06-11 | Co, Remington Typewriter | Device for variable stroke movement of the ribbon fork |  |
+| [DE324144](../patents/DE324144.md) | 1920-08-24 | Co, Remington Typewriter | Universal rail mounting |  |
+| [DE329782](../patents/DE329782.md) | 1920-11-29 | Co, Remington Typewriter | Adjustment device for the paper roller |  |
+| [DE335713](../patents/DE335713.md) | 1921-04-09 | Co, Remington Typewriter | Type rods for typewriters | typebar |
+| [DE336670](../patents/DE336670.md) | 1921-05-07 | Co, Remington Typewriter | Carriage switching device |  |
+| [DE336671](../patents/DE336671.md) | 1921-05-10 | Co, Remington Typewriter | Paper carriage switching device |  |
+| [DE336672](../patents/DE336672.md) | 1921-05-10 | Co, Remington Typewriter | Downshift device for the paper trolley |  |
+| [DE336673](../patents/DE336673.md) | 1921-05-10 | Co, Remington Typewriter | Zeilenbegrenzungsvorrichtung |  |
+| [DE346765](../patents/DE346765.md) | 1922-01-07 | Co, Remington Typewriter | Device for producing the line spacing |  |
+| [DE348158](../patents/DE348158.md) | 1922-01-30 | Co, Remington Typewriter | Collapsible typewriter |  |
+| [DE351534](../patents/DE351534.md) | 1922-04-08 | Co, Remington Typewriter | Storage for the swing frame to guide the universal rail |  |
+| [DE355655](../patents/DE355655.md) | 1922-06-29 | Co, Remington Typewriter | Portable typewriter |  |
+| [DE359981](../patents/DE359981.md) | 1922-09-28 | Co, Remington Typewriter | Switching device for the platen carriage |  |
+| [DE360042](../patents/DE360042.md) | 1922-09-29 | Co, Remington Typewriter | Universal rail |  |
+| [DE360570](../patents/DE360570.md) | 1922-10-24 | Co, Remington Typewriter | Typewriter tab with column selection device |  |
+| [DE364057](../patents/DE364057.md) | 1922-11-16 | Co, Remington Typewriter | Paper carriage switching device |  |
+| [DE364186](../patents/DE364186.md) | 1922-11-18 | Co, Remington Typewriter | Paper feed device |  |
+| [DE364537](../patents/DE364537.md) | 1922-11-28 | Co, Remington Typewriter | Line delimiter |  |
+| [DE373914](../patents/DE373914.md) | 1923-04-17 | Co, Remington Typewriter | typewriter |  |
+| [DE375721](../patents/DE375721.md) | 1923-05-17 | Co, Remington Typewriter | Type lever rods for typewriters | typebar |
+| [DE375722](../patents/DE375722.md) | 1923-05-23 | Co, Remington Typewriter | Switching device, especially for switching back the car |  |
+| [DE390129](../patents/DE390129.md) | 1924-02-14 | Co, Remington Typewriter | Soundproofing device for typewriters |  |
+| [DE392074](../patents/DE392074.md) | 1924-03-15 | Co, Remington Typewriter | Device for transverse oscillation of the ribbon |  |
+| [DE397323](../patents/DE397323.md) | 1924-06-20 | Co, Remington Typewriter | Paper cart switching device for typewriters |  |
+| [DE397324](../patents/DE397324.md) | 1924-06-20 | Co, Remington Typewriter | Switching device for typewriters |  |
+| [DE401873](../patents/DE401873.md) | 1924-09-16 | Co, Remington Typewriter | Device for regulating the speed of the carriage of typewriters |  |
+| [DE403931](../patents/DE403931.md) | 1924-10-09 | Co, Remington Typewriter | Catching device for the type lever of typewriters |  |
+| [DE408429](../patents/DE408429.md) | 1925-01-17 | Co, Remington Typewriter | Paper holding device for typewriters |  |
+| [DE408953](../patents/DE408953.md) | 1925-01-27 | Co, Remington Typewriter | Collapsible typewriter |  |
+| [DE409633](../patents/DE409633.md) | 1925-02-07 | Co, Remington Typewriter | For the transport to be reduced typewriter with reversible paper trolley |  |
+| [DE410778](../patents/DE410778.md) | 1925-03-16 | Co, Remington Typewriter | Collapsible typewriter |  |
+| [DE411806](../patents/DE411806.md) | 1925-04-04 | Co, Remington Typewriter | Catcher for the type lever | typebar |
+| [DE412930](../patents/DE412930.md) | 1925-04-28 | Co, Remington Typewriter | Typewriter with an accent type lever |  |
+| [DE416394](../patents/DE416394.md) | 1925-07-15 | Co, Remington Typewriter | Portable typewriter |  |
+| [DE416395](../patents/DE416395.md) | 1925-07-15 | Co, Remington Typewriter | Portable typewriter |  |
+| [DE417063](../patents/DE417063.md) | 1925-08-05 | Co, Remington Typewriter | Collapsible typewriter |  |
+| [DE417379](../patents/DE417379.md) | 1925-08-10 | Co, Remington Typewriter | Collapsible typewriter |  |
+| [DE420858](../patents/DE420858.md) | 1925-11-02 | Co, Remington Typewriter | Typewriter with switching |  |
+| [DE431520](../patents/DE431520.md) | 1926-07-08 | Co, Remington Typewriter | Paper guide for typewriters |  |
+| [DE433738](../patents/DE433738.md) | 1926-09-10 | Co, Remington Typewriter | Typewriter with an essentially horizontally movable changeover frame |  |
+| [DE435992](../patents/DE435992.md) | 1926-10-22 | Co, Remington Typewriter | Typewriter with two switching mechanisms |  |
+| [DE445671](../patents/DE445671.md) | 1927-06-16 | Co, Remington Typewriter | typewriter |  |
+| [DE446801](../patents/DE446801.md) | 1927-07-11 | Co, Remington Typewriter | Portable typewriter |  |
+| [DE447402](../patents/DE447402.md) | 1927-07-25 | Co, Remington Typewriter | Typewriter or the like with tabulator and power drive for the carriage return |  |
+| [DE453512](../patents/DE453512.md) | 1927-12-08 | Co, Remington Typewriter | Typewriter with a center lock that fixes the paper carriage in the center &hellip; |  |
 | [DE455557](../patents/DE455557.md) | 1928-02-04 | C, Remington Accounting Machine | Typewriter with switchable arithmetic unit and color changing unit |  |
-| [DE457900](../patents/DE457900.md) | 1928-03-26 |  | typewriter |  |
-| [DE465427](../patents/DE465427.md) | 1928-09-17 |  | Typewriter with tabulator and power drive for automatic return of the car |  |
-| [DE467735](../patents/DE467735.md) | 1928-10-31 |  | Typewriter with type bars, which are guided to the print point by the &hellip; | typebar |
-| [DE477837](../patents/DE477837.md) | 1929-06-22 |  | Registrierkasse |  |
-| [DE492964](../patents/DE492964.md) | 1930-03-05 |  | Zeilensperrovrrichtung |  |
-| [DE498606](../patents/DE498606.md) | 1930-05-30 |  | Typewriter with a carbon sheet connected to the roller and lateral guide belts &hellip; |  |
-| [DE506054](../patents/DE506054.md) | 1930-08-30 |  | Typewriter with a replaceable platen |  |
-| [DE559529](../patents/DE559529.md) | 1932-09-21 |  | Paper guiding device on typewriters |  |
-| [DE568788](../patents/DE568788.md) | 1933-01-28 |  | Adjustment device for the paper carrier of writing or similar machines |  |
-| [DE570164](../patents/DE570164.md) | 1933-02-11 |  | Paper roller for typewriters |  |
-| [DE570378](../patents/DE570378.md) | 1933-02-21 |  | Typewriter with an only partially toothed rack to bring about an automatic &hellip; |  |
-| [DE571323](../patents/DE571323.md) | 1933-02-27 |  | Randbegrenzungsvorrichtung fuer Schreibmaschinen |  |
-| [DE572644](../patents/DE572644.md) | 1933-03-23 |  | Typewriter with noiseless pressure of the types on the paper roller through &hellip; | typebar |
-| [DE573910](../patents/DE573910.md) | 1933-04-07 |  | Typewriter with type carriers that are noiselessly pressed against the paper &hellip; | typebar |
-| [DE573911](../patents/DE573911.md) | 1933-04-07 |  | Paper guiding device for writing or similar machines |  |
-| [DE573912](../patents/DE573912.md) | 1933-04-07 |  | Roller bearing for typewriters |  |
-| [DE574364](../patents/DE574364.md) | 1933-04-13 |  | Typewriter frame |  |
-| [DE576189](../patents/DE576189.md) | 1933-05-08 |  | Drive device for the type carrier of typewriters | typebar |
-| [DE576534](../patents/DE576534.md) | 1933-05-12 |  | Type lever drive for typewriters | typebar |
-| [DE576533](../patents/DE576533.md) | 1933-05-15 |  | Type lever drive for noiseless typewriters | typebar |
-| [DE579491](../patents/DE579491.md) | 1933-06-27 |  | Typewriter with noiseless type carrier pressed against the paper roller | typebar |
-| [DE580990](../patents/DE580990.md) | 1933-07-19 |  | Automatic switching device for the ribbon length movement in typewriters |  |
-| [DE581078](../patents/DE581078.md) | 1933-07-20 |  | Line switch |  |
-| [DE592208](../patents/DE592208.md) | 1934-02-03 |  | Type lever drive for typewriters | typebar |
-| [DE611145](../patents/DE611145.md) | 1935-03-23 |  | Typewriter, in particular accounting typewriter, with an auxiliary paper &hellip; |  |
-| [DE612335](../patents/DE612335.md) | 1935-04-25 |  | Tabulator for typewriters, calculating machines or the like. |  |
-| [DE616727](../patents/DE616727.md) | 1935-08-03 |  | Lagerung des Schaltschlosses von Schreibmaschinen o. dgl. |  |
-| [DE618643](../patents/DE618643.md) | 1935-09-12 |  | Power-driven downshift device for typewriters |  |
-| [DE974020](../patents/DE974020.md) | 1944-12-23 |  | Punch card controlled printing machine | wheel / cylinder (face on periphery) |
-| [DE873914](../patents/DE873914.md) | 1946-12-11 |  | Device for adjusting limbs of an office machine |  |
-| [DE818366](../patents/DE818366.md) | 1947-11-12 |  | Ribbon fork for typewriters |  |
-| [DE906460](../patents/DE906460.md) | 1949-06-25 |  | Type lever movement device for electrically powered typewriters | typebar |
-| [DE906461](../patents/DE906461.md) | 1949-06-25 |  | Friction disc clutch for car lift devices of office machines |  |
-| [DE898749](../patents/DE898749.md) | 1950-07-02 |  | Return transport device for paper carts on office machines |  |
+| [DE457900](../patents/DE457900.md) | 1928-03-26 | Co, Remington Typewriter | typewriter |  |
+| [DE465427](../patents/DE465427.md) | 1928-09-17 | Co, Remington Typewriter | Typewriter with tabulator and power drive for automatic return of the car |  |
+| [DE467735](../patents/DE467735.md) | 1928-10-31 | Co, Remington Typewriter | Typewriter with type bars, which are guided to the print point by the &hellip; | typebar |
+| [DE477837](../patents/DE477837.md) | 1929-06-22 | Inc, Remington Arms Co | Registrierkasse |  |
+| [DE492964](../patents/DE492964.md) | 1930-03-05 | Co, Remington Typewriter | Zeilensperrovrrichtung |  |
+| [DE498606](../patents/DE498606.md) | 1930-05-30 | Co, Remington Typewriter | Typewriter with a carbon sheet connected to the roller and lateral guide belts &hellip; |  |
+| [DE506054](../patents/DE506054.md) | 1930-08-30 | Co, Remington Typewriter | Typewriter with a replaceable platen |  |
+| [DE559529](../patents/DE559529.md) | 1932-09-21 | Co, Remington Typewriter | Paper guiding device on typewriters |  |
+| [DE568788](../patents/DE568788.md) | 1933-01-28 | Co, Remington Typewriter | Adjustment device for the paper carrier of writing or similar machines |  |
+| [DE570164](../patents/DE570164.md) | 1933-02-11 | Co, Remington Typewriter | Paper roller for typewriters |  |
+| [DE570378](../patents/DE570378.md) | 1933-02-21 | Co, Remington Typewriter | Typewriter with an only partially toothed rack to bring about an automatic &hellip; |  |
+| [DE571323](../patents/DE571323.md) | 1933-02-27 | Co, Remington Typewriter | Randbegrenzungsvorrichtung fuer Schreibmaschinen |  |
+| [DE572644](../patents/DE572644.md) | 1933-03-23 | Co, Remington Typewriter | Typewriter with noiseless pressure of the types on the paper roller through &hellip; | typebar |
+| [DE573910](../patents/DE573910.md) | 1933-04-07 | Co, Remington Typewriter | Typewriter with type carriers that are noiselessly pressed against the paper &hellip; | typebar |
+| [DE573911](../patents/DE573911.md) | 1933-04-07 | Co, Remington Typewriter | Paper guiding device for writing or similar machines |  |
+| [DE573912](../patents/DE573912.md) | 1933-04-07 | Co, Remington Typewriter | Roller bearing for typewriters |  |
+| [DE574364](../patents/DE574364.md) | 1933-04-13 | Co, Remington Typewriter | Typewriter frame |  |
+| [DE576189](../patents/DE576189.md) | 1933-05-08 | Co, Remington Typewriter | Drive device for the type carrier of typewriters | typebar |
+| [DE576534](../patents/DE576534.md) | 1933-05-12 | Co, Remington Typewriter | Type lever drive for typewriters | typebar |
+| [DE576533](../patents/DE576533.md) | 1933-05-15 | Co, Remington Typewriter | Type lever drive for noiseless typewriters | typebar |
+| [DE579491](../patents/DE579491.md) | 1933-06-27 | Co, Remington Typewriter | Typewriter with noiseless type carrier pressed against the paper roller | typebar |
+| [DE580990](../patents/DE580990.md) | 1933-07-19 | Co, Remington Typewriter | Automatic switching device for the ribbon length movement in typewriters |  |
+| [DE581078](../patents/DE581078.md) | 1933-07-20 | Co, Remington Typewriter | Line switch |  |
+| [DE592208](../patents/DE592208.md) | 1934-02-03 | Co, Remington Typewriter | Type lever drive for typewriters | typebar |
+| [DE611145](../patents/DE611145.md) | 1935-03-23 | Co, Remington Typewriter | Typewriter, in particular accounting typewriter, with an auxiliary paper &hellip; |  |
+| [DE612335](../patents/DE612335.md) | 1935-04-25 | Co, Remington Typewriter | Tabulator for typewriters, calculating machines or the like. |  |
+| [DE616727](../patents/DE616727.md) | 1935-08-03 | Inc, Remington Rand | Lagerung des Schaltschlosses von Schreibmaschinen o. dgl. |  |
+| [DE618643](../patents/DE618643.md) | 1935-09-12 | Co, Remington Typewriter | Power-driven downshift device for typewriters |  |
+| [DE974020](../patents/DE974020.md) | 1944-12-23 | H, Remington Rand G M B | Punch card controlled printing machine | wheel / cylinder (face on periphery) |
+| [DE873914](../patents/DE873914.md) | 1946-12-11 | H, Remington Rand G M B | Device for adjusting limbs of an office machine |  |
+| [DE818366](../patents/DE818366.md) | 1947-11-12 | Inc, Remington Rand | Ribbon fork for typewriters |  |
+| [DE906460](../patents/DE906460.md) | 1949-06-25 | Inc, Remington Rand | Type lever movement device for electrically powered typewriters | typebar |
+| [DE906461](../patents/DE906461.md) | 1949-06-25 | H, Remington Rand G M B | Friction disc clutch for car lift devices of office machines |  |
+| [DE898749](../patents/DE898749.md) | 1950-07-02 | H, Remington Rand G M B | Return transport device for paper carts on office machines |  |

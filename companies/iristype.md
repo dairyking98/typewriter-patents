@@ -9,4 +9,4 @@
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE544902](../patents/DE544902.md) | 1932-02-23 |  | Type, especially for typewriters | typebar |
+| [DE544902](../patents/DE544902.md) | 1932-02-23 | H, Iristype G M B | Type, especially for typewriters | typebar |

@@ -20,7 +20,7 @@ Name variants: Ibm Deutschland; IBM; IBM Deutschland Internationale Büro Maschi
 
 ## Inventors
 
-[Deutschland, Ibm](../people/deutschland-i.md) (23), [Tauschek, Gustav](../people/tauschek-g.md) (1)
+[Deutschland, Ibm](../people/deutschland-i.md) (23), [Tauschek, Gustav](../people/tauschek-g.md) (1), [&Hellip, Ibm Deutschland Internationale Büro Maschinen Gesellschaft M.B.H. Sindelfingen](../people/hellip-i.md) (1)
 
 ## Patents assigned (41)
 
@@ -59,7 +59,7 @@ Name variants: Ibm Deutschland; IBM; IBM Deutschland Internationale Büro Maschi
 | [DE975956](../patents/DE975956.md) | 1948-07-08 | Deutschland, Ibm | Switching device on printing office machines with type lever gears, especially &hellip; |  |
 | [DE889699](../patents/DE889699.md) | 1948-09-20 | Deutschland, Ibm | Printing device for punched card machines, preferably card punching machines |  |
 | [DE839130](../patents/DE839130.md) | 1948-11-25 | Deutschland, Ibm | Printing unit for machines controlled by punch cards | wheel / cylinder (face on periphery) |
-| [DE892079](../patents/DE892079.md) | 1949-02-06 |  | Process for the tested punching of punch cards |  |
+| [DE892079](../patents/DE892079.md) | 1949-02-06 | &Hellip, Ibm Deutschland Internationale Büro Maschinen Gesellschaft M.B.H. Sindelfingen | Process for the tested punching of punch cards |  |
 | [DE857450](../patents/DE857450.md) | 1949-02-23 | Deutschland, Ibm | Ribbon transport and switching device, preferably for evaluation or printing &hellip; |  |
 | [DE871085](../patents/DE871085.md) | 1949-03-01 | Deutschland, Ibm | Arrangement for setting the printing device on business machines | wheel / cylinder (face on periphery) |
 | [DE850300](../patents/DE850300.md) | 1949-06-26 | Deutschland, Ibm | Edge limiting device on typewriters and similar machines |  |

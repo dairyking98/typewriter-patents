@@ -4,13 +4,13 @@
 
 Types on a ring or annulus
 
-**57 patents**, 1878–1949. Often together with:
+**61 patents**, 1878–1949. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (13), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (11)
-- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (11), [Separate type slugs or plungers](../features/elem-individual-slugs.md) (10)
-- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (17)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (12), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (12)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (10)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (14)
+- **Type element:** [Separate type slugs or plungers](../features/elem-individual-slugs.md) (13), [Interchangeable element](../features/elem-interchangeable.md) (12)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (18), [Element struck to the platen](../features/imp-element-to-platen.md) (13)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (15), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (13)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (12)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (1), [National](../machines/national.md) (1), [Yost 4 - 9](../machines/yost-4-9.md) (1), [Yost 10 - 14](../machines/yost-10-14.md) (1)
 
@@ -66,11 +66,15 @@ Types on a ring or annulus
 | [US997582](../patents/US997582.md) | 1911 | Remnsnider, George | A rotary member on a central spindle carries the punch stems and dies on a ring, and the feed controls the stencil sheet. |
 | [US1051240](../patents/US1051240.md) | 1913 | Lee, Ulysses G. | A typograph whose dies sit in annular series on a die carrier, with compression levers and a cam shaft, so that the embossing force acts compressively within the frame. |
 | [US1151757](../patents/US1151757.md) | 1915 | Bennett, Orin | Keys only position a rotary annular type rack (by notch depth) and then close an electric circuit, so a solenoid-driven hammer gives every impression the same force. |
-| [DE445077](../patents/DE445077.md) | 1927 |  | A spring-loaded axial pin with holes or warts on the turret snaps the turret into its correct indexed position. |
+| [JP60638](../patents/JP60638.md) | 1923 | Kataoka, Kōtarō | Many toothed type rings, each carrying a line of types on its rim, hang on a gear roller that turns as the carriage slides front to back, while one handle moves a lifting arm left and right to pick a ring and, pressed down, throws that ring against the paper cylinder. |
+| [JP62663](../patents/JP62663.md) | 1924 | Murakami, Masaomi | A ring-shaped rotating type tray has a post at its centre carrying a swinging rail, and a carriage with paper cylinder and a two-tube printing arm slides on it, pushing up an inked type, flipping it 180 degrees automatically and printing it, in either columns or rows. |
+| [JP65094](../patents/JP65094.md) | 1925 | Ishii, Genko | A round rotating type magazine is turned by hand under several fixed hammer-and-push-button printing sets, with turning indicators showing the characters right way round, so adjacent characters in a row can be struck one after another without turning the magazine. |
+| [DE445077](../patents/DE445077.md) | 1927 | Ges, Mebus Maschb | A spring-loaded axial pin with holes or warts on the turret snaps the turret into its correct indexed position. |
 | [DE477191](../patents/DE477191.md) | 1929 | Gansert, Hermann | A dial-set type disk carries inner and outer type rings; a finger on the disk turns a lever that lifts a locking hook, so the drawer opens only after the seller has removed the receipt. |
 | [DE529363](../patents/DE529363.md) | 1931 | Mansel, Paul | Control disks are made as rings with adjusting grooves on their inner surfaces, so the pawl is not on the outer teeth. |
 | [DE580989](../patents/DE580989.md) | 1933 | Gerson, Adolf | Trapezoidal type sticks lie side by side forming a closed ring that is turned along a fixed rail with a cutout where one stick is pressed down. |
 | [DE639898](../patents/DE639898.md) | 1936 | Schneider, Julius | Drum is machined in one piece with radial bores and a common ring groove; each square-headed matrix slides in its bore, the heads engage the groove, and return springs sit on the protruding shafts. |
+| [JP120239](../patents/JP120239.md) | 1937 | Kobayashi, Kaichi | Loose types stand in a ring between two nested cylinders, held by a ridge in cross-grooves; turning the outer cylinder brings the chosen type under a spring plunger that carries it down to print and, through a slanted plate and pawl, steps the whole double cylinder one space sideways. |
 | [DE676014](../patents/DE676014.md) | 1939 | Chisholm, Clifton | Put the upper and lower case die pairs alternately in one single ring of the carrier and give the carrier a shift: a partial rotation relative to its continuously turning shaft equal to the spacing of two neighbouring dies, so one stop per two dies selects either of the pair. |
 | [DE697015](../patents/DE697015.md) | 1940 | Audibert, Roger | Printing types are carried on the same sliding rungs that set the counter, and a slotted guard lets only the type of the effective rung reach the print point. |
 | [DE700102](../patents/DE700102.md) | 1940 | Maschinenbau, Adrema | The type head is built from a hub with an annular cut and two cast rings that carry the chambers for the embossing stamps, so only minor reworking is needed. |

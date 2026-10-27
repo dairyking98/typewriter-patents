@@ -5,7 +5,7 @@ Name variants: IMP TYPEWRITER COMPANY LTD; IMP TYPEWRITER CO LTD; Imp Typewriter
 
 ## Inventors
 
-
+[Ltd, Ici](../people/ltd-i.md) (1)
 
 ## Patents assigned (8)
 
@@ -17,5 +17,5 @@ Name variants: IMP TYPEWRITER COMPANY LTD; IMP TYPEWRITER CO LTD; Imp Typewriter
 | [DE447005](../patents/DE447005.md) | 1927-07-16 |  | Device for the detachable attachment of the paper trolley guide to the &hellip; |  |
 | [DE461557](../patents/DE461557.md) | 1928-06-25 |  | Typewriter with interchangeable type mechanism |  |
 | [DE524191](../patents/DE524191.md) | 1931-05-04 |  | Device for automatic switching of the ribbon length movement on typewriters |  |
-| [DE632633](../patents/DE632633.md) | 1936-07-14 |  | Typewriter with movable frame housing cover that leaves the keypad free |  |
+| [DE632633](../patents/DE632633.md) | 1936-07-14 | Ltd, Imp Typewriter Co | Typewriter with movable frame housing cover that leaves the keypad free |  |
 | [DE896811](../patents/DE896811.md) | 1949-12-20 |  | Multiple typewriter |  |

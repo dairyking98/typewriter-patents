@@ -20,7 +20,7 @@ Name variants: The Hammond Typewriter Comp; The Hammond Type Writer Comp; Hammon
 
 ## Inventors
 
-[Pratt, John](../people/pratt-j.md) (9), [Lopez, Arthur](../people/lopez-a.md) (7), [Ruffin, John Anderson](../people/ruffin-j.md) (5), [Dorman, John H](../people/dorman-j.md) (2), [Spurgin, Richard A](../people/spurgin-r.md) (2), [Banta, William](../people/banta-w.md) (1), [Hammond, James B](../people/hammond-j.md) (1)
+[Pratt, John](../people/pratt-j.md) (9), [Lopez, Arthur](../people/lopez-a.md) (7), [Ruffin, John Anderson](../people/ruffin-j.md) (5), [Dorman, John H](../people/dorman-j.md) (2), [Spurgin, Richard A](../people/spurgin-r.md) (2), [Banta, William](../people/banta-w.md) (1), [Hammond, James B](../people/hammond-j.md) (1), [Hammond, Typewriter C](../people/hammond-t.md) (1)
 
 ## Patents assigned (28)
 
@@ -53,4 +53,4 @@ Name variants: The Hammond Typewriter Comp; The Hammond Type Writer Comp; Hammon
 | [US1126644](../patents/US1126644.md) | 1915-01-26 | Lopez, Arthur | Carriage for Type-Writing Machines |  |
 | [US1131640](../patents/US1131640.md) | 1915-03-09 | Lopez, Arthur | Type-Shifting Attachment for Type-Writing Machines |  |
 | [US1155828](../patents/US1155828.md) | 1915-10-05 | Lopez, Arthur | Type-Writing Machine |  |
-| [DE289046](../patents/DE289046.md) | 1915-12-10 |  | ~Typewriter with a cylindrical type carrier and two slidable Type segments arranged on it | wheel / cylinder (face on periphery) |
+| [DE289046](../patents/DE289046.md) | 1915-12-10 | Hammond, Typewriter C | ~Typewriter with a cylindrical type carrier and two slidable Type segments arranged on it | wheel / cylinder (face on periphery) |

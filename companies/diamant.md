@@ -13,14 +13,14 @@ Name variants: DIAMANT SCHREIBMASCHINENFABRIK; Diamant Schreibmasch.fabrik GmbH
 
 ## Inventors
 
-
+[Schreibmaschinenfabrik, Diamant](../people/schreibmaschinenfabrik-d.md) (5)
 
 ## Patents assigned (5)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE364327](../patents/DE364327.md) | 1922-11-25 |  | Switching device for the paper trolley of typewriters |  |
-| [DE365593](../patents/DE365593.md) | 1922-12-18 |  | Device for typewriters for setting multicolored ribbons |  |
-| [DE367955](../patents/DE367955.md) | 1923-01-29 |  | Switching device for the paper trolley of typewriters |  |
-| [DE369034](../patents/DE369034.md) | 1923-02-13 |  | Recording and carrying case for typewriters |  |
-| [DE396785](../patents/DE396785.md) | 1924-06-20 |  | Device for automatic coupling and uncoupling of paper trolleys and pull cord &hellip; |  |
+| [DE364327](../patents/DE364327.md) | 1922-11-25 | Schreibmaschinenfabrik, Diamant | Switching device for the paper trolley of typewriters |  |
+| [DE365593](../patents/DE365593.md) | 1922-12-18 | Schreibmaschinenfabrik, Diamant | Device for typewriters for setting multicolored ribbons |  |
+| [DE367955](../patents/DE367955.md) | 1923-01-29 | Schreibmaschinenfabrik, Diamant | Switching device for the paper trolley of typewriters |  |
+| [DE369034](../patents/DE369034.md) | 1923-02-13 | Schreibmaschinenfabrik, Diamant | Recording and carrying case for typewriters |  |
+| [DE396785](../patents/DE396785.md) | 1924-06-20 | Schreibmaschinenfabrik, Diamant | Device for automatic coupling and uncoupling of paper trolleys and pull cord &hellip; |  |

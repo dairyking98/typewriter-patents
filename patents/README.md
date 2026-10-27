@@ -1,4 +1,4 @@
-# Patents (10,201)
+# Patents (10,393)
 
 Every patent in the library, oldest first.
 
@@ -1089,6 +1089,7 @@ Every patent in the library, oldest first.
 | [US476319](US476319.md) | 1892-06-07 | Severy, Melvin L. | Type-Writing Machine |
 | [US476724](US476724.md) | 1892-06-07 | Benedict, Allard E. | Type-Writing Machine |
 | [US476727](US476727.md) | 1892-06-07 | Brower - Ross, John H. - Herbert C. | Automatic Envelope-Feeder for Type-Writing Machines |
+| [JP2247](JP2247.md) | 1892-06-08 | Fujiki, Sueoto | Printing machine |
 | [US476833](US476833.md) | 1892-06-14 | Sims, Frederick L. H. | Type-Writing Machine |
 | [US476903](US476903.md) | 1892-06-14 | Spiro, Charles | Type-Writing Machine |
 | [US476941](US476941.md) | 1892-06-14 | Brooks, Byron A. | Type-Writing Machine |
@@ -3309,6 +3310,7 @@ Every patent in the library, oldest first.
 | [US827514](US827514.md) | 1906-07-31 | Dukes, Harry S. | Vertical-Plane Type-Writer |
 | [US827538](US827538.md) | 1906-07-31 | Kitzmiller, George M. | Type-Writing Machine |
 | [US827584](US827584.md) | 1906-07-31 | Vidal, Juan B. | Writing-Machine |
+| [JP10946](JP10946.md) | 1906-08-02 | Okada, Sanmatsu | Transfer paper |
 | [US827704](US827704.md) | 1906-08-07 | Briggs, Herbert A. | Type-Writing Machine |
 | [US827726](US827726.md) | 1906-08-07 | Helmond, William F. | Type-Writing Machine |
 | [US827735](US827735.md) | 1906-08-07 | Kunath, Edward F. | Type-Writing Machine |
@@ -3517,6 +3519,7 @@ Every patent in the library, oldest first.
 | [US850106](US850106.md) | 1907-04-09 | Torrence, William W. | Back-Spacing Mechanism |
 | [US850110](US850110.md) | 1907-04-09 | Daugherty, James Denny | Type-Writing Machine |
 | [DE183284](DE183284.md) | 1907-04-11 | De, Witt Bergen | Paper feed device for typewriters |
+| [JP13156](JP13156.md) | 1907-04-13 | Shinozawa, Yūsaku | Printing machine |
 | [US850187](US850187.md) | 1907-04-16 | Smith, George H. | Type-Writing Machine |
 | [US850289](US850289.md) | 1907-04-16 | Bright, George Russel | Office Folding Type-Writer Cover |
 | [US850310](US850310.md) | 1907-04-16 | McCormack, Harry S. | Type-Writing Machine |
@@ -3721,7 +3724,7 @@ Every patent in the library, oldest first.
 | [US870307](US870307.md) | 1907-11-05 | McCool, William A. | Ribbon-Feed Mechanism for Type-Writers |
 | [US870336](US870336.md) | 1907-11-05 | Barker, England J. | Type-Writer |
 | [US871026](US871026.md) | 1907-11-12 | Brewer, Edward D. | Type-Writer |
-| [DE191891](DE191891.md) | 1907-11-19 |  | Paper feed device for typewriters |
+| [DE191891](DE191891.md) | 1907-11-19 | Underwood, Typewriter Co | Paper feed device for typewriters |
 | [US871116](US871116.md) | 1907-11-19 | Felbel, Jacob | Type-Writing Machine |
 | [US871145](US871145.md) | 1907-11-19 | Richards, Francis H. | Mechanism for Producing Character Impressions |
 | [US871151](US871151.md) | 1907-11-19 | Stickney, Burnham C. | Type-Writing Machine |
@@ -3772,12 +3775,12 @@ Every patent in the library, oldest first.
 | [US875262](US875262.md) | 1907-12-31 | Helmond, William F. | Type-Writing Machine |
 | [US875430](US875430.md) | 1907-12-31 | Hess, Edward B. | Writing Machine |
 | [US875637](US875637.md) | 1907-12-31 | Wagner, Franz X. | Carriage Stop Mechanism for Type-Writing Machines |
-| [DE193834](DE193834.md) | 1908-01-03 |  | Papierzuführungsvorrichtung für Schreibmaschinen |
+| [DE193834](DE193834.md) | 1908-01-03 | Underwood, Typewriter Co | Papierzuführungsvorrichtung für Schreibmaschinen |
 | [US875877](US875877.md) | 1908-01-07 | Wise, Henry | Art of Capitalizing Typoscript Letters |
 | [US876136](US876136.md) | 1908-01-07 | Birch - Foley, John Henry - James Samuel | Type-Writing Machine |
 | [US876308](US876308.md) | 1908-01-07 | Smith, George A. | Type-Writer Frame |
 | [US876309](US876309.md) | 1908-01-07 | Wagner, Franz X. | Ribbon Mechanism for Type-Writers |
-| [DE193931](DE193931.md) | 1908-01-09 |  | ~Accent writing device for typewriters |
+| [DE193931](DE193931.md) | 1908-01-09 | Wanderer, Fahrradwerke | ~Accent writing device for typewriters |
 | [US876379](US876379.md) | 1908-01-14 | Moorrees, Herman P. | Type-Writing Machine |
 | [US876380](US876380.md) | 1908-01-14 | Moorrees, Herman P. | Type-Writing Machine |
 | [US876393](US876393.md) | 1908-01-14 | Peterson, William Vistor | Type-Writing Machine |
@@ -3893,6 +3896,7 @@ Every patent in the library, oldest first.
 | [US887646](US887646.md) | 1908-05-12 | Jeszmant, George J. | Type-Writer Attachment |
 | [US887665](US887665.md) | 1908-05-12 | Leisner, Gustaf L. | Check-Puncher |
 | [US887672](US887672.md) | 1908-05-12 | Lovett - Coe, Charles E. - Marion E. | Treadle |
+| [JP14916](JP14916.md) | 1908-05-17 | Okada, Rikitarō | Okada-type numeral stamping machine |
 | [US887745](US887745.md) | 1908-05-19 | Alexander, Jesse | Type-Writer Key and Type-Bar Mechanism |
 | [US887954](US887954.md) | 1908-05-19 | Mosher, Mary C. | Tabulator |
 | [US887976](US887976.md) | 1908-05-19 | Stickney, Burnham C. | Type-Writing Machine |
@@ -3988,6 +3992,7 @@ Every patent in the library, oldest first.
 | [US896539](US896539.md) | 1908-08-18 | Hess, Edward B. | Writing Machine |
 | [US896639](US896639.md) | 1908-08-18 | Huizenga, Louis | Protectograph |
 | [US896680](US896680.md) | 1908-08-18 | Barney, Edwin E. | Type-Writing Machine |
+| [JP16023](JP16023.md) | 1908-08-24 | Motoki, Yonekichi | Motoki-type portable printing machine |
 | [US896707](US896707.md) | 1908-08-25 | Brooks, Byron A. | Type-Writing Machine |
 | [US896789](US896789.md) | 1908-08-25 | Woodward, Oscar | Type-Writing Machine |
 | [US896791](US896791.md) | 1908-08-25 | Barney - Steele, Edwin E. - Herbert H. | Type-Writing Machine |
@@ -4025,7 +4030,7 @@ Every patent in the library, oldest first.
 | [US901092](US901092.md) | 1908-10-13 | Glasner - Glasier, Frank P. - Johnson J. | Computing-Machine |
 | [US901259](US901259.md) | 1908-10-13 | Pool, Morris W. | Type-Writing Machine |
 | [US901682](US901682.md) | 1908-10-20 | Collier, William H. | Combined Type-Writing and Printing Machine |
-| [DE203431](DE203431.md) | 1908-10-22 |  | Device for achieving different switching ranges for the paper trolleys of &hellip; |
+| [DE203431](DE203431.md) | 1908-10-22 | Schnell, Setzmaschinen Gmbh | Device for achieving different switching ranges for the paper trolleys of &hellip; |
 | [US901973](US901973.md) | 1908-10-27 | Labofish, Charles S. | Tabulating Device for Type-Writers |
 | [US901982](US901982.md) | 1908-10-27 | Merritt, Henry W. | Type-Writing Machine |
 | [US901998](US901998.md) | 1908-10-27 | Paul, John W. | Type-Writer |
@@ -4723,7 +4728,7 @@ Every patent in the library, oldest first.
 | [US965789](US965789.md) | 1910-07-26 | Yaw, Clio B. | Type-Writing Machine |
 | [US965790](US965790.md) | 1910-07-26 | Yaw, Clio B. | Type-Writing Machine |
 | [US965835](US965835.md) | 1910-07-26 | Parmly, Eleazar, Jr. | Type-Writing Machine |
-| [DE224644](DE224644.md) | 1910-07-27 |  | KONTROLLKASSE MIT SONDERWERKEN (SONDERDRUCK-, SONDERADDIER- UND SONDERANZEIGEWERKEN) |
+| [DE224644](DE224644.md) | 1910-07-27 | Schubert, & Salzer Ag | KONTROLLKASSE MIT SONDERWERKEN (SONDERDRUCK-, SONDERADDIER- UND SONDERANZEIGEWERKEN) |
 | [US965957](US965957.md) | 1910-08-02 | Smith, Charles E. | Type-Writing Machine |
 | [US966035](US966035.md) | 1910-08-02 | Mercer, Charles | Back-Spacing Device for Type-Writers |
 | [US966169](US966169.md) | 1910-08-02 | Cumner, Matthew S. | Type-Writing Machine |
@@ -4772,7 +4777,7 @@ Every patent in the library, oldest first.
 | [US971221](US971221.md) | 1910-09-27 | Shepard, Harry H. | Cushion-Cap for the Keys of Writing-Machines |
 | [US971234](US971234.md) | 1910-09-27 | Woodward, Oscar | Type-Writing Machine |
 | [US971469](US971469.md) | 1910-09-27 | Paul, John W. | Type-Writer |
-| [DE226459](DE226459.md) | 1910-10-04 |  | ~Such switching devices for the paper trolley of typewriters with a gearshift and a ratchet |
+| [DE226459](DE226459.md) | 1910-10-04 | Wanderer, Werke Vorm Winklhofer | ~Such switching devices for the paper trolley of typewriters with a gearshift and a ratchet |
 | [US971653](US971653.md) | 1910-10-04 | Zepeda, Miguel | Type-Bar Bearing |
 | [US971696](US971696.md) | 1910-10-04 | Sivertsen - Nielsen, Victor Albert Emanuel - Jens Christian | Type-Writing Machine |
 | [US971721](US971721.md) | 1910-10-04 | Brown, Alexander T. | Type-Writing Machine |
@@ -4814,7 +4819,7 @@ Every patent in the library, oldest first.
 | [US973721](US973721.md) | 1910-10-25 | Swenson, Gustaf | Type-Writing Machine |
 | [US973844](US973844.md) | 1910-10-25 | Barney, Edwin E. | Type-Writing Machine |
 | [US973988](US973988.md) | 1910-10-25 | Steele, Herbert H. | Type-Writing Machine |
-| [DE227741](DE227741.md) | 1910-10-27 |  | Key and type lever arrangement for typewriters, in which the keys engage the &hellip; |
+| [DE227741](DE227741.md) | 1910-10-27 | Olivetti, & Co Spa | Key and type lever arrangement for typewriters, in which the keys engage the &hellip; |
 | [US974164](US974164.md) | 1910-11-01 | Martin, John Baptist | Type-Writer |
 | [US974210](US974210.md) | 1910-11-01 | Toepper, Richard W. | Type-Writer |
 | [US974237](US974237.md) | 1910-11-01 | Coo, Thomas J. | Type-Writing Machine |
@@ -4867,7 +4872,7 @@ Every patent in the library, oldest first.
 | [US977201](US977201.md) | 1910-11-29 | Latta - Herrmann, Emmit G. - Max E. | Type-Bar Bearing for Type-Writing Machines |
 | [US977237](US977237.md) | 1910-11-29 | Swindler, Albert | Writing-Machine for the Use of the Blind |
 | [US977269](US977269.md) | 1910-11-29 | Buschmann, Theodor Eugen | Automatic Type-Writer-Ribbon-Reversing Mechanism |
-| [DE229107](DE229107.md) | 1910-12-01 |  | ~The subject of the invention of the main patent forms a paper cart switching device for ty |
+| [DE229107](DE229107.md) | 1910-12-01 | Wanderer, Werke Vorm Winklhofer | ~The subject of the invention of the main patent forms a paper cart switching device for ty |
 | [US977448](US977448.md) | 1910-12-06 | Harrison, Samuel A. | Oriental Type-Writer |
 | [US977480](US977480.md) | 1910-12-06 | Smith, Arthur W. | Type-Writing Machine |
 | [US978214](US978214.md) | 1910-12-13 | Rosenhauer, Charles G. | Type-Writing Machine |
@@ -5139,7 +5144,7 @@ Every patent in the library, oldest first.
 | [US1003415](US1003415.md) | 1911-09-19 | Barron, Walter J. | Type-Writing Machine |
 | [US1003580](US1003580.md) | 1911-09-19 | Barron, Walter J. | Type-Writing Machine |
 | [US1003939](US1003939.md) | 1911-09-19 | Nielsen, Lauritz M. | Stencil-Cutting Machine |
-| [DE238266](DE238266.md) | 1911-09-21 |  | ~The subject of the invention forms an auxiliary switching device for the rotary movement o |
+| [DE238266](DE238266.md) | 1911-09-21 | Underwood, Typewriter Co | ~The subject of the invention forms an auxiliary switching device for the rotary movement o |
 | [US1003972](US1003972.md) | 1911-09-26 | Barron, Walter J. | Type-Writing Machine |
 | [US1003974](US1003974.md) | 1911-09-26 | Barron, Walter J. | Type-Writing Machine |
 | [US1004108](US1004108.md) | 1911-09-26 | Thompson, Clara G. | Type-Writer |
@@ -5147,7 +5152,7 @@ Every patent in the library, oldest first.
 | [US1004236](US1004236.md) | 1911-09-26 | Brand, George B. | Type-Writing Machine |
 | [US1004425](US1004425.md) | 1911-09-26 | Hess, Edward B. | Writing Machine |
 | [US1004538](US1004538.md) | 1911-09-26 | Donning, George W. | Type-Writer |
-| [DE238685](DE238685.md) | 1911-10-03 |  | ~The present invention can also be embodied when the regulating member does not consist of |
+| [DE238685](DE238685.md) | 1911-10-03 | Wanderer, Werke Vorm Winklhofer | ~The present invention can also be embodied when the regulating member does not consist of |
 | [US1004569](US1004569.md) | 1911-10-03 | Hess, Edward B. | Writing Machine |
 | [DE275522](DE275522.md) | 1911-10-05 |  | ~Papierwagenschaltwerk für Schreibmaschinen |
 | [US1005158](US1005158.md) | 1911-10-10 | Clevenger, Shobal V. | Type-Writing Machine |
@@ -5206,6 +5211,7 @@ Every patent in the library, oldest first.
 | [US1010711](US1010711.md) | 1911-12-05 | Yaw, Clio B. | Type-Writing Machine |
 | [US1010852](US1010852.md) | 1911-12-05 | Burnett, William E. | Type-Writing Machine |
 | [US1010970](US1010970.md) | 1911-12-05 | Steele, Herbert H. | Type-Writing Machine |
+| [JP22193](JP22193.md) | 1911-12-12 | Sakai, Yasujirō | Sakai typewriter |
 | [US1011366](US1011366.md) | 1911-12-12 | Payne - Wray, Halbert E. - Silas G. | Ribbon Guide and Pointer |
 | [US1011551](US1011551.md) | 1911-12-12 | Ames, Arthur R. | Type-Writing Machine |
 | [US1011719](US1011719.md) | 1911-12-12 | Barrett, Glenn J. | Type-Writing Machine |
@@ -5256,7 +5262,7 @@ Every patent in the library, oldest first.
 | [US1015559](US1015559.md) | 1912-01-23 | Griffiths, George J. | Type-Writing Machine |
 | [US1015594](US1015594.md) | 1912-01-23 | Spurgin, Richard A. | Type-Writer |
 | [US1015630](US1015630.md) | 1912-01-23 | Newman, Enos S. | Combined Type-Writing and Adding Machine |
-| [DE242951](DE242951.md) | 1912-01-29 |  | Hilfsschaltvorrichtung zur Drehbewegung der Papierwalze von Schreibmaschinen |
+| [DE242951](DE242951.md) | 1912-01-29 | Underwood, Typewriter Co | Hilfsschaltvorrichtung zur Drehbewegung der Papierwalze von Schreibmaschinen |
 | [US1015810](US1015810.md) | 1912-01-30 | McCue, James Rowley | Type-Writing Machine |
 | [US1015849](US1015849.md) | 1912-01-30 | Smith, Arthur W. | Type-Writing Machine |
 | [US1016043](US1016043.md) | 1912-01-30 | Steele, Herbert H. | Type-Writing Machine |
@@ -5404,6 +5410,7 @@ Every patent in the library, oldest first.
 | [US1028505](US1028505.md) | 1912-06-04 | Thieme, Otto | Platen-Rotating Means for Type-Writing Machines |
 | [US1028556](US1028556.md) | 1912-06-04 | Dreher, Phillip Jacob | Type-Writing Machine |
 | [US1028845](US1028845.md) | 1912-06-04 | Dreher, Phillip Jacob | Line-Spacing Mechanism for Type-Writers |
+| [JP33137](JP33137.md) | 1912-06-05 | Villy, Henri | Pocket writing (printing) device |
 | [US1028922](US1028922.md) | 1912-06-11 | Waldheim, John | Type-Writing Machine |
 | [US1029101](US1029101.md) | 1912-06-11 | Brown, Alexander T. | Type-Writing Machine |
 | [US1029153](US1029153.md) | 1912-06-11 | Thieme, Otto | Tally-Roll Attachment for Type-Writing Machines |
@@ -5620,7 +5627,7 @@ Every patent in the library, oldest first.
 | [US1054998](US1054998.md) | 1913-03-04 | Stickney, Burnham C. | Type-Writing Machine |
 | [US1055027](US1055027.md) | 1913-03-04 | Felbel, Jacob | Type-Writing Machine |
 | [DE269119](DE269119.md) | 1913-03-07 |  | ~Device for switching the paper car of typewriters with systematic writing as well as the d |
-| [DE257491](DE257491.md) | 1913-03-11 |  | ~Tabellenschreibvorrichtung für Schreibmaschinen |
+| [DE257491](DE257491.md) | 1913-03-11 | Wanderer-Werke, Vorm Winklhofer & Jaenicke Akt-Ges | ~Tabellenschreibvorrichtung für Schreibmaschinen |
 | [US1055344](US1055344.md) | 1913-03-11 | McCormack, Harry S. | Type-Writing Machine |
 | [US1055367](US1055367.md) | 1913-03-11 | Stickney, Burnham C. | Type-Writing Machine |
 | [US1055480](US1055480.md) | 1913-03-11 | Main, Fred F. | Type-Writing Machine |
@@ -5821,6 +5828,7 @@ Every patent in the library, oldest first.
 | [DE256300](DE256300.md) | 1913-10-07 |  | ~Type lever typewriter with frame closed on both sides and at the back |
 | [US1074832](US1074832.md) | 1913-10-07 | Bright, Fred Eugene | Mechanical Movement |
 | [US1074858](US1074858.md) | 1913-10-07 | Groyen, Ferdinand | Type-Writing Mchine for Printing Notes |
+| [JP25474](JP25474.md) | 1913-10-09 | Sakai, Yasujirō | Sakai paper-cylinder feed device |
 | [DE265525](DE265525.md) | 1913-10-10 |  | Typewriter with removable type lever carrier |
 | [US1075458](US1075458.md) | 1913-10-14 | Barker, England J. | Type-Writer Attachment |
 | [US1075496](US1075496.md) | 1913-10-14 | Robinson, Frank A. | Type-Writing Machine |
@@ -5853,7 +5861,7 @@ Every patent in the library, oldest first.
 | [US1079548](US1079548.md) | 1913-11-25 | Fengler - Rouillot, Hermann V. - Victor B. | Type-Writing Machine |
 | [US1079731](US1079731.md) | 1913-11-25 | Vogel, Charles Herman | Type-Writing Machine |
 | [US1079812](US1079812.md) | 1913-11-25 | van Loy, Alois | Type-Writer |
-| [DE267940](DE267940.md) | 1913-12-02 |  | ~Λ kzent writing device for typewriters |
+| [DE267940](DE267940.md) | 1913-12-02 | Wanderer, Werke Vormals Winklho | ~Λ kzent writing device for typewriters |
 | [US1079957](US1079957.md) | 1913-12-02 | Seib, George A. | Type-Writing Machine |
 | [US1079963](US1079963.md) | 1913-12-02 | Vogel, Charles H. | Type-Writing Machine |
 | [US1080028](US1080028.md) | 1913-12-02 | Vogel, Charles H. | Type-Writing Machine |
@@ -5904,6 +5912,7 @@ Every patent in the library, oldest first.
 | [US1085031](US1085031.md) | 1914-01-20 | Fortin, Benjamin P. | Type-Writing Machine |
 | [US1085056](US1085056.md) | 1914-01-20 | McLaughlin, John C. | Type-Writing Machine |
 | [US1085060](US1085060.md) | 1914-01-20 | Molle, John E. | Paper-Holder for Type-Writers |
+| [JP26699](JP26699.md) | 1914-01-23 | Shinozawa, Yūsaku | Printing machine |
 | [US1085131](US1085131.md) | 1914-01-27 | Julihn - Culverwell, Louis G. - Joseph Frank | Copy-Holder |
 | [US1085382](US1085382.md) | 1914-01-27 | Hess, Edward B. | Writing-Machine |
 | [US1085636](US1085636.md) | 1914-02-03 | Sedgwick, Frederick | Cipher Type-Writer |
@@ -5959,7 +5968,7 @@ Every patent in the library, oldest first.
 | [US1094146](US1094146.md) | 1914-04-21 | Hess, Edward B. | Writing-Machine |
 | [US1094162](US1094162.md) | 1914-04-21 | Myers, Lewis C. | Type-Writing Machine |
 | [US1094311](US1094311.md) | 1914-04-21 | Dean - Teas, Franklin A. - Lewis L. | Automatic Copy-Holder |
-| [DE273274](DE273274.md) | 1914-04-23 |  | ~Tabellenschreibvorrichtung für Schreibmaschinen |
+| [DE273274](DE273274.md) | 1914-04-23 | Wanderer-Werke, Vorm Winklhofer & Jaenicke Akt-Ges | ~Tabellenschreibvorrichtung für Schreibmaschinen |
 | [US1094432](US1094432.md) | 1914-04-28 | Friedman, Leslie Harold | Line-Spacing Mechanism for Type-Writing Machines |
 | [US1094533](US1094533.md) | 1914-04-28 | Cotton, Walter H. | Ribbon-Inking Machine |
 | [US1094560](US1094560.md) | 1914-04-28 | Hazen - Petermann, Marshman W. - Otto | Type-Writing Machine |
@@ -6058,6 +6067,7 @@ Every patent in the library, oldest first.
 | [US1104504](US1104504.md) | 1914-07-21 | Holliday, Ivar G. | Attachment for Feeding Cards to Type-Writers |
 | [US1104538](US1104538.md) | 1914-07-21 | Mosher, Robert Marcius | Platen-Roller Release |
 | [US1104568](US1104568.md) | 1914-07-21 | Stafford, Wilfred | Tape-Copy-Holder Attachment for Type-Writers |
+| [JP26053](JP26053.md) | 1914-07-24 | Sakai, Yasujirō | Improvement in the Sakai typewriter |
 | [US1105081](US1105081.md) | 1914-07-28 | Karlberg - Sargent, Arvid Emanuel - Marshall Bidwell | Type-Writing Machine |
 | [US1105082](US1105082.md) | 1914-07-28 | Karlberg - Sargent, Arvid Emanuel - Marshall Bidwell | Rewinding Mechanism for Type-Writing Machines |
 | [US1105184](US1105184.md) | 1914-07-28 | Corcoran, Cornelius B. | Type-Writing Machine |
@@ -6113,7 +6123,7 @@ Every patent in the library, oldest first.
 | [US1111727](US1111727.md) | 1914-09-29 | Axline, Joseph Herman | Ribbon-Reviver |
 | [US1111868](US1111868.md) | 1914-09-29 | Sholes - Fraaz, Zalmon G. - Joseph M. | Type-Writer |
 | [US1112408](US1112408.md) | 1914-09-29 | Neidig, William J. | Type-Writing Machine |
-| [DE278625](DE278625.md) | 1914-10-01 |  | ~The subject matter of the invention relates to a printing unit for calculating machines an |
+| [DE278625](DE278625.md) | 1914-10-01 | Wanderer-Werke, Vorm Winklhofer & Jaenicke Ag | ~The subject matter of the invention relates to a printing unit for calculating machines an |
 | [DE292338](DE292338.md) | 1914-10-02 |  | ~Typewriters for the letters is given |
 | [US1112591](US1112591.md) | 1914-10-06 | Beem, Carlton E. | Eraser Attachment for Type-Writers |
 | [US1112626](US1112626.md) | 1914-10-06 | Knapp, Theron L. | Type-Writing Machine |
@@ -6127,6 +6137,7 @@ Every patent in the library, oldest first.
 | [US1113572](US1113572.md) | 1914-10-13 | Neidig, William J. | Type-Writing Machine |
 | [US1113576](US1113576.md) | 1914-10-13 | Petermann, Otto | Type-Writing Machine |
 | [US1114316](US1114316.md) | 1914-10-13 | Uhlig, Richard W. | Type-Writing Machine |
+| [JP27877](JP27877.md) | 1914-10-14 | Sugimoto, Kyōta | Typewriter |
 | [US1114044](US1114044.md) | 1914-10-20 | Roberts, Lyman R. | Type-Writing-Machine Operator |
 | [US1114198](US1114198.md) | 1914-10-20 | Smith, Arthur W. | Type-Writing Machine |
 | [US1114218](US1114218.md) | 1914-10-20 | Yaw, Clio B. | Type-Writing Machine |
@@ -6255,6 +6266,7 @@ Every patent in the library, oldest first.
 | [US1124828](US1124828.md) | 1915-01-12 | Woodward, Oscar | Type-Writing Machine |
 | [US1124967](US1124967.md) | 1915-01-12 | Stickney, Burnham C. | Type-Writing Machine |
 | [DE309408](DE309408.md) | 1915-01-14 |  | ~Platen whose roller body can be exchanged between two shaft parts |
+| [JP27937](JP27937.md) | 1915-01-18 | Shinozawa, Yūsaku | Printing machine |
 | [DE295774](DE295774.md) | 1915-01-19 |  | ~Ball bearing part for carrying and guiding the paper trolley of typewriters and connection |
 | [US1125205](US1125205.md) | 1915-01-19 | Stickney, Burnham C. | Type-Writing Machine |
 | [US1125582](US1125582.md) | 1915-01-19 | McHollan, James A. | Lettering-Machine |
@@ -6515,7 +6527,7 @@ Every patent in the library, oldest first.
 | [US1160560](US1160560.md) | 1915-11-16 | Anderson, Nils H. | Key for Type-Writing Machines |
 | [US1160665](US1160665.md) | 1915-11-16 | Spiro, Charles | Stenographic Type-Writer |
 | [US1160912](US1160912.md) | 1915-11-16 | Latta, Emmit G. | Type-Writing Machine |
-| [DE288801](DE288801.md) | 1915-11-20 |  | Paper feed device for typewriters with pins that engage in holes at the edges &hellip; |
+| [DE288801](DE288801.md) | 1915-11-20 | Underwood, Typewriter Co | Paper feed device for typewriters with pins that engage in holes at the edges &hellip; |
 | [US1161071](US1161071.md) | 1915-11-23 | Ocumpaugh, Edmund, 2nd. | Printing-Machine |
 | [US1161181](US1161181.md) | 1915-11-23 | Anderson, Nils H. | Type-Writing Machine |
 | [US1161422](US1161422.md) | 1915-11-23 | Sundal, Theodore A. | Margin-Indicator for Type-Writers |
@@ -6547,7 +6559,7 @@ Every patent in the library, oldest first.
 | [US1163564](US1163564.md) | 1915-12-07 | Schneeloch, August | Platen-Operating Mechanism for Type-Writers |
 | [US1163574](US1163574.md) | 1915-12-07 | Wallace, James G. | Type-Bar Action |
 | [US1163580](US1163580.md) | 1915-12-07 | Alexander, Jesse | Type-Writing Machine Ribbon Feeding and Operating Mechanism |
-| [DE289046](DE289046.md) | 1915-12-10 |  | ~Typewriter with a cylindrical type carrier and two slidable Type segments arranged on it |
+| [DE289046](DE289046.md) | 1915-12-10 | Hammond, Typewriter C | ~Typewriter with a cylindrical type carrier and two slidable Type segments arranged on it |
 | [US1163725](US1163725.md) | 1915-12-14 | West, Augustus Albert | Type-Writer |
 | [US1163744](US1163744.md) | 1915-12-14 | Elliott, Sterling | Stencil-Cutting Machine |
 | [US1163761](US1163761.md) | 1915-12-14 | Kurowski, Alfred G. F. | Type-Writing Machine |
@@ -6583,41 +6595,57 @@ Every patent in the library, oldest first.
 | [US1166111](US1166111.md) | 1915-12-28 | Chapin, John J. | Type-Writer Ribbon Mechanism |
 | [US1166390](US1166390.md) | 1915-12-28 | Sholes, Zalmon G. | Type-Writer Platen |
 | [DE289775](DE289775.md) | 1916-01-19 |  | ~Bearing for levers, in particular for the type |
-| [DE289847](DE289847.md) | 1916-01-24 |  | Paper insertion and feeding device for typewriters with conveyor belts and an &hellip; |
+| [DE289847](DE289847.md) | 1916-01-24 | Underwood, Typewriter Co | Paper insertion and feeding device for typewriters with conveyor belts and an &hellip; |
 | [DE309590](DE309590.md) | 1916-03-22 |  | ~GREAT When writing invoices it is desirable to look at the copies that are not should be s |
 | [DE290911](DE290911.md) | 1916-03-29 |  | ~Typewriters known which have column and digit tabs combined |
 | [DE291446](DE291446.md) | 1916-04-19 |  | ~Further embodiment of the table writing device according to the patent 290911 |
+| [JP30202](JP30202.md) | 1916-05-04 | Sugimoto, Kyōta | Typewriter |
 | [DE307964](DE307964.md) | 1916-09-29 |  | ~Typewriter, in which |
-| [DE294395](DE294395.md) | 1916-10-06 |  | Paper roller rotating device for typewriters |
+| [DE294395](DE294395.md) | 1916-10-06 | Underwood, Typewriter Co | Paper roller rotating device for typewriters |
 | [USRE14283](USRE14283.md) | 1917-04-10 | Hart, Frederick A. | Type-Writing Machine |
+| [JP31977](JP31977.md) | 1917-06-23 | Shinozawa, Yūsaku | Printing machine |
 | [DE307859](DE307859.md) | 1917-07-19 |  | ~Typewriters with paper slides that can be moved to and fro and consists of a device that a |
 | [USRE14407](USRE14407.md) | 1917-12-11 | Frantz, Charles T. | Type-Writing Machine |
 | [USRE14408](USRE14408.md) | 1917-12-11 | Frantz, Charles T. | Type-Writing Machine |
 | [DE312778](DE312778.md) | 1917-12-22 |  | ~Concept holder for typewriters |
+| [JP33067](JP33067.md) | 1918-01-10 | Shimada, Minokichi | Shimada-type kanji printing machine |
 | [USRE14491](USRE14491.md) | 1918-07-02 | Latta, Emmit G. | Ribbon Mechanism |
+| [JP34070](JP34070.md) | 1918-07-22 | Sugimoto, Kyōta | Printing device applied to a typewriter |
 | [DE306879](DE306879.md) | 1918-07-23 | Wille, Louis | Vorrichtung zur Vermeidung von Überspannungen und Brüchen beim Aufziehen sowie zum Anzeigen des Ablaufens von Federkraftwerken, inbesondere Uhren. |
 | [USRE14495](USRE14495.md) | 1918-07-23 | Latta, Emmit G. | Type-Writing Machine |
+| [JP34078](JP34078.md) | 1918-10-15 | Shimada, Minokichi | Shimada-type kanji printing machine |
+| [JP34910](JP34910.md) | 1919-01-06 | Shimada, Minokichi | Shimada-type printing machine |
 | [USRE14599](USRE14599.md) | 1919-02-25 | Petermann, Otto | Type-Writing Machine |
+| [JP34472](JP34472.md) | 1919-03-31 | Sugimoto, Kyōta | Typewriter |
+| [JP37752](JP37752.md) | 1919-04-02 | Uwagawa, Atsushi | Uwagawa-type printing machine |
+| [JP34924](JP34924.md) | 1919-06-04 | Shimada, Minokichi | Shimada-type printing machine |
+| [JP43693](JP43693.md) | 1919-06-04 | Katō, Kenjirō | Character-spacing change-over device for a typewriter |
+| [JP55053](JP55053.md) | 1919-09-03 | Shimada, Minokichi | Shimada-type printing machine |
+| [JP37882](JP37882.md) | 1919-10-22 | Sugimoto, Kyōta | Typewriter |
+| [JP37919](JP37919.md) | 1919-11-19 | Shimada, Minokichi | Shimada-type printing machine |
+| [JP38396](JP38396.md) | 1920-02-02 | Spiro, Charles | Line-spacing adjusting mechanism for a typewriter |
 | [DE318805](DE318805.md) | 1920-02-11 | Birsner, Franz | Reversible type lever bearing segment |
-| [DE331594](DE331594.md) | 1920-02-15 |  | Device for fixing the bearing wire for the type lever of typewriters |
+| [DE331594](DE331594.md) | 1920-02-15 | Co, Remington Typewriter | Device for fixing the bearing wire for the type lever of typewriters |
 | [DE318736](DE318736.md) | 1920-02-21 |  | ~Device on typewriters with which Characters and words as well as entire sentences are unde |
 | [DE319715](DE319715.md) | 1920-03-15 | Maschb, Mechanik Automobil Und | Typewriter for the simultaneous generation of Braille and ordinary writing |
-| [DE319752](DE319752.md) | 1920-03-30 |  | Type lever bearing for typewriters with a curved swing axis and slot guide for &hellip; |
+| [DE319752](DE319752.md) | 1920-03-30 | W, Mercedes Buero Maschinen Und | Type lever bearing for typewriters with a curved swing axis and slot guide for &hellip; |
 | [DE320000](DE320000.md) | 1920-04-15 | Cie, Charles Noerther & | Note typewriter |
+| [JP39836](JP39836.md) | 1920-04-22 | Yoshimi, Masao | Transfer printing machine |
 | [DE320490](DE320490.md) | 1920-04-24 | E, Litinsky | Vorrichtung zur Geheimuebermittlung telegraphischer Nachrichten, bei der mittels telegraphischer Apparate mit Tastatur nach Art von Schreibmaschinen und mit Typenrad o. dgl. die Buchstaben oder ... |
 | [DE320489](DE320489.md) | 1920-04-26 | E, Litinsky | Verfahren zur Geheimuebermittlung telegraphischer Nachrichten mittels schreibmaschinenaehnlicher Tastaturen und Typenraeder |
 | [DE320491](DE320491.md) | 1920-04-26 | Constructi, Gen Engineering And | Drucktelegraph zur UEbertragung von zu lesbaren Schriftzeichen sich zusammensetzenden Zeichenelementen |
-| [DE320665](DE320665.md) | 1920-04-29 |  | Typewriter roller |
-| [DE320692](DE320692.md) | 1920-04-29 |  | Kontroll- und Registrierkasse mit Quittungs- oder Gutscheinausgabe, deren Antrieb durch einen Handhebel erfolgt und bei der vor jeder neuen Einstellung der Kasse die Getriebeteile in die Null- ... |
+| [DE320665](DE320665.md) | 1920-04-29 | J, Bruening & Sohn Akt Ges | Typewriter roller |
+| [DE320692](DE320692.md) | 1920-04-29 | Citaetszaehlerfabrik, Aron Elek | Kontroll- und Registrierkasse mit Quittungs- oder Gutscheinausgabe, deren Antrieb durch einen Handhebel erfolgt und bei der vor jeder neuen Einstellung der Kasse die Getriebeteile in die Null- ... |
 | [DE320676](DE320676.md) | 1920-04-30 | Browning, Walter Henry | Vorrichtung zum Fortschalten von Streifen aus Papier, Gewebe o. dgl. |
 | [DE320813](DE320813.md) | 1920-05-05 | Browning, Walter Henry | Vorrichtung zum Aufwickeln von Gewebe- und Papierstreifen |
-| [DE320703](DE320703.md) | 1920-05-07 |  | Machine for printing and issuing a different number of travel or entry tickets &hellip; |
+| [JP57206](JP57206.md) | 1920-05-05 | Shimada, Minokichi | Shimada-type printing machine |
+| [DE320703](DE320703.md) | 1920-05-07 | Co, Ncr | Machine for printing and issuing a different number of travel or entry tickets &hellip; |
 | [DE320666](DE320666.md) | 1920-05-12 | Bertrand, Otto | Hand grinder, especially for typewriter rollers |
 | [DE321032](DE321032.md) | 1920-05-15 | Birsner, Franz | Device for locking writing |
 | [DE321333](DE321333.md) | 1920-05-29 |  | Switching device for the ribbon movement in working time control clocks with card printing |
-| [DE321414](DE321414.md) | 1920-06-02 |  | Einrichtung zum Schalten von Hand schwer zu bedienender Schalter |
-| [DE321663](DE321663.md) | 1920-06-11 |  | Device for variable stroke movement of the ribbon fork |
-| [DE321834](DE321834.md) | 1920-06-15 |  | Schreibrechenmaschine mit Kraftantrieb |
+| [DE321414](DE321414.md) | 1920-06-02 | Ges, Voigt & Haeffner Akt | Einrichtung zum Schalten von Hand schwer zu bedienender Schalter |
+| [DE321663](DE321663.md) | 1920-06-11 | Co, Remington Typewriter | Device for variable stroke movement of the ribbon fork |
+| [DE321834](DE321834.md) | 1920-06-15 | Waf, Mercedes Buero Maschinen & | Schreibrechenmaschine mit Kraftantrieb |
 | [DE322020](DE322020.md) | 1920-06-18 |  | Shedding device for looms, especially for ribbon looms |
 | [DE322028](DE322028.md) | 1920-06-18 | Mylau, Arthur | Device for column writing of numbers |
 | [DE322029](DE322029.md) | 1920-06-18 |  | ~Device for driving the type lever of typewriters |
@@ -6629,17 +6657,17 @@ Every patent in the library, oldest first.
 | [DE322035](DE322035.md) | 1920-06-19 | Garlanda, Eligio | Storage segment for typewriters |
 | [DE322042](DE322042.md) | 1920-06-19 | E, Litinsky | Verfahren zur Geheimuebermittlung telegraphischer Nachrichten mittels schreibmaschinenaehnlicher Tastaturen und Typenraeder |
 | [DE322098](DE322098.md) | 1920-06-19 | Petty, John Paxton | ~Method and a device for aligning sheets at the stacking table |
-| [DE322099](DE322099.md) | 1920-06-19 |  | Key and type lever stop mechanism |
+| [DE322099](DE322099.md) | 1920-06-19 | Ag, Triumph Werke Nuernberg | Key and type lever stop mechanism |
 | [DE322100](DE322100.md) | 1920-06-21 | Kromm, Georg | Button lever lock |
 | [DE322150](DE322150.md) | 1920-06-21 | Enders, Robert | Keyless typewriter |
 | [DE322196](DE322196.md) | 1920-06-22 | Conradt, Friedrich | Typewriter with type stop on the back |
-| [DE322294](DE322294.md) | 1920-06-23 |  | Method for producing typewriter writing on prepared paper without the use of &hellip; |
+| [DE322294](DE322294.md) | 1920-06-23 | Maschinen, Pagina Fachhaus Fuer | Method for producing typewriter writing on prepared paper without the use of &hellip; |
 | [DE322460](DE322460.md) | 1920-06-29 |  | Electrical switching device for advertising ribbons arranged side by side |
 | [DE322606](DE322606.md) | 1920-07-05 | Egle, Franz | typewriter |
 | [DE322607](DE322607.md) | 1920-07-05 | Mayr, Eustach | Device for electrical or electromechanical type stop, especially for &hellip; |
 | [DE322663](DE322663.md) | 1920-07-05 |  | Druckwerk fuer Rechenmaschinen mit einem die Druckwalze bewegenden Schieber |
 | [DE322747](DE322747.md) | 1920-07-07 | Wasem, Hermann | Height switching device for the platen |
-| [DE322748](DE322748.md) | 1920-07-07 |  | Triggering device for the freewheeling of the paper roller |
+| [DE322748](DE322748.md) | 1920-07-07 | Und, Mercedes Bureau Maschinen | Triggering device for the freewheeling of the paper roller |
 | [DE322749](DE322749.md) | 1920-07-07 | Birsner, Franz | keylock |
 | [DE322750](DE322750.md) | 1920-07-07 | Wasem, Hermann | Interchangeable platen |
 | [DE322751](DE322751.md) | 1920-07-07 | Wasem, Hermann | Interchangeable key button |
@@ -6652,36 +6680,36 @@ Every patent in the library, oldest first.
 | [DE324209](DE324209.md) | 1920-08-20 | Moehling, Paul | Type lever drive |
 | [DE324210](DE324210.md) | 1920-08-20 | Wasem, Hermann | Device to prevent the type lever stop in the event of incomplete switching |
 | [DE324211](DE324211.md) | 1920-08-20 | Moehling, Paul | Carriage switching device |
-| [DE324213](DE324213.md) | 1920-08-20 |  | Device for coupling the paper roller with the line index wheel |
+| [DE324213](DE324213.md) | 1920-08-20 | Winklhofer, Wanderer Werke Vorm | Device for coupling the paper roller with the line index wheel |
 | [DE324214](DE324214.md) | 1920-08-20 | Wasem, Hermann | Edge stop device with type lever lock |
 | [DE324217](DE324217.md) | 1920-08-20 | Birsner, Franz | Device for regulating the stroke of the ribbon fork |
 | [DE324219](DE324219.md) | 1920-08-20 | Schaefer, Fritz | Key lock device. |
 | [DE324215](DE324215.md) | 1920-08-21 | Birsner, Franz | Switching device for the ribbon drive |
 | [DE324216](DE324216.md) | 1920-08-21 | Birsner, Franz | Stroke control device for the ribbon fork |
-| [DE324145](DE324145.md) | 1920-08-23 |  | Removable paper cart carrier |
-| [DE324212](DE324212.md) | 1920-08-23 |  | Paper cart switching device for typewriters |
-| [DE324144](DE324144.md) | 1920-08-24 |  | Universal rail mounting |
+| [DE324145](DE324145.md) | 1920-08-23 | Co, Sholes Standard Typewriter | Removable paper cart carrier |
+| [DE324212](DE324212.md) | 1920-08-23 | Winklhofer, Wanderer Werke Vorm | Paper cart switching device for typewriters |
+| [DE324144](DE324144.md) | 1920-08-24 | Co, Remington Typewriter | Universal rail mounting |
 | [DE324147](DE324147.md) | 1920-08-24 | Maschf, Rheinische Metallw & | Puffer fuer Eisenbahnfahrzeuge |
 | [DE324218](DE324218.md) | 1920-08-24 | Moehling, Paul | Device for automatic reversal of the longitudinal direction of movement of the &hellip; |
 | [DE324220](DE324220.md) | 1920-08-24 |  | Collapsible typewriter |
 | [DE324221](DE324221.md) | 1920-08-24 | Geb, Lehmann | typewriter |
 | [DE324149](DE324149.md) | 1920-08-30 | Reuter, Chr | Zeilenschaltung fuer den durch den Papierwagen getragenen Papierbogen von Fernschreibern mit zwei synchron arbeitenden elektrischen Schreibmaschinen |
-| [DE323558](DE323558.md) | 1920-09-01 |  | Registrierkasse mit einschiebbaren Kontrollkaesten |
-| [DE324815](DE324815.md) | 1920-09-04 |  | Registrierkasse, besonders fuer Gasthoefe, Gasthaeuser u. dgl., mit einem Hauptaddierwerk und mehreren Einzeladdierwerken |
-| [DE325077](DE325077.md) | 1920-09-07 |  | Switching device for the platen of typewriters with double switching |
-| [DE325078](DE325078.md) | 1920-09-07 |  | Display device for typewriters |
+| [DE323558](DE323558.md) | 1920-09-01 | Co, Ncr | Registrierkasse mit einschiebbaren Kontrollkaesten |
+| [DE324815](DE324815.md) | 1920-09-04 | Co, Ncr | Registrierkasse, besonders fuer Gasthoefe, Gasthaeuser u. dgl., mit einem Hauptaddierwerk und mehreren Einzeladdierwerken |
+| [DE325077](DE325077.md) | 1920-09-07 | Winklhofer, Wanderer Werke Vorm | Switching device for the platen of typewriters with double switching |
+| [DE325078](DE325078.md) | 1920-09-07 | Winklhofer, Wanderer Werke Vorm | Display device for typewriters |
 | [DE350160](DE350160.md) | 1920-09-08 |  | ~Tabellenschreibvorrichtung |
-| [DE325235](DE325235.md) | 1920-09-10 |  | Switching device for the platen |
-| [DE325364](DE325364.md) | 1920-09-13 |  | Wirbelstromgetriebe |
-| [DE325476](DE325476.md) | 1920-09-13 |  | Paper guide |
-| [DE325570](DE325570.md) | 1920-09-15 |  | Type lever stop mechanism |
+| [DE325235](DE325235.md) | 1920-09-10 | Winklhofer, Wanderer Werke Vorm | Switching device for the platen |
+| [DE325364](DE325364.md) | 1920-09-13 | Ges, Siemens & Halske Akt | Wirbelstromgetriebe |
+| [DE325476](DE325476.md) | 1920-09-13 | Winklhofer, Wanderer Werke Vorm | Paper guide |
+| [DE325570](DE325570.md) | 1920-09-15 | Ge, Triumph Werke Nuernberg Akt | Type lever stop mechanism |
 | [DE326128](DE326128.md) | 1920-09-24 | Masc, Rheinische Metallwaaren & | Buffers for railway vehicles |
 | [DE326967](DE326967.md) | 1920-10-01 | Birsner, Franz | Switching device for the ribbon drive |
-| [DE326844](DE326844.md) | 1920-10-02 |  | Device for switching the ribbon drive |
-| [DE326965](DE326965.md) | 1920-10-04 |  | Column stop bar |
+| [DE326844](DE326844.md) | 1920-10-02 | Furtwaengle, Uhrenfabrik Vorm L | Device for switching the ribbon drive |
+| [DE326965](DE326965.md) | 1920-10-04 | Winklhofer, Wanderer Werke Vorm | Column stop bar |
 | [DE326772](DE326772.md) | 1920-10-05 | Mayr, Eustach | Device for electrical or electromechanical type stop, especially for &hellip; |
 | [DE326966](DE326966.md) | 1920-10-05 | Birsner, Franz | Alternating locking and braking device for the paper roll |
-| [DE326968](DE326968.md) | 1920-10-05 |  | Ribbon guide |
+| [DE326968](DE326968.md) | 1920-10-05 | Winklhofer, Wanderer Werke Vorm | Ribbon guide |
 | [DE326969](DE326969.md) | 1920-10-05 | Massapust, Julius | Sound absorbing foot pad |
 | [DE326970](DE326970.md) | 1920-10-05 | Born, Oskar | Concept holder |
 | [DE327053](DE327053.md) | 1920-10-06 | Nielsen, Thorvald | Ruler |
@@ -6691,20 +6719,20 @@ Every patent in the library, oldest first.
 | [DE327617](DE327617.md) | 1920-10-14 | Begas, Gottfried | Drive device for type levers of typewriters |
 | [DE327618](DE327618.md) | 1920-10-14 | Kracke, Karl | Power drive for type lever |
 | [DE327619](DE327619.md) | 1920-10-14 | Muchajer, Paul | Replaceable button |
-| [DE327620](DE327620.md) | 1920-10-14 |  | typewriter |
+| [DE327620](DE327620.md) | 1920-10-14 | Winklhofer, Wanderer Werke Vorm | typewriter |
 | [DE327621](DE327621.md) | 1920-10-14 | Woldt, Paul | Injection molded bearings |
 | [DE326948](DE326948.md) | 1920-10-19 |  | Typewriter |
 | [DE327932](DE327932.md) | 1920-10-19 | Tavoukdji, Paul | Sound absorbing pad |
-| [DE327931](DE327931.md) | 1920-10-22 |  | Typewriter for writing on paper webs |
+| [DE327931](DE327931.md) | 1920-10-22 | Co, Underwood Typewriter | Typewriter for writing on paper webs |
 | [DE328880](DE328880.md) | 1920-11-06 | Reinicke, Georg | Typewriter for Turkish, Hindostan and related script |
 | [DE328871](DE328871.md) | 1920-11-12 | Underwood, John Thomas | typewriter |
 | [DE329612](DE329612.md) | 1920-11-25 | Gremmels, Felix | Rechenschreibmaschine mit vom Papierwagen bewegten Zaehlwerken |
 | [DE329663](DE329663.md) | 1920-11-27 | F, Naehmaschinen Und Fahrraeder | tab |
-| [DE329664](DE329664.md) | 1920-11-27 |  | Type lever drive |
-| [DE329665](DE329665.md) | 1920-11-27 |  | Coupling of the ratchet wheel with the paper trolley drive |
+| [DE329664](DE329664.md) | 1920-11-27 | Skrivemaskinefabriker, Nordiske | Type lever drive |
+| [DE329665](DE329665.md) | 1920-11-27 | Winklhofer, Wanderer Werke Vorm | Coupling of the ratchet wheel with the paper trolley drive |
 | [DE329666](DE329666.md) | 1920-11-27 | Herrmann, Alfred | Fixing clamp for ribbon spools |
 | [DE329667](DE329667.md) | 1920-11-27 |  | Collapsible typewriter |
-| [DE329782](DE329782.md) | 1920-11-29 |  | Adjustment device for the paper roller |
+| [DE329782](DE329782.md) | 1920-11-29 | Co, Remington Typewriter | Adjustment device for the paper roller |
 | [DE329723](DE329723.md) | 1920-11-30 | Schmidt, Richard C Fr | Montagebock fuer Schreibmaschinen |
 | [DE329783](DE329783.md) | 1920-11-30 | Muchajer, Paul | Device for holding type wheels on their axes |
 | [DE329964](DE329964.md) | 1920-12-02 | Cyran, Anselm | Lining device for typewriters |
@@ -6721,58 +6749,58 @@ Every patent in the library, oldest first.
 | [DE332719](DE332719.md) | 1921-02-08 | Wasem, Hermann | Exchangeable type lever basket |
 | [DE332596](DE332596.md) | 1921-02-09 | Schubert, Paul | Writing device for the braille of the blind |
 | [DE332683](DE332683.md) | 1921-02-09 | Bertrand, Otto | Clamping device, especially for typewriter rollers on grinding machines |
-| [DE332684](DE332684.md) | 1921-02-09 |  | Device for moving the universal rail for typewriters |
+| [DE332684](DE332684.md) | 1921-02-09 | Furtwaengle, Uhrenfabrik Vorm L | Device for moving the universal rail for typewriters |
 | [DE332718](DE332718.md) | 1921-02-09 | Vester, Heinrich | Pointer typewriter with type cylinder and ink roller |
 | [DE333221](DE333221.md) | 1921-02-19 | Kamm, Friedrich | Fixing device for typewriters u. Like., Consisting of a clamp which is &hellip; |
 | [DE333531](DE333531.md) | 1921-02-26 | Fries, Rudolph | Soundproof typewriter |
-| [DE333501](DE333501.md) | 1921-02-28 |  | Addier- und Druckmaschine |
+| [DE333501](DE333501.md) | 1921-02-28 | Co, Burroughs Adding Machine | Addier- und Druckmaschine |
 | [DE333483](DE333483.md) | 1921-03-01 | Ott, Andreas | Schaltvorrichtung zur Herstellung beliebiger Abstaende der Druckzeichen fuer Matrizenpraegemaschinen und Schreibmaschinen |
-| [DE334712](DE334712.md) | 1921-03-15 |  | Coupling between paper roller and line index wheel |
-| [DE334713](DE334713.md) | 1921-03-15 |  | Type lever guide |
+| [DE334712](DE334712.md) | 1921-03-15 | Furtwaengle, Uhrenfabrik Vorm L | Coupling between paper roller and line index wheel |
+| [DE334713](DE334713.md) | 1921-03-15 | Furtwaengle, Uhrenfabrik Vorm L | Type lever guide |
 | [DE334711](DE334711.md) | 1921-03-16 | Schubert, Paul | Writing device for the braille of the blind |
 | [DE334910](DE334910.md) | 1921-03-21 | Baumgartner, Josef | Device for refreshing worn ink ribbons for typewriters |
 | [DE335200](DE335200.md) | 1921-03-29 | Schubert, Paul | Writing device for the braille of the blind |
 | [DE335495](DE335495.md) | 1921-04-04 |  | Typewriter |
 | [DE335618](DE335618.md) | 1921-04-07 | Bauer, Jng Fritz | Schreibende Rechenmaschine mit Tastatur und Einrichtungen zum selbsttaetigen Abdruck der Nullen |
 | [DE335645](DE335645.md) | 1921-04-08 | Tolle, Heinrich | Key machine with power drive |
-| [DE335714](DE335714.md) | 1921-04-08 | Lammine, Th | Device for collecting the forms cut off by typewriters writing on paper webs |
-| [DE335713](DE335713.md) | 1921-04-09 |  | Type rods for typewriters |
-| [DE335768](DE335768.md) | 1921-04-09 |  | Key switch |
+| [DE335714](DE335714.md) | 1921-04-08 |  | Device for collecting the forms cut off by typewriters writing on paper webs |
+| [DE335713](DE335713.md) | 1921-04-09 | Co, Remington Typewriter | Type rods for typewriters |
+| [DE335768](DE335768.md) | 1921-04-09 | Ag, Vorm Seidel & Naumann | Key switch |
 | [DE335712](DE335712.md) | 1921-04-11 | Mayr, Jng Eustach | Device for electrical or electromechanical type stop, especially for &hellip; |
-| [DE335769](DE335769.md) | 1921-04-12 |  | Device for locking the line shift wheel clutch |
-| [DE335770](DE335770.md) | 1921-04-12 |  | Line switch |
-| [DE335771](DE335771.md) | 1921-04-12 |  | Paper cart |
-| [DE335772](DE335772.md) | 1921-04-12 |  | Device for moving the ribbon guide fork |
-| [DE335766](DE335766.md) | 1921-04-14 |  | Locking device to prevent unintentional height adjustment of the platen |
-| [DE335767](DE335767.md) | 1921-04-14 |  | Device for noiseless return of the car |
+| [DE335769](DE335769.md) | 1921-04-12 | Ag, Seidel & Naumann | Device for locking the line shift wheel clutch |
+| [DE335770](DE335770.md) | 1921-04-12 | Winklhofer, Wanderer Werke Vorm | Line switch |
+| [DE335771](DE335771.md) | 1921-04-12 | Co, Underwood Typewriter | Paper cart |
+| [DE335772](DE335772.md) | 1921-04-12 | Ag, Seidel & Naumann | Device for moving the ribbon guide fork |
+| [DE335766](DE335766.md) | 1921-04-14 | Ag, Vorm Seidel & Naumann | Locking device to prevent unintentional height adjustment of the platen |
+| [DE335767](DE335767.md) | 1921-04-14 | Ag, Seidel & Naumann | Device for noiseless return of the car |
 | [DE335879](DE335879.md) | 1921-04-18 | Wittig, Wilhelm | typewriter |
 | [DE335878](DE335878.md) | 1921-04-19 | Gronemann, Albert | Typewriter with mechanical drive of the type lever |
 | [DE336669](DE336669.md) | 1921-05-07 | Carlsen, Alfred Julius Theodor | Geheimschriftschreibmaschine |
-| [DE336670](DE336670.md) | 1921-05-07 |  | Carriage switching device |
-| [DE336671](DE336671.md) | 1921-05-10 |  | Paper carriage switching device |
-| [DE336672](DE336672.md) | 1921-05-10 |  | Downshift device for the paper trolley |
-| [DE336673](DE336673.md) | 1921-05-10 |  | Zeilenbegrenzungsvorrichtung |
-| [DE336674](DE336674.md) | 1921-05-10 |  | Ribbon attachment |
-| [DE336675](DE336675.md) | 1921-05-10 |  | Sound absorbing device for typewriters |
-| [DE336718](DE336718.md) | 1921-05-10 | Lammine, Th | Sheeter |
+| [DE336670](DE336670.md) | 1921-05-07 | Co, Remington Typewriter | Carriage switching device |
+| [DE336671](DE336671.md) | 1921-05-10 | Co, Remington Typewriter | Paper carriage switching device |
+| [DE336672](DE336672.md) | 1921-05-10 | Co, Remington Typewriter | Downshift device for the paper trolley |
+| [DE336673](DE336673.md) | 1921-05-10 | Co, Remington Typewriter | Zeilenbegrenzungsvorrichtung |
+| [DE336674](DE336674.md) | 1921-05-10 | Furtwaengle, Uhrenfabrik Vorm L | Ribbon attachment |
+| [DE336675](DE336675.md) | 1921-05-10 | Furtwaengle, Uhrenfabrik Vorm L | Sound absorbing device for typewriters |
+| [DE336718](DE336718.md) | 1921-05-10 |  | Sheeter |
 | [DE336774](DE336774.md) | 1921-05-17 | Leidenroth, Gustav | typewriter |
 | [DE336775](DE336775.md) | 1921-05-17 | Kornbusch, Kurt | Locking device for the paper trolley |
-| [DE336776](DE336776.md) | 1921-05-17 | Lammine, Th | Vorschubvorrichtung an Schreibmaschinen |
+| [DE336776](DE336776.md) | 1921-05-17 |  | Vorschubvorrichtung an Schreibmaschinen |
 | [DE336981](DE336981.md) | 1921-05-20 | Baumgartner, Josef | Device for refreshing worn ink ribbons for typewriters |
-| [DE337286](DE337286.md) | 1921-05-28 | Lammine, Th | Sheeter |
+| [DE337286](DE337286.md) | 1921-05-28 |  | Sheeter |
 | [DE338616](DE338616.md) | 1921-06-04 | Petermann, Otto | Drive device for the universal rail |
-| [DE337650](DE337650.md) | 1921-06-06 |  | Schreibrechenmaschine |
+| [DE337650](DE337650.md) | 1921-06-06 | Co, Underwood Computing Machine | Schreibrechenmaschine |
 | [DE338447](DE338447.md) | 1921-06-20 |  | Typewriter |
 | [DE338611](DE338611.md) | 1921-06-21 | Hohmann, Hugo | Method and device for transcribing notes |
-| [DE338613](DE338613.md) | 1921-06-21 |  | Paper roll bearing |
-| [DE338580](DE338580.md) | 1921-06-22 |  | Addiermaschine mit Druckvorrichtung und besonderen Zeichen zur Kennzeichnung vorgenommener oder unterlassener Operationen |
-| [DE338612](DE338612.md) | 1921-06-23 |  | Vorrichtung zum geraeuschlosen Zurueckfuehren des Wagens |
+| [DE338613](DE338613.md) | 1921-06-21 | Furtwaengle, Uhrenfabrik Vorm L | Paper roll bearing |
+| [DE338580](DE338580.md) | 1921-06-22 | Corp, Addometer | Addiermaschine mit Druckvorrichtung und besonderen Zeichen zur Kennzeichnung vorgenommener oder unterlassener Operationen |
+| [DE338612](DE338612.md) | 1921-06-23 | Ag, Seidel & Naumann | Vorrichtung zum geraeuschlosen Zurueckfuehren des Wagens |
 | [DE338614](DE338614.md) | 1921-06-28 | Koehler, Max | Ribbon arrangement |
 | [DE338615](DE338615.md) | 1921-06-28 | Bahsz, Wilfried | Device for dyeing typewriter ribbons |
 | [DE339006](DE339006.md) | 1921-07-11 | Maschf, Rheinische Metallw & | Puffer fuer Eisenbahnfahrzeuge |
 | [DE339259](DE339259.md) | 1921-07-18 | Dressler, Wilhelm | ball-bearing |
 | [DE339311](DE339311.md) | 1921-07-20 | Hanke, Weber & | Downshift device for the paper trolley |
-| [DE339312](DE339312.md) | 1921-07-22 |  | Line delimiter |
+| [DE339312](DE339312.md) | 1921-07-22 | Winklhofer, Wanderer Werke Vorm | Line delimiter |
 | [DE339313](DE339313.md) | 1921-07-22 | Frankenbusch, Otto | Device for coloring ribbons, especially for typewriters |
 | [DE339320](DE339320.md) | 1921-07-22 |  | Typewriter |
 | [DE339406](DE339406.md) | 1921-07-23 | Sandor, Franz | typewriter |
@@ -6785,130 +6813,134 @@ Every patent in the library, oldest first.
 | [DE339790](DE339790.md) | 1921-08-10 | Graff, Maximilian | Device for adjusting the edge stops |
 | [DE339864](DE339864.md) | 1921-08-16 | Abramsohn, Tobias | Vorrichtung zum Justieren und Aufloeten der Typen fuer Schreibmaschinen u. dgl. |
 | [DE340363](DE340363.md) | 1921-09-09 | Schuster, Carl | Maschine, insbesondere zum Zeichnen von Waeschestuecken |
+| [JP64135](JP64135.md) | 1921-09-10 | Shimada, Minokichi | Shimada-type printing machine |
+| [JP61699](JP61699.md) | 1921-09-17 | Ishii, Yoshio | Simple (portable) printing device |
 | [DE341144](DE341144.md) | 1921-09-27 | Ott, Andreas | Schaltvorrichtung zur Herstellung beliebiger Abstaende der Druckzeichen fuer Matrizenpraegemaschinen und Schreibmaschinen |
 | [DE342132](DE342132.md) | 1921-10-13 | Hohner, Karl | typewriter |
 | [DE342371](DE342371.md) | 1921-10-14 |  | Papierfoerdervorrichtung fuer Rechenmaschinen |
-| [DE342311](DE342311.md) | 1921-10-15 |  | Einrichtung zum photographischen Letternsatz |
+| [DE342311](DE342311.md) | 1921-10-15 | Fu, Correxwerke Maschinenfabrik | Einrichtung zum photographischen Letternsatz |
 | [DE342369](DE342369.md) | 1921-10-17 |  | Automatically reversible pawl switch for the ribbon reels of machines with &hellip; |
 | [DE342370](DE342370.md) | 1921-10-17 |  | Device on calculating machines for displaying the printed items |
 | [DE342372](DE342372.md) | 1921-10-17 |  | Selbsttaetige Nullendruckvorrichtung fuer Rechenmaschinen |
 | [DE342548](DE342548.md) | 1921-10-20 |  | Nachstellbare Federbelastung fuer die Einzelpostendruckmittel von Rechenmaschinen |
 | [DE342917](DE342917.md) | 1921-10-25 | Wuermel, Hans Rudolf | Schrank mit darin versenkter Schreibmaschine |
 | [DE343623](DE343623.md) | 1921-11-05 | Brune, Hans | Vorrichtung zum Verschieben des Wagens von Schreibmaschinen, insbesondere schreibenden Addiermaschinen |
-| [DE343934](DE343934.md) | 1921-11-11 |  | Electric type printing device |
+| [DE343934](DE343934.md) | 1921-11-11 | Ges, Siemens & Halske Akt | Electric type printing device |
 | [DE343935](DE343935.md) | 1921-11-11 | Himmer, Gustav | Method and typewriter for producing a letterpress-like font |
 | [DE344036](DE344036.md) | 1921-11-12 | Luckhard, Karl Ludwig | typewriter |
 | [DE345366](DE345366.md) | 1921-12-08 | Tolle, Heinrich | Writing, printing and Like. Power-driven machine |
-| [DE345367](DE345367.md) | 1921-12-08 |  | Switching device |
+| [DE345367](DE345367.md) | 1921-12-08 | Ges, Fried Krupp Akt | Switching device |
 | [DE345369](DE345369.md) | 1921-12-08 | Leidenroth, Gustav | Device for locking keys as well as for releasing and returning trapped &hellip; |
-| [DE345298](DE345298.md) | 1921-12-09 |  | Zeitstempel mit Einstellung der Typenscheiben durch Vorschieben von Anschlagschienen gegen von einem Uhrwerk bewegte Stufenscheiben |
+| [DE345298](DE345298.md) | 1921-12-09 | A, Ehrenreich & Co | Zeitstempel mit Einstellung der Typenscheiben durch Vorschieben von Anschlagschienen gegen von einem Uhrwerk bewegte Stufenscheiben |
 | [DE345365](DE345365.md) | 1921-12-10 | Stacke, Bernhard | Type bar typewriter |
-| [DE345368](DE345368.md) | 1921-12-13 |  | Typewriter with a plunger |
-| [DE345671](DE345671.md) | 1921-12-15 |  | Freewheel for platen |
-| [DE345902](DE345902.md) | 1921-12-19 |  | Printing unit for calculating machines |
+| [JP67155](JP67155.md) | 1921-12-10 | Kitagawa, Tōkichi | Portable printing device |
+| [DE345368](DE345368.md) | 1921-12-13 | B, Titania Schreibmaschinen G M | Typewriter with a plunger |
+| [DE345671](DE345671.md) | 1921-12-15 | Ag, Triumph Werke Nuernberg | Freewheel for platen |
+| [DE345902](DE345902.md) | 1921-12-19 | Ges, Fried Krupp Akt | Printing unit for calculating machines |
 | [DE345961](DE345961.md) | 1921-12-20 |  | Ribbon switching device for ribbon printing devices with reciprocating pressure roller |
 | [DE346002](DE346002.md) | 1921-12-21 |  | Inking device for printing forms with intermittently switched ink ribbon |
 | [DE346067](DE346067.md) | 1921-12-22 | Simon, Erwin | Maschine zur Erzielung einer der Schreibmaschinenschrift aehnlichen Schrift auf dem Vervielfaeltigungswege |
-| [DE346585](DE346585.md) | 1922-01-03 |  | tab |
-| [DE346586](DE346586.md) | 1922-01-04 |  | Key lever bearing |
+| [DE346585](DE346585.md) | 1922-01-03 | Co, Underwood Typewriter | tab |
+| [DE346586](DE346586.md) | 1922-01-04 | Co, Underwood Typewriter | Key lever bearing |
 | [DE346702](DE346702.md) | 1922-01-05 | Gruetzmann, Heinrich | Column adjuster |
 | [DE346703](DE346703.md) | 1922-01-05 | Burboa, Juan Gualberto Holguin | typewriter |
 | [DE346704](DE346704.md) | 1922-01-05 | Bormann, Friedrich | Power drive for typewriters |
 | [DE346705](DE346705.md) | 1922-01-05 | Gagliazzo, Carlo | Typewriter trolleys |
-| [DE346706](DE346706.md) | 1922-01-05 |  | Switching device for the slide of projection marking photographic machines |
+| [DE346706](DE346706.md) | 1922-01-05 | Fu, Correxwerke Maschinenfabrik | Switching device for the slide of projection marking photographic machines |
 | [DE346707](DE346707.md) | 1922-01-05 | Lange, Alfred | Device for switching the paper carriage |
 | [DE346708](DE346708.md) | 1922-01-05 | Malucha, Robert | Device for pulling back the paper trolley |
-| [DE346709](DE346709.md) | 1922-01-05 |  | Rueckschaltvorrichtung fuer den Wagen von Schreibmaschinen |
+| [DE346709](DE346709.md) | 1922-01-05 | Ge, Triumph Werke Nuernberg Akt | Rueckschaltvorrichtung fuer den Wagen von Schreibmaschinen |
 | [DE346711](DE346711.md) | 1922-01-05 | Sandor, Franz | Cart with paper roller frame |
-| [DE346765](DE346765.md) | 1922-01-07 |  | Device for producing the line spacing |
+| [DE346765](DE346765.md) | 1922-01-07 | Co, Remington Typewriter | Device for producing the line spacing |
 | [DE346766](DE346766.md) | 1922-01-07 | Muchajer, Paul | Tension spring assembly, especially for moving the car |
-| [DE346815](DE346815.md) | 1922-01-07 |  | Device to facilitate the movement of adjustable parts on typewriters and &hellip; |
-| [DE346817](DE346817.md) | 1922-01-07 |  | Device for laying out writing sheets |
+| [DE346815](DE346815.md) | 1922-01-07 | Winklhofer, Wanderer Werke Vorm | Device to facilitate the movement of adjustable parts on typewriters and &hellip; |
+| [DE346817](DE346817.md) | 1922-01-07 | Co, Underwood Typewriter | Device for laying out writing sheets |
 | [DE346814](DE346814.md) | 1922-01-09 | Scheffer, Rindert | Type lever typewriter |
-| [DE346816](DE346816.md) | 1922-01-09 |  | Platen guide on typewriters and similar machines |
-| [DE346818](DE346818.md) | 1922-01-09 |  | Typewriter for writing on paper webs |
-| [DE346819](DE346819.md) | 1922-01-09 |  | typewriter |
+| [DE346816](DE346816.md) | 1922-01-09 | Winklhofer, Wanderer Werke Vorm | Platen guide on typewriters and similar machines |
+| [DE346818](DE346818.md) | 1922-01-09 | Co, Underwood Typewriter | Typewriter for writing on paper webs |
+| [DE346819](DE346819.md) | 1922-01-09 | Co, Underwood Typewriter | typewriter |
 | [DE347034](DE347034.md) | 1922-01-13 | Rothe, Andreas | Zusammenlegbarer Schreibmaschinentisch mit gegeneinanderklappbaren Fuessen |
 | [DE347035](DE347035.md) | 1922-01-13 | Rothe, Andreas | Zusammenlegbarer Schreibmaschinentisch mit gegeneinanderklappbaren Fuessen |
 | [DE347525](DE347525.md) | 1922-01-21 | Raap, Abraham Van | typewriter |
 | [DE347637](DE347637.md) | 1922-01-23 |  | Rechenmaschine mit einer aus Typenraedern bestehenden Druckvorrichtung |
-| [DE347700](DE347700.md) | 1922-01-23 |  | Ribbon reel |
+| [DE347700](DE347700.md) | 1922-01-23 | Inc, Royal Typewriter Co | Ribbon reel |
 | [DE347636](DE347636.md) | 1922-01-24 |  | Rechenmaschine, bei der ein eingestellter Wert durch einen Schieber auf das Rechenwerk und gleichzeitig auf ein Druckwerk uebertragen wird |
 | [DE347698](DE347698.md) | 1922-01-24 | Leidenroth, Gustav | Straight guide for the ribbon carrier |
 | [DE347699](DE347699.md) | 1922-01-24 | Leidenroth, Gustav | Adjustable lifting device for the ribbon carrier |
 | [DE347841](DE347841.md) | 1922-01-26 | Reintanz, Max | Zifferndruckvorrichtung fuer Addierwerke |
 | [DE348153](DE348153.md) | 1922-01-30 | Hoffmann, Ferdinand | Type wheel typewriter |
 | [DE348156](DE348156.md) | 1922-01-30 | Leidenroth, Gustav | Line switch |
-| [DE348157](DE348157.md) | 1922-01-30 |  | Device for regulating the line spacing |
-| [DE348158](DE348158.md) | 1922-01-30 |  | Collapsible typewriter |
-| [DE348154](DE348154.md) | 1922-01-31 |  | Table writer |
-| [DE348160](DE348160.md) | 1922-02-02 |  | Telegraphischer Typendruckempfaenger |
+| [DE348157](DE348157.md) | 1922-01-30 | Inc, Royal Typewriter Co | Device for regulating the line spacing |
+| [DE348158](DE348158.md) | 1922-01-30 | Co, Remington Typewriter | Collapsible typewriter |
+| [DE348154](DE348154.md) | 1922-01-31 | E, Paillard & Co | Table writer |
+| [DE348160](DE348160.md) | 1922-02-02 | Ges, Siemens & Halske Akt | Telegraphischer Typendruckempfaenger |
 | [DE348773](DE348773.md) | 1922-02-15 | Gruetzmann, Heinrich | Locking device for the column stops |
-| [DE348774](DE348774.md) | 1922-02-15 |  | Line switch |
-| [DE348775](DE348775.md) | 1922-02-15 |  | Clutch for the line indexing wheel of the paper roller |
-| [DE348778](DE348778.md) | 1922-02-15 |  | Type lever bearing segment for typewriters |
+| [DE348774](DE348774.md) | 1922-02-15 | Ges, Clemens Mueller Akt | Line switch |
+| [DE348775](DE348775.md) | 1922-02-15 | Ges, Clemens Mueller Akt | Clutch for the line indexing wheel of the paper roller |
+| [DE348778](DE348778.md) | 1922-02-15 | Ges, Clemens Mueller Akt | Type lever bearing segment for typewriters |
 | [DE348772](DE348772.md) | 1922-02-16 | Gruetzmann, Heinrich | Device for resetting the column stops |
 | [DE348776](DE348776.md) | 1922-02-17 | Sandor, Franz | Line shift wheel clutch |
-| [DE348777](DE348777.md) | 1922-02-17 |  | Device for fixing the tiltable carriage carrier |
+| [DE348777](DE348777.md) | 1922-02-17 | Ges, Clemens Mueller Akt | Device for fixing the tiltable carriage carrier |
 | [DE348959](DE348959.md) | 1922-02-20 | Leidenroth, Gustav | Key switch |
 | [DE348961](DE348961.md) | 1922-02-20 | Leidenroth, Gustav | Adjustable lifting device for the ribbon carrier |
 | [DE348960](DE348960.md) | 1922-02-21 | Leidenroth, Gustav | Adjustable lifting device for the ribbon carrier |
 | [DE349015](DE349015.md) | 1922-02-21 | Schueler, Franz | Guide of type bars on typewriters |
-| [DE349016](DE349016.md) | 1922-02-21 |  | Type cylinder typewriter with electric drive |
+| [DE349016](DE349016.md) | 1922-02-21 | M, Elek Sche Schreibmaschinen G | Type cylinder typewriter with electric drive |
 | [DE349287](DE349287.md) | 1922-02-27 | Stacke, Wilhelm | Diebessicherer Schreibmaschinentisch |
 | [DE349599](DE349599.md) | 1922-03-06 | Simon, Erwin | Maschine zur Erzielung einer der Schreibmaschinenschrift aehnlichen Schrift auf dem Vervielfaeltigungswege |
 | [DE350133](DE350133.md) | 1922-03-14 | Multhaupt, Otto | Schreibmaschinen-Postkarte |
-| [DE350164](DE350164.md) | 1922-03-14 |  | Paper support plate for typewriters |
-| [DE350262](DE350262.md) | 1922-03-16 |  | Bump stop for the type lever of typewriters |
+| [DE350164](DE350164.md) | 1922-03-14 | Ag, Triumph Werke Nuernberg | Paper support plate for typewriters |
+| [DE350262](DE350262.md) | 1922-03-16 | Winklhofer, Wanderer Werke Vorm | Bump stop for the type lever of typewriters |
 | [DE351089](DE351089.md) | 1922-04-03 | Sandor, Franz | Device to collect eraser waste |
 | [DE351090](DE351090.md) | 1922-04-03 | Sandor, Franz | Storage of the paper roller frame |
 | [DE351144](DE351144.md) | 1922-04-03 | Leidenroth, Gustav | Key switch |
-| [DE351293](DE351293.md) | 1922-04-04 |  | Type cylinder typewriter with electric drive |
-| [DE351534](DE351534.md) | 1922-04-08 |  | Storage for the swing frame to guide the universal rail |
-| [DE351658](DE351658.md) | 1922-04-11 |  | Device for producing line spacing in adding or similar machines |
-| [DE351949](DE351949.md) | 1922-04-19 |  | Device for guiding removable paper roll frames on typewriters |
+| [DE351293](DE351293.md) | 1922-04-04 | Ges, Elek Sche Schreibmaschinen | Type cylinder typewriter with electric drive |
+| [DE351534](DE351534.md) | 1922-04-08 | Co, Remington Typewriter | Storage for the swing frame to guide the universal rail |
+| [DE351658](DE351658.md) | 1922-04-11 | Co, Burroughs Adding Machine | Device for producing line spacing in adding or similar machines |
+| [DE351949](DE351949.md) | 1922-04-19 | Ges, Clemens Mueller Akt | Device for guiding removable paper roll frames on typewriters |
 | [DE351950](DE351950.md) | 1922-04-21 | Sandor, Franz | typewriter |
-| [DE352314](DE352314.md) | 1922-04-24 |  | Character printing unit for calculating machines |
-| [DE352315](DE352315.md) | 1922-04-24 |  | Type box for printing devices, especially calculating machines |
-| [DE352316](DE352316.md) | 1922-04-24 |  | Typenstangeneinstellung fuer die Druckwerke von Rechenmaschinen |
-| [DE352497](DE352497.md) | 1922-04-29 |  | Typewriter with horizontally arranged platen and in the direction of rotation &hellip; |
-| [DE352852](DE352852.md) | 1922-05-06 |  | typewriter |
-| [DE353451](DE353451.md) | 1922-05-18 |  | Papierwagen fuer Rechenmaschinen |
-| [DE354034](DE354034.md) | 1922-06-03 |  | Adding machine with laterally movable paper trolley |
+| [DE352314](DE352314.md) | 1922-04-24 | Akt, Optische Anstalt C P Goerz | Character printing unit for calculating machines |
+| [DE352315](DE352315.md) | 1922-04-24 | Akt, Optische Anstalt C P Goerz | Type box for printing devices, especially calculating machines |
+| [DE352316](DE352316.md) | 1922-04-24 | Akt, Optische Anstalt C P Goerz | Typenstangeneinstellung fuer die Druckwerke von Rechenmaschinen |
+| [DE352497](DE352497.md) | 1922-04-29 | Co, Underwood Typewriter | Typewriter with horizontally arranged platen and in the direction of rotation &hellip; |
+| [JP43534](JP43534.md) | 1922-04-29 | Matsumoto, Eiichi | Matsumoto-type Japanese-script printing machine |
+| [DE352852](DE352852.md) | 1922-05-06 | Ges, Siemens & Halske Akt | typewriter |
+| [DE353451](DE353451.md) | 1922-05-18 | Corp, Fed Adding Machine | Papierwagen fuer Rechenmaschinen |
+| [DE354034](DE354034.md) | 1922-06-03 | Co, Burroughs Adding Machine | Adding machine with laterally movable paper trolley |
 | [DE354182](DE354182.md) | 1922-06-03 | Behrens, Bordt & | Vorrichtung zum Summendruck an schreibenden Additionsmaschinen |
-| [DE354576](DE354576.md) | 1922-06-13 |  | typewriter |
-| [DE354810](DE354810.md) | 1922-06-15 |  | Tasteneinstellwerk |
+| [DE354576](DE354576.md) | 1922-06-13 | Kunst, Ackru Ges Fuer | typewriter |
+| [DE354810](DE354810.md) | 1922-06-15 | Akt, Optische Anstalt C P Goerz | Tasteneinstellwerk |
 | [DE354811](DE354811.md) | 1922-06-15 | Brune, Hans | Vorrichtung zum Verschieben des Wagens von Schreibmaschinen, insbesondere schreibenden Addiermaschinen |
 | [DE354899](DE354899.md) | 1922-06-19 | Fournier, Louis | Tastatur fuer Rechenmaschinen |
-| [DE354901](DE354901.md) | 1922-06-19 |  | Druckwerk an Tastenrechenmaschinen |
+| [DE354901](DE354901.md) | 1922-06-19 | Ag, Vorm Seidel & Naumann | Druckwerk an Tastenrechenmaschinen |
 | [DE355199](DE355199.md) | 1922-06-23 | Kuhrt, Ernst | Druckwerk fuer Rechenmaschinen |
 | [DE355304](DE355304.md) | 1922-06-24 | Ott, Andreas | Schaltvorrichtung fuer die seitliche Verschiebung des Wagens von Matrizenpraegemaschinen oder Schreibmaschinen |
-| [DE355337](DE355337.md) | 1922-06-24 |  | Druckwerk fuer Registrierkassen u. dgl. |
+| [DE355337](DE355337.md) | 1922-06-24 | Ges, Fried Krupp Akt | Druckwerk fuer Registrierkassen u. dgl. |
 | [DE355538](DE355538.md) | 1922-06-28 | Fries, Rudolf | Soundproof typewriter |
-| [DE355655](DE355655.md) | 1922-06-29 |  | Portable typewriter |
-| [DE355619](DE355619.md) | 1922-06-30 |  | Vorrichtung zum Bedrucken von Belegscheinen bei Registrierkassen |
+| [DE355655](DE355655.md) | 1922-06-29 | Co, Remington Typewriter | Portable typewriter |
+| [DE355619](DE355619.md) | 1922-06-30 | Co, Ncr | Vorrichtung zum Bedrucken von Belegscheinen bei Registrierkassen |
 | [DE318995](DE318995.md) | 1922-07-08 | Nobis, Franz | Type body in the form of a type strip, type boat, type dial or the like for &hellip; |
 | [DE356063](DE356063.md) | 1922-07-11 | G, Sueddeutsche Bueromoebel Ind | Schreibmaschinenschutzvorrichtung aus am Schreibmaschinentisch schwingbar gelagerten,unter die Tischflaeche versenkbaren Seitenwaenden, die mit einem gleichfalls versenkbaren Rolladen in Verbindung ... |
 | [DE356784](DE356784.md) | 1922-07-28 |  | Druckwerk fuer Rechenmaschinen u. dgl. |
-| [DE356855](DE356855.md) | 1922-08-02 |  | Addiermaschine mit Druckwerk |
-| [DE356856](DE356856.md) | 1922-08-04 |  | Addier- und Listenmaschine |
-| [DE356916](DE356916.md) | 1922-08-08 |  | Typewriter with automatic line break or backward movement of the carriage by &hellip; |
-| [DE356969](DE356969.md) | 1922-08-10 |  | Typewriter with a swiveling drum support frame |
-| [DE356990](DE356990.md) | 1922-08-11 |  | Schreibmaschinenpult, bei dem die die Schreibmaschine tragende Platte durch Vorziehen parallel zu sich selbst hochgefuehrt wird |
-| [DE356991](DE356991.md) | 1922-08-14 |  | Rolladenschrank mit besonderem Fach fuer die Schreibmaschine |
-| [DE357037](DE357037.md) | 1922-08-15 |  | Ribbon device for different bandwidths |
+| [DE356855](DE356855.md) | 1922-08-02 | Co, Burroughs Adding Machine | Addiermaschine mit Druckwerk |
+| [DE356856](DE356856.md) | 1922-08-04 | Co, Burroughs Adding Machine | Addier- und Listenmaschine |
+| [DE356916](DE356916.md) | 1922-08-08 | Co, Underwood Typewriter | Typewriter with automatic line break or backward movement of the carriage by &hellip; |
+| [DE356969](DE356969.md) | 1922-08-10 | Co, Underwood Typewriter | Typewriter with a swiveling drum support frame |
+| [DE356990](DE356990.md) | 1922-08-11 | G, Bing Werke Vorm Gebr Bing A | Schreibmaschinenpult, bei dem die die Schreibmaschine tragende Platte durch Vorziehen parallel zu sich selbst hochgefuehrt wird |
+| [DE356991](DE356991.md) | 1922-08-14 | Co, Dresdner Holzkontor Wolff & | Rolladenschrank mit besonderem Fach fuer die Schreibmaschine |
+| [DE357037](DE357037.md) | 1922-08-15 | G, Carmen Werk A | Ribbon device for different bandwidths |
 | [DE357913](DE357913.md) | 1922-09-02 | Vleeschouwer, Camille De | Pult mit seitlich angeordneter, schwenkbar gelagerter Schreibmaschine |
-| [DE357960](DE357960.md) | 1922-09-02 |  | typewriter |
-| [DE357977](DE357977.md) | 1922-09-04 |  | Ribbon switching device for calculating machines |
+| [DE357960](DE357960.md) | 1922-09-02 | Ges, Polygraphische | typewriter |
+| [DE357977](DE357977.md) | 1922-09-04 | H, Gutschow & Co G M B | Ribbon switching device for calculating machines |
 | [DE358203](DE358203.md) | 1922-09-07 |  | Type stop mechanism for typewriters |
 | [DE358204](DE358204.md) | 1922-09-07 | Mayer, Otto | Device for moving the type lever |
 | [DE358205](DE358205.md) | 1922-09-07 | Leidenroth, Gustav | Key switch |
-| [DE358206](DE358206.md) | 1922-09-07 |  | Paper guiding device for typewriters |
-| [DE358207](DE358207.md) | 1922-09-07 |  | Typewriter with a swiveling platen |
-| [DE358208](DE358208.md) | 1922-09-07 |  | Paper feeding device, especially for typewriters |
-| [DE358547](DE358547.md) | 1922-09-13 |  | Papierhalter fuer Addiermaschinen u. dgl. mit seitlich verschiebbarem Papierwagen |
-| [DE358545](DE358545.md) | 1922-09-15 |  | Schreibrechenmaschine |
-| [DE358708](DE358708.md) | 1922-09-15 |  | Locking device for the hold-ups on tabs |
+| [DE358206](DE358206.md) | 1922-09-07 | Corp, Gourland Typewriter | Paper guiding device for typewriters |
+| [DE358207](DE358207.md) | 1922-09-07 | Co, Underwood Typewriter | Typewriter with a swiveling platen |
+| [DE358208](DE358208.md) | 1922-09-07 | Winklhofer, Wanderer Werke Vorm | Paper feeding device, especially for typewriters |
+| [DE358547](DE358547.md) | 1922-09-13 | Co, Burroughs Adding Machine | Papierhalter fuer Addiermaschinen u. dgl. mit seitlich verschiebbarem Papierwagen |
+| [DE358545](DE358545.md) | 1922-09-15 | Co, Underwood Computing Machine | Schreibrechenmaschine |
+| [DE358708](DE358708.md) | 1922-09-15 | Ges, Clemens Mueller Akt | Locking device for the hold-ups on tabs |
 | [DE359211](DE359211.md) | 1922-09-19 | Roller, Ideal | Verfahren und Vorrichtung zur Herstellung von Massewalzen fuer Druckereimaschinen, Schreibmaschinen, Waeschemangeln u. dgl. |
 | [DE359444](DE359444.md) | 1922-09-22 | Jost, Jakob | A device for accounting purposes, consisting of several typewriters coupled &hellip; |
 | [DE359445](DE359445.md) | 1922-09-22 | Immervoll, Albert | Type lever guide for typewriters |
@@ -6917,110 +6949,112 @@ Every patent in the library, oldest first.
 | [DE359609](DE359609.md) | 1922-09-25 | Geb, Lehmann | typewriter |
 | [DE359978](DE359978.md) | 1922-09-28 | Melcher, Eduard | Drive device for the key levers on typewriters |
 | [DE359979](DE359979.md) | 1922-09-28 | Gagliazzo, Carlo | Key lever mechanism for typewriters |
-| [DE359980](DE359980.md) | 1922-09-28 |  | Switching device for the paper roller |
-| [DE359981](DE359981.md) | 1922-09-28 |  | Switching device for the platen carriage |
+| [DE359980](DE359980.md) | 1922-09-28 | Ges, Fried Krupp Akt | Switching device for the paper roller |
+| [DE359981](DE359981.md) | 1922-09-28 | Co, Remington Typewriter | Switching device for the platen carriage |
 | [DE359982](DE359982.md) | 1922-09-28 | Matousek, Alois | Paper carriage switching device |
 | [DE359983](DE359983.md) | 1922-09-28 | Graff, Maximilian | Device for typewriters for adjusting the line spacing |
-| [DE359984](DE359984.md) | 1922-09-28 |  | typewriter |
-| [DE359985](DE359985.md) | 1922-09-28 |  | Bobbin holder |
-| [DE359986](DE359986.md) | 1922-09-28 |  | Method and device for attaching the type pieces to the type handles of &hellip; |
+| [DE359984](DE359984.md) | 1922-09-28 | Co, Underwood Typewriter | typewriter |
+| [DE359985](DE359985.md) | 1922-09-28 | Inc, Royal Typewriter Co | Bobbin holder |
+| [DE359986](DE359986.md) | 1922-09-28 | Ag, Vorm Seidel & Naumann | Method and device for attaching the type pieces to the type handles of &hellip; |
 | [DE359987](DE359987.md) | 1922-09-28 | Fischer, Ernst | Device for typewriters for straightening sheets of paper |
-| [DE360042](DE360042.md) | 1922-09-29 |  | Universal rail |
-| [DE360379](DE360379.md) | 1922-10-02 |  | Type lever guide |
-| [DE360572](DE360572.md) | 1922-10-04 |  | Line switch for typewriters |
+| [DE360042](DE360042.md) | 1922-09-29 | Co, Remington Typewriter | Universal rail |
+| [DE360379](DE360379.md) | 1922-10-02 | Co, Underwood Typewriter | Type lever guide |
+| [DE360572](DE360572.md) | 1922-10-04 | Corp, Gourland Typewriter | Line switch for typewriters |
 | [DE360571](DE360571.md) | 1922-10-05 | Gruetzmann, Heinrich | Decimal tab for typewriters |
 | [DE360654](DE360654.md) | 1922-10-05 | Maschf, Rheinische Metallw & | Device for removing the paper trolley switchgear |
-| [DE360655](DE360655.md) | 1922-10-05 |  | Interchangeable paper trolley frame for long typewriter trolleys |
+| [DE360655](DE360655.md) | 1922-10-05 | G, Bing Werke Vorm Gebr Bing A | Interchangeable paper trolley frame for long typewriter trolleys |
 | [DE360694](DE360694.md) | 1922-10-06 | Payne, Halbert Edwin | typewriter |
-| [DE360733](DE360733.md) | 1922-10-06 |  | typewriter |
+| [DE360733](DE360733.md) | 1922-10-06 | Ges, Polygraphische | typewriter |
 | [DE361636](DE361636.md) | 1922-10-18 |  | Typewriter |
 | [DE361710](DE361710.md) | 1922-10-18 | Arndt, Erich | Abschneidevorrichtung fuer die Abschnitte von fortlaufenden Papierstreifen, z. B. Schecks von Kontrollkassen |
-| [DE361702](DE361702.md) | 1922-10-19 |  | Schreibrechenmaschine, auf der subtrahierte Zahlen in einer von addierten Zahlen abweichenden Farbe zum Aufdruck gelangen |
-| [DE361706](DE361706.md) | 1922-10-19 |  | Addiermaschine mit Druckvorrichtung |
+| [DE361702](DE361702.md) | 1922-10-19 | Co, Underwood Computing Machine | Schreibrechenmaschine, auf der subtrahierte Zahlen in einer von addierten Zahlen abweichenden Farbe zum Aufdruck gelangen |
+| [DE361706](DE361706.md) | 1922-10-19 | Co, Burroughs Adding Machine | Addiermaschine mit Druckvorrichtung |
 | [DE361870](DE361870.md) | 1922-10-20 | Foerstel, Otto | Process for the production of types and type wheels for time stamps, &hellip; |
 | [DE361961](DE361961.md) | 1922-10-20 |  | Key mechanism for collapsible typewriters |
 | [DE361962](DE361962.md) | 1922-10-20 | Kahl, Willy | Device for cleaning the type lever bearings of typewriters |
-| [DE361801](DE361801.md) | 1922-10-23 |  | Printing device for cash registers or accounting machines |
-| [DE360570](DE360570.md) | 1922-10-24 |  | Typewriter tab with column selection device |
+| [DE361801](DE361801.md) | 1922-10-23 | Ges, Fried Krupp Akt | Printing device for cash registers or accounting machines |
+| [DE360570](DE360570.md) | 1922-10-24 | Co, Remington Typewriter | Typewriter tab with column selection device |
 | [DE362548](DE362548.md) | 1922-10-28 | Steiner, Carl | Tragbare elektrische Schreibmaschinenlampe |
 | [DE362565](DE362565.md) | 1922-10-30 | Bechmann, Otto | Schreibmaschinentisch |
-| [DE361903](DE361903.md) | 1922-11-02 |  | Device for attaching label plates to type levers, printing plates for ticket &hellip; |
-| [DE362929](DE362929.md) | 1922-11-03 |  | Column stop for calculators and typewriters with paper trolleys |
-| [DE363223](DE363223.md) | 1922-11-06 |  | Schutzkastenanordnung fuer Maschinen, Apparate und Geraete |
+| [DE361903](DE361903.md) | 1922-11-02 | Ges, Siemens & Halske Akt | Device for attaching label plates to type levers, printing plates for ticket &hellip; |
+| [DE362929](DE362929.md) | 1922-11-03 | Winklhofer, Wanderer Werke Vorm | Column stop for calculators and typewriters with paper trolleys |
+| [DE363223](DE363223.md) | 1922-11-06 | H, Hommelwerke G M B | Schutzkastenanordnung fuer Maschinen, Apparate und Geraete |
 | [DE363313](DE363313.md) | 1922-11-07 | Behrens, Adolf Bordt & | Nulleinstellung fuer das Druckwerk von Addiermaschinen |
-| [DE363848](DE363848.md) | 1922-11-14 |  | Line switch on calculating machines |
-| [DE364057](DE364057.md) | 1922-11-16 |  | Paper carriage switching device |
-| [DE364058](DE364058.md) | 1922-11-16 |  | Device for reversing the direction of movement of the paper carriage |
-| [DE364059](DE364059.md) | 1922-11-16 |  | Paper guiding device |
-| [DE364060](DE364060.md) | 1922-11-16 |  | Paper support plate for typewriters |
+| [DE363848](DE363848.md) | 1922-11-14 | Winklho, Wanderer Werke Vormals | Line switch on calculating machines |
+| [DE364057](DE364057.md) | 1922-11-16 | Co, Remington Typewriter | Paper carriage switching device |
+| [DE364058](DE364058.md) | 1922-11-16 | Augsbur, Schreibmaschinenfabrik | Device for reversing the direction of movement of the paper carriage |
+| [DE364059](DE364059.md) | 1922-11-16 | Ge, Triumph Werke Nuernberg Akt | Paper guiding device |
+| [DE364060](DE364060.md) | 1922-11-16 | Ge, Triumph Werke Nuernberg Akt | Paper support plate for typewriters |
 | [DE364061](DE364061.md) | 1922-11-16 |  | Collapsible typewriter |
-| [DE364185](DE364185.md) | 1922-11-18 |  | Key lock for the car |
-| [DE364186](DE364186.md) | 1922-11-18 |  | Paper feed device |
+| [DE364185](DE364185.md) | 1922-11-18 | Ges, Carmen Werk Akt | Key lock for the car |
+| [DE364186](DE364186.md) | 1922-11-18 | Co, Remington Typewriter | Paper feed device |
 | [DE364187](DE364187.md) | 1922-11-18 | Fontana, Carlo | Device for typewriters for reversing the direction of ribbon movement |
 | [DE364188](DE364188.md) | 1922-11-18 | Fries, Rudolf | Soundproof typewriter |
 | [DE364189](DE364189.md) | 1922-11-18 | Fries, Rudolf | Sound absorbing box for typewriters, calculating machines, etc. |
 | [DE364190](DE364190.md) | 1922-11-18 | Fries, Rudolf | Sound absorbing box for typewriters, calculators and the like like |
 | [DE364191](DE364191.md) | 1922-11-18 | Naegeli, Karl | Eraser plate for typewriter writing |
 | [DE364325](DE364325.md) | 1922-11-20 | Weinsziehr, Jean | typewriter |
-| [DE364326](DE364326.md) | 1922-11-20 |  | Switching device for the paper carriage carrier |
+| [DE364326](DE364326.md) | 1922-11-20 | Inc, Royal Typewriter Co | Switching device for the paper carriage carrier |
 | [DE364375](DE364375.md) | 1922-11-23 | Prothais, Fernand | Reibraederwechselgetriebe |
 | [DE364328](DE364328.md) | 1922-11-24 | Geb, Lehmann | typewriter |
-| [DE364445](DE364445.md) | 1922-11-24 |  | Type lever rods for typewriters |
-| [DE364327](DE364327.md) | 1922-11-25 |  | Switching device for the paper trolley of typewriters |
-| [DE364537](DE364537.md) | 1922-11-28 |  | Line delimiter |
+| [DE364445](DE364445.md) | 1922-11-24 | Co, Underwood Typewriter | Type lever rods for typewriters |
+| [DE364327](DE364327.md) | 1922-11-25 | Schreibmaschinenfabrik, Diamant | Switching device for the paper trolley of typewriters |
+| [DE364537](DE364537.md) | 1922-11-28 | Co, Remington Typewriter | Line delimiter |
 | [DE364887](DE364887.md) | 1922-12-04 | Lehmann, Karl August | Typewriter with removable keys and types |
-| [DE365591](DE365591.md) | 1922-12-18 |  | Type carrier guide for type bar typewriters |
-| [DE365592](DE365592.md) | 1922-12-18 |  | Roller pressure device for the writing paper against the platen |
-| [DE365593](DE365593.md) | 1922-12-18 |  | Device for typewriters for setting multicolored ribbons |
+| [DE365591](DE365591.md) | 1922-12-18 | H, Adlerwerke Kleyer Ag | Type carrier guide for type bar typewriters |
+| [DE365592](DE365592.md) | 1922-12-18 | Co, Underwood Typewriter | Roller pressure device for the writing paper against the platen |
+| [DE365593](DE365593.md) | 1922-12-18 | Schreibmaschinenfabrik, Diamant | Device for typewriters for setting multicolored ribbons |
 | [DE365594](DE365594.md) | 1922-12-18 | Reisser, Adolf | Device for the automatic reversal of the direction of movement of the ribbon |
 | [DE365595](DE365595.md) | 1922-12-18 | Sandor, Franz | Springy button |
-| [DE365689](DE365689.md) | 1922-12-21 |  | Adjustable lifting device for the carrier of the typewriter ribbon |
-| [DE365690](DE365690.md) | 1922-12-21 |  | typewriter |
+| [DE365689](DE365689.md) | 1922-12-21 | Ges, Fried Krupp Akt | Adjustable lifting device for the carrier of the typewriter ribbon |
+| [DE365690](DE365690.md) | 1922-12-21 | Ges, Fried Krupp Akt | typewriter |
+| [JP45118](JP45118.md) | 1922-12-22 | Kataoka, Kōtarō | Typewriter |
 | [DE366466](DE366466.md) | 1923-01-08 | Rumpler, E | Vorrichtung zur elektrischen Steuerung von Signalen |
-| [DE366613](DE366613.md) | 1923-01-08 |  | tab |
-| [DE366615](DE366615.md) | 1923-01-08 |  | Type lever movement device for typewriters |
+| [DE366613](DE366613.md) | 1923-01-08 | Maschinen, Mercedes Buero | tab |
+| [DE366615](DE366615.md) | 1923-01-08 | Spa, Olivetti & Co | Type lever movement device for typewriters |
 | [DE366616](DE366616.md) | 1923-01-08 | Offenhauer, Arnold | Type lever typewriter |
 | [DE366617](DE366617.md) | 1923-01-08 | Saxer, Ernst | Inhibiting device for the gradual movement of the paper carriage |
 | [DE366618](DE366618.md) | 1923-01-08 | Navarre, Gaston | Device for indicating the end of the last line of a page |
-| [DE366619](DE366619.md) | 1923-01-08 |  | Margin stop |
-| [DE366620](DE366620.md) | 1923-01-09 |  | typewriter |
-| [DE366621](DE366621.md) | 1923-01-09 |  | typewriter |
+| [DE366619](DE366619.md) | 1923-01-08 | Ge, Triumph Werke Nuernberg Akt | Margin stop |
+| [DE366620](DE366620.md) | 1923-01-09 | Co, Underwood Typewriter | typewriter |
+| [DE366621](DE366621.md) | 1923-01-09 | Co, Underwood Typewriter | typewriter |
 | [DE366623](DE366623.md) | 1923-01-09 | Schneider, Hermann | Pocket typewriter |
 | [DE366644](DE366644.md) | 1923-01-09 |  | Vorrichtung zum Summendruck an schreibenden Additionsmaschinen |
-| [DE366719](DE366719.md) | 1923-01-10 |  | typewriter |
-| [DE366721](DE366721.md) | 1923-01-10 |  | typewriter |
-| [DE366722](DE366722.md) | 1923-01-10 |  | Coupling of the ratchet wheel with the paper trolley drive |
+| [DE366719](DE366719.md) | 1923-01-10 | Co, Underwood Typewriter | typewriter |
+| [DE366721](DE366721.md) | 1923-01-10 | Co, Underwood Typewriter | typewriter |
+| [DE366722](DE366722.md) | 1923-01-10 | Winklhofer, Wanderer Werke Vorm | Coupling of the ratchet wheel with the paper trolley drive |
 | [DE366723](DE366723.md) | 1923-01-10 | Lehmann, Karl August | typewriter |
-| [DE366724](DE366724.md) | 1923-01-10 |  | Line lock device |
+| [DE366724](DE366724.md) | 1923-01-10 | Ge, Triumph Werke Nuernberg Akt | Line lock device |
 | [DE366725](DE366725.md) | 1923-01-10 |  | Typewriter with an easily releasable connection between the paper trolley and &hellip; |
-| [DE366726](DE366726.md) | 1923-01-10 |  | Device for the exact alignment of paper sheets to be inserted |
-| [DE366727](DE366727.md) | 1923-01-10 |  | Changeover device for the stroke movement of the ribbon |
+| [DE366726](DE366726.md) | 1923-01-10 | Co, Underwood Typewriter | Device for the exact alignment of paper sheets to be inserted |
+| [DE366727](DE366727.md) | 1923-01-10 | Co, Underwood Typewriter | Changeover device for the stroke movement of the ribbon |
 | [DE366718](DE366718.md) | 1923-01-11 | Immervoll, Albert | Decimal tab for typewriters |
 | [DE366720](DE366720.md) | 1923-01-11 | Immervoll, Albert | Typewriter with switchable type lever bearing segment |
 | [DE366846](DE366846.md) | 1923-01-12 | Krause, Julius | Typewriter for letters and syllables |
-| [DE366905](DE366905.md) | 1923-01-13 |  | Ribbon moving mechanism for typewriters |
+| [DE366905](DE366905.md) | 1923-01-13 | Co, Underwood Typewriter | Ribbon moving mechanism for typewriters |
 | [DE367078](DE367078.md) | 1923-01-16 |  | Ribbon switching device for time clocks with card printing |
 | [DE367698](DE367698.md) | 1923-01-25 | Luley, Philipp | Device for writing invoices and similar forms |
 | [DE367699](DE367699.md) | 1923-01-26 | Gruetzmann, Heinrich | Automatic reversing device for the ribbon of typewriters |
 | [DE367700](DE367700.md) | 1923-01-26 | Reisser, Adolf | Locking device |
 | [DE367769](DE367769.md) | 1923-01-26 | Lehmann, Karl August | Guide for type levers of typewriters |
 | [DE367948](DE367948.md) | 1923-01-29 |  | Headlights, especially for magnesium ribbon light |
-| [DE367955](DE367955.md) | 1923-01-29 |  | Switching device for the paper trolley of typewriters |
+| [DE367955](DE367955.md) | 1923-01-29 | Schreibmaschinenfabrik, Diamant | Switching device for the paper trolley of typewriters |
 | [DE367956](DE367956.md) | 1923-01-29 |  | Collapsible typewriter |
 | [DE368216](DE368216.md) | 1923-02-01 | Reisser, Adolf | Coupling for the line index wheel |
-| [DE368217](DE368217.md) | 1923-02-01 |  | Line switch |
+| [DE368217](DE368217.md) | 1923-02-01 | Co, Underwood Typewriter | Line switch |
 | [DE368218](DE368218.md) | 1923-02-01 | Lammine, Th | Device for feeding, cutting and filing of forms |
 | [DE368219](DE368219.md) | 1923-02-01 | Reisser, Adolf | Type lever guide |
 | [DE368220](DE368220.md) | 1923-02-01 | Reisser, Adolf | Device to limit the backward movement of the universal rail frame |
 | [DE368221](DE368221.md) | 1923-02-02 | Letourneur, Maurice | Document holder |
-| [DE368344](DE368344.md) | 1923-02-05 |  | Typewriter with removable keys and types |
-| [DE368469](DE368469.md) | 1923-02-05 |  | Device for automatically reversing the direction of longitudinal movement of &hellip; |
-| [DE369034](DE369034.md) | 1923-02-13 |  | Recording and carrying case for typewriters |
+| [DE368344](DE368344.md) | 1923-02-05 | Ges, Fried Krupp Akt | Typewriter with removable keys and types |
+| [DE368469](DE368469.md) | 1923-02-05 | Co, Pscherer & | Device for automatically reversing the direction of longitudinal movement of &hellip; |
+| [DE369034](DE369034.md) | 1923-02-13 | Schreibmaschinenfabrik, Diamant | Recording and carrying case for typewriters |
 | [DE369035](DE369035.md) | 1923-02-13 | Horst, Lorenz | Umwandelbares Schreibmaschinenmoebel |
+| [JP50376](JP50376.md) | 1923-02-16 | Katō, Kenjirō | Vertical and horizontal spacing device for a typewriter |
 | [DE369302](DE369302.md) | 1923-02-17 | Lebeis, Martin | Automatic or hand-operated typewriter |
 | [DE369303](DE369303.md) | 1923-02-17 | Scheffer, Rindert | Type lever typewriter |
 | [DE369304](DE369304.md) | 1923-02-17 | Graff, Maximilian | Switching device for typewriters |
-| [DE369305](DE369305.md) | 1923-02-17 |  | Vorrichtung zur Umschaltung des Wagens an Schreibmaschinen mit Kraftantrieb |
+| [DE369305](DE369305.md) | 1923-02-17 | Maschinen, Mercedes Buero | Vorrichtung zur Umschaltung des Wagens an Schreibmaschinen mit Kraftantrieb |
 | [DE369306](DE369306.md) | 1923-02-17 | Muchajer, Paul | Prism guide for typewriter trolleys |
 | [DE369307](DE369307.md) | 1923-02-17 | Fries, Rudolf | Typewriter with a sound-absorbing housing |
 | [DE369308](DE369308.md) | 1923-02-17 | Reisser, Adolf | Type lever guide for typewriters |
@@ -7028,7 +7062,7 @@ Every patent in the library, oldest first.
 | [DE369522](DE369522.md) | 1923-02-20 | Krejniker, Arpad | typewriter |
 | [DE369705](DE369705.md) | 1923-02-22 | Niessen, Ernst | Ribbon guide device |
 | [DE369706](DE369706.md) | 1923-02-22 |  | Collapsible typewriter |
-| [DE370085](DE370085.md) | 1923-02-27 |  | Electric type wheel typewriter |
+| [DE370085](DE370085.md) | 1923-02-27 | B, Elek Sche Schreibmaschinen M | Electric type wheel typewriter |
 | [DE370191](DE370191.md) | 1923-02-28 | Buesch, Otto | Hebeluebersetzungsgetriebe, besonders fuer Ruettelvorrichtungen |
 | [DE370303](DE370303.md) | 1923-03-01 | Tippmann, Kurt Fritz | typewriter |
 | [DE370482](DE370482.md) | 1923-03-03 | Borel, Charles | Elektromagnetisches Addierwerk fuer Lochkartenschaltung |
@@ -7039,93 +7073,98 @@ Every patent in the library, oldest first.
 | [DE371085](DE371085.md) | 1923-03-10 | Tolle, Heinrich | Typensegmentschreibvorrichtung fuer Rechenmaschinen |
 | [DE371352](DE371352.md) | 1923-03-14 | Hundt, Otto | Automatic switching device for the ribbon drive of writing, calculating or &hellip; |
 | [DE371608](DE371608.md) | 1923-03-16 | Buehler, Franz | Schreibmaschine zur Herstellung von Geheimschrift |
-| [DE371609](DE371609.md) | 1923-03-16 |  | Switching device for the car |
-| [DE371610](DE371610.md) | 1923-03-16 |  | Typewriter for writing on paper webs |
+| [DE371609](DE371609.md) | 1923-03-16 | Maschinen, Mercedes Buero | Switching device for the car |
+| [DE371610](DE371610.md) | 1923-03-16 | Co, Underwood Typewriter | Typewriter for writing on paper webs |
 | [DE371981](DE371981.md) | 1923-03-19 | Reisser, Adolf | Device for writing outside the beginning of the line |
-| [DE371982](DE371982.md) | 1923-03-19 |  | Guide for typewriters |
-| [DE371984](DE371984.md) | 1923-03-19 |  | Method and device for fastening the type pieces to type levers of typewriters |
+| [DE371982](DE371982.md) | 1923-03-19 | Co, Underwood Typewriter | Guide for typewriters |
+| [DE371984](DE371984.md) | 1923-03-19 | Ag, Vorm Seidel & Naumann | Method and device for fastening the type pieces to type levers of typewriters |
 | [DE371611](DE371611.md) | 1923-03-20 | Levy, Julius | Manuscript holder |
-| [DE371983](DE371983.md) | 1923-03-23 |  | Device on typewriters for classifying writing sheets |
+| [DE371983](DE371983.md) | 1923-03-23 | Co, Underwood Typewriter | Device on typewriters for classifying writing sheets |
 | [DE348155](DE348155.md) | 1923-03-26 | Otto, Adolf | Electric typewriter |
 | [DE373460](DE373460.md) | 1923-04-12 | Grandjean, Marc | Schreibmaschinenmoebel mit beweglicher Platte, welche an einem parallelogrammartigen Gestaenge aufgehaengt ist und durch eine Feder im Gleichgewicht gehalten wird |
 | [DE373461](DE373461.md) | 1923-04-12 | Schmiedel, Loewe & | Schreibmaschinentisch mit Versenkvorrichtung |
 | [DE373659](DE373659.md) | 1923-04-14 |  | Collapsible typewriter |
-| [DE373914](DE373914.md) | 1923-04-17 |  | typewriter |
+| [DE373914](DE373914.md) | 1923-04-17 | Co, Remington Typewriter | typewriter |
 | [DE374106](DE374106.md) | 1923-04-19 | Soc, Joannet & Assant | Versenkungsvorrichtung fuer insbesondere schwerere Rechenmaschinen, Schreibmaschinen o. dgl. mit einer gemeinschaftlich bewegbaren Maschinentragplatte und einer Verdeckplatte |
-| [DE374369](DE374369.md) | 1923-04-23 |  | Drive for typewriters |
-| [DE374370](DE374370.md) | 1923-04-23 |  | Switch rail for the switch lock of typewriters |
+| [JP50934](JP50934.md) | 1923-04-20 | Sugimoto, Kyōta | Main body (frame) of a typewriter |
+| [DE374369](DE374369.md) | 1923-04-23 | Co, Hooven Automatic Typewriter | Drive for typewriters |
+| [DE374370](DE374370.md) | 1923-04-23 | Furtwaengle, Uhrenfabrik Vorm L | Switch rail for the switch lock of typewriters |
 | [DE374423](DE374423.md) | 1923-04-23 | Schoenfeld, Gustav | Device for lifting the retaining rings from typewriter keys |
 | [DE374425](DE374425.md) | 1923-04-23 | Fischer, Hermann | Document holder with line switch device |
-| [DE374424](DE374424.md) | 1923-04-26 |  | Type lever for typewriters with impact device |
+| [DE374424](DE374424.md) | 1923-04-26 | Augsbur, Schreibmaschinenfabrik | Type lever for typewriters with impact device |
 | [DE374798](DE374798.md) | 1923-04-28 | Nordmann, Paul | Schreibmaschinentisch |
-| [DE375016](DE375016.md) | 1923-05-04 |  | Device for attaching label plates and similar replaceable ilen to type levers, &hellip; |
-| [DE374937](DE374937.md) | 1923-05-05 |  | Registrierkasse mit einer Vorrichtung zur Ausgabe von zwei gleichlautenden Schecks |
+| [DE375016](DE375016.md) | 1923-05-04 | Ges, Siemens & Halske Akt | Device for attaching label plates and similar replaceable ilen to type levers, &hellip; |
+| [DE374937](DE374937.md) | 1923-05-05 | Ges, Anker Werke Akt | Registrierkasse mit einer Vorrichtung zur Ausgabe von zwei gleichlautenden Schecks |
 | [DE374969](DE374969.md) | 1923-05-06 |  | Drive for typewriters |
 | [DE375015](DE375015.md) | 1923-05-07 | Schutkowski, Georg | Additionsmaschione |
-| [DE375562](DE375562.md) | 1923-05-15 |  | Rechenschreibmaschine |
+| [JP60638](JP60638.md) | 1923-05-08 | Kataoka, Kōtarō | Typewriter |
+| [DE375562](DE375562.md) | 1923-05-15 | H, Adlerwerke Kleyer Ag | Rechenschreibmaschine |
 | [DE375565](DE375565.md) | 1923-05-15 | Trinks, Franz | Line switching device for calculating machines with printing unit |
 | [DE375720](DE375720.md) | 1923-05-17 | Berneburg, Eduard | Type bar typewriter |
-| [DE375721](DE375721.md) | 1923-05-17 |  | Type lever rods for typewriters |
-| [DE375723](DE375723.md) | 1923-05-17 |  | typewriter |
+| [DE375721](DE375721.md) | 1923-05-17 | Co, Remington Typewriter | Type lever rods for typewriters |
+| [DE375723](DE375723.md) | 1923-05-17 | Inc, Royal Typewriter Co | typewriter |
 | [DE375724](DE375724.md) | 1923-05-17 | Berneburg, Eduard | Ribbon adjustment for typewriters with type bars |
-| [DE375725](DE375725.md) | 1923-05-17 |  | Accent writing device for typewriters |
-| [DE375794](DE375794.md) | 1923-05-18 |  | Typewriter with front sheet metal insert for writing sheets |
-| [DE375949](DE375949.md) | 1923-05-19 |  | Device for adjusting the stroke of the ribbon fork |
-| [DE375722](DE375722.md) | 1923-05-23 |  | Switching device, especially for switching back the car |
-| [DE376054](DE376054.md) | 1923-05-23 |  | Registrierkasse mit einer Vorrichtung zum Drucken von Einzelbetraegen und Endsummen |
-| [DE376273](DE376273.md) | 1923-05-25 |  | Locking device for paper holding rails of typewriters |
-| [DE376272](DE376272.md) | 1923-05-26 |  | Lightweight typewriter |
+| [DE375725](DE375725.md) | 1923-05-17 | Ag, Vorm Seidel & Naumann | Accent writing device for typewriters |
+| [DE375794](DE375794.md) | 1923-05-18 | Co, Underwood Typewriter | Typewriter with front sheet metal insert for writing sheets |
+| [DE375949](DE375949.md) | 1923-05-19 | Ges, Carmenwerk Akt | Device for adjusting the stroke of the ribbon fork |
+| [DE375722](DE375722.md) | 1923-05-23 | Co, Remington Typewriter | Switching device, especially for switching back the car |
+| [DE376054](DE376054.md) | 1923-05-23 | Co, Ncr | Registrierkasse mit einer Vorrichtung zum Drucken von Einzelbetraegen und Endsummen |
+| [DE376273](DE376273.md) | 1923-05-25 | Ag, Vorm Seidel & Naumann | Locking device for paper holding rails of typewriters |
+| [DE376272](DE376272.md) | 1923-05-26 | Co, Underwood Typewriter | Lightweight typewriter |
 | [DE376477](DE376477.md) | 1923-05-29 | Roebuck, Alvah Curtis | Line finder for typewriters |
 | [DE376478](DE376478.md) | 1923-05-29 | Rautmann, Kurt | Point type for typewriters |
 | [DE376497](DE376497.md) | 1923-05-29 | Brandenburg, Peter Wilhelm | Schreibtisch mit versenkbarer Auflegeplatte fuer Schreibmaschinen o. dgl., bei dem die Auflegeplatte mittels eines Schlittens an einer schraegen Fuehrung gefuehrt ist |
 | [DE376557](DE376557.md) | 1923-05-29 | Schmitt, Hermann | Device for converting holes similar to Braille or key movements corresponding &hellip; |
-| [DE376561](DE376561.md) | 1923-05-29 |  | Accent printing device |
+| [DE376561](DE376561.md) | 1923-05-29 | Co, Underwood Typewriter | Accent printing device |
 | [DE376560](DE376560.md) | 1923-05-31 | Pereszlenyi, Ludwig | typewriter |
 | [DE376558](DE376558.md) | 1923-06-01 | Haller, Eugen | typewriter |
-| [DE376559](DE376559.md) | 1923-06-01 |  | Ink device for typewriters |
-| [DE376721](DE376721.md) | 1923-06-02 |  | typewriter |
+| [DE376559](DE376559.md) | 1923-06-01 | Corp, Fed Adding Machine | Ink device for typewriters |
+| [DE376721](DE376721.md) | 1923-06-02 | Co, Underwood Typewriter | typewriter |
 | [DE376723](DE376723.md) | 1923-06-04 | Lantos, Bernhard | Device for making typewriter writing visible without a ribbon |
 | [DE376820](DE376820.md) | 1923-06-06 | Kramer, Paul | Einrichtung an Moebeln zum Versenken der Aufstellplatte fuer Schreibmaschinen u. dgl. |
-| [DE376722](DE376722.md) | 1923-06-07 |  | Stroke adjustment device for the ribbon guide |
+| [DE376722](DE376722.md) | 1923-06-07 | Co, Underwood Typewriter | Stroke adjustment device for the ribbon guide |
 | [DE377030](DE377030.md) | 1923-06-08 |  | Type cylinder typewriter with letter board and setting pointer |
-| [DE377031](DE377031.md) | 1923-06-08 |  | Switching device for the platen |
-| [DE377032](DE377032.md) | 1923-06-09 |  | Locking device for the shift keys |
+| [DE377031](DE377031.md) | 1923-06-08 | Co, Underwood Typewriter | Switching device for the platen |
+| [DE377032](DE377032.md) | 1923-06-09 | Co, Underwood Typewriter | Locking device for the shift keys |
 | [DE377033](DE377033.md) | 1923-06-09 | Graff, Maximilian | Reverse gear clutch for typewriters |
 | [DE377034](DE377034.md) | 1923-06-09 | Herlt, Franz | Reversible segment carrier for typewriters with front stop of the type lever |
 | [DE377123](DE377123.md) | 1923-06-12 |  | Angle for binding the set with ribbon attached |
 | [DE377356](DE377356.md) | 1923-06-19 | Roebuck, Alvah Curtis | Table writer |
 | [DE377380](DE377380.md) | 1923-06-19 |  | Typewriter with power drive |
-| [DE377416](DE377416.md) | 1923-06-19 |  | Device for holding stiff writing paper against the platen |
-| [DE377513](DE377513.md) | 1923-06-20 |  | Typewriter with removable top |
+| [DE377416](DE377416.md) | 1923-06-19 | Co, Underwood Typewriter | Device for holding stiff writing paper against the platen |
+| [DE377513](DE377513.md) | 1923-06-20 | Ges, Fried Krupp Akt | Typewriter with removable top |
+| [JP60744](JP60744.md) | 1923-06-23 | Yoshimi, Masao | Printing machine for copying |
 | [DE377917](DE377917.md) | 1923-06-30 | Grosser, G F | Type lever typewriter |
-| [DE377918](DE377918.md) | 1923-06-30 |  | typewriter |
+| [DE377918](DE377918.md) | 1923-06-30 | Co, Underwood Typewriter | typewriter |
 | [DE377919](DE377919.md) | 1923-06-30 | Fries, Rudolf | Auxiliary keyboard for typewriters, calculating machines, etc. like |
 | [DE378157](DE378157.md) | 1923-07-05 | Kramer, Paul | Einrichtung zum Versenken einer geradlinig vorziehbaren Aufstellplatte fuer Schreibmaschinen o. dgl. in Moebeln |
-| [DE378166](DE378166.md) | 1923-07-06 |  | Device for reversing the longitudinal movement of the ribbon in calculating &hellip; |
+| [DE378166](DE378166.md) | 1923-07-06 | Winklhofer, Wanderer Werke Vorm | Device for reversing the longitudinal movement of the ribbon in calculating &hellip; |
 | [DE378167](DE378167.md) | 1923-07-07 | Dalichau, Hans | Rechenmaschine |
+| [JP63658](JP63658.md) | 1923-07-18 | Komatsu, Kiichirō | Printing device for a typewriter |
 | [DE378775](DE378775.md) | 1923-08-01 | Weidmann, Hubert | Alarmsicherung fuer Schreibmaschinen, bei welcher ein mit Antriebsfeder versehenes Laeutewerk durch Abheben der Maschine von ihrer Unterlage ausgeloest wird |
-| [DE379054](DE379054.md) | 1923-08-11 |  | Hebelregistrierkasse zum Drucken von Einzelbetraegen und Endsummen |
+| [DE379054](DE379054.md) | 1923-08-11 | Ag, Anker Werke | Hebelregistrierkasse zum Drucken von Einzelbetraegen und Endsummen |
 | [DE378950](DE378950.md) | 1923-08-16 | Wenzel, Carl | Puffer- oder Stossdaempfervorrichtung |
-| [DE379248](DE379248.md) | 1923-08-20 |  | Haltevorrichtung mit schwingbaren Haken fuer versenkbare Schreibmaschinentische |
+| [DE379248](DE379248.md) | 1923-08-20 | Ge, Gruenewald Hintz Werke Komm | Haltevorrichtung mit schwingbaren Haken fuer versenkbare Schreibmaschinentische |
 | [DE366622](DE366622.md) | 1923-08-23 | Luethje, Heinz | Verfahren und Einrichtung zur Herstellung von Schriftstuecken auf Schreibmaschinen |
+| [JP60476](JP60476.md) | 1923-08-24 | Katō, Kenjirō | Type-tray changing device for a typewriter |
 | [DE379598](DE379598.md) | 1923-08-27 | Hillringhaus, Otto | Drive device, in particular for typewriters |
 | [DE379856](DE379856.md) | 1923-08-29 | Grauke, Karl | Zaehlwerk fuer Schienenwagen |
-| [DE379781](DE379781.md) | 1923-08-30 |  | Fuehlwerk fuer mit gelochten Karten arbeitende Registriermaschinen |
+| [DE379781](DE379781.md) | 1923-08-30 | Ges, Fried Krupp Akt | Fuehlwerk fuer mit gelochten Karten arbeitende Registriermaschinen |
 | [DE379956](DE379956.md) | 1923-08-31 |  | Tab device for typewriters |
-| [DE379991](DE379991.md) | 1923-08-31 |  | Spannvorrichtung fuer den Scheckstreifen an Registrierkassen |
+| [DE379991](DE379991.md) | 1923-08-31 | Co, Ncr | Spannvorrichtung fuer den Scheckstreifen an Registrierkassen |
 | [DE380042](DE380042.md) | 1923-08-31 | Krigin, Alexander | Geheimschriftschreibmaschine |
-| [DE380071](DE380071.md) | 1923-09-01 |  | Druckvorrichtung fuer Registrierkassen u. dgl. mit abnehmbaren Farb- und Gegendruckwalzen |
+| [DE380071](DE380071.md) | 1923-09-01 | Co, Ncr | Druckvorrichtung fuer Registrierkassen u. dgl. mit abnehmbaren Farb- und Gegendruckwalzen |
 | [DE380070](DE380070.md) | 1923-09-03 | Lehmann, Karl August | Einrichtung zur Zeileneinstellung beim Bedrucken von losen Blaettern in Registrierkassen und aehnlichen Maschinen |
 | [DE380639](DE380639.md) | 1923-09-08 | Lebeis, Martin | Device for the independent operation of writing, setting u. like. key machines |
-| [DE380640](DE380640.md) | 1923-09-08 |  | Line switch |
+| [DE380640](DE380640.md) | 1923-09-08 | Co, Underwood Typewriter | Line switch |
 | [DE380641](DE380641.md) | 1923-09-08 | Fries, Rudolf | Auxiliary keyboard for typewriters, calculating machines, etc. like |
-| [DE380642](DE380642.md) | 1923-09-11 |  | Bearing segment with slot guide for the type lever |
+| [DE380642](DE380642.md) | 1923-09-11 | Winklhofer, Wanderer Werke Vorm | Bearing segment with slot guide for the type lever |
 | [DE380703](DE380703.md) | 1923-09-11 | Mayr, Eustach | Device for electrical or electromechanical type stop, especially for &hellip; |
 | [DE381117](DE381117.md) | 1923-09-15 | Brenner, Wilhelm | Sound and shock absorbers for typewriters |
 | [DE381275](DE381275.md) | 1923-09-18 | Cerny, Jan | Typewriter for abbreviated and accelerated writing |
 | [DE381276](DE381276.md) | 1923-09-18 | Holzapfel, Adolf | Writing device for Morse code |
-| [DE381277](DE381277.md) | 1923-09-18 |  | Release device for driving typewriters |
-| [DE381278](DE381278.md) | 1923-09-18 |  | Typewriter with double switching |
+| [DE381277](DE381277.md) | 1923-09-18 | Co, Hooven Automatic Typewriter | Release device for driving typewriters |
+| [DE381278](DE381278.md) | 1923-09-18 | Co, Underwood Typewriter | Typewriter with double switching |
 | [DE381279](DE381279.md) | 1923-09-18 | Verberne, Karl | Type wheel |
 | [DE381354](DE381354.md) | 1923-09-19 |  | Ribbon printing machine with directly driven set carriage and above the same immovably mounted adjustable pressure roller |
 | [DE381356](DE381356.md) | 1923-09-19 | Reisser, Adolf | Car setting device, especially for typewriters |
@@ -7138,14 +7177,14 @@ Every patent in the library, oldest first.
 | [DE381429](DE381429.md) | 1923-09-20 | Wolff, Bela | Note typewriter |
 | [DE381430](DE381430.md) | 1923-09-20 |  | Key lever gear for typewriters |
 | [DE381431](DE381431.md) | 1923-09-20 | Sandor, Franz | Type lever drive |
-| [DE381432](DE381432.md) | 1923-09-20 |  | Type lever drive |
+| [DE381432](DE381432.md) | 1923-09-20 | H, Votam Vertriebs Ges M B | Type lever drive |
 | [DE381433](DE381433.md) | 1923-09-20 | Reisser, Adolf | Edge setting and triggering device, in particular for typewriters |
 | [DE381434](DE381434.md) | 1923-09-20 | F, Naehmaschinen Und Fahrraeder | Device for pressing on and off the paper feed rollers that interact with the &hellip; |
-| [DE381435](DE381435.md) | 1923-09-20 |  | Adjustment device for the rotation of the paper roller |
+| [DE381435](DE381435.md) | 1923-09-20 | Ges, Weilwerke Akt | Adjustment device for the rotation of the paper roller |
 | [DE381436](DE381436.md) | 1923-09-20 |  | Storage for the paper roll of typewriters |
 | [DE381437](DE381437.md) | 1923-09-20 | Rose, Leonard Farra | Duplicating device |
 | [DE381438](DE381438.md) | 1923-09-20 | Maschf, Rheinische Metallw & | Automatic reversing device for the ribbon reel drive |
-| [DE381439](DE381439.md) | 1923-09-20 |  | Ribbon guide |
+| [DE381439](DE381439.md) | 1923-09-20 | Co, Underwood Typewriter | Ribbon guide |
 | [DE381441](DE381441.md) | 1923-09-20 | Burg, Hubert | Portable typewriter |
 | [DE381442](DE381442.md) | 1923-09-20 | Wojciechowski, Bruno | Pedestal for typewriters |
 | [DE381443](DE381443.md) | 1923-09-20 | Reisser, Adolf | typewriter |
@@ -7157,92 +7196,92 @@ Every patent in the library, oldest first.
 | [DE381820](DE381820.md) | 1923-09-25 | Reisser, Adolf | Switch-off device for the pawls of the ribbon drive |
 | [DE381821](DE381821.md) | 1923-09-25 | Reisser, Adolf | Ribbon switch device |
 | [DE381822](DE381822.md) | 1923-09-25 |  | Collapsible typewriter |
-| [DE381964](DE381964.md) | 1923-09-27 |  | Control typewriter device for devices for photographic type typesetting |
+| [DE381964](DE381964.md) | 1923-09-27 | Deutsche, Correx Akt Ges | Control typewriter device for devices for photographic type typesetting |
 | [DE382125](DE382125.md) | 1923-09-28 | Zander, Max | Notenschreibmaschine |
 | [DE382477](DE382477.md) | 1923-10-03 | Pietzsch, Willy | Vorrichtung zum Versenken von Schreibmaschinen in Schreibmaschinentischen, bei der die Schreibmaschine in wagerechter Lage nach einem seitlich in anderer Hoehenlage befindlichen Standplatz auf ... |
 | [DE382954](DE382954.md) | 1923-10-08 | Wachsmann, Samuel | typewriter |
-| [DE383031](DE383031.md) | 1923-10-09 | Geb, Lehmann | Triggering device for collapsed type levers |
+| [DE383031](DE383031.md) | 1923-10-09 | G, Hansa Schreibmaschinenfabrik | Triggering device for collapsed type levers |
 | [DE383032](DE383032.md) | 1923-10-09 | F, Naehmaschinen Und Fahrraeder | Ribbon lifting device |
 | [DE383033](DE383033.md) | 1923-10-09 | Maschf, Rheinische Metallw & | Device for moving the ribbon fork |
 | [DE383035](DE383035.md) | 1923-10-09 | Hess, August Damm | Manuscript holder for typewriters |
 | [DE383778](DE383778.md) | 1923-10-18 | Wherry, John Ashland | Einrichtung zum Zusammenschliessen von Schreibblaettern |
 | [DE383034](DE383034.md) | 1923-10-19 | Burg, Hubert | Abutment for the type lever of typewriters |
 | [DE383910](DE383910.md) | 1923-10-19 | Crocco, Gaetano Arturo | Perforiermaschine |
-| [DE383975](DE383975.md) | 1923-10-24 |  | Adding machine |
-| [DE384112](DE384112.md) | 1923-10-26 |  | Device on typewriters for pressing the writing paper against the platen |
+| [DE383975](DE383975.md) | 1923-10-24 | Co, Burroughs Adding Machine | Adding machine |
+| [DE384112](DE384112.md) | 1923-10-26 | Co, Underwood Typewriter | Device on typewriters for pressing the writing paper against the platen |
 | [DE384111](DE384111.md) | 1923-11-03 | Burg, Hubert | Type lever drive for typewriters |
-| [DE384113](DE384113.md) | 1923-11-03 |  | Ribbon for typewriters and printing machines |
+| [DE384113](DE384113.md) | 1923-11-03 | Co, Kommandit Ges Hoffmann & | Ribbon for typewriters and printing machines |
 | [DE384114](DE384114.md) | 1923-11-03 | Biskamp, Ernst | Mirror device for typewriters |
 | [DE384920](DE384920.md) | 1923-11-06 | Schiffke, Paul | Schaltwerkgetriebe mit durch Kurbeln angetriebenen Klinken |
-| [DE385353](DE385353.md) | 1923-11-22 |  | Kontrolleinrichtung, besonders fuer Kontrollkassen |
+| [DE385353](DE385353.md) | 1923-11-22 | Komet, Kassenfabrik | Kontrolleinrichtung, besonders fuer Kontrollkassen |
 | [DE385377](DE385377.md) | 1923-11-23 | Sandor, Franz | typewriter |
 | [DE385379](DE385379.md) | 1923-11-23 | Sandor, Franz | typewriter |
 | [DE385380](DE385380.md) | 1923-11-23 | Mandler, Eugen | Device to facilitate the reading of manuscripts |
-| [DE385563](DE385563.md) | 1923-11-26 |  | Device for optionally moving the type lever |
-| [DE385564](DE385564.md) | 1923-11-26 |  | typewriter |
+| [DE385563](DE385563.md) | 1923-11-26 | Augsbur, Schreibmaschinenfabrik | Device for optionally moving the type lever |
+| [DE385564](DE385564.md) | 1923-11-26 | Corp, Fed Adding Machine | typewriter |
 | [DE385565](DE385565.md) | 1923-11-26 | Hillard, Frederic Whittlesey | typewriter |
-| [DE385567](DE385567.md) | 1923-11-26 |  | Ribbon fork for typewriters |
+| [DE385567](DE385567.md) | 1923-11-26 | Corp, Fed Adding Machine | Ribbon fork for typewriters |
 | [DE384805](DE384805.md) | 1923-11-27 | Beuttler, Gottlob | Drehbank fuer Schreibmaschinenwalzen |
 | [DE385648](DE385648.md) | 1923-11-27 | Herlt, Franz | Intermediate lever bearing for typewriters with front stop |
-| [DE385647](DE385647.md) | 1923-11-29 |  | Ribbon attachment device |
-| [DE385865](DE385865.md) | 1923-11-29 |  | Method and device for attaching the type slotted at the back to the type levers &hellip; |
-| [DE386073](DE386073.md) | 1923-12-03 |  | Switching device for the ribbon of cash registers u. like |
+| [DE385647](DE385647.md) | 1923-11-29 | Corp, Manifold Impressions | Ribbon attachment device |
+| [DE385865](DE385865.md) | 1923-11-29 | Winklhofer, Wanderer Werke Vorm | Method and device for attaching the type slotted at the back to the type levers &hellip; |
+| [DE386073](DE386073.md) | 1923-12-03 | Co, Ncr | Switching device for the ribbon of cash registers u. like |
 | [DE386212](DE386212.md) | 1923-12-03 | Kolbe, Werner | Vorrichtung zum Drucken von Zwischen- und Endergebnissen an Registrierkassen, Rechenmaschinen o. dgl. |
-| [DE385378](DE385378.md) | 1923-12-06 |  | Device for automatically reversing the direction of longitudinal movement of &hellip; |
-| [DE386311](DE386311.md) | 1923-12-07 |  | Typewriter with exchangeable paper trolley |
-| [DE386399](DE386399.md) | 1923-12-08 |  | Drive for the type bars of typewriters |
+| [DE385378](DE385378.md) | 1923-12-06 | Co, Pscherer & | Device for automatically reversing the direction of longitudinal movement of &hellip; |
+| [DE386311](DE386311.md) | 1923-12-07 | Corp, Fed Adding Machine | Typewriter with exchangeable paper trolley |
+| [DE386399](DE386399.md) | 1923-12-08 | Corp, Garbel Typewriter | Drive for the type bars of typewriters |
 | [DE386400](DE386400.md) | 1923-12-08 | Mueller, Albert | Switching device for typewriters |
-| [DE386401](DE386401.md) | 1923-12-08 |  | Paper carriage switching device |
-| [DE386402](DE386402.md) | 1923-12-08 |  | Coupling for the line index wheel |
-| [DE386404](DE386404.md) | 1923-12-08 |  | Multiplier on typewriters |
+| [DE386401](DE386401.md) | 1923-12-08 | Ges, Triumph Werke Akt | Paper carriage switching device |
+| [DE386402](DE386402.md) | 1923-12-08 | B, Elek Sche Schreibmaschinen M | Coupling for the line index wheel |
+| [DE386404](DE386404.md) | 1923-12-08 | Co, Underwood Typewriter | Multiplier on typewriters |
 | [DE386408](DE386408.md) | 1923-12-08 | Burg, Hubert | typewriter |
 | [DE386450](DE386450.md) | 1923-12-08 |  | Device for aligning the chain threads for looms, especially those for the production of endless ribbons |
-| [DE386466](DE386466.md) | 1923-12-08 |  | Verfahren zur Herstellung des hinteren Verbindungssteges des Papierwagenrahmens bei Schreibmaschinen durch Stanzen und Biegen aus Blech |
+| [DE386466](DE386466.md) | 1923-12-08 | Winklhofer, Wanderer Werke Vorm | Verfahren zur Herstellung des hinteren Verbindungssteges des Papierwagenrahmens bei Schreibmaschinen durch Stanzen und Biegen aus Blech |
 | [DE386406](DE386406.md) | 1923-12-10 | F, Naehmaschinen Und Fahrraeder | Device for engaging and disengaging the ribbon length movement |
 | [DE386471](DE386471.md) | 1923-12-10 | Muchajer, Paul | Type cylinder typewriter |
-| [DE386472](DE386472.md) | 1923-12-10 |  | Switching device for the platen of typewriters with double switching |
+| [DE386472](DE386472.md) | 1923-12-10 | Winklhofer, Wanderer Werke Vorm | Switching device for the platen of typewriters with double switching |
 | [DE386473](DE386473.md) | 1923-12-10 | Schneider, Henry Welti | Device for writing on roll paper with a typewriter |
 | [DE386474](DE386474.md) | 1923-12-10 | Immervoll, Albert | Switching device for the ribbon length movement of typewriters |
 | [DE386555](DE386555.md) | 1923-12-11 | Muchajer, Paul | Stylus typewriter with type wheel |
-| [DE386556](DE386556.md) | 1923-12-11 |  | typewriter |
-| [DE385566](DE385566.md) | 1923-12-12 |  | Paper guiding device for typewriters |
+| [DE386556](DE386556.md) | 1923-12-11 | Ges, Polygraphische | typewriter |
+| [DE385566](DE385566.md) | 1923-12-12 | Corp, Gourland Typewriter | Paper guiding device for typewriters |
 | [DE385568](DE385568.md) | 1923-12-12 | Zangli, Erasmo | Auxiliary keyboard for typing, calculating and similar machines |
-| [DE385646](DE385646.md) | 1923-12-12 |  | Support pin for replaceable platen |
-| [DE385747](DE385747.md) | 1923-12-13 |  | Device for guiding the car for typewriters |
+| [DE385646](DE385646.md) | 1923-12-12 | Winklhofer, Wanderer Werke Vorm | Support pin for replaceable platen |
+| [DE385747](DE385747.md) | 1923-12-13 | W, Mercedes Buero Maschinen Und | Device for guiding the car for typewriters |
 | [DE386403](DE386403.md) | 1923-12-18 | Klopmann, Fritz Baron | Paper roll holder for typewriters |
 | [DE386405](DE386405.md) | 1923-12-18 |  | Device for fastening the ribbon reels of typewriters |
 | [DE386407](DE386407.md) | 1923-12-18 | Jahn, Konrad Rige | Line counters for typewriters |
-| [DE387605](DE387605.md) | 1924-01-02 |  | Vorrichtung zum Abstellen des Druckwerkes an Rechenmaschinen mit Einstellscheiben von veraenderlicher Zaehnezahl |
+| [DE387605](DE387605.md) | 1924-01-02 | G, Grimme Natalis & Co A | Vorrichtung zum Abstellen des Druckwerkes an Rechenmaschinen mit Einstellscheiben von veraenderlicher Zaehnezahl |
 | [DE387763](DE387763.md) | 1924-01-04 |  | Device for typewriters for coupling the paper roller with the line index wheel |
-| [DE387765](DE387765.md) | 1924-01-04 |  | Interchangeable paper trolley frame |
+| [DE387765](DE387765.md) | 1924-01-04 | G, Bing Werke Vorm Gebr Bing A | Interchangeable paper trolley frame |
 | [DE387764](DE387764.md) | 1924-01-07 | Herlt, Franz | Pointer arrangement for the carriage scale of typewriters |
 | [DE387896](DE387896.md) | 1924-01-07 | Reisser, Adolf | Car setting device, especially for typewriters |
-| [DE388045](DE388045.md) | 1924-01-08 |  | Einrichtung zur UEbertragung zweier oder mehrerer Einzelkraefte oder Drehmomente auf einen gemeinsamen Angriffspunkt |
+| [DE388045](DE388045.md) | 1924-01-08 | H, Siemens Schuckertwerke G M B | Einrichtung zur UEbertragung zweier oder mehrerer Einzelkraefte oder Drehmomente auf einen gemeinsamen Angriffspunkt |
 | [DE387944](DE387944.md) | 1924-01-09 | Reisser, Adolf | Tab for tab bars |
-| [DE389077](DE389077.md) | 1924-01-25 |  | Billing device for typewriters |
-| [DE389078](DE389078.md) | 1924-01-25 |  | Paper guide for typewriters |
+| [DE389077](DE389077.md) | 1924-01-25 | H, Adlerwerke Kleyer Ag | Billing device for typewriters |
+| [DE389078](DE389078.md) | 1924-01-25 | Corp, Fed Adding Machine | Paper guide for typewriters |
 | [DE388931](DE388931.md) | 1924-01-29 | Kleefeld, Ferdinand M | typewriter |
 | [DE389029](DE389029.md) | 1924-01-30 | Fis, Buero Einrichtungs Haus Fr | Schreibmaschinenversenktisch |
 | [DE389079](DE389079.md) | 1924-02-01 | Sandor, Franz | Ribbon reel |
 | [DE389081](DE389081.md) | 1924-02-01 | Gross, Emil | Manuscript holder for typewriters |
-| [DE389098](DE389098.md) | 1924-02-01 |  | From a piece of sheet metal punched and bent handle on protective boxes for &hellip; |
+| [DE389098](DE389098.md) | 1924-02-01 | Winklhofer, Wanderer Werke Vorm | From a piece of sheet metal punched and bent handle on protective boxes for &hellip; |
 | [DE389565](DE389565.md) | 1924-02-08 |  | Type guide for type bar typewriters |
 | [DE389950](DE389950.md) | 1924-02-09 | C, August Hegeling | Key and type lever mechanism for typewriters |
 | [DE389952](DE389952.md) | 1924-02-11 | C, August Hegeling | typewriter |
 | [DE389954](DE389954.md) | 1924-02-11 | C, August Hegeling | Type head guide for typewriters |
-| [DE370301](DE370301.md) | 1924-02-14 |  | Device for exchanging type wheels |
-| [DE370302](DE370302.md) | 1924-02-14 |  | Device for switching and setting the type wheel |
+| [DE370301](DE370301.md) | 1924-02-14 | B, Elek Sche Schreibmaschinen M | Device for exchanging type wheels |
+| [DE370302](DE370302.md) | 1924-02-14 | B, Elek Sche Schreibmaschinen M | Device for switching and setting the type wheel |
 | [DE390128](DE390128.md) | 1924-02-14 | Lehmann, Curt | Typewriter frame |
-| [DE390129](DE390129.md) | 1924-02-14 |  | Soundproofing device for typewriters |
-| [DE390192](DE390192.md) | 1924-02-14 |  | Paper guiding device for typewriters |
+| [DE390129](DE390129.md) | 1924-02-14 | Co, Remington Typewriter | Soundproofing device for typewriters |
+| [DE390192](DE390192.md) | 1924-02-14 | Co, Underwood Typewriter | Paper guiding device for typewriters |
 | [DE389951](DE389951.md) | 1924-02-15 | F, Naehmaschinen Und Fahrraeder | Derailleur clutch for the paper trolley |
 | [DE389953](DE389953.md) | 1924-02-15 | C, August Hegeling | Swinging type head guide for typewriters |
-| [DE389949](DE389949.md) | 1924-02-18 |  | Key lever guide and bearing for typewriters |
-| [DE391246](DE391246.md) | 1924-02-29 |  | Aus einer Rechenmaschine und einer Schreibmaschine zusammengesetzte Maschine |
-| [DE391248](DE391248.md) | 1924-02-29 |  | Line setting and safety device for calculating machines with paper trolleys |
+| [DE389949](DE389949.md) | 1924-02-18 | G, Bing Werke Vorm Gebr Bing A | Key lever guide and bearing for typewriters |
+| [DE391246](DE391246.md) | 1924-02-29 | Ltd, Autokal Syndicate | Aus einer Rechenmaschine und einer Schreibmaschine zusammengesetzte Maschine |
+| [DE391248](DE391248.md) | 1924-02-29 | Winklhofer, Wanderer Werke Vorm | Line setting and safety device for calculating machines with paper trolleys |
 | [DE391373](DE391373.md) | 1924-03-03 | Hermanni, Alfred | Druckknopfschalter |
-| [DE391463](DE391463.md) | 1924-03-06 |  | Druckvorrichtung fuer Registrierkassen |
-| [DE391462](DE391462.md) | 1924-03-07 |  | Vorrichtung zum Herausbefoerdern des von einem Scheckstreifen abgeschnittenen Schecks aus Registrierkassen u. dgl. |
+| [DE391463](DE391463.md) | 1924-03-06 | Co, Ncr | Druckvorrichtung fuer Registrierkassen |
+| [DE391462](DE391462.md) | 1924-03-07 | Co, Ncr | Vorrichtung zum Herausbefoerdern des von einem Scheckstreifen abgeschnittenen Schecks aus Registrierkassen u. dgl. |
 | [DE391505](DE391505.md) | 1924-03-07 | Claus, Theodor | Device for feeding sheets for typewriters |
 | [DE391504](DE391504.md) | 1924-03-08 | Revesz, Stefan | High-speed typewriter |
 | [DE391506](DE391506.md) | 1924-03-08 | Herlt, Franz | Paper feed device for typewriters |
@@ -7251,13 +7290,13 @@ Every patent in the library, oldest first.
 | [DE392071](DE392071.md) | 1924-03-15 | Ainardi, Guiseppe | Typewriter with iron-shaped type levers |
 | [DE392072](DE392072.md) | 1924-03-15 | Grandjean, Marc | Take-up device for the paper web of stenography machines |
 | [DE392073](DE392073.md) | 1924-03-15 | Lothe, Pinkus Jakob | Typewriter with lines in the direction of rotation of the paper roller |
-| [DE392074](DE392074.md) | 1924-03-15 |  | Device for transverse oscillation of the ribbon |
-| [DE392464](DE392464.md) | 1924-03-21 |  | Device for controlling typewriters |
+| [DE392074](DE392074.md) | 1924-03-15 | Co, Remington Typewriter | Device for transverse oscillation of the ribbon |
+| [DE392464](DE392464.md) | 1924-03-21 | Co, Hooven Automatic Typewriter | Device for controlling typewriters |
 | [DE392555](DE392555.md) | 1924-03-22 | Schmaltz, Eugen Lauer | Stufenscheibenmotor fuer beliebige Stromart mit innen liegendem Staender und aussen liegendem Laeufer |
 | [DE392970](DE392970.md) | 1924-03-27 | Sandor, Franz | Key lever bearing for typewriters |
 | [DE393328](DE393328.md) | 1924-03-31 | Maschf, Rheinische Metallw & | Edge setting device on typewriters |
-| [DE393249](DE393249.md) | 1924-04-07 |  | Druckzylinder mit elastischem Aufzug fuer Rotationsdruckmaschinen |
-| [DE393847](DE393847.md) | 1924-04-08 |  | Schaltvorrichtung fuer den Kontrollstreifen von Registrierkassen |
+| [DE393249](DE393249.md) | 1924-04-07 | Maschinenfabrik, Vogtlaendische | Druckzylinder mit elastischem Aufzug fuer Rotationsdruckmaschinen |
+| [DE393847](DE393847.md) | 1924-04-08 | Co, Ncr | Schaltvorrichtung fuer den Kontrollstreifen von Registrierkassen |
 | [DE393935](DE393935.md) | 1924-04-08 | C, August Hegeling | Ink device for typewriters |
 | [DE393928](DE393928.md) | 1924-04-10 | Langguth, Robert | typewriter |
 | [DE393929](DE393929.md) | 1924-04-10 | Emig, Georg | Type wheel typewriter |
@@ -7265,382 +7304,395 @@ Every patent in the library, oldest first.
 | [DE393933](DE393933.md) | 1924-04-10 |  | Device for typewriters for coupling the paper roller with the line index wheel |
 | [DE393934](DE393934.md) | 1924-04-10 |  | Device for typewriters for coupling the paper roller with the line index wheel |
 | [DE393954](DE393954.md) | 1924-04-11 | Hoffmeister, Hermann | Vorrichtung zur Verhuetung des UEberschleuderns von Nullstellwellen an Rechenmaschinen u. dgl. |
-| [DE394294](DE394294.md) | 1924-04-15 |  | Selbsttaetige Zufuehrungsvorrichtung fuer Agraffenbiege- und aehnliche Maschinen |
+| [DE394294](DE394294.md) | 1924-04-15 | Co, Engels & | Selbsttaetige Zufuehrungsvorrichtung fuer Agraffenbiege- und aehnliche Maschinen |
 | [DE393932](DE393932.md) | 1924-04-17 | C, August Hegeling | Type lever segment carrier for typewriters |
 | [DE394555](DE394555.md) | 1924-04-23 | Compan, Tuckaway Folding Ladder | Collapsible stepladder |
 | [DE394335](DE394335.md) | 1924-04-24 | Dalichau, Hans | Rechenmaschine |
-| [DE395641](DE395641.md) | 1924-05-10 |  | Paper feeding device for typewriters |
+| [DE395641](DE395641.md) | 1924-05-10 | G, Weilwerke A | Paper feeding device for typewriters |
 | [DE395643](DE395643.md) | 1924-05-10 | Kunze, Richard | Storage for iron-shaped type levers of typewriters |
 | [DE387895](DE387895.md) | 1924-05-13 | Grossmueller, Eduard | Device for typewriters for the forward and backward movement of the paper cart |
-| [DE395067](DE395067.md) | 1924-05-14 |  | Registrierkasse mit Sondertasten und mehreren Schubkaesten |
+| [DE395067](DE395067.md) | 1924-05-14 | Co, Ncr | Registrierkasse mit Sondertasten und mehreren Schubkaesten |
 | [DE395585](DE395585.md) | 1924-05-15 | Reisser, Adolf | Flat typewriter |
 | [DE395403](DE395403.md) | 1924-05-19 | F, Anciens Etablissements Pathe | Kinematographisches Spielzeug |
 | [DE395583](DE395583.md) | 1924-05-21 | Michelsen, Carl | Typewriter for writing on loose book sheets |
 | [DE395584](DE395584.md) | 1924-05-21 | Fortoni, Luigi | Note typewriter |
 | [DE395586](DE395586.md) | 1924-05-21 | Sandor, Franz | Arrangement of the line ruler on the paper roller frame of typewriters |
 | [DE395587](DE395587.md) | 1924-05-21 | Fa, G F Grosser | Ribbon drive for typewriters |
-| [DE395642](DE395642.md) | 1924-05-21 |  | Ribbon attachment |
+| [DE395642](DE395642.md) | 1924-05-21 | Corp, Manifold Impressions | Ribbon attachment |
 | [DE395640](DE395640.md) | 1924-05-22 | Reisser, Adolf | Wagenbremse, insbesondere fuer Schreibmaschinen |
 | [DE395711](DE395711.md) | 1924-05-23 | Schoenberg, Gustav | Vorrichtung zur Umkehrung der Bewegungsrichtung des Farbbandes bei Stempelwerken, Schreibmaschinen o. dgl. |
 | [DE395966](DE395966.md) | 1924-05-24 | Roscher, Erich | Ribbon arrangement for typewriters with multicolored writing |
-| [DE396317](DE396317.md) | 1924-05-28 |  | Schaltvorrichtung fuer den Kontrollstreifen an Registrierkassen |
+| [DE396317](DE396317.md) | 1924-05-28 | Co, Ncr | Schaltvorrichtung fuer den Kontrollstreifen an Registrierkassen |
 | [DE396224](DE396224.md) | 1924-05-30 | Lebeis, Martin | Arrangement of punched characters for punched strips for automatic drives, &hellip; |
-| [DE396581](DE396581.md) | 1924-06-04 |  | Schreibtisch mit Schreibmaschinenversenkvorrichtung |
-| [DE396742](DE396742.md) | 1924-06-10 |  | Registrierkasse mit Druckvorrichtung |
+| [DE396581](DE396581.md) | 1924-06-04 | H, Bueromoebel Fabriken M B | Schreibtisch mit Schreibmaschinenversenkvorrichtung |
+| [DE396742](DE396742.md) | 1924-06-10 | Co, Ncr | Registrierkasse mit Druckvorrichtung |
+| [JP62663](JP62663.md) | 1924-06-18 | Murakami, Masaomi | Typewriter |
 | [DE397326](DE397326.md) | 1924-06-19 | Zientek, Josef | Interchangeable eraser for typewriters |
-| [DE396785](DE396785.md) | 1924-06-20 |  | Device for automatic coupling and uncoupling of paper trolleys and pull cord &hellip; |
+| [DE396785](DE396785.md) | 1924-06-20 | Schreibmaschinenfabrik, Diamant | Device for automatic coupling and uncoupling of paper trolleys and pull cord &hellip; |
 | [DE397320](DE397320.md) | 1924-06-20 | Fachetti, Guido | Type wheel typewriter |
-| [DE397323](DE397323.md) | 1924-06-20 |  | Paper cart switching device for typewriters |
-| [DE397324](DE397324.md) | 1924-06-20 |  | Switching device for typewriters |
+| [DE397323](DE397323.md) | 1924-06-20 | Co, Remington Typewriter | Paper cart switching device for typewriters |
+| [DE397324](DE397324.md) | 1924-06-20 | Co, Remington Typewriter | Switching device for typewriters |
 | [DE397322](DE397322.md) | 1924-06-24 | Guenther, Georg | Device for releasing the clutch tooth on the spring housing of typewriters |
 | [DE397325](DE397325.md) | 1924-06-24 |  | Inhibitor for the carriage movement of typewriters |
 | [DE397321](DE397321.md) | 1924-07-01 | Farina, Domenico | Typewriter with changeable letters for the paper car |
-| [DE397708](DE397708.md) | 1924-07-01 |  | Druckwerk fuer Thomassche Rechenmaschinen mit Tasteneinstellung |
-| [DE397398](DE397398.md) | 1924-07-03 |  | Tastenanordnung fuer Registrierkassen und aehnliche Maschinen |
-| [DE398052](DE398052.md) | 1924-07-03 |  | Control strip conveyor device for printing units of cash registers |
-| [DE397853](DE397853.md) | 1924-07-04 |  | Schreibmaschine mit abnehmbarem, den Hemmechanismus tragenden Rahmen |
+| [DE397708](DE397708.md) | 1924-07-01 | Ges, Carl Lindstroem Akt | Druckwerk fuer Thomassche Rechenmaschinen mit Tasteneinstellung |
+| [DE397398](DE397398.md) | 1924-07-03 | Co, Ncr | Tastenanordnung fuer Registrierkassen und aehnliche Maschinen |
+| [DE398052](DE398052.md) | 1924-07-03 | Ges, Fried Krupp Akt | Control strip conveyor device for printing units of cash registers |
+| [DE397853](DE397853.md) | 1924-07-04 | Co, Underwood Typewriter | Schreibmaschine mit abnehmbarem, den Hemmechanismus tragenden Rahmen |
 | [DE398644](DE398644.md) | 1924-07-10 | Hanus, Raymund | Device for typewriters for the production of copies |
-| [DE398552](DE398552.md) | 1924-07-11 |  | Registrierkasse fuer Buchungszwecke |
+| [DE398552](DE398552.md) | 1924-07-11 | Co, Ncr | Registrierkasse fuer Buchungszwecke |
 | [DE387894](DE387894.md) | 1924-07-14 |  | Device for typewriters for coupling the return wheel with the paper roller |
 | [DE398643](DE398643.md) | 1924-07-15 | Kriebel, Walter | Switching device for typewriters |
-| [DE398712](DE398712.md) | 1924-07-15 |  | Securing the triggerable rack for typewriters against unintentional jumping out &hellip; |
-| [DE398714](DE398714.md) | 1924-07-15 |  | typewriter |
-| [DE398715](DE398715.md) | 1924-07-15 |  | Device for typewriters, writing calculators and similar machines for the &hellip; |
+| [DE398712](DE398712.md) | 1924-07-15 | Winklhofer, Wanderer Werke Vorm | Securing the triggerable rack for typewriters against unintentional jumping out &hellip; |
+| [DE398714](DE398714.md) | 1924-07-15 | Co, Underwood Typewriter | typewriter |
+| [DE398715](DE398715.md) | 1924-07-15 | Ag, Vorm Seidel & Naumann | Device for typewriters, writing calculators and similar machines for the &hellip; |
 | [DE398713](DE398713.md) | 1924-07-16 | Reisser, Adolf | Car switching device for typewriters, calculating machines, etc. like |
 | [DE392075](DE392075.md) | 1924-07-17 |  | Keyboard for typewriters with double switching |
-| [DE398716](DE398716.md) | 1924-07-18 |  | Typewriter supports |
-| [DE399256](DE399256.md) | 1924-07-22 |  | Registrierkasse mit einer Vorrichtung zum Aufspiessen von Kassenbelegen |
-| [DE399257](DE399257.md) | 1924-07-22 |  | Druckvorrichtung fuer Registrierkassen u. dgl. |
-| [DE399622](DE399622.md) | 1924-07-24 |  | Process for the production of color ribbons, in particular for duplication &hellip; |
-| [DE398994](DE398994.md) | 1924-07-26 |  | Hilfseinrichtung zur Erhoehung oder Verminderung der Leistungsfaehigkeit von Registrierkassen-Druck- und Anzeigevorrichtungen |
-| [DE399238](DE399238.md) | 1924-07-28 |  | Ribbon switching device |
-| [DE400016](DE400016.md) | 1924-07-31 |  | Registrierkasse mit mehreren Addierwerken |
-| [DE400160](DE400160.md) | 1924-08-08 |  | Zeilen- oder Postenzaehler fuer Druckvorrichtungen von Rechenmaschinen |
-| [DE400388](DE400388.md) | 1924-08-12 |  | Control gear with electric remote control |
+| [DE398716](DE398716.md) | 1924-07-18 | B, Elek Sche Schreibmaschinen M | Typewriter supports |
+| [DE399256](DE399256.md) | 1924-07-22 | Co, Ncr | Registrierkasse mit einer Vorrichtung zum Aufspiessen von Kassenbelegen |
+| [DE399257](DE399257.md) | 1924-07-22 | Co, Ncr | Druckvorrichtung fuer Registrierkassen u. dgl. |
+| [DE399622](DE399622.md) | 1924-07-24 | H, Chem Fab Pharma G M B | Process for the production of color ribbons, in particular for duplication &hellip; |
+| [DE398994](DE398994.md) | 1924-07-26 | Co, Ncr | Hilfseinrichtung zur Erhoehung oder Verminderung der Leistungsfaehigkeit von Registrierkassen-Druck- und Anzeigevorrichtungen |
+| [DE399238](DE399238.md) | 1924-07-28 | Furtwaengle, Uhrenfabrik Vorm L | Ribbon switching device |
+| [DE400016](DE400016.md) | 1924-07-31 | Co, Ncr | Registrierkasse mit mehreren Addierwerken |
+| [DE400160](DE400160.md) | 1924-08-08 | Akt, Optische Anstalt C P Goerz | Zeilen- oder Postenzaehler fuer Druckvorrichtungen von Rechenmaschinen |
+| [DE400388](DE400388.md) | 1924-08-12 | Ges, Zahnradfabrik Akt | Control gear with electric remote control |
 | [DE400604](DE400604.md) | 1924-08-15 | Jahn, Konrad Rige | Line counters for typewriters |
-| [DE400384](DE400384.md) | 1924-08-20 |  | Device for practicing the method of fastening the type pieces to the type &hellip; |
-| [DE400917](DE400917.md) | 1924-08-20 |  | Rechnende Schreibmaschine |
+| [DE400384](DE400384.md) | 1924-08-20 | Ag, Vorm Seidel & Naumann | Device for practicing the method of fastening the type pieces to the type &hellip; |
+| [DE400917](DE400917.md) | 1924-08-20 | Maschinen, Mercedes Buero | Rechnende Schreibmaschine |
 | [DE400606](DE400606.md) | 1924-08-21 | Fischer, Hermann | Manuscript holder for typewriters |
 | [DE400602](DE400602.md) | 1924-08-22 | F, Naehmaschinen Und Fahrraeder | Type lever drive |
-| [DE400603](DE400603.md) | 1924-08-22 |  | Key for typewriters |
+| [DE400603](DE400603.md) | 1924-08-22 | Winklhofer, Wanderer Werke Vorm | Key for typewriters |
 | [DE400605](DE400605.md) | 1924-08-22 | Tilgert, Hildegard | Typewriter with two different-purpose printing units operated by a common &hellip; |
-| [DE401203](DE401203.md) | 1924-08-27 |  | Lithographic ribbon |
+| [DE401203](DE401203.md) | 1924-08-27 | H, Maschb Und Vertriebs Ges M B | Lithographic ribbon |
 | [DE401499](DE401499.md) | 1924-09-04 | Dalichau, Hans | Buchstabenschreibvorrichtung an schreibenden Rechenmaschinen |
-| [DE401597](DE401597.md) | 1924-09-05 |  | Device for the automatic opening and locking of box lids, in particular of lids &hellip; |
-| [DE393931](DE393931.md) | 1924-09-13 |  | Erasing device for the preparatory setting of machines suitable for creating a &hellip; |
-| [DE401873](DE401873.md) | 1924-09-16 |  | Device for regulating the speed of the carriage of typewriters |
-| [DE402627](DE402627.md) | 1924-09-17 |  | Paper guide for typewriters |
-| [DE402628](DE402628.md) | 1924-09-17 |  | Multiplying device for typewriters |
+| [DE401597](DE401597.md) | 1924-09-05 | Winklhofer, Wanderer Werke Vorm | Device for the automatic opening and locking of box lids, in particular of lids &hellip; |
+| [DE393931](DE393931.md) | 1924-09-13 | Ges, Polygraphische | Erasing device for the preparatory setting of machines suitable for creating a &hellip; |
+| [DE401873](DE401873.md) | 1924-09-16 | Co, Remington Typewriter | Device for regulating the speed of the carriage of typewriters |
+| [DE402627](DE402627.md) | 1924-09-17 | Co, Underwood Typewriter | Paper guide for typewriters |
+| [DE402628](DE402628.md) | 1924-09-17 | Corp, Manifold Impressions | Multiplying device for typewriters |
 | [DE402629](DE402629.md) | 1924-09-20 | Lang, Heinrich | Typewriter for punching out characters |
 | [DE402966](DE402966.md) | 1924-09-23 | Kamatec, Naamlooze Vennootschap | Apparatus for totalizing and printing the information on punched cards |
-| [DE403229](DE403229.md) | 1924-09-27 |  | Druckvorrichtung, besonders fuer statistische Maschinen |
+| [DE403229](DE403229.md) | 1924-09-27 | De, Hollerith Maschinen G M B H | Druckvorrichtung, besonders fuer statistische Maschinen |
 | [DE403366](DE403366.md) | 1924-09-30 |  | Weaving device for the production of ribbons, in particular endless ribbons |
-| [DE403519](DE403519.md) | 1924-09-30 |  | Paper guiding device for typewriters |
+| [DE403519](DE403519.md) | 1924-09-30 | Co, Underwood Typewriter | Paper guiding device for typewriters |
 | [DE403522](DE403522.md) | 1924-09-30 | Grandjean, Marc | Ribbon switching device for stenography machines |
-| [DE403399](DE403399.md) | 1924-10-01 |  | Schreibmaschinenversenktisch zum Einbau in Schreib- oder aehnliche Tische |
+| [DE403399](DE403399.md) | 1924-10-01 | Co, Hermann Lorge & | Schreibmaschinenversenktisch zum Einbau in Schreib- oder aehnliche Tische |
 | [DE403512](DE403512.md) | 1924-10-01 | Knotz, Franz | Motorized typewriter |
-| [DE403515](DE403515.md) | 1924-10-01 |  | Typewriter with reversible paper roller |
-| [DE403516](DE403516.md) | 1924-10-01 |  | Vehicle jamming device for typewriters |
-| [DE403517](DE403517.md) | 1924-10-01 |  | Papierschlittenschaltvorrichtung an Schreibmaschinen |
-| [DE403521](DE403521.md) | 1924-10-01 |  | Ribbon switching device for typewriters |
+| [DE403515](DE403515.md) | 1924-10-01 | Co, Underwood Typewriter | Typewriter with reversible paper roller |
+| [DE403516](DE403516.md) | 1924-10-01 | Co, Underwood Typewriter | Vehicle jamming device for typewriters |
+| [DE403517](DE403517.md) | 1924-10-01 | Co, Underwood Typewriter | Papierschlittenschaltvorrichtung an Schreibmaschinen |
+| [DE403521](DE403521.md) | 1924-10-01 | G, Frister & Rossmann A | Ribbon switching device for typewriters |
 | [DE403523](DE403523.md) | 1924-10-01 |  | typewriter |
 | [DE403525](DE403525.md) | 1924-10-01 | Stowell, Isaac Millard | Fingerfuehrung fuer Schreibmaschinen |
-| [DE403510](DE403510.md) | 1924-10-02 |  | Type guide head for typewriters with type bars |
+| [DE403510](DE403510.md) | 1924-10-02 | H, Adlerwerke Kleyer Ag | Type guide head for typewriters with type bars |
 | [DE403513](DE403513.md) | 1924-10-02 | Knotz, Franz | Motorized typewriter |
-| [DE403514](DE403514.md) | 1924-10-02 |  | Switching device for typewriters |
+| [DE403514](DE403514.md) | 1924-10-02 | Augsbur, Schreibmaschinenfabrik | Switching device for typewriters |
 | [DE403518](DE403518.md) | 1924-10-02 | C, August Hegeling | Line lock wheel clutch for typewriters |
-| [DE403520](DE403520.md) | 1924-10-02 |  | Parallel lever for parallel guidance of the platen |
-| [DE403524](DE403524.md) | 1924-10-02 |  | keylock |
+| [DE403520](DE403520.md) | 1924-10-02 | Ag, Triumph Werke Nuernberg | Parallel lever for parallel guidance of the platen |
+| [DE403524](DE403524.md) | 1924-10-02 | W, Mercedes Buero Maschinen Und | keylock |
 | [DE403526](DE403526.md) | 1924-10-02 | Reisser, Adolf | Key lock for portable typewriters with hinged support frame |
 | [DE403652](DE403652.md) | 1924-10-02 | Strauss, Franz Paul | Papierwagenbremse fuer Schreibmaschinen |
 | [DE403511](DE403511.md) | 1924-10-04 | Reisser, Adolf | Car setting device for typewriters |
-| [DE403744](DE403744.md) | 1924-10-07 |  | Addiermaschine |
+| [DE403744](DE403744.md) | 1924-10-07 | Co, Burroughs Adding Machine | Addiermaschine |
 | [DE403475](DE403475.md) | 1924-10-09 |  | Metal ribbon straps made from tabs |
-| [DE403931](DE403931.md) | 1924-10-09 |  | Catching device for the type lever of typewriters |
-| [DE403469](DE403469.md) | 1924-10-10 |  | Registrierkasse mit einem in mehrere nebeneinanderliegende Spalten geteilten Druckbogen |
-| [DE404176](DE404176.md) | 1924-10-14 |  | Typewriter with movable support frame for the platen |
-| [DE397109](DE397109.md) | 1924-10-16 |  | Schreibmaschinenversenktisch zum Einbau in Schreibtische o. dgl., bei welchem die Tischoder Tragplatte mittels zweier parallel schwingender Hebelpaare parallelogrammartig aufgehaengt und durch ... |
-| [DE404501](DE404501.md) | 1924-10-20 |  | Registrierkasse mit einer Vorrichtung zum Drucken von Einzelbetraegen und Zwischensummen |
-| [DE404528](DE404528.md) | 1924-10-20 |  | Registrierkasse zum Drucken von Einzelbetraegen und Endsummen |
+| [DE403931](DE403931.md) | 1924-10-09 | Co, Remington Typewriter | Catching device for the type lever of typewriters |
+| [DE403469](DE403469.md) | 1924-10-10 | Co, Ncr | Registrierkasse mit einem in mehrere nebeneinanderliegende Spalten geteilten Druckbogen |
+| [DE404176](DE404176.md) | 1924-10-14 | Co, Underwood Typewriter | Typewriter with movable support frame for the platen |
+| [DE397109](DE397109.md) | 1924-10-16 | Co, Hermann Lorge & | Schreibmaschinenversenktisch zum Einbau in Schreibtische o. dgl., bei welchem die Tischoder Tragplatte mittels zweier parallel schwingender Hebelpaare parallelogrammartig aufgehaengt und durch ... |
+| [DE404501](DE404501.md) | 1924-10-20 | Co, Ncr | Registrierkasse mit einer Vorrichtung zum Drucken von Einzelbetraegen und Zwischensummen |
+| [DE404528](DE404528.md) | 1924-10-20 | Co, Ncr | Registrierkasse zum Drucken von Einzelbetraegen und Endsummen |
 | [DE404776](DE404776.md) | 1924-10-20 | Loebel, Albert | Tafel einer Stereotypiematrize zur Auspraegung durch Schreibmaschine |
+| [JP63593](JP63593.md) | 1924-10-27 | Hashiramoto, Mitsuko | Typewriter |
 | [DE405300](DE405300.md) | 1924-10-30 | A, Chem Fab Adolf Heinemann | Process for the production of color ribbons |
-| [DE405336](DE405336.md) | 1924-10-31 |  | Type carrier for calculating machines |
+| [DE405336](DE405336.md) | 1924-10-31 | Winklhofer, Wanderer Werke Vorm | Type carrier for calculating machines |
 | [DE405481](DE405481.md) | 1924-11-03 |  | Typewriter |
 | [DE405676](DE405676.md) | 1924-11-06 | Lock, Andreas | Paper carriage switching device |
 | [DE405840](DE405840.md) | 1924-11-10 | Lebeis, Martin | Vorrichtung an Additionsapparaten zur Verhuetung des Abdruckens der vor der hoechsten Stelle der Summe stehenden Nullen |
 | [DE389243](DE389243.md) | 1924-11-12 | Motoren, Daimler | Switching mechanism for typewriters |
 | [DE406084](DE406084.md) | 1924-11-13 |  | Type flat printer with a fixed printing plate and a roller frame that can be moved over it for simultaneous printing with inking and ribbon |
 | [DE406086](DE406086.md) | 1924-11-13 | Wilke, Hugo | Device for writing tables |
-| [DE406089](DE406089.md) | 1924-11-14 |  | Typewriter with a paper carriage frame that can be adjusted to three different &hellip; |
-| [DE406090](DE406090.md) | 1924-11-14 |  | Spring drive equipped with a fine adjustment device for the paper slide of &hellip; |
-| [DE406091](DE406091.md) | 1924-11-14 |  | Line switching device for line typewriters |
-| [DE406092](DE406092.md) | 1924-11-14 |  | Line switch |
+| [DE406089](DE406089.md) | 1924-11-14 | Co, Underwood Typewriter | Typewriter with a paper carriage frame that can be adjusted to three different &hellip; |
+| [DE406090](DE406090.md) | 1924-11-14 | Co, Underwood Typewriter | Spring drive equipped with a fine adjustment device for the paper slide of &hellip; |
+| [DE406091](DE406091.md) | 1924-11-14 | Ges, Polygraphische | Line switching device for line typewriters |
+| [DE406092](DE406092.md) | 1924-11-14 | Furtwaengle, Uhrenfabrik Vorm L | Line switch |
 | [DE406093](DE406093.md) | 1924-11-14 | Kamatec, Naamlooze Vennootschap | Device on typewriters and similar machines for setting the correct starting &hellip; |
-| [DE406094](DE406094.md) | 1924-11-15 |  | Device for holding stiff writing paper against the platen |
+| [DE406094](DE406094.md) | 1924-11-15 | Co, Underwood Typewriter | Device for holding stiff writing paper against the platen |
 | [DE406095](DE406095.md) | 1924-11-15 | Motoren, Daimler | Type lever with ball bearing for typewriters |
 | [DE406255](DE406255.md) | 1924-11-15 |  | Support frame for the button lever and the intermediate lever driving the type &hellip; |
-| [DE406088](DE406088.md) | 1924-11-17 |  | Device for moving the type lever of typewriters by motor drive |
+| [DE406088](DE406088.md) | 1924-11-17 | W, Mercedes Buero Maschinen Und | Device for moving the type lever of typewriters by motor drive |
 | [DE406254](DE406254.md) | 1924-11-17 | Maschf, Kappel | Car switch and accent writing device |
 | [DE406096](DE406096.md) | 1924-11-18 |  | Manuscript holder for typewriters a. like |
 | [DE406624](DE406624.md) | 1924-11-28 | Guenther, Georg | Ratchet wheel with spring housing for typewriters and calculators |
-| [DE406625](DE406625.md) | 1924-11-28 |  | Cutting device on typewriters that work with longitudinally folded paper |
-| [DE406623](DE406623.md) | 1924-11-29 |  | Adjustment device for the stop strength of type levers on typewriters with &hellip; |
-| [DE406799](DE406799.md) | 1924-12-01 |  | Tastensperrung fuer Rechenmaschinen |
-| [DE406996](DE406996.md) | 1924-12-08 |  | Ein- und Ausschaltvorrichtung fuer die Wagenbremse an Schreibmaschinen |
-| [DE407094](DE407094.md) | 1924-12-12 |  | Tastatur fuer Rechenmaschinen |
-| [DE407418](DE407418.md) | 1924-12-20 |  | Eingriffsanordnung des Zugelementes an Schreibmaschinen mit Kraftantrieb |
+| [DE406625](DE406625.md) | 1924-11-28 | Co, Underwood Typewriter | Cutting device on typewriters that work with longitudinally folded paper |
+| [DE406623](DE406623.md) | 1924-11-29 | W, Mercedes Buero Maschinen Und | Adjustment device for the stop strength of type levers on typewriters with &hellip; |
+| [DE406799](DE406799.md) | 1924-12-01 | Ges, Carl Lindstroem Akt | Tastensperrung fuer Rechenmaschinen |
+| [DE406996](DE406996.md) | 1924-12-08 | G, Bing Werke Vorm Gebr Bing A | Ein- und Ausschaltvorrichtung fuer die Wagenbremse an Schreibmaschinen |
+| [DE407094](DE407094.md) | 1924-12-12 | Winklhofer, Wanderer Werke Vorm | Tastatur fuer Rechenmaschinen |
+| [DE407418](DE407418.md) | 1924-12-20 | W, Mercedes Buero Maschinen Und | Eingriffsanordnung des Zugelementes an Schreibmaschinen mit Kraftantrieb |
 | [DE407419](DE407419.md) | 1924-12-20 | Guenther, Georg | Ribbon fork drive for typewriters |
-| [DE407420](DE407420.md) | 1924-12-20 |  | Ribbon switching for typewriters |
+| [DE407420](DE407420.md) | 1924-12-20 | Furtwaengle, Uhrenfabrik Vorm L | Ribbon switching for typewriters |
 | [DE407421](DE407421.md) | 1924-12-20 | Ullrich, Paul | Pliers for removing and attaching the key rings |
 | [DE407422](DE407422.md) | 1924-12-22 | Johnen, Hans | Eraser stencil for typewriters |
-| [DE407417](DE407417.md) | 1924-12-24 |  | Drive for line typewriters |
-| [DE407756](DE407756.md) | 1924-12-31 |  | Type lever bearing with slot guide |
-| [DE407990](DE407990.md) | 1925-01-09 |  | Registrierkasse mit einer Vorrichtung zum Drucken einer laufenden Nummer auf Kontrollstreifen und sonstige Belege |
-| [DE408392](DE408392.md) | 1925-01-17 |  | Generation of print templates |
+| [DE407417](DE407417.md) | 1924-12-24 | Ges, Polygraphische | Drive for line typewriters |
+| [DE407756](DE407756.md) | 1924-12-31 | Winklhofer, Wanderer Werke Vorm | Type lever bearing with slot guide |
+| [DE407990](DE407990.md) | 1925-01-09 | Co, Ncr | Registrierkasse mit einer Vorrichtung zum Drucken einer laufenden Nummer auf Kontrollstreifen und sonstige Belege |
+| [DE408392](DE408392.md) | 1925-01-17 | Ges, Polygraphische | Generation of print templates |
 | [DE408423](DE408423.md) | 1925-01-17 |  | Switching device for the paper trolley of type bar typewriters of low design |
-| [DE408426](DE408426.md) | 1925-01-17 |  | Typewriter with a switch frame carrying the carriage along with the platen and &hellip; |
+| [DE408426](DE408426.md) | 1925-01-17 | Co, Underwood Typewriter | Typewriter with a switch frame carrying the carriage along with the platen and &hellip; |
 | [DE408427](DE408427.md) | 1925-01-17 | Knotz, Franz | typewriter |
 | [DE408428](DE408428.md) | 1925-01-17 | Ruhemann, Fritz | Device to limit the lower edge of the writing sheet |
-| [DE408429](DE408429.md) | 1925-01-17 |  | Paper holding device for typewriters |
-| [DE408430](DE408430.md) | 1925-01-17 |  | Paper guide roll holder for typewriters |
-| [DE408431](DE408431.md) | 1925-01-19 |  | Type lever guide for typewriters |
+| [DE408429](DE408429.md) | 1925-01-17 | Co, Remington Typewriter | Paper holding device for typewriters |
+| [DE408430](DE408430.md) | 1925-01-17 | Furtwaengle, Uhrenfabrik Vorm L | Paper guide roll holder for typewriters |
+| [DE408431](DE408431.md) | 1925-01-19 | Co, Underwood Typewriter | Type lever guide for typewriters |
 | [DE408424](DE408424.md) | 1925-01-20 | Grandjean, Marc | Paper roll holder for shorthand typewriters |
 | [DE408425](DE408425.md) | 1925-01-20 | Grandjean, Marc | Holder for the paper roll of stenography machines |
 | [DE408951](DE408951.md) | 1925-01-27 | Guenther, Georg | Line switch for typewriters |
-| [DE408953](DE408953.md) | 1925-01-27 |  | Collapsible typewriter |
-| [DE408830](DE408830.md) | 1925-01-28 |  | Druckvorrichtung fuer Registrierkassen |
+| [DE408953](DE408953.md) | 1925-01-27 | Co, Remington Typewriter | Collapsible typewriter |
+| [DE408830](DE408830.md) | 1925-01-28 | Co, Ncr | Druckvorrichtung fuer Registrierkassen |
 | [DE408947](DE408947.md) | 1925-01-29 | Langguth, Robert | typewriter |
 | [DE408948](DE408948.md) | 1925-01-29 | Motoren, Daimler | Locking device for the column stops of typewriters |
 | [DE408950](DE408950.md) | 1925-01-29 | Motoren, Daimler | Device for switching the type lever bearing segment of typewriters |
 | [DE408952](DE408952.md) | 1925-01-29 | Motoren, Daimler | Collapsible, self-erecting sheet holder for typewriters |
 | [DE409298](DE409298.md) | 1925-02-02 |  | Sprossenradrechenmaschine mit Druckvorrichtung |
-| [DE409299](DE409299.md) | 1925-02-02 |  | Sperrvorrichtung fuer die Druckvorrichtung bei Rechenmaschinen mit gleichzeitiger Ausschaltung des Papiervorschubes |
-| [DE409629](DE409629.md) | 1925-02-06 |  | typewriter |
-| [DE409630](DE409630.md) | 1925-02-07 |  | Multiplying device for typewriters |
+| [DE409299](DE409299.md) | 1925-02-02 | Winklhofer, Wanderer Werke Vorm | Sperrvorrichtung fuer die Druckvorrichtung bei Rechenmaschinen mit gleichzeitiger Ausschaltung des Papiervorschubes |
+| [DE409629](DE409629.md) | 1925-02-06 | Inc, Royal Typewriter Co | typewriter |
+| [DE409630](DE409630.md) | 1925-02-07 | Corp, Manifold Impressions | Multiplying device for typewriters |
 | [DE409632](DE409632.md) | 1925-02-07 |  | typewriter |
-| [DE409633](DE409633.md) | 1925-02-07 |  | For the transport to be reduced typewriter with reversible paper trolley |
+| [DE409633](DE409633.md) | 1925-02-07 | Co, Remington Typewriter | For the transport to be reduced typewriter with reversible paper trolley |
 | [DE409578](DE409578.md) | 1925-02-09 | Suter, Heinrich | Rechenvorrichtung zum Gebrauch in Verbindung mit einer Schreibmaschine |
-| [DE409631](DE409631.md) | 1925-02-12 |  | Device for resilient throwing back the type lever |
+| [DE409631](DE409631.md) | 1925-02-12 | Furtwaengle, Uhrenfabrik Vorm L | Device for resilient throwing back the type lever |
 | [DE410168](DE410168.md) | 1925-02-16 | Focke, Paul | Verfahren zur Herstellung einer Flachdruckform zur Vervielfaeltigung von Schreibmaschinenschrift |
-| [DE409996](DE409996.md) | 1925-02-17 |  | Inhibiting device for switching movements of the paper slide of different sizes |
+| [DE409996](DE409996.md) | 1925-02-17 | W, Mercedes Buero Maschinen Und | Inhibiting device for switching movements of the paper slide of different sizes |
 | [DE409998](DE409998.md) | 1925-02-17 | Reisser, Adolf | Downshift device for the car of typewriters |
 | [DE410000](DE410000.md) | 1925-02-17 | Weis, Rudolf | Device for dyeing colored ribbons |
 | [DE409997](DE409997.md) | 1925-02-18 | Guenther, Georg | Rueckschaltvorrichtung fuer den Papierwagen von Schreibmaschinen |
 | [DE409999](DE409999.md) | 1925-02-20 | Reisser, Adolf | Typewriter frame |
 | [DE410110](DE410110.md) | 1925-02-23 | Schlesinger, Alfred | Verfahren zur Herstellung von Stereotypiematrizen mittels einer Schreibmaschine |
 | [DE410548](DE410548.md) | 1925-02-28 | Menzel, Martin | Ribbon reel |
-| [DE410269](DE410269.md) | 1925-03-07 |  | Vorrichtung zum Drucken von Zahlen, die nicht addiert oder subtrahiert werden |
-| [DE410547](DE410547.md) | 1925-03-10 |  | Line switch |
+| [DE410269](DE410269.md) | 1925-03-07 | Winklhofer, Wanderer Werke Vorm | Vorrichtung zum Drucken von Zahlen, die nicht addiert oder subtrahiert werden |
+| [DE410547](DE410547.md) | 1925-03-10 | Co, Underwood Typewriter | Line switch |
 | [DE410777](DE410777.md) | 1925-03-13 |  | Guide for typewriters |
-| [DE410778](DE410778.md) | 1925-03-16 |  | Collapsible typewriter |
-| [DE410811](DE410811.md) | 1925-03-19 |  | Registrierkasse mit elektrischem Antrieb fuer die Druckvorrichtung |
-| [DE410970](DE410970.md) | 1925-03-21 |  | Parallel movable guide frame for writing and similar machines |
+| [DE410778](DE410778.md) | 1925-03-16 | Co, Remington Typewriter | Collapsible typewriter |
+| [JP65094](JP65094.md) | 1925-03-18 | Ishii, Genko | Round Japanese-language typewriter |
+| [DE410811](DE410811.md) | 1925-03-19 | Co, Ncr | Registrierkasse mit elektrischem Antrieb fuer die Druckvorrichtung |
+| [DE410970](DE410970.md) | 1925-03-21 | Winklhofer, Wanderer Werke Vorm | Parallel movable guide frame for writing and similar machines |
 | [DE411485](DE411485.md) | 1925-03-29 |  | Collapsible ribbon for dance badges |
-| [DE411676](DE411676.md) | 1925-04-01 |  | Registrierkasse mit einer Vorrichtung zum zweimaligen Abdruck derselben Typen auf Belegscheinen u. dgl. |
+| [DE411676](DE411676.md) | 1925-04-01 | Co, Ncr | Registrierkasse mit einer Vorrichtung zum zweimaligen Abdruck derselben Typen auf Belegscheinen u. dgl. |
 | [DE411803](DE411803.md) | 1925-04-04 | Michelsen, Carl | Schreibunterlage fuer lose Buchungsblaetter |
 | [DE411804](DE411804.md) | 1925-04-04 |  | Type lever typewriter |
-| [DE411806](DE411806.md) | 1925-04-04 |  | Catcher for the type lever |
+| [DE411806](DE411806.md) | 1925-04-04 | Co, Remington Typewriter | Catcher for the type lever |
 | [DE389080](DE389080.md) | 1925-04-06 | Kraudzun, Franz | typewriter |
 | [DE411805](DE411805.md) | 1925-04-06 | Treske, Gerhard | Spring housing for the paper trolley switching device |
-| [DE411807](DE411807.md) | 1925-04-06 |  | Method for determining the impact energy of the typewriter lever |
+| [DE411807](DE411807.md) | 1925-04-06 | W, Mercedes Buero Maschinen Und | Method for determining the impact energy of the typewriter lever |
 | [DE412034](DE412034.md) | 1925-04-09 | Castellazzi, Alfred | Type lever movement device for typewriters |
-| [DE412035](DE412035.md) | 1925-04-09 |  | Guide of the support columns for the liftable and lowerable car with &hellip; |
+| [DE412035](DE412035.md) | 1925-04-09 | Fa, Weilwerke Akt Ges | Guide of the support columns for the liftable and lowerable car with &hellip; |
 | [DE412036](DE412036.md) | 1925-04-09 | Guenther, Georg | Schaltschloss fuer Schreib- und Rechenmaschinen |
-| [DE412038](DE412038.md) | 1925-04-09 |  | typewriter |
+| [DE412038](DE412038.md) | 1925-04-09 | F, A E G Deutsche Werke Akt Ges | typewriter |
+| [JP64743](JP64743.md) | 1925-04-10 | Sakurai, Hisashi | Rotary-cylinder type magazine for typewriters |
+| [JP65172](JP65172.md) | 1925-04-10 | Kiritō, Shinzaburō | Japanese-script printing machine |
 | [DE412037](DE412037.md) | 1925-04-11 | Guenther, Georg | Device for the automatic reversal of the longitudinal movement of the ribbon of &hellip; |
-| [DE411957](DE411957.md) | 1925-04-14 |  | Device for backward movement of line typewriter parts |
-| [DE412073](DE412073.md) | 1925-04-14 |  | Vorrichtung zur willkuerlichen Ein- und Ausschaltung der Scheckstreifenvorschubvorrichtung an Registrierkassen |
-| [DE412074](DE412074.md) | 1925-04-14 |  | Registrierkassen-Druckvorrichtung fuer Einzelbetraege und Summen |
-| [DE412071](DE412071.md) | 1925-04-17 |  | Einstellvorrichtung fuer die Stellen an Rechenmaschinen |
+| [DE411957](DE411957.md) | 1925-04-14 | Fa, Polygraphische Ges | Device for backward movement of line typewriter parts |
+| [DE412073](DE412073.md) | 1925-04-14 | Co, Ncr | Vorrichtung zur willkuerlichen Ein- und Ausschaltung der Scheckstreifenvorschubvorrichtung an Registrierkassen |
+| [DE412074](DE412074.md) | 1925-04-14 | Co, Ncr | Registrierkassen-Druckvorrichtung fuer Einzelbetraege und Summen |
+| [DE412071](DE412071.md) | 1925-04-17 | Winklhofer, Wanderer Werke Vorm | Einstellvorrichtung fuer die Stellen an Rechenmaschinen |
 | [DE412415](DE412415.md) | 1925-04-21 | Hess, Edward Bernhard | Switching device for typewriters |
-| [DE412416](DE412416.md) | 1925-04-21 |  | Typewriter working in conjunction with a calculating machine |
+| [DE412416](DE412416.md) | 1925-04-21 | Co, Underwood Typewriter | Typewriter working in conjunction with a calculating machine |
 | [DE412777](DE412777.md) | 1925-04-27 | Samburg, Maurice | Mit einer Schreibmaschine verbundene Addiermaschine |
-| [DE412930](DE412930.md) | 1925-04-28 |  | Typewriter with an accent type lever |
-| [DE413104](DE413104.md) | 1925-05-01 |  | Druckvorrichtung fuer Registrierkassen |
+| [DE412930](DE412930.md) | 1925-04-28 | Co, Remington Typewriter | Typewriter with an accent type lever |
+| [DE413104](DE413104.md) | 1925-05-01 | Co, Ncr | Druckvorrichtung fuer Registrierkassen |
 | [DE413322](DE413322.md) | 1925-05-08 | Jaenisch, Ernst | Kraftfahrzeug, insbesondere Motorrad, bei welchem der Motor nebst Zubehoer in einem in senkrechter Ebene geteilten Gehaeuse aus zwei flanschenverbundenen Schalen eingeschlossen ist |
-| [DE413385](DE413385.md) | 1925-05-08 |  | Automatic or manually activated mechanical carriage return device for &hellip; |
-| [DE413386](DE413386.md) | 1925-05-09 | Muchajer, Paul | Typewriter frame made of sheet metal |
+| [DE413385](DE413385.md) | 1925-05-08 | Fa, Mercedes Buero Maschinen | Automatic or manually activated mechanical carriage return device for &hellip; |
+| [DE413386](DE413386.md) | 1925-05-09 | Werk, Gundka | Typewriter frame made of sheet metal |
 | [DE408949](DE408949.md) | 1925-05-14 | Fa, Scherbius & Ritter | Braking device for rotating type wheels |
+| [JP66476](JP66476.md) | 1925-05-18 | Akimoto, Takejirō | Printing machine |
 | [DE414031](DE414031.md) | 1925-05-26 | Osterwald, Albert | Schreibmaschinentisch mit versenkbarer Maschinenplatte |
 | [DE414330](DE414330.md) | 1925-05-28 | Pegna, Raffaello La | Typewriter for making bookings |
+| [JP65827](JP65827.md) | 1925-05-29 | Shimada, Minokichi | Continuous printing device for a Japanese-text typewriter |
 | [DE414430](DE414430.md) | 1925-06-02 | Stroedel, Georg A | Sheet music printing machine with type disc and cross support as workpiece &hellip; |
-| [DE414308](DE414308.md) | 1925-06-03 |  | Postcard holder for typewriters |
-| [DE414329](DE414329.md) | 1925-06-03 |  | Device for the longitudinal movement of the ribbon of typewriters and &hellip; |
-| [DE414331](DE414331.md) | 1925-06-03 |  | Travel typewriter |
+| [DE414308](DE414308.md) | 1925-06-03 | W, Mercedes Buero Maschinen Und | Postcard holder for typewriters |
+| [DE414329](DE414329.md) | 1925-06-03 | Fa, Weilwerke Akt Ges | Device for the longitudinal movement of the ribbon of typewriters and &hellip; |
+| [DE414331](DE414331.md) | 1925-06-03 | Fa, Weilwerke Akt Ges | Travel typewriter |
 | [DE414378](DE414378.md) | 1925-06-03 | Grandjean, Marc | Storage for the paper roll of shorthand typewriters |
 | [DE414405](DE414405.md) | 1925-06-03 | Weinmann, Alfred | Adding machine |
-| [DE414688](DE414688.md) | 1925-06-04 |  | Einrichtung zur Regelung der Kontrollstreifenbewegung an Registrierkassen |
+| [DE414688](DE414688.md) | 1925-06-04 | Co, Ncr | Einrichtung zur Regelung der Kontrollstreifenbewegung an Registrierkassen |
 | [DE414740](DE414740.md) | 1925-06-08 | Gericke, Albert | Type segment typewriter |
 | [DE414741](DE414741.md) | 1925-06-08 | Gorin, Fred P | Accounting machine with tab facility |
 | [DE414742](DE414742.md) | 1925-06-08 |  | Switching device for typewriters |
 | [DE414744](DE414744.md) | 1925-06-09 | Lohse, Arthur | Paper guide for typewriters |
 | [DE414743](DE414743.md) | 1925-06-10 | Kriebel, Walter | Paper cart switching device for typewriters |
-| [DE415053](DE415053.md) | 1925-06-13 |  | Circuit monitoring for electrically driven tabulating machines |
+| [DE415053](DE415053.md) | 1925-06-13 | Fa, Hollerith Maschinen G M B H | Circuit monitoring for electrically driven tabulating machines |
 | [DE415100](DE415100.md) | 1925-06-13 | Stroedel, Georg A | Pedal lever arrangement for note typewriters |
 | [DE415101](DE415101.md) | 1925-06-13 | Lehmann, Curt | Key with interchangeable character button |
 | [DE415196](DE415196.md) | 1925-06-15 | Pfeiffer, Otto | Method and device for generating bold font on typewriters |
 | [DE415050](DE415050.md) | 1925-06-17 | Strauss, Karl | Abtrennvorrichtung fuer Streifenabschnitte, z. B. Fahrkarten, Eintrittskarten, Kontrollkassenschecks |
-| [DE415282](DE415282.md) | 1925-06-25 |  | Schreibmaschinentisch, bei welchem das Heben und Senken der Maschinentragplatte von der durch Lenker in gekruemmter Bahn bewegten Tischplatte aus durch Hebel bewirkt wird |
+| [DE415282](DE415282.md) | 1925-06-25 | Fa, Fr Fischer & Co | Schreibmaschinentisch, bei welchem das Heben und Senken der Maschinentragplatte von der durch Lenker in gekruemmter Bahn bewegten Tischplatte aus durch Hebel bewirkt wird |
 | [DE415691](DE415691.md) | 1925-06-27 | Pfahl, Winterling & | Type bar typewriter |
-| [DE415692](DE415692.md) | 1925-06-27 |  | Copyable certificate ribbon for typewriters |
+| [DE415692](DE415692.md) | 1925-06-27 | G, Erwin Justus A | Copyable certificate ribbon for typewriters |
 | [DE415693](DE415693.md) | 1925-06-30 | Hall, Emmett Campbell | Key set for typewriters |
 | [DE415803](DE415803.md) | 1925-07-02 | Osterwald, Albert | Versenktisch fuer Schreibmaschinen, dessen in den rueckwaertigen Teil des Tisches ein-zuschiebende Deckplatte mit der senkrecht verschiebbar angeordneten Maschinen-tragplatte durch eine biegsame ... |
-| [DE415868](DE415868.md) | 1925-07-06 |  | Schreibmaschinentisch mit fester Knieschutzwand, bei dem die Schreibmaschinen-tischplatte durch Parallel-Lenker in wagerechter Lage gehoben oder gesenkt wird |
+| [DE415868](DE415868.md) | 1925-07-06 | Ges, Panzer Akt | Schreibmaschinentisch mit fester Knieschutzwand, bei dem die Schreibmaschinen-tischplatte durch Parallel-Lenker in wagerechter Lage gehoben oder gesenkt wird |
 | [DE416148](DE416148.md) | 1925-07-07 | Lock, Andreas | Typenhebelantrieb fuer Schreibmaschinen |
-| [DE416150](DE416150.md) | 1925-07-07 |  | Guide for typewriter carts |
-| [DE416149](DE416149.md) | 1925-07-08 |  | Drive device for the type lever of typewriters |
-| [DE416151](DE416151.md) | 1925-07-08 |  | Copy device for typewriters |
-| [DE416152](DE416152.md) | 1925-07-08 |  | typewriter |
+| [DE416150](DE416150.md) | 1925-07-07 | Co, Underwood Typewriter | Guide for typewriter carts |
+| [DE416149](DE416149.md) | 1925-07-08 | Inc, Royal Typewriter Co | Drive device for the type lever of typewriters |
+| [DE416151](DE416151.md) | 1925-07-08 | Co, Underwood Typewriter | Copy device for typewriters |
+| [DE416152](DE416152.md) | 1925-07-08 | W, Mercedes Buero Maschinen Und | typewriter |
 | [DE416153](DE416153.md) | 1925-07-08 | Reh, Wilhelm Te | Method and device for cleaning typewriters |
-| [DE416393](DE416393.md) | 1925-07-13 |  | Device on typewriters for switching the lines |
-| [DE416394](DE416394.md) | 1925-07-15 |  | Portable typewriter |
-| [DE416395](DE416395.md) | 1925-07-15 |  | Portable typewriter |
+| [DE416393](DE416393.md) | 1925-07-13 | Fa, Mercedes Buero Maschinen | Device on typewriters for switching the lines |
+| [DE416394](DE416394.md) | 1925-07-15 | Co, Remington Typewriter | Portable typewriter |
+| [DE416395](DE416395.md) | 1925-07-15 | Co, Remington Typewriter | Portable typewriter |
 | [DE412886](DE412886.md) | 1925-07-17 |  | Typewriter |
-| [DE416568](DE416568.md) | 1925-07-20 |  | Druckwerk fuer Rechenmaschinen |
+| [DE416568](DE416568.md) | 1925-07-20 | Ges, Carl Lindstroem Akt | Druckwerk fuer Rechenmaschinen |
+| [JP67025](JP67025.md) | 1925-07-29 | Tsukuda, Shōe | Typewriter |
 | [DE416919](DE416919.md) | 1925-07-31 |  | Typewriter and card punch |
-| [DE417061](DE417061.md) | 1925-08-04 |  | Typewriter with intermediate lever drive |
-| [DE417062](DE417062.md) | 1925-08-04 |  | Recoil device for the type lever of typewriters |
-| [DE417060](DE417060.md) | 1925-08-05 | Muchajer, Paul | Type cylinder typewriter |
-| [DE417063](DE417063.md) | 1925-08-05 |  | Collapsible typewriter |
+| [DE417061](DE417061.md) | 1925-08-04 | Inc, Royal Typewriter Co | Typewriter with intermediate lever drive |
+| [DE417062](DE417062.md) | 1925-08-04 | Fa, Weilwerke Akt Ges | Recoil device for the type lever of typewriters |
+| [DE417060](DE417060.md) | 1925-08-05 | S, Gundka Werk Vereinigte Blech | Type cylinder typewriter |
+| [DE417063](DE417063.md) | 1925-08-05 | Co, Remington Typewriter | Collapsible typewriter |
 | [DE417204](DE417204.md) | 1925-08-08 | Reise, Karl | Kontrollvorrichtung fuer Wirtschaftsbetriebe |
-| [DE417379](DE417379.md) | 1925-08-10 |  | Collapsible typewriter |
+| [DE417379](DE417379.md) | 1925-08-10 | Co, Remington Typewriter | Collapsible typewriter |
 | [DE417577](DE417577.md) | 1925-08-14 |  | Line switching device for typewriters with swing-out lever |
-| [DE412928](DE412928.md) | 1925-08-17 |  | Switching device of the platen on typewriters for power drive |
+| [DE412928](DE412928.md) | 1925-08-17 | Fa, Mercedes Buero Maschinen | Switching device of the platen on typewriters for power drive |
 | [DE417732](DE417732.md) | 1925-08-17 | Rotter, Arthur | Inking device for types of typewriters and similar machines |
-| [DE417068](DE417068.md) | 1925-08-18 | Works, Murrell Hill | Process for the production of dyes |
-| [DE417733](DE417733.md) | 1925-08-20 |  | Key lever bearing for typewriters |
-| [DE417734](DE417734.md) | 1925-08-20 |  | Type lever support for typewriters and calculators |
+| [DE417068](DE417068.md) | 1925-08-18 | Ltd, Scottish Dyes | Process for the production of dyes |
+| [DE417733](DE417733.md) | 1925-08-20 | Ge, Triumph Werke Nuernberg Akt | Key lever bearing for typewriters |
+| [DE417734](DE417734.md) | 1925-08-20 | F, A E G Deutsche Werke Akt Ges | Type lever support for typewriters and calculators |
 | [DE409648](DE409648.md) | 1925-08-27 | Hahn, Martin | Doppelampulle |
-| [DE418388](DE418388.md) | 1925-09-05 |  | Inhibiting device for the feed movement of the paper cart of typewriters |
+| [JP66710](JP66710.md) | 1925-09-02 | Shimada, Minokichi | Improvement in the continuous printing device for a Japanese-text typewriter |
+| [DE418388](DE418388.md) | 1925-09-05 | Co, Underwood Typewriter | Inhibiting device for the feed movement of the paper cart of typewriters |
 | [DE418444](DE418444.md) | 1925-09-06 |  | Typewriter |
 | [DE419315](DE419315.md) | 1925-09-24 | Maschf, Rheinische Metallw & | Vorrichtung zum Loeschen und Sperren der Tastaturen an Rechen- und Additionsmaschinen |
 | [DE419316](DE419316.md) | 1925-10-08 | Neumann, Adolf | Device for calculating machines to facilitate the reading of numbers from card &hellip; |
-| [DE419786](DE419786.md) | 1925-10-10 |  | Registrierkasse mit einer Vorrichtung zum Drucken von Zwischen- und Endsummen |
+| [DE419786](DE419786.md) | 1925-10-10 | Co, Ncr | Registrierkasse mit einer Vorrichtung zum Drucken von Zwischen- und Endsummen |
 | [DE419833](DE419833.md) | 1925-10-11 |  | Switching device for the ribbon of time stamps and other devices |
-| [DE419962](DE419962.md) | 1925-10-13 |  | Typewriter to take with you on trips in a housing |
+| [DE419962](DE419962.md) | 1925-10-13 | Fa, Weilwerke Akt Ges | Typewriter to take with you on trips in a housing |
 | [DE419961](DE419961.md) | 1925-10-14 | Ficker, Theodor | Syllable typewriter |
-| [DE420298](DE420298.md) | 1925-10-20 |  | Ribbon conveyor for cash registers |
-| [DE420397](DE420397.md) | 1925-10-20 |  | Edge ruler with adjusting slide |
+| [DE420298](DE420298.md) | 1925-10-20 | Co, Ncr | Ribbon conveyor for cash registers |
+| [DE420397](DE420397.md) | 1925-10-20 | Winklhofer, Wanderer Werke Vorm | Edge ruler with adjusting slide |
+| [JP67249](JP67249.md) | 1925-10-23 | Shimada, Minokichi | High-speed Japanese-character typewriter |
 | [DE420262](DE420262.md) | 1925-10-24 | Ludwig, Ferdinand | Device for the accelerated solution of arithmetic tasks |
-| [DE420398](DE420398.md) | 1925-10-24 |  | Ribbon holder for typewriters |
+| [DE420398](DE420398.md) | 1925-10-24 | Winklhofer, Wanderer Werke Vorm | Ribbon holder for typewriters |
 | [DE420448](DE420448.md) | 1925-10-24 |  | Line switch for typewriters |
 | [DE420756](DE420756.md) | 1925-10-26 | Klaczko, Max | Typewriter with visual writing |
 | [DE420859](DE420859.md) | 1925-10-31 | Lehmann, Curt | Typewriter with a foldable paper roll frame |
-| [DE420860](DE420860.md) | 1925-10-31 |  | Device for moving the universal rail |
-| [DE420857](DE420857.md) | 1925-11-02 |  | Line switch |
-| [DE420858](DE420858.md) | 1925-11-02 |  | Typewriter with switching |
-| [DE420856](DE420856.md) | 1925-11-03 |  | Type rod drive for typewriters |
+| [DE420860](DE420860.md) | 1925-10-31 | Furtwaengle, Uhrenfabrik Vorm L | Device for moving the universal rail |
+| [DE420857](DE420857.md) | 1925-11-02 | Winklhofer, Wanderer Werke Vorm | Line switch |
+| [DE420858](DE420858.md) | 1925-11-02 | Co, Remington Typewriter | Typewriter with switching |
+| [DE420856](DE420856.md) | 1925-11-03 | Kommanditgesellsch, Zimmer & Co | Type rod drive for typewriters |
 | [DE420979](DE420979.md) | 1925-11-03 | Stroedel, Georg | Facility for writing notes |
-| [DE420978](DE420978.md) | 1925-11-04 |  | Drive for line typewriters |
-| [DE420980](DE420980.md) | 1925-11-04 |  | Line switch |
+| [DE420978](DE420978.md) | 1925-11-04 | Fa, Polygraphische Ges | Drive for line typewriters |
+| [DE420980](DE420980.md) | 1925-11-04 | Winklhofer, Wanderer Werke Vorm | Line switch |
 | [DE421179](DE421179.md) | 1925-11-07 | Puttemans, Hubert Auguste | Einrichtung zur Kupplung einer Schreibmaschine und einer Rechenmaschine |
-| [DE421476](DE421476.md) | 1925-11-12 |  | Tastbrett fuer Matrizensetz- und Zeilengiessmaschinen, bei welchem in Jochen gelagerte Exzenter durch darunter angeordnete umlaufende Walzen beim Tastenanschlag in Umdrehung versetzt werden |
-| [DE421515](DE421515.md) | 1925-11-13 |  | Movement gears for typewriters |
+| [DE421476](DE421476.md) | 1925-11-12 | Gmbh, Mergenthaler Linotype | Tastbrett fuer Matrizensetz- und Zeilengiessmaschinen, bei welchem in Jochen gelagerte Exzenter durch darunter angeordnete umlaufende Walzen beim Tastenanschlag in Umdrehung versetzt werden |
+| [DE421515](DE421515.md) | 1925-11-13 | Furtwaengle, Uhrenfabrik Vorm L | Movement gears for typewriters |
 | [DE421516](DE421516.md) | 1925-11-13 | Kniel, Josef | Reverse gear clutch for typewriters |
-| [DE421517](DE421517.md) | 1925-11-13 |  | typewriter |
+| [DE421517](DE421517.md) | 1925-11-13 | Inc, Royal Typewriter Co | typewriter |
 | [DE421763](DE421763.md) | 1925-11-17 | Fa, Alfred Ransmayer | Vorrichtung zum Praegen von Metallgegenstaenden |
-| [DE421691](DE421691.md) | 1925-11-19 |  | Typewriter |
-| [DE422125](DE422125.md) | 1925-11-25 |  | Printing unit for calculating machines |
+| [DE421691](DE421691.md) | 1925-11-19 | Co, Elliott Fisher | Typewriter |
+| [DE422125](DE422125.md) | 1925-11-25 | Akt, Optische Anstalt C P Goerz | Printing unit for calculating machines |
 | [DE422362](DE422362.md) | 1925-11-28 | Michelsen, Carl | Typewriter for writing on horizontally lying sheets |
-| [DE422363](DE422363.md) | 1925-11-28 |  | typewriter |
+| [DE422363](DE422363.md) | 1925-11-28 | Co, Underwood Typewriter | typewriter |
 | [USD68954](USD68954.md) | 1925-12-08 | Dowd, Bernard J. | Design for a Typewriter Frame |
 | [USD68967](USD68967.md) | 1925-12-08 | Hess, Edward B. | Design for a Typewriter Frame |
 | [USD68984](USD68984.md) | 1925-12-08 | Myers, Lewis C. | Design for a Typewriter Frame |
-| [DE422744](DE422744.md) | 1925-12-11 |  | Kupplungsvorrichtung fuer Schreibaddiermaschinen |
-| [DE422804](DE422804.md) | 1925-12-12 |  | Alignment device for the types of computing and similar machines |
+| [DE422744](DE422744.md) | 1925-12-11 | F, A E G Deutsche Werke Akt Ges | Kupplungsvorrichtung fuer Schreibaddiermaschinen |
+| [DE422804](DE422804.md) | 1925-12-12 | Winklhofer, Wanderer Werke Vorm | Alignment device for the types of computing and similar machines |
 | [DE422864](DE422864.md) | 1925-12-14 |  | Ribbon switching on type rotary printers |
 | [DE422905](DE422905.md) | 1925-12-15 |  | Type bar typewriter |
 | [DE423387](DE423387.md) | 1926-01-05 | Roscher, Erich | Ribbon arrangement for typewriters |
-| [DE423548](DE423548.md) | 1926-01-07 | Creed, Frederick George | Drucktelegraph, bei welchem das Typenrad von einer stetig umlaufenden Welle durch eine Kupplung angetrieben wird |
-| [DE423591](DE423591.md) | 1926-01-11 |  | Scheckausgabevorrichtung fuer Registrierkassen |
-| [DE424224](DE424224.md) | 1926-01-18 |  | Key for typewriters |
+| [DE423548](DE423548.md) | 1926-01-07 | Fa, Creed & Co Ltd | Drucktelegraph, bei welchem das Typenrad von einer stetig umlaufenden Welle durch eine Kupplung angetrieben wird |
+| [DE423591](DE423591.md) | 1926-01-11 | Co, Ncr | Scheckausgabevorrichtung fuer Registrierkassen |
+| [DE424224](DE424224.md) | 1926-01-18 | Ag, Vorm Seidel & Naumann | Key for typewriters |
 | [DE413547](DE413547.md) | 1926-01-19 |  | Ribbon switching device in type rotary printers |
-| [DE424398](DE424398.md) | 1926-01-23 |  | Device for aligning type carriers set to form a line in line typewriters |
-| [DE424513](DE424513.md) | 1926-01-27 |  | Registrierkasse mit mehreren Addierwerken und einem Druckwerk |
-| [DE424537](DE424537.md) | 1926-01-27 |  | Registrierkasse mit einer Endsummendruckvorrichtung |
+| [DE424398](DE424398.md) | 1926-01-23 | Fa, Polygraphische Ges | Device for aligning type carriers set to form a line in line typewriters |
+| [DE424513](DE424513.md) | 1926-01-27 | Co, Ncr | Registrierkasse mit mehreren Addierwerken und einem Druckwerk |
+| [DE424537](DE424537.md) | 1926-01-27 | Co, Ncr | Registrierkasse mit einer Endsummendruckvorrichtung |
 | [DE424692](DE424692.md) | 1926-02-01 |  | Embroidery machine for simultaneous embroidery of several ribbons |
 | [DE424873](DE424873.md) | 1926-02-03 | Hindermann, Felix | Device for typewriters for the return of the paper cart with the help of a key &hellip; |
 | [DE424874](DE424874.md) | 1926-02-03 |  | Paper guiding device for typewriters |
-| [DE424876](DE424876.md) | 1926-02-05 |  | Sound-absorbing housing for typewriters |
+| [DE424876](DE424876.md) | 1926-02-05 | Co, Underwood Typewriter | Sound-absorbing housing for typewriters |
 | [DE424870](DE424870.md) | 1926-02-06 | Puttemans, Hubert Auguste | Driving device for typewriters driven by keys |
-| [DE424872](DE424872.md) | 1926-02-06 |  | Schaltvorrichtung fuer den Papierwagen von Schreibmaschinen |
-| [DE424871](DE424871.md) | 1926-02-08 |  | Power-driven typewriter |
+| [DE424872](DE424872.md) | 1926-02-06 | Win, Fir Ma Wanderer Werke Vorm | Schaltvorrichtung fuer den Papierwagen von Schreibmaschinen |
+| [DE424871](DE424871.md) | 1926-02-08 | Fa, Mercedes Buero Maschinen | Power-driven typewriter |
 | [DE425044](DE425044.md) | 1926-02-09 | Peeters, Henri | Device for the step-by-step backward movement of the paper slide of typewriters |
 | [DE413501](DE413501.md) | 1926-02-11 | Stroedel, Georg | Method and device for writing notes by means of the note typewriter |
 | [DE424875](DE424875.md) | 1926-02-11 | Lohse, Arthur | Paper guide for typewriters |
 | [DE425108](DE425108.md) | 1926-02-11 | Dornheim, Walter | Schalttrommel bzw. Foerderband fuer quer durchlochte Papierbahnen |
 | [DE425276](DE425276.md) | 1926-02-15 | F, Naehmaschinen Und Fahrraeder | Device for setting the different ribbon colors on typewriters |
-| [DE425820](DE425820.md) | 1926-02-26 |  | Einstellvorrichtung fuer den Papierwagen an Rechenmaschinen mit einem am Papierwagenangeordneten, mit Teilungsnuten versehenen Haltestab |
-| [DE425892](DE425892.md) | 1926-02-27 |  | Reverse gear clutch for typewriters |
+| [DE425820](DE425820.md) | 1926-02-26 | Winklhofer, Wanderer Werke Vorm | Einstellvorrichtung fuer den Papierwagen an Rechenmaschinen mit einem am Papierwagenangeordneten, mit Teilungsnuten versehenen Haltestab |
+| [DE425892](DE425892.md) | 1926-02-27 | Fa, A E G Deutsche Werke Ag | Reverse gear clutch for typewriters |
 | [DE425893](DE425893.md) | 1926-02-27 |  | Paper guiding device for typewriters |
 | [DE426155](DE426155.md) | 1926-03-03 | Motoren, Daimler | Device for fastening the cover plate on the frame of typewriters |
 | [DE426199](DE426199.md) | 1926-03-04 |  | Typewriter |
-| [DE425923](DE425923.md) | 1926-03-05 |  | Registrierkasse zum Drucken von Einzelbetraegen, Zwischen- und Endsummen |
-| [DE426154](DE426154.md) | 1926-03-05 |  | Movement gears for typewriters |
+| [DE425923](DE425923.md) | 1926-03-05 | Co, Ncr | Registrierkasse zum Drucken von Einzelbetraegen, Zwischen- und Endsummen |
+| [DE426154](DE426154.md) | 1926-03-05 | Furtwaengle, Uhrenfabrik Vorm L | Movement gears for typewriters |
 | [DE426779](DE426779.md) | 1926-03-18 | Dieckmann, Max | Schreibverfahren fuer Bilduebertragungsgeraet |
 | [DE426868](DE426868.md) | 1926-03-18 | Farina, Domenico | Paper cart switching device for typewriters |
-| [DE426869](DE426869.md) | 1926-03-18 |  | Downshift device for typewriters with pointer field and type cylinder |
+| [DE426869](DE426869.md) | 1926-03-18 | Fa, A E G Deutsche Werke A G | Downshift device for typewriters with pointer field and type cylinder |
 | [DE426870](DE426870.md) | 1926-03-19 | Anavi, Nissim | Ball bearings made of bent sheet metal for the paper trolleys of typewriters |
 | [DE427091](DE427091.md) | 1926-03-24 |  | Switching storage for typewriters |
 | [DE427092](DE427092.md) | 1926-03-24 |  | Accent writing device for typewriters with car switching |
 | [DE427122](DE427122.md) | 1926-03-25 |  | Typewriter |
 | [DE427277](DE427277.md) | 1926-03-31 |  | Guide for typewriters |
-| [DE427419](DE427419.md) | 1926-04-01 |  | Paper roller clutch for typewriters |
-| [DE427504](DE427504.md) | 1926-04-09 |  | Ribbon switching device for cash registers, calculating machines and like |
-| [DE427661](DE427661.md) | 1926-04-10 |  | Device for locking the paper cart, in particular portable typewriters |
-| [DE427660](DE427660.md) | 1926-04-14 |  | Letter switch for typewriters |
+| [DE427419](DE427419.md) | 1926-04-01 | Ag, Lignose | Paper roller clutch for typewriters |
+| [DE427504](DE427504.md) | 1926-04-09 | Co, Ncr | Ribbon switching device for cash registers, calculating machines and like |
+| [DE427661](DE427661.md) | 1926-04-10 | G, Clemens Mueller A | Device for locking the paper cart, in particular portable typewriters |
+| [DE427660](DE427660.md) | 1926-04-14 | Fa, A E G Deutsche Werke A G | Letter switch for typewriters |
 | [DE427808](DE427808.md) | 1926-04-14 | F, Naehmaschinen Und Fahrraeder | Type lever drive for typewriters |
 | [DE427809](DE427809.md) | 1926-04-14 |  | Ball holder for paper roll carts of typewriters |
+| [JP69296](JP69296.md) | 1926-04-14 | Takashima, Kan | Japanese-language typewriter |
 | [DE427733](DE427733.md) | 1926-04-16 | Lacasse, Valentin | Device for typewriters for underlining and drawing lines |
 | [DE428141](DE428141.md) | 1926-04-24 |  | Switching device for typewriters with upward and downward movable type lever &hellip; |
-| [DE428227](DE428227.md) | 1926-04-27 |  | Roller storage for the writing carriage |
-| [DE428298](DE428298.md) | 1926-04-30 |  | Types for typewriter writing |
+| [DE428227](DE428227.md) | 1926-04-27 | Co, Underwood Typewriter | Roller storage for the writing carriage |
+| [DE428298](DE428298.md) | 1926-04-30 | B, Elek Sche Schreibmaschinen M | Types for typewriter writing |
 | [DE428364](DE428364.md) | 1926-04-30 | Maschf, Kappel | Device for the noiseless return of the paper cart |
 | [DE428489](DE428489.md) | 1926-05-06 | Motoren, Daimler | Device for switching off the ribbon movement through the space key on &hellip; |
 | [DE428716](DE428716.md) | 1926-05-11 | Anavi, Nissim | Edge limiting device with locking device for typewriters |
 | [DE428717](DE428717.md) | 1926-05-11 | Anavi, Nissim | Automatic ribbon reversal device for typewriters |
-| [DE428718](DE428718.md) | 1926-05-11 | Muchajer, Paul | Ribbon switching device for type cylinder typewriters |
+| [DE428718](DE428718.md) | 1926-05-11 | Fa, Gundka Werk | Ribbon switching device for type cylinder typewriters |
 | [DE428719](DE428719.md) | 1926-05-11 | Anavi, Nissim | Clamping device for the key lever springs of typewriters |
 | [DE428720](DE428720.md) | 1926-05-11 | Anavi, Nissim | Type lever bearing segment for typewriters made of sheet metal |
 | [DE428752](DE428752.md) | 1926-05-12 | Krieger, Adolf | Schaltschloss fuer Schreibmaschinen |
-| [DE428753](DE428753.md) | 1926-05-12 |  | Paper trolley switching device on typewriters |
-| [DE428754](DE428754.md) | 1926-05-12 |  | Elastic foot for writing, calculating and similar machines |
-| [DE429008](DE429008.md) | 1926-05-22 |  | Tastenhebel-Registrierkasse |
+| [DE428753](DE428753.md) | 1926-05-12 | Winklhofer, Wanderer Werke Vorm | Paper trolley switching device on typewriters |
+| [DE428754](DE428754.md) | 1926-05-12 | Winklhofer, Wanderer Werke Vorm | Elastic foot for writing, calculating and similar machines |
+| [DE429008](DE429008.md) | 1926-05-22 | Co, Ncr | Tastenhebel-Registrierkasse |
 | [DE429365](DE429365.md) | 1926-05-22 | Emme, Heinrich | Type rod guide for typewriters |
 | [DE429382](DE429382.md) | 1926-05-22 | Hendrickson, Theresa Mary | Paper roller for typewriters |
-| [DE429383](DE429383.md) | 1926-05-26 |  | Key lock for typewriters |
-| [DE429626](DE429626.md) | 1926-05-31 |  | Box-like, low housing for portable typewriters |
+| [DE429383](DE429383.md) | 1926-05-26 | Fa, Mercedes Buero Maschinen | Key lock for typewriters |
+| [DE429626](DE429626.md) | 1926-05-31 | G, Bing Werke Vorm Gebr Bing A | Box-like, low housing for portable typewriters |
 | [DE429646](DE429646.md) | 1926-06-01 | Mackensen, Otto | Spiegelsystem fuer Vorrichtungen mit Tasten |
 | [DE429783](DE429783.md) | 1926-06-03 |  | Ribbon switching device for powered typewriters |
 | [DE429784](DE429784.md) | 1926-06-03 | Fa, Gustav Neumann | Support for machines, especially office machines |
 | [DE429978](DE429978.md) | 1926-06-04 | Perpete, Georges | Addiermaschine mit Stellrad- oder Stellscheibenwagen |
-| [DE429381](DE429381.md) | 1926-06-05 |  | Typewriter with power drive of the type lever |
-| [DE429782](DE429782.md) | 1926-06-07 |  | Roller guide for the typewriter car |
-| [DE430000](DE430000.md) | 1926-06-10 |  | Scheckausgebevorrichtung fuer Registrierkassen |
+| [DE429381](DE429381.md) | 1926-06-05 | Fa, Mercedes Buero Maschinen | Typewriter with power drive of the type lever |
+| [DE429782](DE429782.md) | 1926-06-07 | Co, Underwood Typewriter | Roller guide for the typewriter car |
+| [DE430000](DE430000.md) | 1926-06-10 | Co, Ncr | Scheckausgebevorrichtung fuer Registrierkassen |
 | [DE430487](DE430487.md) | 1926-06-18 | Wilhelm, Carl | Sound-absorbing, elastic pad for typewriters, sewing or embroidery machines |
 | [DE430963](DE430963.md) | 1926-06-25 | Peeters, Henri | Device for moving the paper cart of typewriters by several letter distances |
-| [DE431063](DE431063.md) | 1926-06-29 |  | Typewriter with a cylindrical type carrier |
-| [DE431077](DE431077.md) | 1926-06-29 |  | Trolley elevator |
-| [DE430962](DE430962.md) | 1926-06-30 |  | Switching frame arrangement for teaching aids and children's typewriters |
+| [DE431063](DE431063.md) | 1926-06-29 | B, Elek Sche Schreibmaschinen M | Typewriter with a cylindrical type carrier |
+| [DE431077](DE431077.md) | 1926-06-29 | Fa, Mercedes Buero Maschinen | Trolley elevator |
+| [DE430962](DE430962.md) | 1926-06-30 | G, Bing Werke Vorm Gebr Bing A | Switching frame arrangement for teaching aids and children's typewriters |
 | [DE431218](DE431218.md) | 1926-07-06 | Fa, Rodange & Cie | Embossing machine, whose disks carrying the dies and male dies are arranged on &hellip; |
-| [DE431518](DE431518.md) | 1926-07-08 |  | Switching device for typewriters with three types each having type levers |
-| [DE431520](DE431520.md) | 1926-07-08 |  | Paper guide for typewriters |
+| [DE431518](DE431518.md) | 1926-07-08 | Co, Underwood Typewriter | Switching device for typewriters with three types each having type levers |
+| [DE431520](DE431520.md) | 1926-07-08 | Co, Remington Typewriter | Paper guide for typewriters |
 | [DE431521](DE431521.md) | 1926-07-08 | Sturm, Emil | Verfahren zur Verbesserung falsch geschriebener Buchstaben bei Schreibmaschinenschrift |
-| [DE431517](DE431517.md) | 1926-07-12 |  | Switching device for typewriters |
-| [DE431519](DE431519.md) | 1926-07-12 |  | Paper guide rail for typewriters |
+| [DE431517](DE431517.md) | 1926-07-12 | Inc, Royal Typewriter Co | Switching device for typewriters |
+| [DE431519](DE431519.md) | 1926-07-12 | H, Adlerwerke Kleyer Ag | Paper guide rail for typewriters |
+| [JP71128](JP71128.md) | 1926-07-12 | Matsumoto, Eiichi | Printing mechanism for a Japanese-language typewriter |
 | [DE431867](DE431867.md) | 1926-07-17 |  | Kraftangetriebene Schreibmaschine |
-| [DE432120](DE432120.md) | 1926-07-27 |  | Device for adjusting the stop strength of the type lever of typewriters with &hellip; |
+| [DE432120](DE432120.md) | 1926-07-27 | Fa, Mercedes Buero Maschinen | Device for adjusting the stop strength of the type lever of typewriters with &hellip; |
 | [DE432260](DE432260.md) | 1926-07-30 | Vondra, Karl | typewriter |
 | [DE432261](DE432261.md) | 1926-07-30 | Doerfel, Ferdinand | Brush for cleaning typewriter types |
-| [DE432121](DE432121.md) | 1926-07-31 |  | Device for adjusting the stop strength of the type lever of typewriters with &hellip; |
-| [DE432194](DE432194.md) | 1926-07-31 |  | Type capsule for calculating machines |
-| [DE432293](DE432293.md) | 1926-08-02 |  | Einrichtung zum Heben und Senken der Schreibmaschlnentragplatte in Schreibmaschinentischen |
-| [DE432361](DE432361.md) | 1926-08-05 |  | Schaltvorrichtung fuer den Papierwagen |
-| [DE432437](DE432437.md) | 1926-08-06 |  | Tastenregistrierkasse mit wahlweise wirksamer Scheckausgabevorrichtung |
+| [DE432121](DE432121.md) | 1926-07-31 | Fa, Mercedes Buero Maschinen | Device for adjusting the stop strength of the type lever of typewriters with &hellip; |
+| [DE432194](DE432194.md) | 1926-07-31 | Winklhofer, Wanderer Werke Vorm | Type capsule for calculating machines |
+| [DE432293](DE432293.md) | 1926-08-02 | Fa, Hersa Werke G M B H | Einrichtung zum Heben und Senken der Schreibmaschlnentragplatte in Schreibmaschinentischen |
+| [DE432361](DE432361.md) | 1926-08-05 | Winklhofer, Wanderer Werke Vorm | Schaltvorrichtung fuer den Papierwagen |
+| [DE432437](DE432437.md) | 1926-08-06 | Co, Ncr | Tastenregistrierkasse mit wahlweise wirksamer Scheckausgabevorrichtung |
+| [JP70094](JP70094.md) | 1926-08-06 | Sakurai, Hisashi | Printing machine |
 | [DE432436](DE432436.md) | 1926-08-11 | E, Greve John | Schreibrechenmaschine |
 | [DE432730](DE432730.md) | 1926-08-14 | Rand, James Henry | Wachsschablone fuer Schablonendrucker mit fester Unterlage und Trennfugen laengs des oberen und unteren Randes |
 | [DE421575](DE421575.md) | 1926-08-30 | Motoren, Daimler | Removable paper trolley for typewriters |
-| [DE433738](DE433738.md) | 1926-09-10 |  | Typewriter with an essentially horizontally movable changeover frame |
+| [DE433738](DE433738.md) | 1926-09-10 | Co, Remington Typewriter | Typewriter with an essentially horizontally movable changeover frame |
 | [DE433740](DE433740.md) | 1926-09-10 | Peeters, Henri | Papierwagen fuer Schreibmaschinen |
 | [DE433737](DE433737.md) | 1926-09-11 |  | Kraftangetriebene Schreibmaschine |
 | [DE433905](DE433905.md) | 1926-09-12 |  | Procedure for the presentation of advertising or other inscriptions or representations by means of contact type carriers, the individual contacts of which can be brought into and out of working position |
@@ -7651,312 +7703,328 @@ Every patent in the library, oldest first.
 | [DE434003](DE434003.md) | 1926-09-21 | Fa, Wuensch & Marcrander | Selbsttaetiger Ausschalter fuer elektromotorisch betriebene Kleinmahlwerke |
 | [DE434454](DE434454.md) | 1926-09-25 | Gregorig, Josef | Machine for coloring printing blankets, especially for type printers and small &hellip; |
 | [DE434683](DE434683.md) | 1926-09-29 | Boerner, Johanna Pilz Geb | Addressing method |
-| [DE434840](DE434840.md) | 1926-09-30 |  | Interlocking of the key mechanism drive wheel and the paper cart rack on &hellip; |
-| [DE434844](DE434844.md) | 1926-09-30 |  | Paper roller cart for teaching aids and children's typewriters |
-| [DE434849](DE434849.md) | 1926-09-30 |  | Storage rack for teaching aids and children's typewriters |
+| [DE434840](DE434840.md) | 1926-09-30 | Winklhofer, Wanderer Werke Vorm | Interlocking of the key mechanism drive wheel and the paper cart rack on &hellip; |
+| [DE434844](DE434844.md) | 1926-09-30 | G, Bing Werke Vorm Gebr Bing A | Paper roller cart for teaching aids and children's typewriters |
+| [DE434849](DE434849.md) | 1926-09-30 | G, Bing Werke Vorm Gebr Bing A | Storage rack for teaching aids and children's typewriters |
 | [DE434839](DE434839.md) | 1926-10-02 | Pfeiffer, Otto | Device to inhibit the carriage on typewriters |
 | [DE434835](DE434835.md) | 1926-10-04 | Meissner, Johann Ferdinand | typewriter |
-| [DE434836](DE434836.md) | 1926-10-04 |  | Power-driven typewriter |
+| [DE434836](DE434836.md) | 1926-10-04 | W, Mercedes Buero Maschinen Und | Power-driven typewriter |
 | [DE434837](DE434837.md) | 1926-10-04 | Thorsch, Siegfried | Switching device for typewriters |
-| [DE434838](DE434838.md) | 1926-10-04 |  | Switching device for typewriters |
+| [DE434838](DE434838.md) | 1926-10-04 | Ge, Triumpf Werke Nuernberg Akt | Switching device for typewriters |
 | [DE434841](DE434841.md) | 1926-10-04 |  | Line switch device for power-driven typewriters |
-| [DE434842](DE434842.md) | 1926-10-04 |  | Clutch for the line index wheel on typewriters |
+| [DE434842](DE434842.md) | 1926-10-04 | Fa, A E G I Deutsche Werke A G | Clutch for the line index wheel on typewriters |
 | [DE434843](DE434843.md) | 1926-10-04 | Compan, American Speed O Feeder | Device for the automatic feeding of envelopes for typewriters |
-| [DE434845](DE434845.md) | 1926-10-04 |  | Ribbon fork drive for typewriters |
-| [DE434846](DE434846.md) | 1926-10-04 |  | Ribbon switching device for typewriters |
-| [DE434847](DE434847.md) | 1926-10-04 |  | Typewriter with type levers and a universal rail moved by lugs on the type &hellip; |
-| [DE434848](DE434848.md) | 1926-10-04 |  | Type lever arrangement on typewriters |
+| [DE434845](DE434845.md) | 1926-10-04 | Fa, A E G I Deutsche Werke A G | Ribbon fork drive for typewriters |
+| [DE434846](DE434846.md) | 1926-10-04 | Inc, Royal Typewriter Co | Ribbon switching device for typewriters |
+| [DE434847](DE434847.md) | 1926-10-04 | Fa, Weilwerke A G | Typewriter with type levers and a universal rail moved by lugs on the type &hellip; |
+| [DE434848](DE434848.md) | 1926-10-04 | Winklhofer, Wanderer Werke Vorm | Type lever arrangement on typewriters |
 | [DE435157](DE435157.md) | 1926-10-08 |  | Power-driven typewriter |
-| [DE435158](DE435158.md) | 1926-10-08 |  | Device for line switching and carriage return |
+| [DE435158](DE435158.md) | 1926-10-08 | W, Mercedes Buero Maschinen Und | Device for line switching and carriage return |
 | [DE435075](DE435075.md) | 1926-10-11 | Bessler, August | Sperrvorrichtung fuer den Antrieb von Maschinen mit Druck- oder Fuehlwerken, z. B. Registrierkassen |
 | [DE435423](DE435423.md) | 1926-10-12 | Fritz, Karl | Device for advancing the metal strip in metal plate embossing machines by means &hellip; |
 | [DE435853](DE435853.md) | 1926-10-18 | Puttemans, Hubert Auguste | Antriebsvorrichtung fuer durch Tasten angetriebene Schreibmaschinen |
-| [DE435854](DE435854.md) | 1926-10-18 |  | Typewriter for power and manual use |
-| [DE435855](DE435855.md) | 1926-10-18 |  | Schaltvorrichtung fuer den Papierwagen von Schreibmaschinen |
-| [DE435856](DE435856.md) | 1926-10-19 |  | Edge stop device for typewriters |
-| [DE435860](DE435860.md) | 1926-10-19 |  | Impact device for the type lever of typewriters |
+| [DE435854](DE435854.md) | 1926-10-18 | Fa, Triumph Werke Nuernberg A G | Typewriter for power and manual use |
+| [DE435855](DE435855.md) | 1926-10-18 | Winklhofer, Wanderer Werke Vorm | Schaltvorrichtung fuer den Papierwagen von Schreibmaschinen |
+| [DE435856](DE435856.md) | 1926-10-19 | Inc, Royal Typewriter Co | Edge stop device for typewriters |
+| [DE435860](DE435860.md) | 1926-10-19 | Co, Underwood Typewriter | Impact device for the type lever of typewriters |
 | [DE435859](DE435859.md) | 1926-10-20 | Gross, Fritz | Paper guiding device for typewriters |
 | [DE435991](DE435991.md) | 1926-10-20 | Howard, Ebenezer | Shorthand typewriter |
-| [DE435861](DE435861.md) | 1926-10-21 |  | Arrangement for sound absorption in typewriters |
-| [DE435977](DE435977.md) | 1926-10-22 |  | Paper pressure roller |
-| [DE435992](DE435992.md) | 1926-10-22 |  | Typewriter with two switching mechanisms |
+| [DE435861](DE435861.md) | 1926-10-21 | Winklhofer, Wanderer Werke Vorm | Arrangement for sound absorption in typewriters |
+| [DE435977](DE435977.md) | 1926-10-22 | W, Mercedes Buero Maschinen Und | Paper pressure roller |
+| [DE435992](DE435992.md) | 1926-10-22 | Co, Remington Typewriter | Typewriter with two switching mechanisms |
 | [DE417957](DE417957.md) | 1926-10-27 | Lautner, Max | Elektrische Schaltvorrichtung fuer elektrische Lichtbuchstabenreklame, welche durch die Tastatur einer Schreibmaschine gesteuert wird |
 | [DE436209](DE436209.md) | 1926-10-28 | Schmid, August | Einrichtung an Zehntastenaddiermaschinen zur Verhinderung des Druckens unerwuenschter Nullziffern vor den addierten Zahlenposten |
-| [DE436210](DE436210.md) | 1926-10-28 |  | Rechnende Schreibmaschine |
+| [DE436210](DE436210.md) | 1926-10-28 | Ges, Clemens Mueller Akt | Rechnende Schreibmaschine |
 | [DE436297](DE436297.md) | 1926-10-30 | Buchner, Franz | Croissant pliers for type levers of typewriters |
-| [DE436372](DE436372.md) | 1926-10-30 |  | Reverse gear clutch for typewriters |
-| [DE436477](DE436477.md) | 1926-11-02 |  | Registrierkasse |
+| [DE436372](DE436372.md) | 1926-10-30 | W, Mercedes Buero Maschinen Und | Reverse gear clutch for typewriters |
+| [DE436477](DE436477.md) | 1926-11-02 | Co, Ncr | Registrierkasse |
 | [DE436500](DE436500.md) | 1926-11-03 |  | Type guide for type bar typewriters |
 | [DE436546](DE436546.md) | 1926-11-04 |  | Motor drive for typewriters, calculating machines, etc. like |
-| [DE436724](DE436724.md) | 1926-11-06 |  | Type bar typewriter |
-| [DE437020](DE437020.md) | 1926-11-15 |  | Tastenhebel-Registrierkasse mit einem Tastenverbinder und zwei Druckwerken fuer Einzelbetrag- und Summendruck |
+| [DE436724](DE436724.md) | 1926-11-06 | H, Adlerwerke Kleyer Ag | Type bar typewriter |
+| [DE437020](DE437020.md) | 1926-11-15 | Co, Ncr | Tastenhebel-Registrierkasse mit einem Tastenverbinder und zwei Druckwerken fuer Einzelbetrag- und Summendruck |
 | [DE437176](DE437176.md) | 1926-11-17 |  | Driver device for the transverse summing unit on typewriters |
 | [DE437283](DE437283.md) | 1926-11-18 |  | Typewriter |
-| [DE437411](DE437411.md) | 1926-11-20 |  | Typewriter or the like |
-| [DE437412](DE437412.md) | 1926-11-20 |  | Schaltvorrichtung fuer den Papierwagen von Schreibmaschinen |
-| [DE437413](DE437413.md) | 1926-11-20 |  | Paper holder for typewriters |
-| [DE425906](DE425906.md) | 1926-11-22 |  | Addiermaschine mit Druckwerk |
+| [DE437411](DE437411.md) | 1926-11-20 | Ges, Typar Co Akt | Typewriter or the like |
+| [DE437412](DE437412.md) | 1926-11-20 | H, Adlerwerke Kleyer Ag | Schaltvorrichtung fuer den Papierwagen von Schreibmaschinen |
+| [DE437413](DE437413.md) | 1926-11-20 | Co, Underwood Typewriter | Paper holder for typewriters |
+| [DE425906](DE425906.md) | 1926-11-22 | Fa, Thaleswerk M B H | Addiermaschine mit Druckwerk |
 | [DE437452](DE437452.md) | 1926-11-23 | Minsaas, Ole Johannes | Verfahren zur Herstellung von Buechern unter Anwendung von in Schreibmaschinenschrift geschriebenen Schablonenblaettern |
-| [DE437881](DE437881.md) | 1926-11-29 |  | Key lock for typewriters |
-| [DE437937](DE437937.md) | 1926-12-03 |  | Cash register printing device for optional printing of one or two receipts |
+| [DE437881](DE437881.md) | 1926-11-29 | Ges, A E G I Deutsche Werke Akt | Key lock for typewriters |
+| [DE437937](DE437937.md) | 1926-12-03 | Co, Ncr | Cash register printing device for optional printing of one or two receipts |
 | [DE438092](DE438092.md) | 1926-12-08 |  | Typewriter |
-| [DE438189](DE438189.md) | 1926-12-08 |  | Hemmvorrichtung fuer den Papierwagen von Schreibmaschinen |
+| [DE438189](DE438189.md) | 1926-12-08 | H, Adlerwerke Kleyer Ag | Hemmvorrichtung fuer den Papierwagen von Schreibmaschinen |
 | [DE438188](DE438188.md) | 1926-12-11 | Knotz, Franz | Motorized typewriter |
 | [DE438233](DE438233.md) | 1926-12-11 |  | Zeitrelais |
 | [DE438612](DE438612.md) | 1926-12-21 |  | Switching mechanism for ribbon of typewriters |
 | [DE438630](DE438630.md) | 1926-12-22 | Schnabel, Karl | Plate embossing machine, in which first the character to be embossed is set on &hellip; |
 | [DE461759](DE461759.md) | 1926-12-24 |  | ~The present invention has the object of a paper guide device for Typewriters and similar m |
-| [DE438920](DE438920.md) | 1926-12-30 |  | Device for returning the paper cart |
-| [DE438921](DE438921.md) | 1926-12-30 |  | Platen |
-| [DE439152](DE439152.md) | 1927-01-06 |  | Mechanical drive device for writing and similar machines |
-| [DE439407](DE439407.md) | 1927-01-10 |  | Line switching device for the paper roll of typewriters and calculating &hellip; |
+| [DE438920](DE438920.md) | 1926-12-30 | Winklhofer, Wanderer Werke Vorm | Device for returning the paper cart |
+| [DE438921](DE438921.md) | 1926-12-30 | Winklhofer, Wanderer Werke Vorm | Platen |
+| [DE439152](DE439152.md) | 1927-01-06 | Winklhofer, Wanderer Werke Vorm | Mechanical drive device for writing and similar machines |
+| [DE439407](DE439407.md) | 1927-01-10 | G, Optische Anstalt C P Goerz A | Line switching device for the paper roll of typewriters and calculating &hellip; |
 | [DE439307](DE439307.md) | 1927-01-11 | Langer, Max | Elektromagnetische Sperrvorrichtung fuer Tastensaetze |
-| [DE439541](DE439541.md) | 1927-01-13 |  | Typewriter with exchangeable support frame for the paper cart |
+| [DE439541](DE439541.md) | 1927-01-13 | Ag, Triumph Werke Nuernberg | Typewriter with exchangeable support frame for the paper cart |
 | [DE439700](DE439700.md) | 1927-01-14 | Pein, Heinz | Pen control for handwriting-drawing typewriters |
 | [DE439698](DE439698.md) | 1927-01-17 | Ruf, Alfons | typewriter |
 | [DE439701](DE439701.md) | 1927-01-17 | Pein, Heinz | Control cam arrangement for typewriters that work with pen |
 | [DE439699](DE439699.md) | 1927-01-18 | Pein, Heinz | typewriter |
-| [DE440060](DE440060.md) | 1927-01-26 |  | Device for achieving a permanent stop in typewriters |
+| [DE440060](DE440060.md) | 1927-01-26 | W, Mercedes Buero Maschinen Und | Device for achieving a permanent stop in typewriters |
 | [DE440072](DE440072.md) | 1927-01-27 |  | Schreibmaschinentisch mit Versenkvorrichtung, bei welchem die ausschwingbare Tischplatte mit der heb- und senkbaren Maschinentragplatte durch einen Hebel in Verbindung steht, der mittels eines ... |
-| [DE440171](DE440171.md) | 1927-01-27 |  | Trunnion mounting of exchangeable platen rollers |
-| [DE440172](DE440172.md) | 1927-01-29 |  | Device for reversing the ribbon length movement for teaching aids and &hellip; |
+| [DE440171](DE440171.md) | 1927-01-27 | Winklhofer, Wanderer Werke Vorm | Trunnion mounting of exchangeable platen rollers |
+| [DE440172](DE440172.md) | 1927-01-29 | G, Bing Werke Vorm Gebr Bing A | Device for reversing the ribbon length movement for teaching aids and &hellip; |
 | [DE440182](DE440182.md) | 1927-01-31 | Comp, Clemetsen | Schreibtisch mit heb- und senkbarer sowie in der Gebrauchslage gegen seitliche Bewegung gesicherter Tragplatte, z. B. fuer eine Schreibmaschine |
 | [DE440445](DE440445.md) | 1927-02-08 | Burger, Oskar | Pedestal for typewriters |
-| [DE440492](DE440492.md) | 1927-02-08 |  | Vorrichtung zum Praegen von Stahltypen fuer Schreib- und Rechenmaschinen |
+| [DE440492](DE440492.md) | 1927-02-08 | H, Iris Type G M B | Vorrichtung zum Praegen von Stahltypen fuer Schreib- und Rechenmaschinen |
 | [DE440774](DE440774.md) | 1927-02-17 | Dietrich, Karl | Type ruler typewriter |
 | [DE440775](DE440775.md) | 1927-02-17 | Geb, Merz | Small typewriter with easy carriage switching |
-| [DE441007](DE441007.md) | 1927-02-21 |  | Process for making typewriter types |
+| [DE441007](DE441007.md) | 1927-02-21 | H, Adlerwerke Kleyer Ag | Process for making typewriter types |
 | [DE441005](DE441005.md) | 1927-02-22 | Buck, Conrad | Embossing machine for embossing characters on a step-by-step fed metal strip &hellip; |
 | [DE441107](DE441107.md) | 1927-02-26 | Soc, It Registratori S I R | Vorrichtung zum Bedrucken des Papierstreifens an Registrierkassen |
-| [DE441528](DE441528.md) | 1927-03-09 |  | Inking unit for line typewriters or the like. |
+| [DE441528](DE441528.md) | 1927-03-09 | Ges, Polygraphische | Inking unit for line typewriters or the like. |
 | [DE442041](DE442041.md) | 1927-03-21 | Milling, Hans | Device for holding one or more control sheets on typewriters and calculating &hellip; |
+| [JP72292](JP72292.md) | 1927-03-22 | Watanabe, Osamu | Japanese-script typewriter |
 | [DE442040](DE442040.md) | 1927-03-23 | Peeters, Henri | Paper carriage switching device |
 | [DE442268](DE442268.md) | 1927-03-28 |  | typewriter |
 | [DE442269](DE442269.md) | 1927-03-28 |  | Device for the automatic reversal of movement of the ribbon of typewriters |
 | [DE442270](DE442270.md) | 1927-03-28 | Kromm, Georg | Key lock device for typewriters |
-| [DE442721](DE442721.md) | 1927-04-06 |  | Line switch for typewriters |
-| [DE442722](DE442722.md) | 1927-04-06 |  | Sound-absorbing housing for typewriters |
+| [DE442721](DE442721.md) | 1927-04-06 | Winklhofer, Wanderer Werke Vorm | Line switch for typewriters |
+| [DE442722](DE442722.md) | 1927-04-06 | Winklhofer, Wanderer Werke Vorm | Sound-absorbing housing for typewriters |
+| [JP72556](JP72556.md) | 1927-04-06 | Suganuma, Seiichi | Typewriter |
 | [DE442700](DE442700.md) | 1927-04-08 | Fa, Alfred Ransmayer | Verfahren und Maschine zum Praegen in Gesenken |
 | [DE442891](DE442891.md) | 1927-04-09 | F, Naehmaschinen Und Fahrraeder | Paper guide for accounting typewriters |
-| [DE442844](DE442844.md) | 1927-04-12 |  | Mechanical drive device for writing and similar machines |
+| [DE442844](DE442844.md) | 1927-04-12 | Winklhofer, Wanderer Werke Vorm | Mechanical drive device for writing and similar machines |
 | [DE443474](DE443474.md) | 1927-04-27 | Jun, Heinrich Hartung | Schreibmaschinentisch mit in der Hoehe einstellbarer Tragplatte fuer die Schreibmaschine sowie mit umlegbarer und einschiebbarer Vorderwand |
-| [DE443576](DE443576.md) | 1927-04-27 |  | Device for the longitudinal movement of the ribbon of typewriters |
+| [DE443576](DE443576.md) | 1927-04-27 | Winklhofer, Wanderer Werke Vorm | Device for the longitudinal movement of the ribbon of typewriters |
 | [DE443675](DE443675.md) | 1927-04-29 | Fiala, Karl | Manuscript holder for typewriters |
-| [DE443578](DE443578.md) | 1927-05-02 |  | Switching bridge arrangement for typewriters |
+| [DE443578](DE443578.md) | 1927-05-02 | Winklhofer, Wanderer Werke Vorm | Switching bridge arrangement for typewriters |
 | [DE443577](DE443577.md) | 1927-05-05 | Kuehns, Emil | Device for writing, calculating and similar machines for straightening the &hellip; |
 | [DE439785](DE439785.md) | 1927-05-12 | Luhn, Hans Peter | Buchhaltungsmaschine mit von Lochkarten bedienter Textschreibvorrichtung |
-| [DE444066](DE444066.md) | 1927-05-14 |  | Reverse gear clutch for typewriters |
-| [DE444229](DE444229.md) | 1927-05-18 |  | Herstellung einer Loetverbindung von ineinandergesteckten Metallstuecken |
-| [DE444519](DE444519.md) | 1927-05-24 |  | Paper guide for typewriters |
-| [DE444853](DE444853.md) | 1927-05-30 |  | Registrierkasse |
-| [DE444995](DE444995.md) | 1927-06-02 |  | Druckvorrichtung fuer Registrierkassen mit seitlich verschiebbarem Betragstypenraedersatz |
-| [DE445077](DE445077.md) | 1927-06-03 |  | Revolverlochzange zum Lochen von Leder und anderen Stoffen |
+| [DE444066](DE444066.md) | 1927-05-14 | H, Adlerwerke Kleyer Ag | Reverse gear clutch for typewriters |
+| [DE444229](DE444229.md) | 1927-05-18 | G, Victoria Werke A | Herstellung einer Loetverbindung von ineinandergesteckten Metallstuecken |
+| [JP73882](JP73882.md) | 1927-05-18 | Uchiyama, Michirō | Method of printing European types of various widths with even gaps on a Japanese-script typewriter |
+| [DE444519](DE444519.md) | 1927-05-24 | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters |
+| [DE444853](DE444853.md) | 1927-05-30 | Ag, Anker Werke | Registrierkasse |
+| [DE444995](DE444995.md) | 1927-06-02 | Co, Ncr | Druckvorrichtung fuer Registrierkassen mit seitlich verschiebbarem Betragstypenraedersatz |
+| [DE445077](DE445077.md) | 1927-06-03 | Ges, Mebus Maschb | Revolverlochzange zum Lochen von Leder und anderen Stoffen |
+| [JP73560](JP73560.md) | 1927-06-03 | Kataoka, Kōtarō | Japanese-script typewriter |
 | [DE445417](DE445417.md) | 1927-06-11 |  | Testing device for plain writing on typewriters |
 | [DE445536](DE445536.md) | 1927-06-13 |  | Typewriter with jumping transverse counter and clear character key |
-| [DE445649](DE445649.md) | 1927-06-16 |  | Geheimschrift-Schreibmaschine mit Zeichenfeld und Einstellzeiger |
-| [DE445671](DE445671.md) | 1927-06-16 |  | typewriter |
-| [DE445805](DE445805.md) | 1927-06-18 |  | Druckwerk fuer Rechenmaschinen |
-| [DE445885](DE445885.md) | 1927-06-20 |  | Schreibmaschine |
-| [DE446135](DE446135.md) | 1927-06-23 |  | Vorrichtung zur Verbindung einer Rechenmaschine mit einer Schreibmaschine |
-| [DE446207](DE446207.md) | 1927-06-27 | Muchajer, Paul | Device for fine adjustment of the type cylinder of typewriters |
-| [DE446282](DE446282.md) | 1927-06-29 | Muchajer, Paul | Type strips for the production of type cylinders |
-| [DE446401](DE446401.md) | 1927-06-29 |  | Druckhaemmerspannwerk for printing units of calculating machines |
-| [DE446437](DE446437.md) | 1927-06-30 |  | Tastenhebel-Registrierkasse mit Scheckausgabe |
-| [DE446573](DE446573.md) | 1927-07-06 |  | Registrierkassen-Druckvorrichtung |
-| [DE446574](DE446574.md) | 1927-07-06 |  | Tastenhebel-Registrierkasse mit Einzelbetrag- und Summendruckvorrichtung |
-| [DE446572](DE446572.md) | 1927-07-07 |  | Registrierkassen-Druckvorrichtung, bei welcher der eingelegte Belegschein durch eine mit der Druckhammersperrung zusammenwirkende Fuehlvorrichtung abgetastet wird |
+| [DE445649](DE445649.md) | 1927-06-16 | Ges, A E G Deutsche Werke Akt | Geheimschrift-Schreibmaschine mit Zeichenfeld und Einstellzeiger |
+| [DE445671](DE445671.md) | 1927-06-16 | Co, Remington Typewriter | typewriter |
+| [DE445805](DE445805.md) | 1927-06-18 | Winklhofer, Wanderer Werke Vorm | Druckwerk fuer Rechenmaschinen |
+| [DE445885](DE445885.md) | 1927-06-20 | Ag, Triumph Werke Nuernberg | Schreibmaschine |
+| [DE446135](DE446135.md) | 1927-06-23 | G, Astrawerke A | Vorrichtung zur Verbindung einer Rechenmaschine mit einer Schreibmaschine |
+| [DE446207](DE446207.md) | 1927-06-27 | S, Gundka Werk Vereinigte Blech | Device for fine adjustment of the type cylinder of typewriters |
+| [DE446282](DE446282.md) | 1927-06-29 | Werk, Gundka | Type strips for the production of type cylinders |
+| [DE446401](DE446401.md) | 1927-06-29 | Akt, Optische Anstalt C P Goerz | Druckhaemmerspannwerk for printing units of calculating machines |
+| [DE446437](DE446437.md) | 1927-06-30 | Co, Ncr | Tastenhebel-Registrierkasse mit Scheckausgabe |
+| [DE446573](DE446573.md) | 1927-07-06 | Co, Ncr | Registrierkassen-Druckvorrichtung |
+| [DE446574](DE446574.md) | 1927-07-06 | Co, Ncr | Tastenhebel-Registrierkasse mit Einzelbetrag- und Summendruckvorrichtung |
+| [DE446572](DE446572.md) | 1927-07-07 | Co, Ncr | Registrierkassen-Druckvorrichtung, bei welcher der eingelegte Belegschein durch eine mit der Druckhammersperrung zusammenwirkende Fuehlvorrichtung abgetastet wird |
 | [DE446799](DE446799.md) | 1927-07-09 | Gaar, Georg | Sound-absorbing foot pad for typewriters |
 | [DE446798](DE446798.md) | 1927-07-11 | Liegener, Luise Milling Geb | Device on typewriters and calculating machines for importing and exporting &hellip; |
 | [DE446800](DE446800.md) | 1927-07-11 | Nestler, Curt | Automatic type cleaner for typewriters |
-| [DE446801](DE446801.md) | 1927-07-11 |  | Portable typewriter |
+| [DE446801](DE446801.md) | 1927-07-11 | Co, Remington Typewriter | Portable typewriter |
 | [DE446797](DE446797.md) | 1927-07-12 | Lickes, Michael | Line ratchet clutch for typewriter rollers |
-| [DE447004](DE447004.md) | 1927-07-15 |  | Key lock for typewriters |
+| [DE447004](DE447004.md) | 1927-07-15 | Ges, A E G Deutsche Werke Akt | Key lock for typewriters |
 | [DE447077](DE447077.md) | 1927-07-15 | Geb, Weinitschke | Device for clamping and exchanging a plurality of different types of forms on &hellip; |
 | [DE447005](DE447005.md) | 1927-07-16 |  | Device for the detachable attachment of the paper trolley guide to the &hellip; |
 | [DE447140](DE447140.md) | 1927-07-16 | Sailer, Oscar | Type cleaner for typewriters |
-| [DE447402](DE447402.md) | 1927-07-25 |  | Typewriter or the like with tabulator and power drive for the carriage return |
+| [DE447402](DE447402.md) | 1927-07-25 | Co, Remington Typewriter | Typewriter or the like with tabulator and power drive for the carriage return |
 | [DE447737](DE447737.md) | 1927-07-27 | Jacobsen, Johannes | Key levers made of wood for typewriters |
-| [DE447777](DE447777.md) | 1927-07-28 |  | Device on calculating machines for any printing of numbers or characters in a &hellip; |
+| [DE447777](DE447777.md) | 1927-07-28 | Winklhofer, Wanderer Werke Vorm | Device on calculating machines for any printing of numbers or characters in a &hellip; |
 | [DE447770](DE447770.md) | 1927-08-01 |  | Device on typewriters for switching on the power drive and for setting the numerical value |
-| [DE447776](DE447776.md) | 1927-08-02 |  | Rueckfuehrungsvorrichtung fuer den Papierwagen an Rechenmaschinen und aehnlichen Maschinen |
-| [DE448004](DE448004.md) | 1927-08-08 |  | Druckwerk fuer Buchungsmaschinen, Registrierkassen u. dgl., die ausser einem Buchungsstreifen zwei Belege, z.B. eine Kontokarte und ein Kontobuch, bedrucken |
-| [DE448216](DE448216.md) | 1927-08-10 |  | Vorrichtung zum selbsttaetigen OEffnen und Feststellen von Kastendeckeln, insbesondere von Deckeln an schalldaempfenden Kaesten fuer Schreib-, Rechen- und aehnliche Maschinen |
-| [DE448293](DE448293.md) | 1927-08-15 |  | Type lever bearing for typewriters |
+| [DE447776](DE447776.md) | 1927-08-02 | Winklhofer, Wanderer Werke Vorm | Rueckfuehrungsvorrichtung fuer den Papierwagen an Rechenmaschinen und aehnlichen Maschinen |
+| [DE448004](DE448004.md) | 1927-08-08 | Co, Ncr | Druckwerk fuer Buchungsmaschinen, Registrierkassen u. dgl., die ausser einem Buchungsstreifen zwei Belege, z.B. eine Kontokarte und ein Kontobuch, bedrucken |
+| [DE448216](DE448216.md) | 1927-08-10 | Winklhofer, Wanderer Werke Vorm | Vorrichtung zum selbsttaetigen OEffnen und Feststellen von Kastendeckeln, insbesondere von Deckeln an schalldaempfenden Kaesten fuer Schreib-, Rechen- und aehnliche Maschinen |
+| [DE448293](DE448293.md) | 1927-08-15 | Co, Underwood Typewriter | Type lever bearing for typewriters |
 | [DE448334](DE448334.md) | 1927-08-16 | Lehmann, Curt | Typewriter with exchangeable type lever basket |
-| [DE448522](DE448522.md) | 1927-08-23 |  | Antriebsvorrichtung fuer Registrierkassen, bei denen in einem einzigen Arbeitsgang mittels derselben Druckvorrichtung nacheinander zwei verschiedene Druckbelege bedruckt werden |
-| [DE448521](DE448521.md) | 1927-08-24 |  | Druckvorrichtung fuer Registrierkassen zum Bedrucken eines Kontroll- und eines Scheckstreifens sowie eines Belegscheins |
+| [DE448522](DE448522.md) | 1927-08-23 | Co, Ncr | Antriebsvorrichtung fuer Registrierkassen, bei denen in einem einzigen Arbeitsgang mittels derselben Druckvorrichtung nacheinander zwei verschiedene Druckbelege bedruckt werden |
+| [DE448521](DE448521.md) | 1927-08-24 | Co, Ncr | Druckvorrichtung fuer Registrierkassen zum Bedrucken eines Kontroll- und eines Scheckstreifens sowie eines Belegscheins |
 | [DE448894](DE448894.md) | 1927-08-27 | Lobit, Jean Martial | Tastenhebellagerung, bei der die einzelnen Tastenhebel durch Zwischenhuelsen in Abstand voneinander gehalten werden |
 | [DE448896](DE448896.md) | 1927-09-03 |  | Process for the production of embossing strips provided with bent-down edges in &hellip; |
 | [DE449218](DE449218.md) | 1927-09-07 | Milling, Hans | Device on typewriters and calculating machines for importing and exporting &hellip; |
 | [DE449355](DE449355.md) | 1927-09-10 | Leon, Karl Oscar | Reklame-Projektionsvorrichtung zur abwechselnden Projektion von Reklame- und Zeitanzeigen durch ein ununterbrochen in die optische Achse bewegtes, abwechselnd mit Reklame- und Leerfeldern ausgestattetes ... |
-| [DE449535](DE449535.md) | 1927-09-16 |  | Paper guide for typewriters |
-| [DE449536](DE449536.md) | 1927-09-16 |  | Device for layering sheets of paper one on top of the other |
-| [DE449407](DE449407.md) | 1927-09-17 |  | Paper guide for typewriters |
-| [DE450035](DE450035.md) | 1927-09-27 |  | Vorrichtung zum Verdecken der Tastatur bei Schreibmaschinen |
-| [DE450249](DE450249.md) | 1927-10-04 |  | Type box for printing devices, especially calculating machines |
+| [DE449535](DE449535.md) | 1927-09-16 | Inc, Royal Typewriter Co | Paper guide for typewriters |
+| [DE449536](DE449536.md) | 1927-09-16 | H, Clusor G M B | Device for layering sheets of paper one on top of the other |
+| [DE449407](DE449407.md) | 1927-09-17 | Ag, Triumph Werke Nuernberg | Paper guide for typewriters |
+| [DE450035](DE450035.md) | 1927-09-27 | Winklhofer, Wanderer Werke Vorm | Vorrichtung zum Verdecken der Tastatur bei Schreibmaschinen |
+| [DE450249](DE450249.md) | 1927-10-04 | G, Optische Anstalt C P Goerz A | Type box for printing devices, especially calculating machines |
 | [DE450248](DE450248.md) | 1927-10-06 | Cash, Ekron Adding Machine And | Selbsttaetige Merkzeichen-Druck-, Kontrollstreifen-Abschneide- und -Transportvorrichtung fuer eine vereinigte Duplex-Addiermaschine und Registrierkasse oder aehnliche Maschinen |
 | [DE450288](DE450288.md) | 1927-10-06 | Stiebel, Drpl Theodor | Type typing machine with power drive |
 | [DE450547](DE450547.md) | 1927-10-06 | Gommel, Karl | Type cylinder typewriter |
-| [DE450413](DE450413.md) | 1927-10-08 |  | Rechenschreibmaschine mit Motorantrieb fuer Typenhebel und Rechenwerke und mit Vorrichtung zum selbsttaetigen Drucken der von den Rechenwerken angezeigten Werte |
-| [DE450414](DE450414.md) | 1927-10-10 |  | Tastatur fuer Rechenmaschinen, Addiermaschinen u. dgl. |
+| [DE450413](DE450413.md) | 1927-10-08 | W, Mercedes Buero Maschinen Und | Rechenschreibmaschine mit Motorantrieb fuer Typenhebel und Rechenwerke und mit Vorrichtung zum selbsttaetigen Drucken der von den Rechenwerken angezeigten Werte |
+| [DE450414](DE450414.md) | 1927-10-10 | W, Mercedes Buero Maschinen Und | Tastatur fuer Rechenmaschinen, Addiermaschinen u. dgl. |
 | [DE450548](DE450548.md) | 1927-10-10 | Riehle, Karl | Sound and shock absorbing base for office machines |
 | [DE450614](DE450614.md) | 1927-10-12 | Pluskat, Curt | Device for the independent management of one or more sheets in typewriters and &hellip; |
 | [DE450914](DE450914.md) | 1927-10-12 | Pfeiffer, Otto | Universal drive on typewriters |
-| [DE450831](DE450831.md) | 1927-10-15 |  | Druckvorrichtung fuer Registrierkassen |
-| [DE451071](DE451071.md) | 1927-10-20 |  | Sperr- und Freigabevorrichtung fuer Registrierkassen |
+| [DE450831](DE450831.md) | 1927-10-15 | Co, Ncr | Druckvorrichtung fuer Registrierkassen |
+| [DE451071](DE451071.md) | 1927-10-20 | Co, Ncr | Sperr- und Freigabevorrichtung fuer Registrierkassen |
 | [DE451133](DE451133.md) | 1927-10-21 | Nationalbank, Darmstaedter Und | Replacement device for the type carrier on writing punch card machines |
 | [DE451182](DE451182.md) | 1927-10-22 |  | Embossing machine with laterally displaceable stamp box |
 | [DE451424](DE451424.md) | 1927-10-26 | Lebeis, Martin | Automatic typewriter |
-| [DE451425](DE451425.md) | 1927-10-26 |  | Car scale for booking machines |
-| [DE451426](DE451426.md) | 1927-10-26 |  | Writing pad for the sheet of paper emerging from the typewriter |
-| [DE451804](DE451804.md) | 1927-10-29 |  | Stahldrahtbuerste zum Reinigen von Schreibmaschinentypen |
-| [DE451859](DE451859.md) | 1927-11-04 |  | Column setting device for typewriters and calculating machines |
+| [DE451425](DE451425.md) | 1927-10-26 | Ag, Triumph Werke Nuernberg | Car scale for booking machines |
+| [DE451426](DE451426.md) | 1927-10-26 | Winklhofer, Wanderer Werke Vorm | Writing pad for the sheet of paper emerging from the typewriter |
+| [DE451804](DE451804.md) | 1927-10-29 | Co, Heinrich Bauer & | Stahldrahtbuerste zum Reinigen von Schreibmaschinentypen |
+| [DE451859](DE451859.md) | 1927-11-04 | G, Weilwerke A | Column setting device for typewriters and calculating machines |
 | [DE451860](DE451860.md) | 1927-11-04 | Jacobsen, Johannes | Type lever drive for typewriters |
-| [DE451936](DE451936.md) | 1927-11-04 |  | Schlittenschaltung fuer Rechen-, Schreib- und Schriftsetzmaschinen |
+| [DE451936](DE451936.md) | 1927-11-04 | W, Mercedes Buero Maschinen Und | Schlittenschaltung fuer Rechen-, Schreib- und Schriftsetzmaschinen |
 | [DE451992](DE451992.md) | 1927-11-05 |  | Device for transferring the keyed numerical value to the counter in typewriters |
 | [DE452162](DE452162.md) | 1927-11-07 | Schoenenberg, Wilhelm | Paper feed device for typewriters |
 | [DE452395](DE452395.md) | 1927-11-09 | Mueller, Jacob | Carbon paper fastening on typewriters and booking machines |
 | [DE452585](DE452585.md) | 1927-11-14 | Margarete, Weber Geb Albrecht | Armlehne fuer Stuehle, Baenke o. dgl. |
 | [DE452725](DE452725.md) | 1927-11-17 | Greiser, Erich | Spray gun |
-| [DE452925](DE452925.md) | 1927-11-23 |  | typewriter |
-| [DE452927](DE452927.md) | 1927-11-23 |  | Paper guides for typewriters, calculators, etc. like |
-| [DE452928](DE452928.md) | 1927-11-23 |  | Paper guide for typewriters |
-| [DE452929](DE452929.md) | 1927-11-23 |  | Paper guide for typewriters |
+| [JP75628](JP75628.md) | 1927-11-18 | Katō, Kenjirō | Device for automatically locking the moving part of a typewriter during the printing action |
+| [JP76345](JP76345.md) | 1927-11-19 | Nishihara, Kiyohiko | Typewriter |
+| [DE452925](DE452925.md) | 1927-11-23 | Co, Underwood Typewriter | typewriter |
+| [DE452927](DE452927.md) | 1927-11-23 | Winklhofer, Wanderer Werke Vorm | Paper guides for typewriters, calculators, etc. like |
+| [DE452928](DE452928.md) | 1927-11-23 | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters |
+| [DE452929](DE452929.md) | 1927-11-23 | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters |
 | [DE452859](DE452859.md) | 1927-11-24 |  | Embossing machine with a carriage carrying the plate to be embossed, which is &hellip; |
-| [DE452879](DE452879.md) | 1927-11-24 |  | Maschine zur Herstellung von Durchschlagbaendern fuer Schreibmaschinen |
-| [DE452994](DE452994.md) | 1927-11-24 |  | Process for embossing types |
-| [DE452926](DE452926.md) | 1927-11-25 |  | Device for the noiseless return of the paper sledge of typewriters |
+| [DE452879](DE452879.md) | 1927-11-24 | Corp, Manifold Impressions | Maschine zur Herstellung von Durchschlagbaendern fuer Schreibmaschinen |
+| [DE452994](DE452994.md) | 1927-11-24 | H, Iris Type G M B | Process for embossing types |
+| [DE452926](DE452926.md) | 1927-11-25 | Ag, Triumph Werke Nuernberg | Device for the noiseless return of the paper sledge of typewriters |
 | [DE453094](DE453094.md) | 1927-11-26 |  | Ten circuit for the transverse counters of typewriters |
 | [DE453166](DE453166.md) | 1927-11-28 |  | Arrangement of electrical apparatus with progressive waves, e.g. Type printers, dialers, recording machines, typewriters or calculating machines |
-| [DE453321](DE453321.md) | 1927-12-02 |  | Method and device for closing and aligning the type carrier of line typewriters &hellip; |
-| [DE453322](DE453322.md) | 1927-12-03 |  | Typewriter with a sound-absorbing housing |
-| [DE453510](DE453510.md) | 1927-12-08 |  | Device for moving printing types, punching, stamping or the like. |
-| [DE453512](DE453512.md) | 1927-12-08 |  | Typewriter with a center lock that fixes the paper carriage in the center &hellip; |
+| [DE453321](DE453321.md) | 1927-12-02 | G, Typar Co A | Method and device for closing and aligning the type carrier of line typewriters &hellip; |
+| [JP75711](JP75711.md) | 1927-12-02 | Watanabe, Osamu | Japanese-script typewriter |
+| [DE453322](DE453322.md) | 1927-12-03 | Co, Underwood Typewriter | Typewriter with a sound-absorbing housing |
+| [DE453510](DE453510.md) | 1927-12-08 | H, Erich F Huth G M B | Device for moving printing types, punching, stamping or the like. |
+| [DE453512](DE453512.md) | 1927-12-08 | Co, Remington Typewriter | Typewriter with a center lock that fixes the paper carriage in the center &hellip; |
+| [JP76007](JP76007.md) | 1927-12-09 | Katō, Kenjirō | Vertical (column) feed device for a typewriter |
 | [DE452587](DE452587.md) | 1927-12-10 | Weiskopf, Otto | Vorrichtung zum selbsttaetigen Zurueckziehen des Schreib- und Rechenschlittens an Schreibrechenmaschinen |
-| [DE453509](DE453509.md) | 1927-12-10 |  | Type setting device for line typing, line setting machines or the like. |
-| [DE453511](DE453511.md) | 1927-12-10 |  | Inking device for types of typewriters and similar machines |
+| [DE453509](DE453509.md) | 1927-12-10 | G, Typar Co A | Type setting device for line typing, line setting machines or the like. |
+| [DE453511](DE453511.md) | 1927-12-10 | Ges, Feinmechanik G M B H | Inking device for types of typewriters and similar machines |
 | [USD74052](USD74052.md) | 1927-12-13 | Garbel, Max | Design for a Frame for Typewriting Machines |
 | [DE453755](DE453755.md) | 1927-12-16 | Heinsius, Fritz | Font holder for typewriters |
-| [DE453688](DE453688.md) | 1927-12-19 |  | Inking device for types of typewriters and similar machines |
-| [DE453990](DE453990.md) | 1927-12-24 |  | Schaltschloss fuer die Papierwagenschaltvorrichtung von Schreibmaschinen |
-| [DE453991](DE453991.md) | 1927-12-24 |  | Frame made of sheet metal for teaching aid and children's typewriters |
-| [DE454130](DE454130.md) | 1927-12-31 |  | Doppelampulle |
+| [DE453688](DE453688.md) | 1927-12-19 | Ges, Feinmechanik G M B H | Inking device for types of typewriters and similar machines |
+| [DE453990](DE453990.md) | 1927-12-24 | Winklhofer, Wanderer Werke Vorm | Schaltschloss fuer die Papierwagenschaltvorrichtung von Schreibmaschinen |
+| [DE453991](DE453991.md) | 1927-12-24 | G, Bing Werke Vorm Gebr Bing A | Frame made of sheet metal for teaching aid and children's typewriters |
+| [DE454130](DE454130.md) | 1927-12-31 | M, Woelm A G | Doppelampulle |
 | [DE454229](DE454229.md) | 1928-01-02 |  | Device for accounting machines for setting invoice sheets over a ledger sheet |
-| [DE454400](DE454400.md) | 1928-01-07 |  | Verloeten von mit ihren Enden ineinandergesteckten Rohren |
-| [DE454808](DE454808.md) | 1928-01-16 |  | Einstellvorrichtung fuer die Betragstypen bei Registrierkassen mit umlaufender Druckwalze |
+| [DE454400](DE454400.md) | 1928-01-07 | Me, Fahrradfabrik Rhenania Carl | Verloeten von mit ihren Enden ineinandergesteckten Rohren |
+| [DE454808](DE454808.md) | 1928-01-16 | Ag, Anker Werke | Einstellvorrichtung fuer die Betragstypen bei Registrierkassen mit umlaufender Druckwalze |
 | [DE454749](DE454749.md) | 1928-01-17 |  | Letter switching device for powered typewriters |
+| [JP77019](JP77019.md) | 1928-01-18 | Uchiyama, inventors Michirō | Typewriter with automatically changing character spacing |
 | [DE454288](DE454288.md) | 1928-01-19 |  | Clear checking device for typewriters with a transverse counter |
 | [DE454289](DE454289.md) | 1928-01-19 |  | Typewriter |
-| [DE455061](DE455061.md) | 1928-01-23 |  | Device for the automatic switching off of mechanically driven typewriters, &hellip; |
-| [DE455072](DE455072.md) | 1928-01-23 |  | Device for automatic ribbon switching for typewriters |
+| [DE455061](DE455061.md) | 1928-01-23 | W, Mercedes Buero Maschinen Und | Device for the automatic switching off of mechanically driven typewriters, &hellip; |
+| [DE455072](DE455072.md) | 1928-01-23 | Ag, Triumph Werke Nuernberg | Device for automatic ribbon switching for typewriters |
 | [DE454230](DE454230.md) | 1928-01-25 | Etheridge, Herbert | Device for typewriters for the automatic reversal of the longitudinal movement &hellip; |
 | [DE455071](DE455071.md) | 1928-01-25 | Maschf, Rheinische Metallw & | Switching device for typewriters |
-| [DE454914](DE454914.md) | 1928-01-26 |  | Base for typewriter housing |
+| [DE454914](DE454914.md) | 1928-01-26 | Co, Underwood Typewriter | Base for typewriter housing |
 | [DE455233](DE455233.md) | 1928-01-27 | Johnen, Hans | Mittel zum Reinigen von Drucktypen, insbesondere von Schreibmaschinentypen |
-| [DE455314](DE455314.md) | 1928-01-30 |  | Switching device for the paper roll of typewriters |
-| [DE455315](DE455315.md) | 1928-01-30 |  | Paper guide for typewriters |
+| [DE455314](DE455314.md) | 1928-01-30 | Inc, Royal Typewriter Co | Switching device for the paper roll of typewriters |
+| [DE455315](DE455315.md) | 1928-01-30 | Inc, Royal Typewriter Co | Paper guide for typewriters |
 | [DE455399](DE455399.md) | 1928-01-31 | Berning, Helmut | Gutscheinmarkierkasse |
-| [DE455440](DE455440.md) | 1928-02-01 |  | Einrichtung zur Sperrung einzelner Tasten von Registrierkassen, Rechenmaschinen u. dgl. in niedergedrueckter Lage |
-| [DE455477](DE455477.md) | 1928-02-02 |  | Interchangeable bearing of the type cylinder of type cylinder typewriters |
+| [DE455440](DE455440.md) | 1928-02-01 | Co, Ncr | Einrichtung zur Sperrung einzelner Tasten von Registrierkassen, Rechenmaschinen u. dgl. in niedergedrueckter Lage |
+| [DE455477](DE455477.md) | 1928-02-02 | B, Elek Sche Schreibmaschinen M | Interchangeable bearing of the type cylinder of type cylinder typewriters |
 | [DE455555](DE455555.md) | 1928-02-04 |  | Tens transmission and reset device for the transverse counters of typewriters |
 | [DE455557](DE455557.md) | 1928-02-04 | C, Remington Accounting Machine | Typewriter with switchable arithmetic unit and color changing unit |
 | [DE455593](DE455593.md) | 1928-02-04 | Schilling, Fritz | Keyboard for key machines |
 | [DE455814](DE455814.md) | 1928-02-10 | A, Ransmayer A & Rodrian | Grinding device for the end face of typewriter type bodies |
 | [DE455853](DE455853.md) | 1928-02-11 |  | Shooter drive for ribbon looms |
-| [DE455947](DE455947.md) | 1928-02-13 |  | Flat edge stop for the car of typewriters or similar machines |
-| [DE456355](DE456355.md) | 1928-02-21 |  | Arrangement of type lever bearing segment and intermediate lever bearing &hellip; |
+| [DE455947](DE455947.md) | 1928-02-13 | G, Weilwerke A | Flat edge stop for the car of typewriters or similar machines |
+| [DE456355](DE456355.md) | 1928-02-21 | Ag, Daimler Benz | Arrangement of type lever bearing segment and intermediate lever bearing &hellip; |
 | [DE456357](DE456357.md) | 1928-02-21 | Koehler, Max | Interchangeable button for office machines |
-| [DE456356](DE456356.md) | 1928-02-23 |  | Switching device for the ribbon drive of typewriters |
+| [JP77326](JP77326.md) | 1928-02-22 | Katō, Kenjirō | Horizontal (sideways) feed device for a typewriter |
+| [DE456356](DE456356.md) | 1928-02-23 | Ag, Daimler Benz | Switching device for the ribbon drive of typewriters |
 | [DE456486](DE456486.md) | 1928-02-24 | Fa, Bernhard Koehler | Stempelvorrichtung |
-| [DE456533](DE456533.md) | 1928-02-25 |  | An- und abstellbare Scheckausgabevorrichtung fuer Registrierkassen |
-| [DE456613](DE456613.md) | 1928-02-28 |  | Line shift wheel clutch |
-| [DE456690](DE456690.md) | 1928-02-29 |  | Auxiliary line switching device for typewriters |
-| [DE456710](DE456710.md) | 1928-02-29 |  | Antriebsegmentanordnung fuer tragbare Additions- und aehnliche Maschinen mit Tasteneinstellung |
+| [DE456533](DE456533.md) | 1928-02-25 | Co, Ncr | An- und abstellbare Scheckausgabevorrichtung fuer Registrierkassen |
+| [DE456613](DE456613.md) | 1928-02-28 | W, Mercedes Buero Maschinen Und | Line shift wheel clutch |
+| [DE456690](DE456690.md) | 1928-02-29 | Winklhofer, Wanderer Werke Vorm | Auxiliary line switching device for typewriters |
+| [DE456710](DE456710.md) | 1928-02-29 | W, Feiler Feinmechanik G M B H | Antriebsegmentanordnung fuer tragbare Additions- und aehnliche Maschinen mit Tasteneinstellung |
 | [DE457225](DE457225.md) | 1928-03-10 | Butze, Alexander | Type cleaning pads |
 | [DE457017](DE457017.md) | 1928-03-12 | Krapf, Emil | Mehrere Nadeln vereinigender Halter zur Herstellung von Blindenschrift |
 | [DE457479](DE457479.md) | 1928-03-16 | Jacobsen, Johannes | Typewriter with electromagnetic drive |
-| [DE457482](DE457482.md) | 1928-03-16 |  | One-piece type lever guide for typewriters |
-| [DE457480](DE457480.md) | 1928-03-17 |  | typewriter |
+| [DE457482](DE457482.md) | 1928-03-16 | Winklhofer, Wanderer Werke Vorm | One-piece type lever guide for typewriters |
+| [DE457480](DE457480.md) | 1928-03-17 | Inc, Royal Typewriter Co | typewriter |
 | [DE457481](DE457481.md) | 1928-03-17 | Riehle, Karl | Pedestal for office machines |
-| [DE457528](DE457528.md) | 1928-03-17 |  | Device for the detachable connection of the paper trolley bed with the frame of &hellip; |
-| [DE457449](DE457449.md) | 1928-03-19 |  | Registrierkasse mit abnehmbaren Kassierertasten |
+| [DE457528](DE457528.md) | 1928-03-17 | G, Weilwerke A | Device for the detachable connection of the paper trolley bed with the frame of &hellip; |
+| [DE457449](DE457449.md) | 1928-03-19 | Co, Ncr | Registrierkasse mit abnehmbaren Kassierertasten |
 | [DE457868](DE457868.md) | 1928-03-26 | Eichenauer, Conrad | Calculating machine for all types of invoices |
-| [DE457869](DE457869.md) | 1928-03-26 |  | Registrierkassen-Druckwerk |
-| [DE457898](DE457898.md) | 1928-03-26 |  | Device for moving the paper slide of typewriters and calculating machines |
-| [DE457899](DE457899.md) | 1928-03-26 |  | Split platen for typewriters |
-| [DE457900](DE457900.md) | 1928-03-26 |  | typewriter |
+| [DE457869](DE457869.md) | 1928-03-26 | Co, Ncr | Registrierkassen-Druckwerk |
+| [DE457898](DE457898.md) | 1928-03-26 | G, Wales Additionsmaschine A | Device for moving the paper slide of typewriters and calculating machines |
+| [DE457899](DE457899.md) | 1928-03-26 | W, Mercedes Buero Maschinen Und | Split platen for typewriters |
+| [DE457900](DE457900.md) | 1928-03-26 | Co, Remington Typewriter | typewriter |
 | [DE457901](DE457901.md) | 1928-03-26 | Riehle, Karl | Sound and shock absorbing foot base for office machines |
-| [DE457829](DE457829.md) | 1928-03-28 |  | Druckvorrichtung fuer Tastenhebelregistrierkassen mit Teilbetrag-, Zwischen- und Endsummendruck |
-| [DE457969](DE457969.md) | 1928-03-31 |  | Switching and space switching device for typewriters |
+| [DE457829](DE457829.md) | 1928-03-28 | Co, Ncr | Druckvorrichtung fuer Tastenhebelregistrierkassen mit Teilbetrag-, Zwischen- und Endsummendruck |
+| [DE457969](DE457969.md) | 1928-03-31 | Winklbofer, Wanderer Werke Vorm | Switching and space switching device for typewriters |
 | [DE458108](DE458108.md) | 1928-04-07 |  | Counter for typewriters |
-| [DE458647](DE458647.md) | 1928-04-16 |  | Umschalt- und Zwischenraumschaltvorrichtung fuer Schreibmaschinen |
+| [DE458647](DE458647.md) | 1928-04-16 | Winklhofer, Wanderer Werke Vorm | Umschalt- und Zwischenraumschaltvorrichtung fuer Schreibmaschinen |
+| [JP78051](JP78051.md) | 1928-04-20 | Betsuyaku, Man'ai | Printing machine |
 | [DE458481](DE458481.md) | 1928-04-27 | Weiner, Bernhard | Elektrische Rechen- und Schreibmaschine |
-| [DE459207](DE459207.md) | 1928-04-30 |  | Adjustment device for the rotation of the paper roller on typewriters |
-| [DE459563](DE459563.md) | 1928-05-05 |  | Vollhubsperrung fuer eine an Schreibmaschinen anzubringende Rechenvorrichtung |
+| [DE459207](DE459207.md) | 1928-04-30 | Winklhofer, Wanderer Werke Vorm | Adjustment device for the rotation of the paper roller on typewriters |
+| [DE459563](DE459563.md) | 1928-05-05 | Ag, Vorm Seidel & Naumann | Vollhubsperrung fuer eine an Schreibmaschinen anzubringende Rechenvorrichtung |
 | [DE459773](DE459773.md) | 1928-05-10 | Kaeppler, Paul | Adjustable fastening of the spiral spring to drive the carriage movement |
 | [DE460136](DE460136.md) | 1928-05-22 |  | Drive device for the type lever of book typewriters |
-| [DE460365](DE460365.md) | 1928-05-26 |  | Line switching device for typewriters, calculators and like |
+| [DE460365](DE460365.md) | 1928-05-26 | Winklhofer, Wanderer Werke Vorm | Line switching device for typewriters, calculators and like |
 | [DE460751](DE460751.md) | 1928-06-05 |  | Embossing machine with a movable stamp box |
 | [DE460653](DE460653.md) | 1928-06-07 |  | Counter for typewriters |
 | [DE460573](DE460573.md) | 1928-06-08 | Chauveau, Louis Lucien Eugene | Schaltung zur elektrischen Fernsteuerung von Schreibmaschinen durch lange und kurze Stromstoesse gleichen Vorzeichens, die durch Pausen verschiedener Dauer getrennt sind |
-| [DE460998](DE460998.md) | 1928-06-09 |  | Inking device for types of typewriters and similar machines |
-| [DE460999](DE460999.md) | 1928-06-09 |  | Type inking device for writing and similar machines |
-| [DE460997](DE460997.md) | 1928-06-12 |  | Typewriter with a rotatable stop lever that can be moved in the path of the &hellip; |
+| [DE460998](DE460998.md) | 1928-06-09 | Ges, Feinmechanik G M B H | Inking device for types of typewriters and similar machines |
+| [DE460999](DE460999.md) | 1928-06-09 | Ges, Feinmechanik G M B H | Type inking device for writing and similar machines |
+| [DE460997](DE460997.md) | 1928-06-12 | Inc, Royal Typewriter Co | Typewriter with a rotatable stop lever that can be moved in the path of the &hellip; |
 | [DE461444](DE461444.md) | 1928-06-23 | Peeters, Henri | Key typewriter with a striking type cylinder |
 | [DE461539](DE461539.md) | 1928-06-25 |  | Typewriter |
 | [DE461557](DE461557.md) | 1928-06-25 |  | Typewriter with interchangeable type mechanism |
 | [DE461760](DE461760.md) | 1928-06-27 | Kaeppler, Paul | Arrangement of the lever, shafts and the switching shaft between them in &hellip; |
 | [DE461445](DE461445.md) | 1928-06-28 | Herlt, Franz | Method and device for the production of recessed characters for aligning the &hellip; |
-| [DE462057](DE462057.md) | 1928-07-04 |  | Schablonenblatt mit UEberzug- oder Traenkungsmasse zum Zweck der Vervielfaeltigung von Hand- oder Schreibmaschinenschrift, Zeichnungen usw |
-| [DE462093](DE462093.md) | 1928-07-04 |  | Roller guide for the paper cart of typewriters, typewriters and similar &hellip; |
+| [JP79080](JP79080.md) | 1928-06-29 | Toyama, Toshio | Japanese-script typewriter |
+| [DE462057](DE462057.md) | 1928-07-04 | D, Gestetner Ltd | Schablonenblatt mit UEberzug- oder Traenkungsmasse zum Zweck der Vervielfaeltigung von Hand- oder Schreibmaschinenschrift, Zeichnungen usw |
+| [DE462093](DE462093.md) | 1928-07-04 | Winklhofer, Wanderer Werke Vorm | Roller guide for the paper cart of typewriters, typewriters and similar &hellip; |
 | [DE462094](DE462094.md) | 1928-07-04 | Burkhardt, Robert | Device on typewriters for combining a main sheet and several account sheets |
-| [DE462095](DE462095.md) | 1928-07-04 |  | Paper holder for typewriters |
+| [DE462095](DE462095.md) | 1928-07-04 | Ag, Triumph Werke Nuernberg | Paper holder for typewriters |
 | [DE462096](DE462096.md) | 1928-07-04 | Liess, Andreas | Auxiliary device for type lever typewriters |
-| [DE462359](DE462359.md) | 1928-07-10 |  | Decimal tab for typewriters |
-| [DE462360](DE462360.md) | 1928-07-10 |  | Switching device for typewriters |
+| [JP79268](JP79268.md) | 1928-07-06 | Katō, Kenjirō | Typewriter for certificates |
+| [DE462359](DE462359.md) | 1928-07-10 | Ag, Triumph Werke Nuernberg | Decimal tab for typewriters |
+| [DE462360](DE462360.md) | 1928-07-10 | Inc, Royal Typewriter Co | Switching device for typewriters |
 | [DE462482](DE462482.md) | 1928-07-12 | Otto, Werner | Relais, insbesondere zur Strombegrenzung mit auf Quecksilber als Kontaktfluessigkeit wirkendem elektromagnetisch bewegten Verdraenger |
-| [DE462586](DE462586.md) | 1928-07-14 |  | Zeileneinstellvorrichtung fuer Belegzettel an Registrierkassen |
+| [JP80138](JP80138.md) | 1928-07-13 | Kataoka, Kōtarō | Japanese-script typewriter |
+| [DE462586](DE462586.md) | 1928-07-14 | Ges, Fried Krupp Akt | Zeileneinstellvorrichtung fuer Belegzettel an Registrierkassen |
 | [DE462656](DE462656.md) | 1928-07-14 | Kaeppler, Paul | Ribbon fork drive for typewriters |
 | [DE462684](DE462684.md) | 1928-07-14 | Geb, Weinitschke | Schreibende Rechenmaschine |
-| [DE462916](DE462916.md) | 1928-07-19 |  | Rueckfuehrungsvorrichtung fuer den Papierwagen an Rechenmaschinen und aehnlichen Maschinen |
+| [DE462916](DE462916.md) | 1928-07-19 | Winklhofer, Wanderer Werke Vorm | Rueckfuehrungsvorrichtung fuer den Papierwagen an Rechenmaschinen und aehnlichen Maschinen |
 | [DE463009](DE463009.md) | 1928-07-20 |  | Typewriter |
-| [DE463072](DE463072.md) | 1928-07-21 |  | Decimal tab for typewriters |
+| [DE463072](DE463072.md) | 1928-07-21 | Ag, Triumph Werke Nuernberg | Decimal tab for typewriters |
 | [DE463073](DE463073.md) | 1928-07-21 |  | Ribbon fork drive for power-driven typewriters |
-| [DE463228](DE463228.md) | 1928-07-24 |  | Typewriter, typesetting machine or the like. |
-| [DE463735](DE463735.md) | 1928-08-02 |  | Verfahren zur Herstellung von Druckstoecken |
+| [DE463228](DE463228.md) | 1928-07-24 | G, Typar Co A | Typewriter, typesetting machine or the like. |
+| [DE463735](DE463735.md) | 1928-08-02 | Ges, Siemens & Halske Akt | Verfahren zur Herstellung von Druckstoecken |
 | [DE463951](DE463951.md) | 1928-08-07 | Herlt, Franz | Device for attaching ribbons to ribbon spools for typewriters |
 | [DE463936](DE463936.md) | 1928-08-08 | Geb, Merz | Device for raising and lowering the ribbon fork of typewriters when changing &hellip; |
 | [DE463942](DE463942.md) | 1928-08-08 |  | Receipt typewriter and calculator |
-| [DE463978](DE463978.md) | 1928-08-09 | Machine, Ekron Adding | Nullendruckgetriebe fuer das Druckwerk von Addiermaschinen, Registrierkassen u. dgl. |
+| [DE463978](DE463978.md) | 1928-08-09 | Corp, Cash Register | Nullendruckgetriebe fuer das Druckwerk von Addiermaschinen, Registrierkassen u. dgl. |
 | [DE463977](DE463977.md) | 1928-08-10 |  | Date printing mechanism for ten-key calculating machines, in which the date is &hellip; |
-| [DE464195](DE464195.md) | 1928-08-15 |  | Tastenhebelregistrierkasse zum Drucken von Einzelbetraegen und Summen |
+| [DE464195](DE464195.md) | 1928-08-15 | Co, Ncr | Tastenhebelregistrierkasse zum Drucken von Einzelbetraegen und Summen |
 | [DE464401](DE464401.md) | 1928-08-16 | Chambon, Louis | Druckmaschine, insbesondere fuer Fahr- oder Eintrittsscheine, Quittungen u. dgl. |
-| [DE464196](DE464196.md) | 1928-08-17 |  | Druckvorrichtung fuer Registrierkassen |
-| [DE464581](DE464581.md) | 1928-08-20 |  | Einstellvorrichtung fuer Druckwerke und aehnliche Registriervorrichtungen an Registrierkassen u. dgl. |
-| [DE464934](DE464934.md) | 1928-08-31 |  | Table writing device for typewriters |
-| [DE464936](DE464936.md) | 1928-08-31 |  | Typewriter, especially for accounting work |
-| [DE464935](DE464935.md) | 1928-09-01 |  | Line switch for typewriters |
-| [DE464939](DE464939.md) | 1928-09-03 |  | Damping device for type bar typewriters |
+| [DE464196](DE464196.md) | 1928-08-17 | Co, Ncr | Druckvorrichtung fuer Registrierkassen |
+| [DE464581](DE464581.md) | 1928-08-20 | Co, Ncr | Einstellvorrichtung fuer Druckwerke und aehnliche Registriervorrichtungen an Registrierkassen u. dgl. |
+| [JP79071](JP79071.md) | 1928-08-22 | Shimada, Minokichi | Japanese-script typewriter |
+| [DE464934](DE464934.md) | 1928-08-31 | G, A E G Deutsche Werke A | Table writing device for typewriters |
+| [DE464936](DE464936.md) | 1928-08-31 | Ag, Triumph Werke Nuernberg | Typewriter, especially for accounting work |
+| [DE464935](DE464935.md) | 1928-09-01 | Co, Underwood Elliott Fisher | Line switch for typewriters |
+| [DE464939](DE464939.md) | 1928-09-03 | H, Adlerwerke Kleyer Ag | Damping device for type bar typewriters |
 | [DE464933](DE464933.md) | 1928-09-04 | Heimrich, Rupert William | typewriter |
-| [DE464937](DE464937.md) | 1928-09-04 |  | Typewriter for writing on bundles of paper |
+| [DE464937](DE464937.md) | 1928-09-04 | Co, Underwood Elliott Fisher | Typewriter for writing on bundles of paper |
 | [DE464938](DE464938.md) | 1928-09-06 | Buerger, Gustav | Elastic key for typewriters and similar machines |
 | [DE465255](DE465255.md) | 1928-09-12 |  | Device for automatic switching of the ink ribbon in rotary type printers using sensor elements |
 | [DE465260](DE465260.md) | 1928-09-12 | Kaeppler, Paul | Device for switching the driver-controlled car on typewriters |
 | [DE465261](DE465261.md) | 1928-09-12 | Schmid, August | Sound-absorbing typewriter roller |
-| [DE465262](DE465262.md) | 1928-09-12 |  | Device for the automatic reversal of the ribbon length movement for typewriters &hellip; |
+| [DE465262](DE465262.md) | 1928-09-12 | G, A E G Deutsche Werke A | Device for the automatic reversal of the ribbon length movement for typewriters &hellip; |
 | [DE465299](DE465299.md) | 1928-09-15 | Kassner, Ernst | Ribbon guide for cash registers, calculating machines, etc. like |
-| [DE465427](DE465427.md) | 1928-09-17 |  | Typewriter with tabulator and power drive for automatic return of the car |
-| [DE465500](DE465500.md) | 1928-09-19 |  | Paper roll unwinding device for typewriters u. like |
-| [DE465573](DE465573.md) | 1928-09-20 |  | Drive device for the type lever of typewriters |
+| [DE465427](DE465427.md) | 1928-09-17 | Co, Remington Typewriter | Typewriter with tabulator and power drive for automatic return of the car |
+| [DE465500](DE465500.md) | 1928-09-19 | Winklhofer, Wanderer Werke Vorm | Paper roll unwinding device for typewriters u. like |
+| [JP79547](JP79547.md) | 1928-09-19 | Shimada, Minokichi | Cylindrical type magazine for a Japanese-script typewriter |
+| [DE465573](DE465573.md) | 1928-09-20 | Inc, Royal Typewriter Co | Drive device for the type lever of typewriters |
 | [DE465575](DE465575.md) | 1928-09-20 | Kaeppler, Paul | Lightweight typewriter |
-| [DE465574](DE465574.md) | 1928-09-22 |  | Bureau machine with manual and power drive |
-| [DE465922](DE465922.md) | 1928-09-28 |  | Geheimschrift-Schreibmaschine mit Zeichenfeld, Einstellzeiger und Typenwalze |
+| [DE465574](DE465574.md) | 1928-09-22 | Ag, Triumph Werke Nuernberg | Bureau machine with manual and power drive |
+| [DE465922](DE465922.md) | 1928-09-28 | G, A E G Deutsche Werke A | Geheimschrift-Schreibmaschine mit Zeichenfeld, Einstellzeiger und Typenwalze |
 | [DE465928](DE465928.md) | 1928-09-28 |  | Switching device for typewriters in which the type levers are equipped with a &hellip; |
 | [DE465929](DE465929.md) | 1928-09-28 | Madjaroff, Abrahim | Paper slide switching device for typewriters with Turkish-Arabic script |
-| [DE465930](DE465930.md) | 1928-09-28 |  | Paper guide for typewriters |
+| [DE465930](DE465930.md) | 1928-09-28 | Inc, Royal Typewriter Co | Paper guide for typewriters |
 | [DE466313](DE466313.md) | 1928-10-04 | Geb, Merz | Easy car switching for typewriters |
 | [DE466314](DE466314.md) | 1928-10-04 |  | typewriter |
-| [DE466555](DE466555.md) | 1928-10-09 |  | Tastatur fuer Rechenmaschinen |
+| [DE466555](DE466555.md) | 1928-10-09 | Winklhofer, Wanderer Werke Vorm | Tastatur fuer Rechenmaschinen |
 | [DE466818](DE466818.md) | 1928-10-13 | Kaftanski, Alfons | Hand-held device for writing notes |
 | [DE466820](DE466820.md) | 1928-10-13 | Kaeppler, Paul | Device for typewriters, writing calculators and similar machines for the &hellip; |
 | [DE467001](DE467001.md) | 1928-10-15 | Paun, Otto | Schreibmaschinentisch mit Versenkeinrichtung |
@@ -7967,319 +8035,333 @@ Every patent in the library, oldest first.
 | [DE467276](DE467276.md) | 1928-10-22 | Kern, Georg | Ribbon spool for typewriters |
 | [DE467438](DE467438.md) | 1928-10-25 | W, Mueller Fa | Elastische Motorantriebsvorrichtung fuer das Rechenwerk und die Zifferntypenhebel einer Rechenschreibmaschine |
 | [DE467569](DE467569.md) | 1928-10-28 |  | Storage and control of the ribbons in electric multiple pens |
-| [DE467735](DE467735.md) | 1928-10-31 |  | Typewriter with type bars, which are guided to the print point by the &hellip; |
+| [DE467735](DE467735.md) | 1928-10-31 | Co, Remington Typewriter | Typewriter with type bars, which are guided to the print point by the &hellip; |
 | [DE468405](DE468405.md) | 1928-11-12 | Maschinenbau, Adrema | Praegemaschine fuer die aus duennem Blech bestehenden Adressdruckplatten von Adressendruckmaschinen mit einem Kniehebelpraegegestaenge |
-| [DE468361](DE468361.md) | 1928-11-13 |  | Druckvorrichtung fuer Registrierkassen zum Bedrucken eines Kontrollstreifens sowie zweier Druckbelege, z. B. einer Kontokarte und eines Kontobuchs |
-| [DE468429](DE468429.md) | 1928-11-13 |  | Lining device, especially for tabulating machines |
+| [DE468361](DE468361.md) | 1928-11-13 | Co, Ncr | Druckvorrichtung fuer Registrierkassen zum Bedrucken eines Kontrollstreifens sowie zweier Druckbelege, z. B. einer Kontokarte und eines Kontobuchs |
+| [DE468429](DE468429.md) | 1928-11-13 | Ges, Siemens & Halske Akt | Lining device, especially for tabulating machines |
 | [DE468437](DE468437.md) | 1928-11-13 | Etablisse, Pathe Cinema Anciens | Filmkassette fuer Aufnahmekinos |
-| [DE468552](DE468552.md) | 1928-11-17 |  | Sound-absorbing housing for typewriters |
+| [DE468552](DE468552.md) | 1928-11-17 | Co, Underwood Typewriter | Sound-absorbing housing for typewriters |
 | [DE468625](DE468625.md) | 1928-11-19 | Koehler, Max | Shorthand |
+| [JP80679](JP80679.md) | 1928-11-23 | Shimada, Minokichi | Printing device for a Japanese-script typewriter |
 | [DE469041](DE469041.md) | 1928-11-29 | Milkiewicz, Jakob | Key button for typing, calculating and similar machines and apparatus |
-| [DE469130](DE469130.md) | 1928-12-03 |  | Paper guide for typewriters |
-| [DE469129](DE469129.md) | 1928-12-04 |  | Card guide device for typewriters |
+| [DE469130](DE469130.md) | 1928-12-03 | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters |
+| [DE469129](DE469129.md) | 1928-12-04 | Inc, Royal Typewriter Co | Card guide device for typewriters |
 | [DE469294](DE469294.md) | 1928-12-06 | Bergmann, Jean | Rechenvorrichtung mit Druckvorrichtung, Einstell- und Kontrollgliedern |
 | [DE469382](DE469382.md) | 1928-12-08 | Zangenberg, Ludwig Walther | Paper carriage switching device for typewriters |
+| [JP81180](JP81180.md) | 1928-12-10 | Inoue, Jin | Continuous copying device for typewriters |
 | [DE469383](DE469383.md) | 1928-12-14 | Post, Otto | Winding and tensioning device for paper webs on typewriters and calculating &hellip; |
+| [JP81625](JP81625.md) | 1928-12-14 | Kataoka, Kōtarō | Sideways-feed device for a Japanese-script typewriter |
 | [DE469608](DE469608.md) | 1928-12-18 | Persson, Gottfrid | Einrichtung zum geraeuschlosen Zurueckfuehren des Papierschlittens von Schreibmaschinen |
 | [DE469705](DE469705.md) | 1928-12-18 | Pinckert, Friedrich | Vorrichtung zum Pruefen von Kohlepapier und Farbbaendern |
 | [DE469811](DE469811.md) | 1928-12-21 | Geoffrey, Wheeler | Verfahren zur Behandlung photographischer Silberbilder auf Platten, Filmen o. dgl. |
 | [DE469841](DE469841.md) | 1928-12-22 | Mahler, Marie Antonie | Bow jig for typewriters for braille |
 | [DE470319](DE470319.md) | 1929-01-11 |  | Device for setting the writing mechanism of flat printing typewriters to any &hellip; |
+| [JP81968](JP81968.md) | 1929-01-15 | Kimura, Monji | Japanese-script typewriter |
 | [DE470489](DE470489.md) | 1929-01-18 | Mueller, Arthur | Beleuchtungskoerper, insbesondere fuer Schreibmaschinen, mit Festklemmvorrichtung |
 | [DE469128](DE469128.md) | 1929-01-28 | Loewenbuck, Sebastian | Type wheel typewriter |
 | [DE470803](DE470803.md) | 1929-01-30 | Hunger, Hermann | Typewriter keyboard |
-| [DE471256](DE471256.md) | 1929-01-30 |  | Type lever bearing with used buffer ring for typewriters |
+| [DE471256](DE471256.md) | 1929-01-30 | Ag, Vorm Seidel & Naumann | Type lever bearing with used buffer ring for typewriters |
 | [DE471169](DE471169.md) | 1929-01-31 |  | Removable auxiliary device for the keyboard of typewriters, calculating or recording machines |
-| [DE470938](DE470938.md) | 1929-02-02 |  | Line switch for typewriters |
-| [DE471270](DE471270.md) | 1929-02-09 |  | Device on typewriters for writing on stencils |
+| [DE470938](DE470938.md) | 1929-02-02 | Ag, Triumph Werke Nuernberg | Line switch for typewriters |
+| [DE471270](DE471270.md) | 1929-02-09 | Ag, Vorm Seidel & Naumann | Device on typewriters for writing on stencils |
 | [DE471735](DE471735.md) | 1929-02-14 |  | Rotary type printer, on the type drum of which an address printing plate is detachably attached |
 | [DE471882](DE471882.md) | 1929-02-16 | Strehl, Carl | Typewriter for braille |
-| [DE471883](DE471883.md) | 1929-02-16 |  | Two-part edge stop for the paper trolley of typewriters and similar machines |
+| [DE471883](DE471883.md) | 1929-02-16 | G, Weilwerke A | Two-part edge stop for the paper trolley of typewriters and similar machines |
 | [DE459534](DE459534.md) | 1929-02-17 |  | Drive mechanism for typewriters |
 | [DE459536](DE459536.md) | 1929-02-19 | Mueller, Gottfried Max | Mechanischer Antrieb fuer Rechenmaschinen, insbesondere fuer Sprossenradrechenmaschinen |
 | [DE472151](DE472151.md) | 1929-02-25 |  | Durch Lochkarten gesteuerte Tabelliermaschine |
 | [DE472561](DE472561.md) | 1929-03-02 | Mueller, Wessel & | Deckelstuetze, insbesondere fuer Sprechmaschinengehaeuse |
-| [DE472664](DE472664.md) | 1929-03-04 |  | Registrierkasse mit einfacher und doppelter Scheckausgabe |
+| [DE472664](DE472664.md) | 1929-03-04 | Ag, Anker Werke | Registrierkasse mit einfacher und doppelter Scheckausgabe |
 | [DE472706](DE472706.md) | 1929-03-04 | M, Hentzschel Elektro Bucher G | Elektrische Ferneinstellvorrichtung fuer Datumraedchen |
+| [JP82670](JP82670.md) | 1929-03-06 | Uchiyama, inventors Michirō | Character-spacing adjusting device for a Japanese-script typewriter |
 | [DE472983](DE472983.md) | 1929-03-08 |  | Typewriter |
-| [DE473035](DE473035.md) | 1929-03-09 |  | Switching device for the paper trolley of typewriters |
-| [DE474083](DE474083.md) | 1929-03-26 |  | Transport lock for typewriters |
-| [DE473945](DE473945.md) | 1929-03-28 |  | Kurvenscheibe mit verstellbarer Schubkurve und Vorrichtung zur Einstellung der Schubkurve |
-| [DE474562](DE474562.md) | 1929-04-05 |  | Paper support plate with an upper part that can be folded back to expose the &hellip; |
+| [DE473035](DE473035.md) | 1929-03-09 | B, Elek Sche Schreibmaschinen M | Switching device for the paper trolley of typewriters |
+| [DE474083](DE474083.md) | 1929-03-26 | G, Bing Werke Vorm Gebr Bing A | Transport lock for typewriters |
+| [DE473945](DE473945.md) | 1929-03-28 | App, Beldam Werke Maschinen Und | Kurvenscheibe mit verstellbarer Schubkurve und Vorrichtung zur Einstellung der Schubkurve |
+| [DE474562](DE474562.md) | 1929-04-05 | Inc, Royal Typewriter Co | Paper support plate with an upper part that can be folded back to expose the &hellip; |
 | [DE474865](DE474865.md) | 1929-04-10 | Blaesing, Heinrich | Template holder for office machines |
 | [DE474866](DE474866.md) | 1929-04-11 | Blaesing, Heinrich | Template holder for office machines with a line indicator arranged on a slide &hellip; |
 | [DE474867](DE474867.md) | 1929-04-11 | Blaesing, Heinrich | Page turner for document holder |
-| [DE474863](DE474863.md) | 1929-04-12 |  | Type lever drive for typewriters |
-| [DE474864](DE474864.md) | 1929-04-12 |  | Ribbon made from matted plant fibers |
+| [DE474863](DE474863.md) | 1929-04-12 | Winklhofer, Wanderer Werke Vorm | Type lever drive for typewriters |
+| [DE474864](DE474864.md) | 1929-04-12 | Corp, Standard Products | Ribbon made from matted plant fibers |
 | [DE475078](DE475078.md) | 1929-04-18 | Asher, Harry | Federnder, aus Blech gedrueckter, anschraubbarer Moebelfuss |
-| [DE475239](DE475239.md) | 1929-04-22 |  | Card holder for typewriters |
-| [DE475501](DE475501.md) | 1929-04-26 |  | Druckvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
-| [DE475672](DE475672.md) | 1929-04-29 |  | Typewriter with the guide rail for the car and the car switchgear receiving, &hellip; |
+| [DE475239](DE475239.md) | 1929-04-22 | Inc, Royal Typewriter Co | Card holder for typewriters |
+| [DE475501](DE475501.md) | 1929-04-26 | Co, Ncr | Druckvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
+| [DE475672](DE475672.md) | 1929-04-29 | Co, Underwood Elliott Fisher | Typewriter with the guide rail for the car and the car switchgear receiving, &hellip; |
 | [DE475673](DE475673.md) | 1929-04-30 | Kaeppler, Paul | Type lever rest bearing |
 | [DE475955](DE475955.md) | 1929-05-04 | Kaeppler, Paul | Connection of writing, calculating and similar machines to the floor board &hellip; |
 | [DE476340](DE476340.md) | 1929-05-15 | Keining, Gustav | Shorthand typewriter |
 | [DE476341](DE476341.md) | 1929-05-15 | Kaeppler, Paul | Line switching device for typewriters with an inclined type lever segment |
-| [DE476734](DE476734.md) | 1929-05-23 |  | Paper guide for typewriters |
+| [DE476734](DE476734.md) | 1929-05-23 | Inc, Royal Typewriter Co | Paper guide for typewriters |
 | [DE476733](DE476733.md) | 1929-05-24 | Verlags, Athenaeum | Note typewriter with type carrier that can be moved in the direction of the &hellip; |
-| [DE476784](DE476784.md) | 1929-05-25 |  | Installation of typewriters to prevent jamming of the paper carriage provided &hellip; |
-| [DE476977](DE476977.md) | 1929-05-29 |  | Table writing device for typewriters |
+| [DE476784](DE476784.md) | 1929-05-25 | Winklhofer, Wanderer Werke Vorm | Installation of typewriters to prevent jamming of the paper carriage provided &hellip; |
+| [DE476977](DE476977.md) | 1929-05-29 | Winklhofer, Wanderer Werke Vorm | Table writing device for typewriters |
 | [DE476957](DE476957.md) | 1929-05-30 | Mayer, Paul O | Type wheel typewriter |
 | [DE477000](DE477000.md) | 1929-05-30 |  | Typewriter with automatic blank control |
 | [DE477001](DE477001.md) | 1929-05-30 |  | Counter drive for typewriters |
-| [DE476621](DE476621.md) | 1929-06-04 |  | Druckvorrichtung fuer Registrierkassen mit einem einzigen Typenraedersatz zum Drucken von Einzelposten, Einzel-, Zwischen- und Endsummen |
+| [DE476621](DE476621.md) | 1929-06-04 | Co, Ncr | Druckvorrichtung fuer Registrierkassen mit einem einzigen Typenraedersatz zum Drucken von Einzelposten, Einzel-, Zwischen- und Endsummen |
 | [DE477247](DE477247.md) | 1929-06-04 | Vollmer, John | Zetteleinlegevorrichtung an Registrierkassen |
 | [DE477112](DE477112.md) | 1929-06-05 | Maschf, Rheinische Metallw & | Device on typewriters for reversing the direction of movement of the paper &hellip; |
 | [DE477380](DE477380.md) | 1929-06-06 | Jun, Adolf Zoellin | Vorrichtung zum Auf- oder Abwickeln von Papierstreifen in stets gleichbleibenden Wegstrecken, z. B. bei Registrierkassen oder bei Schalterfahrkartendruckern |
 | [DE477191](DE477191.md) | 1929-06-07 | Gansert, Hermann | Registrierkasse mit drehbarem Typenkopf und seitlich verschiebbarem Papierstreifentraeger |
 | [DE477459](DE477459.md) | 1929-06-08 | Keller, Hermann | Rechnende Schreibmaschine |
+| [JP83663](JP83663.md) | 1929-06-11 | Uchiyama, inventors Michirō | Paper-cylinder fine-shift and character-spacing adjusting device for a Japanese-script typewriter |
+| [JP83146](JP83146.md) | 1929-06-14 | Iguchi, Ihei | Copying device for a typewriter |
 | [DE477964](DE477964.md) | 1929-06-18 | Bessler, August | Druckwerk fuer Registrierkassen |
 | [DE478036](DE478036.md) | 1929-06-19 |  | Electric type printer with tiltable type wheel |
 | [DE477866](DE477866.md) | 1929-06-21 |  | Correction and non-writing device on typewriters |
-| [DE477837](DE477837.md) | 1929-06-22 |  | Registrierkasse |
-| [DE478326](DE478326.md) | 1929-06-24 |  | Elektrische Beleuchtungseinrichtung mit Manuskripthalter fuer Schreibmaschinen |
-| [DE478334](DE478334.md) | 1929-06-24 |  | Device for releasing the clutch of the ratchet wheel with the paper trolley &hellip; |
-| [DE478656](DE478656.md) | 1929-06-29 |  | Paper guiding device for typewriters or the like. |
-| [DE478655](DE478655.md) | 1929-07-01 |  | Carriage guide for typewriters with a round bar |
-| [DE478920](DE478920.md) | 1929-07-04 |  | Side support for typewriters with a long platen |
-| [DE478821](DE478821.md) | 1929-07-09 |  | Registrierkasse mit zylindrischem Tastenfeld und einer durch Sondertasten beeinflussten Druckvorrichtung zur wahlweise erfolgenden Ausgabe eines Schecks oder einer Rechnung |
+| [DE477837](DE477837.md) | 1929-06-22 | Inc, Remington Arms Co | Registrierkasse |
+| [DE478326](DE478326.md) | 1929-06-24 | B, Elek Sche Schreibmaschinen M | Elektrische Beleuchtungseinrichtung mit Manuskripthalter fuer Schreibmaschinen |
+| [DE478334](DE478334.md) | 1929-06-24 | Ag, Triumph Werke Nuernberg | Device for releasing the clutch of the ratchet wheel with the paper trolley &hellip; |
+| [DE478656](DE478656.md) | 1929-06-29 | Werke, Mercedes Bueromaschinen | Paper guiding device for typewriters or the like. |
+| [DE478655](DE478655.md) | 1929-07-01 | Winklhofer, Wanderer Werke Vorm | Carriage guide for typewriters with a round bar |
+| [DE478920](DE478920.md) | 1929-07-04 | Winklhofer, Wanderer Werke Vorm | Side support for typewriters with a long platen |
+| [JP83937](JP83937.md) | 1929-07-05 | Katō, Kenjirō | Feed device for a typewriter |
+| [DE478821](DE478821.md) | 1929-07-09 | Co, Ncr | Registrierkasse mit zylindrischem Tastenfeld und einer durch Sondertasten beeinflussten Druckvorrichtung zur wahlweise erfolgenden Ausgabe eines Schecks oder einer Rechnung |
 | [DE479530](DE479530.md) | 1929-07-17 |  | Typewriter |
-| [DE479848](DE479848.md) | 1929-07-23 |  | Typewriter, in which the paper roller carriage is moved back to the starting &hellip; |
+| [DE479848](DE479848.md) | 1929-07-23 | Co, Underwood Elliott Fisher | Typewriter, in which the paper roller carriage is moved back to the starting &hellip; |
 | [DE479846](DE479846.md) | 1929-07-24 |  | Rotary printer, the type drum of which carries a standing text set and an exchangeable address printing plate |
 | [DE479847](DE479847.md) | 1929-07-24 | Wallenstein, Alfred | Switching device for the paper roll of typewriters |
 | [DE480104](DE480104.md) | 1929-07-27 | Kirchbach, Achim V | Device for typewriters to secure the writing limit on the lower sheet edge |
 | [DE480446](DE480446.md) | 1929-08-01 | Radermacher, August | Druckvorrichtung fuer Registrierkassen |
-| [DE480445](DE480445.md) | 1929-08-02 |  | Schreibrechenmaschine |
+| [DE480445](DE480445.md) | 1929-08-02 | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine |
 | [DE480689](DE480689.md) | 1929-08-06 | Kemlein, Harald | Device on typewriters for inserting and removing cards of any height to be &hellip; |
 | [DE480584](DE480584.md) | 1929-08-12 | Industrieges, Sig Schweiz | Vorrichtung zum Zerschneiden von durch Greifer absatzweise gefoerderten fortlaufenden Bahnen |
 | [DE481353](DE481353.md) | 1929-08-19 | Radermacher, August | Druckwerk an Registrierkassen mit einer Fuehlvorrichtung fuer den Druckzettel |
-| [DE481481](DE481481.md) | 1929-08-28 |  | Registrierkassen-Druckwerk |
+| [DE481481](DE481481.md) | 1929-08-28 | Co, Ncr | Registrierkassen-Druckwerk |
 | [DE482069](DE482069.md) | 1929-09-03 | Heinichen, Walter | Bodenbrett aus Holz fuer Schreibmaschinenkoffer |
-| [DE482192](DE482192.md) | 1929-09-09 |  | Keyboard for typewriters, typesetting machines or the like. |
+| [DE482192](DE482192.md) | 1929-09-09 | G, Typar Co A | Keyboard for typewriters, typesetting machines or the like. |
 | [DE482194](DE482194.md) | 1929-09-09 | Kaeppler, Paul | Typewriter with carriage switching |
 | [DE482195](DE482195.md) | 1929-09-09 | F, Naehmaschinen Und Fahrraeder | Switching device for the paper trolley of typewriters of compact design |
-| [DE482196](DE482196.md) | 1929-09-09 |  | Line switch for typewriters |
+| [DE482196](DE482196.md) | 1929-09-09 | Ag, Triumph Werke Nuernberg | Line switch for typewriters |
 | [DE482197](DE482197.md) | 1929-09-09 | Wallenstein, Alfred | Paper roller clutch for typewriters |
 | [DE482199](DE482199.md) | 1929-09-09 | Kaeppler, Paul | Paper trolleys for typewriters |
 | [DE482193](DE482193.md) | 1929-09-10 | Kaeppler, Paul | Typewriter with an inclined type lever segment |
 | [DE482198](DE482198.md) | 1929-09-10 | Geb, Merz | Glockenhammerantrieb fuer Schreibmaschinen |
 | [DE482201](DE482201.md) | 1929-09-10 | Liess, Andreas | Type lever typewriter |
-| [DE482274](DE482274.md) | 1929-09-11 |  | Paper guide for typewriters |
-| [DE482350](DE482350.md) | 1929-09-12 |  | Ribbon of paper for typewriters |
+| [DE482274](DE482274.md) | 1929-09-11 | Inc, Royal Typewriter Comp | Paper guide for typewriters |
+| [DE482350](DE482350.md) | 1929-09-12 | Corp, Standard Products | Ribbon of paper for typewriters |
 | [DE482200](DE482200.md) | 1929-09-14 | Milling, Hans | Device for the production of copies on typewriters and calculating machines by &hellip; |
-| [DE482527](DE482527.md) | 1929-09-16 |  | Latching device for typewriters |
-| [DE482752](DE482752.md) | 1929-09-19 |  | Device for adjusting the paper roll of typewriters with switchable paper roll |
-| [DE482753](DE482753.md) | 1929-09-19 |  | Card holder for typewriters |
+| [DE482527](DE482527.md) | 1929-09-16 | Werke, Mercedes Bueromaschinen | Latching device for typewriters |
+| [DE482752](DE482752.md) | 1929-09-19 | Inc, Royal Typewriter Co | Device for adjusting the paper roll of typewriters with switchable paper roll |
+| [DE482753](DE482753.md) | 1929-09-19 | Inc, Royal Typewriter Co | Card holder for typewriters |
 | [DE482767](DE482767.md) | 1929-09-19 |  | Typewriter |
 | [DE482658](DE482658.md) | 1929-09-23 | Lindahl, Anders | Schreibvorrichtung fuer Rechenmaschinen |
-| [DE483167](DE483167.md) | 1929-09-26 |  | Antriebsvorrichtung fuer Schreibrechenmaschinen und aehnliche Maschinen |
-| [DE483410](DE483410.md) | 1929-09-28 |  | Drive for line typewriters |
-| [DE483249](DE483249.md) | 1929-10-02 |  | Druckwerk fuer Rechenmaschinen |
+| [DE483167](DE483167.md) | 1929-09-26 | Winklhofer, Wanderer Werke Vorm | Antriebsvorrichtung fuer Schreibrechenmaschinen und aehnliche Maschinen |
+| [DE483410](DE483410.md) | 1929-09-28 | G, Typar Co A | Drive for line typewriters |
+| [DE483249](DE483249.md) | 1929-10-02 | Co, Burroughs Adding Machine | Druckwerk fuer Rechenmaschinen |
 | [DE483642](DE483642.md) | 1929-10-03 | Milling, Hans | Device for holding collective sheets in typewriters and calculating machines |
 | [DE483940](DE483940.md) | 1929-10-07 | Wallenstein, Alfred | Type lever for typewriters |
+| [JP86009](JP86009.md) | 1929-10-11 | Shimada, Minokichi | Japanese-script typewriter |
 | [DE483927](DE483927.md) | 1929-10-14 | D, Maschines A Ecrire Map Soc | Paper carriage switching device for typewriters |
-| [DE484001](DE484001.md) | 1929-10-15 |  | Chiffriereinrichtung mit periodischem Wechsel der Grundstellung fuer Schreibmaschinen mit Typenfeld, Einstellzeiger und Typenwalze |
+| [DE484001](DE484001.md) | 1929-10-15 | G, A E G Deutsche Werke A | Chiffriereinrichtung mit periodischem Wechsel der Grundstellung fuer Schreibmaschinen mit Typenfeld, Einstellzeiger und Typenwalze |
 | [DE485014](DE485014.md) | 1929-10-24 |  | Printing unit, especially for tabulating machines |
 | [DE485157](DE485157.md) | 1929-10-26 |  | Drive and control mechanism for the arithmetic unit of typewriters |
 | [DE485374](DE485374.md) | 1929-10-30 | Verlags, Athenaeum | Workbench for note typewriters |
 | [DE485375](DE485375.md) | 1929-10-30 | Verlags, Athenaeum | Type arrangement for note typewriters |
-| [DE486353](DE486353.md) | 1929-11-13 |  | Table writer |
-| [DE486376](DE486376.md) | 1929-11-15 |  | Federhaus-Aufwickeltrommel fuer das Wagenzugorgan von Rechenmaschinen und aehnlichenMaschinen |
+| [DE486353](DE486353.md) | 1929-11-13 | Werke, Mercedes Bueromaschinen | Table writer |
+| [DE486376](DE486376.md) | 1929-11-15 | Winklhofer, Wanderer Werke Vorm | Federhaus-Aufwickeltrommel fuer das Wagenzugorgan von Rechenmaschinen und aehnlichenMaschinen |
 | [DE486352](DE486352.md) | 1929-11-16 |  | Device for moving the writing plate of typewriters |
 | [DE486847](DE486847.md) | 1929-11-25 | Tepest, Theodor | Druckhammerantrieb fuer Registrierkassen |
 | [DE486867](DE486867.md) | 1929-11-27 | Blaesing, Heinrich | Template holder for office machines |
 | [DE486629](DE486629.md) | 1929-11-28 | Julien, Heinrich | Elektrische Schaltvorrichtung zur Vorfuehrung wechselnder Leuchtschriftzeichen mittels einer Schreibmaschine |
 | [DE487336](DE487336.md) | 1929-12-07 | Hohein, George Cornelius | Manuscript holder |
 | [DE487472](DE487472.md) | 1929-12-07 |  | Device on typewriters for setting the arithmetic unit for the usual registration and writing processes |
-| [DE487475](DE487475.md) | 1929-12-07 |  | Printing unit for calculating machines |
+| [DE487475](DE487475.md) | 1929-12-07 | Winklhofer, Wanderer Werke Vorm | Printing unit for calculating machines |
 | [DE487532](DE487532.md) | 1929-12-07 | Hoffmann, Wilhelm August | Card holder adjustable line by line by means of the paper roller of typewriters |
 | [DE487531](DE487531.md) | 1929-12-09 | Kaeppler, Paul | Schalteinrichtung |
-| [DE487533](DE487533.md) | 1929-12-09 |  | Ribbon spool holder for typewriters |
-| [DE487534](DE487534.md) | 1929-12-09 |  | Pad for writing and similar machines |
+| [DE487533](DE487533.md) | 1929-12-09 | Inc, Royal Typewriter Co | Ribbon spool holder for typewriters |
+| [DE487534](DE487534.md) | 1929-12-09 | G, Liga Gummiwerke A | Pad for writing and similar machines |
 | [DE487874](DE487874.md) | 1929-12-18 | Luce, Hans | Type lever typewriter with two groups of characters each containing two types &hellip; |
 | [DE487845](DE487845.md) | 1929-12-21 |  | Shooter drive for ribbon looms |
-| [DE487857](DE487857.md) | 1929-12-21 |  | Registrierkasse zum Drucken von Einzelbetraegen, Zwischen- und Endsummen |
-| [DE488275](DE488275.md) | 1929-12-24 |  | Key arrangement for typewriters |
-| [DE488360](DE488360.md) | 1929-12-24 |  | Vorrichtung zum Abbuersten und Absaugen des Staubes von beiden Seiten einer zu bedruckenden Papierbahn |
+| [DE487857](DE487857.md) | 1929-12-21 | Co, Ncr | Registrierkasse zum Drucken von Einzelbetraegen, Zwischen- und Endsummen |
+| [DE488275](DE488275.md) | 1929-12-24 | B, Elek Sche Schreibmaschinen M | Key arrangement for typewriters |
+| [DE488360](DE488360.md) | 1929-12-24 | Ges, Ullstein Akt | Vorrichtung zum Abbuersten und Absaugen des Staubes von beiden Seiten einer zu bedruckenden Papierbahn |
 | [DE488894](DE488894.md) | 1930-01-08 | Rundstatler, Gust | Note typewriter |
 | [DE489190](DE489190.md) | 1930-01-14 | Blaesing, Heinrich | Font holder for typewriters u. like |
 | [DE489650](DE489650.md) | 1930-01-21 | Arondel, Maurice Leon | Typewriter with type rods that are moved in a straight line radially to the &hellip; |
 | [DE490150](DE490150.md) | 1930-01-23 | Schlesinger, Alfred | Verfahren zur Herstellung von kopierfaehigen Vorlagen mit negativer Schreibmaschinenschrift oder Buchdrucksatz und Wachsmatrize |
 | [DE489562](DE489562.md) | 1930-01-24 | Zinn, Julius | Font holder for typewriters |
-| [DE490610](DE490610.md) | 1930-02-01 |  | Schreibrechenmaschine, Rechenmaschine o. dgl. mit Einrichtungen fuer den Abdruck vondie Nullstellung der Zaehlwerke anzeigenden Klarzeichen |
+| [DE490610](DE490610.md) | 1930-02-01 | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine, Rechenmaschine o. dgl. mit Einrichtungen fuer den Abdruck vondie Nullstellung der Zaehlwerke anzeigenden Klarzeichen |
 | [DE490565](DE490565.md) | 1930-02-03 | Zangenberg, Ludwig Walter | Paper carriage switching device for typewriters |
-| [DE490926](DE490926.md) | 1930-02-03 |  | Vorrichtung zur Verhinderung des Typenabdrucks an Schreibrechenmaschinen |
-| [DE490846](DE490846.md) | 1930-02-10 |  | Paper and ribbon circuit for calculating machines or the like. |
+| [DE490926](DE490926.md) | 1930-02-03 | Werke, Mercedes Bueromaschinen | Vorrichtung zur Verhinderung des Typenabdrucks an Schreibrechenmaschinen |
+| [DE490846](DE490846.md) | 1930-02-10 | Co, Burroughs Adding Machine | Paper and ribbon circuit for calculating machines or the like. |
 | [DE491397](DE491397.md) | 1930-02-10 | Poppe, Kurt | Zeilenweise schreibende Bueromaschine, z. B. Lochkarten-Tabelliermaschine, mit Druckwerk |
 | [DE491038](DE491038.md) | 1930-02-13 | Muelzel, Wilhelm | Selbsttaetige Nulleinstellung fuer schreibende Rechenmaschinen |
 | [DE491493](DE491493.md) | 1930-02-13 | Eibert, Fritz | Eraser stencil for typewriters |
 | [DE491631](DE491631.md) | 1930-02-14 | Willmann, Hans | Vorrichtung zur Sperrung der umlaufenden Teile an Rechenmaschinen |
 | [DE492009](DE492009.md) | 1930-02-15 |  | Control device for setting the type of calculation of transverse counters in typewriters |
-| [DE492069](DE492069.md) | 1930-02-15 |  | Typewriter frame |
+| [DE492069](DE492069.md) | 1930-02-15 | B, Elek Sche Schreibmaschinen M | Typewriter frame |
 | [DE492836](DE492836.md) | 1930-02-27 | Geb, Merz | Car lock for typewriters |
-| [DE492950](DE492950.md) | 1930-03-01 |  | Registrierkasse zum Drucken von Einzelbetraegen, Zwischen- und Endsummen mit mehreren Addier- und Sonderzaehlwerken |
-| [DE492951](DE492951.md) | 1930-03-01 |  | Schaltvorrichtung fuer den Kontrollstreifen von Registrierkassen |
-| [DE492966](DE492966.md) | 1930-03-01 |  | Drive for the ribbon fork of typewriters |
-| [DE492967](DE492967.md) | 1930-03-01 |  | Manuscript holder for typewriters, especially for heavy manuscripts, books, &hellip; |
-| [DE492962](DE492962.md) | 1930-03-03 |  | Adjustment device for the switch frame of typewriters |
-| [DE492963](DE492963.md) | 1930-03-04 |  | Downshift device for typewriters |
-| [DE492964](DE492964.md) | 1930-03-05 |  | Zeilensperrovrrichtung |
-| [DE492965](DE492965.md) | 1930-03-05 |  | Typewriter with several carbon sheet carriers arranged one above the other |
+| [DE492950](DE492950.md) | 1930-03-01 | Co, Ncr | Registrierkasse zum Drucken von Einzelbetraegen, Zwischen- und Endsummen mit mehreren Addier- und Sonderzaehlwerken |
+| [DE492951](DE492951.md) | 1930-03-01 | Co, Ncr | Schaltvorrichtung fuer den Kontrollstreifen von Registrierkassen |
+| [DE492966](DE492966.md) | 1930-03-01 | Co, Underwood Elliott Fisher | Drive for the ribbon fork of typewriters |
+| [DE492967](DE492967.md) | 1930-03-01 | B, Elek Sche Schreibmaschinen M | Manuscript holder for typewriters, especially for heavy manuscripts, books, &hellip; |
+| [DE492962](DE492962.md) | 1930-03-03 | Co, Underwood Elliott Fisher | Adjustment device for the switch frame of typewriters |
+| [DE492963](DE492963.md) | 1930-03-04 | Co, Underwood Elliott Fisher | Downshift device for typewriters |
+| [DE492964](DE492964.md) | 1930-03-05 | Co, Remington Typewriter | Zeilensperrovrrichtung |
+| [DE492965](DE492965.md) | 1930-03-05 | Co, Underwood Elliott Fisher | Typewriter with several carbon sheet carriers arranged one above the other |
 | [DE493490](DE493490.md) | 1930-03-07 | Mueller, Heinrich | Paper web for continuous writing on typewriters and similar machines |
 | [DE488212](DE488212.md) | 1930-03-08 |  | Durch Lochkarten gesteuerte Druckmaschine mit drehbarer Typentrommel |
 | [DE493236](DE493236.md) | 1930-03-14 | Luce, Hans | Verfahren zur Anbringung der Fuehrungsschlitze in den Typenhebelsegmenten fuer Schreibmaschinen |
-| [DE494009](DE494009.md) | 1930-03-17 |  | Interchangeable trolley frame for particularly long cars with side supports |
+| [DE494009](DE494009.md) | 1930-03-17 | Ag, Triumph Werke Nuernberg | Interchangeable trolley frame for particularly long cars with side supports |
 | [DE494217](DE494217.md) | 1930-03-20 | Vogel, Paul | Holder for dab balls made of kneadable material for cleaning types, especially &hellip; |
 | [DE494461](DE494461.md) | 1930-03-22 | Black, Horace Drummond | Einfaerbvorrichtung fuer Druckmaschinen, besonders fuer Maschinen zum Drucken und Auswerfen von Fahrkarten |
-| [DE494546](DE494546.md) | 1930-03-24 |  | Volltastatur fuer Rechenmaschinen mit Druckwerk |
+| [DE494546](DE494546.md) | 1930-03-24 | Werk, Zeiss Ikon A G Goerz | Volltastatur fuer Rechenmaschinen mit Druckwerk |
 | [DE494598](DE494598.md) | 1930-03-26 | Roth, Franz | Typewriter in which the individual types are arranged next to and above one &hellip; |
-| [DE494600](DE494600.md) | 1930-03-26 |  | Locking device for the ribbon reel of typewriters |
+| [DE494600](DE494600.md) | 1930-03-26 | Inc, Royal Typewriter Co | Locking device for the ribbon reel of typewriters |
 | [DE494599](DE494599.md) | 1930-03-27 |  | Table typewriter |
 | [DE494712](DE494712.md) | 1930-03-28 | Luce, Hans | Type lever for typewriters |
-| [DE495079](DE495079.md) | 1930-04-02 |  | Elektrisch angetriebene Muehle, insbesondere fuer Kaffee, mit selbsttaetiger Ausschaltung |
+| [DE495079](DE495079.md) | 1930-04-02 | Ges, Siemens Schuckertwerke Akt | Elektrisch angetriebene Muehle, insbesondere fuer Kaffee, mit selbsttaetiger Ausschaltung |
 | [DE494787](DE494787.md) | 1930-04-03 | Breitling, Ernst | Kontrollstreifenfoerdervorrichtung an Registrierkassen |
 | [DE495126](DE495126.md) | 1930-04-03 |  | Device for cutting glass ribbons that are moved in a supporting manner and that are in a warm and plastic state |
 | [DE495259](DE495259.md) | 1930-04-04 | Geb, Merz | Device for disengaging and engaging the rack on typewriters |
 | [USD80881](USD80881.md) | 1930-04-08 | Dowd, Bernard J. | Design for a Mask for Typewriting Machines |
 | [DE495819](DE495819.md) | 1930-04-11 |  | Device for releasably connecting the cover and the base plate of housings for &hellip; |
-| [DE495823](DE495823.md) | 1930-04-11 |  | Schreibrechenmaschine, Rechenmaschine o. dgl. mit Einrichtungen fuer den Abdruck von die Nullstellung der Zaehlwerke anzeigenden Klarzeichen |
+| [DE495823](DE495823.md) | 1930-04-11 | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine, Rechenmaschine o. dgl. mit Einrichtungen fuer den Abdruck von die Nullstellung der Zaehlwerke anzeigenden Klarzeichen |
 | [DE495880](DE495880.md) | 1930-04-11 | Luce, Hans | Process for producing and checking the correct position of the type body on the &hellip; |
 | [DE496008](DE496008.md) | 1930-04-14 |  | Verfahren und Vorrichtung zur Herstellung von Koerpern aus Faserstoffbrei |
-| [DE496216](DE496216.md) | 1930-04-15 |  | Device for the noiseless return of the paper cart from typewriters |
-| [DE496284](DE496284.md) | 1930-04-16 |  | Veraenderliche Nockenscheibe |
-| [DE496243](DE496243.md) | 1930-04-17 |  | Device for lifting the paper holding rail from the platen of calculating &hellip; |
+| [DE496216](DE496216.md) | 1930-04-15 | Winklhofer, Wanderer Werke Vorm | Device for the noiseless return of the paper cart from typewriters |
+| [DE496284](DE496284.md) | 1930-04-16 | Ges, Zahnradfabrik Akt | Veraenderliche Nockenscheibe |
+| [DE496243](DE496243.md) | 1930-04-17 | Winklho, Wanderer Werke Vormals | Device for lifting the paper holding rail from the platen of calculating &hellip; |
 | [DE496244](DE496244.md) | 1930-04-17 | Kaeppler, Paul | Pull or push rod for writing and similar machines |
 | [DE496307](DE496307.md) | 1930-04-22 | Merk, Friedrich Paul | Mit zweifarbigem Farbband versehene Schreibmaschine zum Schreiben von Webpatronen |
-| [DE496447](DE496447.md) | 1930-04-23 |  | Type lever drive for typewriters |
-| [DE496448](DE496448.md) | 1930-04-23 |  | Return device for the paper trolley of typewriters |
+| [DE496447](DE496447.md) | 1930-04-23 | Inc, Royal Typewriter Co | Type lever drive for typewriters |
+| [DE496448](DE496448.md) | 1930-04-23 | Winklhofer, Wanderer Werke Vorm | Return device for the paper trolley of typewriters |
 | [DE497009](DE497009.md) | 1930-05-01 | Heinichen, Walter | Wooden floor board for a typewriter case |
 | [DE497106](DE497106.md) | 1930-05-02 | Sa, Stenotype Grandjean | Key lever bearing for stenography machines |
-| [DE497433](DE497433.md) | 1930-05-08 |  | Rechenmaschine mit Druckwerk fuer Addition und Subtraktion |
+| [DE497433](DE497433.md) | 1930-05-08 | Werk, Zeiss Ikon A G Goerz | Rechenmaschine mit Druckwerk fuer Addition und Subtraktion |
 | [DE497506](DE497506.md) | 1930-05-10 | Metzger, Aberle & | Device for moistening or coloring typewriter ribbons |
-| [DE498212](DE498212.md) | 1930-05-19 |  | Drive device for typewriters with power and manual operation |
-| [DE498283](DE498283.md) | 1930-05-21 |  | Device for the noiseless return of the paper cart from typewriters u. like |
+| [DE498212](DE498212.md) | 1930-05-19 | Ag, Triumph Werke Nuernberg | Drive device for typewriters with power and manual operation |
+| [DE498283](DE498283.md) | 1930-05-21 | Winklhofer, Wanderer Werke Vorm | Device for the noiseless return of the paper cart from typewriters u. like |
 | [DE498214](DE498214.md) | 1930-05-26 | Berryman, Thomas James | Waehlapparat fuer Typendrucktelegraphen, der entsprechend den Charakteren der ankommenden Morsezeichen eine UEbersetzervorrichtung in Typendruckzeichen steuert |
 | [DE498604](DE498604.md) | 1930-05-26 | Schmid, Max | Switching device for the paper slide of typewriters |
 | [DE498605](DE498605.md) | 1930-05-26 | Schmid, Max | Paper slides for typewriters |
-| [DE498749](DE498749.md) | 1930-05-26 |  | Guide to typewriters |
+| [DE498749](DE498749.md) | 1930-05-26 | Winklhofer, Wanderer Werke Vorm | Guide to typewriters |
 | [DE498649](DE498649.md) | 1930-05-28 | Bornkessel, Bruno | Druckwerk fuer Registrierkassen mit Kontrollstreifendruck und wahlweiser Ausgabe eines Doppelschecks |
-| [DE498981](DE498981.md) | 1930-05-28 |  | Accent writing device for typewriters |
+| [DE498981](DE498981.md) | 1930-05-28 | Inc, Royal Typewriter Co | Accent writing device for typewriters |
+| [JP88112](JP88112.md) | 1930-05-28 | Kataoka, Kōtarō | Japanese-script typewriter |
 | [DE498925](DE498925.md) | 1930-05-29 |  | Switching device for type wheels in counters, time stamps or the like. |
-| [DE498606](DE498606.md) | 1930-05-30 |  | Typewriter with a carbon sheet connected to the roller and lateral guide belts &hellip; |
+| [DE498606](DE498606.md) | 1930-05-30 | Co, Remington Typewriter | Typewriter with a carbon sheet connected to the roller and lateral guide belts &hellip; |
 | [DE498900](DE498900.md) | 1930-05-30 | Spiegel, Paul | Device for attaching and removing the steel clips used to fasten the ribbon on &hellip; |
+| [JP88414](JP88414.md) | 1930-05-30 | Yokota, Masao | Printing machine |
 | [DE499508](DE499508.md) | 1930-06-07 | A, Ransmayer A & Rodrian | Process for the production of matrices for typewriter types with a recessed &hellip; |
 | [DE499762](DE499762.md) | 1930-06-12 | Mach, Accounting And Tabulating | Verbindung einer Kartenlochmaschine mit einer Registriermaschine (Schreibmaschine, Rechenmaschine o. dgl.) |
-| [DE499864](DE499864.md) | 1930-06-13 |  | Umschaltvorrichtung an mit einem Rechenwerk ausgestatteten Schreibmaschinen |
+| [DE499864](DE499864.md) | 1930-06-13 | Ag, Triumph Werke Nuernberg | Umschaltvorrichtung an mit einem Rechenwerk ausgestatteten Schreibmaschinen |
+| [JP89443](JP89443.md) | 1930-06-15 | Uchida, Kōichi | Money-collection recorder |
 | [DE499763](DE499763.md) | 1930-06-17 | Mach, Accounting And Tabulating | Verbindung einer Schreibmaschine bzw. Schreibrechenmaschine o. dgl. mit einer Kartenlochmaschine |
-| [DE500082](DE500082.md) | 1930-06-18 |  | Bearing of the swing axis of the switching frame of typewriters |
-| [DE500083](DE500083.md) | 1930-06-18 |  | Adjustment device for the switching ranges of the paper roll of typewriters |
+| [DE500082](DE500082.md) | 1930-06-18 | Winklhofer, Wanderer Werke Vorm | Bearing of the swing axis of the switching frame of typewriters |
+| [DE500083](DE500083.md) | 1930-06-18 | Winklhofer, Wanderer Werke Vorm | Adjustment device for the switching ranges of the paper roll of typewriters |
 | [DE500084](DE500084.md) | 1930-06-18 | Mueller, Wilhelm | Device for the convenient introduction of sheets of paper and cards into &hellip; |
-| [DE500085](DE500085.md) | 1930-06-18 |  | Storage frame for the platen of typewriters |
-| [DE500300](DE500300.md) | 1930-06-20 |  | Paper guiding device for typewriters |
+| [DE500085](DE500085.md) | 1930-06-18 | Winklhofer, Wanderer Werke Vorm | Storage frame for the platen of typewriters |
+| [DE500300](DE500300.md) | 1930-06-20 | Spa, Olivetti & Co | Paper guiding device for typewriters |
 | [DE500228](DE500228.md) | 1930-06-21 | Ostmeyer, Eduard | Vorrichtung zum Einstellen eines Sonderanzeige- und eines Sonderdruckrades fuer zwei Zeichen an Registrierkassen |
 | [DE500605](DE500605.md) | 1930-06-23 | Uttenweiler, Hugo | Druckverfahren, speziell fuer Drucksachen fuer Durchschreibeverfahren oder Durchschlagzwecke mittels Schreibmaschine |
-| [DE500646](DE500646.md) | 1930-06-27 |  | Schreibrechenmaschine u. dgl. |
-| [DE501091](DE501091.md) | 1930-06-27 |  | Line switching device for typewriters with a length of the paper webs to be &hellip; |
+| [DE500646](DE500646.md) | 1930-06-27 | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine u. dgl. |
+| [DE501091](DE501091.md) | 1930-06-27 | Co, Underwood Elliott Fisher | Line switching device for typewriters with a length of the paper webs to be &hellip; |
 | [DE501180](DE501180.md) | 1930-06-28 | A, Ransmayer A & Rodrian | Facility for the production of type wheels |
 | [DE501836](DE501836.md) | 1930-07-04 | Steinitz, Otto | Paper underlays for typewriters |
-| [DE501858](DE501858.md) | 1930-07-05 |  | tab |
-| [DE501984](DE501984.md) | 1930-07-12 |  | Vorrichtung fuer Schreibrechenmaschinen u. dgl. |
+| [DE501858](DE501858.md) | 1930-07-05 | Ag, Triumph Werke Nuernberg | tab |
+| [DE501984](DE501984.md) | 1930-07-12 | Werke, Mercedes Bueromaschinen | Vorrichtung fuer Schreibrechenmaschinen u. dgl. |
 | [DE502277](DE502277.md) | 1930-07-12 | Knotz, Alois | Schaltvorrichtung fuer das Papierband von Addiermaschinen und Registrierkassen |
 | [DE502476](DE502476.md) | 1930-07-12 | Muetzel, Wilhelm | Schaltschloss fuer den Papierwagen von Rechen- oder Addiermaschinen |
 | [DE502799](DE502799.md) | 1930-07-18 | Coopera, Mondiale Typolitho Soc | Paper carriage switching device for a typewriter type machine for producing a &hellip; |
 | [DE502891](DE502891.md) | 1930-07-18 |  | Typewriter with several transverse summing units |
 | [DE502939](DE502939.md) | 1930-07-18 | Boehler, Josef | Stuhl, insbesondere fuer den Gebrauch an der Schreibmaschine |
-| [DE502800](DE502800.md) | 1930-07-19 |  | Device on typewriters for writing on long tapes |
+| [DE502800](DE502800.md) | 1930-07-19 | Co, Underwood Elliott Fisher | Device on typewriters for writing on long tapes |
 | [DE503125](DE503125.md) | 1930-07-19 | Inhoffen, Walther | Coloring device for type wheel typewriters |
 | [DE503126](DE503126.md) | 1930-07-19 | Inhoffen, Walther | Key lever with removable, spring-mounted key, especially for typewriters |
 | [DE503144](DE503144.md) | 1930-07-19 | Wallenstein, Alfred | Line switch for typewriters |
-| [DE503145](DE503145.md) | 1930-07-23 |  | Device for the longitudinal movement of the ribbon of typewriters |
-| [DE503208](DE503208.md) | 1930-07-25 |  | Bremsvorrichtung fuer motorisch angetriebene Drehwellen |
+| [DE503145](DE503145.md) | 1930-07-23 | Inc, Royal Typewriter Co | Device for the longitudinal movement of the ribbon of typewriters |
+| [DE503208](DE503208.md) | 1930-07-25 | Winklhofer, Wanderer Werke Vorm | Bremsvorrichtung fuer motorisch angetriebene Drehwellen |
 | [DE503848](DE503848.md) | 1930-08-01 |  | Druckende Tabelliermaschine |
-| [DE504637](DE504637.md) | 1930-08-12 |  | Dust protection device for typewriters |
+| [DE504637](DE504637.md) | 1930-08-12 | Inc, Royal Typewriter Co | Dust protection device for typewriters |
 | [DE505405](DE505405.md) | 1930-08-19 | Joerissen, Carl A | Type lever drive for typewriters |
-| [DE505406](DE505406.md) | 1930-08-20 |  | Line switch for typewriters |
+| [DE505406](DE505406.md) | 1930-08-20 | Geb, Merz Merz Werke | Line switch for typewriters |
 | [DE505898](DE505898.md) | 1930-08-26 | Pateman, Arthur | Platen clutch |
 | [DE505802](DE505802.md) | 1930-08-27 | Tauschek, Gustav | typewriter |
-| [DE505971](DE505971.md) | 1930-08-27 |  | Einrichtung zur Projektion eines von einer mechanischen Vorrichtung, z. B. einer Schreibmaschine oder einem Fernschreiber, geschriebenen Textes o. dgl. |
-| [DE506051](DE506051.md) | 1930-08-28 |  | Tab device for typewriters |
+| [DE505971](DE505971.md) | 1930-08-27 | Ges, Zeiss Ikon Akt | Einrichtung zur Projektion eines von einer mechanischen Vorrichtung, z. B. einer Schreibmaschine oder einem Fernschreiber, geschriebenen Textes o. dgl. |
+| [DE506051](DE506051.md) | 1930-08-28 | G, Salter & Co Ltd | Tab device for typewriters |
 | [DE506052](DE506052.md) | 1930-08-28 | Nordmann, Ulrich | Device for the noiseless return of the car from typewriters and similar &hellip; |
-| [DE506053](DE506053.md) | 1930-08-28 |  | Device for the silent return of the paper cart from typewriters |
+| [DE506053](DE506053.md) | 1930-08-28 | Winklhofer, Wanderer Werke Vorm | Device for the silent return of the paper cart from typewriters |
 | [DE506055](DE506055.md) | 1930-08-28 | Comp, Underwood Elliott Fischer | Line switch |
-| [DE506056](DE506056.md) | 1930-08-28 |  | Paper pressure roller for typewriters |
-| [DE506057](DE506057.md) | 1930-08-28 |  | Paper guide for typewriters |
-| [DE506058](DE506058.md) | 1930-08-28 |  | Paper guide, especially for portable typewriters with front upper pressure &hellip; |
-| [DE506059](DE506059.md) | 1930-08-28 |  | Adjusting device z. B. for the ribbon lifting device on typewriters |
-| [DE506060](DE506060.md) | 1930-08-28 |  | Type lever guide for typewriters |
-| [DE506154](DE506154.md) | 1930-08-29 |  | Paper guide for typewriters |
-| [DE506054](DE506054.md) | 1930-08-30 |  | Typewriter with a replaceable platen |
-| [DE506153](DE506153.md) | 1930-08-30 |  | Delete key device on typewriters with tabulator |
-| [DE506156](DE506156.md) | 1930-09-01 |  | Bell-shaped foot made of rubber for typewriters etc. like |
+| [DE506056](DE506056.md) | 1930-08-28 | G, Europa Schreibmaschinen A | Paper pressure roller for typewriters |
+| [DE506057](DE506057.md) | 1930-08-28 | Ag, Triumph Werke Nuernberg | Paper guide for typewriters |
+| [DE506058](DE506058.md) | 1930-08-28 | Co, Underwood Elliott Fisher | Paper guide, especially for portable typewriters with front upper pressure &hellip; |
+| [DE506059](DE506059.md) | 1930-08-28 | Winklhofer, Wanderer Werke Vorm | Adjusting device z. B. for the ribbon lifting device on typewriters |
+| [DE506060](DE506060.md) | 1930-08-28 | Winklhofer, Wanderer Werke Vorm | Type lever guide for typewriters |
+| [DE506154](DE506154.md) | 1930-08-29 | H, Adlerwerke Kleyer Ag | Paper guide for typewriters |
+| [DE506054](DE506054.md) | 1930-08-30 | Co, Remington Typewriter | Typewriter with a replaceable platen |
+| [DE506153](DE506153.md) | 1930-08-30 | G, Triumpf Werke Nuernberg A | Delete key device on typewriters with tabulator |
+| [DE506156](DE506156.md) | 1930-09-01 | G, Liga Gummiwerke A | Bell-shaped foot made of rubber for typewriters etc. like |
 | [DE506158](DE506158.md) | 1930-09-01 |  | Printing device for documents with rotatable drum and in this arranged ribbon rolls for the ribbon |
 | [DE506286](DE506286.md) | 1930-09-01 | Tauschek, Gustav | Device on writing office machines for moving a long paper web |
 | [DE506271](DE506271.md) | 1930-09-02 | Etheridge, Herbert | Papierschlittenschaltvorrichtung fuer Schreibmaschinen |
 | [DE506062](DE506062.md) | 1930-09-04 |  | Type drum for office printing machines |
-| [DE506155](DE506155.md) | 1930-09-05 |  | Switching mechanism for the ribbon transmission on typewriters |
-| [DE506744](DE506744.md) | 1930-09-08 |  | Paper cart switching device for typewriters |
-| [DE506745](DE506745.md) | 1930-09-08 |  | Frame for typewriters with a long paper trolley |
+| [DE506155](DE506155.md) | 1930-09-05 | G, Europa Schreibmaschinen A | Switching mechanism for the ribbon transmission on typewriters |
+| [DE506744](DE506744.md) | 1930-09-08 | Winklhofer, Wanderer Werke Vorm | Paper cart switching device for typewriters |
+| [DE506745](DE506745.md) | 1930-09-08 | Winklhofer, Wanderer Werke Vorm | Frame for typewriters with a long paper trolley |
 | [DE506645](DE506645.md) | 1930-09-10 | Leysieffer, Richard | Vorrichtung zur Herstellung von Eintragungen auf Formulare fuer Banken usw. mit nebeneinander angeordneten einstellbaren Typenstangen |
 | [DE506908](DE506908.md) | 1930-09-10 | Kirsch, Rudolf | Durchschreibblatt |
-| [DE506743](DE506743.md) | 1930-09-12 |  | Mechanischer Typenhebelantrieb fuer Schreibmaschinen |
+| [DE506743](DE506743.md) | 1930-09-12 | Winklhofer, Wanderer Werke Vorm | Mechanischer Typenhebelantrieb fuer Schreibmaschinen |
 | [DE506065](DE506065.md) | 1930-09-15 | Bickenbach, Wilhelm | Elektrischer Fernschreiber, bei welchem Geber und Empfaenger durch eine Vielzahl vonDraehten miteinander verbunden sind |
 | [DE507571](DE507571.md) | 1930-09-18 | Mach, Accounting And Tabulating | Verbindung einer Schreibmaschine mit einer Kartenlochmaschine |
 | [DE507696](DE507696.md) | 1930-09-20 | Steiner, Fritz | Vereinigte Schreib- und Rechenmaschine |
 | [DE507842](DE507842.md) | 1930-09-21 |  | Holding device for the transverse counters on typewriters |
 | [DE507843](DE507843.md) | 1930-09-21 |  | Typewriter with several transverse counters and reversing gears driving these transverse counters |
 | [DE508099](DE508099.md) | 1930-09-24 | Schwarze, Hermann | Typewriter for the production of blind dot writing |
-| [DE508101](DE508101.md) | 1930-09-24 |  | Multiplier on typewriters |
+| [DE508101](DE508101.md) | 1930-09-24 | Co, Underwood Elliott Fisher | Multiplier on typewriters |
 | [DE508169](DE508169.md) | 1930-09-25 | Maschf, Rheinische Metallw & | Ratchet clutch for typewriters and similar machines |
-| [DE508100](DE508100.md) | 1930-09-26 |  | Removable paper trolley for typewriters |
-| [DE508485](DE508485.md) | 1930-09-27 |  | Typewriter for power and manual use |
+| [DE508100](DE508100.md) | 1930-09-26 | Ag, Triumph Werke Nuernberg | Removable paper trolley for typewriters |
+| [DE508485](DE508485.md) | 1930-09-27 | Ge, Triumph Werke Nuernberg Akt | Typewriter for power and manual use |
 | [DE508609](DE508609.md) | 1930-09-29 | Tauschek, Gustav | Schreibwerk fuer Tabelliermaschinen, Rechenmaschinen u. dgl. |
-| [DE508672](DE508672.md) | 1930-10-01 |  | Paper guide and edge stop device for typewriters |
+| [DE508672](DE508672.md) | 1930-10-01 | Inc, Royal Typewriter Co | Paper guide and edge stop device for typewriters |
 | [DE508828](DE508828.md) | 1930-10-02 | W, Mueller U V Nemecek Fa | Elastische Motorantriebsvorrichtung fuer das Rechenwerk und die Zifferntypenhebel einer Rechenschreibmaschine |
-| [DE508931](DE508931.md) | 1930-10-02 |  | Vorrichtung zum Verschieben des Zaehlwerkes bei Schreibmaschinen mit Rechenwerk |
+| [DE508931](DE508931.md) | 1930-10-02 | Ag, Triumph Werke Nuernberg | Vorrichtung zum Verschieben des Zaehlwerkes bei Schreibmaschinen mit Rechenwerk |
 | [DE508991](DE508991.md) | 1930-10-03 | Johansson, Karl Albin Abraham | Schreibtisch mit versenkbarer Schreibmaschine |
 | [DE509159](DE509159.md) | 1930-10-06 | Marcellus, Aaron | Device for displaying the last line of a sheet of paper |
-| [DE509268](DE509268.md) | 1930-10-06 |  | Type lever drive for typewriters |
+| [DE509268](DE509268.md) | 1930-10-06 | Ag, Triumph Werke Nuernberg | Type lever drive for typewriters |
 | [DE509413](DE509413.md) | 1930-10-09 | Schroeter, Fritz | Telegraphier- bzw. Kurvenschreiber mit bewegtem Fluessigkeitsstrahl |
 | [DE509452](DE509452.md) | 1930-10-09 |  | Blocking device on typewriters |
-| [DE509518](DE509518.md) | 1930-10-09 |  | Embossing material for embossing negatives for printing purposes with the help &hellip; |
-| [DE509608](DE509608.md) | 1930-10-10 |  | Paper guide for typewriters with front stop |
-| [DE509609](DE509609.md) | 1930-10-10 |  | Grundbuchblatt mit Einrichtung zum Befestigen des Kohlepapiers |
-| [DE509656](DE509656.md) | 1930-10-11 |  | Schreibrechenmaschine |
+| [DE509518](DE509518.md) | 1930-10-09 | Gmbh, Mergenthaler Setzmaschfab | Embossing material for embossing negatives for printing purposes with the help &hellip; |
+| [DE509608](DE509608.md) | 1930-10-10 | Co, Underwood Elliott Fisher | Paper guide for typewriters with front stop |
+| [DE509609](DE509609.md) | 1930-10-10 | Ge, Europa Schreibmaschinen Akt | Grundbuchblatt mit Einrichtung zum Befestigen des Kohlepapiers |
+| [DE509656](DE509656.md) | 1930-10-11 | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine |
 | [DE509851](DE509851.md) | 1930-10-13 | Knotz, Alois | Einrichtung an Registrierkassen zur Fuehrung des Quittungsstreifens und des Farbbandes fuer das Druckwerk |
 | [DE509941](DE509941.md) | 1930-10-14 | Metallwarenfabr, Eduard Walther | Book holders, especially for typewriters |
 | [DE510203](DE510203.md) | 1930-10-17 | Spiegel, Paul | Device for attaching and removing the steel clips used to fasten the ribbon on &hellip; |
 | [DE510204](DE510204.md) | 1930-10-17 | Maschf, Rheinische Metallw & | Device for producing the correct position of the type body on the type levers &hellip; |
 | [DE510996](DE510996.md) | 1930-10-25 | Tucholski, - Hans | Schreib- und Zeichenvorrichtung |
-| [DE511903](DE511903.md) | 1930-11-08 |  | Tastenhebel-Registrierkasse fuer Einzelbetrag- und Summendruck |
-| [DE512139](DE512139.md) | 1930-11-08 |  | Paper roll with lines for typewriters |
-| [DE512140](DE512140.md) | 1930-11-08 |  | Paper guide for typewriters |
-| [DE512141](DE512141.md) | 1930-11-08 |  | Typewriter with a removable paper trolley |
+| [DE511903](DE511903.md) | 1930-11-08 | Co, Ncr | Tastenhebel-Registrierkasse fuer Einzelbetrag- und Summendruck |
+| [DE512139](DE512139.md) | 1930-11-08 | Winklhofer, Wanderer Werke Vorm | Paper roll with lines for typewriters |
+| [DE512140](DE512140.md) | 1930-11-08 | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters |
+| [DE512141](DE512141.md) | 1930-11-08 | Winklhofer, Wanderer Werke Vorm | Typewriter with a removable paper trolley |
+| [JP90195](JP90195.md) | 1930-11-12 | Katō, Kenjirō | Sideways-feed (line-change) device in a Japanese-script typewriter |
 | [DE512569](DE512569.md) | 1930-11-13 | Eckland, Emil Otto | Device for dyeing ribbons on typewriters |
 | [DE512870](DE512870.md) | 1930-11-18 |  | Typewriter with several transverse summing units |
-| [DE513129](DE513129.md) | 1930-11-22 |  | Type lever drive device for typewriters |
+| [DE513129](DE513129.md) | 1930-11-22 | Inc, Royal Typewriter Co | Type lever drive device for typewriters |
 | [DE513464](DE513464.md) | 1930-11-27 | Kaddatz, Arthur | Device on typewriters for line-by-line filing of sheets with perforated edges |
 | [DE501988](DE501988.md) | 1930-11-28 | Mach, Accounting And Tabulating | Einstellvorrichtung an Rechenwerken, insbesondere fuer statistische Tabelliermaschinen |
 | [DE513881](DE513881.md) | 1930-12-04 | Linstrom, Eric Brother | Fixing device for typewriters on the table top |
+| [JP91083](JP91083.md) | 1930-12-08 | Shima, Matakichi | Japanese-script typewriter |
 | [DE514252](DE514252.md) | 1930-12-10 | Zinn, Julius | Font holder for typewriters |
 | [DE514540](DE514540.md) | 1930-12-14 |  | Device for temporarily ineffective the clear character printing device on typewriters u. like |
-| [DE514749](DE514749.md) | 1930-12-17 |  | Device for driving a letter counter on typewriters and similar machines |
-| [DE515469](DE515469.md) | 1931-01-05 |  | Edge limiting device for typewriters |
+| [DE514749](DE514749.md) | 1930-12-17 | G, Kienzle Taxameter Und App A | Device for driving a letter counter on typewriters and similar machines |
+| [DE515469](DE515469.md) | 1931-01-05 | Co, Underwood Elliott Fisher | Edge limiting device for typewriters |
 | [DE515809](DE515809.md) | 1931-01-13 | Matheis, Franz | Lern- und UEbungstastatur fuer das Schreibmaschinenschreiben |
-| [DE516204](DE516204.md) | 1931-01-20 |  | Einrichtung an Registrierkassen und aehnlichen Maschinen, um das Einfuehren von Scheckstreifen zu erleichtern |
+| [DE516204](DE516204.md) | 1931-01-20 | Co, Ncr | Einrichtung an Registrierkassen und aehnlichen Maschinen, um das Einfuehren von Scheckstreifen zu erleichtern |
 | [DE516288](DE516288.md) | 1931-01-21 | Kaeppler, Paul | Device for adjusting and fixing carriage rails, racks and similar parts of &hellip; |
-| [DE516411](DE516411.md) | 1931-01-22 |  | Zehntastenrechenmaschine mit Stiftenschlitten |
-| [DE516463](DE516463.md) | 1931-01-29 |  | Type setting device for line writers or similar machines |
+| [DE516411](DE516411.md) | 1931-01-22 | Ag, Mauser Werke | Zehntastenrechenmaschine mit Stiftenschlitten |
+| [DE516463](DE516463.md) | 1931-01-29 | Ges, Typar Co Akt | Type setting device for line writers or similar machines |
 | [DE517024](DE517024.md) | 1931-01-31 |  | Control device for typewriters |
 | [DE517076](DE517076.md) | 1931-01-31 | Timme, Fritz | Ribbon for typewriters and cash registers |
-| [DE517365](DE517365.md) | 1931-02-04 |  | Vertikalrechenwerk mit Fakturiereinrichtung fuer Schreibmaschinen |
+| [DE517365](DE517365.md) | 1931-02-04 | W, Feiler Feinmechanik G M B H | Vertikalrechenwerk mit Fakturiereinrichtung fuer Schreibmaschinen |
 | [DE517213](DE517213.md) | 1931-02-05 | Friden, Carl Mauritz Fredrick | Rechenmaschine |
 | [DE517862](DE517862.md) | 1931-02-12 | Mabille, Ernest | Registrierkasse |
-| [DE518145](DE518145.md) | 1931-02-12 |  | Druckwerk fuer Rechenmaschinen |
+| [DE518145](DE518145.md) | 1931-02-12 | Co, Burroughs Adding Machine | Druckwerk fuer Rechenmaschinen |
 | [DE518246](DE518246.md) | 1931-02-13 | Reichardt, Arthur | Sperrvorrichtung fuer Typenraeder in elektrisch geschalteten Zeitstempeln |
-| [DE518411](DE518411.md) | 1931-02-16 |  | Trigger device for the car freewheel on typewriters |
-| [DE518525](DE518525.md) | 1931-02-17 |  | Table writing device for typewriters |
+| [DE518411](DE518411.md) | 1931-02-16 | Ag, Triumph Werke Nuernberg | Trigger device for the car freewheel on typewriters |
+| [DE518525](DE518525.md) | 1931-02-17 | Ag, Vorm Seidel & Naumann | Table writing device for typewriters |
 | [DE518417](DE518417.md) | 1931-02-18 | Hahn, Paul | Ferngesteuerte Schreibmaschine, bei der durch einen Stromstoss von bestimmter, dem je-weiligen Zeichen entsprechender Dauer mit Hilfe eines Kupplungsmagneten ein motorisch bewegter Kontakthebel ... |
 | [DE518614](DE518614.md) | 1931-02-18 | E, Greve John | Printing unit for adding and calculating machines, calculating typewriters, etc &hellip; |
 | [DE518791](DE518791.md) | 1931-02-20 | Diehl, Heinrich | Vorrichtung zur Herstellung von Schrift- und Bildzeichen auf elektrolytischem Wege |
@@ -8288,44 +8370,45 @@ Every patent in the library, oldest first.
 | [DE518688](DE518688.md) | 1931-02-24 | Tauschek, Gustav | Lochkarten-Buchhaltungsmaschine |
 | [DE519184](DE519184.md) | 1931-02-25 | Saenger, Guenther | Vorrichtung an Lochkarten-Tabelliermaschinen u. dgl. zur Verhinderung des Nullabdruckes vor den Zahlenziffern |
 | [DE519399](DE519399.md) | 1931-02-27 | Schob, Werner | Schreibmaschinen-Postkarte |
-| [DE519544](DE519544.md) | 1931-02-28 |  | Mechanischer Typenhebelantrieb fuer Schreibmaschinen |
+| [DE519544](DE519544.md) | 1931-02-28 | Winklhofer, Wanderer Werke Vorm | Mechanischer Typenhebelantrieb fuer Schreibmaschinen |
 | [DE519639](DE519639.md) | 1931-03-02 |  | Type wheel with individually movable type bars, which are mounted in opposite slots of two discs |
-| [DE519673](DE519673.md) | 1931-03-03 |  | Registrierkassendruckwerk |
-| [DE519814](DE519814.md) | 1931-03-04 |  | Tabulator for typewriters with set key and single delete key |
+| [DE519673](DE519673.md) | 1931-03-03 | Co, Ncr | Registrierkassendruckwerk |
+| [DE519814](DE519814.md) | 1931-03-04 | G, Bing Werke Vorm Gebr Bing A | Tabulator for typewriters with set key and single delete key |
 | [DE519815](DE519815.md) | 1931-03-04 | Wallenstein, Alfred | Paper roller bearings for typewriters |
 | [DE519816](DE519816.md) | 1931-03-04 | F, Naehmaschinen Und Fahrraeder | Device for adjusting the stroke of the ribbon fork of typewriters |
+| [JP92610](JP92610.md) | 1931-03-04 | Uchida, Kōichi | Automatic type-setting stamp machine |
 | [DE520230](DE520230.md) | 1931-03-09 | Kaeppler, Paul | Device for checking the correct position of the types of typewriters and &hellip; |
 | [DE520630](DE520630.md) | 1931-03-12 | Meusel, Hans | Line setting device for typewriters |
-| [DE520631](DE520631.md) | 1931-03-12 |  | Storage of typewriter paper trolleys |
+| [DE520631](DE520631.md) | 1931-03-12 | Winklhofer, Wanderer Werke Vorm | Storage of typewriter paper trolleys |
 | [DE520606](DE520606.md) | 1931-03-13 | Breitling, Ernst | Nullendruckvorrichtung |
 | [DE521131](DE521131.md) | 1931-03-18 | Mueller, Otto W | Vorrichtung zur UEbertragung gesprochener Laute und Toene auf elektrisch betriebene Schreibmaschinen |
-| [DE521207](DE521207.md) | 1931-03-19 |  | Paper carriage switching device for typewriters |
-| [DE521627](DE521627.md) | 1931-03-27 |  | Postcard holders and line height indicators for typewriters |
+| [DE521207](DE521207.md) | 1931-03-19 | Ag, Triumph Werke Nuernberg | Paper carriage switching device for typewriters |
+| [DE521627](DE521627.md) | 1931-03-27 | Winklhofer, Wanderer Werke Vorm | Postcard holders and line height indicators for typewriters |
 | [DE521877](DE521877.md) | 1931-03-27 | Bergmann, Jean | Key for calculating, typing and similar machines |
-| [DE521878](DE521878.md) | 1931-03-27 |  | Type lever for typewriters |
+| [DE521878](DE521878.md) | 1931-03-27 | Winklhofer, Wanderer Werke Vorm | Type lever for typewriters |
 | [DE521879](DE521879.md) | 1931-03-27 | Roth, Franz | Type typing machine with hammer |
-| [DE521880](DE521880.md) | 1931-03-27 |  | Mechanical type lever drive for typewriters |
-| [DE521881](DE521881.md) | 1931-03-27 |  | Line break device on typewriters |
-| [DE521908](DE521908.md) | 1931-03-27 |  | Ribbon switching device for cash registers and similar machines |
+| [DE521880](DE521880.md) | 1931-03-27 | Winklhofer, Wanderer Werke Vorm | Mechanical type lever drive for typewriters |
+| [DE521881](DE521881.md) | 1931-03-27 | Ag, Triumph Werke Nuernberg | Line break device on typewriters |
+| [DE521908](DE521908.md) | 1931-03-27 | Co, Ncr | Ribbon switching device for cash registers and similar machines |
 | [DE522214](DE522214.md) | 1931-04-03 |  | Error display device in typewriters |
 | [DE522313](DE522313.md) | 1931-04-05 |  | Typewriter |
-| [DE522483](DE522483.md) | 1931-04-09 |  | Table writing device for typewriters |
+| [DE522483](DE522483.md) | 1931-04-09 | Winklhofer, Wanderer Werke Vorm | Table writing device for typewriters |
 | [DE522484](DE522484.md) | 1931-04-09 | Wallenstein, Alfred | Type lever drive for typewriters |
-| [DE522485](DE522485.md) | 1931-04-09 |  | Device on typewriters for aligning the introduced paper sheets |
-| [DE522613](DE522613.md) | 1931-04-11 |  | Tasteneinstellwerk fuer Rechenmaschinen mit Einstellscheiben mit einstellbarer Zaehnezahl |
-| [DE522820](DE522820.md) | 1931-04-17 |  | Vorrichtung zum Verschieben des Zaehlwerkes bei Schreibmaschinen mit Rechenwerk |
-| [DE523065](DE523065.md) | 1931-04-18 |  | Addiermaschine |
+| [DE522485](DE522485.md) | 1931-04-09 | Winklhofer, Wanderer Werke Vorm | Device on typewriters for aligning the introduced paper sheets |
+| [DE522613](DE522613.md) | 1931-04-11 | H, Triumphatorwerk M B | Tasteneinstellwerk fuer Rechenmaschinen mit Einstellscheiben mit einstellbarer Zaehnezahl |
+| [DE522820](DE522820.md) | 1931-04-17 | Ag, Triumph Werke Nuernberg | Vorrichtung zum Verschieben des Zaehlwerkes bei Schreibmaschinen mit Rechenwerk |
+| [DE523065](DE523065.md) | 1931-04-18 | Winklhofer, Wanderer Werke Vorm | Addiermaschine |
 | [DE523226](DE523226.md) | 1931-04-20 |  | Color transmission bodies, e.g. Copy paper, ribbon, etc. like |
 | [DE523536](DE523536.md) | 1931-04-24 | Young, Cyril Robert | Schreibmaschinentisch |
 | [DE523953](DE523953.md) | 1931-04-30 | Mach, Accounting And Tabulating | Einstellvorrichtung fuer die Typentraeger von Tabelliermaschinen o. dgl. |
 | [DE524191](DE524191.md) | 1931-05-04 |  | Device for automatic switching of the ribbon length movement on typewriters |
 | [DE524258](DE524258.md) | 1931-05-07 | Radermacher, August | Scheckdruckwerk fuer Registrierkassen |
-| [DE524809](DE524809.md) | 1931-05-13 |  | Manuscript holder for typewriters |
+| [DE524809](DE524809.md) | 1931-05-13 | B, Elek Sche Schreibmaschinen M | Manuscript holder for typewriters |
 | [DE524842](DE524842.md) | 1931-05-13 |  | Druckvorrichtung, insbesondere fuer durch Lochkarten gesteuerte Maschinen |
 | [DE524896](DE524896.md) | 1931-05-15 |  | Device for guiding and keeping the paper webs taut in typewriters |
-| [DE524897](DE524897.md) | 1931-05-15 |  | Paper carriage switching device for typewriters |
-| [DE524898](DE524898.md) | 1931-05-15 |  | Booking device on typewriters |
-| [DE525096](DE525096.md) | 1931-05-19 |  | Paper cart tour on typewriters |
+| [DE524897](DE524897.md) | 1931-05-15 | G, Bing Werke Vorm Gebr Bing A | Paper carriage switching device for typewriters |
+| [DE524898](DE524898.md) | 1931-05-15 | G, Weilwerke A | Booking device on typewriters |
+| [DE525096](DE525096.md) | 1931-05-19 | Co, Underwood Elliott Fisher | Paper cart tour on typewriters |
 | [DE517502](DE517502.md) | 1931-05-20 | Heise, Karl W O | Cleaning agents for printing types, especially on typewriters and the like like |
 | [DE525191](DE525191.md) | 1931-05-20 | Timme, Fritz | Typewriter ribbon |
 | [DE524990](DE524990.md) | 1931-05-21 | Parke, Bessie Ellis Gerlach Geb | Device for cleaning the types of typewriters, stamps and the like. like |
@@ -8333,110 +8416,120 @@ Every patent in the library, oldest first.
 | [DE518524](DE518524.md) | 1931-05-28 | Winterling, Carl | Type bar typewriter |
 | [DE525746](DE525746.md) | 1931-05-28 |  | Multiplying machine that works with a gelatin ribbon |
 | [DE525926](DE525926.md) | 1931-05-30 | Holzer, Rudolf | Small typewriter that can be moved over the paper to be written on |
-| [DE525927](DE525927.md) | 1931-05-30 |  | Ratchet coupling of the housing of the carriage tension spring with the drive &hellip; |
-| [DE525928](DE525928.md) | 1931-05-30 |  | Counter drive for typewriters |
+| [DE525927](DE525927.md) | 1931-05-30 | Akt, Bing Werke Vorm Gebr Bing | Ratchet coupling of the housing of the carriage tension spring with the drive &hellip; |
+| [DE525928](DE525928.md) | 1931-05-30 | Inc, Royal Typewriter Co | Counter drive for typewriters |
 | [DE525929](DE525929.md) | 1931-05-30 | Meyerheim, Hugo | Device for typewriters for line-correct overlapping of writing sheets equipped &hellip; |
 | [DE525958](DE525958.md) | 1931-05-30 | Thelen, Otto | Druckwerk mit einstellbaren Typenraedern fuer Lochkarten-Tabelliermaschinen u. dgl. |
 | [DE505000](DE505000.md) | 1931-06-02 | Schneider, Julius | Stretchable printing pad for the production of a letterpress-like font |
-| [DE526126](DE526126.md) | 1931-06-02 |  | Line switching device for the paper roll of calculating machines and similar &hellip; |
-| [DE526128](DE526128.md) | 1931-06-06 |  | Druckvorrichtung fuer Registrierkassen und Buchungsmaschinen |
+| [DE526126](DE526126.md) | 1931-06-02 | Winklhofer, Wanderer Werke Vorm | Line switching device for the paper roll of calculating machines and similar &hellip; |
+| [JP93420](JP93420.md) | 1931-06-05 | Yokota, Masao | Cylindrical type magazine for a Japanese-script typewriter |
+| [DE526128](DE526128.md) | 1931-06-06 | Co, Ncr | Druckvorrichtung fuer Registrierkassen und Buchungsmaschinen |
 | [DE526631](DE526631.md) | 1931-06-08 | Sa, Stenotype Grandjean | Device for adjusting the key levers of stenography machines |
-| [DE526632](DE526632.md) | 1931-06-08 |  | Line delimiting device for typewriters |
-| [DE526571](DE526571.md) | 1931-06-10 |  | Scheckdruck- und -ausgabevorrichtung fuer Registrierkassen |
+| [DE526632](DE526632.md) | 1931-06-08 | Inc, Royal Typewriter Co | Line delimiting device for typewriters |
+| [DE526571](DE526571.md) | 1931-06-10 | Co, Ncr | Scheckdruck- und -ausgabevorrichtung fuer Registrierkassen |
 | [DE527123](DE527123.md) | 1931-06-13 | Mach, Accounting And Tabulating | Druckende Tabelliermaschine |
 | [DE527155](DE527155.md) | 1931-06-13 | Breitling, Ernst | Zeileneinstellvorrichtung, besonders fuer Buchungsmaschinen |
 | [DE527240](DE527240.md) | 1931-06-15 |  | Book typewriter with multiple writing plates |
-| [DE527241](DE527241.md) | 1931-06-15 |  | Paper guide for typewriters |
-| [DE527478](DE527478.md) | 1931-06-18 |  | Device for locking the paper trolley of typewriters |
-| [DE527808](DE527808.md) | 1931-06-22 |  | Druckwerk fuer Registrierkassen |
+| [DE527241](DE527241.md) | 1931-06-15 | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters |
+| [DE527478](DE527478.md) | 1931-06-18 | Co, Victor Adding Machine | Device for locking the paper trolley of typewriters |
+| [DE527808](DE527808.md) | 1931-06-22 | Co, Ncr | Druckwerk fuer Registrierkassen |
 | [DE527534](DE527534.md) | 1931-06-24 | Lehmann, Karl August | Druckwerkssteuerung fuer Buchungsmaschinen |
-| [DE527983](DE527983.md) | 1931-06-24 |  | Druckwerk fuer Registrierkassen |
-| [DE528044](DE528044.md) | 1931-06-25 |  | Decimal tab for typewriters with particularly small font |
-| [DE528588](DE528588.md) | 1931-07-01 |  | Mechanischer Typenhebelantrieb fuer Schreibmaschinen |
-| [DE528763](DE528763.md) | 1931-07-04 |  | Schaltvorrichtung fuer den Kontrollstreifen an Registrierkassen |
-| [DE529228](DE529228.md) | 1931-07-10 |  | Small typewriter with lifting and lowering lever segment |
+| [DE527983](DE527983.md) | 1931-06-24 | Co, Ncr | Druckwerk fuer Registrierkassen |
+| [DE528044](DE528044.md) | 1931-06-25 | G, Triumph Werke A | Decimal tab for typewriters with particularly small font |
+| [DE528588](DE528588.md) | 1931-07-01 | Winklhofer, Wanderer Werke Vorm | Mechanischer Typenhebelantrieb fuer Schreibmaschinen |
+| [DE528763](DE528763.md) | 1931-07-04 | Co, Ncr | Schaltvorrichtung fuer den Kontrollstreifen an Registrierkassen |
+| [DE529228](DE529228.md) | 1931-07-10 | G, Weilwerke A | Small typewriter with lifting and lowering lever segment |
 | [DE529363](DE529363.md) | 1931-07-13 | Mansel, Paul | Vorrichtung zur Einstellung von Typenscheiben |
-| [DE529407](DE529407.md) | 1931-07-13 |  | Spring winding mechanism |
+| [DE529407](DE529407.md) | 1931-07-13 | G, Weilwerke A | Spring winding mechanism |
 | [DE529456](DE529456.md) | 1931-07-13 | Koch, Eberhard | Rufwiederholer mit Selbstunterbrechung fuer Gleich- und Wechselstrom |
-| [DE529395](DE529395.md) | 1931-07-15 |  | Druckvorrichtung fuer Registrierkassen mit einem zwischen einer Schreibund einer Druckstelle hin und der gezogenen Kontrollstreifen |
+| [DE529395](DE529395.md) | 1931-07-15 | Ag, Anker Werke | Druckvorrichtung fuer Registrierkassen mit einem zwischen einer Schreibund einer Druckstelle hin und der gezogenen Kontrollstreifen |
 | [DE529530](DE529530.md) | 1931-07-17 | Breitling, Ernst | Nullendruckvorrichtung |
 | [DE529229](DE529229.md) | 1931-07-18 | Metzger, Aberle & | Device for coloring the color ribbons of writing and similar machines |
 | [DE529702](DE529702.md) | 1931-07-18 |  | Transverse counter for typewriters |
 | [DE530138](DE530138.md) | 1931-07-22 | Alexander, Frederick | Typewriter with a paper slide that can swing the paper roller |
 | [DE530297](DE530297.md) | 1931-07-25 | Berger, Richard | Papierbogenzufuehrung fuer Kleindruckmaschinen, insbesondere fuer Buerodruckmaschinen |
 | [DE530404](DE530404.md) | 1931-07-29 | Kraemer, Schilling & | Papierschlittenschaltvorrichtung fuer Schreibmaschinen |
-| [DE530436](DE530436.md) | 1931-07-29 |  | Deckelstuetze, insbesondere fuer Sprechmaschinen |
+| [DE530436](DE530436.md) | 1931-07-29 | Mechanik, Eternola Akt Ges Fuer | Deckelstuetze, insbesondere fuer Sprechmaschinen |
 | [DE530554](DE530554.md) | 1931-07-30 | Gaitzsch, Alois Widmer | Sound-absorbing footrest for office machines |
-| [DE530738](DE530738.md) | 1931-07-31 |  | Typewriter switching device for typewriters |
+| [DE530738](DE530738.md) | 1931-07-31 | Co, Underwood Elliott Fisher | Typewriter switching device for typewriters |
 | [DE530767](DE530767.md) | 1931-08-01 |  | Typewriter |
-| [DE530898](DE530898.md) | 1931-08-03 |  | Momentary switch for typewriters with a carriage retraction motor |
+| [DE530898](DE530898.md) | 1931-08-03 | Co, Underwood Elliott Fisher | Momentary switch for typewriters with a carriage retraction motor |
 | [DE492816](DE492816.md) | 1931-08-07 | Knoll, Hans | Rechenmaschine |
 | [DE531678](DE531678.md) | 1931-08-13 | Moehler, Erhard | Verfahren zur Herstellung von Druckformen mit buchdruckaehnlicher Schrift mittels Schreibmaschine |
+| [JP94273](JP94273.md) | 1931-08-24 | Ishii, Shōkichi | European-style Japanese-language typewriter |
 | [DE532026](DE532026.md) | 1931-08-25 | Maschf, Kappel | Device for the noiseless return of the paper cart to typewriters |
-| [DE517214](DE517214.md) | 1931-09-01 |  | Invoicing and booking machine |
+| [DE517214](DE517214.md) | 1931-09-01 | G, Astra Werke A | Invoicing and booking machine |
 | [DE532275](DE532275.md) | 1931-09-02 | Junkers, Hugo | Nockentrieb mit neben dem Nocken liegender zylindrischer, zur Nockenwelle gleichachsiger Ruhebahn |
 | [DE532787](DE532787.md) | 1931-09-02 | Maschf, Kappel | Device for adjusting and resetting the column stops on typewriters |
-| [DE532788](DE532788.md) | 1931-09-07 |  | Papierwagenschaltvorrichtung fuer Schreibmaschinen mit ausschwingbaren, abwechselnd in das Hemmrad eingreifenden paarigen Klinken |
-| [DE533594](DE533594.md) | 1931-09-17 |  | Paper guide for typewriters |
-| [DE533697](DE533697.md) | 1931-09-17 |  | Typewriter for simultaneous typing of several types |
-| [DE533854](DE533854.md) | 1931-09-19 |  | Device for producing cast lines, in which negative lines are embossed from a &hellip; |
+| [DE532788](DE532788.md) | 1931-09-07 | G, Weilwerke A | Papierwagenschaltvorrichtung fuer Schreibmaschinen mit ausschwingbaren, abwechselnd in das Hemmrad eingreifenden paarigen Klinken |
+| [JP93912](JP93912.md) | 1931-09-09 | Iisaku, Takichirō | Paper-cylinder vertical (column) feed device for a Japanese typewriter |
+| [DE533594](DE533594.md) | 1931-09-17 | G, Europa Schreibmaschinen A | Paper guide for typewriters |
+| [DE533697](DE533697.md) | 1931-09-17 | Co, Dictatype Shorthand Machine | Typewriter for simultaneous typing of several types |
+| [DE533854](DE533854.md) | 1931-09-19 | Gmbh, Mergenthaler Setzmaschfab | Device for producing cast lines, in which negative lines are embossed from a &hellip; |
 | [DE533942](DE533942.md) | 1931-09-21 |  | Universal rail arrangement for book typewriters |
-| [DE533943](DE533943.md) | 1931-09-21 |  | Schreibmaschine mit Kraftantrieb |
-| [DE533944](DE533944.md) | 1931-09-21 |  | Device on typewriters for writing on stencil cards u. like |
-| [DE534406](DE534406.md) | 1931-09-28 |  | Center lock for portable typewriters |
+| [DE533943](DE533943.md) | 1931-09-21 | Inc, Electromatic Typewriters | Schreibmaschine mit Kraftantrieb |
+| [DE533944](DE533944.md) | 1931-09-21 | Winklhofer, Wanderer Werke Vorm | Device on typewriters for writing on stencil cards u. like |
+| [DE534406](DE534406.md) | 1931-09-28 | Co, Underwood Elliott Fisher | Center lock for portable typewriters |
 | [DE534649](DE534649.md) | 1931-09-30 | Jarecki, Georg | Device for folding original, carbon and carbon paper in the order required for &hellip; |
+| [JP94148](JP94148.md) | 1931-09-30 | Katō, Kenjirō | Index-plate operating device for a Japanese-script typewriter |
+| [JP95068](JP95068.md) | 1931-10-02 | Ishikawa, Toyoji | Japanese-script printing machine |
 | [DE535258](DE535258.md) | 1931-10-08 | Inhoffen, Walther | Typewriter tab |
-| [DE535361](DE535361.md) | 1931-10-09 |  | Keyboard for typewriters to hit several types at the same time |
-| [DE535362](DE535362.md) | 1931-10-09 |  | Paper guide device for typewriters |
-| [DE535363](DE535363.md) | 1931-10-09 |  | Type body for typewriters |
-| [DE535579](DE535579.md) | 1931-10-13 |  | Cash register or accounting machine with a line feed device for accounting &hellip; |
+| [DE535361](DE535361.md) | 1931-10-09 | Co, Dictatype Shorthand Machine | Keyboard for typewriters to hit several types at the same time |
+| [DE535362](DE535362.md) | 1931-10-09 | Werke, Mercedes Bueromaschinen | Paper guide device for typewriters |
+| [DE535363](DE535363.md) | 1931-10-09 | H, Iris Type G M B | Type body for typewriters |
+| [DE535579](DE535579.md) | 1931-10-13 | Co, Ncr | Cash register or accounting machine with a line feed device for accounting &hellip; |
+| [JP94690](JP94690.md) | 1931-10-14 | Kataoka, Kōtarō | Japanese-language typewriter |
 | [DE535580](DE535580.md) | 1931-10-16 |  | Printing business machine controlled by punch cards |
-| [DE535861](DE535861.md) | 1931-10-16 |  | Type lever drive for typewriters |
+| [DE535861](DE535861.md) | 1931-10-16 | Corp, Barr Morse | Type lever drive for typewriters |
 | [DE535911](DE535911.md) | 1931-10-16 | Bauer, Emil | Lichtschreibmaschine |
-| [DE535891](DE535891.md) | 1931-10-19 |  | Cash register or accounting machine with a stacking device for receipts |
+| [DE535891](DE535891.md) | 1931-10-19 | Co, Ncr | Cash register or accounting machine with a stacking device for receipts |
 | [DE528026](DE528026.md) | 1931-10-21 | Lehmann, Karl August | Registrierkasse fuer die Ausgabe eines oder mehrerer Duplikate eines Originalbeleges |
-| [DE535890](DE535890.md) | 1931-10-22 |  | Registrierkasse oder Buchungsmaschine mit Scheckausgabe und Zetteldruck |
-| [DE536364](DE536364.md) | 1931-10-22 |  | Paper guide for typewriters and calculating machines |
+| [DE535890](DE535890.md) | 1931-10-22 | Co, Ncr | Registrierkasse oder Buchungsmaschine mit Scheckausgabe und Zetteldruck |
+| [DE536364](DE536364.md) | 1931-10-22 | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters and calculating machines |
 | [DE536682](DE536682.md) | 1931-10-23 |  | Druckvorrichtung an Tabelliermaschinen |
-| [DE536814](DE536814.md) | 1931-10-26 |  | Typewriter with a continuously rotating drive roller and lifting disks that &hellip; |
-| [DE536895](DE536895.md) | 1931-10-26 |  | Reverse gear clutch for typewriters |
-| [DE536896](DE536896.md) | 1931-10-26 |  | Paper guiding device for accounting typewriters |
+| [DE536814](DE536814.md) | 1931-10-26 | Inc, Elektromatic Typewriters | Typewriter with a continuously rotating drive roller and lifting disks that &hellip; |
+| [DE536895](DE536895.md) | 1931-10-26 | Inc, Royal Typewriter Co | Reverse gear clutch for typewriters |
+| [DE536896](DE536896.md) | 1931-10-26 | Bing, Bing Werke Vorm Gebrueder | Paper guiding device for accounting typewriters |
 | [DE536892](DE536892.md) | 1931-10-28 | Maschinenbau, Adrema | Shock absorber for address plate holder of stamping machines |
 | [DE536894](DE536894.md) | 1931-10-28 |  | Device for pressing down and smoothing the paper in book typewriters |
+| [JP94713](JP94713.md) | 1931-10-28 | Iisaku, Takichirō | Paper-cylinder lateral feed device for a Japanese-text typewriter |
 | [DE537368](DE537368.md) | 1931-11-02 | Maschinenbau, Adrema | Adressplattenhalter fuer Praegemaschinen, bei denen die Platte durch einen von Hand zurueckziehbaren Riegel in ihrer Lage gehalten wird |
+| [JP94714](JP94714.md) | 1931-11-02 | Iisaku, Takichirō | Back-spacing device for the paper-cylinder lateral feed of a Japanese-text typewriter |
 | [DE509940](DE509940.md) | 1931-11-05 | Weissfloch, Konrad Karl | Typewriter with a letter-wise and line-wise switchable paper roller or paper &hellip; |
-| [DE537615](DE537615.md) | 1931-11-05 |  | Paper cart switching device with multiple switching for typewriters, &hellip; |
+| [DE537615](DE537615.md) | 1931-11-05 | Werke, Mercedes Bueromaschinen | Paper cart switching device with multiple switching for typewriters, &hellip; |
 | [DE537851](DE537851.md) | 1931-11-09 |  | Car guide for book typewriters |
 | [DE537852](DE537852.md) | 1931-11-09 | Beulah, Louise Henry | Multiplying device for typewriters |
 | [DE537963](DE537963.md) | 1931-11-10 |  | Typewriter |
 | [DE538090](DE538090.md) | 1931-11-10 | Ets, Continsouza Soc | Universal rail arrangement on typewriters |
 | [DE538089](DE538089.md) | 1931-11-11 | Aillaud, Louis | Note writing device |
-| [DE538299](DE538299.md) | 1931-11-12 |  | Einrichtung zur Herbeifuehrung abwechselnder Endstellungen eines Antriebskoerpers elektrischer Schalter |
-| [DE538326](DE538326.md) | 1931-11-12 |  | Vorrichtung an Sortiermaschinen zum selbsttaetigen Anhalten der Maschine |
+| [DE538299](DE538299.md) | 1931-11-12 | Fabriken, Ver Elektrotechnische | Einrichtung zur Herbeifuehrung abwechselnder Endstellungen eines Antriebskoerpers elektrischer Schalter |
+| [DE538326](DE538326.md) | 1931-11-12 | De, Hollerith Maschinen G M B H | Vorrichtung an Sortiermaschinen zum selbsttaetigen Anhalten der Maschine |
 | [DE538460](DE538460.md) | 1931-11-14 | F, Naehmaschinen Und Fahrraeder | Switching device for the paper trolley of typewriters |
 | [DE538919](DE538919.md) | 1931-11-19 | Fa, Guenther Wagner | Procedure for re-inking used ribbons |
 | [DE539105](DE539105.md) | 1931-11-21 | Strauss, Emil | Method and device for producing permanent single or double-sided rotation point &hellip; |
-| [DE539335](DE539335.md) | 1931-11-25 |  | Two color ribbon fork drive device for typewriters |
-| [DE539334](DE539334.md) | 1931-11-27 |  | Paper guide for typewriters |
+| [DE539335](DE539335.md) | 1931-11-25 | Inc, Royal Typewriter Co | Two color ribbon fork drive device for typewriters |
+| [DE539334](DE539334.md) | 1931-11-27 | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters |
 | [DE539706](DE539706.md) | 1931-12-01 | Weissfloch, Konrad Karl | Type lever typewriter |
 | [DE539827](DE539827.md) | 1931-12-01 |  | Durch Lochkarten gesteuerte Geschaeftsmaschine mit Einrichtung zum Umsetzen von Steuerimpulsen |
 | [DE539645](DE539645.md) | 1931-12-02 | Mahler, Marie Antonie | Typewriter for the blind |
-| [DE539646](DE539646.md) | 1931-12-02 |  | Paper carriage switching device on typewriters |
+| [DE539646](DE539646.md) | 1931-12-02 | Ag, Vorm Seidel & Naumann | Paper carriage switching device on typewriters |
+| [JP95419](JP95419.md) | 1931-12-04 | Shimada, Minokichi | Rack device in a right-hand-operated Japanese typewriter with a moving type tray |
 | [DE540137](DE540137.md) | 1931-12-07 | Luce, Hans | Device for checking and producing the correct bending of the type lever head in &hellip; |
 | [DE540076](DE540076.md) | 1931-12-08 | Haberfeld, Erwin O | Device on typewriters for inserting and setting an account sheet in front of a &hellip; |
-| [DE540170](DE540170.md) | 1931-12-11 |  | Leistungsmesser, insbesondere fuer Schreibmaschinen, Buchdruckmaschinen und Textilmaschinen |
+| [DE540170](DE540170.md) | 1931-12-11 | G, Kienzle Taxameter Und App A | Leistungsmesser, insbesondere fuer Schreibmaschinen, Buchdruckmaschinen und Textilmaschinen |
 | [DE540319](DE540319.md) | 1931-12-15 | Breitling, Ernst | Druckwerk fuer Buchungsmaschinen |
+| [JP96359](JP96359.md) | 1931-12-21 | Makabe, Masaya | Typewriter |
 | [DE540613](DE540613.md) | 1931-12-22 | Sebastian, Friedmann | Ratchet clutch for typewriters and similar machines |
-| [DE540844](DE540844.md) | 1931-12-29 |  | Ribbon guide for typewriters |
+| [DE540844](DE540844.md) | 1931-12-29 | Ges, Weilwerke Akt | Ribbon guide for typewriters |
 | [DE536717](DE536717.md) | 1931-12-30 | Geiger, Gustav | Schreibmaschinen-Postkarte mit umlegbarer Anschriftklappe |
 | [DE540843](DE540843.md) | 1931-12-30 | Anschuetz, Wilhelm | Chiffrier- und Dechiffriervorrichtung fuer Schreibmaschinen |
 | [DE540845](DE540845.md) | 1932-01-06 | Schneider, Julius | Device for producing a letterpress |
-| [DE542355](DE542355.md) | 1932-01-23 |  | Randbegrenzungsvorrichtung fuer Schreibmaschinen mit an dem Papierwagen angelenktem Papiertisch |
+| [DE542355](DE542355.md) | 1932-01-23 | G, Weilwerke A | Randbegrenzungsvorrichtung fuer Schreibmaschinen mit an dem Papierwagen angelenktem Papiertisch |
 | [DE542356](DE542356.md) | 1932-01-23 | Lipp, Karl | Einlegeblatt fuer Schreibmaschinen u. dgl. zur Ausfuehrung nicht radierbarer Schrift |
 | [DE542596](DE542596.md) | 1932-01-26 | Maul, Michael | Papiertransport-Einrichtung fuer Schreibmaschinen, druckende Verrechnungsmaschinen u. dgl. |
 | [DE542874](DE542874.md) | 1932-01-29 | Goerwitz, Horn & | Tab device on typewriters and calculating machines |
-| [DE542876](DE542876.md) | 1932-01-29 |  | Writing sheets with rows of holes that are used to align several sheets of a &hellip; |
-| [DE542875](DE542875.md) | 1932-01-30 |  | Type lever for typewriters with several characters standing next to each other &hellip; |
+| [DE542876](DE542876.md) | 1932-01-29 | Werke, Mercedes Bueromaschinen | Writing sheets with rows of holes that are used to align several sheets of a &hellip; |
+| [DE542875](DE542875.md) | 1932-01-30 | G, Europa Schreibmaschinen A | Type lever for typewriters with several characters standing next to each other &hellip; |
 | [DE543369](DE543369.md) | 1932-02-04 | Ets, L Muller Frossard Sa | Machine for embossing address plates etc. Like. With a carriage which is &hellip; |
 | [DE542955](DE542955.md) | 1932-02-05 |  | Flat plate typewriter with tabulator |
 | [DE542956](DE542956.md) | 1932-02-05 | Basedow, Hermann | Multiplying device for typewriters |
@@ -8449,60 +8542,60 @@ Every patent in the library, oldest first.
 | [DE544601](DE544601.md) | 1932-02-20 | Mach, Accounting And Tabulating | Mit einer Schreibmaschinentastatur versehene Kartenlochmaschine |
 | [DE544736](DE544736.md) | 1932-02-22 | Tepest, Theodor | Registrierkasse zur Ausgabe mehrerer Schecks in einem Kassengang |
 | [DE544901](DE544901.md) | 1932-02-23 | Keining, Gustav | Shorthand typewriter |
-| [DE544902](DE544902.md) | 1932-02-23 |  | Type, especially for typewriters |
+| [DE544902](DE544902.md) | 1932-02-23 | H, Iristype G M B | Type, especially for typewriters |
 | [DE544900](DE544900.md) | 1932-02-24 | Schmid, Max | Locking device for the type wheel on children's typewriters |
 | [DE544984](DE544984.md) | 1932-02-24 | Basedow, Hermann | Multiplying device for typewriters |
-| [DE545352](DE545352.md) | 1932-02-29 |  | Paper guiding device for typewriters |
+| [DE545352](DE545352.md) | 1932-02-29 | Ges, Weilwerke Akt | Paper guiding device for typewriters |
 | [DE545922](DE545922.md) | 1932-03-07 | Sa, Stenotype Grandjean | Device for indexing the paper tape on stenography machines |
 | [DE545872](DE545872.md) | 1932-03-08 | Mee, Marcel | Maschine zum Herstellen von Schriftzeichen mit einem Zeichenstift, dessen Bewegung mittels Leitkurven aus drei Komponenten zusammengesetzt wird |
 | [DE546801](DE546801.md) | 1932-03-17 | Niessing, Franz | Vorrichtung zum Einstellen der Praegetiefe bei Fingerringen |
-| [DE546832](DE546832.md) | 1932-03-17 |  | Margins for typewriters |
+| [DE546832](DE546832.md) | 1932-03-17 | Spa, Olivetti & Co | Margins for typewriters |
 | [DE546834](DE546834.md) | 1932-03-17 | Oberholzer, Frithjof | Device for the automatic creation of underlines and horizontal lines on &hellip; |
 | [DE546833](DE546833.md) | 1932-03-19 | Geb, Merz | Typewriter with an exchangeable paper trolley that can be raised and lowered &hellip; |
 | [DE547280](DE547280.md) | 1932-03-24 |  | Flat panel typewriter |
 | [DE547356](DE547356.md) | 1932-03-24 |  | Flat panel typewriter |
-| [DE547910](DE547910.md) | 1932-03-30 |  | Adjustment device for the type bars of typewriters |
-| [DE547909](DE547909.md) | 1932-03-31 |  | Type bar typewriter |
-| [DE547357](DE547357.md) | 1932-04-01 |  | Paper guide for typewriters |
+| [DE547910](DE547910.md) | 1932-03-30 | Inc, Royal Typewriter Co | Adjustment device for the type bars of typewriters |
+| [DE547909](DE547909.md) | 1932-03-31 | Inc, Royal Typewriter Co | Type bar typewriter |
+| [DE547357](DE547357.md) | 1932-04-01 | G, Weilwerke A | Paper guide for typewriters |
 | [DE547675](DE547675.md) | 1932-04-04 | Tauschek, Gustav | Tabulating machine with transfer printing device |
-| [DE547911](DE547911.md) | 1932-04-11 |  | Manuscript holder for typewriters |
+| [DE547911](DE547911.md) | 1932-04-11 | B, Elek Sche Schreibmaschinen M | Manuscript holder for typewriters |
 | [DE548600](DE548600.md) | 1932-04-18 | Haberfeld, Erwin O | Paper guide for typewriters |
 | [DE548721](DE548721.md) | 1932-04-18 | Radermacher, August | Kontrollstreifenfoerdervorrichtung an Registrierkassen |
-| [DE548288](DE548288.md) | 1932-04-19 |  | Paper guiding and cutting device on typewriters |
-| [DE548378](DE548378.md) | 1932-04-19 |  | Device for the simultaneous writing of a booking and an account sheet on &hellip; |
-| [DE549009](DE549009.md) | 1932-04-22 |  | Tabelliermaschine o. dgl. zum Drucken von Zusammenstellungen, wie Rechnungen oder Rechnungsauszuege |
+| [DE548288](DE548288.md) | 1932-04-19 | G, Europa Schreibmaschinen A | Paper guiding and cutting device on typewriters |
+| [DE548378](DE548378.md) | 1932-04-19 | H, Taylorix Organisation G M B | Device for the simultaneous writing of a booking and an account sheet on &hellip; |
+| [DE549009](DE549009.md) | 1932-04-22 | O, Accounting & Tabulating Corp | Tabelliermaschine o. dgl. zum Drucken von Zusammenstellungen, wie Rechnungen oder Rechnungsauszuege |
 | [DE549138](DE549138.md) | 1932-04-23 |  | Device for writing longitudinally folded paper tapes in flat-plate typewriters |
 | [DE549139](DE549139.md) | 1932-04-23 |  | Type lever drive for flat panel typewriters |
 | [DE549140](DE549140.md) | 1932-04-23 |  | Flat panel typewriter |
 | [DE549141](DE549141.md) | 1932-04-23 |  | Brake for the line switching device in book typewriters |
 | [DE549402](DE549402.md) | 1932-04-27 | Wieselhuber, Hermann | Elastic rubber cap for the keys of typewriters and similar machines |
-| [DE549403](DE549403.md) | 1932-04-27 |  | Form web for writing office machines |
-| [DE549514](DE549514.md) | 1932-04-28 |  | Buchungseinrichtung an Schreibmaschinen |
+| [DE549403](DE549403.md) | 1932-04-27 | H, Artmann G M B H | Form web for writing office machines |
+| [DE549514](DE549514.md) | 1932-04-28 | Ag, Triumph Werke Nuernberg | Buchungseinrichtung an Schreibmaschinen |
 | [DE549650](DE549650.md) | 1932-04-29 | Arondel, Maurice Leon | Electromagnetic type stop device for typewriters |
 | [DE549651](DE549651.md) | 1932-04-30 | Lipp, Carl | Device for typewriters for writing non-erasable writing |
-| [DE550576](DE550576.md) | 1932-05-13 |  | Papierwagenschaltvorrichtung fuer Schreibmaschinen |
+| [DE550576](DE550576.md) | 1932-05-13 | Co, Underwood Elliott Fisher | Papierwagenschaltvorrichtung fuer Schreibmaschinen |
 | [DE550797](DE550797.md) | 1932-05-19 |  | Device for making an imprint of type wheels |
-| [DE550852](DE550852.md) | 1932-05-21 |  | Edge limiting device for typewriters |
-| [DE550853](DE550853.md) | 1932-05-21 |  | Typewriter with an adjustable stamp device |
+| [DE550852](DE550852.md) | 1932-05-21 | Winklhofer, Wanderer Werke Vorm | Edge limiting device for typewriters |
+| [DE550853](DE550853.md) | 1932-05-21 | Ag, Vorm Seidel & Naumann | Typewriter with an adjustable stamp device |
 | [DE550887](DE550887.md) | 1932-05-25 |  | Statistical machine with printing device controlled by punch cards |
-| [DE551030](DE551030.md) | 1932-05-25 |  | Typewriter with switchable type lever segment |
-| [DE551077](DE551077.md) | 1932-05-26 |  | Line guide plate for typewriters |
+| [DE551030](DE551030.md) | 1932-05-25 | Inc, Royal Typewriter Co | Typewriter with switchable type lever segment |
+| [DE551077](DE551077.md) | 1932-05-26 | G, Europa Schreibmaschinen A | Line guide plate for typewriters |
 | [DE551171](DE551171.md) | 1932-05-27 | Kraus, Hans | Device on typewriters to secure the writing limit at the lower edge of the &hellip; |
 | [DE551516](DE551516.md) | 1932-06-01 |  | Line switching device for flat panel typewriters |
 | [DE551517](DE551517.md) | 1932-06-01 | Kelly, Charles Lawrence | Holding device for coal arches |
-| [DE551518](DE551518.md) | 1932-06-01 |  | Typewriter for writing on a plurality of form tapes |
-| [DE551515](DE551515.md) | 1932-06-02 |  | Power drive device for type bar typewriters |
-| [DE551285](DE551285.md) | 1932-06-03 |  | Machine for the evaluation of sorted punch cards, whose hole values ( &hellip; |
+| [DE551518](DE551518.md) | 1932-06-01 | H, Adlerwerke Kleyer Ag | Typewriter for writing on a plurality of form tapes |
+| [DE551515](DE551515.md) | 1932-06-02 | Inc, Royal Typewriter Co | Power drive device for type bar typewriters |
+| [DE551285](DE551285.md) | 1932-06-03 | Co, Tabulating Machine | Machine for the evaluation of sorted punch cards, whose hole values ( &hellip; |
 | [DE552272](DE552272.md) | 1932-06-11 |  | Paper feed device on flat-plate typewriters |
 | [DE552607](DE552607.md) | 1932-06-15 |  | Vorrichtung zum Trennen und Glaetten der Papierlagen bei Flachplattenschreibmaschinen |
-| [DE552609](DE552609.md) | 1932-06-15 |  | Type lever drive device for typewriters |
-| [DE552610](DE552610.md) | 1932-06-15 |  | Paper holder for typewriters |
+| [DE552609](DE552609.md) | 1932-06-15 | Inc, Royal Typewriter Co | Type lever drive device for typewriters |
+| [DE552610](DE552610.md) | 1932-06-15 | Winklhofer, Wanderer Werke Vorm | Paper holder for typewriters |
 | [DE552611](DE552611.md) | 1932-06-15 | Vollberg, Guenther | Typewriter keyboard |
-| [DE552608](DE552608.md) | 1932-06-16 |  | Paper feed device for typewriters for simultaneous attack of several types |
-| [DE552739](DE552739.md) | 1932-06-16 |  | Switching device with power drive for typewriters |
+| [DE552608](DE552608.md) | 1932-06-16 | Co, Dictatype Shorthand Machine | Paper feed device for typewriters for simultaneous attack of several types |
+| [DE552739](DE552739.md) | 1932-06-16 | Inc, Electromatic Typewriters | Switching device with power drive for typewriters |
 | [DE552766](DE552766.md) | 1932-06-17 | Inhoffen, Walther | Paper slides for typewriters |
 | [DE552835](DE552835.md) | 1932-06-18 | Tauschek, Gustav | Typewriter with an electric drive |
-| [DE552989](DE552989.md) | 1932-06-20 |  | Antriebsvorrichtung fuer kraftangetriebene Kleinmaschinen, wie Schreibmaschinen, Rechenmaschinen u. dgl. |
+| [DE552989](DE552989.md) | 1932-06-20 | Werke, Mercedes Bueromaschinen | Antriebsvorrichtung fuer kraftangetriebene Kleinmaschinen, wie Schreibmaschinen, Rechenmaschinen u. dgl. |
 | [DE553112](DE553112.md) | 1932-06-22 | Engesser, Walter | Selbstkassierende Schreibmaschine |
 | [DE553208](DE553208.md) | 1932-06-23 | Radermacher, August | Wiederholungsdruckvorrichtung fuer Registrierkassen und Rechenmaschinen |
 | [DE553289](DE553289.md) | 1932-06-23 | Autzinger, Ludwig | Verfahren zum Reinigen der Typen von Schreibmaschinen o. dgl. durch Betupfen mittelseiner plastischen Masse |
@@ -8511,201 +8604,207 @@ Every patent in the library, oldest first.
 | [DE553720](DE553720.md) | 1932-06-29 | Petters, Heindl & | Device on typewriters to secure the writing limit at the lower edge of the &hellip; |
 | [DE553634](DE553634.md) | 1932-06-30 |  | Telegraph receiver with segment-shaped printing mechanism whose type levers are moved by tension rods |
 | [DE553690](DE553690.md) | 1932-07-01 | Kaeppler, Paul | Device for adjusting the platen in the stroke direction of the types |
-| [DE553960](DE553960.md) | 1932-07-04 |  | Scheckstreifenfoerdervorrichtung fuer Registrierkassen, Buchungs- oder Rechenmaschinen |
+| [DE553960](DE553960.md) | 1932-07-04 | Co, Ncr | Scheckstreifenfoerdervorrichtung fuer Registrierkassen, Buchungs- oder Rechenmaschinen |
 | [DE554369](DE554369.md) | 1932-07-08 | Grund, Fredgar | Typewriter for accounting purposes |
 | [DE554574](DE554574.md) | 1932-07-11 | Rother, Oskar | Holder for gripping the ribbon to be inserted into the ribbon fork of a &hellip; |
 | [DE554912](DE554912.md) | 1932-07-15 | Schroeder, Otto | Schreibmaschinenpostkarte |
 | [DE554883](DE554883.md) | 1932-07-18 | Bechmann, Hans | Device for loading typewriters with writing and colored paper wound onto a &hellip; |
 | [DE555009](DE555009.md) | 1932-07-19 | Jungtow, Otto | Flat typewriter |
-| [DE555243](DE555243.md) | 1932-07-21 |  | Fixing device for motors on small machines |
-| [DE555529](DE555529.md) | 1932-07-25 |  | Paper guiding device for accounting typewriters |
+| [DE555243](DE555243.md) | 1932-07-21 | Werke, Mercedes Bueromaschinen | Fixing device for motors on small machines |
+| [DE555529](DE555529.md) | 1932-07-25 | Ge, Europa Schreibmaschinen Akt | Paper guiding device for accounting typewriters |
 | [DE555947](DE555947.md) | 1932-08-01 | Pasqualini, Don Guido | Note typewriter |
-| [DE556270](DE556270.md) | 1932-08-06 |  | Type bar typewriter |
-| [DE556370](DE556370.md) | 1932-08-09 |  | Power-driven switching device for the paper cart of typewriters, typewriters &hellip; |
+| [DE556270](DE556270.md) | 1932-08-06 | Inc, Royal Typewriter Co | Type bar typewriter |
+| [DE556370](DE556370.md) | 1932-08-09 | Werke, Mercedes Bueromaschinen | Power-driven switching device for the paper cart of typewriters, typewriters &hellip; |
 | [DE556534](DE556534.md) | 1932-08-10 | Sa, Stenotype Grandjean | Device for reversing the longitudinal movement of the ribbon of stenography &hellip; |
 | [DE556620](DE556620.md) | 1932-08-12 | Flamm, Luise Galmert Geb | Schaustaender fuer Schmuckstuecke |
 | [DE556660](DE556660.md) | 1932-08-13 |  | Maschine zum Praegen von Druckplatten |
 | [DE556956](DE556956.md) | 1932-08-17 | Bloch, Grigory K Block | Type lever drive for typewriters |
-| [DE556957](DE556957.md) | 1932-08-17 |  | Umschaltvorrichtung fuer Schreibmaschinen |
+| [DE556957](DE556957.md) | 1932-08-17 | Inc, Royal Typewriter Co | Umschaltvorrichtung fuer Schreibmaschinen |
 | [DE557032](DE557032.md) | 1932-08-18 | Remy, H W | Aus dem Schutzkasten herstellbarer Schreibmaschinentisch |
-| [DE557115](DE557115.md) | 1932-08-18 |  | Control device for the carriage movement of typewriters u. like |
-| [DE557116](DE557116.md) | 1932-08-18 |  | Device for storage of the vertically displaceable type lever bearing segment in &hellip; |
-| [DE557386](DE557386.md) | 1932-08-22 |  | Method for producing embossing strips |
+| [DE557115](DE557115.md) | 1932-08-18 | Inc, Electromatic Typewriters | Control device for the carriage movement of typewriters u. like |
+| [DE557116](DE557116.md) | 1932-08-18 | Inc, Royal Typewriter Co | Device for storage of the vertically displaceable type lever bearing segment in &hellip; |
+| [DE557386](DE557386.md) | 1932-08-22 | Co, Addressograph | Method for producing embossing strips |
 | [DE557520](DE557520.md) | 1932-08-24 | Loewenbuck, Sebastian | Type wheel typewriter |
-| [DE557521](DE557521.md) | 1932-08-24 |  | Multiplication device, especially for typewriters |
+| [DE557521](DE557521.md) | 1932-08-24 | Ltd, Lamson Paragon Supply Co | Multiplication device, especially for typewriters |
 | [DE557522](DE557522.md) | 1932-08-24 | Wolff, Robert | Typing on typewriters |
-| [DE557652](DE557652.md) | 1932-08-26 |  | Typewriter with front type stop |
-| [DE557817](DE557817.md) | 1932-08-29 |  | Key lock for typewriters |
-| [DE557835](DE557835.md) | 1932-08-29 |  | Schreibmaschinentisch |
-| [DE557923](DE557923.md) | 1932-08-30 |  | Paper tape arrangement for machines controlled by number cards |
-| [DE558006](DE558006.md) | 1932-08-31 |  | Ribbon switching device for printing machines |
+| [DE557652](DE557652.md) | 1932-08-26 | Co, Underwood Elliott Fisher | Typewriter with front type stop |
+| [DE557817](DE557817.md) | 1932-08-29 | G, Bing Werke Vorm Gebr Bing A | Key lock for typewriters |
+| [DE557835](DE557835.md) | 1932-08-29 | G, Europa Schreibmaschinen A | Schreibmaschinentisch |
+| [DE557923](DE557923.md) | 1932-08-30 | Co, Tabulating Machine | Paper tape arrangement for machines controlled by number cards |
+| [DE558006](DE558006.md) | 1932-08-31 | O, Accounting & Tabulating Corp | Ribbon switching device for printing machines |
 | [DE558156](DE558156.md) | 1932-09-02 | Geb, Merz | Type lever drive for typewriters |
 | [DE557974](DE557974.md) | 1932-09-03 | Tauschek, Gustav | Drive device for typewriters |
-| [DE558571](DE558571.md) | 1932-09-08 |  | Power-operated typewriter with type bars |
+| [DE558571](DE558571.md) | 1932-09-08 | Werke, Mercedes Bueromaschinen | Power-operated typewriter with type bars |
 | [DE558572](DE558572.md) | 1932-09-08 |  | Papiereinspannvorrichtung fuer Schreibmaschinen mit flacher Schreibplatte |
-| [DE558573](DE558573.md) | 1932-09-08 |  | Device for automatic switching of the ribbon length movement |
+| [DE558573](DE558573.md) | 1932-09-08 | G, Elektrozeit A | Device for automatic switching of the ribbon length movement |
 | [DE558620](DE558620.md) | 1932-09-09 | Regentrop, & Bernard | Device for preventing axial displacement of ribbon spools |
-| [DE558756](DE558756.md) | 1932-09-10 |  | Typewriter for simultaneous typing of several types |
+| [DE558756](DE558756.md) | 1932-09-10 | Co, Dictatype Shorthand Machine | Typewriter for simultaneous typing of several types |
 | [DE558781](DE558781.md) | 1932-09-12 | Tauschek, Gustav | Table printing machine |
 | [DE558896](DE558896.md) | 1932-09-12 | Sacklowski, Alfred | Einrichtung zum Auswerten von mit Marken versehenen Steuerstreifen fuer Addier-, Registrier-, Telegraphier- und aehnliche Vorrichtungen |
 | [DE558950](DE558950.md) | 1932-09-15 | Lehmann, Karl August | Kontrollkasse fuer zusammengehoerige, eine beliebige Anzahl von Gegenstaenden betreffende Registriervorgaenge, besonders fuer Gepaeckaufbewahrungsstellen |
-| [DE559071](DE559071.md) | 1932-09-15 |  | Tab facility |
-| [DE559072](DE559072.md) | 1932-09-15 |  | Typewriter with one or more auxiliary ribbons or ribbons used as a replacement &hellip; |
+| [DE559071](DE559071.md) | 1932-09-15 | Werke, Mercedes Bueromaschinen | Tab facility |
+| [DE559072](DE559072.md) | 1932-09-15 | Inc, G M S Products | Typewriter with one or more auxiliary ribbons or ribbons used as a replacement &hellip; |
 | [DE559364](DE559364.md) | 1932-09-19 | Willmann, Hans | Vorrichtung zur selbsttaetigen UEbertragung einer Zahl aus dem Resultatwerk einer Rechenmaschine in eine Schreibmaschine |
 | [DE559505](DE559505.md) | 1932-09-21 |  | Kartengesteuerte Geschaeftsmaschine mit Druckvorrichtung |
-| [DE559529](DE559529.md) | 1932-09-21 |  | Paper guiding device on typewriters |
-| [DE559741](DE559741.md) | 1932-09-23 |  | Keyboard with a register for pressing the keys, which does not interfere with &hellip; |
+| [DE559529](DE559529.md) | 1932-09-21 | Co, Remington Typewriter | Paper guiding device on typewriters |
+| [DE559741](DE559741.md) | 1932-09-23 | Co, Addressograph | Keyboard with a register for pressing the keys, which does not interfere with &hellip; |
 | [DE560417](DE560417.md) | 1932-10-01 | Radecker, Ludwig | Rollenartig aufgewickelte Streifenkarten |
 | [DE560591](DE560591.md) | 1932-10-04 |  | Self-reversing ribbon switching device, especially for address printing machines |
-| [DE560695](DE560695.md) | 1932-10-06 |  | typewriter |
-| [DE561087](DE561087.md) | 1932-10-10 |  | Paper guide for typewriters |
+| [DE560695](DE560695.md) | 1932-10-06 | Inc, Royal Typewriter Co | typewriter |
+| [DE561087](DE561087.md) | 1932-10-10 | G, Europa Schreibmaschinen A | Paper guide for typewriters |
 | [DE561540](DE561540.md) | 1932-10-15 | Stroszeck, Wilhelm | Magnetischer Impulsgeber fuer Messgeraete, insbesondere fuer Elektrizitaetszaehler |
 | [DE562401](DE562401.md) | 1932-10-25 | Brien, Morgan Cyprian Mcmahon O | Chiffrier- und Dechiffrierschreibmaschine |
 | [DE562402](DE562402.md) | 1932-10-25 | Beran, Franz | Device for coloring the types of typewriters |
-| [DE562505](DE562505.md) | 1932-10-26 |  | Typewriter for oriental languages |
+| [DE562505](DE562505.md) | 1932-10-26 | Inc, Royal Typewriter Co | Typewriter for oriental languages |
 | [DE562589](DE562589.md) | 1932-10-27 | Inhoffen, Walther | Electric cylinder typewriter |
-| [DE562590](DE562590.md) | 1932-10-27 |  | Device for placing the key plate on the key bases of typewriters u. like |
+| [DE562590](DE562590.md) | 1932-10-27 | H, Iris Type G M B | Device for placing the key plate on the key bases of typewriters u. like |
 | [DE562670](DE562670.md) | 1932-10-28 |  | Druckvorrichtung mit schwingbar an einem beweglichen Traeger sitzenden Typenhebeln |
 | [DE563369](DE563369.md) | 1932-11-04 |  | Ribbon loom for making fringes |
 | [DE563630](DE563630.md) | 1932-11-07 | Avon, Giovanni | Type lever drive for typewriters |
-| [DE564015](DE564015.md) | 1932-11-12 |  | Tastenhebelregistrierkasse |
+| [DE564015](DE564015.md) | 1932-11-12 | Co, Ncr | Tastenhebelregistrierkasse |
 | [DE564061](DE564061.md) | 1932-11-12 | Gereben, Bela | Paper feed device for typewriters, typewriters and. like |
-| [DE564218](DE564218.md) | 1932-11-15 |  | Paper support plate with side edge guides for the paper |
+| [DE564218](DE564218.md) | 1932-11-15 | Ag, Triumph Werke Nuernberg | Paper support plate with side edge guides for the paper |
 | [DE564219](DE564219.md) | 1932-11-15 | Lewin, Awram | Typewriter, especially for booking purposes |
 | [DE564060](DE564060.md) | 1932-11-17 | Soschinski, Bruno | Device for displaying the end line of a written sheet |
-| [DE564325](DE564325.md) | 1932-11-17 |  | Ribbon lifting device for typewriters with carriage switching |
-| [DE564326](DE564326.md) | 1932-11-17 |  | Typewriter for oriental languages |
-| [DE564507](DE564507.md) | 1932-11-19 |  | Paper slide guides on typewriters and similar machines |
-| [DE564774](DE564774.md) | 1932-11-23 |  | Buchhaltungsmaschine mit mehreren Typendruckvorrichtungen |
+| [DE564325](DE564325.md) | 1932-11-17 | Ge, Triumph Werke Nuernberg Akt | Ribbon lifting device for typewriters with carriage switching |
+| [DE564326](DE564326.md) | 1932-11-17 | Inc, Royal Typewriter Co | Typewriter for oriental languages |
+| [DE564507](DE564507.md) | 1932-11-19 | Inc, Royal Typewriter Co | Paper slide guides on typewriters and similar machines |
+| [DE564774](DE564774.md) | 1932-11-23 | Ges, Fried Krupp Akt | Buchhaltungsmaschine mit mehreren Typendruckvorrichtungen |
 | [DE564838](DE564838.md) | 1932-11-24 | Woods, William Bernard | Rechen- oder Buchungsmaschine |
-| [DE565067](DE565067.md) | 1932-11-26 |  | Line switching device for typewriters and similar machines |
-| [DE565195](DE565195.md) | 1932-11-26 |  | Device to prevent incorrect stamps in stamp and registration units |
+| [DE565067](DE565067.md) | 1932-11-26 | Winklhofer, Wanderer Werke Vorm | Line switching device for typewriters and similar machines |
+| [DE565195](DE565195.md) | 1932-11-26 | Geb, Rieger Maschinenfabrik | Device to prevent incorrect stamps in stamp and registration units |
 | [DE565008](DE565008.md) | 1932-11-28 | Brunner, Hans | Selbstkassierende Schreibmaschine |
-| [DE565236](DE565236.md) | 1932-11-28 |  | Paper guiding device for accounting typewriters |
+| [DE565236](DE565236.md) | 1932-11-28 | G, Europa Schreibmaschinen A | Paper guiding device for accounting typewriters |
 | [DE565253](DE565253.md) | 1932-11-28 | Gruetzmann, Paul | Type lever drive for typewriters |
 | [DE565795](DE565795.md) | 1932-12-08 |  | Device for dyeing colored ribbons |
-| [DE566306](DE566306.md) | 1932-12-17 |  | Tastenhebelregistrierkasse |
-| [DE566765](DE566765.md) | 1932-12-21 |  | Device on die setting machines for producing the lines |
-| [DE566787](DE566787.md) | 1932-12-21 |  | Device on typewriters for automatic return of the paper cart |
-| [DE566606](DE566606.md) | 1932-12-24 |  | Power-driven typewriter |
+| [DE566306](DE566306.md) | 1932-12-17 | Co, Ncr | Tastenhebelregistrierkasse |
+| [DE566765](DE566765.md) | 1932-12-21 | Gmbh, Mergenthaler Setzmaschfab | Device on die setting machines for producing the lines |
+| [DE566787](DE566787.md) | 1932-12-21 | Winklhofer, Wanderer Werke Vorm | Device on typewriters for automatic return of the paper cart |
+| [DE566606](DE566606.md) | 1932-12-24 | Inc, Royal Typewriter Co | Power-driven typewriter |
 | [DE567401](DE567401.md) | 1933-01-02 |  | Druckmaschine mit schwingbar an einem beweglichen Traeger angeordneten Typenhebeln |
 | [DE567547](DE567547.md) | 1933-01-05 | Gal, Andreas | Verfahren und Vorrichtung zum Herstellen von Schablonen, Matern bzw. Druckformen fuer den Druck bzw. Spritzdruck von Schrift und typographischen Linien |
 | [DE567933](DE567933.md) | 1933-01-11 | Kraemer, Wenzeslaus | Fernschreibmaschine, bei der auf der Sendestation und Empfangsstation je eine Welle mit Typenrad beim Einschalten eines elektrischen Stromes in gleichmaessige Drehung gesetzt wird |
-| [DE568010](DE568010.md) | 1933-01-12 |  | Pressure abutment for typewriters |
-| [DE568434](DE568434.md) | 1933-01-19 |  | Type lever mechanism for typewriters |
+| [DE568010](DE568010.md) | 1933-01-12 | Inc, Royal Typewriter Co | Pressure abutment for typewriters |
+| [DE568434](DE568434.md) | 1933-01-19 | Inc, Royal Typewriter Co | Type lever mechanism for typewriters |
 | [DE568677](DE568677.md) | 1933-01-24 | Denzer, Ludwig | Type cushions for typewriters |
 | [DE568789](DE568789.md) | 1933-01-25 | Wilkinson, Gaston Edward | Kapseln zum Aufsetzen auf die Tasten von Schreibmaschinen |
-| [DE568790](DE568790.md) | 1933-01-25 |  | Motorisch angetriebene Schreibmaschine |
+| [DE568790](DE568790.md) | 1933-01-25 | Inc, Royal Typewriter Co | Motorisch angetriebene Schreibmaschine |
 | [DE568923](DE568923.md) | 1933-01-26 | Kramer, Arnold | Device for feeding envelopes, etc. to typewriters u. like |
-| [DE568788](DE568788.md) | 1933-01-28 |  | Adjustment device for the paper carrier of writing or similar machines |
-| [DE568792](DE568792.md) | 1933-01-28 |  | Date writing device for power-driven typewriters u. like |
+| [DE568788](DE568788.md) | 1933-01-28 | Co, Remington Typewriter | Adjustment device for the paper carrier of writing or similar machines |
+| [DE568792](DE568792.md) | 1933-01-28 | Werke, Mercedes Bueromaschinen | Date writing device for power-driven typewriters u. like |
 | [DE568947](DE568947.md) | 1933-01-30 | Pelton, George Ernest | Inking device |
-| [DE568791](DE568791.md) | 1933-02-01 |  | Power-driven car lift device for typewriters, typewriters or the like. |
-| [DE569363](DE569363.md) | 1933-02-02 |  | Paper holder for typewriters |
-| [DE569299](DE569299.md) | 1933-02-03 |  | Typewriter with exchangeable type and key lever basket |
-| [DE569451](DE569451.md) | 1933-02-03 |  | Type bar typewriter |
-| [DE569762](DE569762.md) | 1933-02-08 |  | Gehaeuse oder Schutzhaube fuer Bueromaschinen |
-| [DE569785](DE569785.md) | 1933-02-08 |  | Device for achieving a permanent stop in typewriters, typewriters and. like |
-| [DE569807](DE569807.md) | 1933-02-08 |  | Einstellbare Kurbel |
+| [DE568791](DE568791.md) | 1933-02-01 | Werke, Mercedes Bueromaschinen | Power-driven car lift device for typewriters, typewriters or the like. |
+| [DE569363](DE569363.md) | 1933-02-02 | H, Adlerwerke Kleyer Ag | Paper holder for typewriters |
+| [DE569299](DE569299.md) | 1933-02-03 | Werke, Mercedes Bueromaschinen | Typewriter with exchangeable type and key lever basket |
+| [DE569451](DE569451.md) | 1933-02-03 | Inc, Royal Typewriter Co | Type bar typewriter |
+| [DE569762](DE569762.md) | 1933-02-08 | Winklhofer, Wanderer Werke Vorm | Gehaeuse oder Schutzhaube fuer Bueromaschinen |
+| [DE569785](DE569785.md) | 1933-02-08 | Werke, Mercedes Bueromaschinen | Device for achieving a permanent stop in typewriters, typewriters and. like |
+| [DE569807](DE569807.md) | 1933-02-08 | Werke, Mercedes Bueromaschinen | Einstellbare Kurbel |
 | [DE545532](DE545532.md) | 1933-02-10 |  | Device for controlling the type of calculation of several transverse counters by means of presettable control elements on typewriters |
-| [DE569731](DE569731.md) | 1933-02-11 |  | Paper guiding device for typewriters |
-| [DE570162](DE570162.md) | 1933-02-11 |  | Type lever drive device for typewriters |
+| [DE569731](DE569731.md) | 1933-02-11 | Werke, Mercedes Bueromaschinen | Paper guiding device for typewriters |
+| [DE570162](DE570162.md) | 1933-02-11 | G, Europa Schreibmaschinen A | Type lever drive device for typewriters |
 | [DE570163](DE570163.md) | 1933-02-11 | Ma, Ellis Sterling Book Keeping | Paper guiding device for typing, calculating and accounting machines |
-| [DE570164](DE570164.md) | 1933-02-11 |  | Paper roller for typewriters |
+| [DE570164](DE570164.md) | 1933-02-11 | Co, Remington Typewriter | Paper roller for typewriters |
 | [DE570087](DE570087.md) | 1933-02-13 | Safar, Josef | Einrichtung zum Erlernen des Schreibmaschinenschreibens |
-| [DE570275](DE570275.md) | 1933-02-14 |  | Paper holder for typewriters |
-| [DE570377](DE570377.md) | 1933-02-15 |  | Teaching material typewriter with type wheel |
-| [DE570378](DE570378.md) | 1933-02-21 |  | Typewriter with an only partially toothed rack to bring about an automatic &hellip; |
-| [DE571323](DE571323.md) | 1933-02-27 |  | Randbegrenzungsvorrichtung fuer Schreibmaschinen |
+| [DE570275](DE570275.md) | 1933-02-14 | Winklhofer, Wanderer Werke Vorm | Paper holder for typewriters |
+| [DE570377](DE570377.md) | 1933-02-15 | G, Bing Werke Vorm Gebr Bing A | Teaching material typewriter with type wheel |
+| [DE570378](DE570378.md) | 1933-02-21 | Co, Remington Typewriter | Typewriter with an only partially toothed rack to bring about an automatic &hellip; |
+| [DE571323](DE571323.md) | 1933-02-27 | Co, Remington Typewriter | Randbegrenzungsvorrichtung fuer Schreibmaschinen |
 | [DE571525](DE571525.md) | 1933-03-02 | Goerwitz, Oskar | Noiseless typewriter |
-| [DE571609](DE571609.md) | 1933-03-02 |  | Tabelliermaschine zum Drucken von Kontoaufstellungen o. dgl. |
+| [DE571609](DE571609.md) | 1933-03-02 | O, Accounting & Tabulating Corp | Tabelliermaschine zum Drucken von Kontoaufstellungen o. dgl. |
 | [DE571798](DE571798.md) | 1933-03-06 | Fa, Guenther Wagner | Tape reel |
 | [DE571855](DE571855.md) | 1933-03-06 | Wolfsohn, Jakob | typewriter |
-| [DE571797](DE571797.md) | 1933-03-09 |  | Decimal tab |
+| [DE571797](DE571797.md) | 1933-03-09 | H, Adlerwerke Kleyer Ag | Decimal tab |
 | [DE572169](DE572169.md) | 1933-03-11 | Lefebvre, Paul Joseph Louis | Fliehkraftreibungskupplung |
 | [DE572362](DE572362.md) | 1933-03-14 | Hundhausen, Johannes | Typewriter for producing documents in a variety of different fonts or &hellip; |
-| [DE572645](DE572645.md) | 1933-03-20 |  | Ribbon lifting device, especially for power-driven typewriters |
-| [DE572644](DE572644.md) | 1933-03-23 |  | Typewriter with noiseless pressure of the types on the paper roller through &hellip; |
-| [DE572728](DE572728.md) | 1933-03-23 |  | Device for setting the paper carriage in its central position |
-| [DE572727](DE572727.md) | 1933-03-25 |  | Motor-driven trolley elevator |
+| [DE572645](DE572645.md) | 1933-03-20 | Inc, Royal Typewriter Co | Ribbon lifting device, especially for power-driven typewriters |
+| [DE572644](DE572644.md) | 1933-03-23 | Co, Remington Typewriter | Typewriter with noiseless pressure of the types on the paper roller through &hellip; |
+| [DE572728](DE572728.md) | 1933-03-23 | Inc, Royal Typewriter Co | Device for setting the paper carriage in its central position |
+| [DE572727](DE572727.md) | 1933-03-25 | Inc, Royal Typewriter Co | Motor-driven trolley elevator |
 | [DE573197](DE573197.md) | 1933-03-30 | Eibert, Fritz | Device for the silent return of the paper cart from typewriters |
-| [DE573364](DE573364.md) | 1933-03-31 |  | Einrichtung an Rechenmaschinen zum UEberspringen von Kolonnenstelleranschlaegen |
+| [DE573364](DE573364.md) | 1933-03-31 | Winklhofer, Wanderer Werke Vorm | Einrichtung an Rechenmaschinen zum UEberspringen von Kolonnenstelleranschlaegen |
 | [DE573575](DE573575.md) | 1933-04-02 |  | Typewriter with several transverse summing units |
-| [DE573871](DE573871.md) | 1933-04-06 |  | Device on typewriters for writing the date |
+| [JP101907](JP101907.md) | 1933-04-05 | Kawashima, Saichirō | Paper-cylinder feed device for a typewriter |
+| [DE573871](DE573871.md) | 1933-04-06 | Werke, Mercedes Bueromaschinen | Device on typewriters for writing the date |
 | [DE545476](DE545476.md) | 1933-04-07 | Keller, Georg | Paper web formed from envelopes for continuous lettering of envelopes using the &hellip; |
-| [DE573908](DE573908.md) | 1933-04-07 |  | Power drive device for type bar typewriters |
-| [DE573910](DE573910.md) | 1933-04-07 |  | Typewriter with type carriers that are noiselessly pressed against the paper &hellip; |
-| [DE573911](DE573911.md) | 1933-04-07 |  | Paper guiding device for writing or similar machines |
-| [DE573912](DE573912.md) | 1933-04-07 |  | Roller bearing for typewriters |
+| [DE573908](DE573908.md) | 1933-04-07 | Inc, Royal Typewriter Co | Power drive device for type bar typewriters |
+| [DE573910](DE573910.md) | 1933-04-07 | Co, Remington Typewriter | Typewriter with type carriers that are noiselessly pressed against the paper &hellip; |
+| [DE573911](DE573911.md) | 1933-04-07 | Co, Remington Typewriter | Paper guiding device for writing or similar machines |
+| [DE573912](DE573912.md) | 1933-04-07 | Co, Remington Typewriter | Roller bearing for typewriters |
 | [DE573913](DE573913.md) | 1933-04-07 | Eibert, Fritz | Type lever guide for typewriters |
 | [DE573909](DE573909.md) | 1933-04-08 |  | Flat panel typewriter |
-| [DE574082](DE574082.md) | 1933-04-10 |  | Multiplier for typewriters |
+| [DE574082](DE574082.md) | 1933-04-10 | Inc, Royal Typewriter Co | Multiplier for typewriters |
 | [DE574363](DE574363.md) | 1933-04-12 | Stein, Wilhelm | Printing device |
-| [DE574364](DE574364.md) | 1933-04-13 |  | Typewriter frame |
+| [DE574364](DE574364.md) | 1933-04-13 | Co, Remington Typewriter | Typewriter frame |
 | [DE574816](DE574816.md) | 1933-04-21 | Boutet, Rene Edmond | Kombinierte Schreib- und Rechenmaschine |
-| [DE575117](DE575117.md) | 1933-04-24 |  | Writing device with type wheel |
+| [JP102040](JP102040.md) | 1933-04-21 | Shimizu, Jirō | Paper-cylinder feed device in a Japanese-script typewriter |
+| [DE575117](DE575117.md) | 1933-04-24 | G, Bing Werke Vorm Gebr Bing A | Writing device with type wheel |
 | [USD89709](USD89709.md) | 1933-04-25 | Kurowski, Alfred G. F. | Design for a Braille-Writing Machine |
-| [DE575269](DE575269.md) | 1933-04-26 |  | Verfahren zum Herstellen lichtechter Schreibmaschinenschriftstuecke und Kopien |
+| [DE575269](DE575269.md) | 1933-04-26 | Ltd, Ici | Verfahren zum Herstellen lichtechter Schreibmaschinenschriftstuecke und Kopien |
 | [DE575278](DE575278.md) | 1933-04-26 |  | Aus doppel-U-foermig gebogenem Flacheisen hergestellte Spannschiene fuer elektrischeMaschinen |
 | [DE575630](DE575630.md) | 1933-04-29 | Metz, August | Sperrautomat fuer Schreibmaschinen |
+| [JP102722](JP102722.md) | 1933-05-03 | Hamada, Hatsujirō | Automatic printing machine |
 | [DE575861](DE575861.md) | 1933-05-04 | Eckert, Eduard | Typewriter with ink pad |
 | [DE576078](DE576078.md) | 1933-05-06 | A, Ransmayer A & Rodrian | Type body for type lever typewriters |
 | [DE576188](DE576188.md) | 1933-05-08 | Gruetzmann, Paul | Type lever drive for typewriters |
-| [DE576189](DE576189.md) | 1933-05-08 |  | Drive device for the type carrier of typewriters |
+| [DE576189](DE576189.md) | 1933-05-08 | Co, Remington Typewriter | Drive device for the type carrier of typewriters |
 | [DE576187](DE576187.md) | 1933-05-09 | Hinrichs, Herbert | Schreibmaschine |
+| [JP103518](JP103518.md) | 1933-05-10 | Suganuma, Seiichi | Printing machine |
 | [DE576535](DE576535.md) | 1933-05-11 | Lokomotiv, Schweizerische | Line switching device on line typewriters, line typesetting and printing &hellip; |
 | [DE576185](DE576185.md) | 1933-05-12 | Knorr, Alfred | Type wheel sector typewriter with button as a children's typewriter |
 | [DE576186](DE576186.md) | 1933-05-12 | Balston, Clyde Chester | Arrangement for controlling any device, e.g. B. for simultaneous and automatic &hellip; |
-| [DE576534](DE576534.md) | 1933-05-12 |  | Type lever drive for typewriters |
-| [DE576651](DE576651.md) | 1933-05-12 |  | Color box for coloring color ribbons |
-| [DE576533](DE576533.md) | 1933-05-15 |  | Type lever drive for noiseless typewriters |
+| [DE576534](DE576534.md) | 1933-05-12 | Co, Remington Typewriter | Type lever drive for typewriters |
+| [DE576651](DE576651.md) | 1933-05-12 | Ges, Hartmann & Braun Akt | Color box for coloring color ribbons |
+| [DE576533](DE576533.md) | 1933-05-15 | Co, Remington Typewriter | Type lever drive for noiseless typewriters |
 | [DE576717](DE576717.md) | 1933-05-15 | Haberfeld, Erwin O | Device on typewriters for inserting and setting an account sheet in front of a &hellip; |
 | [DE576435](DE576435.md) | 1933-05-16 | Breitling, Ernst | Textschreibende Buchungsmaschine |
-| [DE576833](DE576833.md) | 1933-05-17 |  | Paper guide for typewriters |
+| [DE576833](DE576833.md) | 1933-05-17 | Werke, Mercedes Bueromaschinen | Paper guide for typewriters |
 | [DE577146](DE577146.md) | 1933-05-24 | Simon, Hans | Ink device for typewriters |
 | [DE577549](DE577549.md) | 1933-06-01 | Hunger, Hermann | Typewriter keyboard |
 | [DE577708](DE577708.md) | 1933-06-03 | Kupfahl, Julius | Typewriter keyboard |
 | [DE577806](DE577806.md) | 1933-06-05 |  | Typewriter u. The like for accounting quantities not based on the decimal system |
 | [DE577859](DE577859.md) | 1933-06-06 | Marchthal, Eduard | Type drum arrangement |
-| [DE577922](DE577922.md) | 1933-06-07 |  | Device for returning the paper cart from typewriters by means of an electric &hellip; |
+| [DE577922](DE577922.md) | 1933-06-07 | Co, Underwood Elliott Fisher | Device for returning the paper cart from typewriters by means of an electric &hellip; |
 | [DE577948](DE577948.md) | 1933-06-07 | Kleinschreibmaschine, Stylotype | Type wheel typewriter |
-| [DE577949](DE577949.md) | 1933-06-07 |  | Device in typewriters for setting the writing paper on the first line to be &hellip; |
-| [DE577950](DE577950.md) | 1933-06-07 |  | Device for setting the paper trolley of typewriters in its central position |
-| [DE577951](DE577951.md) | 1933-06-07 |  | Protective frame for typewriters |
+| [DE577949](DE577949.md) | 1933-06-07 | H, Adlerwerke Kleyer Ag | Device in typewriters for setting the writing paper on the first line to be &hellip; |
+| [DE577950](DE577950.md) | 1933-06-07 | Inc, Royal Typewriter Co | Device for setting the paper trolley of typewriters in its central position |
+| [DE577951](DE577951.md) | 1933-06-07 | Inc, Royal Typewriter Co | Protective frame for typewriters |
 | [DE577974](DE577974.md) | 1933-06-08 | Mach, Accounting And Tabulating | Paper switchgear for tabulating machines or the like. |
 | [DE576313](DE576313.md) | 1933-06-14 | Benzing, Hugo | Power drive for typewriters, calculating machines or the like. |
 | [DE578491](DE578491.md) | 1933-06-14 | Kramer, Arnold | Device for recording shorthands and transferring them to the typewriter |
-| [DE578808](DE578808.md) | 1933-06-17 |  | Registrierkassendruckwerk mit mehreren Typenradgruppen |
-| [DE578810](DE578810.md) | 1933-06-20 |  | Tastenhebelregistrierkasse mit einer Belegfuehlvorrichtung |
+| [DE578808](DE578808.md) | 1933-06-17 | Co, Ncr | Registrierkassendruckwerk mit mehreren Typenradgruppen |
+| [DE578810](DE578810.md) | 1933-06-20 | Co, Ncr | Tastenhebelregistrierkasse mit einer Belegfuehlvorrichtung |
 | [DE578932](DE578932.md) | 1933-06-20 | Soc, It Registratori S I R | Vorrichtung zum Drucken und Ausgeben von Karten an Registrierkassen oder Buchungsmaschinen |
 | [DE556958](DE556958.md) | 1933-06-22 | Gruener, Josef | Elastic keycap |
-| [DE579491](DE579491.md) | 1933-06-27 |  | Typewriter with noiseless type carrier pressed against the paper roller |
+| [DE579491](DE579491.md) | 1933-06-27 | Co, Remington Typewriter | Typewriter with noiseless type carrier pressed against the paper roller |
 | [DE579492](DE579492.md) | 1933-06-27 | Fa, Alfred Dassler | Inking unit with an ink roller lying in the way of the types |
-| [DE579006](DE579006.md) | 1933-06-28 |  | Punkt- oder Lochstreifen sowie Auswertungsvorrichtung fuer durch Punkt- oder Lochstreifen gesteuerte Maschinen |
-| [DE579572](DE579572.md) | 1933-06-28 |  | Table writing device for typewriters |
+| [DE579006](DE579006.md) | 1933-06-28 | Ges, Siemens & Halske Akt | Punkt- oder Lochstreifen sowie Auswertungsvorrichtung fuer durch Punkt- oder Lochstreifen gesteuerte Maschinen |
+| [DE579572](DE579572.md) | 1933-06-28 | Winklhofer, Wanderer Werke Vorm | Table writing device for typewriters |
 | [DE579591](DE579591.md) | 1933-06-28 |  | Schreibmaschinentisch |
 | [DE579749](DE579749.md) | 1933-06-30 | Grah, Ernst | Pneumatisch angetriebene Schreibmaschine |
 | [DE579901](DE579901.md) | 1933-07-03 | Breitling, Ernst | Registrierkasse fuer Warenhaeuser |
 | [DE580200](DE580200.md) | 1933-07-07 | A, Ransmayer A & Rodrian | Teaching for placing the type body on the type lever |
 | [DE580286](DE580286.md) | 1933-07-07 | A, Ransmayer A & Rodrian | Type body for type lever typewriters |
-| [DE578829](DE578829.md) | 1933-07-08 |  | Adding and calculating machine with printing mechanism |
+| [JP103435](JP103435.md) | 1933-07-07 | Kawashima, Saichirō | Printing machine |
+| [DE578829](DE578829.md) | 1933-07-08 | Ges, Astraweerke Akt | Adding and calculating machine with printing mechanism |
 | [DE580676](DE580676.md) | 1933-07-14 |  | Printing device, e.g. B. for punch card machines |
 | [DE580714](DE580714.md) | 1933-07-14 |  | Selbsttaetig umsteuerbare Farbbandschaltvorrichtung, insbesondere fuer Adressendruckmaschinen |
 | [DE580715](DE580715.md) | 1933-07-15 | Marchthal, Eduard | Paper feed device, especially for typewriters for the production of documents &hellip; |
-| [DE580737](DE580737.md) | 1933-07-15 |  | Druckwerk fuer Addiermaschinen, Rechenmaschinen u. dgl. |
+| [DE580737](DE580737.md) | 1933-07-15 | Werke, Mercedes Bueromaschinen | Druckwerk fuer Addiermaschinen, Rechenmaschinen u. dgl. |
 | [DE580738](DE580738.md) | 1933-07-15 | Varren, Alexander | Nullendruckvorrichtung fuer Rechenmaschinen, Kontrollkassen u. dgl. |
-| [DE580767](DE580767.md) | 1933-07-15 |  | Adjustment device for the ribbon stroke of typewriters |
+| [DE580767](DE580767.md) | 1933-07-15 | Ag, Triumph Werke Nuernberg | Adjustment device for the ribbon stroke of typewriters |
 | [DE580853](DE580853.md) | 1933-07-17 | Cie, Bbc Brown Boveri & | Einrichtung zur Sicherung der Verbindung von Laeuferteilen von Kreiselmaschinen |
 | [DE580989](DE580989.md) | 1933-07-19 | Gerson, Adolf | Pocket typewriter |
-| [DE580990](DE580990.md) | 1933-07-19 |  | Automatic switching device for the ribbon length movement in typewriters |
-| [DE581078](DE581078.md) | 1933-07-20 |  | Line switch |
-| [DE581566](DE581566.md) | 1933-07-29 |  | Einrichtung zum Ausschalten der Umschaltvorrichtung fuer das Rechenwerk an Schreibmaschinen |
+| [DE580990](DE580990.md) | 1933-07-19 | Co, Remington Typewriter | Automatic switching device for the ribbon length movement in typewriters |
+| [DE581078](DE581078.md) | 1933-07-20 | Co, Remington Typewriter | Line switch |
+| [DE581566](DE581566.md) | 1933-07-29 | Ag, Triumph Werke Nuernberg | Einrichtung zum Ausschalten der Umschaltvorrichtung fuer das Rechenwerk an Schreibmaschinen |
 | [DE581601](DE581601.md) | 1933-07-31 | Charles, Ernest Ridley Debenham | Vorrichtung zum Abdrucken von mehrstelligen Faktoren und des Produktes einer multiplizierenden Rechenmaschine |
-| [DE581663](DE581663.md) | 1933-07-31 |  | Adjustment device for the edge stops of typewriters |
+| [DE581663](DE581663.md) | 1933-07-31 | Inc, Royal Typewriter Co | Adjustment device for the edge stops of typewriters |
 | [DE581662](DE581662.md) | 1933-08-01 | Rudolf, Herbert | Device for the silent return of the paper cart from typewriters |
 | [DE581679](DE581679.md) | 1933-08-01 | Bethke, Gerhard | Rueckenlehne, insbesondere fuer Schreibmaschinenstuehle |
-| [DE582391](DE582391.md) | 1933-08-14 |  | Typewriter in which part of the type lever only carries one and the other part &hellip; |
-| [DE582551](DE582551.md) | 1933-08-17 |  | Device on typewriters for the production of forgery-proof writing |
+| [JP104642](JP104642.md) | 1933-08-04 | Miwa, Mataichi | Feed device for a typewriter |
+| [DE582391](DE582391.md) | 1933-08-14 | Ag, Triumph Werke Nuernberg | Typewriter in which part of the type lever only carries one and the other part &hellip; |
+| [DE582551](DE582551.md) | 1933-08-17 | Winklhofer, Wanderer Werke Vorm | Device on typewriters for the production of forgery-proof writing |
 | [DE582639](DE582639.md) | 1933-08-18 | Schroeter, Kurt | Device on typewriters to secure the lettering border on the lower edge of the &hellip; |
 | [DE523698](DE523698.md) | 1933-08-21 | Krauss, Georg | Typewriter with needles that can be moved to form the letters |
 | [DE582810](DE582810.md) | 1933-08-23 | Scheffler, Kurt | Typewriter or similar machine |
@@ -8720,225 +8819,247 @@ Every patent in the library, oldest first.
 | [DE584777](DE584777.md) | 1933-09-23 | Haberfeld, Erwin O | Device on typewriters for inserting and setting an account sheet from a land &hellip; |
 | [DE584972](DE584972.md) | 1933-09-26 |  | Multiplier with gelatin ribbon |
 | [DE584612](DE584612.md) | 1933-09-27 |  | Height-adjustable holder for shorthand books |
-| [DE585068](DE585068.md) | 1933-09-28 |  | Device on typewriters and similar machines for canceling the noise caused by &hellip; |
-| [DE585069](DE585069.md) | 1933-09-30 |  | Alignment device for writing sheets on typewriters equipped with rows of holes |
+| [DE585068](DE585068.md) | 1933-09-28 | Werke, Mercedes Bueromaschinen | Device on typewriters and similar machines for canceling the noise caused by &hellip; |
+| [DE585069](DE585069.md) | 1933-09-30 | Werke, Mercedes Bueromaschinen | Alignment device for writing sheets on typewriters equipped with rows of holes |
 | [DE585280](DE585280.md) | 1933-09-30 | Rosenthal, Hellmuth | Noiseless type carrier drive by means of double toggle levers for writing and &hellip; |
-| [DE585692](DE585692.md) | 1933-10-06 |  | Wechsel- und Wendegetriebe fuer Holz-Schleif- und -Poliermaschinen |
+| [DE585692](DE585692.md) | 1933-10-06 | Maschf, Steingaesser & Co | Wechsel- und Wendegetriebe fuer Holz-Schleif- und -Poliermaschinen |
 | [DE585743](DE585743.md) | 1933-10-07 | Eibert, Fritz | Paper carriage switching device on typewriters |
-| [DE586198](DE586198.md) | 1933-10-18 |  | Printing unit for addition and other calculating machines |
+| [DE586198](DE586198.md) | 1933-10-18 | Und, Remag Akt Ges Fuer Bureau | Printing unit for addition and other calculating machines |
 | [DE586252](DE586252.md) | 1933-10-19 | Stueber, Eugen | Syllable typewriter |
-| [DE586448](DE586448.md) | 1933-10-21 |  | Typewriter, typewriter, etc. Like. With an automatic car elevator |
-| [DE586518](DE586518.md) | 1933-10-23 |  | Typewriter tab device |
+| [DE586448](DE586448.md) | 1933-10-21 | Werke, Mercedes Bueromaschinen | Typewriter, typewriter, etc. Like. With an automatic car elevator |
+| [DE586518](DE586518.md) | 1933-10-23 | Inc, Royal Typewriter Co | Typewriter tab device |
 | [DE586615](DE586615.md) | 1933-10-24 | Knotz, Alois | Device for printing block slips etc. like |
 | [DE586447](DE586447.md) | 1933-10-25 | Marchthal, Eduard | Device for automatic compensation of line lengths for typing, setting, casting &hellip; |
-| [DE587041](DE587041.md) | 1933-10-28 |  | Device on typewriters to lock the ratchet when the paper trolley hits the right &hellip; |
-| [DE587042](DE587042.md) | 1933-10-28 |  | Device for automatic switching of the ribbon length movement on typewriters |
-| [DE587130](DE587130.md) | 1933-10-30 |  | Device for driving the type lever of typewriters |
+| [DE587041](DE587041.md) | 1933-10-28 | Winklhofer, Wanderer Werke Vorm | Device on typewriters to lock the ratchet when the paper trolley hits the right &hellip; |
+| [DE587042](DE587042.md) | 1933-10-28 | Inc, Royal Typewriter Co | Device for automatic switching of the ribbon length movement on typewriters |
+| [DE587130](DE587130.md) | 1933-10-30 | Inc, Electromatic Typewriters | Device for driving the type lever of typewriters |
 | [DE587295](DE587295.md) | 1933-11-01 | Buchholtz, Erich | Device for aligning printed matter postcards clamped in a typewriter |
 | [DE587430](DE587430.md) | 1933-11-06 | Hausheer, Max Emile | Line typewriter writing on a flat plane |
 | [DE587741](DE587741.md) | 1933-11-08 | Jahnz, Erwin | Tastatur fuer Zehntasten-Rechenmaschinen mit Stiftekasten |
 | [DE588051](DE588051.md) | 1933-11-11 | Fa, Guenther Wagner | Tape reel |
 | [DE588563](DE588563.md) | 1933-11-20 | Zellmann, Rudolf | Desensibilisierung von Thoriumdioxydsol |
-| [DE588882](DE588882.md) | 1933-12-04 |  | Typewriter with type stop mechanism that can be moved in line direction |
+| [JP105151](JP105151.md) | 1933-11-29 | Oshitari, Kingo | Printing machine |
+| [DE588882](DE588882.md) | 1933-12-04 | H, Adlerwerke Kleyer Ag | Typewriter with type stop mechanism that can be moved in line direction |
 | [DE570379](DE570379.md) | 1933-12-09 | Coenen, Paul | Note typewriter |
 | [DE589719](DE589719.md) | 1933-12-13 | Lokomotiv, Schweizerische | Zeilensetz- und Druckmaschine mit umlaufenden Patrizen |
 | [DE589822](DE589822.md) | 1933-12-17 |  | Ribbon guidance over the forme cylinder segment of a rotary printer |
-| [DE589915](DE589915.md) | 1933-12-20 |  | Line shift wheel clutch |
+| [DE589915](DE589915.md) | 1933-12-20 | Werke, Mercedes Bueromaschinen | Line shift wheel clutch |
 | [DE590054](DE590054.md) | 1933-12-21 | Fa, Guenther Wagner | Tape reel |
 | [DE590241](DE590241.md) | 1933-12-30 | Huellen, Josef | Vorrichtung an Schreibmaschinen zur Sicherung der Schreibgrenze am unteren Rande des Papierbogens |
 | [DE590369](DE590369.md) | 1934-01-02 | Wolff, Robert | Paper carriage switching device on typewriters |
 | [DE590367](DE590367.md) | 1934-01-03 | Beckhaus, Friedrich Karl | Machine for writing shorthand and plain text for all languages |
 | [DE590368](DE590368.md) | 1934-01-04 | Joerissen, Carl A | Type lever drive for typewriters |
-| [DE590865](DE590865.md) | 1934-01-12 |  | Pad for writing and similar machines |
-| [DE591100](DE591100.md) | 1934-01-17 |  | Device for changing types in typewriters |
+| [DE590865](DE590865.md) | 1934-01-12 | Winklhofer, Wanderer Werke Vorm | Pad for writing and similar machines |
+| [DE591100](DE591100.md) | 1934-01-17 | H, Iris Type G M B | Device for changing types in typewriters |
 | [DE591122](DE591122.md) | 1934-01-17 | Kanold, Otto | Leicht loesbare Verbindung von Kohlepapieren mit den gemeinsam zu beschriftenden Blaettern |
 | [DE591272](DE591272.md) | 1934-01-19 | Weidl, Raufmann Georg | Holder for manuscripts, shorthands etc. like |
 | [DE591929](DE591929.md) | 1934-01-29 | Appel, Hans | Registrierkasse |
-| [DE592208](DE592208.md) | 1934-02-03 |  | Type lever drive for typewriters |
+| [DE592208](DE592208.md) | 1934-02-03 | Co, Remington Typewriter | Type lever drive for typewriters |
 | [DE592209](DE592209.md) | 1934-02-03 | Typewriters, L C Smith & Corona | Multiplication typewriter for writing on long, overlapping paper webs |
 | [DE592294](DE592294.md) | 1934-02-05 |  | Automatically reversible ribbon switching device for office printing machines |
-| [DE592419](DE592419.md) | 1934-02-07 |  | Papierwagenschaltvorrichtung an Schreibmaschinen |
+| [DE592419](DE592419.md) | 1934-02-07 | Ge, Triumph Werke Nuernberg Akt | Papierwagenschaltvorrichtung an Schreibmaschinen |
 | [DE592587](DE592587.md) | 1934-02-10 | Wolff, Robert | Device for shortening or lengthening the distance of the head of typewriter &hellip; |
 | [DE592588](DE592588.md) | 1934-02-10 | Wolff, Robert | Device for picking typewriter levers |
-| [DE592859](DE592859.md) | 1934-02-16 |  | Device for introducing and aligning a sheet of paper to be introduced from the &hellip; |
+| [DE592859](DE592859.md) | 1934-02-16 | H, Taylorix Organisation G M B | Device for introducing and aligning a sheet of paper to be introduced from the &hellip; |
 | [DE592871](DE592871.md) | 1934-02-16 | Coenen, Paul | Note typewriter |
-| [DE592965](DE592965.md) | 1934-02-19 |  | Schneid- und Stapelmaschine fuer Papierbogen |
-| [DE593927](DE593927.md) | 1934-03-12 |  | Typewriter, typewriter or similar machine |
+| [DE592965](DE592965.md) | 1934-02-19 | Co, Ncr | Schneid- und Stapelmaschine fuer Papierbogen |
+| [DE593927](DE593927.md) | 1934-03-12 | Werke, Mercedes Bueromaschinen | Typewriter, typewriter or similar machine |
 | [DE594087](DE594087.md) | 1934-03-13 |  | Stamp device with ribbon |
 | [DE594421](DE594421.md) | 1934-03-16 | Schnellpressen, Albert | Aus mehreren Teilen gebildetes, in einer Bohrung der Gestellwand sitzendes Lager fuer den Formzylinder von Rotationstiefdruckmaschinen |
-| [DE594866](DE594866.md) | 1934-03-24 |  | Typewriter case |
+| [DE594866](DE594866.md) | 1934-03-24 | Inc, Royal Typewriter Co | Typewriter case |
 | [DE594970](DE594970.md) | 1934-03-24 |  | Druckwalzen |
 | [DE566788](DE566788.md) | 1934-03-26 | Inhoffen, Walther | Color apparatus, especially for typewriters with type cylinders |
 | [DE594958](DE594958.md) | 1934-03-27 | Last, James | Verfahren zur Sicherung uebereinstimmender Lage und Bewegung einzelner Merkkarten oder eines zusammenhaengenden Merkstreifens einerseits und koerperlicher Gegenstaende, z. B. Schecks, andererseits |
 | [DE595030](DE595030.md) | 1934-03-28 | Hochman, Julius Cornelius | Auxiliary ribbon device on typewriters |
 | [DE595105](DE595105.md) | 1934-04-07 | Simson, Donald Petrie | Druckeinrichtung fuer Rechenmaschinen o. dgl. |
-| [DE595898](DE595898.md) | 1934-04-21 |  | Line switch for typewriters |
+| [JP106965](JP106965.md) | 1934-04-20 | Shimizu, Jirō | Paper-cylinder feed device for a printing machine |
+| [JP107636](JP107636.md) | 1934-04-20 | Suganuma, Seiichi | Line-spacing (sideways feed) device for a typewriter |
+| [JP108026](JP108026.md) | 1934-04-20 | Miwa, Mataichi | Typewriter feed device |
+| [DE595898](DE595898.md) | 1934-04-21 | Winklhofer, Wanderer Werke Vorm | Line switch for typewriters |
 | [DE595944](DE595944.md) | 1934-04-24 |  | List conveyor device for office printing machines, in particular address &hellip; |
 | [DE595946](DE595946.md) | 1934-04-24 |  | With a rotating type drum working marking machine for printing and stamping labels or the like. |
-| [DE578160](DE578160.md) | 1934-04-25 |  | Zylindrische, an den Enden durch Stopfen verschlossene Ampulle |
+| [DE578160](DE578160.md) | 1934-04-25 | H, Chem Fab G Robisch G M B | Zylindrische, an den Enden durch Stopfen verschlossene Ampulle |
 | [DE596284](DE596284.md) | 1934-04-30 | Com, Monroe Calculating Machine | Rechenmaschine |
+| [JP107786](JP107786.md) | 1934-04-30 | Abe, Okujirō | Type-frame holding device in a Japanese-script typewriter |
 | [DE596260](DE596260.md) | 1934-05-04 | Haberfeld, Erwin O | Device on typewriters for inserting and setting an account sheet in front of a &hellip; |
-| [DE596259](DE596259.md) | 1934-05-05 |  | Multiple table writing device for typewriters u. like |
+| [DE596259](DE596259.md) | 1934-05-05 | Werke, Mercedes Bueromaschinen | Multiple table writing device for typewriters u. like |
 | [DE596723](DE596723.md) | 1934-05-09 | Dietrich, Karl | Selbstkassierender, als Zusatzgeraet an Schreibmaschinen anbringbarer Sperrautomat |
 | [DE596961](DE596961.md) | 1934-05-12 | Haberfeld, Erwin O | Paper cup arrangement on typewriters |
 | [DE597328](DE597328.md) | 1934-05-23 | Pfeiffer, Frank Edward | Vorrichtung zum Verschieben mehrerer zusammengehoeriger Papierbahnen an Schreib- und aehnlichen Maschinen |
 | [DE597329](DE597329.md) | 1934-05-25 | Stern, Milton Charles | Typewriter and similar machine for copying purposes |
 | [DE597675](DE597675.md) | 1934-05-29 | Oberhausen, Gutehoffnungshuette | Multi-color printing device for punch card tabulating machines |
 | [DE597819](DE597819.md) | 1934-05-31 |  | Tabulator for keyboard machines |
-| [DE597820](DE597820.md) | 1934-05-31 |  | Universal rail arrangement on typewriters |
-| [DE597821](DE597821.md) | 1934-05-31 |  | Paper feed device for typewriters |
+| [DE597820](DE597820.md) | 1934-05-31 | Co, Underwood Elliott Fisher | Universal rail arrangement on typewriters |
+| [DE597821](DE597821.md) | 1934-05-31 | G, Europa Schreibmaschinen A | Paper feed device for typewriters |
 | [DE597818](DE597818.md) | 1934-06-02 | Loewenbuck, Sebastian | typewriter |
 | [DE598144](DE598144.md) | 1934-06-06 | Den, Outer Marius | Syllable typewriter |
 | [DE598482](DE598482.md) | 1934-06-13 | Teissedre, Gustav | Type cylinder typewriter |
 | [DE598915](DE598915.md) | 1934-06-21 | Aurbach, - Kurt | Druckwerk fuer registrierende Maschinen, z. B. Registrierkassen |
+| [JP107719](JP107719.md) | 1934-06-22 | Shimizu, Jirō | Paper-cylinder back-feed device for a Japanese-script typewriter |
 | [DE598882](DE598882.md) | 1934-06-25 | Marchthal, Eduard | Height switching device for type drums or the like of writing and similar &hellip; |
+| [JP108301](JP108301.md) | 1934-06-25 | Iisaku, Takichirō | Type push-up device in a typewriter |
 | [DE599388](DE599388.md) | 1934-06-30 |  | Automatic ribbon switching device, especially for address printing machines |
+| [JP108017](JP108017.md) | 1934-07-02 | Kawana, Hikoichi | Paper cylinder (platen) for a Japanese-script typewriter |
+| [JP109043](JP109043.md) | 1934-07-02 | Ōya, Takeshi | Character-feed and line-feed mechanism for a typewriter |
+| [JP109047](JP109047.md) | 1934-07-02 | Ōya, Takeshi | Carriage (sideways) feed mechanism for a typewriter |
+| [JP109044](JP109044.md) | 1934-07-04 | Ōya, Takeshi | Change-over mechanism between vertical feed and lateral feed in a typewriter |
 | [DE599733](DE599733.md) | 1934-07-07 | Inhoffen, Walther | Typewriter frame |
 | [DE600556](DE600556.md) | 1934-07-25 | Schluder, Margarete | Ribbon for calculators and like |
+| [JP108280](JP108280.md) | 1934-07-27 | Hashizume, Jinnosuke | Paper-table return device for a horizontal-writing printing machine |
+| [JP108761](JP108761.md) | 1934-07-27 | Yokota, Yoshitarō | Feed device for a Japanese-script printing machine |
 | [DE601240](DE601240.md) | 1934-08-10 | Gruetzmann, Paul | Device for moving the type lever or type bars of typewriters |
-| [DE602017](DE602017.md) | 1934-08-30 |  | Schaltwerkrahmen fuer Rechenmaschinen |
+| [JP109162](JP109162.md) | 1934-08-22 | Kawana, Jun | Printing machine |
+| [DE602017](DE602017.md) | 1934-08-30 | Werke, Mercedes Bueromaschinen | Schaltwerkrahmen fuer Rechenmaschinen |
 | [DE602262](DE602262.md) | 1934-09-06 | Glogaud, Pierre James Etienne | Embossing machine for address printing plates |
 | [DE602325](DE602325.md) | 1934-09-06 | Kaeppler, Paul | Ratchet wheel clutch on typewriters and similar machines |
-| [DE602326](DE602326.md) | 1934-09-06 |  | Paper guiding device on typewriters |
-| [DE602327](DE602327.md) | 1934-09-06 |  | Device for automatic switching of the ribbon length movement on typewriters, &hellip; |
+| [DE602326](DE602326.md) | 1934-09-06 | Corp, Sundstrand | Paper guiding device on typewriters |
+| [DE602327](DE602327.md) | 1934-09-06 | Werke, Mercedes Bueromaschinen | Device for automatic switching of the ribbon length movement on typewriters, &hellip; |
 | [DE602328](DE602328.md) | 1934-09-06 | Schlessinger, Richard | Iron-on ribbon holder for typewriters |
-| [DE602324](DE602324.md) | 1934-09-07 |  | Setting tab for typewriters, typewriters, etc. like |
-| [DE602392](DE602392.md) | 1934-09-07 |  | Paper slide lock for typewriters |
-| [DE602329](DE602329.md) | 1934-09-10 |  | Typewriter with auxiliary ribbon |
-| [DE602391](DE602391.md) | 1934-09-10 |  | Typewriter, typewriter, etc. Like. With an automatic car elevator |
+| [DE602324](DE602324.md) | 1934-09-07 | Werke, Mercedes Bueromaschinen | Setting tab for typewriters, typewriters, etc. like |
+| [DE602392](DE602392.md) | 1934-09-07 | G, Europa Schreibmaschinen A | Paper slide lock for typewriters |
+| [DE602329](DE602329.md) | 1934-09-10 | Co, Underwood Elliott Fisher | Typewriter with auxiliary ribbon |
+| [DE602391](DE602391.md) | 1934-09-10 | Werke, Mercedes Bueromaschinen | Typewriter, typewriter, etc. Like. With an automatic car elevator |
 | [DE602699](DE602699.md) | 1934-09-14 | Rittig, Curt | Paper web formed from envelopes |
 | [DE602845](DE602845.md) | 1934-09-17 |  | Electrodynamic ribbon microphone |
-| [DE603170](DE603170.md) | 1934-09-24 | Rechenmaschine, Cordt Universal | Mit Multiplikations- bzw. Vierspeziesmaschinen gekuppelte Addiermaschine |
-| [DE603255](DE603255.md) | 1934-09-26 |  | Spacer for the feed rollers of typewriters or the like. |
+| [DE603170](DE603170.md) | 1934-09-24 | Ges, Appbau | Mit Multiplikations- bzw. Vierspeziesmaschinen gekuppelte Addiermaschine |
+| [DE603255](DE603255.md) | 1934-09-26 | Co, Underwood Elliott Fisher | Spacer for the feed rollers of typewriters or the like. |
 | [DE603257](DE603257.md) | 1934-09-26 | Lamy, Carl Gustav | Ink device with ribbon on type lever typewriters u like |
-| [DE603256](DE603256.md) | 1934-09-27 |  | Paper guiding device on typing, calculating or accounting machines with &hellip; |
+| [DE603256](DE603256.md) | 1934-09-27 | Co, Ncr | Paper guiding device on typing, calculating or accounting machines with &hellip; |
 | [DE603479](DE603479.md) | 1934-10-01 | Benzing, Hugo | Device for limiting the beginning and end of a line on writing, calculating and &hellip; |
-| [DE603551](DE603551.md) | 1934-10-03 |  | Telegraphenempfaenger fuer Blattdruck |
+| [DE603551](DE603551.md) | 1934-10-03 | Ltd, Creed & Co | Telegraphenempfaenger fuer Blattdruck |
 | [DE603254](DE603254.md) | 1934-10-06 | Hinrichs, Herbert | Schreibmaschine |
 | [DE603698](DE603698.md) | 1934-10-06 | Pfeiffer, Otto | Fernschreibmaschine |
 | [DE603948](DE603948.md) | 1934-10-11 |  | Stamp device with ribbon |
 | [DE604053](DE604053.md) | 1934-10-13 | Wernecke, Otto | Fernschreibmaschine, deren Sendereinrichtung wahlweise durch eine Tastatur oder durch einen Lochstreifen betaetigt werden kann |
 | [DE604492](DE604492.md) | 1934-10-23 |  | Typewriter with power drive |
 | [DE604495](DE604495.md) | 1934-10-23 | Opel, Fritz | Keyboard for purposes of sound release, sound recording and registration &hellip; |
-| [DE604557](DE604557.md) | 1934-10-26 |  | Registrierkasse mit unmittelbarem Summendruck |
+| [DE604557](DE604557.md) | 1934-10-26 | Co, Ncr | Registrierkasse mit unmittelbarem Summendruck |
 | [DE604894](DE604894.md) | 1934-11-01 |  | Typewriter |
 | [DE605197](DE605197.md) | 1934-11-06 | Wolff, Robert | Paper carriage switching device on typewriters |
-| [DE605198](DE605198.md) | 1934-11-06 |  | Reverse gear clutch on typewriters |
+| [DE605198](DE605198.md) | 1934-11-06 | Winklhofer, Wanderer Werke Vorm | Reverse gear clutch on typewriters |
 | [DE605263](DE605263.md) | 1934-11-09 | Kropff, Wilhelm | Switching device for the control strip on cash registers |
 | [DE605409](DE605409.md) | 1934-11-10 | Moussier, Leandre | Device for lifting the paper roll in calculating machines |
-| [DE605451](DE605451.md) | 1934-11-10 |  | Adjustment device for the return spring of the universal rail of typewriters |
+| [DE605451](DE605451.md) | 1934-11-10 | Winklhofer, Wanderer Werke Vorm | Adjustment device for the return spring of the universal rail of typewriters |
 | [DE605642](DE605642.md) | 1934-11-15 | Benzing, Hugo | Spring winding mechanism |
 | [DE605797](DE605797.md) | 1934-11-17 | Eibert, Fritz | Paper carriage switching device on typewriters |
 | [DE605641](DE605641.md) | 1934-11-19 | Benzing, Hugo | Switching device for writing, writing arithmetic or similar machines |
+| [JP110488](JP110488.md) | 1934-11-30 | Katō, Kenjirō | Back-spacing device for a printing machine |
 | [DE606571](DE606571.md) | 1934-12-05 |  | Tastensperrvorrichtung fuer rechnende Schreibmaschinen |
 | [DE606616](DE606616.md) | 1934-12-06 | Benzing, Hugo | Sound and shock absorbing foot for office machines |
-| [DE606663](DE606663.md) | 1934-12-07 |  | Device for moving the universal rail in typewriters or the like. |
+| [DE606663](DE606663.md) | 1934-12-07 | Ag, Vorm Seidel & Naumann | Device for moving the universal rail in typewriters or the like. |
 | [DE606714](DE606714.md) | 1934-12-10 | Kottmann, August | Selbsttaetige Summen- und Kommadruckvorrichtung an rechnenden Schreibmaschinen |
 | [DE606804](DE606804.md) | 1934-12-11 | Hom, Albert | Einrichtung fuer die Durchschreibebuchhaltung, bestehend aus einem Streifen mit Anlegefalz aus Papier o. dgl. |
 | [DE606881](DE606881.md) | 1934-12-13 |  | Rechenmaschine |
 | [DE606911](DE606911.md) | 1934-12-13 | Fa, E D A M S A | Electric typewriter with type wheel |
-| [DE607152](DE607152.md) | 1934-12-20 |  | Type lever drive for typewriters |
+| [DE607152](DE607152.md) | 1934-12-20 | Inc, Royal Typewriter Co | Type lever drive for typewriters |
+| [JP110673](JP110673.md) | 1934-12-21 | Katō, Kenjirō | Japanese-script typewriter |
+| [JP110895](JP110895.md) | 1934-12-21 | Abe, Okujirō | Typewriter |
 | [DE607463](DE607463.md) | 1934-12-28 |  | Type lever drive for small typewriters |
 | [US1986244](US1986244.md) | 1935-01-01 | Bates, Harry | Typewriter |
-| [DE607543](DE607543.md) | 1935-01-02 |  | Line break device on typewriters |
-| [DE607755](DE607755.md) | 1935-01-07 |  | Embossing machine for address printing plates with a power-driven stamp carrier |
+| [DE607543](DE607543.md) | 1935-01-02 | Inc, Royal Typewriter Co | Line break device on typewriters |
+| [DE607755](DE607755.md) | 1935-01-07 | Co, Addressograph | Embossing machine for address printing plates with a power-driven stamp carrier |
 | [DE607828](DE607828.md) | 1935-01-10 | Jr, Josef Heinrich Meckel | Schreibrechenmaschine |
 | [DE608322](DE608322.md) | 1935-01-21 | Benzing, Hugo | Ratchet wheel clutch on typing, calculating and similar machines |
 | [DE608381](DE608381.md) | 1935-01-22 | Benzing, Hugo | Device for displaying the writing limit at the end of a line in writing, &hellip; |
 | [DE607965](DE607965.md) | 1935-01-23 | Schuller, Walter | Shorthand typewriter |
 | [DE608057](DE608057.md) | 1935-01-23 |  | Typewriter |
-| [DE608267](DE608267.md) | 1935-01-23 |  | Registrierkassendruckwerk |
-| [DE608870](DE608870.md) | 1935-02-06 |  | Scheckdruckwerk fuer Tastenhebelregistrierkassen |
+| [DE608267](DE608267.md) | 1935-01-23 | Co, Ncr | Registrierkassendruckwerk |
+| [DE608870](DE608870.md) | 1935-02-06 | Co, Ncr | Scheckdruckwerk fuer Tastenhebelregistrierkassen |
 | [DE609141](DE609141.md) | 1935-02-08 | Laforest, Jean | Schreib- und Zeichengeraet mit aus einer Kugel bestehender Schreibspitze |
 | [DE588883](DE588883.md) | 1935-02-09 | Franke, Carl | Device on typewriters for writing on copy sheets by means of an auxiliary ink &hellip; |
-| [DE609316](DE609316.md) | 1935-02-12 |  | Device for introducing and aligning a sheet of paper to be introduced from the &hellip; |
-| [DE609317](DE609317.md) | 1935-02-14 |  | Multiplying device for typewriters |
+| [DE609316](DE609316.md) | 1935-02-12 | H, Taylorix Organisation G M B | Device for introducing and aligning a sheet of paper to be introduced from the &hellip; |
+| [DE609317](DE609317.md) | 1935-02-14 | Inc, Royal Typewriter Co | Multiplying device for typewriters |
 | [DE609480](DE609480.md) | 1935-02-15 | Hentig, Albert | Flat pocket typewriter |
 | [DE609557](DE609557.md) | 1935-02-18 | Mueller, Wilhelm | Device for laying and straightening writing and carbon paper sheets to be &hellip; |
 | [DE609623](DE609623.md) | 1935-02-19 | Pfeiffer, Otto | Device for adjusting the type cylinder of typewriters |
-| [DE609624](DE609624.md) | 1935-02-19 |  | Paper trolley storage on typewriters etc. like |
-| [DE582550](DE582550.md) | 1935-02-20 |  | Type body with alignment marks, especially for typewriters |
+| [DE609624](DE609624.md) | 1935-02-19 | Inc, Royal Typewriter Co | Paper trolley storage on typewriters etc. like |
+| [DE582550](DE582550.md) | 1935-02-20 | Winklhofer, Wanderer Werke Vorm | Type body with alignment marks, especially for typewriters |
 | [DE609748](DE609748.md) | 1935-02-23 | Mansel, Paul | Typewriter used for line-by-line printing |
-| [DE609888](DE609888.md) | 1935-02-25 |  | Zeileneinstellvorrichtung fuer Registrierkassen und Buchungsmaschinen |
+| [DE609888](DE609888.md) | 1935-02-25 | Co, Ncr | Zeileneinstellvorrichtung fuer Registrierkassen und Buchungsmaschinen |
 | [DE609811](DE609811.md) | 1935-02-26 | Hoffmann, Edgar | Type wheel typewriter |
-| [DE609933](DE609933.md) | 1935-02-28 |  | Type lever mechanism for typewriters |
-| [DE610100](DE610100.md) | 1935-03-02 |  | Power driven typewriter |
+| [DE609933](DE609933.md) | 1935-02-28 | Inc, Royal Typewriter Co | Type lever mechanism for typewriters |
+| [JP111430](JP111430.md) | 1935-03-01 | Miki, Chinji | Japanese-script printing machine |
+| [DE610100](DE610100.md) | 1935-03-02 | Werke, Mercedes Bueromaschinen | Power driven typewriter |
 | [DE610101](DE610101.md) | 1935-03-02 | A, Ransmayer A & Rodrian | Device for setting and fixing the type body on the type levers of typewriters |
-| [DE610385](DE610385.md) | 1935-03-09 |  | Registrierkasse, insbesondere Tastenhebelregistrierkasse, mit Scheckausgabe |
-| [DE610662](DE610662.md) | 1935-03-14 |  | Kraftantrieb fuer Schreibmaschinen |
+| [JP111688](JP111688.md) | 1935-03-06 | Suganuma, Seiichi | Device for a typewriter for changing at will between a fixed number of closely spaced lines |
+| [DE610385](DE610385.md) | 1935-03-09 | Co, Ncr | Registrierkasse, insbesondere Tastenhebelregistrierkasse, mit Scheckausgabe |
+| [DE610662](DE610662.md) | 1935-03-14 | Inc, Royal Typewriter Co | Kraftantrieb fuer Schreibmaschinen |
 | [DE610700](DE610700.md) | 1935-03-15 | A, Universal Kopie Korporation | Multiplying device for typewriters |
-| [DE610901](DE610901.md) | 1935-03-21 |  | Tastenhebelregistrierkasse mit einem Scheckdruckwerk |
+| [DE610901](DE610901.md) | 1935-03-21 | Co, Ncr | Tastenhebelregistrierkasse mit einem Scheckdruckwerk |
 | [DE611058](DE611058.md) | 1935-03-21 | Wolff, Robert | Tool for making embossments at the foot of typewriter type goblets |
-| [DE611094](DE611094.md) | 1935-03-23 |  | Shock-absorbing stop for the switchable part of typewriters |
-| [DE611145](DE611145.md) | 1935-03-23 |  | Typewriter, in particular accounting typewriter, with an auxiliary paper &hellip; |
+| [DE611094](DE611094.md) | 1935-03-23 | Inc, Royal Typewriter Co | Shock-absorbing stop for the switchable part of typewriters |
+| [DE611145](DE611145.md) | 1935-03-23 | Co, Remington Typewriter | Typewriter, in particular accounting typewriter, with an auxiliary paper &hellip; |
 | [DE611465](DE611465.md) | 1935-03-28 | Maschinenbau, Adrema | Embossing machine with a hold-down for the plate to be embossed, in whose &hellip; |
-| [DE607350](DE607350.md) | 1935-04-08 |  | Control strip switching device for cash registers or accounting machines |
+| [DE607350](DE607350.md) | 1935-04-08 | Co, Ncr | Control strip switching device for cash registers or accounting machines |
 | [DE611950](DE611950.md) | 1935-04-10 | Benzing, Hugo | Spring winding mechanism, especially for writing and similar machines |
 | [DE611974](DE611974.md) | 1935-04-11 | Andreas, Koehler | Wertscheindrucker |
+| [JP112224](JP112224.md) | 1935-04-12 | Matsubayashi, Yoshiaki | Portable Japanese-script typewriter |
 | [DE612167](DE612167.md) | 1935-04-15 | Roemmler, Hans R | Device on office machines, especially typewriters, to secure the writing limit &hellip; |
 | [DE612168](DE612168.md) | 1935-04-15 | Benzing, Hugo | Device for longitudinal movement of the ribbon of writing, calculating and &hellip; |
 | [DE612216](DE612216.md) | 1935-04-17 | Breitling, Ernst | Zeilenschaltvorrichtung fuer den Drucktisch von Registrierkassen und Buchungsmaschinen |
-| [DE612337](DE612337.md) | 1935-04-18 |  | Method of manufacturing a platen for typewriters |
-| [DE612338](DE612338.md) | 1935-04-18 |  | Device for regulating the tension of the key lever springs on typewriters |
+| [DE612337](DE612337.md) | 1935-04-18 | Ge, Triumph Werke Nuernberg Akt | Method of manufacturing a platen for typewriters |
+| [DE612338](DE612338.md) | 1935-04-18 | Ge, Triumph Werke Nuernberg Akt | Device for regulating the tension of the key lever springs on typewriters |
 | [DE612339](DE612339.md) | 1935-04-18 | Schmidt, Ferdinand | Manuscript holder for typewriters |
-| [DE612390](DE612390.md) | 1935-04-18 |  | Typewriter, typewriter or similar machine |
+| [DE612390](DE612390.md) | 1935-04-18 | Werke, Mercedes Bueromaschinen | Typewriter, typewriter or similar machine |
 | [DE612424](DE612424.md) | 1935-04-20 |  | Complementary counter for typewriters |
-| [DE612335](DE612335.md) | 1935-04-25 |  | Tabulator for typewriters, calculating machines or the like. |
-| [DE612497](DE612497.md) | 1935-04-25 |  | Papierwagenbremse an Schreibmaschinen |
+| [DE612335](DE612335.md) | 1935-04-25 | Co, Remington Typewriter | Tabulator for typewriters, calculating machines or the like. |
+| [DE612497](DE612497.md) | 1935-04-25 | Ge, Triumph Werke Nuernberg Akt | Papierwagenbremse an Schreibmaschinen |
 | [DE612336](DE612336.md) | 1935-04-26 | Maul, Michael | Cutting device for continuous paper webs on type printing devices |
-| [DE612498](DE612498.md) | 1935-04-27 |  | Deletion device for column stops on typewriters |
+| [JP111958](JP111958.md) | 1935-04-26 | Kawashima, Saichirō | Platen-turning device for a typewriter |
+| [DE612498](DE612498.md) | 1935-04-27 | Ge, Triumph Werke Nuernberg Akt | Deletion device for column stops on typewriters |
 | [DE612499](DE612499.md) | 1935-04-30 | Conti, Walter | Pressure roller for typing, calculating and other office machines |
-| [DE612753](DE612753.md) | 1935-05-04 |  | Registrierkassendruckwerk zur Ausgabe von Doppelschecks |
+| [DE612753](DE612753.md) | 1935-05-04 | Co, Ncr | Registrierkassendruckwerk zur Ausgabe von Doppelschecks |
 | [DE612821](DE612821.md) | 1935-05-06 | Aizicovici, Carol | Foldable manuscript holder for typewriters |
-| [DE613072](DE613072.md) | 1935-05-15 |  | Zeilenmesswerk fuer Registerstreifenlochmaschinen, deren Registerstreifen zum Steuern von Matrizensetz- und Zeilengiessmaschinen dienen |
-| [DE613301](DE613301.md) | 1935-05-16 |  | Equipment on paper guides for typing, calculating or accounting machines |
+| [DE613072](DE613072.md) | 1935-05-15 | Corp, Teletype | Zeilenmesswerk fuer Registerstreifenlochmaschinen, deren Registerstreifen zum Steuern von Matrizensetz- und Zeilengiessmaschinen dienen |
+| [DE613301](DE613301.md) | 1935-05-16 | Co, Ncr | Equipment on paper guides for typing, calculating or accounting machines |
 | [DE613395](DE613395.md) | 1935-05-20 | Naumann, Willy | Vorrichtung zur Verhinderung von Falschregistrierungen an summendruckenden Registrierkassen und Buchungsmaschinen |
 | [DE613501](DE613501.md) | 1935-05-21 |  | Device for pulling color ribbons |
-| [DE613630](DE613630.md) | 1935-05-23 |  | Reverse gear clutch for typewriters |
+| [DE613630](DE613630.md) | 1935-05-23 | Co, Underwood Elliott Fisher | Reverse gear clutch for typewriters |
 | [DE571652](DE571652.md) | 1935-05-28 | Schneider, Julius | Verfahren zum Strecken einer dehnbaren Druckunterlage auf die genaue Zeilenlaenge |
 | [DE614064](DE614064.md) | 1935-05-31 | Auerswald, Ottilie Menzel Geb | Versenkeinrichtung fuer Naeh- oder Schreibmaschinen |
-| [DE613872](DE613872.md) | 1935-06-01 |  | Druckende Addiermaschine mit Schreibmaschine |
-| [DE614105](DE614105.md) | 1935-06-01 |  | Line break device on typewriters |
-| [DE614217](DE614217.md) | 1935-06-04 |  | Registrierkasse oder Buchungsmaschine |
+| [DE613872](DE613872.md) | 1935-06-01 | Werke, Mercedes Bueromaschinen | Druckende Addiermaschine mit Schreibmaschine |
+| [DE614105](DE614105.md) | 1935-06-01 | Inc, Royal Typewriter Co | Line break device on typewriters |
+| [DE614217](DE614217.md) | 1935-06-04 | Co, Ncr | Registrierkasse oder Buchungsmaschine |
 | [DE614344](DE614344.md) | 1935-06-06 |  | Von Hand zu bedienende Datumeinstellvorrichtung fuer Fahrkartendrucker, Registrierkassen u. dgl. |
-| [DE614373](DE614373.md) | 1935-06-08 |  | Device on writing business machines to secure the writing limit on the lower &hellip; |
+| [DE614373](DE614373.md) | 1935-06-08 | Winklhofer, Wanderer Werke Vorm | Device on writing business machines to secure the writing limit on the lower &hellip; |
 | [DE614557](DE614557.md) | 1935-06-12 | Eller, Fritz | Registriermaschine, insbesondere Registrierkasse, mit einer Druckvorrichtung fuer Zahlungsbelegscheine |
-| [DE614331](DE614331.md) | 1935-06-15 |  | Device for embossing type wheels |
-| [DE614558](DE614558.md) | 1935-06-20 |  | Druckvorrichtung fuer registrierende Maschinen, z.B. Registrierkassen oder Buchungsmaschinen |
-| [DE614956](DE614956.md) | 1935-06-22 |  | Registriermaschine mit mehrstelligem Druckwerk und mit Lochwerk |
-| [DE614983](DE614983.md) | 1935-06-24 |  | Belegauswerfvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
+| [DE614331](DE614331.md) | 1935-06-15 | Co, Ncr | Device for embossing type wheels |
+| [DE614558](DE614558.md) | 1935-06-20 | Co, Ncr | Druckvorrichtung fuer registrierende Maschinen, z.B. Registrierkassen oder Buchungsmaschinen |
+| [DE614956](DE614956.md) | 1935-06-22 | H, Powers G M B | Registriermaschine mit mehrstelligem Druckwerk und mit Lochwerk |
+| [DE614983](DE614983.md) | 1935-06-24 | Co, Ncr | Belegauswerfvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
 | [DE614939](DE614939.md) | 1935-06-25 | Zellmann, Rudolf | Verfahren zur Herstellung von desensibilisiertem Thoriumdioxyd in Gelform |
 | [DE615036](DE615036.md) | 1935-06-25 | Lokomotiv, Schweizerische | Zeilensetz- und Druckmaschine |
 | [DE615187](DE615187.md) | 1935-06-29 | Pfeiffer, Otto | Electric drive for key machines, especially typewriters |
-| [DE615217](DE615217.md) | 1935-06-29 |  | Paper guide device for typewriters, typewriters o. The like. With a guide plate &hellip; |
-| [DE615228](DE615228.md) | 1935-07-01 |  | Paper guide device for typewriters, typewriters or the like. |
+| [DE615217](DE615217.md) | 1935-06-29 | Werke, Mercedes Bueromaschinen | Paper guide device for typewriters, typewriters o. The like. With a guide plate &hellip; |
+| [DE615228](DE615228.md) | 1935-07-01 | Werke, Mercedes Bueromaschinen | Paper guide device for typewriters, typewriters or the like. |
 | [DE615859](DE615859.md) | 1935-07-13 | Kottmann, August | Vorrichtung zum elektromagnetischen Steuern der Rechenfunktionen von aus Schreib- und Rechenmaschine zusammengesetzten Buchungsmaschinen |
-| [DE615888](DE615888.md) | 1935-07-15 |  | Pliers for pulling off and putting on the key rings of typewriters or the like. |
+| [DE615888](DE615888.md) | 1935-07-15 | H, Wilhelm Dreusicke & Co G M B | Pliers for pulling off and putting on the key rings of typewriters or the like. |
 | [DE616726](DE616726.md) | 1935-08-03 | Beckhaus, Friedrich Karl | Machine for writing shorthand and plain text for all languages |
-| [DE616727](DE616727.md) | 1935-08-03 |  | Lagerung des Schaltschlosses von Schreibmaschinen o. dgl. |
-| [DE617044](DE617044.md) | 1935-08-10 |  | Fixing device, especially for portable typewriters |
+| [DE616727](DE616727.md) | 1935-08-03 | Inc, Remington Rand | Lagerung des Schaltschlosses von Schreibmaschinen o. dgl. |
+| [DE617044](DE617044.md) | 1935-08-10 | Inc, Royal Typewriter Co | Fixing device, especially for portable typewriters |
+| [JP113896](JP113896.md) | 1935-08-12 | Kawashima, Saichirō | Typewriter platen-turning device |
 | [DE617632](DE617632.md) | 1935-08-22 | Klefisch, Johann | Lese-, Schreib- und Zeichenvorrichtung mit auf Walzen auf- und abwickelbaren Papierbaendern |
 | [DE617832](DE617832.md) | 1935-08-27 | Thoma, Hans | Planer control |
 | [DE610138](DE610138.md) | 1935-08-28 | Maschf, Rheinische Metallw & | Nullendruckvorrichtung |
 | [DE617939](DE617939.md) | 1935-08-29 | Noltenius, Friedrich | Typewriter with a faint impression |
 | [DE617940](DE617940.md) | 1935-08-29 | Schoenfelder, Paul Emil | Paper carriage switching device for typewriters |
 | [DE618234](DE618234.md) | 1935-09-04 | Rohrwacher, Maximilian | Sperrwerk fuer Registrierkassen |
-| [DE618112](DE618112.md) | 1935-09-05 |  | Device for producing labeled wax matrices with holding frames |
-| [DE618113](DE618113.md) | 1935-09-05 |  | Graviermaschine, insbesondere zum Herstellen von Typenraedern |
-| [DE618235](DE618235.md) | 1935-09-05 |  | Druckvorrichtung fuer Registrierkassen und aehnliche Maschinen |
-| [DE618273](DE618273.md) | 1935-09-05 |  | Line setting device on typewriters, accounting machines, calculating machines, &hellip; |
-| [DE618205](DE618205.md) | 1935-09-06 |  | Klarzeichendruckvorrichtung fuer Schreibrechenmaschinen u. dgl. |
+| [DE618112](DE618112.md) | 1935-09-05 | Werke, Mercedes Bueromaschinen | Device for producing labeled wax matrices with holding frames |
+| [DE618113](DE618113.md) | 1935-09-05 | Co, Ncr | Graviermaschine, insbesondere zum Herstellen von Typenraedern |
+| [DE618235](DE618235.md) | 1935-09-05 | Co, Ncr | Druckvorrichtung fuer Registrierkassen und aehnliche Maschinen |
+| [DE618273](DE618273.md) | 1935-09-05 | G, Europa Schreibmaschinen A | Line setting device on typewriters, accounting machines, calculating machines, &hellip; |
+| [DE618205](DE618205.md) | 1935-09-06 | Werke, Mercedes Bueromaschinen | Klarzeichendruckvorrichtung fuer Schreibrechenmaschinen u. dgl. |
 | [DE618378](DE618378.md) | 1935-09-06 | G, Hermann Hinz | Vorrichtung an Schreib- und Buchungsmaschinen zum Anzeigen der letzten zu beschreibenden Zeile |
 | [DE618376](DE618376.md) | 1935-09-07 | Noltenius, Friedrich | Hand-operated typewriter with a faint impression |
 | [DE618400](DE618400.md) | 1935-09-07 |  | Druckende Tabelliermaschine |
 | [DE618449](DE618449.md) | 1935-09-09 | Schoenfelder, Paul Emil | Paper carriage switching device for typewriters |
 | [DE618503](DE618503.md) | 1935-09-10 | Graf, Karl | Type cleaner for typewriters |
-| [DE618377](DE618377.md) | 1935-09-11 |  | Motor-driven paper trolley elevator for typewriters or the like. |
-| [DE618643](DE618643.md) | 1935-09-12 |  | Power-driven downshift device for typewriters |
+| [DE618377](DE618377.md) | 1935-09-11 | Inc, Royal Typewriter Co | Motor-driven paper trolley elevator for typewriters or the like. |
+| [DE618643](DE618643.md) | 1935-09-12 | Co, Remington Typewriter | Power-driven downshift device for typewriters |
 | [DE619022](DE619022.md) | 1935-09-20 | Wolff, Robert | Paper carriage switching device on typewriters |
-| [DE619021](DE619021.md) | 1935-09-25 |  | Typewriter with drum-shaped cylindrical type carrier continuously driven by a &hellip; |
+| [DE619021](DE619021.md) | 1935-09-25 | Co, Sampson Permagraph | Typewriter with drum-shaped cylindrical type carrier continuously driven by a &hellip; |
 | [DE619119](DE619119.md) | 1935-09-26 | Maschf, Rheinische Metallw & | Summendruckvorrichtung fuer rechnende Schreibmaschinen |
-| [DE619248](DE619248.md) | 1935-09-30 |  | Schreibmaschine mit Vervielfaeltigungsvorrichtung |
+| [DE619248](DE619248.md) | 1935-09-30 | Inc, Royal Typewriter Co | Schreibmaschine mit Vervielfaeltigungsvorrichtung |
 | [DE755110](DE755110.md) | 1935-10-01 | Haberfeld, Erwin O | Device for inserting several sheets of paper in a typewriter |
 | [DE619539](DE619539.md) | 1935-10-03 | Sherman, John Q | Vervielfaeltigungsblaetter, insbesondere fuer Schreibmaschinen |
 | [DE619672](DE619672.md) | 1935-10-05 | Dapper, Josef | Vorrichtung zum Schneiden von Nahrungsmitteln, insbesondere Fleisch |
@@ -8950,163 +9071,176 @@ Every patent in the library, oldest first.
 | [DE619864](DE619864.md) | 1935-10-12 |  | Printing punch card machine with continuously rotating type drum |
 | [DE619865](DE619865.md) | 1935-10-12 |  | Vorrichtung zur Herstellung von formularmaessigen Niederschriften auf einem Registrierband |
 | [DE620109](DE620109.md) | 1935-10-14 | Foereni, Kooperativa Foerbundet | Verfahren und Vorrichtung zum Bedrucken von zusammengefalteten, aus einem Originalabschnitt und einer Kopie bestehenden Verkaufszetteln in Registrierkassen |
-| [DE620076](DE620076.md) | 1935-10-15 |  | Auxiliary ribbon device for typewriters |
-| [DE620552](DE620552.md) | 1935-10-23 |  | Naehmaschinenmoebel mit Verschlusshaube |
-| [DE620655](DE620655.md) | 1935-10-24 |  | Druckvorrichtung fuer registrierende Maschinen, besonders Registrierkassen und Buchungsmaschinen |
-| [DE620890](DE620890.md) | 1935-10-29 |  | Tastwerk mit Kraftantrieb fuer Matrizensetz- und Zeilengiessmaschinen in einem saemtliche Tastwerkteile aufnehmenden Gehaeuse |
+| [DE620076](DE620076.md) | 1935-10-15 | G, Europa Schreibmaschinen A | Auxiliary ribbon device for typewriters |
+| [DE620552](DE620552.md) | 1935-10-23 | Knoc, Naehmaschinenfabrik Adolf | Naehmaschinenmoebel mit Verschlusshaube |
+| [DE620655](DE620655.md) | 1935-10-24 | Co, Ncr | Druckvorrichtung fuer registrierende Maschinen, besonders Registrierkassen und Buchungsmaschinen |
+| [DE620890](DE620890.md) | 1935-10-29 | H, Typograph G M B | Tastwerk mit Kraftantrieb fuer Matrizensetz- und Zeilengiessmaschinen in einem saemtliche Tastwerkteile aufnehmenden Gehaeuse |
 | [DE619740](DE619740.md) | 1935-11-05 | Benzing, Hugo | Type lever drive for writing, writing arithmetic and similar machines |
 | [DE620936](DE620936.md) | 1935-11-06 | Schrader, Heinrich | Drehzapfenlager fuer eine um ihre Mittelachse schwenkbare Zylinderhaube, insbesondere fuer Schreibmaschinentische |
 | [DE621361](DE621361.md) | 1935-11-06 | Joksch, Rudolf | Template holder for typewriters |
 | [DE620912](DE620912.md) | 1935-11-07 |  | Line switching device for flat panel typewriters |
-| [DE621479](DE621479.md) | 1935-11-08 |  | Antriebsvorrichtung fuer den Schlitten von Motor-Flachstrickmaschinen |
+| [DE621479](DE621479.md) | 1935-11-08 | Ges, Elite Diamantwerke Akt | Antriebsvorrichtung fuer den Schlitten von Motor-Flachstrickmaschinen |
 | [DE621712](DE621712.md) | 1935-11-12 | Comp, Underwood Elliott Fischer | Tabulator for typewriters |
 | [DE622033](DE622033.md) | 1935-11-18 | Zeller, Jakob | Pedestal for typewriters |
 | [DE622049](DE622049.md) | 1935-11-19 | Knutsen, Knut Andreas | Druckeinrichtung mit Typenraedern |
 | [DE622237](DE622237.md) | 1935-11-23 | Elsner, Walter | Push-button connection of typewriters, calculating machines, etc. Like. With &hellip; |
-| [DE622361](DE622361.md) | 1935-11-27 |  | Accent writing device for typewriters |
+| [DE622361](DE622361.md) | 1935-11-27 | Ag, Triumph Werke Nuernberg | Accent writing device for typewriters |
 | [DE622664](DE622664.md) | 1935-12-03 | Knutsen, Knut Andreas | Druckeinrichtung, insbesondere fuer Tabelliermaschinen |
 | [DE622665](DE622665.md) | 1935-12-03 | Knutsen, Knut Andreas | Druckvorrichtung |
 | [DE623454](DE623454.md) | 1935-12-28 |  | ~Writing «. machine, in particular for booking purposes |
-| [DE624283](DE624283.md) | 1936-01-24 |  | Typewriter, in particular for writing continuous strips of coherent individual &hellip; |
+| [JP116933](JP116933.md) | 1936-01-10 | Kawashima, Saichirō | Sideways paper-cylinder moving device for a Japanese-script printing machine |
+| [JP116073](JP116073.md) | 1936-01-17 | Matsubayashi, Yoshiaki | Wheel-aligning device for a Japanese-script printing machine using type wheels |
+| [DE624283](DE624283.md) | 1936-01-24 | Inc, Royal Typewriter Co | Typewriter, in particular for writing continuous strips of coherent individual &hellip; |
 | [DE624624](DE624624.md) | 1936-01-24 | Haas, Otto | Type lever bearing segment |
 | [DE624698](DE624698.md) | 1936-01-25 | Pascher, Leopold | Device for limiting the movement of jerky machine parts on typewriters and &hellip; |
-| [DE624725](DE624725.md) | 1936-01-27 |  | Vielzaehlwerksrechen- und Registriermaschine |
-| [DE624726](DE624726.md) | 1936-01-27 |  | Vielzaehlwerksrechen- und Registriermaschine |
+| [DE624725](DE624725.md) | 1936-01-27 | Ges, Astrawerke Akt | Vielzaehlwerksrechen- und Registriermaschine |
+| [DE624726](DE624726.md) | 1936-01-27 | Ges, Astrawerke Akt | Vielzaehlwerksrechen- und Registriermaschine |
 | [DE625264](DE625264.md) | 1936-02-06 | Wolff, Alfred | Paper carriage switching device on typewriters |
 | [DE625265](DE625265.md) | 1936-02-06 | Roemmler, Hans Richard | Device on office machines, especially typewriters, to secure the writing limit &hellip; |
 | [DE625266](DE625266.md) | 1936-02-06 | Typewriters, L C Smith & Corona | Device for moving the ribbon on typewriters |
-| [DE625284](DE625284.md) | 1936-02-06 |  | Tastengesteuerte Kartendruck- und Ausgabemaschine |
-| [DE625267](DE625267.md) | 1936-02-10 |  | Farbbandschalt- und -feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
+| [DE625284](DE625284.md) | 1936-02-06 | Ltd, Bell Punch Co | Tastengesteuerte Kartendruck- und Ausgabemaschine |
+| [DE625267](DE625267.md) | 1936-02-10 | Inc, Royal Typewriter Co | Farbbandschalt- und -feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
 | [DE625422](DE625422.md) | 1936-02-10 | Loewenbuck, Sebastian | Type wheel typewriter |
 | [DE625690](DE625690.md) | 1936-02-13 |  | Elektromagnetische Steuerung an Lochkartenmaschinen |
 | [DE625727](DE625727.md) | 1936-02-14 | Arnold, Karl | Mechanisches Spielzeug in Darstellung eines Schreibmaschinenmodells mit Spielfigur |
-| [DE755620](DE755620.md) | 1936-02-17 |  | Booking engine |
-| [DE626090](DE626090.md) | 1936-02-20 |  | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
-| [DE626187](DE626187.md) | 1936-02-21 |  | Device on writing business machines to secure the writing limit on the lower &hellip; |
+| [DE755620](DE755620.md) | 1936-02-17 | Co, Burroughs Adding Machine | Booking engine |
+| [DE626090](DE626090.md) | 1936-02-20 | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
+| [DE626187](DE626187.md) | 1936-02-21 | Winklhofer, Wanderer Werke Vorm | Device on writing business machines to secure the writing limit on the lower &hellip; |
 | [DE626393](DE626393.md) | 1936-02-25 |  | Device for copying on loose sheets of paper by means of a ribbon |
 | [DE626789](DE626789.md) | 1936-03-03 | Bayer, Karl | Device for the automatic return of the paper slide of typewriters |
 | [DE627224](DE627224.md) | 1936-03-11 | Durlach, Georg | Selbstkassierende, als Zusatzgeraet fuer Schreibmaschinen u. dgl. verwendbare Sperr-und Ausloesevorrichtung |
-| [DE627164](DE627164.md) | 1936-03-13 |  | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
-| [DE627594](DE627594.md) | 1936-03-19 |  | Einrichtung zur unterbrochenen Durchfuehrung von Baendern durch Bildwerfer von einer ununterbrochen arbeitenden Druckvorrichtung aus, insbesondere zum Projizieren von Boersennotizen |
-| [DE627745](DE627745.md) | 1936-03-24 |  | Paper guiding and carrying device for typewriters |
+| [DE627164](DE627164.md) | 1936-03-13 | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
+| [DE627594](DE627594.md) | 1936-03-19 | Corp, News Projection | Einrichtung zur unterbrochenen Durchfuehrung von Baendern durch Bildwerfer von einer ununterbrochen arbeitenden Druckvorrichtung aus, insbesondere zum Projizieren von Boersennotizen |
+| [DE627745](DE627745.md) | 1936-03-24 | Inc, Royal Typewriter Co | Paper guiding and carrying device for typewriters |
 | [DE627746](DE627746.md) | 1936-03-28 | Kissner, Erika | Typewriter of the usual type with a device for writing chemical formulas |
-| [DE628207](DE628207.md) | 1936-03-31 |  | Vorrichtung zum Begrenzen der Zeilen und zum Sperren des Typenanschlages an Schreibmaschinen |
+| [DE628207](DE628207.md) | 1936-03-31 | Winklhofer, Wanderer Werke Vorm | Vorrichtung zum Begrenzen der Zeilen und zum Sperren des Typenanschlages an Schreibmaschinen |
 | [DE628329](DE628329.md) | 1936-04-01 | Diekmann, Edgar | Type cleaner |
 | [DE628325](DE628325.md) | 1936-04-03 | Nolte, Paul | Tastbrett fuer Tastaturmaschinen mit drehbaren, mehrflaechigen Tastenknoepfen, die reihenweise gemeinsam verstellt werden koennen |
-| [DE628468](DE628468.md) | 1936-04-04 |  | Selbstkassierende Sperrvorrichtung fuer Schreibmaschinen |
+| [DE628468](DE628468.md) | 1936-04-04 | Ges, Clemens Mueller Akt | Selbstkassierende Sperrvorrichtung fuer Schreibmaschinen |
 | [DE628559](DE628559.md) | 1936-04-06 | Devlaminck, Robert Stephane | Device for drawing lines for typewriters |
-| [DE628803](DE628803.md) | 1936-04-16 |  | Device on writing business machines to secure the writing limit on the lower &hellip; |
-| [DE628802](DE628802.md) | 1936-04-17 |  | Tabulation device on typing, writing calculators, adding machines, etc. |
-| [DE628894](DE628894.md) | 1936-04-18 |  | Dust protection plate for typewriters |
-| [DE627648](DE627648.md) | 1936-04-27 |  | Device for detachable fastening of portable typewriters, calculators and. Like. |
-| [DE629374](DE629374.md) | 1936-04-29 |  | Registerstreifen zum Herstellen von Schriftsatz, der in der Querrichtung lichtelektrisch abzutastende Zeilen von Symbolen aufweist |
+| [DE628803](DE628803.md) | 1936-04-16 | Winklhofer, Wanderer Werke Vorm | Device on writing business machines to secure the writing limit on the lower &hellip; |
+| [DE628802](DE628802.md) | 1936-04-17 | Werke, Mercedes Bueromaschinen | Tabulation device on typing, writing calculators, adding machines, etc. |
+| [DE628894](DE628894.md) | 1936-04-18 | Inc, Royal Typewriter Co | Dust protection plate for typewriters |
+| [DE627648](DE627648.md) | 1936-04-27 | Werke, Mercedes Bueromaschinen | Device for detachable fastening of portable typewriters, calculators and. Like. |
+| [DE629374](DE629374.md) | 1936-04-29 | Corp, Curtis B Johnson | Registerstreifen zum Herstellen von Schriftsatz, der in der Querrichtung lichtelektrisch abzutastende Zeilen von Symbolen aufweist |
 | [DE629379](DE629379.md) | 1936-05-02 | Rau, Alfred | Table writing device on typing, booking and similar machines |
 | [DE629539](DE629539.md) | 1936-05-05 | Benzing, Hugo | Device for marking certain positions of the paper cart on typewriters and &hellip; |
 | [DE601264](DE601264.md) | 1936-05-08 | Trachtenberg, Jakow | Electric multiplication typewriter |
-| [DE630000](DE630000.md) | 1936-05-20 |  | Registrierkassendruckwerk |
+| [DE630000](DE630000.md) | 1936-05-20 | Co, Ncr | Registrierkassendruckwerk |
 | [DE630333](DE630333.md) | 1936-05-26 | Machine, Naamlooze Vennootschap | Selbsttaetige Regelung der Luftheizung von Eisenbahnwagen |
 | [DE630774](DE630774.md) | 1936-06-05 | E, Paillard & Cie Sa | Device on typewriters for moving the universal shaft |
 | [DE631021](DE631021.md) | 1936-06-10 | Dodds, Nugent | Original holder |
-| [DE631133](DE631133.md) | 1936-06-12 |  | Device for feeding sheets to a machine with a paper roller, e.g. B. Punch card &hellip; |
+| [DE631133](DE631133.md) | 1936-06-12 | O, Accounting & Tabulating Corp | Device for feeding sheets to a machine with a paper roller, e.g. B. Punch card &hellip; |
 | [DE631132](DE631132.md) | 1936-06-17 | Kottmann, August | Summendruckvorrichtung fuer rechnende Schreibmaschinen |
-| [DE631401](DE631401.md) | 1936-06-19 |  | Column stop for tab devices on typewriters |
+| [DE631401](DE631401.md) | 1936-06-19 | Inc, Royal Typewriter Co | Column stop for tab devices on typewriters |
 | [DE631402](DE631402.md) | 1936-06-19 | Wolff, Alfred | Paper carriage switching device on typewriters |
-| [DE631403](DE631403.md) | 1936-06-19 |  | Device for changing the switching range of the paper slide of typewriters |
-| [DE631463](DE631463.md) | 1936-06-20 |  | Conductor's tongs with pressure device and independently switchable ink ribbon |
+| [DE631403](DE631403.md) | 1936-06-19 | G, Europa Schreibmaschinen A | Device for changing the switching range of the paper slide of typewriters |
+| [DE631463](DE631463.md) | 1936-06-20 | H, Hans Frings G M B | Conductor's tongs with pressure device and independently switchable ink ribbon |
 | [DE631674](DE631674.md) | 1936-06-25 |  | Durch gelochte Zaehlkarten gesteuerte Geschaeftsmaschine |
-| [DE631596](DE631596.md) | 1936-06-26 |  | Bildwerfer mit Drucker, z. B. einer elektrischen Schreibmaschine oder einem Fernschreiber, zum Projizieren der auf einem Band zeilenweise aufgedruckten Ankuendigungen |
-| [DE631731](DE631731.md) | 1936-06-26 |  | Druckvorrichtung fuer Registrierkassen und Buchungsmaschinen |
-| [DE631945](DE631945.md) | 1936-06-29 |  | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
-| [DE631942](DE631942.md) | 1936-06-30 |  | Verfahren zum Befestigen von Weichkautschuk oder einem elastischen, kautschukartig dehnbaren Stoff an einer starren Flaeche |
+| [DE631596](DE631596.md) | 1936-06-26 | Corp, News Projection | Bildwerfer mit Drucker, z. B. einer elektrischen Schreibmaschine oder einem Fernschreiber, zum Projizieren der auf einem Band zeilenweise aufgedruckten Ankuendigungen |
+| [DE631731](DE631731.md) | 1936-06-26 | Ag, Anker Werke | Druckvorrichtung fuer Registrierkassen und Buchungsmaschinen |
+| [DE631945](DE631945.md) | 1936-06-29 | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
+| [DE631942](DE631942.md) | 1936-06-30 | F, Goodrich Co B | Verfahren zum Befestigen von Weichkautschuk oder einem elastischen, kautschukartig dehnbaren Stoff an einer starren Flaeche |
 | [DE631983](DE631983.md) | 1936-06-30 | Zangenberg, Ludwig Walther | Device for effecting line compensation in typewriters |
-| [DE631791](DE631791.md) | 1936-07-01 |  | Einrichtung an Rechenmaschinen mit Druckwerk und zwei Zaehlwerken |
+| [DE631791](DE631791.md) | 1936-07-01 | Werk, Zeiss Ikon Akt Ges Goerz | Einrichtung an Rechenmaschinen mit Druckwerk und zwei Zaehlwerken |
 | [DE632323](DE632323.md) | 1936-07-06 | Mansel, Paul | Druckvorrichtung fuer Typendruckapparate, deren Druckvorrichtung aus einem rotierenden und verschiebbaren Typenhebelkorb besteht |
-| [DE632573](DE632573.md) | 1936-07-10 |  | Typewriter with a faint impression |
+| [DE632573](DE632573.md) | 1936-07-10 | Winklhofer, Wanderer Werke Vorm | Typewriter with a faint impression |
 | [DE632566](DE632566.md) | 1936-07-13 |  | Druckende Tabelliermaschine |
-| [DE632633](DE632633.md) | 1936-07-14 |  | Typewriter with movable frame housing cover that leaves the keypad free |
-| [DE632961](DE632961.md) | 1936-07-16 |  | Druckvorrichtung fuer Registrierkassen oder Buchungsmaschinen mit verschiedenfarbigem Druck |
+| [DE632633](DE632633.md) | 1936-07-14 | Ltd, Imp Typewriter Co | Typewriter with movable frame housing cover that leaves the keypad free |
+| [DE632961](DE632961.md) | 1936-07-16 | Co, Ncr | Druckvorrichtung fuer Registrierkassen oder Buchungsmaschinen mit verschiedenfarbigem Druck |
 | [DE633145](DE633145.md) | 1936-07-20 | Paul, Arnold | Device for achieving a different switching range of the paper car of &hellip; |
-| [DE754200](DE754200.md) | 1936-07-23 |  | Calculating machine or the like with a two-part platen |
-| [DE633394](DE633394.md) | 1936-07-25 |  | Table writing device for writing business machines |
+| [DE754200](DE754200.md) | 1936-07-23 | Co, Underwood Elliott Fisher | Calculating machine or the like with a two-part platen |
+| [DE633394](DE633394.md) | 1936-07-25 | Winklhofer, Wanderer Werke Vorm | Table writing device for writing business machines |
+| [JP117994](JP117994.md) | 1936-07-27 | Ishido, Harutarō | Japanese-script typewriter |
 | [DE633541](DE633541.md) | 1936-07-30 | Benzing, Hugo | Type lever drive for writing, writing arithmetic and similar machines |
-| [DE634221](DE634221.md) | 1936-08-22 |  | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
-| [DE634372](DE634372.md) | 1936-08-27 |  | Zeileneinstellvorrichtung fuer Registrierkassen und Buchungsmaschinen |
+| [DE634221](DE634221.md) | 1936-08-22 | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
+| [DE634372](DE634372.md) | 1936-08-27 | Co, Ncr | Zeileneinstellvorrichtung fuer Registrierkassen und Buchungsmaschinen |
 | [DE634646](DE634646.md) | 1936-09-01 | E, Paillard & Cie Sa | Kinematograph fuer Filme verschiedener Breite |
-| [DE634970](DE634970.md) | 1936-09-07 |  | Line break device on typewriters |
+| [DE634970](DE634970.md) | 1936-09-07 | Inc, Royal Typewriter Co | Line break device on typewriters |
 | [DE634901](DE634901.md) | 1936-09-08 | Typewriters, L C Smith & Corona | Device for applying paint to a tape |
 | [DE634971](DE634971.md) | 1936-09-08 | Haas, Otto | Randbegrenzungsvorrichtung an Schreibmaschinen |
-| [DE634972](DE634972.md) | 1936-09-08 |  | Automatic switching device for the longitudinal movement of the ribbon on &hellip; |
-| [DE634899](DE634899.md) | 1936-09-09 |  | Paper side edge guide for typewriters |
-| [DE635053](DE635053.md) | 1936-09-09 |  | Bearing piece to accommodate the switching device for the paper trolley of type &hellip; |
-| [DE635054](DE635054.md) | 1936-09-09 |  | Papierschlittenschaltvorrichtung an Schreibmaschinen |
-| [DE634900](DE634900.md) | 1936-09-10 |  | Carbon paper feed device for typewriters or the like. |
+| [DE634972](DE634972.md) | 1936-09-08 | Co, Underwood Elliott Fisher | Automatic switching device for the longitudinal movement of the ribbon on &hellip; |
+| [DE634899](DE634899.md) | 1936-09-09 | Inc, Royal Typewriter Co | Paper side edge guide for typewriters |
+| [DE635053](DE635053.md) | 1936-09-09 | G, Europa Schreibmaschinen A | Bearing piece to accommodate the switching device for the paper trolley of type &hellip; |
+| [DE635054](DE635054.md) | 1936-09-09 | G, Europa Schreibmaschinen A | Papierschlittenschaltvorrichtung an Schreibmaschinen |
+| [DE634900](DE634900.md) | 1936-09-10 | Co, Underwood Elliott Fisher | Carbon paper feed device for typewriters or the like. |
 | [DE635052](DE635052.md) | 1936-09-10 | Grote, Herbert Freiherr | Shorthand typewriter |
-| [DE635129](DE635129.md) | 1936-09-10 |  | Car jumping device for writing and similar machines |
+| [DE635129](DE635129.md) | 1936-09-10 | Winklhofer, Wanderer Werke Vorm | Car jumping device for writing and similar machines |
 | [DE635186](DE635186.md) | 1936-09-11 | Maschinenbau, Adrema | Embossing machine with a display device for the embossing stations that is &hellip; |
-| [DE635317](DE635317.md) | 1936-09-15 |  | Druckvorrichtung fuer Registrierkassen und Buchungsmaschinen |
+| [DE635317](DE635317.md) | 1936-09-15 | Co, Ncr | Druckvorrichtung fuer Registrierkassen und Buchungsmaschinen |
 | [DE635575](DE635575.md) | 1936-09-19 | Hoffmann, Edgar | Type wheel typewriter |
 | [DE635576](DE635576.md) | 1936-09-19 | Friedrich, Heinrich | Keyboard for typewriters |
-| [DE635848](DE635848.md) | 1936-09-25 |  | Paper carriage for typewriters or the like. |
-| [DE635622](DE635622.md) | 1936-09-26 |  | Registriermaschine mit Druckhaemmern |
+| [DE635848](DE635848.md) | 1936-09-25 | Ag, Vorm Seidel & Naumann | Paper carriage for typewriters or the like. |
+| [DE635622](DE635622.md) | 1936-09-26 | H, Powers G M B | Registriermaschine mit Druckhaemmern |
 | [DE635847](DE635847.md) | 1936-09-29 | Schneider, Oscar | Additional device that can be easily attached to writing or similar machines &hellip; |
+| [JP118800](JP118800.md) | 1936-09-30 | Hariu, Kiyotake | Line-spacing adjusting device for a printing machine |
 | [DE636150](DE636150.md) | 1936-10-02 | Winterling, Carl | Type bar typewriter |
 | [DE636272](DE636272.md) | 1936-10-06 | Semmelrath, Robert | Typewriter or the like with two interchangeable paper trolleys of different &hellip; |
 | [DE636416](DE636416.md) | 1936-10-09 |  | Typewriter with clear character printing mechanism |
-| [DE636417](DE636417.md) | 1936-10-09 |  | Rechen- oder Buchhaltungsmaschine |
-| [DE636701](DE636701.md) | 1936-10-13 |  | Einrichtung zum unmittelbaren Summendruck an Registrierkassen, Buchungs- und aehnlichen Maschinen |
+| [DE636417](DE636417.md) | 1936-10-09 | Co, Ncr | Rechen- oder Buchhaltungsmaschine |
+| [DE636701](DE636701.md) | 1936-10-13 | Co, Ncr | Einrichtung zum unmittelbaren Summendruck an Registrierkassen, Buchungs- und aehnlichen Maschinen |
 | [DE636624](DE636624.md) | 1936-10-14 |  | Switching regulator for the winding of goods on ribbon looms |
 | [DE636644](DE636644.md) | 1936-10-14 | Typewriters, L C Smith & Corona | Device for applying paint to a tape |
-| [DE636700](DE636700.md) | 1936-10-15 |  | Ribbon storage and switching for calculating and similar machines |
-| [DE636870](DE636870.md) | 1936-10-17 |  | Device on writing, calculating and similar machines for inserting and aligning &hellip; |
-| [DE636947](DE636947.md) | 1936-10-17 |  | Paper guiding and holding device on typewriters or the like. |
+| [DE636700](DE636700.md) | 1936-10-15 | Werk, Goerz | Ribbon storage and switching for calculating and similar machines |
+| [DE636870](DE636870.md) | 1936-10-17 | Winklhofer, Wanderer Werke Vorm | Device on writing, calculating and similar machines for inserting and aligning &hellip; |
+| [DE636947](DE636947.md) | 1936-10-17 | Winklhofer, Wanderer Werke Vorm | Paper guiding and holding device on typewriters or the like. |
 | [DE636946](DE636946.md) | 1936-10-21 | Sl, Erga | Note typewriter |
 | [DE637103](DE637103.md) | 1936-10-23 | Callan, John Gurney | Schreibmaschinenpapier |
 | [DE637333](DE637333.md) | 1936-10-26 | Grob, Heinrich | Als Hausbar, Schreibmaschinen-, Buchhaltungs-, Naeh- oder Naehmaschinentisch verwendbarer Tisch mit versenkbarer Tischplatte |
+| [JP119719](JP119719.md) | 1936-10-28 | Suzuki, Kuraji | Vertical/horizontal typing change-over device for a Japanese-script typewriter |
 | [DE637511](DE637511.md) | 1936-10-30 | Auerswald, Ottilie Menzel Geb | Versenkeinrichtung fuer Naeh- oder Schreibmaschinen |
 | [DE637951](DE637951.md) | 1936-11-11 | Machines, Bull Sa | Druckvorrichtung |
 | [DE638179](DE638179.md) | 1936-11-11 | Schulze, Fritz | Telegraphenempfangsapparat fuer wahlweises oder gleichzeitiges Drucken und Lochen, bei dem die an den Waehlschienen angebrachten Ansatz- oder Zwischenstuecke je nach der Zeichenkombination in den ... |
 | [DE638202](DE638202.md) | 1936-11-11 | Brenn, Carl William | Blaettersatz fuer Durchschreibegeraete |
-| [DE637775](DE637775.md) | 1936-11-13 |  | Calculating or accounting machine |
+| [DE637775](DE637775.md) | 1936-11-13 | Co, Ncr | Calculating or accounting machine |
 | [DE638074](DE638074.md) | 1936-11-13 |  | Fastening device for an ink ribbon freely stretched over the writing surface of a copy machine |
 | [DE638139](DE638139.md) | 1936-11-14 | Duemling, Adolf | Type cylinder typewriter with keys |
 | [DE638140](DE638140.md) | 1936-11-14 |  | ~Duplicating device for typewriters with a rotatable |
 | [DE638442](DE638442.md) | 1936-11-16 | Haas, Otto | Downshift device for the paper cart on typewriters |
+| [JP119718](JP119718.md) | 1936-11-18 | Suzuki, Kuraji | Vertical-and-horizontal line-spacing device for a Japanese-script typewriter |
 | [DE638472](DE638472.md) | 1936-11-23 | Aurbach, - Kurt | Zeileneinstellvorrichtung fuer Belege bei Registrierkassen und Buchungsmaschinen |
 | [DE638782](DE638782.md) | 1936-11-23 |  | Lochmaschine zum Duplizieren von gelochten Musterkarten |
+| [JP119646](JP119646.md) | 1936-12-02 | Katō, Kenjirō | Platen sideways-feed device for a typewriter |
+| [JP119647](JP119647.md) | 1936-12-02 | Katō, Kenjirō | Platen sideways-feed device in a typewriter |
 | [DE634156](DE634156.md) | 1936-12-03 | Schneider, Julius | Einrichtung zum Herstellen von Letternzeilen oder Einzellettern, bestehend aus einer umlaufenden Trommel mit mehreren Typen- oder Matrizenkraenzen, die etwa durch Tastenanschlag mit einer Druck- ... |
 | [DE639295](DE639295.md) | 1936-12-03 |  | Printing device with several adjacently arranged adjustable type carriers for a plurality of types |
-| [DE639371](DE639371.md) | 1936-12-04 |  | Device for placing types on the type carrier of typewriters or the like. |
+| [DE639371](DE639371.md) | 1936-12-04 | H, Iris Type G M B | Device for placing types on the type carrier of typewriters or the like. |
 | [DE639372](DE639372.md) | 1936-12-04 | Zschimmer, Moritz | Method and device for attaching the type pieces to the type levers of &hellip; |
 | [DE639542](DE639542.md) | 1936-12-07 | Haselhorst, Ewald | Holding device for typewriter arches |
-| [DE639715](DE639715.md) | 1936-12-11 |  | Edge stop for typewriters |
-| [DE639714](DE639714.md) | 1936-12-12 |  | Adjustment device for changing the strength of the type lever springs in hand- &hellip; |
+| [DE639715](DE639715.md) | 1936-12-11 | Inc, Royal Typewriter Co | Edge stop for typewriters |
+| [DE639714](DE639714.md) | 1936-12-12 | Inc, Royal Typewriter Co | Adjustment device for changing the strength of the type lever springs in hand- &hellip; |
+| [JP120536](JP120536.md) | 1936-12-14 | Suganuma, Seiichi | Fine adjusting device for the printing spacing of a typewriter |
 | [DE639898](DE639898.md) | 1936-12-16 | Schneider, Julius | Letterngiessmaschine o. dgl., bei der die aus einem Kopf und einem Fuehrungsschaft kleineren Querschnittes bestehenden Typen oder Matrizen radial nach aussen verschieblich auf einer kreisenden ... |
-| [DE639956](DE639956.md) | 1936-12-16 |  | Insert sheet for typewriters u. Like. To achieve non-erasable writing |
+| [DE639956](DE639956.md) | 1936-12-16 | H, Original Checko G M B | Insert sheet for typewriters u. Like. To achieve non-erasable writing |
 | [DE639934](DE639934.md) | 1936-12-17 | Stein, Wilhelm | Verfahren zum Herstellen von Flachdruckformen fuer Buch- oder Zeitungsdruck durch Umdrucken eines mit der Schreibmaschine hergestellten Schriftsatzes |
-| [DE755645](DE755645.md) | 1936-12-19 |  | Syllable typewriter |
+| [DE755645](DE755645.md) | 1936-12-19 | H, Hollerith Maschinen Ges M B | Syllable typewriter |
 | [DE640168](DE640168.md) | 1936-12-23 | V, Schuetz - Friedrich | Automatic regulation of air heating in railroad cars |
-| [DE640250](DE640250.md) | 1936-12-28 |  | Verfahren und Einrichtung zur Erzielung eines sanften Fassens von Reibungskupplungenund Bremsen mit Reibbelaegen aus impraegnierten Faserstoffen bei gleichzeitiger Erhoehung der Lebensdauer |
+| [DE640250](DE640250.md) | 1936-12-28 | Kirchbach, Kirchbach Sche Werke | Verfahren und Einrichtung zur Erzielung eines sanften Fassens von Reibungskupplungenund Bremsen mit Reibbelaegen aus impraegnierten Faserstoffen bei gleichzeitiger Erhoehung der Lebensdauer |
 | [DE640321](DE640321.md) | 1936-12-30 | Winterling, Carl | Type lever drive for typewriters |
 | [DE635738](DE635738.md) | 1937-01-05 | Schneider, Julius | Process for producing stereotyping materials for individual lines of writing of &hellip; |
+| [JP120239](JP120239.md) | 1937-01-06 | Kobayashi, Kaichi | Typewriter |
+| [JP121102](JP121102.md) | 1937-01-08 | Miwa, Mataichi | Typewriter feed device |
 | [DE640738](DE640738.md) | 1937-01-11 | Hafner, Karl | Device for refreshing ink ribbons on typewriters |
-| [DE641030](DE641030.md) | 1937-01-19 |  | Portable typewriter |
-| [DE640982](DE640982.md) | 1937-01-23 |  | Scheckschreibmaschine |
-| [DE641105](DE641105.md) | 1937-01-23 |  | Buchungsmaschine |
+| [DE641030](DE641030.md) | 1937-01-19 | Werke, Mercedes Bueromaschinen | Portable typewriter |
+| [DE640982](DE640982.md) | 1937-01-23 | Co, Burroughs Adding Machine | Scheckschreibmaschine |
+| [DE641105](DE641105.md) | 1937-01-23 | Co, Ncr | Buchungsmaschine |
 | [DE641319](DE641319.md) | 1937-01-27 | Aurbach, - Kurt | Druckvorrichtung fuer registrierende Maschinen, besonders Registrierkassen und Buchungsmaschinen |
-| [DE641477](DE641477.md) | 1937-02-01 |  | Lifting frame used to switch the platen frame of typewriters |
-| [DE641532](DE641532.md) | 1937-02-04 |  | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
+| [DE641477](DE641477.md) | 1937-02-01 | Co, Underwood Elliott Fisher | Lifting frame used to switch the platen frame of typewriters |
+| [JP121418](JP121418.md) | 1937-02-01 | Miwa, Mataichi | Sideways (carriage) feed device for a typewriter |
+| [DE641532](DE641532.md) | 1937-02-04 | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
 | [DE641548](DE641548.md) | 1937-02-05 |  | Druckende Geschaeftsmaschine, vorzugsweise Tabelliermaschine, mit Mehrfach-Papierbandanordnung |
-| [DE641796](DE641796.md) | 1937-02-13 |  | Fernschreibmaschine, bei der die einzelnen Schriftzeichenbilder lichtelektrisch in Stromimpulse zerlegt uebertragen werden |
-| [DE642183](DE642183.md) | 1937-02-27 |  | Typewriter with margin and carriage jump devices |
+| [DE641796](DE641796.md) | 1937-02-13 | Corp, Internat Inv S | Fernschreibmaschine, bei der die einzelnen Schriftzeichenbilder lichtelektrisch in Stromimpulse zerlegt uebertragen werden |
+| [DE642183](DE642183.md) | 1937-02-27 | Winklhofer, Wanderer Werke Vorm | Typewriter with margin and carriage jump devices |
 | [DE642295](DE642295.md) | 1937-03-01 | Pfizenmaier, Albert | Methods of cleaning types of typewriters |
 | [DE642506](DE642506.md) | 1937-03-06 | Schoenfelder, Paul Emil | Device on writing and similar machines for setting the paper carriage to any &hellip; |
 | [DE642796](DE642796.md) | 1937-03-16 | Typewriters, L C Smith & Corona | Paper trolley switching device on typewriters or the like. |
 | [DE642795](DE642795.md) | 1937-03-18 | Typewriters, L C Smith & Corona | Papierwagenschaltvorrichtung an Schreibmaschinen o. dgl. |
-| [DE642965](DE642965.md) | 1937-03-20 |  | Device for setting and deleting the column stops on typewriters individually |
-| [DE642964](DE642964.md) | 1937-03-22 |  | Table writing device for typewriters |
+| [DE642965](DE642965.md) | 1937-03-20 | Ge, Triumph Werke Nuernberg Akt | Device for setting and deleting the column stops on typewriters individually |
+| [DE642964](DE642964.md) | 1937-03-22 | Inc, Royal Typewriter Co | Table writing device for typewriters |
 | [DE643001](DE643001.md) | 1937-03-22 | Benzing, Hugo | Bremsvorrichtung fuer den ausgeloesten Wagen von Schreib-, Rechen-, Buchungs- und aehnlichen Maschinen |
-| [DE589017](DE589017.md) | 1937-03-24 |  | Platen for typewriters and calculating machines |
-| [DE643308](DE643308.md) | 1937-04-03 |  | Nullendruckvorrichtung fuer Registrierkassen, Rechen- oder Buchungsmaschinen |
+| [DE589017](DE589017.md) | 1937-03-24 | Winklhofer, Wanderer Werke Vorm | Platen for typewriters and calculating machines |
+| [DE643308](DE643308.md) | 1937-04-03 | Co, Ncr | Nullendruckvorrichtung fuer Registrierkassen, Rechen- oder Buchungsmaschinen |
+| [JP121662](JP121662.md) | 1937-04-07 | Katō, Kenjirō | Automatic platen feed device in a typewriter |
 | [DE643803](DE643803.md) | 1937-04-17 | Tauschek, Gustav | Electromagnetic memory for numbers and other information, especially for &hellip; |
 | [DE571214](DE571214.md) | 1937-04-20 | Bossert, Fritz | Vorrichtung an Buchungsmaschinen zur Verhuetung von Falschbuchungen |
 | [DE619831](DE619831.md) | 1937-04-20 | Schneider, Julius | Process for the production of a continuous, castable matrix strip, which is &hellip; |
@@ -9114,42 +9248,44 @@ Every patent in the library, oldest first.
 | [DE620072](DE620072.md) | 1937-04-22 | Schneider, Julius | Device for producing embossed strips that are folded in the spaces between the &hellip; |
 | [DE620515](DE620515.md) | 1937-04-22 | Schneider, Julius | Embossing strip, which is stretched to the desired line length after folding in &hellip; |
 | [DE644340](DE644340.md) | 1937-04-29 | E, Paillard & Cie Sa | Device for the automatic reversal of the ribbon length movement on typewriters &hellip; |
-| [DE644650](DE644650.md) | 1937-05-10 |  | Device on typewriters for adjusting the platen in the direction of the stroke &hellip; |
-| [DE644840](DE644840.md) | 1937-05-14 |  | Device on typewriters for inserting a prefix sheet in front of a base sheet |
-| [DE644883](DE644883.md) | 1937-05-14 |  | typewriter |
-| [DE756494](DE756494.md) | 1937-05-20 |  | Attachment for display or actuation members made of pressed materials or the &hellip; |
+| [JP122207](JP122207.md) | 1937-05-03 | Katō, Kenjirō | Sideways-spacing control device in an automatic-feed (spring-driven carriage) typewriter, usable for feed in either direction |
+| [DE644650](DE644650.md) | 1937-05-10 | Winklhofer, Wanderer Werke Vorm | Device on typewriters for adjusting the platen in the direction of the stroke &hellip; |
+| [DE644840](DE644840.md) | 1937-05-14 | Ges, Ruf Buchhaltung Akt | Device on typewriters for inserting a prefix sheet in front of a base sheet |
+| [DE644883](DE644883.md) | 1937-05-14 | Inc, Royal Typewriter Co | typewriter |
+| [DE756494](DE756494.md) | 1937-05-20 | Werke, Mercedes Bueromaschinen | Attachment for display or actuation members made of pressed materials or the &hellip; |
+| [JP122182](JP122182.md) | 1937-05-21 | Hosoya, Shinji | Change-over device between vertical and horizontal feed of the paper cylinder in a Japanese-script typewriter |
 | [DE645405](DE645405.md) | 1937-05-27 | Deuser, Robert | Spannungsrueckgangsausloeser oder -relais mit Hemmwerk |
-| [DE645461](DE645461.md) | 1937-05-29 |  | Schaltwerk fuer Registrierkassen, Buchungs- oder Rechenmaschinen |
-| [DE645557](DE645557.md) | 1937-05-29 |  | Type guide for type bar typewriters |
+| [DE645461](DE645461.md) | 1937-05-29 | Co, Ncr | Schaltwerk fuer Registrierkassen, Buchungs- oder Rechenmaschinen |
+| [DE645557](DE645557.md) | 1937-05-29 | H, Adlerwerke Kleyer Ag | Type guide for type bar typewriters |
 | [DE645558](DE645558.md) | 1937-05-29 | Typewriters, L C Smith & Corona | Typewriter in which the type levers are mounted in an inclined, low-lying &hellip; |
 | [DE754967](DE754967.md) | 1937-05-30 | Voigt, Clemens A | Rubber key for typewriters u. like |
-| [DE645610](DE645610.md) | 1937-05-31 |  | Device on typewriters or the like for writing the date |
+| [DE645610](DE645610.md) | 1937-05-31 | G, Torpedo Werke A | Device on typewriters or the like for writing the date |
 | [DE645645](DE645645.md) | 1937-05-31 | Leitel, Paul | In einen Tisch umwandelbarer Schreibmaschinenkoffer |
-| [DE753696](DE753696.md) | 1937-06-04 |  | Plug-in device for writing, calculating, adding or similar machines |
-| [DE645972](DE645972.md) | 1937-06-08 |  | Tabelliermaschine mit verschiedenen Druckwerken fuer Zahlen und Buchstaben |
+| [DE753696](DE753696.md) | 1937-06-04 | Werke, Mercedes Bueromaschinen | Plug-in device for writing, calculating, adding or similar machines |
+| [DE645972](DE645972.md) | 1937-06-08 | H, Powers G M B | Tabelliermaschine mit verschiedenen Druckwerken fuer Zahlen und Buchstaben |
 | [DE646203](DE646203.md) | 1937-06-10 | Burger, Oskar | Schreibmaschinenpostkarte |
-| [DE646255](DE646255.md) | 1937-06-14 |  | Elektrische Rechenmaschine |
+| [DE646255](DE646255.md) | 1937-06-14 | Inc, Elek Cal Res Products | Elektrische Rechenmaschine |
 | [DE646341](DE646341.md) | 1937-06-14 | Hieb, Alois | Type bar typewriter |
 | [DE639663](DE639663.md) | 1937-06-18 | Stefan, Jakoblits | Schreibrechenmaschine |
 | [DE646431](DE646431.md) | 1937-06-18 |  | Druckende Tabelliermaschine |
 | [DE646658](DE646658.md) | 1937-06-18 |  | Steuervorrichtung fuer statistische und Buchungsmaschinen mit lichtempfindlichen Zellen |
-| [DE646771](DE646771.md) | 1937-06-21 |  | Vorrichtung an Schreibmaschinen, Rechenmaschinen und aehnlichen Maschinen zum Bremsen des Papierwagens |
+| [DE646771](DE646771.md) | 1937-06-21 | Winklhofer, Wanderer Werke Vorm | Vorrichtung an Schreibmaschinen, Rechenmaschinen und aehnlichen Maschinen zum Bremsen des Papierwagens |
 | [DE647100](DE647100.md) | 1937-06-28 | Behr, Hans | Inking device for ribbon of the typewriter |
 | [DE647101](DE647101.md) | 1937-06-28 | Banholzer, Friedrich | Document holder with line indicator that can be switched line by line |
 | [DE647099](DE647099.md) | 1937-06-29 | Fa, Hermann Schaeuffele | Additional device for typewriters u. Like. For labeling paper webs |
-| [DE647159](DE647159.md) | 1937-06-29 |  | Schreibmaschinentisch |
-| [DE647246](DE647246.md) | 1937-06-30 |  | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
+| [DE647159](DE647159.md) | 1937-06-29 | Ab, Kontorsmoebelfabriken | Schreibmaschinentisch |
+| [DE647246](DE647246.md) | 1937-06-30 | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
 | [DE759125](DE759125.md) | 1937-07-09 |  | Equipment on writing business machines for the introduction of a slip sheet |
-| [DE647638](DE647638.md) | 1937-07-14 |  | Calculating machine or the like |
+| [DE647638](DE647638.md) | 1937-07-14 | Co, Burroughs Adding Machine | Calculating machine or the like |
 | [DE648091](DE648091.md) | 1937-07-23 | Max, Jacob | Druckvorrichtung an Registrierkassen |
-| [DE648090](DE648090.md) | 1937-07-24 |  | Typewriter |
+| [DE648090](DE648090.md) | 1937-07-24 | Werke, Mercedes Bueromaschinen | Typewriter |
 | [DE648138](DE648138.md) | 1937-07-24 |  | Movably arranged counter for typewriters |
 | [DE648238](DE648238.md) | 1937-07-26 | Baier, Georg | Type rod drive for typewriters with type carriers guided in stationary plain &hellip; |
-| [DE648239](DE648239.md) | 1937-07-29 |  | Type bar typewriter with several, preferably more than two type groups on each &hellip; |
+| [DE648239](DE648239.md) | 1937-07-29 | Werke, Mercedes Bueromaschinen | Type bar typewriter with several, preferably more than two type groups on each &hellip; |
 | [DE648312](DE648312.md) | 1937-08-06 | Kreuzer, Friedrich | Drucktelegrafenempfaenger, bei denen die einzelnen Schriftzeichen durch fest-gelegte Impulsreihen aus mehreren Schriftelementen zusammengesetzt werden |
-| [DE648894](DE648894.md) | 1937-08-10 |  | Tastbrett fuer das Ausloesen der Matrizen von Matrizensetz- und Zeilengiessmaschinen, das mit Teilaufschriften versehene Tasten hat |
+| [DE648894](DE648894.md) | 1937-08-10 | Co, Mergenthaler Linotype | Tastbrett fuer das Ausloesen der Matrizen von Matrizensetz- und Zeilengiessmaschinen, das mit Teilaufschriften versehene Tasten hat |
 | [DE649279](DE649279.md) | 1937-08-19 | Stein, Wilhelm | Verfahren zum Herstellen von Flachdruckformen fuer Buch- und Zeitungsdruck durch Umdruck eines mit der Schreibmaschine hergestellten Schriftsatzes |
-| [DE649198](DE649198.md) | 1937-08-20 |  | Buchhaltungsmaschine |
+| [DE649198](DE649198.md) | 1937-08-20 | Co, Burroughs Adding Machine | Buchhaltungsmaschine |
 | [DE649083](DE649083.md) | 1937-08-25 | Christel, Hamann | Gehaeuse fuer Rechenmaschinen |
 | [DE649484](DE649484.md) | 1937-08-26 | Haberfeld, Erwin O | Typewriter with a carriage frame detachably connected to the machine frame |
 | [DE649485](DE649485.md) | 1937-08-26 | Zimmeck, Karl | Device for attaching the ribbon of writing and similar machines to the ribbon &hellip; |
@@ -9158,101 +9294,104 @@ Every patent in the library, oldest first.
 | [DE649678](DE649678.md) | 1937-08-30 | Wolff, Alfred | Typewriter foot |
 | [DE649679](DE649679.md) | 1937-09-03 | A, Ransmayer A & Rodrian | Device for aligning and soldering typewriter types |
 | [DE649680](DE649680.md) | 1937-09-03 | Daniels, Nicolaus | Device on typewriters for pressing keys |
-| [DE649873](DE649873.md) | 1937-09-04 |  | Type set for machine writing or the like. |
-| [DE649760](DE649760.md) | 1937-09-06 |  | Typewriter with a platen frame that can be raised and lowered |
+| [DE649873](DE649873.md) | 1937-09-04 | H, Iris Type G M B | Type set for machine writing or the like. |
+| [DE649760](DE649760.md) | 1937-09-06 | Co, Underwood Elliott Fisher | Typewriter with a platen frame that can be raised and lowered |
 | [DE646886](DE646886.md) | 1937-09-07 | Maschf, Oerlikon | Elektromagnet fuer mehrere genau begrenzte Schaltstellungen |
-| [DE649885](DE649885.md) | 1937-09-07 |  | Paper slide switch device for typewriters, typewriters, etc. like |
+| [DE649885](DE649885.md) | 1937-09-07 | Werke, Mercedes Bueromaschinen | Paper slide switch device for typewriters, typewriters, etc. like |
 | [DE649907](DE649907.md) | 1937-09-07 | Rohrwacher, Margarete Ruth | Registrierkasse |
-| [DE649759](DE649759.md) | 1937-09-08 |  | Type lever drive for typewriters |
+| [DE649759](DE649759.md) | 1937-09-08 | Ge, Triumph Werke Nuernberg Akt | Type lever drive for typewriters |
 | [DE649941](DE649941.md) | 1937-09-08 |  | Complementary counters, especially for typewriters |
-| [DE650052](DE650052.md) | 1937-09-11 |  | Typewriter case |
-| [DE650091](DE650091.md) | 1937-09-15 |  | Typewriter or the like with a carriage tension spring controlled by a locking &hellip; |
+| [DE650052](DE650052.md) | 1937-09-11 | A, Olympia Bueromaschinenwerke | Typewriter case |
+| [DE650091](DE650091.md) | 1937-09-15 | Werke, Mercedes Bueromaschinen | Typewriter or the like with a carriage tension spring controlled by a locking &hellip; |
 | [DE650203](DE650203.md) | 1937-09-15 |  | Thin intermediate plate designed as a ribbon holder for plate-shaped copy devices |
-| [DE650261](DE650261.md) | 1937-09-15 |  | Paper guiding device on typewriters |
+| [DE650261](DE650261.md) | 1937-09-15 | Werke, Mercedes Bueromaschinen | Paper guiding device on typewriters |
 | [DE650436](DE650436.md) | 1937-09-21 |  | Multiplying machine with a gelatin ribbon |
 | [DE650492](DE650492.md) | 1937-09-23 | Cie, Mce Dequeker & | Blaettersatzhalter fuer das Durchschreiben von Hand und mit der Schreibmaschine |
 | [DE650633](DE650633.md) | 1937-09-27 |  | Druckvorrichtung |
 | [DE650720](DE650720.md) | 1937-09-30 | Mueller, Louis | Device for clamping auxiliary ribbon pieces |
 | [DE650779](DE650779.md) | 1937-10-01 | Randzio, Reinhold | Lehrgeraet fuer den Schreibmaschinenunterricht |
-| [DE651052](DE651052.md) | 1937-10-06 |  | Schaffnerzange mit Druckeinrichtung und selbsttaetiger Farbbandschaltung |
-| [DE651112](DE651112.md) | 1937-10-07 |  | Type stop device for type roller typewriters |
+| [DE651052](DE651052.md) | 1937-10-06 | H, Hans Frings G M B | Schaffnerzange mit Druckeinrichtung und selbsttaetiger Farbbandschaltung |
+| [DE651112](DE651112.md) | 1937-10-07 | A, Olympia Bueromaschinenwerke | Type stop device for type roller typewriters |
 | [DE651113](DE651113.md) | 1937-10-07 | Jr, Karl Rabeck | Auxiliary ribbon device on typewriters |
-| [DE651037](DE651037.md) | 1937-10-08 |  | Schreibrechenmaschine |
-| [DE651382](DE651382.md) | 1937-10-12 |  | Druckwerk fuer Registrierkassen und Buchungsmaschinen |
+| [DE651037](DE651037.md) | 1937-10-08 | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine |
+| [DE651382](DE651382.md) | 1937-10-12 | Co, Ncr | Druckwerk fuer Registrierkassen und Buchungsmaschinen |
 | [DE651735](DE651735.md) | 1937-10-18 |  | Line compensation device for typewriters or the like. |
 | [DE651736](DE651736.md) | 1937-10-18 | Glaeser, Heinrich | Vorrichtung an Schreibmaschinen u. dgl. zum Sichern der Schreibgrenze am unteren Rande des Schreibblattes |
 | [DE651739](DE651739.md) | 1937-10-18 | Schuetz, - Friedrich | Selbsttaetige Regelung der Luftheizung von Eisenbahnwagen |
 | [DE651757](DE651757.md) | 1937-10-19 | Schmidt, Otto | Schalldaempfende Tischplatte, insbesondere fuer Schreibmaschinentische |
-| [DE651737](DE651737.md) | 1937-10-21 |  | Device for automatic switching of the ribbon length movement on typewriters, &hellip; |
-| [DE651859](DE651859.md) | 1937-10-21 |  | Decimal tab |
-| [DE652043](DE652043.md) | 1937-10-23 |  | Device for switching the ribbon fork on typewriters |
+| [DE651737](DE651737.md) | 1937-10-21 | Werke, Mercedes Bueromaschinen | Device for automatic switching of the ribbon length movement on typewriters, &hellip; |
+| [DE651859](DE651859.md) | 1937-10-21 | H, Adlerwerke Kleyer Ag | Decimal tab |
+| [DE652043](DE652043.md) | 1937-10-23 | A, Olympia Bueromaschinenwerke | Device for switching the ribbon fork on typewriters |
 | [DE652138](DE652138.md) | 1937-10-28 | Jackson, William Austin | Device on typewriters for multiple use of carbon sheets to write on paper webs |
 | [DE652367](DE652367.md) | 1937-10-29 | Erhard, Andreas | Concept holder |
 | [DE652387](DE652387.md) | 1937-11-01 |  | Druckende Tabelliermaschine |
 | [DE652434](DE652434.md) | 1937-11-01 | Koch, Paul | Switching device in which characters or the like are triggered by an optional &hellip; |
 | [DE652435](DE652435.md) | 1937-11-01 |  | Ribbon holder for carbon copy devices |
-| [DE652471](DE652471.md) | 1937-11-02 |  | Type mounting and soldering device |
+| [DE652471](DE652471.md) | 1937-11-02 | H, Iris Type G M B | Type mounting and soldering device |
 | [DE637124](DE637124.md) | 1937-11-05 | Glaeser, Heinrich | Lower margin for typewriters |
 | [DE652615](DE652615.md) | 1937-11-06 |  | Druckvorrichtung |
 | [DE652860](DE652860.md) | 1937-11-09 | Koehle, Anton | Cleaning device for cleaning typewriters or the like. |
 | [DE652847](DE652847.md) | 1937-11-11 | Baier, Georg | Type rod drive for typewriters with type carriers guided in stationary plain &hellip; |
 | [DE652932](DE652932.md) | 1937-11-11 | Rohrwacher, Maximilian Clauss | Druckwerk fuer Registrierkassen |
-| [DE653364](DE653364.md) | 1937-11-23 |  | Zeilenschaltvorrichtung fuer Registrierkassen und Buchungsmaschinen |
-| [DE653587](DE653587.md) | 1937-11-27 |  | Typewriter in which the platen carriage can be adjusted in the direction in &hellip; |
-| [DE653658](DE653658.md) | 1937-11-30 |  | Device on typewriters or the like with line indicators arranged on both sides &hellip; |
-| [DE653588](DE653588.md) | 1937-12-01 |  | Dust protection device for typewriters |
+| [DE653364](DE653364.md) | 1937-11-23 | Co, Ncr | Zeilenschaltvorrichtung fuer Registrierkassen und Buchungsmaschinen |
+| [DE653587](DE653587.md) | 1937-11-27 | Winklhofer, Wanderer Werke Vorm | Typewriter in which the platen carriage can be adjusted in the direction in &hellip; |
+| [DE653658](DE653658.md) | 1937-11-30 | Winklhofer, Wanderer Werke Vorm | Device on typewriters or the like with line indicators arranged on both sides &hellip; |
+| [DE653588](DE653588.md) | 1937-12-01 | Inc, Royal Typewriter Co | Dust protection device for typewriters |
 | [DE653998](DE653998.md) | 1937-12-08 | Fa, G F Grosser | Arch support (sheet holder) for typewriters |
 | [DE654074](DE654074.md) | 1937-12-14 | Benzing, Hugo | On the paper cart of typing, writing arithmetic, accounting and similar &hellip; |
 | [DE654130](DE654130.md) | 1937-12-15 | Maul, Michael | Lochmaschine fuer Lochkombinationen |
 | [DE654560](DE654560.md) | 1937-12-27 | Maschinenbau, Adrema | Embossing machine for address printing or similar printing plates with an &hellip; |
 | [DE654717](DE654717.md) | 1937-12-29 | Will, Walter | Manuscript holder for typewriters |
-| [DE759613](DE759613.md) | 1938-01-03 |  | Ribbon progression and reversing mechanism for type printing telegraph devices, &hellip; |
+| [DE759613](DE759613.md) | 1938-01-03 | Ltd, Creed & Co | Ribbon progression and reversing mechanism for type printing telegraph devices, &hellip; |
 | [DE654891](DE654891.md) | 1938-01-04 | Harhaus, Carl | Zangenaehnliches Geraet zum Innenpraegen von Trauringen u. dgl. |
 | [DE654955](DE654955.md) | 1938-01-06 |  | Device on typewriters, calculating machines, adding machines or the like for reversing the respective type of calculation of the counters |
 | [DE757625](DE757625.md) | 1938-01-09 | Riehle, Karl | Noise and shock absorbing footrest for office machines |
-| [DE655141](DE655141.md) | 1938-01-10 |  | Device for the automatic advancement of the paper web fed from a paper roll to &hellip; |
+| [DE655141](DE655141.md) | 1938-01-10 | Co, Ncr | Device for the automatic advancement of the paper web fed from a paper roll to &hellip; |
 | [DE655163](DE655163.md) | 1938-01-10 | Haseloff, Fritz | Wertscheindrucker |
 | [DE655291](DE655291.md) | 1938-01-12 | Erzinger, Jean | Auxiliary ribbon device on typewriters |
-| [DE655237](DE655237.md) | 1938-01-19 |  | Registrierkasse, insbesondere Tastenhebelregistrierkasse |
+| [DE655237](DE655237.md) | 1938-01-19 | Co, Ncr | Registrierkasse, insbesondere Tastenhebelregistrierkasse |
 | [DE655770](DE655770.md) | 1938-01-22 |  | ~The invention also relates to the arrangement and control of special type carriers to iden |
 | [DE655859](DE655859.md) | 1938-01-24 | A, Ransmayer A & Rodrian | Die for making typewriter types |
-| [DE656001](DE656001.md) | 1938-01-27 |  | Paper carriage switching device |
-| [DE656088](DE656088.md) | 1938-01-28 |  | Empfaenger fuer Typendrucktelegraphie, bei dem der Abdruck verschiedener Typengruppen in verschiedenen Reihen erfolgt |
+| [DE656001](DE656001.md) | 1938-01-27 | Winklhofer, Wanderer Werke Vorm | Paper carriage switching device |
+| [DE656088](DE656088.md) | 1938-01-28 | Akt, Standard Elek Zitaets Ges | Empfaenger fuer Typendrucktelegraphie, bei dem der Abdruck verschiedener Typengruppen in verschiedenen Reihen erfolgt |
 | [DE656136](DE656136.md) | 1938-01-29 | Max, Jacob | Stornierungseinrichtung an Buchungsmaschinen |
-| [DE656540](DE656540.md) | 1938-02-08 |  | Matrizensetz- und Zeilengiessmaschine, bei der die Setzvorrichtung durch das Niederdruecken von Stossstangen mittels Tasten einer Schreibmaschine o. dgl. unter Zwischenschalten von Schwinghebeln ... |
+| [JP125927](JP125927.md) | 1938-02-02 | Miwa, Mataichi | Vertical (column) feed device for a typewriter |
+| [DE656540](DE656540.md) | 1938-02-08 | Corp, Macomic | Matrizensetz- und Zeilengiessmaschine, bei der die Setzvorrichtung durch das Niederdruecken von Stossstangen mittels Tasten einer Schreibmaschine o. dgl. unter Zwischenschalten von Schwinghebeln ... |
 | [DE656742](DE656742.md) | 1938-02-19 | Ebert, Hellmut | Roller protectors for typewriters |
 | [DE657021](DE657021.md) | 1938-02-22 | Benzing, Hugo | Paper roller arrangement for writing, writing arithmetic or similar machines |
-| [DE657210](DE657210.md) | 1938-02-26 |  | Device for the noiseless moving back of the paper cart on typewriters |
-| [DE754784](DE754784.md) | 1938-02-28 |  | Electric drive for the type carrier of typewriters u. like |
+| [DE657210](DE657210.md) | 1938-02-26 | Ge, Triumph Werke Nuernberg Akt | Device for the noiseless moving back of the paper cart on typewriters |
+| [DE754784](DE754784.md) | 1938-02-28 | Werke, Mercedes Bueromaschinen | Electric drive for the type carrier of typewriters u. like |
 | [DE657268](DE657268.md) | 1938-03-01 | Tauschek, Gustav | Druckende Geschaeftsmaschine |
-| [DE657304](DE657304.md) | 1938-03-01 |  | Typewriter support housing |
+| [DE657304](DE657304.md) | 1938-03-01 | Co, Underwood Elliott Fisher | Typewriter support housing |
 | [DE657583](DE657583.md) | 1938-03-08 | Benzing, Hugo | Device for moving the ribbon reel drive shaft, preferably for typewriters with &hellip; |
 | [DE657555](DE657555.md) | 1938-03-10 | Soc, Heady S A | Type drum typewriter that can be converted into a sheet music typewriter |
-| [DE658103](DE658103.md) | 1938-03-22 |  | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
-| [DE658285](DE658285.md) | 1938-03-28 |  | Vorrichtung zum Erzielen eines geraeuschschwachen Abdruckes der Typenhebel einer kraftangetriebenen Schreibmaschine |
-| [DE658354](DE658354.md) | 1938-04-01 |  | Tabulator on typewriters or the like. |
-| [DE658672](DE658672.md) | 1938-04-09 |  | Case for portable machines, especially office machines, such as typewriters and &hellip; |
-| [DE658677](DE658677.md) | 1938-04-13 |  | Nullendruckvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
-| [DE658820](DE658820.md) | 1938-04-19 |  | Farbbandschalt- und -feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
-| [DE658821](DE658821.md) | 1938-04-19 |  | Farbbandschalt- und -feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
-| [DE658822](DE658822.md) | 1938-04-19 |  | Ribbon switching and locking device, especially for typewriters, in which the &hellip; |
+| [DE658103](DE658103.md) | 1938-03-22 | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
+| [DE658285](DE658285.md) | 1938-03-28 | A, Olympia Bueromaschinenwerke | Vorrichtung zum Erzielen eines geraeuschschwachen Abdruckes der Typenhebel einer kraftangetriebenen Schreibmaschine |
+| [DE658354](DE658354.md) | 1938-04-01 | Co, Underwood Elliott Fisher | Tabulator on typewriters or the like. |
+| [DE658672](DE658672.md) | 1938-04-09 | Werke, Mercedes Bueromaschinen | Case for portable machines, especially office machines, such as typewriters and &hellip; |
+| [DE658677](DE658677.md) | 1938-04-13 | Co, Ncr | Nullendruckvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
+| [DE658820](DE658820.md) | 1938-04-19 | Inc, Royal Typewriter Co | Farbbandschalt- und -feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
+| [DE658821](DE658821.md) | 1938-04-19 | Inc, Royal Typewriter Co | Farbbandschalt- und -feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
+| [DE658822](DE658822.md) | 1938-04-19 | Inc, Royal Typewriter Co | Ribbon switching and locking device, especially for typewriters, in which the &hellip; |
 | [DE658819](DE658819.md) | 1938-04-23 | Ficker, Theodor | Syllable typewriter |
 | [DE659235](DE659235.md) | 1938-04-29 |  | Von der Wagenbewegung aus betaetigte Zeilenschaltvorrichtung an Schreibmaschinen |
 | [DE659236](DE659236.md) | 1938-04-29 |  | Easily releasable coupling between the paper carriage of typewriters or the &hellip; |
-| [DE659453](DE659453.md) | 1938-05-04 |  | Paper guide roller for typewriters |
+| [DE659453](DE659453.md) | 1938-05-04 | Ge, Triumph Werke Nuernberg Akt | Paper guide roller for typewriters |
 | [DE659773](DE659773.md) | 1938-05-10 | Haselhorst, Ewald | Holding device for writing and carbon paper sheets |
 | [DE659966](DE659966.md) | 1938-05-13 | Stertz, Walter | Lining and underlining device for typewriters |
 | [DE660154](DE660154.md) | 1938-05-18 | Haberfeld, Erwin O | Schreibtischschubkasten mit eingebauter Schreibmaschine |
 | [DE660221](DE660221.md) | 1938-05-19 | Tollert, Hans | Device on electromagnetically operated typewriters or the like. |
-| [DE660240](DE660240.md) | 1938-05-23 |  | Farbbandschalt- und Feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
+| [DE660240](DE660240.md) | 1938-05-23 | Inc, Royal Typewriter Co | Farbbandschalt- und Feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
 | [DE660493](DE660493.md) | 1938-05-25 | Comp, Underwood Elliott Fischer | Typewriter tab device |
-| [DE660882](DE660882.md) | 1938-06-04 |  | Sound-absorbing paper roller for typewriters or the like. |
-| [DE660747](DE660747.md) | 1938-06-09 |  | Druckwerkssteuerung an Registrierkassen |
+| [DE660882](DE660882.md) | 1938-06-04 | A, Olympia Bueromaschinenwerke | Sound-absorbing paper roller for typewriters or the like. |
+| [DE660747](DE660747.md) | 1938-06-09 | Co, Ncr | Druckwerkssteuerung an Registrierkassen |
 | [DE661262](DE661262.md) | 1938-06-15 | Bauder, Josef | Sendeeinrichtung fuer Fernschreibmaschinen mit Aufspeicherung saemtlicher zu uebertragender Zeichen |
-| [DE661276](DE661276.md) | 1938-06-15 |  | Ribbon reel drive for typewriters |
-| [DE661275](DE661275.md) | 1938-06-18 |  | Tabulation device on typing, writing calculators, adding machines, etc. |
+| [DE661276](DE661276.md) | 1938-06-15 | A, Olympia Bueromaschinenwerke | Ribbon reel drive for typewriters |
+| [JP127819](JP127819.md) | 1938-06-15 | Hosoya, Shinji | Japanese-script printing machine |
+| [DE661275](DE661275.md) | 1938-06-18 | Werke, Mercedes Bueromaschinen | Tabulation device on typing, writing calculators, adding machines, etc. |
 | [DE661490](DE661490.md) | 1938-06-19 | Benzing, Hugo | Card holder for writing, calculating and similar machines |
-| [DE661498](DE661498.md) | 1938-06-21 |  | Vorrichtung, insbesondere fuer Schreibrechenmaschinen, zum selbsttaetigen Wiederholen der Schrittschaltung des Papierwagens |
+| [DE661498](DE661498.md) | 1938-06-21 | Werke, Mercedes Bueromaschinen | Vorrichtung, insbesondere fuer Schreibrechenmaschinen, zum selbsttaetigen Wiederholen der Schrittschaltung des Papierwagens |
+| [JP128089](JP128089.md) | 1938-06-24 | Hosoya, Shinji | Japanese-script printing machine |
 | [DE661820](DE661820.md) | 1938-06-28 | Beck, Friedrich | Versenkvorrichtung fuer Schreibmaschinen im Knieraum unter der Schreibtischschublade |
 | [DE661970](DE661970.md) | 1938-07-01 | Thiel, Boeckmann & | Typewriter ribbon reel |
 | [DE661979](DE661979.md) | 1938-07-01 | Kornhass, Hugo | Tisch, insbesondere Schreibmaschinentisch, mit voneinander abhaengig bewegbaren Tischplattenteilen |
@@ -9262,25 +9401,29 @@ Every patent in the library, oldest first.
 | [DE662481](DE662481.md) | 1938-07-14 | Blois, Felix | Zusatzgeraet fuer Einrichtungen zum Einschlagen von Zeichen in Ringe |
 | [DE662539](DE662539.md) | 1938-07-15 | Hieb, Alois | Type bar typewriter |
 | [DE662687](DE662687.md) | 1938-07-19 | Sellgrad, Georg | Einschalthebel fuer Arbeitsmaschinen |
-| [DE662870](DE662870.md) | 1938-07-23 |  | Device for setting leaflets on typewriters |
+| [DE662870](DE662870.md) | 1938-07-23 | Ges, Ruf Buchhaltung Akt | Device for setting leaflets on typewriters |
 | [DE663106](DE663106.md) | 1938-07-29 | Mueller, Josef | Method for refreshing color ribbons for typewriters u. like |
-| [DE663251](DE663251.md) | 1938-08-03 |  | Insertion device for typewriters, calculating and accounting machines |
+| [DE663251](DE663251.md) | 1938-08-03 | G, Karl Endrich A | Insertion device for typewriters, calculating and accounting machines |
 | [DE663483](DE663483.md) | 1938-08-06 | Schneider, Julius | Verfahren zum Herstellen von gleich langen (ausgeschlossenen) photographischen Schriftzeilennegativen oder -positiven |
-| [DE663665](DE663665.md) | 1938-08-11 |  | Rechenmaschine mit Druckvorrichtung, insbesondere Zehntastenrechenmaschine |
+| [DE663665](DE663665.md) | 1938-08-11 | Ges, Mauser Werke Akt | Rechenmaschine mit Druckvorrichtung, insbesondere Zehntastenrechenmaschine |
 | [DE663712](DE663712.md) | 1938-08-12 | Lungershausen, Hermann | Druckverfahren zum Herstellen von Schreibmaschinenbriefen |
-| [DE663738](DE663738.md) | 1938-08-12 |  | Nullendruckvorrichtung |
-| [DE663787](DE663787.md) | 1938-08-13 |  | Gestell fuer Bueromaschinen |
+| [DE663738](DE663738.md) | 1938-08-12 | Co, Ncr | Nullendruckvorrichtung |
+| [DE663787](DE663787.md) | 1938-08-13 | Winklhofer, Wanderer Werke Vorm | Gestell fuer Bueromaschinen |
+| [JP127820](JP127820.md) | 1938-08-17 | Hosoya, Shinji | Printing mechanism in a Japanese-script printing machine |
+| [JP128359](JP128359.md) | 1938-08-19 | Miwa, Mataichi | Sideways feed device for a Japanese-script typewriter |
 | [DE657364](DE657364.md) | 1938-08-24 |  | Paper trolley switching device for power-driven typewriters |
-| [DE664554](DE664554.md) | 1938-09-05 |  | Druckvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
+| [JP127896](JP127896.md) | 1938-09-02 | Shimada, Minokichi | Paper-cylinder moving device for a Japanese-script printing machine |
+| [JP127897](JP127897.md) | 1938-09-03 | Shimada, Minokichi | Automatic striking-force regulator for a Japanese-language typewriter |
+| [DE664554](DE664554.md) | 1938-09-05 | Co, Ncr | Druckvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
 | [DE664838](DE664838.md) | 1938-09-10 | Brugger, Herbert | Keyboard for typewriters |
-| [DE665019](DE665019.md) | 1938-09-12 |  | Permanent switching device for the car of writing, calculating and similar &hellip; |
+| [DE665019](DE665019.md) | 1938-09-12 | Ag, Vorm Seidel & Naumann | Permanent switching device for the car of writing, calculating and similar &hellip; |
 | [DE664949](DE664949.md) | 1938-09-15 | Muther, Adolf | Keyboard for typewriters |
 | [DE627950](DE627950.md) | 1938-09-27 | Inhoffen, Walther | Drive device for type cylinder typewriters, in which the type cylinder is &hellip; |
 | [DE665692](DE665692.md) | 1938-10-05 | Kuebart, Fritz | Note typewriter |
-| [DE666012](DE666012.md) | 1938-10-10 |  | Spaltendruckvorrichtung fuer Registrierkassen und Buchungsmaschinen |
+| [DE666012](DE666012.md) | 1938-10-10 | Co, Ncr | Spaltendruckvorrichtung fuer Registrierkassen und Buchungsmaschinen |
 | [DE665913](DE665913.md) | 1938-10-11 |  | Typewriter |
-| [DE665826](DE665826.md) | 1938-10-12 |  | Type with underscores, especially for typewriters |
-| [DE666257](DE666257.md) | 1938-10-14 |  | Device on typewriters u. Like. With a special control member to be made &hellip; |
+| [DE665826](DE665826.md) | 1938-10-12 | H, Iris Type G M B | Type with underscores, especially for typewriters |
+| [DE666257](DE666257.md) | 1938-10-14 | Werke, Mercedes Bueromaschinen | Device on typewriters u. Like. With a special control member to be made &hellip; |
 | [DE666270](DE666270.md) | 1938-10-14 | W, Colon Glenn | Vorrichtung zur loesbaren Befestigung einer Schreibmaschine o. dgl. an einer Unterlage |
 | [DE666330](DE666330.md) | 1938-10-17 | Haberfeld, Erwin O | Latching device on typewriters |
 | [DE666397](DE666397.md) | 1938-10-19 | Inhoffen, Walther | Drive device for type cylinder typewriters |
@@ -9288,240 +9431,257 @@ Every patent in the library, oldest first.
 | [DE666399](DE666399.md) | 1938-10-19 | Inhoffen, Walther | Electric cylinder typewriter |
 | [DE641760](DE641760.md) | 1938-10-20 | Inhoffen, Walther | Storage of the exchangeable type cylinder of type cylinder typewriters |
 | [DE666469](DE666469.md) | 1938-10-20 | Inhoffen, Walther | Electric cylinder typewriter |
-| [DE666470](DE666470.md) | 1938-10-20 |  | Paper holding rail for writing office machines |
+| [DE666470](DE666470.md) | 1938-10-20 | Winklhofer, Wanderer Werke Vorm | Paper holding rail for writing office machines |
 | [DE666520](DE666520.md) | 1938-10-21 | Inhoffen, Walther | Electric cylinder typewriter |
 | [DE666521](DE666521.md) | 1938-10-21 | Comp, Underwood Elliott Fischer | Document holder for flat panel typewriters or the like. |
 | [DE666522](DE666522.md) | 1938-10-21 | Geirn, Rene Louis Romain Robert | Paper trolley switching device for typewriters or the like with a switching &hellip; |
-| [DE666523](DE666523.md) | 1938-10-21 |  | Device on writing business machines provided with a main ribbon or the like |
+| [DE666523](DE666523.md) | 1938-10-21 | Winklhofer, Wanderer Werke Vorm | Device on writing business machines provided with a main ribbon or the like |
 | [DE666524](DE666524.md) | 1938-10-21 | Inhoffen, Walther | Device for attaching the easily replaceable key caps of typewriters |
-| [DE756423](DE756423.md) | 1938-10-21 |  | Booking machine with push-fit device |
-| [DE666602](DE666602.md) | 1938-10-24 |  | Paper guiding device on calculating machines |
-| [DE666766](DE666766.md) | 1938-10-27 |  | Type for type lever |
+| [DE756423](DE756423.md) | 1938-10-21 | Werke, Mercedes Bueromaschinen | Booking machine with push-fit device |
+| [DE666602](DE666602.md) | 1938-10-24 | Co, Burroughs Adding Machine | Paper guiding device on calculating machines |
+| [DE666766](DE666766.md) | 1938-10-27 | H, Iris Type G M B | Type for type lever |
 | [DE666896](DE666896.md) | 1938-10-31 | Tappen, Hans | Type set for typewriters or the like. |
 | [DE666792](DE666792.md) | 1938-11-03 | Koerner, Josef | Device on typewriters for returning the carriage to the central position and &hellip; |
-| [DE667042](DE667042.md) | 1938-11-03 |  | Chrom-Nickel-Legierungen fuer elektrische Widerstaende |
+| [DE667042](DE667042.md) | 1938-11-03 | Ltd, British Driver Harris Co | Chrom-Nickel-Legierungen fuer elektrische Widerstaende |
 | [DE667442](DE667442.md) | 1938-11-11 | J, Ludwig Neumann | Device for aligning and soldering types on typewriter levers |
-| [DE667911](DE667911.md) | 1938-11-23 |  | Device for automatic switching of the ribbon length movement on typewriters or &hellip; |
-| [DE668034](DE668034.md) | 1938-11-23 |  | Device for controlling the writing plate of flat-plate typewriters |
+| [DE667911](DE667911.md) | 1938-11-23 | Inc, Royal Typewriter Co | Device for automatic switching of the ribbon length movement on typewriters or &hellip; |
+| [DE668034](DE668034.md) | 1938-11-23 | Co, Underwood Elliott Fisher | Device for controlling the writing plate of flat-plate typewriters |
 | [DE668024](DE668024.md) | 1938-11-24 | Max, Jacob | Nullendruckvorrichtung fuer Registrierkassen oder Rechenmaschinen |
-| [DE668184](DE668184.md) | 1938-11-28 |  | Zeileneinstellvorrichtung fuer Registrierkassen und Buchungsmaschinen |
-| [DE668229](DE668229.md) | 1938-11-28 |  | Rest bearing for the printing elements on typewriters or the like. |
-| [DE668245](DE668245.md) | 1938-11-29 |  | Device for aligning the paper roller with respect to the type stop on &hellip; |
-| [DE668246](DE668246.md) | 1938-11-29 |  | Low-noise platen for typewriters, typewriters, adding machines, etc. like |
-| [DE668412](DE668412.md) | 1938-12-02 |  | Type bar typewriter |
-| [DE668523](DE668523.md) | 1938-12-05 |  | Kartenfuehrungsvorrichtung fuer Schreib-, Rechen- oder Buchhaltungsmaschinen |
-| [DE668555](DE668555.md) | 1938-12-05 |  | Frame for typewriters or the like. |
+| [JP129571](JP129571.md) | 1938-11-25 | Yōtō, Osamu | Left/right feed change-over device for a typewriter |
+| [DE668184](DE668184.md) | 1938-11-28 | Co, Ncr | Zeileneinstellvorrichtung fuer Registrierkassen und Buchungsmaschinen |
+| [DE668229](DE668229.md) | 1938-11-28 | Werke, Mercedes Bueromaschinen | Rest bearing for the printing elements on typewriters or the like. |
+| [DE668245](DE668245.md) | 1938-11-29 | U, Torpedo Werke A G Fahrraeder | Device for aligning the paper roller with respect to the type stop on &hellip; |
+| [DE668246](DE668246.md) | 1938-11-29 | Werke, Mercedes Bueromaschinen | Low-noise platen for typewriters, typewriters, adding machines, etc. like |
+| [DE668412](DE668412.md) | 1938-12-02 | H, Adlerwerke Kleyer Ag | Type bar typewriter |
+| [DE668523](DE668523.md) | 1938-12-05 | Co, Ncr | Kartenfuehrungsvorrichtung fuer Schreib-, Rechen- oder Buchhaltungsmaschinen |
+| [DE668555](DE668555.md) | 1938-12-05 | Ges, Wanderer Werke Akt | Frame for typewriters or the like. |
 | [DE668821](DE668821.md) | 1938-12-10 | Hell, - Rudolf | Empfangsanordnung fuer die UEbertragung von Schriftzeichen |
+| [JP129969](JP129969.md) | 1938-12-10 | Miwa, Mataichi | Sideways-feed device for a Japanese-script typewriter |
 | [DE666618](DE666618.md) | 1938-12-14 | Frie, Albrecht - Hermann | Greiferfortschalteinrichtung fuer Filme |
-| [DE669016](DE669016.md) | 1938-12-15 |  | Farbbandvorrichtung an Rechenmaschinen, Schreibmaschinen u. dgl. |
-| [DE669246](DE669246.md) | 1938-12-20 |  | Bookkeeping machine |
-| [DE669373](DE669373.md) | 1938-12-23 |  | Device for facilitating the clamping and alignment of writing pads on &hellip; |
-| [DE669436](DE669436.md) | 1938-12-27 |  | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
+| [DE669016](DE669016.md) | 1938-12-15 | Co, Burroughs Adding Machine | Farbbandvorrichtung an Rechenmaschinen, Schreibmaschinen u. dgl. |
+| [DE669246](DE669246.md) | 1938-12-20 | Corp, Sundstrand | Bookkeeping machine |
+| [DE669373](DE669373.md) | 1938-12-23 | Werke, Mercedes Bueromaschinen | Device for facilitating the clamping and alignment of writing pads on &hellip; |
+| [DE669436](DE669436.md) | 1938-12-27 | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
 | [DE669542](DE669542.md) | 1938-12-29 | Benzing, Hugo | Storage or articulation for levers of typewriters and similar machines |
-| [DE669732](DE669732.md) | 1939-01-02 |  | Device for avoiding oscillatory movements in switching mechanisms for the &hellip; |
-| [DE669733](DE669733.md) | 1939-01-02 |  | Device for the noiseless moving back of the paper cart on typewriters |
-| [DE669629](DE669629.md) | 1939-01-04 |  | Registrierkasse oder Buchungsmaschine |
+| [DE669732](DE669732.md) | 1939-01-02 | Ag, Triumph Werke Nuernberg | Device for avoiding oscillatory movements in switching mechanisms for the &hellip; |
+| [DE669733](DE669733.md) | 1939-01-02 | Ag, Triumph Werke Nuernberg | Device for the noiseless moving back of the paper cart on typewriters |
+| [DE669629](DE669629.md) | 1939-01-04 | Co, Ncr | Registrierkasse oder Buchungsmaschine |
 | [DE669811](DE669811.md) | 1939-01-04 | Benzing, Hugo | Device for limiting the end positions of the switching of the paper roll or &hellip; |
-| [DE669731](DE669731.md) | 1939-01-07 |  | Power driven typewriter |
+| [DE669731](DE669731.md) | 1939-01-07 | Co, Burroughs Adding Machine | Power driven typewriter |
 | [DE670101](DE670101.md) | 1939-01-11 | Koreska, Wilhelm | Device for cleaning the types of typewriters |
 | [DE670149](DE670149.md) | 1939-01-12 | Gabrielson, Carl | Device for coloring ribbons for typewriters u. like |
 | [DE756612](DE756612.md) | 1939-01-12 | Bromund, Arthur | Mechanical type lever drive for writing, calculating and other such machines |
 | [DE670190](DE670190.md) | 1939-01-13 | Goldberg, Emanuel | Vorrichtung zum Aussuchen statistischer und buchhalterischer Angaben |
-| [DE670285](DE670285.md) | 1939-01-16 |  | Type carrier training in printing units of cash registers or accounting &hellip; |
-| [DE670572](DE670572.md) | 1939-01-21 |  | Registrierkasse oder Buchungsmaschine |
+| [DE670285](DE670285.md) | 1939-01-16 | Co, Ncr | Type carrier training in printing units of cash registers or accounting &hellip; |
+| [DE670572](DE670572.md) | 1939-01-21 | Co, Ncr | Registrierkasse oder Buchungsmaschine |
 | [DE670673](DE670673.md) | 1939-01-21 | Griffith, Ronald George | Mechanische Steuereinrichtung fuer Telegraphenapparate |
 | [DE670732](DE670732.md) | 1939-01-25 | Ziegler, Hans | Auxiliary ribbon device on typewriters |
-| [DE670733](DE670733.md) | 1939-01-27 |  | Typewriter with top cover of the engine and the ribbon reels through a hinged &hellip; |
-| [DE671168](DE671168.md) | 1939-02-02 |  | Typewriter to create a noisy print |
+| [DE670733](DE670733.md) | 1939-01-27 | U, Torpedo Werke A G Fahrraeder | Typewriter with top cover of the engine and the ribbon reels through a hinged &hellip; |
+| [DE671168](DE671168.md) | 1939-02-02 | Sa, C Olivetti & Co S A | Typewriter to create a noisy print |
 | [DE671307](DE671307.md) | 1939-02-04 |  | Shooter drive for ribbon looms |
 | [DE671618](DE671618.md) | 1939-02-10 | Fischer, Paul Thomas | Drucktype |
 | [DE753903](DE753903.md) | 1939-02-12 |  | Typewriter with an automatic multiplier |
 | [DE671886](DE671886.md) | 1939-02-15 | Typewriters, L C Smith & Corona | Line switching device on typewriters or the like. |
-| [DE672394](DE672394.md) | 1939-03-01 |  | Scheckschreibende Rechenmaschine, Buchungsmaschine o. dgl. |
-| [DE672436](DE672436.md) | 1939-03-02 |  | Key lever bearing for type lever typewriters with inclined segment |
-| [DE672568](DE672568.md) | 1939-03-06 |  | Schreibrechenmaschine |
-| [DE672614](DE672614.md) | 1939-03-07 |  | Tab switch mechanism for typewriters, accounting machines, etc. |
+| [JP130157](JP130157.md) | 1939-02-15 | Yōtō, Osamu | Vertical (column) feed device for a typewriter |
+| [DE672394](DE672394.md) | 1939-03-01 | Co, Burroughs Adding Machine | Scheckschreibende Rechenmaschine, Buchungsmaschine o. dgl. |
+| [DE672436](DE672436.md) | 1939-03-02 | Ag, Vorm Seidel & Naumann | Key lever bearing for type lever typewriters with inclined segment |
+| [DE672568](DE672568.md) | 1939-03-06 | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine |
+| [DE672614](DE672614.md) | 1939-03-07 | U, Torpedo Werke A G Fahrraeder | Tab switch mechanism for typewriters, accounting machines, etc. |
 | [DE672672](DE672672.md) | 1939-03-08 | Lokomotiv, Schweizerische | Vorrichtung zum Verbessern von Durchsichtigen, in Zeilensetz- und Druckmaschinen bedruckten Reproduktionsvorlagen |
 | [DE670529](DE670529.md) | 1939-03-13 | Gundlfinger, Karl | Fernschreibmaschine |
-| [DE672782](DE672782.md) | 1939-03-13 |  | Druckwerk fuer Buchungsmaschinen |
+| [DE672782](DE672782.md) | 1939-03-13 | Co, Ncr | Druckwerk fuer Buchungsmaschinen |
 | [DE673019](DE673019.md) | 1939-03-14 | Typewriters, L C Smith & Corona | Device for applying paint to a tape for typewriters or the like. |
-| [DE673018](DE673018.md) | 1939-03-15 |  | Line switch device for adding machines, typewriters, typing calculators and &hellip; |
+| [DE673018](DE673018.md) | 1939-03-15 | Werke, Mercedes Bueromaschinen | Line switch device for adding machines, typewriters, typing calculators and &hellip; |
 | [DE673032](DE673032.md) | 1939-03-15 | Krosch, Otto | Gleichzeitig als Arbeitstisch dienender Aufbewahrungsschrank fuer schwere Buero- oder Haushaltsmaschinen oder -geraete |
-| [DE673059](DE673059.md) | 1939-03-15 |  | Registrierkasse oder Buchungsmaschine |
+| [DE673059](DE673059.md) | 1939-03-15 | Co, Ncr | Registrierkasse oder Buchungsmaschine |
 | [DE673243](DE673243.md) | 1939-03-18 | Hediger, Arthur | Vorrichtung zur Erzielung eines Daueranschlages an einer Schreibrechenmaschine mit Motorantrieb |
 | [DE673396](DE673396.md) | 1939-03-21 | Schueller, - Eduard | Elektromagnetisches Verfahren und elektromagnetische Vorrichtung zum Zaehlen oder Sortieren von Gegenstaenden aus nicht magnetisierbaren Werkstoffen |
-| [DE673488](DE673488.md) | 1939-03-23 |  | Paper slides on typewriters |
-| [DE673506](DE673506.md) | 1939-03-23 |  | Rechenmaschine |
+| [DE673488](DE673488.md) | 1939-03-23 | Co, Underwood Elliott Fisher | Paper slides on typewriters |
+| [DE673506](DE673506.md) | 1939-03-23 | Co, Burroughs Adding Machine | Rechenmaschine |
 | [DE673487](DE673487.md) | 1939-03-24 | E, Paillard & Cie Sa | Paper slide storage for typewriters |
 | [DE673539](DE673539.md) | 1939-03-24 | E, Paillard & Cie Sa | Typewriter with multi-armed intermediate levers, one of which moves the &hellip; |
 | [DE673642](DE673642.md) | 1939-03-25 | Friedrich, Richard | Typewriter with type wheel |
-| [DE673584](DE673584.md) | 1939-03-29 |  | Buchungsmaschine |
+| [JP131648](JP131648.md) | 1939-03-28 | Nagata, Toyoji | Sideways-feed device for a Japanese-script typewriter |
+| [DE673584](DE673584.md) | 1939-03-29 | Co, Internat Business Maschines | Buchungsmaschine |
 | [DE673780](DE673780.md) | 1939-03-29 | Naumann, Willy | Zeileneinstell- und Foerdervorrichtung fuer Registrierkassen und Buchungsmaschinen |
 | [DE673875](DE673875.md) | 1939-03-31 |  | Disk-shaped carbon copy device with ribbon and line indicator at the inscription point |
-| [DE674195](DE674195.md) | 1939-04-06 |  | Switching device for typewriters or the like. |
+| [DE674195](DE674195.md) | 1939-04-06 | Co, Underwood Elliott Fisher | Switching device for typewriters or the like. |
 | [DE674196](DE674196.md) | 1939-04-06 | Tombolini, Alfredo | Edge adjustment device for typewriters |
 | [DE674247](DE674247.md) | 1939-04-13 |  | Druckende Tabellier- oder Geschaeftsmaschine |
 | [DE674355](DE674355.md) | 1939-04-15 |  | Type printer with type carrier moved in large and small steps and under escapement control |
+| [JP132068](JP132068.md) | 1939-04-18 | Miwa, Mataichi | Sideways-feed back-spacing device in a Japanese-script typewriter |
 | [DE674701](DE674701.md) | 1939-04-19 | Weiss, Rudolf | Writing or similar machine with partial characters that can be displaced to &hellip; |
-| [DE674700](DE674700.md) | 1939-04-21 |  | Line tabulator on typewriters |
+| [DE674700](DE674700.md) | 1939-04-21 | Co, Underwood Elliott Fisher | Line tabulator on typewriters |
 | [DE674746](DE674746.md) | 1939-04-21 | Eller, Fritz | Vorrichtung zum Drucken von Zahlungsbelegen |
-| [DE674882](DE674882.md) | 1939-04-24 |  | Paper holding device for accounting machines or the like. |
-| [DE675234](DE675234.md) | 1939-05-04 |  | Device for aligning and securing the type body on the type levers of &hellip; |
+| [DE674882](DE674882.md) | 1939-04-24 | Co, Burroughs Adding Machine | Paper holding device for accounting machines or the like. |
+| [DE675234](DE675234.md) | 1939-05-04 | H, Iris Type G M B | Device for aligning and securing the type body on the type levers of &hellip; |
 | [DE675308](DE675308.md) | 1939-05-05 |  | Type lever teleprinter |
 | [DE675363](DE675363.md) | 1939-05-06 | Gardner, Albert Thomas | Device for rotating the paper roll of typewriters |
 | [DE675413](DE675413.md) | 1939-05-08 | Denzer, Ludwig | Type lever rest bearing for typewriters |
 | [DE675462](DE675462.md) | 1939-05-09 | Leixner, Anton | Vorrichtung zum Absetzen von Mustern auf unbedrucktes Patronenpapier |
 | [DE657453](DE657453.md) | 1939-05-11 |  | Printing device with a system of several sets of printing type wheels |
 | [DE675676](DE675676.md) | 1939-05-13 | Benzing, Hugo | Type lever rest bearing for typewriters |
-| [DE675729](DE675729.md) | 1939-05-15 |  | Calculating machine or the like |
-| [DE675769](DE675769.md) | 1939-05-17 |  | Scheckdruckwerk fuer registrierende Maschinen, z.B. Registrierkassen oder Buchungsmaschinen |
-| [DE675790](DE675790.md) | 1939-05-20 |  | Buchungsmaschine o. dgl. |
+| [DE675729](DE675729.md) | 1939-05-15 | Co, Burroughs Adding Machine | Calculating machine or the like |
+| [JP131880](JP131880.md) | 1939-05-15 | Katō, Kenjirō | Typewriter |
+| [DE675769](DE675769.md) | 1939-05-17 | Co, Ncr | Scheckdruckwerk fuer registrierende Maschinen, z.B. Registrierkassen oder Buchungsmaschinen |
+| [DE675790](DE675790.md) | 1939-05-20 | Co, Burroughs Adding Machine | Buchungsmaschine o. dgl. |
 | [DE676015](DE676015.md) | 1939-05-24 |  | Typewriter system for the simultaneous production of scheme letters under &hellip; |
 | [DE676014](DE676014.md) | 1939-05-25 | Chisholm, Clifton | Embossing machine with revolving stamp carrier |
 | [DE676075](DE676075.md) | 1939-05-25 | J, Harshaw William | Verfahren zur elektrolytischen Herstellung von glaenzenden Nickelueberzuegen |
-| [DE676275](DE676275.md) | 1939-05-31 |  | typewriter |
-| [DE754127](DE754127.md) | 1939-05-31 |  | Device on typing business machines |
-| [DE676276](DE676276.md) | 1939-06-02 |  | Device on typewriters or the like for mechanically adjusting writing sheets to &hellip; |
+| [DE676275](DE676275.md) | 1939-05-31 | U, Torpedo Werke A G Fahrraeder | typewriter |
+| [DE754127](DE754127.md) | 1939-05-31 | Ag, Wanderer Werke | Device on typing business machines |
+| [DE676276](DE676276.md) | 1939-06-02 | Ges, Wanderer Werke Akt | Device on typewriters or the like for mechanically adjusting writing sheets to &hellip; |
 | [DE676531](DE676531.md) | 1939-06-06 | Kornhass, Hugo | Tisch, insbesondere Schreibmaschinentisch, mit voneinander abhaengig bewegbaren Tischplattenteilen |
 | [DE676532](DE676532.md) | 1939-06-06 | Kornhass, Hugo | Tisch, insbesondere Schreibmaschinentisch, mit voneinander abhaengig bewegbaren Tischplattenteilen |
 | [DE676533](DE676533.md) | 1939-06-06 | Kornhass, Hugo | Tisch, insbesondere Schreibmaschinentisch, mit voneinander abhaengig bewegbaren Tischplattenteilen |
-| [DE676564](DE676564.md) | 1939-06-08 |  | Tabulator for typewriters, typewriters, adding machines or the like. |
-| [DE676760](DE676760.md) | 1939-06-10 |  | Rechenmaschine o. dgl. |
+| [DE676564](DE676564.md) | 1939-06-08 | Werke, Mercedes Bueromaschinen | Tabulator for typewriters, typewriters, adding machines or the like. |
+| [DE676760](DE676760.md) | 1939-06-10 | Co, Burroughs Adding Machine | Rechenmaschine o. dgl. |
 | [DE676921](DE676921.md) | 1939-06-15 | William, Miles Joseph | Device on printing business machines for pulling back sheets of carbon paper |
-| [DE677131](DE677131.md) | 1939-06-19 |  | Aus mehreren Lagen bestehender und in Abschnitte entsprechend den Schreibbogen unterteilter Schreibpapierstreifen |
+| [DE677131](DE677131.md) | 1939-06-19 | Ges, Wanderer Werke Akt | Aus mehreren Lagen bestehender und in Abschnitte entsprechend den Schreibbogen unterteilter Schreibpapierstreifen |
 | [DE677518](DE677518.md) | 1939-06-27 | Haberfeld, Erwin O | Device for conveying paper sheets in typewriters, calculating machines, &hellip; |
 | [DE754457](DE754457.md) | 1939-07-02 | Zuckrigl, Max | Document holder for typewriters |
 | [DE677804](DE677804.md) | 1939-07-03 | Nv, Kamatec Fa | Vorrichtung zum Einstellen eines Organs, insbesondere eines Typentraegers |
-| [DE677905](DE677905.md) | 1939-07-05 |  | Paper guiding device on typewriters |
+| [DE677905](DE677905.md) | 1939-07-05 | Ag, Vorm Seidel & Naumann | Paper guiding device on typewriters |
 | [DE677971](DE677971.md) | 1939-07-05 | Appelt, Hans | Line switching device for typewriters or the like. |
 | [DE673088](DE673088.md) | 1939-07-10 | Randzio, Reinhold | Lehrgeraet fuer den Schreibmaschinenunterricht |
 | [DE678185](DE678185.md) | 1939-07-10 | Piltz, Waldemar | Typewriter, type printer or the like with electric drive of all type carriers &hellip; |
-| [DE678186](DE678186.md) | 1939-07-10 |  | Paper slides for typewriters |
+| [DE678186](DE678186.md) | 1939-07-10 | H, Adlerwerke Kleyer Ag | Paper slides for typewriters |
 | [DE678327](DE678327.md) | 1939-07-13 |  | Device for setting the type wheels in measuring devices with stamp mechanism, especially in fluid measuring devices with float drive |
-| [DE678362](DE678362.md) | 1939-07-14 |  | Power-driven type bar typewriter |
+| [DE678362](DE678362.md) | 1939-07-14 | Werke, Mercedes Bueromaschinen | Power-driven type bar typewriter |
 | [DE678626](DE678626.md) | 1939-07-20 | Per, Anonima Officine Di Villar | Feed and reversal device for the ribbon of printing units, especially on cash &hellip; |
 | [DE753956](DE753956.md) | 1939-07-20 | Stiegler, Taylorix Organisation | Latching and ejecting device on accounting machines |
 | [DE678486](DE678486.md) | 1939-07-24 | Donath, Ernst | Process for the production of high-boiling hydrocarbons by catalytic pressure &hellip; |
-| [DE756308](DE756308.md) | 1939-07-25 |  | Paper guiding device for writing office machines |
-| [DE678877](DE678877.md) | 1939-07-26 |  | Rechenmaschine o. dgl. |
-| [DE679177](DE679177.md) | 1939-07-31 |  | Triggering device for the drive pulleys of a power-driven typewriter |
-| [DE679178](DE679178.md) | 1939-07-31 |  | Pressure device for the type lever of a power-driven typewriter with noise- &hellip; |
-| [DE679179](DE679179.md) | 1939-07-31 |  | Anhubvorrichtung fuer die Typenhebel einer kraftangetriebenen Schreibmaschine mit geraeuschgedaempftem Abdruck |
-| [DE679157](DE679157.md) | 1939-08-03 |  | Steuervorrichtung fuer ortsfeste, unabhaengig zu steuernde Zaehlwerke an Schreibrechenmaschinen |
-| [DE679331](DE679331.md) | 1939-08-04 |  | Kontrollstreifenfoerdervorrichtung an Registrierkassen oder Buchungsmaschinen |
+| [DE756308](DE756308.md) | 1939-07-25 | A, Olympia Bueromaschinenwerke | Paper guiding device for writing office machines |
+| [DE678877](DE678877.md) | 1939-07-26 | Co, Burroughs Adding Machine | Rechenmaschine o. dgl. |
+| [DE679177](DE679177.md) | 1939-07-31 | A, Olympia Bueromaschinenwerke | Triggering device for the drive pulleys of a power-driven typewriter |
+| [DE679178](DE679178.md) | 1939-07-31 | A, Olympia Bueromaschinenwerke | Pressure device for the type lever of a power-driven typewriter with noise- &hellip; |
+| [DE679179](DE679179.md) | 1939-07-31 | A, Olympia Bueromaschinenwerke | Anhubvorrichtung fuer die Typenhebel einer kraftangetriebenen Schreibmaschine mit geraeuschgedaempftem Abdruck |
+| [DE679157](DE679157.md) | 1939-08-03 | A, Olympia Bueromaschinenwerke | Steuervorrichtung fuer ortsfeste, unabhaengig zu steuernde Zaehlwerke an Schreibrechenmaschinen |
+| [DE679331](DE679331.md) | 1939-08-04 | Co, Ncr | Kontrollstreifenfoerdervorrichtung an Registrierkassen oder Buchungsmaschinen |
 | [DE679358](DE679358.md) | 1939-08-04 |  | Complementary counters, especially for typewriters |
 | [DE679362](DE679362.md) | 1939-08-04 | Hansen, August | Externally adjustable segment-shaped grinding tools rotating in a grinding drum |
 | [DE679563](DE679563.md) | 1939-08-09 | Mansel, Paul | Strip feed device for registration apparatus, in particular cash registers |
 | [DE679612](DE679612.md) | 1939-08-10 | Becker, Walther | Paper guiding device on writing, calculating and similar machines |
-| [DE679613](DE679613.md) | 1939-08-10 |  | Device for attaching account sheets to typewriters |
+| [DE679613](DE679613.md) | 1939-08-10 | Ag, Triumph Werke Nuernberg | Device for attaching account sheets to typewriters |
 | [DE679638](DE679638.md) | 1939-08-11 | Aurbach, - Kurt | Druckwerk fuer Buchungs- und aehnliche Maschinen |
 | [DE679640](DE679640.md) | 1939-08-11 |  | Typewriter with perforated tape control |
-| [DE679758](DE679758.md) | 1939-08-14 |  | Mit einer Schreibvorrichtung zusammengebaute Kartenlochvorrichtung mit Kraftantrieb |
-| [DE679828](DE679828.md) | 1939-08-14 |  | Vorrichtung zur Herstellung eines Verschlusses fuer Papierrollen, insbesondere Scheck- oder Kontrollstreifenrollen fuer Registrierkassen, Buchungsmaschinen, Rechenmaschinen o. dgl. |
+| [DE679758](DE679758.md) | 1939-08-14 | H, Hollerith Maschinen Ges M B | Mit einer Schreibvorrichtung zusammengebaute Kartenlochvorrichtung mit Kraftantrieb |
+| [DE679828](DE679828.md) | 1939-08-14 | Co, Ncr | Vorrichtung zur Herstellung eines Verschlusses fuer Papierrollen, insbesondere Scheck- oder Kontrollstreifenrollen fuer Registrierkassen, Buchungsmaschinen, Rechenmaschinen o. dgl. |
 | [DE671100](DE671100.md) | 1939-08-17 | Wentzel, Ernst | Type cleaner for typewriters u. like |
 | [DE679841](DE679841.md) | 1939-08-17 | Hilgers, Wilhelm | Vorrichtung zum Zerschneiden von durch Transportwalzen absatzweise gefoerderten fortlaufenden Bahnen |
-| [DE679967](DE679967.md) | 1939-08-18 |  | Verfahren zum geheimen Signalisieren mit einem intermittierenden Lichtstrom |
+| [DE679967](DE679967.md) | 1939-08-18 | Ges, Siemens & Halske Akt | Verfahren zum geheimen Signalisieren mit einem intermittierenden Lichtstrom |
 | [DE679993](DE679993.md) | 1939-08-18 | Schwarzbach, Alfred | Versenkvorrichtung fuer Schreibmaschinen |
+| [JP133596](JP133596.md) | 1939-08-19 | Kataoka, Kōtarō | Japanese-script typewriter |
 | [DE680048](DE680048.md) | 1939-08-21 | Kornhass, Hugo | Tisch, insbesondere Schreibmaschinentisch, mit voneinander abhaengig bewegbaren Tischplattenteilen |
 | [DE680320](DE680320.md) | 1939-08-28 | Max, Jacob | Drucktisch fuer Buchungsmaschinen |
-| [DE680441](DE680441.md) | 1939-08-30 |  | Druckwerk fuer Registrierkassen und Buchungsmaschinen |
+| [DE680441](DE680441.md) | 1939-08-30 | Co, Ncr | Druckwerk fuer Registrierkassen und Buchungsmaschinen |
 | [DE680665](DE680665.md) | 1939-09-02 | Koch, Mia Kramer Geb | Shorthand and concept holder |
 | [DE680664](DE680664.md) | 1939-09-05 | Strauss, Emil | Pressure abutment for typewriters |
-| [DE680779](DE680779.md) | 1939-09-07 |  | Vorrichtung zum Drucken der laufenden Nummer fuer die in registrierenden Maschinen, z. B. Buchungsmaschinen oder Registrierkassen, aufgezeichneten Geschaeftsvorgaenge |
-| [DE680880](DE680880.md) | 1939-09-09 |  | Method for aligning the guide parts of type levers, type rods or the like. |
+| [DE680779](DE680779.md) | 1939-09-07 | Co, Ncr | Vorrichtung zum Drucken der laufenden Nummer fuer die in registrierenden Maschinen, z. B. Buchungsmaschinen oder Registrierkassen, aufgezeichneten Geschaeftsvorgaenge |
+| [DE680880](DE680880.md) | 1939-09-09 | Werke, Mercedes Bueromaschinen | Method for aligning the guide parts of type levers, type rods or the like. |
 | [DE681050](DE681050.md) | 1939-09-13 | Strong, Harold Vezey | Device for producing matrices for pieces of music and other printed matter |
-| [DE681051](DE681051.md) | 1939-09-13 |  | Vorrichtung an kraftangetriebenen Typenhebelschreibmaschinen zum Verhindern des wiederholten Anschlages eines Typenhebels |
-| [DE681053](DE681053.md) | 1939-09-13 |  | Typewriter with a paper carriage that can move laterally in both directions and &hellip; |
-| [DE681052](DE681052.md) | 1939-09-14 |  | Paper trolley switching device on typewriters with a movable pawl that covers a &hellip; |
-| [DE681054](DE681054.md) | 1939-09-15 |  | Copy device for typewriters or the like. |
+| [DE681051](DE681051.md) | 1939-09-13 | Inc, Royal Typewriter Co | Vorrichtung an kraftangetriebenen Typenhebelschreibmaschinen zum Verhindern des wiederholten Anschlages eines Typenhebels |
+| [DE681053](DE681053.md) | 1939-09-13 | Co, Underwood Elliott Fisher | Typewriter with a paper carriage that can move laterally in both directions and &hellip; |
+| [DE681052](DE681052.md) | 1939-09-14 | Ges, Wanderer Werke Akt | Paper trolley switching device on typewriters with a movable pawl that covers a &hellip; |
+| [DE681054](DE681054.md) | 1939-09-15 | Werke, Mercedes Bueromaschinen | Copy device for typewriters or the like. |
 | [DE681171](DE681171.md) | 1939-09-16 | Multigraph, Addressograph | Arrangement for fastening a tape, in particular a ribbon, on a reel, for &hellip; |
 | [DE681197](DE681197.md) | 1939-09-18 | Typewriters, L C Smith & Corona | typewriter |
 | [DE681271](DE681271.md) | 1939-09-19 | Schuller, Walter | Shorthand typewriter |
 | [DE681442](DE681442.md) | 1939-09-22 | Devaux, Lucien | Drucktelegraphenempfaenger, bei dem die empfangenen Impulse als Bildpunkte auf einem Papierstreifen aufgezeichnet werden |
 | [DE681482](DE681482.md) | 1939-09-23 | Warmuth, Paul | Fastening device for the end of the tape on tape reels, especially typewriters |
 | [DE681483](DE681483.md) | 1939-09-23 | Haberfeld, Erwin O | Keyboard, especially for booking and business machines |
-| [DE758283](DE758283.md) | 1939-09-26 |  | Catcher for accounting slip on accounting machines |
+| [DE758283](DE758283.md) | 1939-09-26 | H, Adlerwerke Kleyer Ag | Catcher for accounting slip on accounting machines |
 | [DE681272](DE681272.md) | 1939-09-30 | Mansel, Paul | Typewriter with offset letters |
-| [DE682151](DE682151.md) | 1939-10-12 |  | Device for typewriters o. The like. For the independent moving of several &hellip; |
+| [DE682151](DE682151.md) | 1939-10-12 | Werke, Mercedes Bueromaschinen | Device for typewriters o. The like. For the independent moving of several &hellip; |
+| [JP135179](JP135179.md) | 1939-10-16 | Kataoka, Kōtarō | Printing mechanism in a Japanese-language typewriter |
+| [JP135489](JP135489.md) | 1939-10-16 | Miwa, Mataichi | Vertical-feed return device for a Japanese-script typewriter |
 | [DE761426](DE761426.md) | 1939-10-24 |  | Typewriters with automatic summation device |
 | [DE682916](DE682916.md) | 1939-10-26 | Berger, Hans | Keyboard for typewriters or the like |
-| [DE631723](DE631723.md) | 1939-10-28 |  | Typewriter with type bars each carried by two handlebars |
-| [DE632552](DE632552.md) | 1939-10-28 |  | Typewriter with type bars each carried by two handlebars |
+| [DE631723](DE631723.md) | 1939-10-28 | Winklhofer, Wanderer Werke Vorm | Typewriter with type bars each carried by two handlebars |
+| [DE632552](DE632552.md) | 1939-10-28 | Winklhofer, Wanderer Werke Vorm | Typewriter with type bars each carried by two handlebars |
 | [DE682803](DE682803.md) | 1939-10-30 | Geirn, Rene Louis Romain Robert | Device for excluding lines on typewriters |
-| [DE683321](DE683321.md) | 1939-11-03 |  | Paper guide on typewriters u. like |
-| [DE755158](DE755158.md) | 1939-11-03 |  | Insertion device on paper trolleys for writing, calculating and similar &hellip; |
-| [DE682804](DE682804.md) | 1939-11-04 |  | Device for automatic switching of the longitudinal movement of the ribbon in &hellip; |
+| [DE683321](DE683321.md) | 1939-11-03 | Ges, Wanderer Werke Akt | Paper guide on typewriters u. like |
+| [DE755158](DE755158.md) | 1939-11-03 | Ag, Zeiss Ikon | Insertion device on paper trolleys for writing, calculating and similar &hellip; |
+| [DE682804](DE682804.md) | 1939-11-04 | Ag, Landis & Gyr | Device for automatic switching of the longitudinal movement of the ribbon in &hellip; |
 | [DE683418](DE683418.md) | 1939-11-06 | Roth, Franz | Type lever typewriter with an inclined type lever segment |
-| [DE683818](DE683818.md) | 1939-11-16 |  | Plug-in device with a platen for adding and accounting machines, which is fixed &hellip; |
+| [JP135869](JP135869.md) | 1939-11-10 | Sugasawara, Hideyasu | Striking printing device |
+| [JP135900](JP135900.md) | 1939-11-15 | Kandō, Midori | Vertical feed device in a printing machine |
+| [DE683818](DE683818.md) | 1939-11-16 | Ag, Mauser Werke | Plug-in device with a platen for adding and accounting machines, which is fixed &hellip; |
 | [DE683955](DE683955.md) | 1939-11-18 | Strauss, Emil | Typewriter Like. With a type carrier movable in two directions at right angles &hellip; |
 | [DE683985](DE683985.md) | 1939-11-20 | Genschmer, - Kurt | Nib with ink container |
 | [DE684461](DE684461.md) | 1939-11-29 | Aurbach, - Kurt | Druckwerk fuer Buchungs- und aehnliche Maschinen |
 | [DE684606](DE684606.md) | 1939-12-01 | Aurbach, - Kurt | Zeilenschaltvorrichtung fuer Registrierkassen, Buchungs- oder aehnliche Maschinen |
-| [DE685035](DE685035.md) | 1939-12-11 |  | Paper trolley lift device on typewriters driven by an electric motor |
-| [DE685085](DE685085.md) | 1939-12-11 |  | Farbbandvorrichtung an Rechenmaschinen, Schreibmaschinen o. dgl. |
+| [DE685035](DE685035.md) | 1939-12-11 | Co, Underwood Elliott Fisher | Paper trolley lift device on typewriters driven by an electric motor |
+| [DE685085](DE685085.md) | 1939-12-11 | Co, Burroughs Adding Machine | Farbbandvorrichtung an Rechenmaschinen, Schreibmaschinen o. dgl. |
 | [DE657527](DE657527.md) | 1939-12-14 | Graf, Hugo | Method for refreshing color ribbons |
-| [DE685282](DE685282.md) | 1939-12-15 |  | Typewriter or the like, in particular a portable machine |
+| [DE685282](DE685282.md) | 1939-12-15 | Werke, Mercedes Bueromaschinen | Typewriter or the like, in particular a portable machine |
 | [DE685624](DE685624.md) | 1939-12-21 | Stuewe, Wilhelm | Druckvorrichtung fuer Registrierkassen |
-| [DE685896](DE685896.md) | 1939-12-27 |  | Device on typewriters, calculating or accounting machines for inserting &hellip; |
+| [DE685896](DE685896.md) | 1939-12-27 | Co, Ncr | Device on typewriters, calculating or accounting machines for inserting &hellip; |
 | [DE686037](DE686037.md) | 1940-01-02 | Lacroix, George Ubaldo | Duplicating device for writing on paper webs in typewriters |
-| [DE686124](DE686124.md) | 1940-01-03 |  | Pulse generator for temperature controller |
+| [DE686124](DE686124.md) | 1940-01-03 | Ag, Landis & Gyr | Pulse generator for temperature controller |
 | [DE686178](DE686178.md) | 1940-01-04 | Pankoke, - Karl | Two- or multi-colored ribbon for typewriters or the like. |
 | [DE686386](DE686386.md) | 1940-01-09 |  | Motorized typewriter connected to a card punching machine and provided with typing keys and typing arithmetic keys |
-| [DE686395](DE686395.md) | 1940-01-09 |  | Line break device on typewriters |
+| [DE686395](DE686395.md) | 1940-01-09 | Co, Underwood Elliott Fisher | Line break device on typewriters |
 | [DE686421](DE686421.md) | 1940-01-09 |  | Aperture counter for typewriters |
 | [DE686660](DE686660.md) | 1940-01-13 | Berrendorf, Franz Josef | Plug-in device with a platen for adding and accounting machines, which is fixed &hellip; |
-| [DE686772](DE686772.md) | 1940-01-16 |  | Power-driven paper trolley elevator on typewriters, typewriters, adding or &hellip; |
-| [DE686912](DE686912.md) | 1940-01-18 |  | Paper trolley drive and winding device on typing, calculating or accounting &hellip; |
-| [DE687069](DE687069.md) | 1940-01-22 |  | Column stop for tab devices on typewriters or the like. |
+| [DE686772](DE686772.md) | 1940-01-16 | Werke, Mercedes Bueromaschinen | Power-driven paper trolley elevator on typewriters, typewriters, adding or &hellip; |
+| [DE686912](DE686912.md) | 1940-01-18 | Co, Ncr | Paper trolley drive and winding device on typing, calculating or accounting &hellip; |
+| [DE687069](DE687069.md) | 1940-01-22 | Inc, Royal Typewriter Co | Column stop for tab devices on typewriters or the like. |
 | [DE675070](DE675070.md) | 1940-01-24 | Graf, Hugo | Device for refreshing color ribbons for typewriters u. like |
 | [DE687070](DE687070.md) | 1940-01-24 | Koch, Paul | Switching device in which characters or the like are triggered by an optional &hellip; |
 | [DE687160](DE687160.md) | 1940-01-26 |  | Typewriter |
 | [DE687764](DE687764.md) | 1940-02-05 | Tauschek, Gustav | Druckwerk fuer Tabelliermaschinen o. dgl. |
 | [DE756276](DE756276.md) | 1940-02-08 |  | Typewriter, accounting machine or similar machines |
-| [DE687972](DE687972.md) | 1940-02-09 |  | Automatic switching device for reversing the longitudinal movement of the &hellip; |
-| [DE687973](DE687973.md) | 1940-02-09 |  | Auxiliary device for bending the type lever and applying the type to the type &hellip; |
-| [DE687974](DE687974.md) | 1940-02-09 |  | raeger of typewriters or the like. |
-| [DE688136](DE688136.md) | 1940-02-13 |  | Ribbon switching device on typewriters or the like. |
+| [DE687972](DE687972.md) | 1940-02-09 | Werke, Mercedes Bueromaschinen | Automatic switching device for reversing the longitudinal movement of the &hellip; |
+| [DE687973](DE687973.md) | 1940-02-09 | H, Iris Type G M B | Auxiliary device for bending the type lever and applying the type to the type &hellip; |
+| [DE687974](DE687974.md) | 1940-02-09 | H, Iris Type G M B | raeger of typewriters or the like. |
+| [DE688136](DE688136.md) | 1940-02-13 | Werke, Mercedes Bueromaschinen | Ribbon switching device on typewriters or the like. |
 | [DE688210](DE688210.md) | 1940-02-15 | Pautze, Hermann | Druckplatte fuer Schalter-Fahrkartendruckmaschinen |
 | [DE688250](DE688250.md) | 1940-02-15 | Eller, Friedrich | Registrierkasse mit Druckvorrichtung |
 | [DE687971](DE687971.md) | 1940-02-16 | Sherman, John Quirk | Papierfuehrungsvorrichtung an der Schreibwalze von Schreib- und Buchungsmaschinen |
-| [DE688608](DE688608.md) | 1940-02-26 |  | Line switching device for the platen of writing business machines |
+| [JP136653](JP136653.md) | 1940-02-23 | Ishii, Shōkichi | European-style Japanese-language typewriter |
+| [DE688608](DE688608.md) | 1940-02-26 | Ges, Wanderer Werke Akt | Line switching device for the platen of writing business machines |
 | [DE681589](DE681589.md) | 1940-02-28 | List, Heinrich | Elektromagnetische Wirbelstrombremse |
 | [DE689055](DE689055.md) | 1940-03-09 | Hirt, - Otto | Device for automatically reversing the longitudinal movement of the ribbon, &hellip; |
 | [DE689094](DE689094.md) | 1940-03-11 | Kompe, Friedrich | Line pullers for typewriters |
 | [DE689478](DE689478.md) | 1940-03-21 | Aurbach, - Kurt | Registrierkasse oder Buchungsmaschine mit Lichtbildeinrichtung |
-| [DE756189](DE756189.md) | 1940-03-23 |  | Paper feeding device for typewriters and calculating machines |
-| [DE689633](DE689633.md) | 1940-03-29 |  | Frame for writing business machines |
+| [DE756189](DE756189.md) | 1940-03-23 | Co, Standard Register | Paper feeding device for typewriters and calculating machines |
+| [JP137991](JP137991.md) | 1940-03-25 | Kandō, Midori | Sideways feed device in a printing machine |
+| [DE689633](DE689633.md) | 1940-03-29 | Ges, Wanderer Werke Akt | Frame for writing business machines |
 | [DE689762](DE689762.md) | 1940-04-07 |  | Combing device for running threads, ribbons or the like, especially on sizing machines |
 | [DE689963](DE689963.md) | 1940-04-10 | Geissler, Friedrich | Empfangseinrichtung fuer Typendrucker mit umlaufendem Typenrad |
 | [DE690051](DE690051.md) | 1940-04-13 | Den, Outer Marius | Keyboard for a high-speed or syllable typewriter |
 | [DE689898](DE689898.md) | 1940-04-17 | E, Paillard & Cie Sa | at typewriters |
-| [DE690224](DE690224.md) | 1940-04-19 |  | Durchschreibesatz |
-| [DE754374](DE754374.md) | 1940-04-30 |  | Switch frame mounting |
+| [DE690224](DE690224.md) | 1940-04-19 | Ges, Artmann & Co Kom | Durchschreibesatz |
+| [JP137719](JP137719.md) | 1940-04-27 | Kataoka, Kōtarō | Sideways feed device in a Japanese-script typewriter |
+| [DE754374](DE754374.md) | 1940-04-30 | H, Adlerwerke Kleyer Ag | Switch frame mounting |
 | [DE690900](DE690900.md) | 1940-05-10 | Andreas, Salzberger | Power-driven switching device for typewriters or the like. |
-| [DE690901](DE690901.md) | 1940-05-10 |  | Key for typewriters, typewriters etc. like |
-| [DE691530](DE691530.md) | 1940-05-29 |  | Method and device for the manufacture of flush-mounted characters provided with &hellip; |
-| [DE691711](DE691711.md) | 1940-06-04 |  | Sound absorbing stop for typewriters |
-| [DE691874](DE691874.md) | 1940-06-07 |  | Device for moving the universal rail for typewriters or the like. |
-| [DE691949](DE691949.md) | 1940-06-08 |  | Registrierkasse oder Buchungsmaschine |
+| [DE690901](DE690901.md) | 1940-05-10 | Werke, Mercedes Bueromaschinen | Key for typewriters, typewriters etc. like |
+| [JP139220](JP139220.md) | 1940-05-28 | Miwa, Mataichi | Vertical feed device for a typewriter |
+| [DE691530](DE691530.md) | 1940-05-29 | H, Iris Type G M B | Method and device for the manufacture of flush-mounted characters provided with &hellip; |
+| [JP138315](JP138315.md) | 1940-05-30 | Kataoka, Kōtarō | Return (back-space) device in a Japanese-script typewriter |
+| [DE691711](DE691711.md) | 1940-06-04 | Ag, Vorm Seidel & Naumann | Sound absorbing stop for typewriters |
+| [DE691874](DE691874.md) | 1940-06-07 | Ag, Vorm Seidel & Naumann | Device for moving the universal rail for typewriters or the like. |
+| [DE691949](DE691949.md) | 1940-06-08 | Co, Ncr | Registrierkasse oder Buchungsmaschine |
 | [DE691974](DE691974.md) | 1940-06-10 | Andreas, Salzberger | grinding office machines |
-| [DE692224](DE692224.md) | 1940-06-15 |  | Paper guiding device for typewriters |
+| [DE692224](DE692224.md) | 1940-06-15 | Werke, Mercedes Bueromaschinen | Paper guiding device for typewriters |
 | [DE692462](DE692462.md) | 1940-06-20 | Naumann, Willy | Druckvorrichtung fuer Buchungsmaschinen, Registrierkassen und aehnliche Maschinen |
 | [DE692463](DE692463.md) | 1940-06-25 | Aurbach, - Kurt | Druckvorrichtung an Registrierkassen |
 | [DE692612](DE692612.md) | 1940-06-25 |  | Ribbon holder for copy devices |
-| [DE692775](DE692775.md) | 1940-06-26 |  | Paper roll for typewriters and calculating machines |
-| [DE693031](DE693031.md) | 1940-07-01 |  | Shock absorber device for typewriter carts |
+| [DE692775](DE692775.md) | 1940-06-26 | Ge, Triumph Werke Nuernberg Akt | Paper roll for typewriters and calculating machines |
+| [DE693031](DE693031.md) | 1940-07-01 | Co, Underwood Elliott Fisher | Shock absorber device for typewriter carts |
 | [DE693135](DE693135.md) | 1940-07-03 | Katzung, Hugo | Device for vehicles with multi-wheel steering for switching on and off the &hellip; |
-| [DE693155](DE693155.md) | 1940-07-03 |  | Druckende Rechenmaschine, Schreibmaschine o. dgl. |
+| [DE693155](DE693155.md) | 1940-07-03 | Co, Burroughs Adding Machine | Druckende Rechenmaschine, Schreibmaschine o. dgl. |
 | [DE693171](DE693171.md) | 1940-07-03 | Strohal, Franz | Carbon paper holder |
-| [DE758943](DE758943.md) | 1940-07-18 |  | Device for controlling the slide movement of office machines, such as computing &hellip; |
+| [DE758943](DE758943.md) | 1940-07-18 | G, Kabelindustrie A | Device for controlling the slide movement of office machines, such as computing &hellip; |
 | [DE693974](DE693974.md) | 1940-07-23 | Comp, Underwood Elliott Fischer | Rest bearing for the type lever of typewriters, method and device for producing &hellip; |
 | [DE694216](DE694216.md) | 1940-07-28 |  | Printing device with type wheels for machines controlled by registration cards or registration strips |
-| [DE756248](DE756248.md) | 1940-07-30 |  | Securing to typewriters |
+| [DE756248](DE756248.md) | 1940-07-30 | A, Olympia Bueromaschinenwerke | Securing to typewriters |
 | [DE694372](DE694372.md) | 1940-07-31 | Karstedt, Paul | Writing device for producing printed letters |
 | [DE694785](DE694785.md) | 1940-08-08 | Bauder, Josef | Zahnradgetriebe fuer die Auswertung von Impulskombinationen nach dem Wegsummenverfahren, insbesondere fuer Telegraphenempfaenger |
 | [DE694994](DE694994.md) | 1940-08-13 | Slee, Arthur Lloyd | Manuscript holder with line indicator that can be moved line by line |
 | [DE695069](DE695069.md) | 1940-08-15 | Zinter, Richard | Typewriter type lever with interchangeable types |
+| [JP140244](JP140244.md) | 1940-08-23 | Katō, Kenjirō | Platen sideways-feed device for a Japanese-script printing machine |
 | [DE696085](DE696085.md) | 1940-09-11 | Baumgarten, Richard | Switching bridge for typewriters |
 | [DE762324](DE762324.md) | 1940-09-15 |  | Latching device on typing business machines |
 | [DE697015](DE697015.md) | 1940-10-03 | Audibert, Roger | Sprossenrad mit Druckvorrichtung |
@@ -9529,55 +9689,56 @@ Every patent in the library, oldest first.
 | [DE697152](DE697152.md) | 1940-10-08 | Maier, Lorenz | Druckvorrichtung fuer Rechen-, Registrier- und Fakturiermaschinen |
 | [DE697299](DE697299.md) | 1940-10-10 | Schaefers, Joseph | Zug- oder Druckuebertragungsorgan |
 | [DE697521](DE697521.md) | 1940-10-16 | Ringleb, Alexander | Device for refreshing used ink ribbons from typewriters |
-| [DE697605](DE697605.md) | 1940-10-19 |  | Abrechnungsmaschine |
+| [DE697605](DE697605.md) | 1940-10-19 | Co, Burroughs Adding Machine | Abrechnungsmaschine |
 | [DE697561](DE697561.md) | 1940-10-21 | Gabrielson, Carl | Typewriter tab device |
 | [DE697621](DE697621.md) | 1940-10-23 | Scholze, Max | China, namely booking machines |
-| [DE697794](DE697794.md) | 1940-10-24 |  | Noise-damping type carrier drive device for typewriters, typewriters and the &hellip; |
+| [DE697794](DE697794.md) | 1940-10-24 | Werke, Mercedes Bueromaschinen | Noise-damping type carrier drive device for typewriters, typewriters and the &hellip; |
 | [DE698093](DE698093.md) | 1940-11-01 | H, Schmidt Arno | Multiplier on typewriters |
 | [DE698094](DE698094.md) | 1940-11-01 | Merten, Otto | Eraser for use on typewriters and office machines |
-| [DE698103](DE698103.md) | 1940-11-01 |  | Zeichendruckvorrichtung fuer Rechenmaschinen |
-| [DE698296](DE698296.md) | 1940-11-06 |  | Rechenmaschine mit Druckwerk |
+| [DE698103](DE698103.md) | 1940-11-01 | W, Feiler Feinmechanik G M B H | Zeichendruckvorrichtung fuer Rechenmaschinen |
+| [DE698296](DE698296.md) | 1940-11-06 | Ag, Mauser Werke | Rechenmaschine mit Druckwerk |
 | [DE698371](DE698371.md) | 1940-11-08 | Baumgarten, Richard | Papierschlittenschaltvorrichtung fuer Schreibmaschinen o. dgl. |
 | [DE698372](DE698372.md) | 1940-11-08 | Burger, Michael | Typewriter with line balancing device |
 | [DE698373](DE698373.md) | 1940-11-08 | Gerber, Paul | Type lever rest bearing for typewriters or the like. |
 | [DE698548](DE698548.md) | 1940-11-12 | Mueller, Louis | Device for clamping auxiliary ribbons on typewriters |
+| [JP141834](JP141834.md) | 1940-11-18 | Katō, Kenjirō | Platen sideways-feed device for a Japanese typewriter |
 | [DE698940](DE698940.md) | 1940-11-20 | Kottmann, August | Schreibende Addiermaschine |
-| [DE699381](DE699381.md) | 1940-11-28 |  | Printing unit with exchangeable printing plate for cash registers or accounting &hellip; |
-| [DE699521](DE699521.md) | 1940-11-30 |  | to be printed document serving device in calculating or accounting machines |
+| [DE699381](DE699381.md) | 1940-11-28 | Co, Ncr | Printing unit with exchangeable printing plate for cash registers or accounting &hellip; |
+| [DE699521](DE699521.md) | 1940-11-30 | Co, Ncr | to be printed document serving device in calculating or accounting machines |
 | [DE699939](DE699939.md) | 1940-12-10 |  | Typewriter, calculating machine or the like. |
-| [DE699996](DE699996.md) | 1940-12-11 |  | Typewriter, calculator, adding machine or the like with a carbon paper trolley &hellip; |
+| [DE699996](DE699996.md) | 1940-12-11 | Werke, Mercedes Bueromaschinen | Typewriter, calculator, adding machine or the like with a carbon paper trolley &hellip; |
 | [DE700102](DE700102.md) | 1940-12-13 | Maschinenbau, Adrema | back panels |
-| [DE700204](DE700204.md) | 1940-12-16 |  | Papierbandab- und -aufwickeleinrichtung fuer Buchungsmaschinen o. dgl. |
+| [DE700204](DE700204.md) | 1940-12-16 | H, Hollerith Maschinen Ges M B | Papierbandab- und -aufwickeleinrichtung fuer Buchungsmaschinen o. dgl. |
 | [DE700298](DE700298.md) | 1940-12-17 | Scharr, Walter | Papiervorschubeinrichtung, vorzugsweise fuer durch Zaehlkarten gesteuerte druckende Geschaeftsmaschinen |
 | [DE700441](DE700441.md) | 1940-12-20 | Bauder, Josef | Einrichtung fuer Fernschreibgeraete mit Aufspeicherung saemtlicher zu uebertragender Zeichen und seleichens |
 | [DE700501](DE700501.md) | 1940-12-21 | Vogt, Alfred | Type rod drive for typewriters with a swing weight driven by the key lever |
 | [DE700558](DE700558.md) | 1940-12-23 | Hoehne, Friedrich | Keyboard for typewriters |
-| [DE700864](DE700864.md) | 1941-01-02 |  | Vorrichtung an Schreib-, Rechen- und aehnlichen Maschinen zum Bremsen des Papierwagens |
+| [DE700864](DE700864.md) | 1941-01-02 | Ges, Wanderer Werke Akt | Vorrichtung an Schreib-, Rechen- und aehnlichen Maschinen zum Bremsen des Papierwagens |
 | [DE700983](DE700983.md) | 1941-01-06 | A, C Olivetti & C S | Counter bearing for the paper strips from typewriters or telegraph machines &hellip; |
 | [DE701017](DE701017.md) | 1941-01-07 | Buschmann, Eugen | Line switching device for the platen on writing business machines |
-| [DE701180](DE701180.md) | 1941-01-10 |  | Method for producing types for calculating machines u. like |
+| [DE701180](DE701180.md) | 1941-01-10 | H, Iris Type G M B | Method for producing types for calculating machines u. like |
 | [DE701244](DE701244.md) | 1941-01-11 | Ladislas, Kozma | Waehlereinrichtung fuer Fernsprechanlagen mit einem einer Anzahl Kennzeichnungswaehlern und Bezeichnungswaehlern gemeinsamen Kennzeichnungsvielfach |
 | [DE701372](DE701372.md) | 1941-01-15 | A, C Olivetti & C S | Noise typewriter |
-| [DE701373](DE701373.md) | 1941-01-15 |  | Device for setting leaflets on typewriters |
-| [DE701404](DE701404.md) | 1941-01-15 |  | Device on writing, calculating and similar machines to ensure the exact &hellip; |
-| [DE701405](DE701405.md) | 1941-01-15 |  | etching in office machines |
+| [DE701373](DE701373.md) | 1941-01-15 | Ges, Ruf Buchhaltung Akt | Device for setting leaflets on typewriters |
+| [DE701404](DE701404.md) | 1941-01-15 | Ag, Wanderer Werke | Device on writing, calculating and similar machines to ensure the exact &hellip; |
+| [DE701405](DE701405.md) | 1941-01-15 | Ag, Wanderer Werke | etching in office machines |
 | [DE701607](DE701607.md) | 1941-01-20 | Adams, Arthur Herman | ~In the case of these known arrangements |
 | [DE701624](DE701624.md) | 1941-01-20 | Schomburg, Rudolf | Einrichtung bei Buchhaltungsmaschinen |
 | [DE701708](DE701708.md) | 1941-01-22 | Aurbach, - Kurt | Druckvorrichtung fuer Registrierkassen, Rechen- und Buchungsmaschinen |
 | [DE701805](DE701805.md) | 1941-01-24 |  | Plug-in device on typewriters or the like. |
-| [DE701848](DE701848.md) | 1941-01-24 |  | Method and device for attaching type bodies with only one fastening tab on &hellip; |
-| [DE701918](DE701918.md) | 1941-01-27 |  | Vorrichtung zum Sichern der Papierrolle gegen unbeabsichtigtes Drehen an Addiermaschinen und anderen Bueromaschinen |
-| [DE701937](DE701937.md) | 1941-01-27 |  | machines |
+| [DE701848](DE701848.md) | 1941-01-24 | H, Iris Type G M B | Method and device for attaching type bodies with only one fastening tab on &hellip; |
+| [DE701918](DE701918.md) | 1941-01-27 | Ag, Wanderer Werke | Vorrichtung zum Sichern der Papierrolle gegen unbeabsichtigtes Drehen an Addiermaschinen und anderen Bueromaschinen |
+| [DE701937](DE701937.md) | 1941-01-27 | Ag, Wanderer Werke | machines |
 | [DE702029](DE702029.md) | 1941-01-29 | Lang, William | Verfahren zum Auswerten von Zaehlkarten in Geschaeftsmaschinen, insbesondere Tabellier-maschinen, und Zaehlkarte sowie Maschine zur Durchfuehrung des Verfahrens |
-| [DE702111](DE702111.md) | 1941-01-30 |  | Typewriter with type bars each carried by two handlebars |
+| [DE702111](DE702111.md) | 1941-01-30 | Ag, Wanderer Werke | Typewriter with type bars each carried by two handlebars |
 | [DE702330](DE702330.md) | 1941-02-05 | Archuth, Paul | Key for typewriter, calculator or the like. |
-| [DE702348](DE702348.md) | 1941-02-05 |  | Vorrichtung zur UEbertragung von Bewegungen |
-| [DE753629](DE753629.md) | 1941-02-05 |  | Low-noise drive for the type carrier of typewriters or the like. |
+| [DE702348](DE702348.md) | 1941-02-05 | Bosch, Gmbh Robert | Vorrichtung zur UEbertragung von Bewegungen |
+| [DE753629](DE753629.md) | 1941-02-05 | A, Olympia Bueromaschinenwerke | Low-noise drive for the type carrier of typewriters or the like. |
 | [DE702599](DE702599.md) | 1941-02-12 | Langenegger, Adolf | Type lever drive for typewriters |
 | [DE702895](DE702895.md) | 1941-02-19 | Helmond, William Ferdinand | Paper guiding device for typewriters |
 | [DE702936](DE702936.md) | 1941-02-20 |  | Counter, especially for typewriters with post counters |
-| [DE923552](DE923552.md) | 1941-03-01 |  | Writing process in which the paper to be written on is colored with the help of &hellip; |
-| [DE703331](DE703331.md) | 1941-03-06 |  | Einrichtung zur Aufzeichnung von Schriftzeichen |
+| [DE923552](DE923552.md) | 1941-03-01 | Ag, Lorenz C | Writing process in which the paper to be written on is colored with the help of &hellip; |
+| [DE703331](DE703331.md) | 1941-03-06 | C, Lorenz Akt Ges | Einrichtung zur Aufzeichnung von Schriftzeichen |
 | [DE703624](DE703624.md) | 1941-03-13 | Dressler, Max | Tastenwerk fuer Fernschreibmaschinen |
 | [DE703781](DE703781.md) | 1941-03-15 | Vonck, Gerhard Hendrik Clement | Syllable typewriter |
 | [DE703901](DE703901.md) | 1941-03-19 | Avery, Henry Allen | Adjustment device for the keystroke on typewriters |
@@ -9586,149 +9747,154 @@ Every patent in the library, oldest first.
 | [DE704720](DE704720.md) | 1941-04-05 | Andreas, Salzberger | Power-driven switching device for typewriters |
 | [DE705097](DE705097.md) | 1941-04-17 | Schueler, Hugo | Device for automatic reversal of the longitudinal movement of color ribbons in &hellip; |
 | [DE705182](DE705182.md) | 1941-04-19 | Scholze, Max | Insertion device for writing business machines with insertion of the insert &hellip; |
-| [DE705370](DE705370.md) | 1941-04-25 |  | Ribbon reel for writing office machines |
+| [DE705370](DE705370.md) | 1941-04-25 | Ag, Wanderer Werke | Ribbon reel for writing office machines |
 | [DE705438](DE705438.md) | 1941-04-28 | Winterling, Carl | Type bar typewriter |
-| [DE705653](DE705653.md) | 1941-05-06 |  | Paper guiding device for typewriters |
+| [DE705653](DE705653.md) | 1941-05-06 | Ges, Seidel & Naumann Akt | Paper guiding device for typewriters |
 | [DE705845](DE705845.md) | 1941-05-12 | Rolf, Schroedter - | Fluessigkeitsstossdaempfer, insbesondere fuer Kraftfahrzeuge |
-| [DE706053](DE706053.md) | 1941-05-17 |  | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
+| [DE706053](DE706053.md) | 1941-05-17 | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
 | [DE706265](DE706265.md) | 1941-05-22 | Engel, Herbert | Nach dem Wegsummenverfahren arbeitende Auswerteinrichtung fuer Impulskombinationen |
 | [DE706485](DE706485.md) | 1941-05-28 | Foereni, Kooperativa Foerbundet | Device for switching the longitudinal movement of the ribbon of typewriters o. |
-| [DE706633](DE706633.md) | 1941-05-30 |  | Rechen- oder Buchhaltungsmaschine mit ausschwenkbarem Papierwalzentragrahmen |
+| [DE706633](DE706633.md) | 1941-05-30 | Co, Ncr | Rechen- oder Buchhaltungsmaschine mit ausschwenkbarem Papierwalzentragrahmen |
 | [DE762370](DE762370.md) | 1941-05-30 | Hegnauer, Ruf Buchhaltung Paul | Plug-in device for typewriters, accounting machines, etc. like |
 | [DE706837](DE706837.md) | 1941-06-06 | E, Paillard & Cie S A | Rahmen fuer tragbare Schreibmaschine |
 | [DE706973](DE706973.md) | 1941-06-10 | Krueger, Johannes | Type lever drive for typewriters |
 | [DE707082](DE707082.md) | 1941-06-13 | Adelbert, Anderson Walter | Booking machine, typewriter, typewriter etc. like |
-| [DE707133](DE707133.md) | 1941-06-14 |  | Copy device for typewriters or the like. |
+| [DE707133](DE707133.md) | 1941-06-14 | Werke, Mercedes Bueromaschinen | Copy device for typewriters or the like. |
 | [DE707167](DE707167.md) | 1941-06-14 | Max, Jacob | Ribbon arrangement for cash registers, accounting, calculating, writing and &hellip; |
-| [DE707259](DE707259.md) | 1941-06-17 |  | Printing unit for high-speed calculating machines |
-| [DE707260](DE707260.md) | 1941-06-17 |  | Lochkartentabelliermaschine mit einem Druckwerk fuer gleichbleibende Angaben |
-| [DE707154](DE707154.md) | 1941-06-20 |  | Plug-in device for typewriters u. like |
+| [DE707259](DE707259.md) | 1941-06-17 | W, Feiler Feinmechanik G M B H | Printing unit for high-speed calculating machines |
+| [DE707260](DE707260.md) | 1941-06-17 | H, Powers G M B | Lochkartentabelliermaschine mit einem Druckwerk fuer gleichbleibende Angaben |
+| [DE707154](DE707154.md) | 1941-06-20 | Werke, Mercedes Bueromaschinen | Plug-in device for typewriters u. like |
 | [DE707456](DE707456.md) | 1941-06-23 | Schuettoff, Arthur | Vorschubvorrichtung an Rundstangen verarbeitenden Drehbaenken |
 | [DE707597](DE707597.md) | 1941-06-27 | Nugent, Dodds | Line compensation device for typewriters |
 | [DE707814](DE707814.md) | 1941-07-04 | Maschinenbau, Adrema | Spring winding mechanism for the plate holder trolley of stamping machines u. &hellip; |
 | [DE707903](DE707903.md) | 1941-07-07 | Krueger, Johannes | Lid for the ribbon reels on typewriters |
-| [DE708001](DE708001.md) | 1941-07-09 |  | Line setting device for cash registers and accounting machines |
+| [DE708001](DE708001.md) | 1941-07-09 | Co, Ncr | Line setting device for cash registers and accounting machines |
 | [DE708010](DE708010.md) | 1941-07-10 | Ewald, Friedrich | Embossing die for office machines |
-| [DE707888](DE707888.md) | 1941-07-12 |  | Rechenmaschine |
-| [DE708418](DE708418.md) | 1941-07-21 |  | Druckvorrichtung fuer Buchungsmaschinen |
+| [DE707888](DE707888.md) | 1941-07-12 | Werke, Mercedes Bueromaschinen | Rechenmaschine |
+| [DE708418](DE708418.md) | 1941-07-21 | Co, Ncr | Druckvorrichtung fuer Buchungsmaschinen |
 | [DE708642](DE708642.md) | 1941-07-25 | Maul, Michael | Lichtelektrische Abfuehleinrichtung fuer Registrierkartenmaschinen |
 | [DE709024](DE709024.md) | 1941-08-04 | Alfredo, Tombolini | Typewriter type lever |
-| [DE931322](DE931322.md) | 1941-08-05 |  | Device for selecting and automatically conveying cardboard boxes according to &hellip; |
-| [DE709118](DE709118.md) | 1941-08-06 |  | Device for changing the tension of the type lever return springs on typewriters |
+| [DE931322](DE931322.md) | 1941-08-05 | H, Aeg Fahrkartendrucker G M B | Device for selecting and automatically conveying cardboard boxes according to &hellip; |
+| [DE709118](DE709118.md) | 1941-08-06 | Inc, Royal Typewriter Co | Device for changing the tension of the type lever return springs on typewriters |
 | [DE753215](DE753215.md) | 1941-08-14 |  | Writing business machine with removable lower paper guide |
 | [DE709503](DE709503.md) | 1941-08-19 | Stein, Hermann | Concept holder |
 | [DE709955](DE709955.md) | 1941-08-30 | Nichols, Harry James | Anlage zur Registrierung der Angaben von Aufzeichnungstraegern |
-| [DE710083](DE710083.md) | 1941-09-03 |  | Writing, writing arithmetic or similar machine with noise-damped type imprint |
-| [DE710124](DE710124.md) | 1941-09-04 |  | Druckvorrichtung fuer Registrierkassen oder Buchungsmaschinen zur Herstellung eines doppelten Aufrechnungsschecks |
+| [DE710083](DE710083.md) | 1941-09-03 | Ges, Seidel & Naumann Akt | Writing, writing arithmetic or similar machine with noise-damped type imprint |
+| [DE710124](DE710124.md) | 1941-09-04 | Co, Ncr | Druckvorrichtung fuer Registrierkassen oder Buchungsmaschinen zur Herstellung eines doppelten Aufrechnungsschecks |
 | [DE710133](DE710133.md) | 1941-09-04 | Berrendorf, Franz Josef | Device for line switching of the paper strip in typewriters and calculating &hellip; |
 | [DE710355](DE710355.md) | 1941-09-11 | A, Ransmayer A & Rodrian | Method of attaching types to type levers or rods |
 | [DE711161](DE711161.md) | 1941-09-26 | Going, George Gould | Type lever drive for writing business machines with device for changing the &hellip; |
 | [DE711431](DE711431.md) | 1941-10-01 | Gerber, Paul | Device for automatic switching of the longitudinal movement of the ribbon on &hellip; |
 | [DE711464](DE711464.md) | 1941-10-01 |  | Typewriter, calculating machine or the like with an automatic summation device |
-| [DE711465](DE711465.md) | 1941-10-01 |  | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
-| [DE711749](DE711749.md) | 1941-10-06 |  | Registrierkasse oder Buchungsmaschine mit einem Druckwerk fuer Einzelbetrags- und Aufrechnungsschecks |
+| [DE711465](DE711465.md) | 1941-10-01 | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
+| [DE711749](DE711749.md) | 1941-10-06 | Co, Ncr | Registrierkasse oder Buchungsmaschine mit einem Druckwerk fuer Einzelbetrags- und Aufrechnungsschecks |
 | [DE711917](DE711917.md) | 1941-10-08 | Ro, Geirnaert Rene Louis Romain | Papierwagenschaltvorrichtung fuer Schreibmaschinen o. dgl. |
 | [DE711918](DE711918.md) | 1941-10-08 | Krueger, Johannes | Machine frame for typewriters |
-| [DE712167](DE712167.md) | 1941-10-14 |  | Device on writing business machines for automatic return of the paper cart |
+| [DE712167](DE712167.md) | 1941-10-14 | Ag, Wanderer Werke | Device on writing business machines for automatic return of the paper cart |
 | [DE712243](DE712243.md) | 1941-10-15 | Haberfeld, Erwin O | Latching device on typewriters |
-| [DE712359](DE712359.md) | 1941-10-17 |  | Line switching device for writing rollers on writing business machines |
+| [DE712359](DE712359.md) | 1941-10-17 | Ag, Wanderer Werke | Line switching device for writing rollers on writing business machines |
 | [DE712438](DE712438.md) | 1941-10-18 | Pascher, Leopold | Device for the noiseless return of the paper sledge of typewriters |
-| [DE712488](DE712488.md) | 1941-10-20 |  | Einstellvorrichtung fuer die Typenraeder an Registrierkassen |
-| [DE712555](DE712555.md) | 1941-10-21 |  | Type attachment device |
+| [DE712488](DE712488.md) | 1941-10-20 | Ag, Anker Werke | Einstellvorrichtung fuer die Typenraeder an Registrierkassen |
+| [DE712555](DE712555.md) | 1941-10-21 | H, Iris Type G M B | Type attachment device |
 | [DE712556](DE712556.md) | 1941-10-21 | Graf, Phil Hugo | Method for refreshing color ribbons or the like. |
 | [DE713068](DE713068.md) | 1941-10-30 | Per, Anonima Officine Di Villar | Vorrichtung zum Bedrucken, Abschneiden und Auswerfen von Papierstreifenabschnitten, insbesondere fuer Registrierkassen |
 | [DE713530](DE713530.md) | 1941-11-10 | Morteza, Vaziri - | Paper slide switch and elevator device on typewriters |
 | [DE713496](DE713496.md) | 1941-11-11 |  | Control device on counters for typewriters u. like |
 | [DE713590](DE713590.md) | 1941-11-11 | Elie, Levy Marcel Adrien | Anordnung zur Ausrichtung eines aus zwei Ziffernraedern bestehenden Anzeige- oder Druckwerks |
 | [DE713472](DE713472.md) | 1941-11-12 | Eggers, Hugo | Device on writing business machines for conveying connected writing sheets |
-| [DE714100](DE714100.md) | 1941-11-21 |  | Type lever drive rods for typewriters |
-| [DE714035](DE714035.md) | 1941-11-22 |  | Typewriter, typewriter or the like with an automatic car elevator |
-| [DE714262](DE714262.md) | 1941-11-26 |  | Button for office machines and similar machines |
-| [DE714301](DE714301.md) | 1941-11-26 |  | Device for labeling collars or the like. |
+| [DE714100](DE714100.md) | 1941-11-21 | A, Olympia Bueromaschinenwerke | Type lever drive rods for typewriters |
+| [DE714035](DE714035.md) | 1941-11-22 | Werke, Mercedes Bueromaschinen | Typewriter, typewriter or the like with an automatic car elevator |
+| [DE714262](DE714262.md) | 1941-11-26 | Ag, Wanderer Werke | Button for office machines and similar machines |
+| [DE714301](DE714301.md) | 1941-11-26 | Werke, Mercedes Bueromaschinen | Device for labeling collars or the like. |
 | [DE714315](DE714315.md) | 1941-11-26 | Dieck, Walter | Ribbon reel drive for writing office machines |
-| [DE714406](DE714406.md) | 1941-11-28 |  | Process for the production of types for typewriters, calculators, etc. |
+| [DE714406](DE714406.md) | 1941-11-28 | H, Iris Type G M B | Process for the production of types for typewriters, calculators, etc. |
 | [DE714685](DE714685.md) | 1941-12-05 | Maul, Michael | Druckeinrichtung fuer maschinell auszuwertende Angabentraeger |
 | [DE714813](DE714813.md) | 1941-12-08 | Richard, Herrmann | Nachgiebige Unterlage fuer Moebelfuesse |
-| [DE714933](DE714933.md) | 1941-12-10 |  | Schreibrechenmaschine o. dgl. |
+| [DE714933](DE714933.md) | 1941-12-10 | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine o. dgl. |
 | [DE714975](DE714975.md) | 1941-12-11 | Buschmann, Eugen | Business machine or the like with a car jumping device |
 | [DE715203](DE715203.md) | 1941-12-16 | V, Scharberg Fritz Frhr Bedeus | Device for marking writing strips on braille machines |
 | [DE764601](DE764601.md) | 1941-12-17 | Harff, Wilhelm | typewriter |
 | [DE715324](DE715324.md) | 1941-12-19 | Stappert, Med Hans | Device on typewriters |
-| [DE715653](DE715653.md) | 1942-01-05 |  | Nullendruckvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
+| [DE715653](DE715653.md) | 1942-01-05 | Co, Ncr | Nullendruckvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
 | [DE715668](DE715668.md) | 1942-01-05 | Maul, Michael | Listenabschneidevorrichtung fuer die fortlaufende Papierbahn in Typendruckapparaten |
 | [DE715918](DE715918.md) | 1942-01-09 | Lecler, Charles | Elastische Lagerung |
-| [DE716024](DE716024.md) | 1942-01-12 |  | Ribbon lifting device for writing business machines |
+| [DE716024](DE716024.md) | 1942-01-12 | Ag, Wanderer Werke | Ribbon lifting device for writing business machines |
 | [DE716482](DE716482.md) | 1942-01-21 | Klebs, Friedrich Georg | Typewriter, especially for writing shorthand |
-| [DE765018](DE765018.md) | 1942-01-23 |  | typewriter |
-| [DE716670](DE716670.md) | 1942-01-26 |  | Process for the production of key plates for typewriters o. |
+| [DE765018](DE765018.md) | 1942-01-23 | Co, Underwood Elliott Fisher | typewriter |
+| [DE716670](DE716670.md) | 1942-01-26 | H, Iris Type G M B | Process for the production of key plates for typewriters o. |
 | [DE716819](DE716819.md) | 1942-01-30 |  | Typewriter with automatic summation device for non-decade calculations |
 | [DE717101](DE717101.md) | 1942-02-05 |  | Telegraph with type lever basket moving in the direction of the line |
 | [DE717421](DE717421.md) | 1942-02-13 | Becker, Walther | Paper guiding device on calculating, writing and similar machines |
 | [DE717590](DE717590.md) | 1942-02-18 | Lienemann, Karl | Vorrichtung zum Versenken von Schreibmaschinen |
-| [DE717603](DE717603.md) | 1942-02-18 |  | Device on writing business machines to secure the exact position of the platen |
-| [DE717811](DE717811.md) | 1942-03-02 |  | Vorrichtung zur Tabellierung von durch Lochkombinationen dargestellten statistischenAufzeichnungen |
+| [DE717603](DE717603.md) | 1942-02-18 | Ag, Wanderer Werke | Device on writing business machines to secure the exact position of the platen |
+| [DE717811](DE717811.md) | 1942-03-02 | Ag, Siemens | Vorrichtung zur Tabellierung von durch Lochkombinationen dargestellten statistischenAufzeichnungen |
 | [DE718120](DE718120.md) | 1942-03-03 | A, Ransmayer A & Rodrian | Type body for typewriters with obliquely recessed end faces and a gauge for &hellip; |
 | [DE718533](DE718533.md) | 1942-03-14 | Gruettner, Hans | Rechnende Schreibmaschine oder aehnliche Buchungsmaschine |
 | [DE718534](DE718534.md) | 1942-03-14 | Aurbach, - Kurt | Registrierkasse oder Buchungsmaschine mit Lichtbildeinrichtung |
 | [DE718687](DE718687.md) | 1942-03-18 | Broenner, Josef | Type lever drive, especially for low-level typewriters |
-| [DE718676](DE718676.md) | 1942-03-25 |  | Verbindung einer Schreibmaschine, Schreibrechenmaschine o. dgl. mit einer Kartenlochmschine |
-| [DE719061](DE719061.md) | 1942-03-27 |  | Insertion device for typewriters, typewriters, calculators and similar machines |
-| [DE719062](DE719062.md) | 1942-03-27 |  | Paper guiding device for writing, writing arithmetic, adding or similar &hellip; |
+| [DE718676](DE718676.md) | 1942-03-25 | Werke, Mercedes Bueromaschinen | Verbindung einer Schreibmaschine, Schreibrechenmaschine o. dgl. mit einer Kartenlochmschine |
+| [DE719061](DE719061.md) | 1942-03-27 | Werke, Mercedes Bueromaschinen | Insertion device for typewriters, typewriters, calculators and similar machines |
+| [DE719062](DE719062.md) | 1942-03-27 | Werke, Mercedes Bueromaschinen | Paper guiding device for writing, writing arithmetic, adding or similar &hellip; |
 | [DE765709](DE765709.md) | 1942-03-27 |  | Typewriter or the like with a summation device |
 | [DE719214](DE719214.md) | 1942-04-01 | Mecha, Friedrich Deckel Praez S | Getriebe zur Umwandlung einer linear mit dem Wege zunehmenden Kraft, z. B. einer Federkraft, in eine gleichbleibende |
-| [DE719060](DE719060.md) | 1942-04-09 |  | Plug-in device for writing, calculating, adding or similar machines |
+| [DE719060](DE719060.md) | 1942-04-09 | Werke, Mercedes Bueromaschinen | Plug-in device for writing, calculating, adding or similar machines |
 | [DE719558](DE719558.md) | 1942-04-11 | Mueller, Paula Lesser Geb | Paper holding rail on typewriters or the like. |
 | [DE719693](DE719693.md) | 1942-04-14 | Guenther, Beindorff Phil | Schreibband fuer Schreibmaschinen, Registrierkassen u. dgl. |
-| [DE720162](DE720162.md) | 1942-04-25 |  | Return spring for the universal rail of writing and writing and similar &hellip; |
+| [DE720162](DE720162.md) | 1942-04-25 | Maschf, Kappel Akt Ges | Return spring for the universal rail of writing and writing and similar &hellip; |
 | [DE720163](DE720163.md) | 1942-04-27 | Gerber, Paul | Latching device on office machines |
 | [DE720260](DE720260.md) | 1942-04-30 | Soc, Stenotype Grandjean | Ribbon end indicator on high-speed typewriters |
 | [DE720360](DE720360.md) | 1942-05-04 | Aurbach, - Kurt | Registrierkasse zur Eintragung des Verkaufspreises und des chiffrierten Einkaufspreises einer Ware in Belege |
-| [DE720673](DE720673.md) | 1942-05-13 |  | Device on typewriters and similar machines for inserting leaflets |
+| [DE720673](DE720673.md) | 1942-05-13 | Ag, Wanderer Werke | Device on typewriters and similar machines for inserting leaflets |
 | [DE720689](DE720689.md) | 1942-05-13 | Lauer, Gustav | Document holder |
 | [DE720727](DE720727.md) | 1942-05-14 |  | Typewriter, accounting machine or similar machine with an automatic totalizer |
 | [DE720869](DE720869.md) | 1942-05-18 |  | Locking device to prevent the writing of a zero in the ten schilling position, especially for typewriters equipped with a totalizer |
-| [DE720926](DE720926.md) | 1942-05-19 |  | Papierfuehrungsvorrichtung an Schreibmaschinen und aehnlichen Maschinen |
+| [DE720926](DE720926.md) | 1942-05-19 | Ag, Wanderer Werke | Papierfuehrungsvorrichtung an Schreibmaschinen und aehnlichen Maschinen |
+| [JP152097](JP152097.md) | 1942-05-20 | Morishita, Shōkichi | Platen sideways-feed device in a Japanese typewriter |
+| [JP152547](JP152547.md) | 1942-05-25 | Suzuki, Kuraji | Vertical (cylinder) feed device in a Japanese typewriter |
+| [JP152989](JP152989.md) | 1942-05-25 | Kataoka, Kōtarō | Printing (striking) device for a Japanese-language typewriter |
+| [JP152991](JP152991.md) | 1942-05-25 | Kataoka, Kōtarō | Platen back-feed device for a typewriter |
 | [DE721302](DE721302.md) | 1942-06-01 | Simon, Walter | Embossing of plastic lines |
 | [DE721382](DE721382.md) | 1942-06-03 | Bohr, Richard | Type printing machine with a number of paper carriage switching devices adapted &hellip; |
-| [DE721383](DE721383.md) | 1942-06-03 |  | Paper pressure roller for writing, calculating and similar machines |
-| [DE721384](DE721384.md) | 1942-06-03 |  | Device for guiding two different pre-pressure tracks for typewriters, &hellip; |
-| [DE721484](DE721484.md) | 1942-06-06 |  | Process for the production of stamps for embossing types with a recessed &hellip; |
+| [DE721383](DE721383.md) | 1942-06-03 | Werke, Mercedes Bueromaschinen | Paper pressure roller for writing, calculating and similar machines |
+| [DE721384](DE721384.md) | 1942-06-03 | Werke, Mercedes Bueromaschinen | Device for guiding two different pre-pressure tracks for typewriters, &hellip; |
+| [DE721484](DE721484.md) | 1942-06-06 | H, Iris Type G M B | Process for the production of stamps for embossing types with a recessed &hellip; |
 | [DE705654](DE705654.md) | 1942-06-09 | Mueller, Wolfgang | Plug-in device for typewriters, accounting machines or the like. |
 | [DE721226](DE721226.md) | 1942-06-10 | Page, Ralph Eugene | Registriermaschine, vorzeugsweise Kartenlochmaschine |
+| [JP152935](JP152935.md) | 1942-06-10 | Suzuki, Kuraji | Sideways-feed device for a Japanese-script typewriter |
 | [DE721607](DE721607.md) | 1942-06-12 |  | Typewriter with automatic total printing device |
 | [DE721608](DE721608.md) | 1942-06-12 |  | Counter for typewriters with automatic totalizing device |
 | [DE721668](DE721668.md) | 1942-06-15 | Liebold, Erich | Type body for typewriters u. Like. As well as the method for its production and &hellip; |
 | [DE721727](DE721727.md) | 1942-06-16 | Appelt, Hans | Device for swiveling additional devices on typewriters |
 | [DE721726](DE721726.md) | 1942-06-18 | Ruediger, Ernst | Anzeigeskala fuer die obere und untere Randbegrenzung des Schreibblattes |
-| [DE721994](DE721994.md) | 1942-06-27 |  | Movable designed limit stop for the line shift lever of typewriters or the like &hellip; |
+| [DE721994](DE721994.md) | 1942-06-27 | Maschf, Kappel Akt Ges | Movable designed limit stop for the line shift lever of typewriters or the like &hellip; |
 | [DE722133](DE722133.md) | 1942-07-01 | Buchholtz, Erich | Schreibmaschinenpostkarte |
 | [DE722341](DE722341.md) | 1942-07-08 | Pascher, Leopold Ferdinand | Ribbon switching for typewriters u. like |
 | [DE722450](DE722450.md) | 1942-07-10 |  | Counter for typewriters, calculating machines, adding machines or the like with post counter |
 | [DE722470](DE722470.md) | 1942-07-10 | Karstedt, Paul | Line drawing device for typewriters |
-| [DE722543](DE722543.md) | 1942-07-11 |  | Key ring for the keys of typewriters, typewriters etc. like |
+| [DE722543](DE722543.md) | 1942-07-11 | Werke, Mercedes Bueromaschinen | Key ring for the keys of typewriters, typewriters etc. like |
 | [DE722555](DE722555.md) | 1942-07-13 | Pascher, Leopold Ferdinand | Reverse gear clutch for typewriters |
-| [DE689312](DE689312.md) | 1942-07-17 |  | Rack frame drawn from a piece of sheet metal with bottom edge for type lever &hellip; |
+| [DE689312](DE689312.md) | 1942-07-17 | Ag, Seidel & Naumann | Rack frame drawn from a piece of sheet metal with bottom edge for type lever &hellip; |
 | [DE723117](DE723117.md) | 1942-07-29 | Frik, Hans | Key for typesetting machines, calculators, typewriters, cash registers, etc. &hellip; |
 | [DE657070](DE657070.md) | 1942-07-31 | Sander, Ernst | Typewriter with type carriers that can be swiveled parallel to the writing &hellip; |
 | [DE723281](DE723281.md) | 1942-08-01 | Decker, Heinrich | Device on typewriters for writing on copy sheets |
 | [DE723418](DE723418.md) | 1942-08-05 | Stingl, Ernst | Type lever drive for typewriters |
-| [DE723813](DE723813.md) | 1942-08-11 |  | Type setting device, especially for typewriter types |
+| [DE723813](DE723813.md) | 1942-08-11 | H, Iris Type G M B | Type setting device, especially for typewriter types |
 | [DE723800](DE723800.md) | 1942-08-15 | Hegnauer, Ruf Buchhaltung Paul | Schreibtisch mit einem nach hinten in den Nischenraum klappbaren Tischplattenteil und einer versenkbaren Schreibmaschine |
 | [DE724023](DE724023.md) | 1942-08-15 | Soc, Stenotype Grandjean | Device for advancing the paper tape on high-speed typewriters |
 | [DE724024](DE724024.md) | 1942-08-15 | Johannesen, Norman | Hand device for rubbing color ribbons for typewriters or the like. |
-| [DE724442](DE724442.md) | 1942-08-26 |  | Typewriter with a vertical platen |
+| [DE724442](DE724442.md) | 1942-08-26 | G, Steckborn Kunstseide A | Typewriter with a vertical platen |
 | [DE724443](DE724443.md) | 1942-08-26 | Fernand, Bessiere | Platen arrangement on typewriters or the like. |
 | [DE724444](DE724444.md) | 1942-08-29 | Theo, Woehrle | Type lever straightening pliers |
 | [DE724370](DE724370.md) | 1942-09-03 |  | Typewriter with auxiliary paper trolley |
 | [DE724937](DE724937.md) | 1942-09-10 |  | Switching device on typewriters or the like. |
 | [DE724997](DE724997.md) | 1942-09-11 | V, Scharberg Fritz Frhr Bedeus | Device for displaying marginal markings on braille strips |
 | [DE725122](DE725122.md) | 1942-09-14 | Krueger, Johannes | Ribbon reel housing for writing office machines |
-| [DE725123](DE725123.md) | 1942-09-14 | Carl, Walther | Automatic switching device for the longitudinal movement of the ribbon on &hellip; |
+| [DE725123](DE725123.md) | 1942-09-14 |  | Automatic switching device for the longitudinal movement of the ribbon on &hellip; |
 | [DE725924](DE725924.md) | 1942-10-02 | Aurbach, - Kurt | Nullendruckvorrichtung fuer Registrierkassen, Rechen- oder Buchungsmaschinen |
 | [DE725865](DE725865.md) | 1942-10-03 | Gundlfinger, Karl | Fernschreibempfaenger |
 | [DE725988](DE725988.md) | 1942-10-04 |  | Counter for typewriters |
 | [DE725989](DE725989.md) | 1942-10-04 |  | Typewriter with automatic summation device |
-| [DE767906](DE767906.md) | 1942-10-11 |  | Paper guide sheet for paper guide devices on typewriters, typewriters or the &hellip; |
+| [DE767906](DE767906.md) | 1942-10-11 | Werke, Mercedes Bueromaschinen | Paper guide sheet for paper guide devices on typewriters, typewriters or the &hellip; |
 | [DE726475](DE726475.md) | 1942-10-14 | Hegnauer, Ruf Buchhaltung Paul | Plug-in device for booking machines u. like |
 | [DE726476](DE726476.md) | 1942-10-14 | Schueler, Hugo | Roller for writing business machines |
 | [DE726474](DE726474.md) | 1942-10-17 |  | Switching device for low-noise typewriters with type bars |
@@ -9737,14 +9903,15 @@ Every patent in the library, oldest first.
 | [DE726872](DE726872.md) | 1942-10-22 | Behrendt, Bruno | Device for lifting and moving typewriters, telephones and radios, etc. like |
 | [DE922773](DE922773.md) | 1942-10-22 | Lennartz, Walter | Pad for inserting and holding copy material and normal postcards in the &hellip; |
 | [DE923790](DE923790.md) | 1942-10-22 | Lennartz, Walter | Pad for inserting and holding copy material and normal postcards in the &hellip; |
-| [DE727013](DE727013.md) | 1942-10-24 |  | Drive device for the ribbon fork of typewriters |
+| [DE727013](DE727013.md) | 1942-10-24 | Maschf, Kappel Akt Ges | Drive device for the ribbon fork of typewriters |
 | [DE727178](DE727178.md) | 1942-10-28 | Flader, Konrad | Verfahren zur Herstellung von Kennmarkentraegern, insbesondere Zahlenrollen fuer Registrier- und Rechenwerke |
 | [DE727098](DE727098.md) | 1942-11-02 | Maul, Michael | Printing device for data carriers to be evaluated automatically |
-| [DE727389](DE727389.md) | 1942-11-02 |  | Paper trolley switching device for typewriters or the like. |
-| [DE727467](DE727467.md) | 1942-11-07 |  | Paper guide device for typewriters, typewriters and. like |
-| [DE727617](DE727617.md) | 1942-11-09 |  | Schaltwerk fuer Addiermaschinen, Registrierkassen u. dgl., insbesondere fuer mit Schreibmaschinen gekuppelte Addiermaschinen |
+| [DE727389](DE727389.md) | 1942-11-02 | Werke, Mercedes Bueromaschinen | Paper trolley switching device for typewriters or the like. |
+| [JP155610](JP155610.md) | 1942-11-05 | Kawahara, Kenji | Feed device for the printing cylinder of a typewriter |
+| [DE727467](DE727467.md) | 1942-11-07 | Werke, Mercedes Bueromaschinen | Paper guide device for typewriters, typewriters and. like |
+| [DE727617](DE727617.md) | 1942-11-09 | Werke, Mercedes Bueromaschinen | Schaltwerk fuer Addiermaschinen, Registrierkassen u. dgl., insbesondere fuer mit Schreibmaschinen gekuppelte Addiermaschinen |
 | [DE727730](DE727730.md) | 1942-11-10 | Horst, Breitfeld | Druckeinrichtung fuer Registrierkassen, Buchungs- oder aehnliche Maschinen zum Bedrucken von Belegen |
-| [DE727825](DE727825.md) | 1942-11-13 |  | Device for the production of key buttons or similar display members |
+| [DE727825](DE727825.md) | 1942-11-13 | Werke, Mercedes Bueromaschinen | Device for the production of key buttons or similar display members |
 | [DE728088](DE728088.md) | 1942-11-19 | Florentin, Gautier Lucien | Verfahren zum Verbinden von Rohren und Anschlussstuecken aus Gusseisen oder Temperguss durch Weichloeten |
 | [DE728158](DE728158.md) | 1942-11-23 | Demmel, Anton | Table and margin setting device for writing office machines |
 | [DE922653](DE922653.md) | 1942-11-25 | Haberfeld, Erwin O | Device for inserting several sheets of paper in a typewriter |
@@ -9753,8 +9920,8 @@ Every patent in the library, oldest first.
 | [DE728413](DE728413.md) | 1942-11-26 | Hans-Dietrich, Geiser | Device for writing business machines |
 | [DE923789](DE923789.md) | 1942-11-27 | Lennartz, Walter | Pad for inserting and holding copy material and postcards in the typewriter |
 | [DE728596](DE728596.md) | 1942-11-30 |  | Automatic summation device on typewriters for non-decade calculations, e.g. B. English currency |
-| [DE878354](DE878354.md) | 1942-12-01 |  | Switching device for writing office machines with a switching lock |
-| [DE728754](DE728754.md) | 1942-12-03 |  | Haltevorrichtung fuer die Fadenanfaenge der Ersatzspulen einer Spulenauswechselvorrichtung |
+| [DE878354](DE878354.md) | 1942-12-01 | A, Olympia Bueromaschinenwerke | Switching device for writing office machines with a switching lock |
+| [DE728754](DE728754.md) | 1942-12-03 | Maschf, Rueti Ag | Haltevorrichtung fuer die Fadenanfaenge der Ersatzspulen einer Spulenauswechselvorrichtung |
 | [DE728784](DE728784.md) | 1942-12-03 | Spa, Magneti Marelli | Tragbarer Behaelter, insbesondere Koffer, mit einem durch Schwenkarme am Behaelter angelenkten Deckel |
 | [DE728836](DE728836.md) | 1942-12-04 | Duchrow, Hermann | Type cylinder typewriter |
 | [DE728805](DE728805.md) | 1942-12-05 | Nocken, Heinrich | Device on booking machines for labeling form strips |
@@ -9771,14 +9938,20 @@ Every patent in the library, oldest first.
 | [DE730434](DE730434.md) | 1943-01-14 | Dronigke, Erich | Einrichtung an rechnenden Schreibmaschinen oder aehnlichen Bueromaschinen |
 | [DE730417](DE730417.md) | 1943-01-18 | Kuttner, Hans | Pruefeinrichtung fuer Springschreiber, Tastenlocher, Schreibmaschinen u. dgl. |
 | [DE730792](DE730792.md) | 1943-01-18 | Baer, Karl Heinz | Type bar typewriter |
-| [DE879551](DE879551.md) | 1943-01-31 |  | Paper roller bearings in typewriters |
-| [DE923253](DE923253.md) | 1943-01-31 |  | Typewriter, in particular accounting machine |
+| [DE879551](DE879551.md) | 1943-01-31 | Corp, Underwood | Paper roller bearings in typewriters |
+| [DE923253](DE923253.md) | 1943-01-31 | H, Adlerwerke Kleyer Ag | Typewriter, in particular accounting machine |
 | [DE731136](DE731136.md) | 1943-02-02 | Langenegger, Adolf | Typewriter or similar machine |
 | [DE722134](DE722134.md) | 1943-02-03 | Lennartz, Walter | Schreibmaschinenpostkarte |
 | [DE731248](DE731248.md) | 1943-02-04 | Honnolke, Franz | Typewriter with an immovably arranged writing surface |
-| [DE731249](DE731249.md) | 1943-02-04 |  | Vorrichtung fuer Schreibmaschinen, Schreibrechenmaschinen o. dgl. |
+| [DE731249](DE731249.md) | 1943-02-04 | Werke, Mercedes Bueromaschinen | Vorrichtung fuer Schreibmaschinen, Schreibrechenmaschinen o. dgl. |
+| [JP157600](JP157600.md) | 1943-02-05 | Kataoka, Kōtarō | Japanese-language typewriter with interchangeable type cylinders |
+| [JP157669](JP157669.md) | 1943-02-05 | Kataoka, Kōtarō | Feed device in a Japanese-language typewriter |
+| [JP157670](JP157670.md) | 1943-02-05 | Kataoka, Kōtarō | Back-feed (reverse spacing) device for a Japanese-language typewriter |
+| [JP157671](JP157671.md) | 1943-02-05 | Kataoka, Kōtarō | Device for stopping the sideways (character) feed of a Japanese-language typewriter |
+| [JP157672](JP157672.md) | 1943-02-05 | Kataoka, Kōtarō | Type cylinder for a Japanese-language typewriter |
+| [JP157673](JP157673.md) | 1943-02-05 | Kataoka, Kōtarō | Type cylinder for a Japanese-language typewriter |
 | [DE731478](DE731478.md) | 1943-02-10 | Dennis, Salmon Reginald | UEbersetzereinrichtung fuer Typendrucktelegrapenempfaenger, bei welcher das Typenrad mit Hilfe einer Reihe ineinandergreifender Planetengetriebe eingestellt wird |
-| [DE731526](DE731526.md) | 1943-02-10 |  | Paper holding rail, in particular for note typewriters |
+| [DE731526](DE731526.md) | 1943-02-10 | Ag, Wanderer Werke | Paper holding rail, in particular for note typewriters |
 | [DE709186](DE709186.md) | 1943-02-11 | Pascher, Leopold | typewriter |
 | [DE731564](DE731564.md) | 1943-02-11 | Bordin, Emil | Device for lifting an ink ribbon from an ink ribbon lying behind it on an &hellip; |
 | [DE730594](DE730594.md) | 1943-02-12 | Flader, Konrad | Traggriff, vorzugsweise fuer Schreibmaschinenkoffer |
@@ -9792,52 +9965,55 @@ Every patent in the library, oldest first.
 | [DE732747](DE732747.md) | 1943-03-10 | Weiss, Arno | Device for transferring the feed movement to the trolley of office machines |
 | [DE732749](DE732749.md) | 1943-03-10 | Graf, Hugo | Method for refreshing color ribbons |
 | [DE727648](DE727648.md) | 1943-03-11 |  | Accounting machine, especially typewriter equipped with a totalizer |
-| [DE732748](DE732748.md) | 1943-03-11 |  | Device for controlling a power-driven return device for the paper trolley of a &hellip; |
+| [DE732748](DE732748.md) | 1943-03-11 | Ag, Wanderer Werke | Device for controlling a power-driven return device for the paper trolley of a &hellip; |
 | [DE732805](DE732805.md) | 1943-03-12 | Anschuetz, Franz Walther | Identification of the correct position of the ribbon on writing or printing &hellip; |
 | [DE732689](DE732689.md) | 1943-03-15 | Pascher, Leopold Ferdinand | typewriter |
-| [DE732804](DE732804.md) | 1943-03-19 |  | Chiffrier-Schreibmaschine |
+| [DE732804](DE732804.md) | 1943-03-19 | De, Hollerith Maschinen G M B H | Chiffrier-Schreibmaschine |
 | [DE733185](DE733185.md) | 1943-03-24 | Rauh, Hermann | Buchungsrechenmaschine mit selbsttaetiger Wahl der Saldospalten |
 | [DE733183](DE733183.md) | 1943-03-25 |  | Complementary vertical counter, especially for typewriters equipped with a totalizer |
 | [DE733242](DE733242.md) | 1943-03-30 | Stein, Hermann | Noise and vibration-reducing pad for typewriters |
 | [DE961139](DE961139.md) | 1943-03-30 | Nv, Kamatec | Office press |
-| [DE733777](DE733777.md) | 1943-04-02 |  | Vorrichtung an schreibenden Geschaeftsmaschinen zum Einfuehren und Einstellen einzelner, getrennter Vorsteckblaetter |
+| [DE733777](DE733777.md) | 1943-04-02 | Ag, Wanderer Werke | Vorrichtung an schreibenden Geschaeftsmaschinen zum Einfuehren und Einstellen einzelner, getrennter Vorsteckblaetter |
 | [DE733837](DE733837.md) | 1943-04-02 | Schmeisser, Hermann | Typewriter ribbon |
 | [DE733516](DE733516.md) | 1943-04-03 | Brandenburg, Otto | Switching device for typewriters |
 | [DE733852](DE733852.md) | 1943-04-03 | Giuseppe, Prezioso | Edge limiting device for typewriters |
 | [DE727630](DE727630.md) | 1943-04-07 | Schade, Karl Werner | Type disk typewriter |
-| [DE734071](DE734071.md) | 1943-04-08 |  | Car jumping device on typewriters and similar business machines |
-| [DE733776](DE733776.md) | 1943-04-10 |  | Tabulating and limiting device |
+| [DE734071](DE734071.md) | 1943-04-08 | Ag, Wanderer Werke | Car jumping device on typewriters and similar business machines |
+| [DE733776](DE733776.md) | 1943-04-10 | Werke, Mercedes Bueromaschinen | Tabulating and limiting device |
 | [DE734623](DE734623.md) | 1943-04-20 | Burger, Michael | Line delimiter on typewriters |
 | [DE734728](DE734728.md) | 1943-04-22 | Loewe, Richard | Portable typewriter |
-| [DE926727](DE926727.md) | 1943-04-23 |  | Strip transport device, especially for accounting machines |
+| [DE926727](DE926727.md) | 1943-04-23 | Ltd, Lamson Paragon Supply Co | Strip transport device, especially for accounting machines |
 | [DE715707](DE715707.md) | 1943-04-28 |  | Pressure telegraph receiver, the type wheel of which is connected to code disks, the setting of which is determined by a set of test elements |
+| [JP159459](JP159459.md) | 1943-04-30 | Tsujimoto, Hidegorō | Printing machine |
 | [DE734727](DE734727.md) | 1943-05-04 | Kottmann, August | Device on special typewriters and accounting machines for pulling back carbon &hellip; |
 | [DE735065](DE735065.md) | 1943-05-05 | Lasker, William Walter | Buchungsmaschine mit einem Zeilenschaltwerk |
 | [DE735098](DE735098.md) | 1943-05-06 | Miloslav, Bradik | Typewriter for notes and their symbols |
+| [JP159441](JP159441.md) | 1943-05-10 | Kawahara, Kenji | Spacing adjustment device for European letters on a typewriter |
 | [DE751830](DE751830.md) | 1943-05-11 |  | Complementary vertical counters, especially for typewriters or the like equipped with a totalizer. |
 | [DE735304](DE735304.md) | 1943-05-12 | Henze, Kurt | Schaltvorrichtung fuer mit Vorwaehlern versehene Wechselgetriebe von Kraftfahrzeugen, insbesondere Schienenfahrzeugen |
-| [DE881586](DE881586.md) | 1943-05-14 |  | Writing and transfer printing device with arithmetic unit |
+| [DE881586](DE881586.md) | 1943-05-14 | Ag, Anker Werke | Writing and transfer printing device with arithmetic unit |
 | [DE960636](DE960636.md) | 1943-05-15 | Veb, Groma Bueromaschinen | Car storage for typewriters of low construction |
 | [DE960637](DE960637.md) | 1943-05-15 | Veb, Groma Bueromaschinen | Line delimitation device for typewriters u. like |
 | [DE735479](DE735479.md) | 1943-05-20 | Vogt, Alfred Richard Georg | Type lever drive for typewriters |
-| [DE926452](DE926452.md) | 1943-05-31 |  | Device for the electrical registration of information such. B. numerical values &hellip; |
+| [DE926452](DE926452.md) | 1943-05-31 | Co, Ncr | Device for the electrical registration of information such. B. numerical values &hellip; |
 | [DE715691](DE715691.md) | 1943-06-03 | Weiner, Robert | Bad fuer die elektrolytische Erzeugung von glaenzenden UEberzuegen von Messing, Kupfer, Zink, Kadmium und Verfahren zur Herstellung des Bades |
 | [DE736139](DE736139.md) | 1943-06-08 |  | Ribbon, especially for carbonless accounting |
 | [DE736153](DE736153.md) | 1943-06-08 | Stein, Hermann | Typewriter box for small typewriters |
 | [DE736386](DE736386.md) | 1943-06-15 | Grosskopf, Carl | Tasteninstrument mit verschwenkbarem Schreibmaschinentraeger |
 | [DE736505](DE736505.md) | 1943-06-19 | Beeck, Josef | Removable ribbon reel for typewriters |
-| [DE877906](DE877906.md) | 1943-06-21 |  | Margin adjustment device on power operated typewriters |
+| [DE877906](DE877906.md) | 1943-06-21 | Corp, Underwood | Margin adjustment device on power operated typewriters |
 | [DE736626](DE736626.md) | 1943-06-23 | Langenegger, Adolf | Nuller-Einrichtung fuer Addier-, Rechen- und rechnende Schreibmaschinen |
 | [DE736605](DE736605.md) | 1943-06-25 | Goino, Ghertman | Durch Zaehlkarten gesteuerte druckende Geschaeftsmaschine mit einem Rechenwerk und einer Einrichtung fuer die Zufuehrung und den Druck von Kontokarten |
 | [DE882405](DE882405.md) | 1943-06-25 | Goebel, Joseph | Typewriter for blind dot writing |
-| [DE736356](DE736356.md) | 1943-06-26 |  | Insertion device for writing, writing arithmetic and other machines provided &hellip; |
-| [DE926252](DE926252.md) | 1943-06-27 |  | Typewriter with noiseless type carriers pressed against the paper roller |
+| [DE736356](DE736356.md) | 1943-06-26 | Werke, Mercedes Bueromaschinen | Insertion device for writing, writing arithmetic and other machines provided &hellip; |
+| [DE926252](DE926252.md) | 1943-06-27 | Corp, Underwood | Typewriter with noiseless type carriers pressed against the paper roller |
 | [DE736798](DE736798.md) | 1943-06-28 | Andreas, Salzberger | Key lever spring tension regulator |
 | [DE736859](DE736859.md) | 1943-06-30 |  | Booking machine, in particular typewriter with a multiplier device |
 | [DE736939](DE736939.md) | 1943-07-02 |  | Typewriter, calculating machine or the like with an automatic summation and / or printing device |
 | [DE737039](DE737039.md) | 1943-07-05 | Rolf, Hofgaard | Tastatur, insbesondere fuer Rechenmaschinen, Buchfuehrungsmaschinen o. dgl. |
+| [JP165672](JP165672.md) | 1943-07-08 | Inaba, Kikuo | Platen stop device for a typewriter when striking a dot or dots at the right shoulder of a character |
 | [DE737205](DE737205.md) | 1943-07-09 |  | Set up on typewriters or similar office machines |
-| [DE926134](DE926134.md) | 1943-07-13 |  | Address printing plate made of stampable sheet metal |
+| [DE926134](DE926134.md) | 1943-07-13 | Beschraen, Adrema Werke Ges Mit | Address printing plate made of stampable sheet metal |
 | [DE737507](DE737507.md) | 1943-07-15 | Gerber, Paul | Paper holding device on typewriters, accounting machines or the like. |
 | [DE737649](DE737649.md) | 1943-07-19 | Andreas, Salzberger | Type lever segment switchover |
 | [DE737650](DE737650.md) | 1943-07-19 | Gundlfinger, Karl | Device for opening the paper trolley of typewriters |
@@ -9845,26 +10021,27 @@ Every patent in the library, oldest first.
 | [DE924591](DE924591.md) | 1943-07-23 |  | Dictation device working according to the magnetic sound process with line- &hellip; |
 | [DE737857](DE737857.md) | 1943-07-27 | Schaetzke, Hermann | Removable ribbon reel for typewriters |
 | [DE737791](DE737791.md) | 1943-07-28 | Noll, Austin Robert | Chiffrier- und Dechiffrier-Schreibmaschinenanlage |
-| [DE737890](DE737890.md) | 1943-07-28 |  | Process for noise reduction in typing, writing calculators and similar machines |
+| [DE737890](DE737890.md) | 1943-07-28 | Ag, Seidel & Naumann | Process for noise reduction in typing, writing calculators and similar machines |
 | [DE737934](DE737934.md) | 1943-07-29 | Bachmann, Wilhelm | Typewriter with type bumpers |
 | [DE738171](DE738171.md) | 1943-08-05 | Wares, Bryce James | Verfahren zur Festlegung statistischer und geschaeftlicher Tatsachen durch Markierungen und zur maschinellen Auswertung der Markierungen sowie Steuerblatt und Maschine zur Durchfuehrung des Verfahrens |
 | [DE738522](DE738522.md) | 1943-08-19 | Goecke, Wilhelm | Ribbon reel |
 | [DE738723](DE738723.md) | 1943-08-29 |  | Calculating machine, especially typewriter equipped with a totalizer |
 | [DE738766](DE738766.md) | 1943-08-31 | Kuhrt, Ernst | Paper insert for typewriters, accounting machines and calculating machines |
-| [DE739067](DE739067.md) | 1943-09-10 |  | Paper guide device on typewriters, typewriters and the like like |
-| [DE921627](DE921627.md) | 1943-09-12 |  | Power drive device for typewriters u. like |
+| [DE739067](DE739067.md) | 1943-09-10 | Werke, Mercedes Bueromaschinen | Paper guide device on typewriters, typewriters and the like like |
+| [JP162305](JP162305.md) | 1943-09-10 | Nakazono, Sadaji | Automatic platen-feed adjusting device for a Japanese-language typewriter |
+| [DE921627](DE921627.md) | 1943-09-12 | Inc, Royal Typewriter Co | Power drive device for typewriters u. like |
 | [DE739175](DE739175.md) | 1943-09-13 | Rodrian, - Erich | Process for the production of types and type bars or levers for writing, &hellip; |
-| [DE739190](DE739190.md) | 1943-09-16 |  | Druckende Geschaeftsmaschine mit einer Anzahl von je fuer sich einstellbaren Typentraegern |
+| [DE739190](DE739190.md) | 1943-09-16 | H, Hollerith Maschinen Ges M B | Druckende Geschaeftsmaschine mit einer Anzahl von je fuer sich einstellbaren Typentraegern |
 | [DE738926](DE738926.md) | 1943-09-17 | Grobe, Otto | Noise-reducing stop, especially for office machines |
 | [DE739189](DE739189.md) | 1943-09-17 | Aurbach, - Kurt | Line adjustment device for cash registers, accounting machines or similar &hellip; |
-| [DE739320](DE739320.md) | 1943-09-20 |  | Device on typewriters for setting a slip sheet in front of the base sheet in &hellip; |
+| [DE739320](DE739320.md) | 1943-09-20 | Ag, Ruf Buchhaltung | Device on typewriters for setting a slip sheet in front of the base sheet in &hellip; |
 | [DE739393](DE739393.md) | 1943-09-24 | Klaar, Albert | Scheckdruckwerk fuer Registrierkassen, Buchungs- und aehnliche Maschinen |
 | [DE739516](DE739516.md) | 1943-09-28 | Strothmann, Otto | Registrierkasse oder Buchungsmaschine |
 | [DE739555](DE739555.md) | 1943-09-29 | Aurbach, - Kurt | Druckvorrichtung an Registrierkassen zum gleichartigen Bedrucken mehrerer sich teilweise ueberdeckender Belege |
-| [DE739660](DE739660.md) | 1943-10-01 |  | Schreibrechenmaschine oder aehnliche Maschine mit Einrichtungen zum Lochen und Abfuehlen von Lochkarten |
+| [DE739660](DE739660.md) | 1943-10-01 | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine oder aehnliche Maschine mit Einrichtungen zum Lochen und Abfuehlen von Lochkarten |
 | [DE739955](DE739955.md) | 1943-10-08 | Eibert, Fritz | Tab device for typewriters and other office machines |
 | [DE740109](DE740109.md) | 1943-10-12 | Strauch, Peter | Shift key button |
-| [DE740110](DE740110.md) | 1943-10-12 |  | Typewriter with hinged cover |
+| [DE740110](DE740110.md) | 1943-10-12 | Ge, Triumph Werke Nuernberg Akt | Typewriter with hinged cover |
 | [DE740111](DE740111.md) | 1943-10-12 | Hell, - Rudolf | Arrangement for copying receiving strips |
 | [DE740192](DE740192.md) | 1943-10-14 | Nocken, Heinrich | Card collection box for booking machines |
 | [DE740296](DE740296.md) | 1943-10-16 | Haberfeld, Erwin O | Posting typewriter, especially for account sheets to be inserted |
@@ -9876,16 +10053,22 @@ Every patent in the library, oldest first.
 | [DE741023](DE741023.md) | 1943-11-08 | Knackfuss, Walter | Druckwerk fuer Addiermaschinen |
 | [DE741419](DE741419.md) | 1943-11-11 | Bendorff, Kurt | Keyboard for a die setting and line casting machine for setting syllables and &hellip; |
 | [DE741482](DE741482.md) | 1943-11-11 | Heinrich, Werner | Hinge for plastic parts, especially on typewriters |
-| [DE921387](DE921387.md) | 1943-11-18 |  | Trolley frame for writing office machines |
-| [DE741954](DE741954.md) | 1943-11-19 |  | Insertion device for typewriters and similar machines |
+| [DE921387](DE921387.md) | 1943-11-18 | H, Adlerwerke Kleyer Ag | Trolley frame for writing office machines |
+| [DE741954](DE741954.md) | 1943-11-19 | Werke, Mercedes Bueromaschinen | Insertion device for typewriters and similar machines |
 | [DE742377](DE742377.md) | 1943-12-01 | Gebauer, Walter | Line switching device for writing business machines |
 | [DE742378](DE742378.md) | 1943-12-01 | Ernesto, Confalonieri | Device for writing, calculating or similar machines to replace the sheets of &hellip; |
 | [DE742465](DE742465.md) | 1943-12-03 |  | Typewriter with decimal tabulator |
-| [DE742224](DE742224.md) | 1943-12-06 |  | Machine for punching cards according to a combination system |
-| [DE742823](DE742823.md) | 1943-12-11 |  | Bedienungsglied, z. B. Taste fuer Rechenmaschinen und aehnliche Maschinen |
+| [DE742224](DE742224.md) | 1943-12-06 | H, Hollerith Maschinen Ges M B | Machine for punching cards according to a combination system |
+| [JP163316](JP163316.md) | 1943-12-06 | Ochiai, Isamu | Platen feed device for a Japanese typewriter |
+| [JP163317](JP163317.md) | 1943-12-06 | Ochiai, Isamu | Change-speed gear |
+| [JP163318](JP163318.md) | 1943-12-06 | Ochiai, Isamu | Platen sideways-feed change-over device for a Japanese typewriter |
+| [JP163319](JP163319.md) | 1943-12-06 | Ochiai, Isamu | Platen sideways-feed release device for a Japanese typewriter |
+| [JP163325](JP163325.md) | 1943-12-06 | Ochiai, Isamu | Platen sideways-feed device for a Japanese typewriter |
+| [DE742823](DE742823.md) | 1943-12-11 | Werke, Mercedes Bueromaschinen | Bedienungsglied, z. B. Taste fuer Rechenmaschinen und aehnliche Maschinen |
 | [DE743385](DE743385.md) | 1943-12-24 | Gundlfinger, Karl | Fernschreibmaschine |
+| [JP163915](JP163915.md) | 1943-12-24 | Inaba, Kikuo | Letter-spacing adjusting device |
 | [DE746406](DE746406.md) | 1943-12-30 | Sobisch, Johannes Bielefeld | Steuervorrichtung für mit Rechenmaschinen, Lochkartenmaschinen o. dgl. zusammenarbeitende Schreibmaschinen |
-| [DE743750](DE743750.md) | 1943-12-31 |  | Key caps for typewriters and calculators |
+| [DE743750](DE743750.md) | 1943-12-31 | A, Olympia Bueromaschinenwerke | Key caps for typewriters and calculators |
 | [DE743836](DE743836.md) | 1944-01-04 | Storch, Otto | Key button, especially for typewriters |
 | [DE743866](DE743866.md) | 1944-01-04 | Berrendorf, Josef | Klein-Rechenmaschine in geschlossener Form mit auf die Typen schlagender Walze |
 | [DE877459](DE877459.md) | 1944-01-08 | Fa, Guenther Wagner | Writing tapes, printing blankets, paints etc. for office machines |
@@ -9894,8 +10077,8 @@ Every patent in the library, oldest first.
 | [DE744646](DE744646.md) | 1944-01-21 | Knackfuss, Walter | Calculating machine that prints on a strip of paper |
 | [DE744946](DE744946.md) | 1944-01-31 | Smart, Beattie Horace | Business printing machine controlled by payment cards |
 | [DE744974](DE744974.md) | 1944-02-21 | Doering, Ulrich W | Verfahren zum Herstellen von Aufzeichnungen optischer, akustischer oder elektrischer Vorgaenge mittels elektrischer Polarisation |
-| [DE744876](DE744876.md) | 1944-02-22 |  | Anordnung zur nachgiebigen und schwingungsdaempfenden Lagerung von Instrumenten |
-| [DE744997](DE744997.md) | 1944-02-22 |  | Noiseless typewriter |
+| [DE744876](DE744876.md) | 1944-02-22 | Fortschri, Getefo Ges Fuer Tech | Anordnung zur nachgiebigen und schwingungsdaempfenden Lagerung von Instrumenten |
+| [DE744997](DE744997.md) | 1944-02-22 | Ag, Wanderer Werke | Noiseless typewriter |
 | [DE745225](DE745225.md) | 1944-03-01 | Hans, Martin | Car guide for writing office machines, especially for those with a round bar |
 | [DE745564](DE745564.md) | 1944-03-16 | Lehmann, Alexander | Determination of the setting tab |
 | [DE745629](DE745629.md) | 1944-03-21 | Ab, Venturo | Elektrische Fernschreibmaschine |
@@ -9905,24 +10088,24 @@ Every patent in the library, oldest first.
 | [DE746332](DE746332.md) | 1944-05-11 |  | Printing device with type wheels |
 | [DE746330](DE746330.md) | 1944-05-14 |  | Typewriter or the like |
 | [DE751013](DE751013.md) | 1944-05-20 |  | Typewriter with automatic total printing |
-| [DE745993](DE745993.md) | 1944-05-26 |  | Rechen- oder Buchhaltungsmaschine |
-| [DE746093](DE746093.md) | 1944-05-26 |  | Calculating or accounting machine |
+| [DE745993](DE745993.md) | 1944-05-26 | Ncr, Co | Rechen- oder Buchhaltungsmaschine |
+| [DE746093](DE746093.md) | 1944-05-26 | Co, Ncr | Calculating or accounting machine |
 | [DE877150](DE877150.md) | 1944-05-26 | Niederhauser, Josephine Rosa | Apparatus attached to typewriters for making copies |
-| [DE745784](DE745784.md) | 1944-05-30 |  | Rechen- oder Buchhaltungsmaschine |
+| [DE745784](DE745784.md) | 1944-05-30 | Ncr, Co | Rechen- oder Buchhaltungsmaschine |
 | [DE745913](DE745913.md) | 1944-06-03 | Willers, Hans Bodo | Waehlwerk fuer Ferndrucker |
 | [DE877084](DE877084.md) | 1944-06-14 | Fitzner, Ernst | Oscillating engine with a reciprocating engine part |
 | [DE746310](DE746310.md) | 1944-06-19 | Fa, G F Grosser | Device for the noiseless return of the paper sledge of typewriters or the like. |
 | [DE746293](DE746293.md) | 1944-06-28 |  | Locking device for complementary vertical counters, in particular for typewriters equipped with sum train and. like |
-| [DE909940](DE909940.md) | 1944-06-28 |  | Control device on electric typewriters with billing device |
+| [DE909940](DE909940.md) | 1944-06-28 | Corp, Underwood | Control device on electric typewriters with billing device |
 | [DE746268](DE746268.md) | 1944-07-11 |  | Typewriter, calculating machine or the like. with automatic summation device |
-| [DE746234](DE746234.md) | 1944-07-29 |  | Paper feed for booking machines |
+| [DE746234](DE746234.md) | 1944-07-29 | H, Powers G M B | Paper feed for booking machines |
 | [DE746412](DE746412.md) | 1944-08-01 | Wares, Bryce James | Durch ein Filmband gesteuerte registrierende Geschaeftsmaschine |
 | [DE746411](DE746411.md) | 1944-08-05 | Andreas, Knutsen Knut | Druckvorrichtung fuer durch Registrierkarten oder Registrierstreifen gesteuerte Maschinen |
 | [DE876849](DE876849.md) | 1944-08-20 | Koreska, Robert | Ribbon reel |
 | [DE746720](DE746720.md) | 1944-08-21 | Haberfeld, Erwin O | Device on typewriters for introducing forms u. like |
 | [DE746802](DE746802.md) | 1944-08-25 |  | Device for intercepting the traversing trolley on typewriters or the like. |
 | [DE746803](DE746803.md) | 1944-08-25 | Fritzsche, Albert | Vorrichtung zum selbsttätigen Wiederholen der Schrittschaltung des Papierwagens, insbesondere für rechnende Schreibmaschinen. |
-| [DE963431](DE963431.md) | 1944-08-28 |  | Segment guidance on typewriters |
+| [DE963431](DE963431.md) | 1944-08-28 | H, Adlerwerke Kleyer Ag | Segment guidance on typewriters |
 | [DE754375](DE754375.md) | 1944-08-31 | Koreska, Wilhelm Wien | Einrichtung zur Regeneration von Farbbändern für Schreibmaschinen o. dgl. |
 | [DE746947](DE746947.md) | 1944-09-01 |  | Locking device for the summation control members on typewriters u. Like., In particular for typewriters equipped with Su mmenzug. |
 | [DE747006](DE747006.md) | 1944-09-04 | Neisse, Paul | Vorrichtung zur Verhinderung des Typenanschlages an Schreibrechenmaschinen (Buchungsmaschinen) |
@@ -9930,16 +10113,16 @@ Every patent in the library, oldest first.
 | [DE747072](DE747072.md) | 1944-09-06 | Haberfeld, Erwin O | Tastenfeld fuer 10-Tasten-Rechen- u. dgl. Maschinen |
 | [DE747076](DE747076.md) | 1944-09-06 |  | Typewriter or the like |
 | [DE747162](DE747162.md) | 1944-09-11 | Graeve, Martha Meyer Geb | Methods and devices for inserting characters on the typewriter |
-| [DE747222](DE747222.md) | 1944-09-15 |  | Einrichtung zum Unterbrechen des selbsttaetigen Nullendruckes bei Rechen- oder Buchungsmaschinen |
-| [DE920304](DE920304.md) | 1944-09-20 |  | Insertion device for typewriters, calculating and accounting machines |
+| [DE747222](DE747222.md) | 1944-09-15 | Ag, Wanderer Werke | Einrichtung zum Unterbrechen des selbsttaetigen Nullendruckes bei Rechen- oder Buchungsmaschinen |
+| [DE920304](DE920304.md) | 1944-09-20 | H, Adlerwerke Kleyer Ag | Insertion device for typewriters, calculating and accounting machines |
 | [DE747404](DE747404.md) | 1944-09-25 | Grauvogl, Friedrich Ludwig | Eraser for machine writing and technical drawings |
-| [DE747444](DE747444.md) | 1944-09-25 |  | Einrichtung zum Anhalten des Papierwagens von Buchungs- oder aehnlichen Bueromaschinen in gewuenschten Spaltenstellungen |
+| [DE747444](DE747444.md) | 1944-09-25 | Ag, Wanderer Werke | Einrichtung zum Anhalten des Papierwagens von Buchungs- oder aehnlichen Bueromaschinen in gewuenschten Spaltenstellungen |
 | [DE747754](DE747754.md) | 1944-10-13 |  | Counter for typewriters |
 | [DE747755](DE747755.md) | 1944-10-13 | Schomburg, Rudolf | Zaehlwerksantrieb fuer Rechenmaschinen mit formschluessiger Antriebsverbindung |
 | [DE747832](DE747832.md) | 1944-10-18 |  | Typewriter |
-| [DE747834](DE747834.md) | 1944-10-18 |  | Registrierkasse oder Buchungsmaschine |
-| [DE748410](DE748410.md) | 1944-11-02 |  | Druckwerk fuer Buchungsmaschinen, Registrierkassen o. dgl. |
-| [DE748777](DE748777.md) | 1944-11-09 |  | Cash register or accounting machine |
+| [DE747834](DE747834.md) | 1944-10-18 | Co, Ncr | Registrierkasse oder Buchungsmaschine |
+| [DE748410](DE748410.md) | 1944-11-02 | Co, Ncr | Druckwerk fuer Buchungsmaschinen, Registrierkassen o. dgl. |
+| [DE748777](DE748777.md) | 1944-11-09 | Co, Ncr | Cash register or accounting machine |
 | [DE749098](DE749098.md) | 1944-11-16 |  | Druckende Rechenmaschine |
 | [DE745735](DE745735.md) | 1944-11-30 |  | Vorrichtung, insbesondere fuer Schreibrechenmaschinen, zum selbsttaetigen Wiederholen der Schrittschaltung des Papierwagens |
 | [DE876481](DE876481.md) | 1944-12-04 | Perosa, Riv Officine Di Villar | Inking device for printing machines, especially for calculating machines, &hellip; |
@@ -9948,155 +10131,161 @@ Every patent in the library, oldest first.
 | [DE920011](DE920011.md) | 1944-12-12 | Ludwig, Karl | Paper guiding device for shearing machines or the like. |
 | [DE749891](DE749891.md) | 1944-12-15 | Reininghaus, Hans | Typewriter with a type wheel |
 | [DE749716](DE749716.md) | 1944-12-17 |  | Counter for typewriters with automatic totalizer |
-| [DE749605](DE749605.md) | 1944-12-19 |  | Printing unit for cash registers or accounting machines |
-| [DE974020](DE974020.md) | 1944-12-23 |  | Punch card controlled printing machine |
+| [DE749605](DE749605.md) | 1944-12-19 | Co, Ncr | Printing unit for cash registers or accounting machines |
+| [DE974020](DE974020.md) | 1944-12-23 | H, Remington Rand G M B | Punch card controlled printing machine |
 | [DE750304](DE750304.md) | 1945-01-05 |  | Totgangausgleichsvorrichtung im Vorschubantrieb von Fraesmaschinen |
 | [DE750483](DE750483.md) | 1945-01-18 | -, Loerbroks Otto | Tabulator for electromagnetically driven typewriters, accounting machines and &hellip; |
-| [DE919788](DE919788.md) | 1945-02-13 |  | Paper roll storage for office machines |
-| [DE973955](DE973955.md) | 1945-03-29 |  | Latching device on writing office machines |
+| [DE919788](DE919788.md) | 1945-02-13 | Ag, Brunsviga Maschinenwerke | Paper roll storage for office machines |
+| [DE973955](DE973955.md) | 1945-03-29 | Ag, Ruf Buchhaltung | Latching device on writing office machines |
 | [DE974176](DE974176.md) | 1945-07-04 | In, Graphic Arts Res Foundation | Installation on key-operated electric typewriters |
 | [DE974970](DE974970.md) | 1945-08-09 | Deutschland, Ibm | Program-controlled drive for forms to be labeled in alphabetical tabulating or &hellip; |
 | [DE910543](DE910543.md) | 1945-08-21 | Kunze, Fritz | Device for adjusting the paper cart in relation to the rack on typewriters |
 | [DE965087](DE965087.md) | 1945-09-05 | Deutschland, Ibm | Arrangement for column-wise punching of payment cards |
 | [DE909101](DE909101.md) | 1945-09-13 | Effinger, Cecil Stanley | Note typewriter |
-| [DE973830](DE973830.md) | 1945-09-30 |  | Method and device for producing a visible sign on a writing medium |
-| [DE875419](DE875419.md) | 1945-10-05 |  | Calculating machine or the like. |
-| [DE925115](DE925115.md) | 1945-11-19 |  | Carriage switching device for a typewriter with variable switching step and &hellip; |
+| [DE973830](DE973830.md) | 1945-09-30 | Ltd, Int Computers & Tabulators | Method and device for producing a visible sign on a writing medium |
+| [DE875419](DE875419.md) | 1945-10-05 | Co, Burroughs Adding Machine | Calculating machine or the like. |
+| [DE925115](DE925115.md) | 1945-11-19 | Corp, Ralph C Coxhead | Carriage switching device for a typewriter with variable switching step and &hellip; |
 | [DE974314](DE974314.md) | 1945-12-21 | Deutschland, Ibm | Additional device for power-driven typewriters to automatically write down &hellip; |
 | [DE974383](DE974383.md) | 1946-01-24 | Deutschland, Ibm | Arrangement for the independent production of documents using a typewriter |
 | [USD144164](USD144164.md) | 1946-03-19 | Dreyfuss, Henry | Design for a Typewriting Machine |
 | [DE922774](DE922774.md) | 1946-04-17 | Yutang, Lin | Method and device for machine writing, typesetting or otherwise rendering of &hellip; |
 | [DE918235](DE918235.md) | 1946-04-29 | Hofgaard, Rolf | Adjustment device of type wheels for cash registers, calculators or. like &hellip; |
-| [DE901006](DE901006.md) | 1946-06-27 |  | Accounting machine |
-| [DE831165](DE831165.md) | 1946-07-10 |  | Ribbon inking device |
-| [DE917878](DE917878.md) | 1946-07-16 |  | Device for selecting and automatically conveying cardboard boxes according to &hellip; |
-| [DE947799](DE947799.md) | 1946-07-30 |  | Tabulation device for a typewriter, especially a booking machine, with a fixed &hellip; |
+| [DE901006](DE901006.md) | 1946-06-27 | Corp, Underwood | Accounting machine |
+| [DE831165](DE831165.md) | 1946-07-10 | Co, Ncr | Ribbon inking device |
+| [DE917878](DE917878.md) | 1946-07-16 | H, Aeg Fahrkartendrucker G M B | Device for selecting and automatically conveying cardboard boxes according to &hellip; |
+| [DE947799](DE947799.md) | 1946-07-30 | H, Adlerwerke Kleyer Ag | Tabulation device for a typewriter, especially a booking machine, with a fixed &hellip; |
 | [DE975336](DE975336.md) | 1946-09-08 | Eibert, Friedrich | Type lever drive for electrically powered typewriters |
 | [DE938312](DE938312.md) | 1946-10-13 | Kaeppler, Paul | Type lever gear for rocker arm typewriters, especially those with segment &hellip; |
 | [DE1001518](DE1001518.md) | 1946-11-06 | Deutschland, Ibm | Printing device for point-by-point composition of signals or characters |
-| [DE971035](DE971035.md) | 1946-11-22 |  | Additional device for typewriters for writing on paper webs |
-| [DE873914](DE873914.md) | 1946-12-11 |  | Device for adjusting limbs of an office machine |
+| [DE971035](DE971035.md) | 1946-11-22 | Ltd, Lamson Paragon | Additional device for typewriters for writing on paper webs |
+| [DE873914](DE873914.md) | 1946-12-11 | H, Remington Rand G M B | Device for adjusting limbs of an office machine |
 | [DE938671](DE938671.md) | 1947-01-18 | Tombolini, Alfredo | Type lever drive for typewriters |
 | [DE843702](DE843702.md) | 1947-02-04 | Anstalt, Renor | Paper guiding device on lever type typewriters |
 | [DE850754](DE850754.md) | 1947-02-04 | Anstalt, Renor | Touch mechanism on typewriters |
-| [DE873703](DE873703.md) | 1947-02-09 |  | Portable typewriter |
+| [DE873703](DE873703.md) | 1947-02-09 | Brose, & Co Metallwerk Max | Portable typewriter |
 | [DE1011190](DE1011190.md) | 1947-03-04 | Deutschland, Ibm | Form setup controlled by payment cards |
-| [DE969780](DE969780.md) | 1947-03-17 |  | Line setting and line switching device for cash registers, accounting machines &hellip; |
-| [DE911373](DE911373.md) | 1947-03-21 |  | Drive device for the type carrier of a power-driven typewriter |
+| [DE969780](DE969780.md) | 1947-03-17 | Ag, Anker Werke | Line setting and line switching device for cash registers, accounting machines &hellip; |
+| [DE911373](DE911373.md) | 1947-03-21 | Corp, Underwood | Drive device for the type carrier of a power-driven typewriter |
 | [DE1012930](DE1012930.md) | 1947-03-25 | Tomitz, Johann | Flat, portable typewriter |
-| [DE969675](DE969675.md) | 1947-03-27 |  | Line setting and line switching device for cash registers, accounting and &hellip; |
-| [DE856155](DE856155.md) | 1947-03-29 |  | Additional device for typewriters to make copies on several paper webs one on &hellip; |
-| [DE830650](DE830650.md) | 1947-05-16 |  | Line switching for address printing plate holders on stamping machines |
-| [DE969056](DE969056.md) | 1947-05-22 |  | Printing unit for high-speed calculating machines and like |
-| [DE846697](DE846697.md) | 1947-05-29 |  | Guide of the slide for address printing plate holder on embossing machines |
+| [DE969675](DE969675.md) | 1947-03-27 | Ag, Anker Werke | Line setting and line switching device for cash registers, accounting and &hellip; |
+| [DE856155](DE856155.md) | 1947-03-29 | Ltd, Messrs Egry | Additional device for typewriters to make copies on several paper webs one on &hellip; |
+| [DE830650](DE830650.md) | 1947-05-16 | H, Adrema Maschb G M B | Line switching for address printing plate holders on stamping machines |
+| [DE969056](DE969056.md) | 1947-05-22 | Ag, Olympia Werke | Printing unit for high-speed calculating machines and like |
+| [DE846697](DE846697.md) | 1947-05-29 | H, Adrema Maschb G M B | Guide of the slide for address printing plate holder on embossing machines |
 | [DE846698](DE846698.md) | 1947-05-29 | Deutschland, Ibm | Device for guiding and aligning writing pads on writing rollers |
 | [DE968905](DE968905.md) | 1947-06-05 | Deutschland, Ibm | Type lever movement device for writing works of business machines |
-| [DE847601](DE847601.md) | 1947-06-17 |  | Ribbon feeding and switching device for statistical and other machines |
+| [DE847601](DE847601.md) | 1947-06-17 | Ltd, Powers Samas Account Mach | Ribbon feeding and switching device for statistical and other machines |
 | [DE893653](DE893653.md) | 1947-06-25 | Deutschland, Ibm | Device for type basket switching for type lever writing units |
 | [DE848281](DE848281.md) | 1947-07-18 | Machines, Bull Sa | Device for conveying the ribbon for printing devices or printing machines |
 | [DE873025](DE873025.md) | 1947-08-23 | Strahm, Robert | Impeller brakes, in particular for braking the trolley of office machines |
-| [DE971816](DE971816.md) | 1947-08-29 |  | Paper guidance on office machines, in particular typewriters |
-| [DE972010](DE972010.md) | 1947-11-07 |  | Car jumping device on office machines, e.g. B. Typewriters |
+| [DE971816](DE971816.md) | 1947-08-29 | H, Adlerwerke Kleyer Ag | Paper guidance on office machines, in particular typewriters |
+| [DE972010](DE972010.md) | 1947-11-07 | H, Adlerwerke Kleyer Ag | Car jumping device on office machines, e.g. B. Typewriters |
 | [DE885093](DE885093.md) | 1947-11-08 | Ettmueller, Walter | Protective device provided for erasing purposes on typewriters and similar &hellip; |
-| [DE818366](DE818366.md) | 1947-11-12 |  | Ribbon fork for typewriters |
-| [DE872517](DE872517.md) | 1948-01-16 |  | Coloring device for type wheels, especially for telegraph devices |
-| [DE907416](DE907416.md) | 1948-02-16 |  | Tabulator for typewriters |
-| [DE915089](DE915089.md) | 1948-03-16 |  | Die for embossing underlines |
-| [DE823298](DE823298.md) | 1948-04-13 |  | Switching device for the paper trolley of typewriters |
-| [DE891268](DE891268.md) | 1948-04-16 |  | Power-driven paper trolley elevator for typewriters u. like |
-| [DE805882](DE805882.md) | 1948-05-25 |  | Rail anchor |
+| [DE818366](DE818366.md) | 1947-11-12 | Inc, Remington Rand | Ribbon fork for typewriters |
+| [DE872517](DE872517.md) | 1948-01-16 | Ag, Lorenz C | Coloring device for type wheels, especially for telegraph devices |
+| [DE907416](DE907416.md) | 1948-02-16 | Corp, Underwood | Tabulator for typewriters |
+| [DE915089](DE915089.md) | 1948-03-16 | Beschraen, Adrema Werke Ges Mit | Die for embossing underlines |
+| [DE823298](DE823298.md) | 1948-04-13 | U, Torpedo Werke A G Fahrraeder | Switching device for the paper trolley of typewriters |
+| [DE891268](DE891268.md) | 1948-04-16 | Inc, Royal Typewriter Co | Power-driven paper trolley elevator for typewriters u. like |
+| [DE805882](DE805882.md) | 1948-05-25 | Ltd, P & M Co England | Rail anchor |
 | [DE907225](DE907225.md) | 1948-05-27 | Deutschland, Ibm | Arrangement for feeding two paper webs |
 | [DE940497](DE940497.md) | 1948-05-27 | Deutschland, Ibm | Feed and pre-plug device for printing business machines, especially for &hellip; |
-| [DE976470](DE976470.md) | 1948-06-26 |  | Line switching device for booking machines |
-| [DE883765](DE883765.md) | 1948-06-29 |  | Device for writing on paper webs with a retractable carbon sheet holder |
+| [DE976470](DE976470.md) | 1948-06-26 | Co, Ncr | Line switching device for booking machines |
+| [DE883765](DE883765.md) | 1948-06-29 | Ltd, Egry | Device for writing on paper webs with a retractable carbon sheet holder |
 | [DE975956](DE975956.md) | 1948-07-08 | Deutschland, Ibm | Switching device on printing office machines with type lever gears, especially &hellip; |
-| [DE812916](DE812916.md) | 1948-07-16 |  | Device on a typewriter equipped with a switch for releasing type levers that &hellip; |
-| [DE883814](DE883814.md) | 1948-07-16 |  | Type bar with type capsule for booking machines |
-| [DE905374](DE905374.md) | 1948-07-16 |  | Additional device for a typewriter and recording machine |
-| [DE890277](DE890277.md) | 1948-07-17 |  | Printing unit for accounting and similar calculating machines |
-| [DE837854](DE837854.md) | 1948-09-02 |  | Typewriter tape for use in making visible records |
+| [DE812916](DE812916.md) | 1948-07-16 | G, Torpedo Werke A | Device on a typewriter equipped with a switch for releasing type levers that &hellip; |
+| [DE883814](DE883814.md) | 1948-07-16 | Ag, Zeiss Ikon | Type bar with type capsule for booking machines |
+| [DE905374](DE905374.md) | 1948-07-16 | Ltd, Lamson Paragon Supply Co | Additional device for a typewriter and recording machine |
+| [DE890277](DE890277.md) | 1948-07-17 | Co, Ncr | Printing unit for accounting and similar calculating machines |
+| [DE837854](DE837854.md) | 1948-09-02 | Co, Ncr | Typewriter tape for use in making visible records |
 | [DE826078](DE826078.md) | 1948-09-15 | Machines, Bull Sa | Locking device for registration card machines |
 | [DE889699](DE889699.md) | 1948-09-20 | Deutschland, Ibm | Printing device for punched card machines, preferably card punching machines |
 | [DE1086072](DE1086072.md) | 1948-10-01 | Dirks, Gerhard | Correction device on writing or printing machines |
 | [DE1113945](DE1113945.md) | 1948-10-01 | Dirks, Gerhard | Facility for creating and writing down message sequences |
-| [DE815859](DE815859.md) | 1948-10-01 |  | Ribbon switching device for cash registers, calculating, accounting or similar &hellip; |
+| [DE815859](DE815859.md) | 1948-10-01 | Ag, Anker Werke | Ribbon switching device for cash registers, calculating, accounting or similar &hellip; |
 | [DE821065](DE821065.md) | 1948-10-01 | Elmqvist, Rune Med | Writing meter |
-| [DE826444](DE826444.md) | 1948-10-01 |  | Office machine, in particular calculating machine |
-| [DE830658](DE830658.md) | 1948-10-01 |  | Auxiliary paper trolleys on typewriters, calculating or accounting machines |
-| [DE844457](DE844457.md) | 1948-10-01 |  | Ratchet clutch for typewriters and calculators |
+| [DE826444](DE826444.md) | 1948-10-01 | G, Brunsviga Maschinenwerke A | Office machine, in particular calculating machine |
+| [DE830658](DE830658.md) | 1948-10-01 | Ag, Anker Werke | Auxiliary paper trolleys on typewriters, calculating or accounting machines |
+| [DE844457](DE844457.md) | 1948-10-01 | Ag, Triumph Werke Nuernberg | Ratchet clutch for typewriters and calculators |
 | [DE809200](DE809200.md) | 1948-10-02 | Denck, Oscar | Typewriter with upright platen |
-| [DE812790](DE812790.md) | 1948-10-02 |  | Printing device for the simultaneous printing of several type wheels |
+| [DE812790](DE812790.md) | 1948-10-02 | G, Siemens & Halske A | Printing device for the simultaneous printing of several type wheels |
 | [DE814304](DE814304.md) | 1948-10-02 | Hell, Rudolf - | Inking device |
-| [DE819243](DE819243.md) | 1948-10-02 |  | Spring winding mechanism, especially for the plate holder trolley of stamping &hellip; |
-| [DE821944](DE821944.md) | 1948-10-02 |  | Device for projecting typed characters while writing |
+| [DE819243](DE819243.md) | 1948-10-02 | H, Adrema Maschb G M B | Spring winding mechanism, especially for the plate holder trolley of stamping &hellip; |
+| [DE821944](DE821944.md) | 1948-10-02 | S, Optische Werke C A Steinheil | Device for projecting typed characters while writing |
 | [DE825691](DE825691.md) | 1948-10-02 | Beckmann, Carl | typewriter |
-| [DE834609](DE834609.md) | 1948-10-02 |  | Adjustment device for printing units on cash registers, calculating machines, &hellip; |
-| [DE856443](DE856443.md) | 1948-10-02 |  | Type lever drive for typewriters with segment switching |
+| [DE834609](DE834609.md) | 1948-10-02 | Ag, Anker Werke | Adjustment device for printing units on cash registers, calculating machines, &hellip; |
+| [DE856443](DE856443.md) | 1948-10-02 | Ag, Triumph Werke Nuernberg | Type lever drive for typewriters with segment switching |
 | [DE871603](DE871603.md) | 1948-10-04 | Colombo, Achille | typewriter |
 | [DE810986](DE810986.md) | 1948-10-28 | Dietrich, Karl | Typewriter pad |
-| [DE838755](DE838755.md) | 1948-11-02 |  | Line setting device for typewriters |
-| [DE914011](DE914011.md) | 1948-11-07 |  | End-of-line locking device on a powered typewriter |
+| [JP178253](JP178253.md) | 1948-10-29 | Kobayashi, Kaichi | Typewriter |
+| [DE838755](DE838755.md) | 1948-11-02 | Brose, & Co Metallwerk Max | Line setting device for typewriters |
+| [DE914011](DE914011.md) | 1948-11-07 | Corp, Underwood | End-of-line locking device on a powered typewriter |
 | [DE813034](DE813034.md) | 1948-11-11 | Fa, Oskar A Ringleb | Device for refreshing used color ribbons |
-| [DE806676](DE806676.md) | 1948-11-13 |  | Ribbon for writing and similar machines |
-| [DE851641](DE851641.md) | 1948-11-16 |  | Combination of printing ink carrier and printing surface |
-| [DE973056](DE973056.md) | 1948-11-16 |  | Statistical machine controlled by punch cards |
+| [DE806676](DE806676.md) | 1948-11-13 | Buer, Greif Werke Vorm Deutsche | Ribbon for writing and similar machines |
+| [DE851641](DE851641.md) | 1948-11-16 | Co, Ncr | Combination of printing ink carrier and printing surface |
+| [DE973056](DE973056.md) | 1948-11-16 | Ltd, Powers Samas Account Mach | Statistical machine controlled by punch cards |
 | [DE839130](DE839130.md) | 1948-11-25 | Deutschland, Ibm | Printing unit for machines controlled by punch cards |
-| [DE913898](DE913898.md) | 1948-12-01 |  | Power driven billing device on typewriters |
-| [DE806550](DE806550.md) | 1948-12-04 |  | Platen for typewriters and calculating machines |
-| [DE801725](DE801725.md) | 1948-12-07 |  | Protective cover for small typewriters |
-| [DE842137](DE842137.md) | 1948-12-13 |  | Device for controlling the printing mechanism of calculating or statistical &hellip; |
-| [DE801724](DE801724.md) | 1948-12-14 |  | Swing key for typewriters, accounting machines and calculating machines |
-| [DE810985](DE810985.md) | 1948-12-14 |  | Line switch for typewriters |
+| [DE913898](DE913898.md) | 1948-12-01 | Corp, Underwood | Power driven billing device on typewriters |
+| [DE806550](DE806550.md) | 1948-12-04 | H, Olympia Werke West G M B | Platen for typewriters and calculating machines |
+| [DE801725](DE801725.md) | 1948-12-07 | P, Gossen & Co G M B H | Protective cover for small typewriters |
+| [DE842137](DE842137.md) | 1948-12-13 | Ltd, Powers Samas Account Mach | Device for controlling the printing mechanism of calculating or statistical &hellip; |
+| [DE801724](DE801724.md) | 1948-12-14 | P, Gossen & Co G M B H | Swing key for typewriters, accounting machines and calculating machines |
+| [DE810985](DE810985.md) | 1948-12-14 | P, Gossen & Co G M B H | Line switch for typewriters |
 | [DE815560](DE815560.md) | 1948-12-14 | Admi, Nuernberg Fuerther Ind Us | Device for line switching of the paper strip in writing calculators |
 | [DE833965](DE833965.md) | 1948-12-21 | V, Halberg Machf N | Device on the car switchgear for typewriters to eliminate the ratchet noise &hellip; |
-| [DE851068](DE851068.md) | 1948-12-24 |  | Line switch device for writing office machines |
-| [DE851069](DE851069.md) | 1948-12-26 |  | Document conveyor device for typing, calculating or accounting machines |
-| [DE805876](DE805876.md) | 1948-12-28 |  | Detachable locking of the in the side walls of writing, booking u. Like. |
-| [DE804103](DE804103.md) | 1948-12-29 |  | Switching lock with car freewheel on writing, booking u. like machines |
-| [DE809815](DE809815.md) | 1948-12-29 |  | Type lever drive for writing, booking u. like machines |
+| [DE851068](DE851068.md) | 1948-12-24 | A, Olympia Bueromaschinenwerke | Line switch device for writing office machines |
+| [DE851069](DE851069.md) | 1948-12-26 | Co, Ncr | Document conveyor device for typing, calculating or accounting machines |
+| [DE805876](DE805876.md) | 1948-12-28 | G, Siemag Siegener Maschb A | Detachable locking of the in the side walls of writing, booking u. Like. |
+| [DE804103](DE804103.md) | 1948-12-29 | Ges, Siemag Siegener Maschb Akt | Switching lock with car freewheel on writing, booking u. like machines |
+| [DE809815](DE809815.md) | 1948-12-29 | Ag, Siemag Siegener Maschb | Type lever drive for writing, booking u. like machines |
 | [DE900940](DE900940.md) | 1948-12-29 | M, Siemag Vertriebsgesellschaft | Roller freewheel for writing, booking u. like machines |
-| [DE801726](DE801726.md) | 1948-12-31 |  | Locking device for protective covers of typewriters or similar devices |
+| [DE801726](DE801726.md) | 1948-12-31 | P, Gossen & Co G M B H | Locking device for protective covers of typewriters or similar devices |
 | [DE830656](DE830656.md) | 1949-01-14 | Sa, Rooy | Writing device for portable typewriters |
 | [DE840094](DE840094.md) | 1949-01-24 | V, Halberg Machf N | Car back transport on typewriters |
 | [DE913652](DE913652.md) | 1949-01-24 | Bueb, Josef | Method of making a copy on a typewriter |
 | [DE820008](DE820008.md) | 1949-02-01 | Milbradt, Louise | Color machine for typewriters with rocker arms |
-| [DE900885](DE900885.md) | 1949-02-02 |  | Machine for printing and issuing tickets and the like like |
-| [DE892079](DE892079.md) | 1949-02-06 |  | Process for the tested punching of punch cards |
+| [DE900885](DE900885.md) | 1949-02-02 | Ltd, Bell Punch Co | Machine for printing and issuing tickets and the like like |
+| [DE892079](DE892079.md) | 1949-02-06 | &Hellip, Ibm Deutschland Internationale Büro Maschinen Gesellschaft M.B.H. Sindelfingen | Process for the tested punching of punch cards |
 | [DE829897](DE829897.md) | 1949-02-16 | Lennartz, Walter | Protector for typewriter rollers |
 | [DE857450](DE857450.md) | 1949-02-23 | Deutschland, Ibm | Ribbon transport and switching device, preferably for evaluation or printing &hellip; |
 | [DE824637](DE824637.md) | 1949-02-25 | Trullemans, Eugen | Device intended for repositioning a typewriter paper slide and for tensioning &hellip; |
 | [DE871085](DE871085.md) | 1949-03-01 | Deutschland, Ibm | Arrangement for setting the printing device on business machines |
-| [DE807626](DE807626.md) | 1949-03-05 |  | Automatic ribbon switching on typewriters and similar machines |
-| [DE1071719](DE1071719.md) | 1949-03-08 | A.), Burroughs Corporation Detroit Mich. (V. St. | Electromagnetic device for controlling the printing wires of a z. B. by punch &hellip; |
-| [DE829896](DE829896.md) | 1949-03-16 |  | Arrangement of the lower paper guide rollers on the platen of office machines |
-| [DE809201](DE809201.md) | 1949-03-24 |  | Control key for office machines, especially typewriters |
+| [DE807626](DE807626.md) | 1949-03-05 | P, Gossen & Co Gmbh | Automatic ribbon switching on typewriters and similar machines |
+| [DE1071719](DE1071719.md) | 1949-03-08 |  | Electromagnetic device for controlling the printing wires of a z. B. by punch &hellip; |
+| [DE829896](DE829896.md) | 1949-03-16 | G, Torpedo Werke A | Arrangement of the lower paper guide rollers on the platen of office machines |
+| [DE809201](DE809201.md) | 1949-03-24 | H, Olympia Werke West G M B | Control key for office machines, especially typewriters |
 | [DE1141409](DE1141409.md) | 1949-04-01 | Pont, Du | Method and device for cold stretching of threads, thread bundles or the like &hellip; |
 | [DE828553](DE828553.md) | 1949-04-01 | Boni, Alessandro | Key mechanism, especially for typewriters |
-| [DE818870](DE818870.md) | 1949-04-05 |  | Device on recording measuring devices |
+| [DE818870](DE818870.md) | 1949-04-05 | Bosch, Gmbh Robert | Device on recording measuring devices |
 | [DE886917](DE886917.md) | 1949-04-10 | Colombo, Achille | typewriter |
 | [DE812917](DE812917.md) | 1949-04-14 | Herling, Hans | Lighting device for typewriters or similar office machines |
-| [DE832442](DE832442.md) | 1949-04-14 |  | Device for forwarding and setting a forwarding sheet on writing and similar &hellip; |
+| [DE832442](DE832442.md) | 1949-04-14 | G, Karl Endrich A | Device for forwarding and setting a forwarding sheet on writing and similar &hellip; |
 | [DE968505](DE968505.md) | 1949-04-19 | Perosa, Riv Officine Di Villar | Device for the automatic reversal of the ribbon drive direction in printing &hellip; |
 | [DE830657](DE830657.md) | 1949-04-25 | Sa, Paillard | Display device for margin stops on typewriters |
-| [DE836042](DE836042.md) | 1949-04-26 |  | typewriter |
-| [DE900756](DE900756.md) | 1949-04-26 |  | Printing unit for booking machines |
+| [DE836042](DE836042.md) | 1949-04-26 | W, Kuester & Co K G | typewriter |
+| [DE900756](DE900756.md) | 1949-04-26 | Ag, Anker Werke | Printing unit for booking machines |
 | [DE833045](DE833045.md) | 1949-04-27 | Sa, Paillard | Device on typewriters for reversing the direction of movement of the paper &hellip; |
+| [JP366048](JP366048.md) | 1949-04-28 | Nakata, Tōzaburō | Type holder for a simple typewriter |
 | [DE836043](DE836043.md) | 1949-05-03 | Mueller, Hubert | Type cleaner for typewriters |
-| [DE870860](DE870860.md) | 1949-05-05 |  | Numbering hammer for drawing wood and tree trunks with a rotatable single disc &hellip; |
-| [DE891843](DE891843.md) | 1949-05-06 |  | Ribbon guide and drive device for typewriters and similar machines |
-| [DE850530](DE850530.md) | 1949-05-19 |  | Type element as printing form |
-| [DE850454](DE850454.md) | 1949-06-01 |  | Paper slides for office machines, e.g. B. Typewriters |
-| [DE801638](DE801638.md) | 1949-06-02 |  | Roller freewheel on typewriters, accounting machines and calculating machines |
-| [DE802075](DE802075.md) | 1949-06-02 |  | Stand for small typewriters |
+| [DE870860](DE870860.md) | 1949-05-05 | H, Friedrich Heidenpeter G M B | Numbering hammer for drawing wood and tree trunks with a rotatable single disc &hellip; |
+| [DE891843](DE891843.md) | 1949-05-06 | Corp, Underwood | Ribbon guide and drive device for typewriters and similar machines |
+| [JP180245](JP180245.md) | 1949-05-06 | Kataoka, Kōtarō | Typewriter return (back-feed) device |
+| [JP180246](JP180246.md) | 1949-05-06 | Kataoka, Kōtarō | Typewriter feed-changing device |
+| [JP366260](JP366260.md) | 1949-05-06 | Nakata, Tōzaburō | Platen sideways-feed device in a simple typewriter |
+| [DE850530](DE850530.md) | 1949-05-19 | Co, Ncr | Type element as printing form |
+| [DE850454](DE850454.md) | 1949-06-01 | A, Olympia Bueromaschinenwerke | Paper slides for office machines, e.g. B. Typewriters |
+| [DE801638](DE801638.md) | 1949-06-02 | P, Gossen & Co G M B H | Roller freewheel on typewriters, accounting machines and calculating machines |
+| [DE802075](DE802075.md) | 1949-06-02 | P, Gossen & Co G M B H | Stand for small typewriters |
 | [DE820068](DE820068.md) | 1949-06-03 | Bittner, Franz | Process for the production of monolithic masonry between removable formwork and &hellip; |
-| [DE866858](DE866858.md) | 1949-06-04 |  | Process for the production of compression wheels |
+| [JP180679](JP180679.md) | 1949-06-03 | Kataoka, Kōtarō | Actuating device for a Japanese-script typewriter |
+| [DE866858](DE866858.md) | 1949-06-04 | Co, Ncr | Process for the production of compression wheels |
 | [DE866944](DE866944.md) | 1949-06-10 | Ziegler, Kurt | Template holder for typewriters, accounting and calculating machines or the &hellip; |
-| [DE1081256](DE1081256.md) | 1949-06-14 |  | Print hammer drive for calculating machines |
-| [DE906460](DE906460.md) | 1949-06-25 |  | Type lever movement device for electrically powered typewriters |
-| [DE906461](DE906461.md) | 1949-06-25 |  | Friction disc clutch for car lift devices of office machines |
+| [DE1081256](DE1081256.md) | 1949-06-14 | Corp, Burroughs | Print hammer drive for calculating machines |
+| [DE906460](DE906460.md) | 1949-06-25 | Inc, Remington Rand | Type lever movement device for electrically powered typewriters |
+| [DE906461](DE906461.md) | 1949-06-25 | H, Remington Rand G M B | Friction disc clutch for car lift devices of office machines |
 | [DE850300](DE850300.md) | 1949-06-26 | Deutschland, Ibm | Edge limiting device on typewriters and similar machines |
 | [DE884809](DE884809.md) | 1949-06-28 | Sa, Paillard | Document holder on typewriters |
-| [DE867249](DE867249.md) | 1949-06-30 |  | Downshift device for the car on typewriters |
+| [DE867249](DE867249.md) | 1949-06-30 | Schrei, Aug Birchmeier S Soehne | Downshift device for the car on typewriters |
 | [DE867250](DE867250.md) | 1949-06-30 | Sa, Paillard | Support for typewriter type lever in the rest position |
 | [DE884808](DE884808.md) | 1949-06-30 | Kuentzel, Hellmuth | Lever for office machines, especially typewriters |
 | [DE887201](DE887201.md) | 1949-06-30 | Kuentzel, Hellmuth | Lever for office machines, especially typewriters |
@@ -10104,102 +10293,105 @@ Every patent in the library, oldest first.
 | [DE905140](DE905140.md) | 1949-06-30 | Kuentzel, Hellmuth | Drive device for type levers on typewriters |
 | [DE912571](DE912571.md) | 1949-06-30 | Kuentzel, Hellmuth | Spring-loaded stop for the type levers of office machines |
 | [DE912933](DE912933.md) | 1949-06-30 | Kuentzel, Hellmuth | Type lever for typewriters u. like |
-| [DE867548](DE867548.md) | 1949-07-19 |  | Typewriter with hinged and removable cover |
+| [JP367759](JP367759.md) | 1949-07-15 | Nakata, Tōzaburō | Platen sideways-feed device in a typewriter |
+| [DE867548](DE867548.md) | 1949-07-19 | Ag, Triumph Werke Nuernberg | Typewriter with hinged and removable cover |
 | [DE867760](DE867760.md) | 1949-08-02 | Deutschland, Ibm | Printing device for calculating and accounting machines |
-| [DE850009](DE850009.md) | 1949-08-14 |  | Paper trolley switching device for office machines, especially typewriters |
-| [DE903340](DE903340.md) | 1949-08-16 |  | Device for especially power-driven typewriters for the variable setting of the &hellip; |
+| [DE850009](DE850009.md) | 1949-08-14 | H, Olympia Werke West G M B | Paper trolley switching device for office machines, especially typewriters |
+| [DE903340](DE903340.md) | 1949-08-16 | Inc, Royal Typewriter Co | Device for especially power-driven typewriters for the variable setting of the &hellip; |
 | [USD154849](USD154849.md) | 1949-08-16 | Hertz, Henry C. | Design for a Toy Typewriter |
 | [DE867997](DE867997.md) | 1949-08-18 | Zehnder, August | Type cleaner for office machines |
 | [DE842796](DE842796.md) | 1949-08-19 | Deutschland, Ibm | Automatic ribbon reversal device for writing and printing units |
 | [DE842207](DE842207.md) | 1949-08-25 | Broecker, Ludwine | Type setting device |
-| [DE868227](DE868227.md) | 1949-09-02 |  | Calculating or accounting machine |
-| [DE966068](DE966068.md) | 1949-09-05 |  | Machine for applying prints on statistical registration cards |
-| [DE866664](DE866664.md) | 1949-09-09 |  | Device for re-coloring of single-color brushes, in particular on telegraph &hellip; |
-| [DE837478](DE837478.md) | 1949-09-26 |  | Type carrier for cash registers, calculating and accounting machines |
-| [DE1076151](DE1076151.md) | 1949-09-27 |  | Control device on a card-controlled wire printing machine |
-| [DE825611](DE825611.md) | 1949-10-07 |  | Receipt printer for cash registers, calculating and accounting machines |
+| [DE868227](DE868227.md) | 1949-09-02 | Co, Ncr | Calculating or accounting machine |
+| [DE966068](DE966068.md) | 1949-09-05 | Ltd, Powers Samas Account Mach | Machine for applying prints on statistical registration cards |
+| [DE866664](DE866664.md) | 1949-09-09 | Ag, Lorenz C | Device for re-coloring of single-color brushes, in particular on telegraph &hellip; |
+| [DE837478](DE837478.md) | 1949-09-26 | Ag, Anker Werke | Type carrier for cash registers, calculating and accounting machines |
+| [DE1076151](DE1076151.md) | 1949-09-27 | Corp, Burroughs | Control device on a card-controlled wire printing machine |
+| [DE825611](DE825611.md) | 1949-10-07 | Ag, Anker Werke | Receipt printer for cash registers, calculating and accounting machines |
 | [DE825092](DE825092.md) | 1949-10-19 | Graff, Maximiliano | Type body with directional signs for writing business machines and recording &hellip; |
 | [DE846098](DE846098.md) | 1949-10-19 | Ruttenstock, Walter | Device on typewriters for writing on paper webs, in particular adhesive &hellip; |
 | [DE832441](DE832441.md) | 1949-10-26 | Fa, P Baumer | Device on typewriters, calculating machines or accounting machines for the &hellip; |
-| [DE836263](DE836263.md) | 1949-10-29 |  | Catching device for stamp printer, especially ticket printer |
+| [JP182442](JP182442.md) | 1949-10-28 | Kataoka, Kōtarō | Typewriter reverse (back-turn) device |
+| [DE836263](DE836263.md) | 1949-10-29 | Gmbh, Licentia | Catching device for stamp printer, especially ticket printer |
 | [DE806675](DE806675.md) | 1949-11-01 | Gelling, Helmut | Automatic switching device for the ribbon length movement of typewriters and &hellip; |
 | [DE832002](DE832002.md) | 1949-11-01 | Westermeier, Konrad | Automatic ribbon switching for electrically operated typewriters and accounting &hellip; |
-| [DE838447](DE838447.md) | 1949-11-04 |  | Line switching device for small typewriters |
+| [DE838447](DE838447.md) | 1949-11-04 | U, Torpedo Werke A G Fahrraeder | Line switching device for small typewriters |
+| [JP182406](JP182406.md) | 1949-11-04 | Kataoka, Kōtarō | Typewriter back-feed (return) device |
 | [DE821638](DE821638.md) | 1949-11-08 | Zeuzem, Achim | typewriter |
 | [DE847959](DE847959.md) | 1949-11-15 | King, Hans | Carrier for a flat type portable typewriter |
-| [DE844598](DE844598.md) | 1949-11-16 |  | Support plate for portable typewriters |
-| [DE855168](DE855168.md) | 1949-11-18 |  | Rückpralldämpfungseinrichtung for print hammer |
-| [DE830346](DE830346.md) | 1949-11-20 |  | Automatic ribbon reversal device |
+| [DE844598](DE844598.md) | 1949-11-16 | Soehne, Aug Birchmeier S | Support plate for portable typewriters |
+| [DE855168](DE855168.md) | 1949-11-18 | Co, Ncr | Rückpralldämpfungseinrichtung for print hammer |
+| [DE830346](DE830346.md) | 1949-11-20 | Inc, Almex | Automatic ribbon reversal device |
 | [DE855122](DE855122.md) | 1949-11-21 | Sa, Rooy | Protective case for portable typewriter |
 | [DE849410](DE849410.md) | 1949-11-22 | Grasshoff, Alfred | Touch mechanism for typewriters |
 | [DE869491](DE869491.md) | 1949-11-24 | Koreska, Robert | Ribbon device for typewriters |
 | [DE859475](DE859475.md) | 1949-12-09 |  | Switch lock for small typewriters |
 | [DE907060](DE907060.md) | 1949-12-09 | Bauer, Alfred | Embossing machine for the production of printing types for office machines |
-| [DE1088741](DE1088741.md) | 1949-12-19 |  | Printing unit for the printing of characters |
-| [DE1622625](DE1622625.md) | 1949-12-20 |  | AUTOMATIC RIBBON CHANGE IN WRITING AND SIMILAR MACHINES. |
+| [DE1088741](DE1088741.md) | 1949-12-19 | Corp, Burroughs | Printing unit for the printing of characters |
+| [DE1622625](DE1622625.md) | 1949-12-20 | P, Gossen & Co Gmbh | AUTOMATIC RIBBON CHANGE IN WRITING AND SIMILAR MACHINES. |
 | [DE896811](DE896811.md) | 1949-12-20 |  | Multiple typewriter |
 | [DE896496](DE896496.md) | 1950-01-03 | Broecker, Ludwine | Type typing machine |
 | [DE900349](DE900349.md) | 1950-01-12 | Kuentzel, Hellmuth | Key drive for typing or similar machines driven by pressing a key |
-| [DE834864](DE834864.md) | 1950-01-20 |  | Type basket for teleprinters |
+| [DE834864](DE834864.md) | 1950-01-20 | C, Lorenz A G | Type basket for teleprinters |
 | [DE1428176](DE1428176.md) | 1950-01-28 |  |  |
 | [DE841598](DE841598.md) | 1950-01-31 |  | Typewriter with keystroke lock in the end-of-run position of the carriage |
-| [DE835890](DE835890.md) | 1950-02-09 |  | Device for office machines for setting forms, bank cards, etc. on a specific &hellip; |
+| [DE835890](DE835890.md) | 1950-02-09 | H, Powers G M B | Device for office machines for setting forms, bank cards, etc. on a specific &hellip; |
 | [DE895642](DE895642.md) | 1950-02-11 | Haberfeld, Erwin O | Office machine table with elastically supported machine |
 | [DE821795](DE821795.md) | 1950-02-21 | Schwabenbauer, Franz | Postcard holder for typewriters |
 | [DE830348](DE830348.md) | 1950-02-21 | Braunstein, Friedrich | Illumination amplification on typewriters |
 | [DE833424](DE833424.md) | 1950-02-21 | Morgenstern, Heinrich | Appointment calendar |
-| [DE835000](DE835000.md) | 1950-03-05 |  | Type lever drive for typewriters of the lowest type with inclined segment |
+| [DE835000](DE835000.md) | 1950-03-05 | P, Gossen & Co G M B H | Type lever drive for typewriters of the lowest type with inclined segment |
 | [DE1193968](DE1193968.md) | 1950-03-15 | Dirks, Gerhard | Writing device for characters composed of dots or lines |
-| [DE836655](DE836655.md) | 1950-03-16 |  | Storage of the intermediate lever of the type lever drive of typewriters u. &hellip; |
+| [DE836655](DE836655.md) | 1950-03-16 | Ag, Triumph Werke Nuernberg | Storage of the intermediate lever of the type lever drive of typewriters u. &hellip; |
 | [DE855411](DE855411.md) | 1950-03-20 | Thiel, Hans | Process for cleaning and removing hair from typewriter rollers |
-| [DE899721](DE899721.md) | 1950-03-20 |  | Printing adding machine |
+| [DE899721](DE899721.md) | 1950-03-20 | Corp, Underwood | Printing adding machine |
 | [DE830347](DE830347.md) | 1950-03-24 | Ludwig, Karl | Lever drive for office machines |
-| [DE853169](DE853169.md) | 1950-03-30 |  | Lock roller and brake assembly for the platen writing office machines or the &hellip; |
+| [DE853169](DE853169.md) | 1950-03-30 | A, Olympia Bueromaschinenwerke | Lock roller and brake assembly for the platen writing office machines or the &hellip; |
 | [DE894463](DE894463.md) | 1950-04-06 | G, Tefi Appbau Daniel K | Cassetted sound tape with mechanically scannable sound writing |
-| [DE830659](DE830659.md) | 1950-04-09 |  | Type lever guide for writing office machines |
-| [DE832443](DE832443.md) | 1950-04-09 |  | Control key for office machines, especially typewriters |
+| [DE830659](DE830659.md) | 1950-04-09 | H, Olympia Werke West G M B | Type lever guide for writing office machines |
+| [DE832443](DE832443.md) | 1950-04-09 | H, Olympia Werke West G M B | Control key for office machines, especially typewriters |
 | [DE842208](DE842208.md) | 1950-04-12 | Ludwig, Karl - | Lever drive for office machines |
 | [DE844014](DE844014.md) | 1950-04-25 | Mueller, Hubert | Type cleaner for typewriter types |
-| [DE825420](DE825420.md) | 1950-05-03 |  | Device for limiting the end position of the changeover frame of the paper &hellip; |
-| [DE843703](DE843703.md) | 1950-05-06 |  | Frames for typewriters |
-| [DE852604](DE852604.md) | 1950-05-06 |  | Case for typewriters |
+| [DE825420](DE825420.md) | 1950-05-03 | H, Olympia Werke West G M B | Device for limiting the end position of the changeover frame of the paper &hellip; |
+| [DE843703](DE843703.md) | 1950-05-06 | Soehne, August Birchmeier S | Frames for typewriters |
+| [DE852604](DE852604.md) | 1950-05-06 | Soehne, August Birchmeier S | Case for typewriters |
 | [DE827955](DE827955.md) | 1950-05-18 | Fa, J Zendath | Sheet holder for typewriters |
-| [DE835227](DE835227.md) | 1950-05-18 |  | Ribbon inking device |
+| [DE835227](DE835227.md) | 1950-05-18 | Co, Ncr | Ribbon inking device |
 | [DE968266](DE968266.md) | 1950-06-01 | Ab, Original Odhner | Paper feed device in adding machines or the like. |
 | [DE833966](DE833966.md) | 1950-06-03 | Bertram, Kurt | Device for precise writing on the typewriter |
 | [DE838754](DE838754.md) | 1950-06-13 | Halstrup, Franz | Car switching on typewriters with switchable segment |
-| [DE898749](DE898749.md) | 1950-07-02 |  | Return transport device for paper carts on office machines |
+| [DE898749](DE898749.md) | 1950-07-02 | H, Remington Rand G M B | Return transport device for paper carts on office machines |
 | [DE851503](DE851503.md) | 1950-07-15 | Schueler, Hugo | Device for automatic switching of the ribbon length movement when writing u. &hellip; |
 | [DE851955](DE851955.md) | 1950-07-15 | Schueler, Hugo | In writing u. Like. Machines removable push-button and type lever cage |
 | [DE866043](DE866043.md) | 1950-07-15 | Schueler, Hugo | Device for guiding and fastening the removable type lever basket for writing u. &hellip; |
-| [DE851502](DE851502.md) | 1950-07-16 |  | Switching device for writing office machines |
+| [DE851502](DE851502.md) | 1950-07-16 | A, Olympia Bueromaschinenwerke | Switching device for writing office machines |
 | [DE827954](DE827954.md) | 1950-07-28 | Kauper, Ludwig | Paper guides for typewriters and similar machines |
 | [DE821943](DE821943.md) | 1950-07-30 | Ludwig, Karl | Type lever drive for typewriters |
-| [DE865316](DE865316.md) | 1950-08-02 |  | Adjustment device for the type lever stop force and the ribbon fork stroke on &hellip; |
+| [DE865316](DE865316.md) | 1950-08-02 | Corp, Underwood | Adjustment device for the type lever stop force and the ribbon fork stroke on &hellip; |
 | [DE852320](DE852320.md) | 1950-08-10 | Voigt, Clemens August | Elastic, flexible component, preferably for supporting typewriters and &hellip; |
 | [DE882709](DE882709.md) | 1950-08-17 | Siech, Erika | Line typewriter with vertically arranged type record carriers |
 | [DE898304](DE898304.md) | 1950-08-19 | Deutschland, Ibm | Printing device controlled by recording media or keys |
-| [DE898305](DE898305.md) | 1950-08-19 |  | Eraser, especially for typewriters |
+| [DE898305](DE898305.md) | 1950-08-19 | G, Parasor A | Eraser, especially for typewriters |
 | [DE901474](DE901474.md) | 1950-08-22 | Witte, Irene M | Method and device for controlling the sale of goods |
-| [DE844907](DE844907.md) | 1950-08-30 |  | Copy device for typewriters and similar machines |
+| [DE844907](DE844907.md) | 1950-08-30 | Ved, Dansk Skrivemaskinefabrik | Copy device for typewriters and similar machines |
 | [DE844908](DE844908.md) | 1950-08-31 | Glatz, Paul Albert | Typewriter, especially for lettering flat printing sheets |
-| [DE851349](DE851349.md) | 1950-09-02 |  | Friction clutch for row ratchet of office machines |
-| [DE851350](DE851350.md) | 1950-09-02 |  | Platen for office machines |
-| [DE904656](DE904656.md) | 1950-09-13 |  | Type lever drive for typewriters |
-| [DE863357](DE863357.md) | 1950-09-21 |  | Process for coloring the character wheel and for making the writing visible on &hellip; |
-| [DE841293](DE841293.md) | 1950-09-22 |  | Device for holding the paper trolley of office machines, in particular &hellip; |
-| [DE863062](DE863062.md) | 1950-09-28 |  | One-turn clutch, especially for power-driven typewriters |
-| [DE834409](DE834409.md) | 1950-09-30 |  | Paper guide for small typewriters |
+| [DE851349](DE851349.md) | 1950-09-02 | H, Adlerwerke Kleyer Ag | Friction clutch for row ratchet of office machines |
+| [DE851350](DE851350.md) | 1950-09-02 | H, Adlerwerke Kleyer Ag | Platen for office machines |
+| [DE904656](DE904656.md) | 1950-09-13 | Corp, Underwood | Type lever drive for typewriters |
+| [DE863357](DE863357.md) | 1950-09-21 | Ag, Lorenz C | Process for coloring the character wheel and for making the writing visible on &hellip; |
+| [DE841293](DE841293.md) | 1950-09-22 | H, Olympia Werke West G M B | Device for holding the paper trolley of office machines, in particular &hellip; |
+| [DE863062](DE863062.md) | 1950-09-28 | Ag, Triumph Werke Nuernberg | One-turn clutch, especially for power-driven typewriters |
+| [DE834409](DE834409.md) | 1950-09-30 | U, Torpedo Werke A G Fahrraeder | Paper guide for small typewriters |
 | [DE834410](DE834410.md) | 1950-09-30 | Hirdt, August | Type cleaner for writing, calculating and similar machines |
-| [DE894328](DE894328.md) | 1950-10-05 |  | Printing unit for booking and similar accounting machines |
+| [DE894328](DE894328.md) | 1950-10-05 | Co, Ncr | Printing unit for booking and similar accounting machines |
 | [DE862222](DE862222.md) | 1950-10-19 | Wagemann, Heinrich | Paper roll holder on balancing machines |
 | [DE903341](DE903341.md) | 1950-10-26 | Neumann, Erich | Touch lever guide comb for typewriters |
-| [DE861757](DE861757.md) | 1950-10-31 |  | Paper guides for writing or printing business machines, especially adding, &hellip; |
+| [DE861757](DE861757.md) | 1950-10-31 | H, Exacta Bueromaschinen G M B | Paper guides for writing or printing business machines, especially adding, &hellip; |
 | [DE835750](DE835750.md) | 1950-11-03 | Ludwig, Karl | Lever drive for office machines |
 | [DE833046](DE833046.md) | 1950-11-09 | Ludwig, Karl | Paper guiding device on office machines, in particular typewriters |
-| [DE904000](DE904000.md) | 1950-12-02 |  | Value stamp machine |
+| [DE904000](DE904000.md) | 1950-12-02 | Ag, Anker Werke | Value stamp machine |
 | [DE891271](DE891271.md) | 1950-12-09 | Zocher, Fritz | Line drawing device on typewriters |
-| [DE851351](DE851351.md) | 1950-12-16 |  | Device on typewriters for writing non-erasable writing |
+| [DE851351](DE851351.md) | 1950-12-16 | H, Adlerwerke Kleyer Ag | Device on typewriters for writing non-erasable writing |
 | [DE902854](DE902854.md) | 1950-12-16 | Winterling, Carl | Office machine buttons |
 | [DE801221](DE801221.md) | 1950-12-28 | -, Albertz Hans | Schreibmaschinenversenktisch |
 | [DE904537](DE904537.md) | 1950-12-28 | Deutschland, Ibm | Shorthand typewriter with keys grouped together |

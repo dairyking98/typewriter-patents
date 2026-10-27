@@ -11,10 +11,10 @@ Name variants: HANSA SCHREIBMASCHINENFABRIK G; LEHMANN GEB; Hansa Büromasch.- W
 
 ## Inventors
 
-[Geb, Lehmann](../people/geb-l.md) (1)
+
 
 ## Patents assigned (1)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE383031](../patents/DE383031.md) | 1923-10-09 | Geb, Lehmann | Triggering device for collapsed type levers | typebar |
+| [DE383031](../patents/DE383031.md) | 1923-10-09 | G, Hansa Schreibmaschinenfabrik | Triggering device for collapsed type levers | typebar |

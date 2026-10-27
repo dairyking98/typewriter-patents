@@ -8,8 +8,8 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [Typebars](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 2296 | 9 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁▁▁▁▆█▆▃▂▁▁` |  |
-| [Typebar action](../features/bar-type-action.md) | How the key moves the typebar: levers, links and accelerating actions | 786 | 0 | 1857 [US18504](../patents/US18504.md) | 1900s | `   ▁ ▁▁▃█▆▃▂▁▁` |  |
+| [Typebars](../features/elem-typebar.md) | Pivoted typebars (one or two characters each) | 2301 | 9 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁▁▁▁▆█▆▃▂▁▁` |  |
+| [Typebar action](../features/bar-type-action.md) | How the key moves the typebar: levers, links and accelerating actions | 788 | 0 | 1857 [US18504](../patents/US18504.md) | 1900s | `   ▁ ▁▁▃█▆▃▂▁▁` |  |
 | [Type basket and bearings](../features/bar-basket-bearings.md) | The type basket or segment, and the bearings or hangers the typebars pivot in | 592 | 1 | 1868 [US79868](../patents/US79868.md) | 1900s | `    ▁▁▁▄█▆▂▁▁▁` |  |
 | [Typebar and type-head construction](../features/bar-typebar-construction.md) | How the typebars and the type heads on them are made | 272 | 0 | 1878 [US199382](../patents/US199382.md) | 1900s | `     ▁▁▄█▅▃▁▁▁` |  |
 | [Key touch and even impression](../features/bar-touch.md) | Key tension, touch adjustment and uniform impression across characters | 148 | 0 | 1856 [US15164](../patents/US15164.md) | 1900s | `   ▁ ▁▁▃█▆▁▁▁▁` |  |

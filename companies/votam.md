@@ -9,4 +9,4 @@
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE381432](../patents/DE381432.md) | 1923-09-20 |  | Type lever drive | typebar |
+| [DE381432](../patents/DE381432.md) | 1923-09-20 | H, Votam Vertriebs Ges M B | Type lever drive | typebar |

@@ -11,10 +11,10 @@ Name variants: Messrs Egry Ltd; Messrs. E. Prouty & Co
 
 ## Inventors
 
-
+[Ltd, Messrs Egry](../people/ltd-m.md) (1)
 
 ## Patents assigned (1)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE856155](../patents/DE856155.md) | 1947-03-29 |  | Additional device for typewriters to make copies on several paper webs one on &hellip; |  |
+| [DE856155](../patents/DE856155.md) | 1947-03-29 | Ltd, Messrs Egry | Additional device for typewriters to make copies on several paper webs one on &hellip; |  |

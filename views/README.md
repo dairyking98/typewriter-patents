@@ -14,7 +14,7 @@ How the machines worked, mechanism by mechanism. These pages are generated from 
 
     ---
 
-    98 mechanism features by subsystem: how common, first seen, peak decade.
+    99 mechanism features by subsystem: how common, first seen, peak decade.
 
 -   **[Inventors](inventors.md)**
 

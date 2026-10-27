@@ -4,14 +4,14 @@
 
 Toy or educational machine
 
-**43 patents**, 1876–1951. Often together with:
+**44 patents**, 1876–1951. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (8), [Selection locked for printing](../features/sel-selector-locking.md) (7)
 - **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (8)
-- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (8), [Separate print key or lever](../features/imp-print-lever.md) (6)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (9), [Separate print key or lever](../features/imp-print-lever.md) (6)
 - **Inking:** [Ink ribbon](../features/ink-ribbon.md) (7)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (8)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (23)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (9)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (24)
 
 ## Patents, oldest first
 
@@ -42,17 +42,18 @@ Toy or educational machine
 | [US1153524](../patents/US1153524.md) | 1915 | Schwarzschild - Scheuer, Monroe M. - Belle | A doll figure's arms, linked by clips to an actuating shaft, move over a toy typewriter and drive movable type bars that print onto a paper strip. |
 | [US1160457](../patents/US1160457.md) | 1915 | Schwarzschild - Scheuer, Monroe M. - Belle | The doll's arms are driven by hand or a spring motor or clock, and simultaneously drive a type roller, paper feed roller and roller inking, so printed text appears on paper fed through the toy. |
 | [US1163322](../patents/US1163322.md) | 1915 | Cosper, William P. | A practice machine with a base board carrying keys laid out like a standard typewriter, with keys of proper resistance and location and cushioning, but no printing mechanism. |
+| [JP61699](../patents/JP61699.md) | 1921 | Ishii, Yoshio | Insert types into square holes in elastic rubber bands stretched on a removable frame, supported by sliding bars between holes, so pressing a type's back prints it accurately. |
 | [DE381440](../patents/DE381440.md) | 1923 | Cooper, Arthur V | A spring-supported key frame with unlabelled keys drives pointers that show the letter behind each key on a character field, so learners see characters without looking at keys. |
 | [DE395403](../patents/DE395403.md) | 1924 | F, Anciens Etablissements Pathe | A touch organ dropping into a recess lets a rotating arm with a cam count revolutions and then return the gripper carrier and its sleeve, so the band starts again after a set interval. |
-| [DE434844](../patents/DE434844.md) | 1926 |  | Paper guide plate is sprung on the same axis that pivots the paper roller bracket, which also takes the shift lever. |
-| [DE434849](../patents/DE434849.md) | 1926 |  | One U-shaped bent bearing plate carries the key levers, space bar, shift frame and type segment, so the machine assembles as one unit. |
-| [DE440172](../patents/DE440172.md) | 1927 |  | A control rod with tapered sliders and intermediate pins alternately lifts one or the other crown gear of the ribbon spool carriers out of mesh with a drive pinion. |
-| [DE453991](../patents/DE453991.md) | 1927 |  | The frame is a single stamped sheet metal U-body with a rear cross plate, and the key and carriage units are assembled as one unit slid in from the rear. |
+| [DE434844](../patents/DE434844.md) | 1926 | G, Bing Werke Vorm Gebr Bing A | Paper guide plate is sprung on the same axis that pivots the paper roller bracket, which also takes the shift lever. |
+| [DE434849](../patents/DE434849.md) | 1926 | G, Bing Werke Vorm Gebr Bing A | One U-shaped bent bearing plate carries the key levers, space bar, shift frame and type segment, so the machine assembles as one unit. |
+| [DE440172](../patents/DE440172.md) | 1927 | G, Bing Werke Vorm Gebr Bing A | A control rod with tapered sliders and intermediate pins alternately lifts one or the other crown gear of the ribbon spool carriers out of mesh with a drive pinion. |
+| [DE453991](../patents/DE453991.md) | 1927 | G, Bing Werke Vorm Gebr Bing A | The frame is a single stamped sheet metal U-body with a rear cross plate, and the key and carriage units are assembled as one unit slid in from the rear. |
 | [DE544900](../patents/DE544900.md) | 1932 | Schmid, Max | The roller axes run parallel to the type wheel axis through slots in the frame plate and are pulled toward each other by a connecting spring. |
 | [US1865288](../patents/US1865288.md) | 1932 | Thompson, Samuel Alexander | A panel with a standard keyboard layout slides between a stored position under the frame and a forward active position, and the base doubles as a storage box. |
 | [DE570087](../patents/DE570087.md) | 1933 | Safar, Josef | A replica keyboard of lamps mounted on the copy holder lights the matching key when a key is pressed, using contacts under each key. |
-| [DE570377](../patents/DE570377.md) | 1933 |  | Each key lever gets a nose that enters its slot in the switching bridge and couples the bridge to the key lever as it reaches its stop, so no extra holder is needed. |
-| [DE575117](../patents/DE575117.md) | 1933 |  | The type wheel sits on a vertical pin in a sliding carriage so the printed character is visible; a return spring acting in a horizontal plane also advances the wheel one letter space through a transport lever engaging a toothed bridge. |
+| [DE570377](../patents/DE570377.md) | 1933 | G, Bing Werke Vorm Gebr Bing A | Each key lever gets a nose that enters its slot in the switching bridge and couples the bridge to the key lever as it reaches its stop, so no extra holder is needed. |
+| [DE575117](../patents/DE575117.md) | 1933 | G, Bing Werke Vorm Gebr Bing A | The type wheel sits on a vertical pin in a sliding carriage so the printed character is visible; a return spring acting in a horizontal plane also advances the wheel one letter space through a transport lever engaging a toothed bridge. |
 | [DE576185](../patents/DE576185.md) | 1933 | Knorr, Alfred | A button moves a type wheel sector with a type plate tape about a vertical axis to the letter, and pressing the button swings the whole sector against the platen and locks it with a pawl. |
 | [US1986244](../patents/US1986244.md) | 1935 | Bates, Harry | A swinging arm with a button is dropped onto a depression in a keyboard-shaped plate, which turns an arcuate type segment to that character, and pressing down tilts the keyboard and platen frame so the paper meets the type. |
 | [DE625727](../patents/DE625727.md) | 1936 | Arnold, Karl | A spring drive moves the carriage in steps as a detent disc releases; a lobed disc on the same shaft raises and lowers the figure's arms via rods through the table slots. |

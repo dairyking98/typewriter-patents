@@ -3,10 +3,10 @@
 
 ## Inventors
 
-[Rechenmaschine, Cordt Universal](../people/rechenmaschine-c.md) (1)
+[Ges, A E G Deutsche Werke Akt](../people/ges-a.md) (1)
 
 ## Patents assigned (1)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE603170](../patents/DE603170.md) | 1934-09-24 | Rechenmaschine, Cordt Universal | Mit Multiplikations- bzw. Vierspeziesmaschinen gekuppelte Addiermaschine |  |
+| [DE603170](../patents/DE603170.md) | 1934-09-24 | Ges, Appbau | Mit Multiplikations- bzw. Vierspeziesmaschinen gekuppelte Addiermaschine |  |

@@ -9,4 +9,4 @@
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE396581](../patents/DE396581.md) | 1924-06-04 |  | Schreibtisch mit Schreibmaschinenversenkvorrichtung |  |
+| [DE396581](../patents/DE396581.md) | 1924-06-04 | H, Bueromoebel Fabriken M B | Schreibtisch mit Schreibmaschinenversenkvorrichtung |  |

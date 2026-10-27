@@ -16,7 +16,7 @@ Name variants: The Underwood Typewriter Comp; UNDERWOOD TYPEWRITER CO; UNDERWOOD
 
 ## Inventors
 
-[McLaughlin, John C](../people/mclaughlin-j.md) (57), [Stickney, Burnham C](../people/stickney-b.md) (34), [Kurowski, Alfred G. F](../people/kurowski-a.md) (34), [Wagner, Franz X](../people/wagner-f.md) (33), [McCormack, Harry S](../people/mccormack-h.md) (27), [Kunath, Edward F](../people/kunath-e.md) (24), [Helmond, William F](../people/helmond-w.md) (22), [Young, Frank A](../people/young-f.md) (20), [Corcoran, Cornelius B](../people/corcoran-c.md) (20), [Barnard, Walter E](../people/barnard-w.md) (16), [Myers, Lewis C](../people/myers-l.md) (15), [Wagner, Herman L](../people/wagner-h.md) (14), [Uhlig, Richard W](../people/uhlig-r.md) (12), [Lockwood, Marquis H](../people/lockwood-m.md) (12), [Cooper, John Joseph](../people/cooper-j.md) (11), [Vogel, Charles H](../people/vogel-c.md) (9), [Cook, Frank A](../people/cook-f.md) (8), [Lundeberg, Carl F](../people/lundeberg-c.md) (8), [Roberts, Lyman R](../people/roberts-l.md) (8), [Doane, John C](../people/doane-j.md) (8), [Ursbruck, Frank C](../people/ursbruck-f.md) (8), [Crutchley, Harry](../people/crutchley-h.md) (8), [Broughton, Lyman David](../people/broughton-l.md) (8), [Smith, Stephen T](../people/smith-s.md) (7), [Pfunder, Emil L](../people/pfunder-e.md) (7), [Smith, Jesse A. B](../people/smith-j.md) (7), [Kavle, Oscar C](../people/kavle-o.md) (6), [Ney, Louis](../people/ney-l.md) (6), [de los Rice, Charles](../people/de-los-rice-c.md) (5), [Kelley, Charles E](../people/kelley-c.md) (5), [Dennis, Adolphus S](../people/dennis-a.md) (5), [Fortin, Benjamin P](../people/fortin-b.md) (5), [Comp, Underwood Elliott Fischer](../people/comp-u.md) (5), [Joerissen, Carl A](../people/joerissen-c.md) (4), [Hewitt, Allin W](../people/hewitt-a.md) (4), [Gibbs, Charles](../people/gibbs-c.md) (4), [Strong, Elisha Emmanuel](../people/strong-e.md) (4), [Roberts, Frank C](../people/roberts-f.md) (4), [Carlin, Samuel E](../people/carlin-s.md) (4), [Allard, J. Frank](../people/allard-j.md) (3)
+[Co, Underwood Typewriter](../people/co-u.md) (116), [McLaughlin, John C](../people/mclaughlin-j.md) (57), [Stickney, Burnham C](../people/stickney-b.md) (34), [Kurowski, Alfred G. F](../people/kurowski-a.md) (34), [Wagner, Franz X](../people/wagner-f.md) (33), [McCormack, Harry S](../people/mccormack-h.md) (27), [Kunath, Edward F](../people/kunath-e.md) (24), [Helmond, William F](../people/helmond-w.md) (22), [Young, Frank A](../people/young-f.md) (20), [Corcoran, Cornelius B](../people/corcoran-c.md) (20), [Barnard, Walter E](../people/barnard-w.md) (16), [Myers, Lewis C](../people/myers-l.md) (15), [Wagner, Herman L](../people/wagner-h.md) (14), [Corp, Underwood](../people/corp-u.md) (13), [Uhlig, Richard W](../people/uhlig-r.md) (12), [Lockwood, Marquis H](../people/lockwood-m.md) (12), [Cooper, John Joseph](../people/cooper-j.md) (11), [Vogel, Charles H](../people/vogel-c.md) (9), [Cook, Frank A](../people/cook-f.md) (8), [Lundeberg, Carl F](../people/lundeberg-c.md) (8), [Roberts, Lyman R](../people/roberts-l.md) (8), [Doane, John C](../people/doane-j.md) (8), [Ursbruck, Frank C](../people/ursbruck-f.md) (8), [Crutchley, Harry](../people/crutchley-h.md) (8), [Broughton, Lyman David](../people/broughton-l.md) (8), [Smith, Stephen T](../people/smith-s.md) (7), [Underwood, Typewriter Co](../people/underwood-t.md) (7), [Pfunder, Emil L](../people/pfunder-e.md) (7), [Smith, Jesse A. B](../people/smith-j.md) (7), [Kavle, Oscar C](../people/kavle-o.md) (6), [Ney, Louis](../people/ney-l.md) (6), [de los Rice, Charles](../people/de-los-rice-c.md) (5), [Kelley, Charles E](../people/kelley-c.md) (5), [Dennis, Adolphus S](../people/dennis-a.md) (5), [Fortin, Benjamin P](../people/fortin-b.md) (5), [Comp, Underwood Elliott Fischer](../people/comp-u.md) (5), [Joerissen, Carl A](../people/joerissen-c.md) (4), [Hewitt, Allin W](../people/hewitt-a.md) (4), [Gibbs, Charles](../people/gibbs-c.md) (4), [Strong, Elisha Emmanuel](../people/strong-e.md) (4)
 
 ## Patents assigned (778)
 
@@ -176,11 +176,11 @@ Name variants: The Underwood Typewriter Comp; UNDERWOOD TYPEWRITER CO; UNDERWOOD
 | [US868042](../patents/US868042.md) | 1907-10-15 | Wagner, Franz X. | Type-Writing Machine |  |
 | [US868890](../patents/US868890.md) | 1907-10-22 | Ronchetti, Joseph A. | Type-Writing Machine |  |
 | [US871595](../patents/US871595.md) | 1907-11-19 | Kelley, Charles E. | Type-Writing Machine |  |
-| [DE191891](../patents/DE191891.md) | 1907-11-19 |  | Paper feed device for typewriters |  |
+| [DE191891](../patents/DE191891.md) | 1907-11-19 | Underwood, Typewriter Co | Paper feed device for typewriters |  |
 | [US873641](../patents/US873641.md) | 1907-12-10 | Wagner, Franz X. | Type-Writing Machine |  |
 | [US875637](../patents/US875637.md) | 1907-12-31 | Wagner, Franz X. | Carriage Stop Mechanism for Type-Writing Machines |  |
 | [US875262](../patents/US875262.md) | 1907-12-31 | Helmond, William F. | Type-Writing Machine |  |
-| [DE193834](../patents/DE193834.md) | 1908-01-03 |  | Papierzuführungsvorrichtung für Schreibmaschinen |  |
+| [DE193834](../patents/DE193834.md) | 1908-01-03 | Underwood, Typewriter Co | Papierzuführungsvorrichtung für Schreibmaschinen |  |
 | [US876309](../patents/US876309.md) | 1908-01-07 | Wagner, Franz X. | Ribbon Mechanism for Type-Writers |  |
 | [US878988](../patents/US878988.md) | 1908-02-11 | McLaughlin, John C. | Type-Writing Machine |  |
 | [US882246](../patents/US882246.md) | 1908-03-17 | Gibbs, Charles | Type-Writing Machine | typebar |
@@ -381,7 +381,7 @@ Name variants: The Underwood Typewriter Comp; UNDERWOOD TYPEWRITER CO; UNDERWOOD
 | [US994327](../patents/US994327.md) | 1911-06-06 | McLaughlin, John C. | Type-Writing Machine |  |
 | [US998710](../patents/US998710.md) | 1911-07-25 | McLaughlin, William P. | Type-Writing Machine |  |
 | [US1002809](../patents/US1002809.md) | 1911-09-05 | Fortin - Horton, Benjamin P. - George H. | Type-Writing Machine |  |
-| [DE238266](../patents/DE238266.md) | 1911-09-21 |  | ~The subject of the invention forms an auxiliary switching device for the rotary movement o |  |
+| [DE238266](../patents/DE238266.md) | 1911-09-21 | Underwood, Typewriter Co | ~The subject of the invention forms an auxiliary switching device for the rotary movement o |  |
 | [US1005245](../patents/US1005245.md) | 1911-10-10 | Lockwood, Marquis H. | Type-Writing Machine |  |
 | [US1006489](../patents/US1006489.md) | 1911-10-24 | Lockwood, Marquis H. | Type-Writing Machine |  |
 | [US1007746](../patents/US1007746.md) | 1911-11-07 | Stickney, Burnham C. | Type-Writing Machine |  |
@@ -389,7 +389,7 @@ Name variants: The Underwood Typewriter Comp; UNDERWOOD TYPEWRITER CO; UNDERWOOD
 | [US1007839](../patents/US1007839.md) | 1911-11-07 | Barnard, Walter E. | Type-Writing Machine |  |
 | [US1008961](../patents/US1008961.md) | 1911-11-14 | Doane - Self, John C. - Benjamin H. | Type-Writing Machine |  |
 | [US1010349](../patents/US1010349.md) | 1911-11-28 | Degener, Gustave O. | Key-Arresting Mechanism |  |
-| [DE242951](../patents/DE242951.md) | 1912-01-29 |  | Hilfsschaltvorrichtung zur Drehbewegung der Papierwalze von Schreibmaschinen |  |
+| [DE242951](../patents/DE242951.md) | 1912-01-29 | Underwood, Typewriter Co | Hilfsschaltvorrichtung zur Drehbewegung der Papierwalze von Schreibmaschinen |  |
 | [US1016686](../patents/US1016686.md) | 1912-02-06 | Garsden, John H. | Type-Writing Machine |  |
 | [US1017301](../patents/US1017301.md) | 1912-02-13 | Lockwood, Marquis H. | Type-Writer Tabulating Mechanism |  |
 | [US1018915](../patents/US1018915.md) | 1912-02-27 | Kurowski, Alfred G. F. | Type-Writing Machine |  |
@@ -648,7 +648,7 @@ Name variants: The Underwood Typewriter Comp; UNDERWOOD TYPEWRITER CO; UNDERWOOD
 | [US1159886](../patents/US1159886.md) | 1915-11-09 | Becker, Frank E. | Type-Writing Machine |  |
 | [US1159921](../patents/US1159921.md) | 1915-11-09 | Fritze, Henry L. | Type-Writing Machine |  |
 | [US1160459](../patents/US1160459.md) | 1915-11-16 | Smith, Jesse A. B. | Type-Writing Machine |  |
-| [DE288801](../patents/DE288801.md) | 1915-11-20 |  | Paper feed device for typewriters with pins that engage in holes at the edges &hellip; |  |
+| [DE288801](../patents/DE288801.md) | 1915-11-20 | Underwood, Typewriter Co | Paper feed device for typewriters with pins that engage in holes at the edges &hellip; |  |
 | [US1162730](../patents/US1162730.md) | 1915-11-30 | Wright, Walter | Computing Attachment for Type-Writers |  |
 | [US1163954](../patents/US1163954.md) | 1915-12-14 | Roberts, Lyman R. | Automatic Type-Writer Operator |  |
 | [US1163761](../patents/US1163761.md) | 1915-12-14 | Kurowski, Alfred G. F. | Type-Writing Machine |  |
@@ -659,144 +659,144 @@ Name variants: The Underwood Typewriter Comp; UNDERWOOD TYPEWRITER CO; UNDERWOOD
 | [US1163869](../patents/US1163869.md) | 1915-12-14 | Stickney, Burnham C. | Type-Writing Machine |  |
 | [US1164630](../patents/US1164630.md) | 1915-12-21 | Carlin, Samuel E. | Calculating-Machine |  |
 | [US1164651](../patents/US1164651.md) | 1915-12-21 | Jones, Frank C. | Type-Writing Machine |  |
-| [DE289847](../patents/DE289847.md) | 1916-01-24 |  | Paper insertion and feeding device for typewriters with conveyor belts and an &hellip; |  |
-| [DE294395](../patents/DE294395.md) | 1916-10-06 |  | Paper roller rotating device for typewriters |  |
+| [DE289847](../patents/DE289847.md) | 1916-01-24 | Underwood, Typewriter Co | Paper insertion and feeding device for typewriters with conveyor belts and an &hellip; |  |
+| [DE294395](../patents/DE294395.md) | 1916-10-06 | Underwood, Typewriter Co | Paper roller rotating device for typewriters |  |
 | [USRE14283](../patents/USRE14283.md) | 1917-04-10 | Hart, Frederick A. | Type-Writing Machine |  |
-| [DE327931](../patents/DE327931.md) | 1920-10-22 |  | Typewriter for writing on paper webs |  |
+| [DE327931](../patents/DE327931.md) | 1920-10-22 | Co, Underwood Typewriter | Typewriter for writing on paper webs |  |
 | [DE328871](../patents/DE328871.md) | 1920-11-12 | Underwood, John Thomas | typewriter |  |
-| [DE335771](../patents/DE335771.md) | 1921-04-12 |  | Paper cart |  |
-| [DE337650](../patents/DE337650.md) | 1921-06-06 |  | Schreibrechenmaschine |  |
-| [DE346585](../patents/DE346585.md) | 1922-01-03 |  | tab |  |
-| [DE346586](../patents/DE346586.md) | 1922-01-04 |  | Key lever bearing |  |
-| [DE346817](../patents/DE346817.md) | 1922-01-07 |  | Device for laying out writing sheets |  |
-| [DE346818](../patents/DE346818.md) | 1922-01-09 |  | Typewriter for writing on paper webs |  |
-| [DE346819](../patents/DE346819.md) | 1922-01-09 |  | typewriter |  |
-| [DE352497](../patents/DE352497.md) | 1922-04-29 |  | Typewriter with horizontally arranged platen and in the direction of rotation &hellip; |  |
-| [DE356916](../patents/DE356916.md) | 1922-08-08 |  | Typewriter with automatic line break or backward movement of the carriage by &hellip; |  |
-| [DE356969](../patents/DE356969.md) | 1922-08-10 |  | Typewriter with a swiveling drum support frame |  |
-| [DE358207](../patents/DE358207.md) | 1922-09-07 |  | Typewriter with a swiveling platen |  |
-| [DE358545](../patents/DE358545.md) | 1922-09-15 |  | Schreibrechenmaschine |  |
-| [DE359984](../patents/DE359984.md) | 1922-09-28 |  | typewriter |  |
-| [DE360379](../patents/DE360379.md) | 1922-10-02 |  | Type lever guide |  |
-| [DE361702](../patents/DE361702.md) | 1922-10-19 |  | Schreibrechenmaschine, auf der subtrahierte Zahlen in einer von addierten Zahlen abweichenden Farbe zum Aufdruck gelangen |  |
-| [DE364445](../patents/DE364445.md) | 1922-11-24 |  | Type lever rods for typewriters | typebar |
-| [DE365592](../patents/DE365592.md) | 1922-12-18 |  | Roller pressure device for the writing paper against the platen |  |
-| [DE366620](../patents/DE366620.md) | 1923-01-09 |  | typewriter |  |
-| [DE366621](../patents/DE366621.md) | 1923-01-09 |  | typewriter |  |
-| [DE366719](../patents/DE366719.md) | 1923-01-10 |  | typewriter | typebar |
-| [DE366721](../patents/DE366721.md) | 1923-01-10 |  | typewriter |  |
-| [DE366726](../patents/DE366726.md) | 1923-01-10 |  | Device for the exact alignment of paper sheets to be inserted |  |
-| [DE366727](../patents/DE366727.md) | 1923-01-10 |  | Changeover device for the stroke movement of the ribbon |  |
-| [DE366905](../patents/DE366905.md) | 1923-01-13 |  | Ribbon moving mechanism for typewriters |  |
-| [DE368217](../patents/DE368217.md) | 1923-02-01 |  | Line switch |  |
-| [DE371610](../patents/DE371610.md) | 1923-03-16 |  | Typewriter for writing on paper webs |  |
-| [DE371982](../patents/DE371982.md) | 1923-03-19 |  | Guide for typewriters |  |
-| [DE371983](../patents/DE371983.md) | 1923-03-23 |  | Device on typewriters for classifying writing sheets |  |
-| [DE375794](../patents/DE375794.md) | 1923-05-18 |  | Typewriter with front sheet metal insert for writing sheets |  |
-| [DE376272](../patents/DE376272.md) | 1923-05-26 |  | Lightweight typewriter |  |
-| [DE376561](../patents/DE376561.md) | 1923-05-29 |  | Accent printing device |  |
-| [DE376721](../patents/DE376721.md) | 1923-06-02 |  | typewriter | typebar |
-| [DE376722](../patents/DE376722.md) | 1923-06-07 |  | Stroke adjustment device for the ribbon guide |  |
-| [DE377031](../patents/DE377031.md) | 1923-06-08 |  | Switching device for the platen |  |
-| [DE377032](../patents/DE377032.md) | 1923-06-09 |  | Locking device for the shift keys |  |
-| [DE377416](../patents/DE377416.md) | 1923-06-19 |  | Device for holding stiff writing paper against the platen |  |
-| [DE377918](../patents/DE377918.md) | 1923-06-30 |  | typewriter | typebar |
-| [DE380640](../patents/DE380640.md) | 1923-09-08 |  | Line switch |  |
-| [DE381278](../patents/DE381278.md) | 1923-09-18 |  | Typewriter with double switching |  |
-| [DE381439](../patents/DE381439.md) | 1923-09-20 |  | Ribbon guide |  |
-| [DE384112](../patents/DE384112.md) | 1923-10-26 |  | Device on typewriters for pressing the writing paper against the platen |  |
-| [DE386404](../patents/DE386404.md) | 1923-12-08 |  | Multiplier on typewriters |  |
-| [DE390192](../patents/DE390192.md) | 1924-02-14 |  | Paper guiding device for typewriters |  |
-| [DE397853](../patents/DE397853.md) | 1924-07-04 |  | Schreibmaschine mit abnehmbarem, den Hemmechanismus tragenden Rahmen |  |
-| [DE398714](../patents/DE398714.md) | 1924-07-15 |  | typewriter |  |
-| [DE402627](../patents/DE402627.md) | 1924-09-17 |  | Paper guide for typewriters |  |
-| [DE403519](../patents/DE403519.md) | 1924-09-30 |  | Paper guiding device for typewriters |  |
-| [DE403515](../patents/DE403515.md) | 1924-10-01 |  | Typewriter with reversible paper roller |  |
-| [DE403516](../patents/DE403516.md) | 1924-10-01 |  | Vehicle jamming device for typewriters |  |
-| [DE403517](../patents/DE403517.md) | 1924-10-01 |  | Papierschlittenschaltvorrichtung an Schreibmaschinen |  |
-| [DE404176](../patents/DE404176.md) | 1924-10-14 |  | Typewriter with movable support frame for the platen |  |
-| [DE406089](../patents/DE406089.md) | 1924-11-14 |  | Typewriter with a paper carriage frame that can be adjusted to three different &hellip; | sliding bars |
-| [DE406090](../patents/DE406090.md) | 1924-11-14 |  | Spring drive equipped with a fine adjustment device for the paper slide of &hellip; |  |
-| [DE406094](../patents/DE406094.md) | 1924-11-15 |  | Device for holding stiff writing paper against the platen |  |
-| [DE406625](../patents/DE406625.md) | 1924-11-28 |  | Cutting device on typewriters that work with longitudinally folded paper |  |
-| [DE408426](../patents/DE408426.md) | 1925-01-17 |  | Typewriter with a switch frame carrying the carriage along with the platen and &hellip; |  |
-| [DE408431](../patents/DE408431.md) | 1925-01-19 |  | Type lever guide for typewriters |  |
-| [DE410547](../patents/DE410547.md) | 1925-03-10 |  | Line switch |  |
-| [DE412416](../patents/DE412416.md) | 1925-04-21 |  | Typewriter working in conjunction with a calculating machine |  |
-| [DE416150](../patents/DE416150.md) | 1925-07-07 |  | Guide for typewriter carts |  |
-| [DE416151](../patents/DE416151.md) | 1925-07-08 |  | Copy device for typewriters |  |
-| [DE418388](../patents/DE418388.md) | 1925-09-05 |  | Inhibiting device for the feed movement of the paper cart of typewriters |  |
-| [DE422363](../patents/DE422363.md) | 1925-11-28 |  | typewriter |  |
-| [DE424876](../patents/DE424876.md) | 1926-02-05 |  | Sound-absorbing housing for typewriters |  |
-| [DE428227](../patents/DE428227.md) | 1926-04-27 |  | Roller storage for the writing carriage |  |
-| [DE429782](../patents/DE429782.md) | 1926-06-07 |  | Roller guide for the typewriter car |  |
-| [DE431518](../patents/DE431518.md) | 1926-07-08 |  | Switching device for typewriters with three types each having type levers |  |
-| [DE435860](../patents/DE435860.md) | 1926-10-19 |  | Impact device for the type lever of typewriters | typebar |
-| [DE437413](../patents/DE437413.md) | 1926-11-20 |  | Paper holder for typewriters |  |
-| [DE448293](../patents/DE448293.md) | 1927-08-15 |  | Type lever bearing for typewriters | typebar |
-| [DE452925](../patents/DE452925.md) | 1927-11-23 |  | typewriter |  |
-| [DE453322](../patents/DE453322.md) | 1927-12-03 |  | Typewriter with a sound-absorbing housing |  |
-| [DE454914](../patents/DE454914.md) | 1928-01-26 |  | Base for typewriter housing |  |
-| [DE464935](../patents/DE464935.md) | 1928-09-01 |  | Line switch for typewriters |  |
-| [DE464937](../patents/DE464937.md) | 1928-09-04 |  | Typewriter for writing on bundles of paper |  |
-| [DE468552](../patents/DE468552.md) | 1928-11-17 |  | Sound-absorbing housing for typewriters |  |
-| [DE475672](../patents/DE475672.md) | 1929-04-29 |  | Typewriter with the guide rail for the car and the car switchgear receiving, &hellip; |  |
-| [DE479848](../patents/DE479848.md) | 1929-07-23 |  | Typewriter, in which the paper roller carriage is moved back to the starting &hellip; |  |
-| [DE492966](../patents/DE492966.md) | 1930-03-01 |  | Drive for the ribbon fork of typewriters |  |
-| [DE492962](../patents/DE492962.md) | 1930-03-03 |  | Adjustment device for the switch frame of typewriters |  |
-| [DE492963](../patents/DE492963.md) | 1930-03-04 |  | Downshift device for typewriters |  |
-| [DE492965](../patents/DE492965.md) | 1930-03-05 |  | Typewriter with several carbon sheet carriers arranged one above the other |  |
-| [DE501091](../patents/DE501091.md) | 1930-06-27 |  | Line switching device for typewriters with a length of the paper webs to be &hellip; |  |
-| [DE502800](../patents/DE502800.md) | 1930-07-19 |  | Device on typewriters for writing on long tapes |  |
+| [DE335771](../patents/DE335771.md) | 1921-04-12 | Co, Underwood Typewriter | Paper cart |  |
+| [DE337650](../patents/DE337650.md) | 1921-06-06 | Co, Underwood Computing Machine | Schreibrechenmaschine |  |
+| [DE346585](../patents/DE346585.md) | 1922-01-03 | Co, Underwood Typewriter | tab |  |
+| [DE346586](../patents/DE346586.md) | 1922-01-04 | Co, Underwood Typewriter | Key lever bearing |  |
+| [DE346817](../patents/DE346817.md) | 1922-01-07 | Co, Underwood Typewriter | Device for laying out writing sheets |  |
+| [DE346818](../patents/DE346818.md) | 1922-01-09 | Co, Underwood Typewriter | Typewriter for writing on paper webs |  |
+| [DE346819](../patents/DE346819.md) | 1922-01-09 | Co, Underwood Typewriter | typewriter |  |
+| [DE352497](../patents/DE352497.md) | 1922-04-29 | Co, Underwood Typewriter | Typewriter with horizontally arranged platen and in the direction of rotation &hellip; |  |
+| [DE356916](../patents/DE356916.md) | 1922-08-08 | Co, Underwood Typewriter | Typewriter with automatic line break or backward movement of the carriage by &hellip; |  |
+| [DE356969](../patents/DE356969.md) | 1922-08-10 | Co, Underwood Typewriter | Typewriter with a swiveling drum support frame |  |
+| [DE358207](../patents/DE358207.md) | 1922-09-07 | Co, Underwood Typewriter | Typewriter with a swiveling platen |  |
+| [DE358545](../patents/DE358545.md) | 1922-09-15 | Co, Underwood Computing Machine | Schreibrechenmaschine |  |
+| [DE359984](../patents/DE359984.md) | 1922-09-28 | Co, Underwood Typewriter | typewriter |  |
+| [DE360379](../patents/DE360379.md) | 1922-10-02 | Co, Underwood Typewriter | Type lever guide |  |
+| [DE361702](../patents/DE361702.md) | 1922-10-19 | Co, Underwood Computing Machine | Schreibrechenmaschine, auf der subtrahierte Zahlen in einer von addierten Zahlen abweichenden Farbe zum Aufdruck gelangen |  |
+| [DE364445](../patents/DE364445.md) | 1922-11-24 | Co, Underwood Typewriter | Type lever rods for typewriters | typebar |
+| [DE365592](../patents/DE365592.md) | 1922-12-18 | Co, Underwood Typewriter | Roller pressure device for the writing paper against the platen |  |
+| [DE366620](../patents/DE366620.md) | 1923-01-09 | Co, Underwood Typewriter | typewriter |  |
+| [DE366621](../patents/DE366621.md) | 1923-01-09 | Co, Underwood Typewriter | typewriter |  |
+| [DE366719](../patents/DE366719.md) | 1923-01-10 | Co, Underwood Typewriter | typewriter | typebar |
+| [DE366721](../patents/DE366721.md) | 1923-01-10 | Co, Underwood Typewriter | typewriter |  |
+| [DE366726](../patents/DE366726.md) | 1923-01-10 | Co, Underwood Typewriter | Device for the exact alignment of paper sheets to be inserted |  |
+| [DE366727](../patents/DE366727.md) | 1923-01-10 | Co, Underwood Typewriter | Changeover device for the stroke movement of the ribbon |  |
+| [DE366905](../patents/DE366905.md) | 1923-01-13 | Co, Underwood Typewriter | Ribbon moving mechanism for typewriters |  |
+| [DE368217](../patents/DE368217.md) | 1923-02-01 | Co, Underwood Typewriter | Line switch |  |
+| [DE371610](../patents/DE371610.md) | 1923-03-16 | Co, Underwood Typewriter | Typewriter for writing on paper webs |  |
+| [DE371982](../patents/DE371982.md) | 1923-03-19 | Co, Underwood Typewriter | Guide for typewriters |  |
+| [DE371983](../patents/DE371983.md) | 1923-03-23 | Co, Underwood Typewriter | Device on typewriters for classifying writing sheets |  |
+| [DE375794](../patents/DE375794.md) | 1923-05-18 | Co, Underwood Typewriter | Typewriter with front sheet metal insert for writing sheets |  |
+| [DE376272](../patents/DE376272.md) | 1923-05-26 | Co, Underwood Typewriter | Lightweight typewriter |  |
+| [DE376561](../patents/DE376561.md) | 1923-05-29 | Co, Underwood Typewriter | Accent printing device |  |
+| [DE376721](../patents/DE376721.md) | 1923-06-02 | Co, Underwood Typewriter | typewriter | typebar |
+| [DE376722](../patents/DE376722.md) | 1923-06-07 | Co, Underwood Typewriter | Stroke adjustment device for the ribbon guide |  |
+| [DE377031](../patents/DE377031.md) | 1923-06-08 | Co, Underwood Typewriter | Switching device for the platen |  |
+| [DE377032](../patents/DE377032.md) | 1923-06-09 | Co, Underwood Typewriter | Locking device for the shift keys |  |
+| [DE377416](../patents/DE377416.md) | 1923-06-19 | Co, Underwood Typewriter | Device for holding stiff writing paper against the platen |  |
+| [DE377918](../patents/DE377918.md) | 1923-06-30 | Co, Underwood Typewriter | typewriter | typebar |
+| [DE380640](../patents/DE380640.md) | 1923-09-08 | Co, Underwood Typewriter | Line switch |  |
+| [DE381278](../patents/DE381278.md) | 1923-09-18 | Co, Underwood Typewriter | Typewriter with double switching |  |
+| [DE381439](../patents/DE381439.md) | 1923-09-20 | Co, Underwood Typewriter | Ribbon guide |  |
+| [DE384112](../patents/DE384112.md) | 1923-10-26 | Co, Underwood Typewriter | Device on typewriters for pressing the writing paper against the platen |  |
+| [DE386404](../patents/DE386404.md) | 1923-12-08 | Co, Underwood Typewriter | Multiplier on typewriters |  |
+| [DE390192](../patents/DE390192.md) | 1924-02-14 | Co, Underwood Typewriter | Paper guiding device for typewriters |  |
+| [DE397853](../patents/DE397853.md) | 1924-07-04 | Co, Underwood Typewriter | Schreibmaschine mit abnehmbarem, den Hemmechanismus tragenden Rahmen |  |
+| [DE398714](../patents/DE398714.md) | 1924-07-15 | Co, Underwood Typewriter | typewriter |  |
+| [DE402627](../patents/DE402627.md) | 1924-09-17 | Co, Underwood Typewriter | Paper guide for typewriters |  |
+| [DE403519](../patents/DE403519.md) | 1924-09-30 | Co, Underwood Typewriter | Paper guiding device for typewriters |  |
+| [DE403515](../patents/DE403515.md) | 1924-10-01 | Co, Underwood Typewriter | Typewriter with reversible paper roller |  |
+| [DE403516](../patents/DE403516.md) | 1924-10-01 | Co, Underwood Typewriter | Vehicle jamming device for typewriters |  |
+| [DE403517](../patents/DE403517.md) | 1924-10-01 | Co, Underwood Typewriter | Papierschlittenschaltvorrichtung an Schreibmaschinen |  |
+| [DE404176](../patents/DE404176.md) | 1924-10-14 | Co, Underwood Typewriter | Typewriter with movable support frame for the platen |  |
+| [DE406089](../patents/DE406089.md) | 1924-11-14 | Co, Underwood Typewriter | Typewriter with a paper carriage frame that can be adjusted to three different &hellip; | sliding bars |
+| [DE406090](../patents/DE406090.md) | 1924-11-14 | Co, Underwood Typewriter | Spring drive equipped with a fine adjustment device for the paper slide of &hellip; |  |
+| [DE406094](../patents/DE406094.md) | 1924-11-15 | Co, Underwood Typewriter | Device for holding stiff writing paper against the platen |  |
+| [DE406625](../patents/DE406625.md) | 1924-11-28 | Co, Underwood Typewriter | Cutting device on typewriters that work with longitudinally folded paper |  |
+| [DE408426](../patents/DE408426.md) | 1925-01-17 | Co, Underwood Typewriter | Typewriter with a switch frame carrying the carriage along with the platen and &hellip; |  |
+| [DE408431](../patents/DE408431.md) | 1925-01-19 | Co, Underwood Typewriter | Type lever guide for typewriters |  |
+| [DE410547](../patents/DE410547.md) | 1925-03-10 | Co, Underwood Typewriter | Line switch |  |
+| [DE412416](../patents/DE412416.md) | 1925-04-21 | Co, Underwood Typewriter | Typewriter working in conjunction with a calculating machine |  |
+| [DE416150](../patents/DE416150.md) | 1925-07-07 | Co, Underwood Typewriter | Guide for typewriter carts |  |
+| [DE416151](../patents/DE416151.md) | 1925-07-08 | Co, Underwood Typewriter | Copy device for typewriters |  |
+| [DE418388](../patents/DE418388.md) | 1925-09-05 | Co, Underwood Typewriter | Inhibiting device for the feed movement of the paper cart of typewriters |  |
+| [DE422363](../patents/DE422363.md) | 1925-11-28 | Co, Underwood Typewriter | typewriter |  |
+| [DE424876](../patents/DE424876.md) | 1926-02-05 | Co, Underwood Typewriter | Sound-absorbing housing for typewriters |  |
+| [DE428227](../patents/DE428227.md) | 1926-04-27 | Co, Underwood Typewriter | Roller storage for the writing carriage |  |
+| [DE429782](../patents/DE429782.md) | 1926-06-07 | Co, Underwood Typewriter | Roller guide for the typewriter car |  |
+| [DE431518](../patents/DE431518.md) | 1926-07-08 | Co, Underwood Typewriter | Switching device for typewriters with three types each having type levers |  |
+| [DE435860](../patents/DE435860.md) | 1926-10-19 | Co, Underwood Typewriter | Impact device for the type lever of typewriters | typebar |
+| [DE437413](../patents/DE437413.md) | 1926-11-20 | Co, Underwood Typewriter | Paper holder for typewriters |  |
+| [DE448293](../patents/DE448293.md) | 1927-08-15 | Co, Underwood Typewriter | Type lever bearing for typewriters | typebar |
+| [DE452925](../patents/DE452925.md) | 1927-11-23 | Co, Underwood Typewriter | typewriter |  |
+| [DE453322](../patents/DE453322.md) | 1927-12-03 | Co, Underwood Typewriter | Typewriter with a sound-absorbing housing |  |
+| [DE454914](../patents/DE454914.md) | 1928-01-26 | Co, Underwood Typewriter | Base for typewriter housing |  |
+| [DE464935](../patents/DE464935.md) | 1928-09-01 | Co, Underwood Elliott Fisher | Line switch for typewriters |  |
+| [DE464937](../patents/DE464937.md) | 1928-09-04 | Co, Underwood Elliott Fisher | Typewriter for writing on bundles of paper |  |
+| [DE468552](../patents/DE468552.md) | 1928-11-17 | Co, Underwood Typewriter | Sound-absorbing housing for typewriters |  |
+| [DE475672](../patents/DE475672.md) | 1929-04-29 | Co, Underwood Elliott Fisher | Typewriter with the guide rail for the car and the car switchgear receiving, &hellip; |  |
+| [DE479848](../patents/DE479848.md) | 1929-07-23 | Co, Underwood Elliott Fisher | Typewriter, in which the paper roller carriage is moved back to the starting &hellip; |  |
+| [DE492966](../patents/DE492966.md) | 1930-03-01 | Co, Underwood Elliott Fisher | Drive for the ribbon fork of typewriters |  |
+| [DE492962](../patents/DE492962.md) | 1930-03-03 | Co, Underwood Elliott Fisher | Adjustment device for the switch frame of typewriters |  |
+| [DE492963](../patents/DE492963.md) | 1930-03-04 | Co, Underwood Elliott Fisher | Downshift device for typewriters |  |
+| [DE492965](../patents/DE492965.md) | 1930-03-05 | Co, Underwood Elliott Fisher | Typewriter with several carbon sheet carriers arranged one above the other |  |
+| [DE501091](../patents/DE501091.md) | 1930-06-27 | Co, Underwood Elliott Fisher | Line switching device for typewriters with a length of the paper webs to be &hellip; |  |
+| [DE502800](../patents/DE502800.md) | 1930-07-19 | Co, Underwood Elliott Fisher | Device on typewriters for writing on long tapes |  |
 | [DE506055](../patents/DE506055.md) | 1930-08-28 | Comp, Underwood Elliott Fischer | Line switch |  |
-| [DE506058](../patents/DE506058.md) | 1930-08-28 |  | Paper guide, especially for portable typewriters with front upper pressure &hellip; |  |
-| [DE508101](../patents/DE508101.md) | 1930-09-24 |  | Multiplier on typewriters |  |
-| [DE509608](../patents/DE509608.md) | 1930-10-10 |  | Paper guide for typewriters with front stop |  |
-| [DE515469](../patents/DE515469.md) | 1931-01-05 |  | Edge limiting device for typewriters |  |
-| [DE525096](../patents/DE525096.md) | 1931-05-19 |  | Paper cart tour on typewriters |  |
-| [DE530738](../patents/DE530738.md) | 1931-07-31 |  | Typewriter switching device for typewriters |  |
-| [DE530898](../patents/DE530898.md) | 1931-08-03 |  | Momentary switch for typewriters with a carriage retraction motor |  |
-| [DE534406](../patents/DE534406.md) | 1931-09-28 |  | Center lock for portable typewriters |  |
-| [DE550576](../patents/DE550576.md) | 1932-05-13 |  | Papierwagenschaltvorrichtung fuer Schreibmaschinen |  |
-| [DE557652](../patents/DE557652.md) | 1932-08-26 |  | Typewriter with front type stop | typebar |
+| [DE506058](../patents/DE506058.md) | 1930-08-28 | Co, Underwood Elliott Fisher | Paper guide, especially for portable typewriters with front upper pressure &hellip; |  |
+| [DE508101](../patents/DE508101.md) | 1930-09-24 | Co, Underwood Elliott Fisher | Multiplier on typewriters |  |
+| [DE509608](../patents/DE509608.md) | 1930-10-10 | Co, Underwood Elliott Fisher | Paper guide for typewriters with front stop |  |
+| [DE515469](../patents/DE515469.md) | 1931-01-05 | Co, Underwood Elliott Fisher | Edge limiting device for typewriters |  |
+| [DE525096](../patents/DE525096.md) | 1931-05-19 | Co, Underwood Elliott Fisher | Paper cart tour on typewriters |  |
+| [DE530738](../patents/DE530738.md) | 1931-07-31 | Co, Underwood Elliott Fisher | Typewriter switching device for typewriters |  |
+| [DE530898](../patents/DE530898.md) | 1931-08-03 | Co, Underwood Elliott Fisher | Momentary switch for typewriters with a carriage retraction motor |  |
+| [DE534406](../patents/DE534406.md) | 1931-09-28 | Co, Underwood Elliott Fisher | Center lock for portable typewriters |  |
+| [DE550576](../patents/DE550576.md) | 1932-05-13 | Co, Underwood Elliott Fisher | Papierwagenschaltvorrichtung fuer Schreibmaschinen |  |
+| [DE557652](../patents/DE557652.md) | 1932-08-26 | Co, Underwood Elliott Fisher | Typewriter with front type stop | typebar |
 | [USD89709](../patents/USD89709.md) | 1933-04-25 | Kurowski, Alfred G. F. | Design for a Braille-Writing Machine |  |
-| [DE577922](../patents/DE577922.md) | 1933-06-07 |  | Device for returning the paper cart from typewriters by means of an electric &hellip; |  |
-| [DE597820](../patents/DE597820.md) | 1934-05-31 |  | Universal rail arrangement on typewriters |  |
-| [DE602329](../patents/DE602329.md) | 1934-09-10 |  | Typewriter with auxiliary ribbon |  |
-| [DE603255](../patents/DE603255.md) | 1934-09-26 |  | Spacer for the feed rollers of typewriters or the like. |  |
-| [DE613630](../patents/DE613630.md) | 1935-05-23 |  | Reverse gear clutch for typewriters |  |
+| [DE577922](../patents/DE577922.md) | 1933-06-07 | Co, Underwood Elliott Fisher | Device for returning the paper cart from typewriters by means of an electric &hellip; |  |
+| [DE597820](../patents/DE597820.md) | 1934-05-31 | Co, Underwood Elliott Fisher | Universal rail arrangement on typewriters |  |
+| [DE602329](../patents/DE602329.md) | 1934-09-10 | Co, Underwood Elliott Fisher | Typewriter with auxiliary ribbon |  |
+| [DE603255](../patents/DE603255.md) | 1934-09-26 | Co, Underwood Elliott Fisher | Spacer for the feed rollers of typewriters or the like. |  |
+| [DE613630](../patents/DE613630.md) | 1935-05-23 | Co, Underwood Elliott Fisher | Reverse gear clutch for typewriters |  |
 | [DE621712](../patents/DE621712.md) | 1935-11-12 | Comp, Underwood Elliott Fischer | Tabulator for typewriters |  |
-| [DE754200](../patents/DE754200.md) | 1936-07-23 |  | Calculating machine or the like with a two-part platen |  |
-| [DE634972](../patents/DE634972.md) | 1936-09-08 |  | Automatic switching device for the longitudinal movement of the ribbon on &hellip; |  |
-| [DE634900](../patents/DE634900.md) | 1936-09-10 |  | Carbon paper feed device for typewriters or the like. |  |
-| [DE641477](../patents/DE641477.md) | 1937-02-01 |  | Lifting frame used to switch the platen frame of typewriters |  |
-| [DE649760](../patents/DE649760.md) | 1937-09-06 |  | Typewriter with a platen frame that can be raised and lowered |  |
-| [DE657304](../patents/DE657304.md) | 1938-03-01 |  | Typewriter support housing |  |
-| [DE658354](../patents/DE658354.md) | 1938-04-01 |  | Tabulator on typewriters or the like. |  |
+| [DE754200](../patents/DE754200.md) | 1936-07-23 | Co, Underwood Elliott Fisher | Calculating machine or the like with a two-part platen |  |
+| [DE634972](../patents/DE634972.md) | 1936-09-08 | Co, Underwood Elliott Fisher | Automatic switching device for the longitudinal movement of the ribbon on &hellip; |  |
+| [DE634900](../patents/DE634900.md) | 1936-09-10 | Co, Underwood Elliott Fisher | Carbon paper feed device for typewriters or the like. |  |
+| [DE641477](../patents/DE641477.md) | 1937-02-01 | Co, Underwood Elliott Fisher | Lifting frame used to switch the platen frame of typewriters |  |
+| [DE649760](../patents/DE649760.md) | 1937-09-06 | Co, Underwood Elliott Fisher | Typewriter with a platen frame that can be raised and lowered |  |
+| [DE657304](../patents/DE657304.md) | 1938-03-01 | Co, Underwood Elliott Fisher | Typewriter support housing |  |
+| [DE658354](../patents/DE658354.md) | 1938-04-01 | Co, Underwood Elliott Fisher | Tabulator on typewriters or the like. |  |
 | [DE660493](../patents/DE660493.md) | 1938-05-25 | Comp, Underwood Elliott Fischer | Typewriter tab device |  |
 | [DE666521](../patents/DE666521.md) | 1938-10-21 | Comp, Underwood Elliott Fischer | Document holder for flat panel typewriters or the like. |  |
-| [DE668034](../patents/DE668034.md) | 1938-11-23 |  | Device for controlling the writing plate of flat-plate typewriters |  |
-| [DE673488](../patents/DE673488.md) | 1939-03-23 |  | Paper slides on typewriters |  |
-| [DE674195](../patents/DE674195.md) | 1939-04-06 |  | Switching device for typewriters or the like. |  |
-| [DE674700](../patents/DE674700.md) | 1939-04-21 |  | Line tabulator on typewriters |  |
-| [DE681053](../patents/DE681053.md) | 1939-09-13 |  | Typewriter with a paper carriage that can move laterally in both directions and &hellip; |  |
-| [DE685035](../patents/DE685035.md) | 1939-12-11 |  | Paper trolley lift device on typewriters driven by an electric motor |  |
-| [DE686395](../patents/DE686395.md) | 1940-01-09 |  | Line break device on typewriters |  |
-| [DE693031](../patents/DE693031.md) | 1940-07-01 |  | Shock absorber device for typewriter carts |  |
+| [DE668034](../patents/DE668034.md) | 1938-11-23 | Co, Underwood Elliott Fisher | Device for controlling the writing plate of flat-plate typewriters |  |
+| [DE673488](../patents/DE673488.md) | 1939-03-23 | Co, Underwood Elliott Fisher | Paper slides on typewriters |  |
+| [DE674195](../patents/DE674195.md) | 1939-04-06 | Co, Underwood Elliott Fisher | Switching device for typewriters or the like. |  |
+| [DE674700](../patents/DE674700.md) | 1939-04-21 | Co, Underwood Elliott Fisher | Line tabulator on typewriters |  |
+| [DE681053](../patents/DE681053.md) | 1939-09-13 | Co, Underwood Elliott Fisher | Typewriter with a paper carriage that can move laterally in both directions and &hellip; |  |
+| [DE685035](../patents/DE685035.md) | 1939-12-11 | Co, Underwood Elliott Fisher | Paper trolley lift device on typewriters driven by an electric motor |  |
+| [DE686395](../patents/DE686395.md) | 1940-01-09 | Co, Underwood Elliott Fisher | Line break device on typewriters |  |
+| [DE693031](../patents/DE693031.md) | 1940-07-01 | Co, Underwood Elliott Fisher | Shock absorber device for typewriter carts |  |
 | [DE693974](../patents/DE693974.md) | 1940-07-23 | Comp, Underwood Elliott Fischer | Rest bearing for the type lever of typewriters, method and device for producing &hellip; | typebar |
 | [DE702895](../patents/DE702895.md) | 1941-02-19 | Helmond, William Ferdinand | Paper guiding device for typewriters |  |
 | [DE707082](../patents/DE707082.md) | 1941-06-13 | Adelbert, Anderson Walter | Booking machine, typewriter, typewriter etc. like |  |
-| [DE765018](../patents/DE765018.md) | 1942-01-23 |  | typewriter | typebar |
-| [DE879551](../patents/DE879551.md) | 1943-01-31 |  | Paper roller bearings in typewriters |  |
-| [DE877906](../patents/DE877906.md) | 1943-06-21 |  | Margin adjustment device on power operated typewriters |  |
-| [DE926252](../patents/DE926252.md) | 1943-06-27 |  | Typewriter with noiseless type carriers pressed against the paper roller | typebar |
-| [DE909940](../patents/DE909940.md) | 1944-06-28 |  | Control device on electric typewriters with billing device |  |
-| [DE901006](../patents/DE901006.md) | 1946-06-27 |  | Accounting machine |  |
-| [DE911373](../patents/DE911373.md) | 1947-03-21 |  | Drive device for the type carrier of a power-driven typewriter |  |
-| [DE907416](../patents/DE907416.md) | 1948-02-16 |  | Tabulator for typewriters |  |
-| [DE914011](../patents/DE914011.md) | 1948-11-07 |  | End-of-line locking device on a powered typewriter |  |
-| [DE913898](../patents/DE913898.md) | 1948-12-01 |  | Power driven billing device on typewriters |  |
-| [DE891843](../patents/DE891843.md) | 1949-05-06 |  | Ribbon guide and drive device for typewriters and similar machines |  |
-| [DE899721](../patents/DE899721.md) | 1950-03-20 |  | Printing adding machine |  |
-| [DE865316](../patents/DE865316.md) | 1950-08-02 |  | Adjustment device for the type lever stop force and the ribbon fork stroke on &hellip; | typebar |
-| [DE904656](../patents/DE904656.md) | 1950-09-13 |  | Type lever drive for typewriters | typebar |
+| [DE765018](../patents/DE765018.md) | 1942-01-23 | Co, Underwood Elliott Fisher | typewriter | typebar |
+| [DE879551](../patents/DE879551.md) | 1943-01-31 | Corp, Underwood | Paper roller bearings in typewriters |  |
+| [DE877906](../patents/DE877906.md) | 1943-06-21 | Corp, Underwood | Margin adjustment device on power operated typewriters |  |
+| [DE926252](../patents/DE926252.md) | 1943-06-27 | Corp, Underwood | Typewriter with noiseless type carriers pressed against the paper roller | typebar |
+| [DE909940](../patents/DE909940.md) | 1944-06-28 | Corp, Underwood | Control device on electric typewriters with billing device |  |
+| [DE901006](../patents/DE901006.md) | 1946-06-27 | Corp, Underwood | Accounting machine |  |
+| [DE911373](../patents/DE911373.md) | 1947-03-21 | Corp, Underwood | Drive device for the type carrier of a power-driven typewriter |  |
+| [DE907416](../patents/DE907416.md) | 1948-02-16 | Corp, Underwood | Tabulator for typewriters |  |
+| [DE914011](../patents/DE914011.md) | 1948-11-07 | Corp, Underwood | End-of-line locking device on a powered typewriter |  |
+| [DE913898](../patents/DE913898.md) | 1948-12-01 | Corp, Underwood | Power driven billing device on typewriters |  |
+| [DE891843](../patents/DE891843.md) | 1949-05-06 | Corp, Underwood | Ribbon guide and drive device for typewriters and similar machines |  |
+| [DE899721](../patents/DE899721.md) | 1950-03-20 | Corp, Underwood | Printing adding machine |  |
+| [DE865316](../patents/DE865316.md) | 1950-08-02 | Corp, Underwood | Adjustment device for the type lever stop force and the ribbon fork stroke on &hellip; | typebar |
+| [DE904656](../patents/DE904656.md) | 1950-09-13 | Corp, Underwood | Type lever drive for typewriters | typebar |

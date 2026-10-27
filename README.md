@@ -1,6 +1,6 @@
 # Typewriters & Patents
 
-The history of the typewriter through its patents and machines: 10,201 patents (US 1829–1951, Germany 1877–1950) with drawings and plain-English summaries, 1,045 machines with makers, years, prices and features, and the mechanisms they used, from the first experiments to the electric office machine. Typebar, type-element and index machines are all here; index typewriters get the most depth.
+The history of the typewriter through its patents and machines: 10,393 patents (US 1829–1951, Germany 1877–1950) with drawings and plain-English summaries, 1,045 machines with makers, years, prices and features, and the mechanisms they used, from the first experiments to the electric office machine. Typebar, type-element and index machines are all here; index typewriters get the most depth.
 
 ## Start here
 
@@ -46,7 +46,7 @@ The history of the typewriter through its patents and machines: 10,201 patents (
 
     ---
 
-    The 89 index machines by type carrier, 98 mechanism features by subsystem, the inventors.
+    The 89 index machines by type carrier, 99 mechanism features by subsystem, the inventors.
 
 -   **[Machines A–Z](machines/README.md)**
 
@@ -58,7 +58,7 @@ The history of the typewriter through its patents and machines: 10,201 patents (
 
     ---
 
-    All 10,201 patents, oldest first; 10,189 read and summarised in full.
+    All 10,393 patents, oldest first; 10,381 read and summarised in full.
 
 </div>
 

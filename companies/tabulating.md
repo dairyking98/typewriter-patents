@@ -5,7 +5,7 @@ Name variants: TABULATING MACHINE COMPANY; TABULATING MACHINE CO; TABULATING MAS
 
 ## Inventors
 
-[Tauschek, Gustav](../people/tauschek-g.md) (3), [Maul, Michael](../people/maul-m.md) (1)
+[Tauschek, Gustav](../people/tauschek-g.md) (3), [Co, Tabulating Machine](../people/co-t.md) (2), [Maul, Michael](../people/maul-m.md) (1)
 
 ## Patents assigned (20)
 
@@ -24,8 +24,8 @@ Name variants: TABULATING MACHINE COMPANY; TABULATING MACHINE CO; TABULATING MAS
 | [DE544368](../patents/DE544368.md) | 1932-02-20 |  | Electrically controlled tabulator |  |
 | [DE547675](../patents/DE547675.md) | 1932-04-04 | Tauschek, Gustav | Tabulating machine with transfer printing device | band |
 | [DE550887](../patents/DE550887.md) | 1932-05-25 |  | Statistical machine with printing device controlled by punch cards | band |
-| [DE551285](../patents/DE551285.md) | 1932-06-03 |  | Machine for the evaluation of sorted punch cards, whose hole values ( &hellip; | individual type |
-| [DE557923](../patents/DE557923.md) | 1932-08-30 |  | Paper tape arrangement for machines controlled by number cards |  |
+| [DE551285](../patents/DE551285.md) | 1932-06-03 | Co, Tabulating Machine | Machine for the evaluation of sorted punch cards, whose hole values ( &hellip; | individual type |
+| [DE557923](../patents/DE557923.md) | 1932-08-30 | Co, Tabulating Machine | Paper tape arrangement for machines controlled by number cards |  |
 | [DE558781](../patents/DE558781.md) | 1932-09-12 | Tauschek, Gustav | Table printing machine |  |
 | [DE559505](../patents/DE559505.md) | 1932-09-21 |  | Kartengesteuerte Geschaeftsmaschine mit Druckvorrichtung |  |
 | [DE562670](../patents/DE562670.md) | 1932-10-28 |  | Druckvorrichtung mit schwingbar an einem beweglichen Traeger sitzenden Typenhebeln |  |

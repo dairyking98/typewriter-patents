@@ -11,11 +11,11 @@ Name variants: Barr to The Smith Premier Typewriter Comp; BARR MORSE CORP; Barr-
 
 ## Inventors
 
-[Brown - Barr, Alexander T. - John H](../people/brown-barr-a.md) (1)
+[Brown - Barr, Alexander T. - John H](../people/brown-barr-a.md) (1), [Corp, Burroughs](../people/corp-b.md) (1)
 
 ## Patents assigned (2)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
 | [US903443](../patents/US903443.md) | 1908-11-10 | Brown - Barr, Alexander T. - John H. | Type-Writing Machine | typebar |
-| [DE535861](../patents/DE535861.md) | 1931-10-16 |  | Type lever drive for typewriters | typebar |
+| [DE535861](../patents/DE535861.md) | 1931-10-16 | Corp, Barr Morse | Type lever drive for typewriters | typebar |

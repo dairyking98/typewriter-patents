@@ -4,13 +4,12 @@
 
 Keys that only set the carrier position (index by keys); one print action
 
-**80 patents**, 1868–1948. Often together with:
+**87 patents**, 1868–1948. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (37), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (31), [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) (24)
-- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (28)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (25)
-- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (28), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (24)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (22)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (41), [Keys drive the element by racks or gears](../features/sel-differential-drive.md) (32), [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) (27)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (29)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (30), [Separate print key or lever](../features/imp-print-lever.md) (24)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (30), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (27)
 
 **Machines:** [Mercury 3](../machines/mercury-3.md) (2), [Gardner](../machines/gardner.md) (2), [Postal 5](../machines/postal-5.md) (2), [Eagle](../machines/eagle.md) (1), [Moya Visible 1](../machines/moya-visible-1.md) (1), [Moya Visible 2](../machines/moya-visible-2.md) (1)
 
@@ -84,13 +83,20 @@ Keys that only set the carrier position (index by keys); one print action
 | [DE340363](../patents/DE340363.md) | 1921 | Schuster, Carl | A single numbered segment is turned by a cam-set setting segment; each key's cam sets it to the right position, and striking the key prints the number. |
 | [DE343623](../patents/DE343623.md) | 1921 | Brune, Hans | A row of five keys on a shaft is depressed to set the carriage slide to the chosen decimal place; a shaft-carried strip limits the rotation so that only the pressed key moves, and a lever drives the line-switching pawl. |
 | [DE344036](../patents/DE344036.md) | 1921 | Luckhard, Karl Ludwig | A light type-wheel machine set on the writing surface, with key-lever lengths pulling Bowden cables to turn the wheel by the amount for each character and press the wheel onto the paper. |
-| [DE352316](../patents/DE352316.md) | 1922 |  | Two presettable stops are linked so that when one is active the other is switched off; the stroke of the type-bar lever is limited by whichever stop is in the working position, so the bar prints the keyed number or the counter value. |
+| [DE352316](../patents/DE352316.md) | 1922 | Akt, Optische Anstalt C P Goerz | Two presettable stops are linked so that when one is active the other is switched off; the stroke of the type-bar lever is limited by whichever stop is in the working position, so the bar prints the keyed number or the counter value. |
 | [DE354182](../patents/DE354182.md) | 1922 | Behrens, Bordt & | A new circuit lets a pull rod, stopped by the depressed key, drive the printing lever for a partial sum while the number rolls are not returned to zero. |
-| [DE354901](../patents/DE354901.md) | 1922 |  | Stepped bodies (stairs) on the rods, driven by the keys and the main eccentric, limit the stroke of the type-sector rod; a nose on the rod rests against the steps so that the sector is positioned for the keyed value or the counter value. |
+| [DE354901](../patents/DE354901.md) | 1922 | Ag, Vorm Seidel & Naumann | Stepped bodies (stairs) on the rods, driven by the keys and the main eccentric, limit the stroke of the type-sector rod; a nose on the rod rests against the steps so that the sector is positioned for the keyed value or the counter value. |
 | [DE380641](../patents/DE380641.md) | 1923 | Fries, Rudolf | Shafts run parallel to the key rows in a box above the keys. Each auxiliary key moves a spring that connects a thumb-wheel to a sleeve, and a stop thumb strikes the main key. A guide rail on each auxiliary key sets the coupling time. |
 | [DE381429](../patents/DE381429.md) | 1923 | Wolff, Bela | Setting keys act via key bars on one setting lever each, which move a common oscillating shaft to adjust the platen height, all in one unit with the typewriter. |
+| [JP65094](../patents/JP65094.md) | 1925 | Ishii, Genko | A round rotating type magazine is turned by hand under several fixed hammer-and-push-button printing sets, with turning indicators showing the characters right way round, so adjacent characters in a row can be struck one after another without turning the magazine. |
+| [JP69296](../patents/JP69296.md) | 1926 | Takashima, Kan | A 48-key chequerboard keyboard where each key face carries 48 index characters laid out like the keys: a first 'provisional' key press stops a spinning case on the stick holding the character, then the key bearing the character prints it by row and column bars that turn and extend a type lever. |
+| [JP72292](../patents/JP72292.md) | 1927 | Watanabe, Osamu | Two-step keying: a change key turns a hollow multi-compartment type cylinder to the required row via a cam shaft and sector, then an operating key slides the paper cylinder to the column, and its second press brings the type cylinder to the paper and ejects the one type. |
+| [JP75711](../patents/JP75711.md) | 1927 | Watanabe, Osamu | A type cylinder with many sliding types, turned to the wanted row by a cam/key system, has an inner spiral projection cylinder that pushes out only the wanted type when the paper cylinder, carried on a sliding frame, is swung down. |
 | [DE455593](../patents/DE455593.md) | 1928 | Schilling, Fritz | Make the switching keys of one group into several keys (rows of two or three) on a shared key lever, each giving a different switching action, so five finger positions give 90 or more characters without moving the hands. |
-| [DE570377](../patents/DE570377.md) | 1933 |  | Each key lever gets a nose that enters its slot in the switching bridge and couples the bridge to the key lever as it reaches its stop, so no extra holder is needed. |
+| [JP86009](../patents/JP86009.md) | 1929 | Shimada, Minokichi | A horizontal, constantly motor-turned disc holds radially sliding type cases; a key energises magnets that raise guide plates which push only the wanted case inward, and that case picks up a normally idle printing starter which lifts one type and strikes it against the paper cylinder. |
+| [JP92610](../patents/JP92610.md) | 1931 | Uchida, Kōichi | A row of identical arc-shaped type frames, one per digit position, each turned by a space-advancing sliding piece driven from control levers so the chosen type comes to the top, then all pushed together into a stamp holder. |
+| [JP94273](../patents/JP94273.md) | 1931 | Ishii, Shōkichi | Set many rim-typed magazine discs side by side on an arc shaft, each with its own key and type bar, so that once the magazines are turned to one row, any of the types in that row can be printed one after another from the keys. |
+| [DE570377](../patents/DE570377.md) | 1933 | G, Bing Werke Vorm Gebr Bing A | Each key lever gets a nose that enters its slot in the switching bridge and couples the bridge to the key lever as it reaches its stop, so no extra holder is needed. |
 | [DE625422](../patents/DE625422.md) | 1936 | Loewenbuck, Sebastian | Fix the keyboard on an immovable board and let a separate drive lever, worked by the other hand, set and print the type wheel against a stop bar that rests under the struck key. |
 | [DE658819](../patents/DE658819.md) | 1938 | Ficker, Theodor | Let each type wheel turn either way, with two keys per control member and tongues arranged so that frequent types lie at the shortest angular paths. |
 | [DE683955](../patents/DE683955.md) | 1939 | Strauss, Emil | Six keys, three for each axis and weighted 1, 2, 4, with their movements adding when pressed together, select any of 126 types on a type plate or cylinder following a Braille dot pattern, then a hammer prints. |

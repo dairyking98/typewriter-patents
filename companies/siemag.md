@@ -21,13 +21,13 @@ Name variants: Siemag Siegener Maschb Akt Ges; Siemag Siegener Maschb A G; Siema
 
 ## Inventors
 
-
+[Ges, Siemens & Halske Akt](../people/ges-s.md) (1), [Ag, Seidel & Naumann](../people/ag-s.md) (1)
 
 ## Patents assigned (4)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE805876](../patents/DE805876.md) | 1948-12-28 |  | Detachable locking of the in the side walls of writing, booking u. Like. |  |
-| [DE804103](../patents/DE804103.md) | 1948-12-29 |  | Switching lock with car freewheel on writing, booking u. like machines |  |
-| [DE809815](../patents/DE809815.md) | 1948-12-29 |  | Type lever drive for writing, booking u. like machines | typebar |
+| [DE805876](../patents/DE805876.md) | 1948-12-28 | G, Siemag Siegener Maschb A | Detachable locking of the in the side walls of writing, booking u. Like. |  |
+| [DE804103](../patents/DE804103.md) | 1948-12-29 | Ges, Siemag Siegener Maschb Akt | Switching lock with car freewheel on writing, booking u. like machines |  |
+| [DE809815](../patents/DE809815.md) | 1948-12-29 | Ag, Siemag Siegener Maschb | Type lever drive for writing, booking u. like machines | typebar |
 | [DE900940](../patents/DE900940.md) | 1948-12-29 | M, Siemag Vertriebsgesellschaft | Roller freewheel for writing, booking u. like machines |  |

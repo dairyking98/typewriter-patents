@@ -13,7 +13,7 @@ Name variants: ERWIN O HABERFELD; Erwin O Haberfeld; ERWIN SIMON; ERWIN JUSTUS A
 |---|---|---|---|---|
 | [DE346067](../patents/DE346067.md) | 1921-12-22 | Simon, Erwin | Maschine zur Erzielung einer der Schreibmaschinenschrift aehnlichen Schrift auf dem Vervielfaeltigungswege |  |
 | [DE349599](../patents/DE349599.md) | 1922-03-06 | Simon, Erwin | Maschine zur Erzielung einer der Schreibmaschinenschrift aehnlichen Schrift auf dem Vervielfaeltigungswege |  |
-| [DE415692](../patents/DE415692.md) | 1925-06-27 |  | Copyable certificate ribbon for typewriters |  |
+| [DE415692](../patents/DE415692.md) | 1925-06-27 | G, Erwin Justus A | Copyable certificate ribbon for typewriters |  |
 | [DE540076](../patents/DE540076.md) | 1931-12-08 | Haberfeld, Erwin O | Device on typewriters for inserting and setting an account sheet in front of a &hellip; |  |
 | [DE548600](../patents/DE548600.md) | 1932-04-18 | Haberfeld, Erwin O | Paper guide for typewriters |  |
 | [DE576717](../patents/DE576717.md) | 1933-05-15 | Haberfeld, Erwin O | Device on typewriters for inserting and setting an account sheet in front of a &hellip; |  |

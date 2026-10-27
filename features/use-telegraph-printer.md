@@ -4,13 +4,15 @@
 
 Printing telegraph or remote printing
 
-**129 patents**, 1872–1950. Often together with:
+**131 patents**, 1872–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (26), [Selection locked for printing](../features/sel-selector-locking.md) (16)
 - **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (22)
 - **Typebars:** [Typebars](../features/elem-typebar.md) (14), [Power-driven type action](../features/bar-power-action.md) (11)
 - **Impression:** [Electric drive](../features/imp-electric.md) (40), [Hammer behind the paper](../features/imp-hammer-behind.md) (11)
 - **Uses:** [Attachment or accessory](../features/use-accessory.md) (15)
+
+**Machines:** [Nippon](../machines/nippon.md) (1)
 
 ## Patents, oldest first
 
@@ -73,20 +75,21 @@ Printing telegraph or remote printing
 | [US1106638](../patents/US1106638.md) | 1914 | Drewell, Heinrich | A punch is selected by the type bar only when it is near its printing position, so the perforation matches the printed character. |
 | [US1115473](../patents/US1115473.md) | 1914 | Cornwall, George R. | A printing apparatus whose type wheels are stopped and character impressions made under control of a perforated controller strip that also governs spaces and justification. |
 | [US1138851](../patents/US1138851.md) | 1915 | des Jardins, Benjamin M. | A hand-turned type wheel with a matching index is coupled to a stack of spring-return stop disks which, stopped one after another by an escapement ring, shift the printed character away from the pointed-at letter by a changing offset. |
+| [JP37882](../patents/JP37882.md) | 1919 | Sugimoto, Kyōta | Move a type plate under a fixed index board with one handle; a conical point seating in a perforated plate corrects the position, and pressing the same handle strikes the paper onto the chosen character. |
 | [DE320490](../patents/DE320490.md) | 1920 | E, Litinsky | Typewriter-style telegraph keyboards with a type wheel or exchange organ switch their key assignment automatically after an agreed number of letters or revolutions, so the cipher changes often without manual work. |
 | [DE320489](../patents/DE320489.md) | 1920 | E, Litinsky | Common remote printers with typewriter-like keyboards and type wheels are used, and the key designations or type sequence are changed by agreement so the transmitted text appears as cipher to unauthorised stations. |
 | [DE320491](../patents/DE320491.md) | 1920 | Constructi, Gen Engineering And | One alternating-current phase switches the transmitter tape and prints drawing elements through positive or negative pulses, with a perforated tape and two rows of holes carrying the element pulses. |
 | [DE322042](../patents/DE322042.md) | 1920 | E, Litinsky | The meaning of the immobile contacts behind the keys is reordered instead of the key names, so the keys keep their names and no secondary keyboard is needed. |
 | [DE324149](../patents/DE324149.md) | 1920 | Reuter, Chr | When the paper carriage reaches its extreme right position a lifting rod engages a lever with the motor-driven ratchet wheel, and linkage then turns the paper feed roller by one line width, after which the lever is pushed back. |
 | [DE329967](../patents/DE329967.md) | 1920 | Saernmark, Axel Uno | Positive-polarized and negative-polarized relays at the receiver respond to the sequence and number of current surges sent over one line with earth return, switching local circuits such as lamps and magnets. |
-| [DE348160](../patents/DE348160.md) | 1922 |  | A capacitor and a relay are provided for each character element; line-current surges charge the capacitors, and their discharge, switched in sequence, sets the polarized relays and the print magnet. |
+| [DE348160](../patents/DE348160.md) | 1922 | Ges, Siemens & Halske Akt | A capacitor and a relay are provided for each character element; line-current surges charge the capacitors, and their discharge, switched in sequence, sets the polarized relays and the print magnet. |
 | [DE381276](../patents/DE381276.md) | 1923 | Holzapfel, Adolf | A clockwork rotates a paper disk while a screw spindle moves two pens radially to write Morse characters in spirals; it works from a pocket. |
-| [DE381964](../patents/DE381964.md) | 1923 |  | Add a mechanical printing type behind each transparent type on the same disc that prints a visible control line on a paper tape before the lamp exposes the film. |
+| [DE381964](../patents/DE381964.md) | 1923 | Deutsche, Correx Akt Ges | Add a mechanical printing type behind each transparent type on the same disc that prints a visible control line on a paper tape before the lamp exposes the film. |
 | [DE396224](../patents/DE396224.md) | 1924 | Lebeis, Martin | Each punch row carries a value in a binary-like series (1, 2, 4, 8, 16) so each character is a unique sum of hole values, giving the maximum number of distinct characters per row count. |
 | [DE408949](../patents/DE408949.md) | 1925 | Fa, Scherbius & Ritter | Before the hook engages, a friction clutch shifts the type wheel shaft from a fast gear to a slow gear, so the hook catches a slowly turning ratchet wheel. |
-| [DE423548](../patents/DE423548.md) | 1926 | Creed, Frederick George | The type wheel is driven by friction from a continuously rotating auxiliary shaft running about 30 to 35 percent faster than the main shaft; a selector lever engages and holds the wheel in print position until the character is imprinted. |
+| [DE423548](../patents/DE423548.md) | 1926 | Fa, Creed & Co Ltd | The type wheel is driven by friction from a continuously rotating auxiliary shaft running about 30 to 35 percent faster than the main shaft; a selector lever engages and holds the wheel in print position until the character is imprinted. |
 | [DE451424](../patents/DE451424.md) | 1927 | Lebeis, Martin | Six-row punched tape gives binary values (1,2,4,8,16,32); each type carrier is coupled to a common mover for partial movements adding to its position, and the whole line is set and printed at once. |
-| [DE451426](../patents/DE451426.md) | 1927 |  | A sheet metal writing pad pivots on bearing lugs, with a spring pawl torquing it onto the platen through elastic rollers. |
+| [DE451426](../patents/DE451426.md) | 1927 | Winklhofer, Wanderer Werke Vorm | A sheet metal writing pad pivots on bearing lugs, with a spring pawl torquing it onto the platen through elastic rollers. |
 | [DE460573](../patents/DE460573.md) | 1928 | Chauveau, Louis Lucien Eugene | A character selector and letter selector circuit translate long and short pulses separated by pauses into letters on a typewriter. |
 | [DE478036](../patents/DE478036.md) | 1929 |  | The type wheel, its gear parts and its setting magnet all sit on one shaft and tilt together onto the paper under a pressure magnet. |
 | [DE498214](../patents/DE498214.md) | 1930 | Berryman, Thomas James | The receiving station moves the selecting parts in oscillating, rotary and axial motions, with signal-controlled guides, channels and pins, so that opposite characters are distinguished and translated into typed characters. |
@@ -101,18 +104,19 @@ Printing telegraph or remote printing
 | [DE567547](../patents/DE567547.md) | 1933 | Gal, Andreas | A typesetting keyboard punches a tape that moves the template for embossing or printing, so the forms are made without casting. |
 | [DE567933](../patents/DE567933.md) | 1933 | Kraemer, Wenzeslaus | When the type wheel stops, a falling weight in a spoke tube drops to the letter's angular position and pivots its type lever, and an electromagnet resets it. |
 | [DE576187](../patents/DE576187.md) | 1933 | Hinrichs, Herbert | A typewriter or teleprinter with a check device automatically adds a control letter to each code word, computed from the values of the selected letters by moving a letter disc or band against an indicator. |
-| [DE579006](../patents/DE579006.md) | 1933 |  | A guide symbol's position and length set the field to be evaluated, so only the needed part of the strip is read. |
+| [DE579006](../patents/DE579006.md) | 1933 | Ges, Siemens & Halske Akt | A guide symbol's position and length set the field to be evaluated, so only the needed part of the strip is read. |
 | [DE598882](../patents/DE598882.md) | 1934 | Marchthal, Eduard | Two groups of special height keys, one choosing the font or size group and one choosing the type row within the group, drive a motor-powered rake and hook that lift the drum to the right row without returning to the bottom each time. |
-| [DE603551](../patents/DE603551.md) | 1934 |  | A stationary platen with a light circular type-lever basket on a rotating spindle, with the selector mechanism moved inside the basket. |
+| [DE603551](../patents/DE603551.md) | 1934 | Ltd, Creed & Co | A stationary platen with a light circular type-lever basket on a rotating spindle, with the selector mechanism moved inside the basket. |
 | [DE603698](../patents/DE603698.md) | 1934 | Pfeiffer, Otto | Clutch control steers the drive to one of several code rods, which are then brought under pressure, instead of scanning. |
 | [DE604053](../patents/DE604053.md) | 1934 | Wernecke, Otto | The sensing levers that scan the selector rails also feel the punched tape directly, so one set of parts serves both keyboard and tape. |
-| [DE613072](../patents/DE613072.md) | 1935 |  | Counting and display members are set by combination rails and work without derailleurs so the pointer shows the exact total width of the line. |
+| [DE613072](../patents/DE613072.md) | 1935 | Corp, Teletype | Counting and display members are set by combination rails and work without derailleurs so the pointer shows the exact total width of the line. |
 | [DE622049](../patents/DE622049.md) | 1935 | Knutsen, Knut Andreas | Keep the type wheel turning in drive while its carrier moves so the type rolls on the paper with zero relative speed. |
 | [DE638179](../patents/DE638179.md) | 1936 | Schulze, Fritz | Attachments on the selector rails are brought into the punch path by the character combination and directly actuate a shared punching hammer, with no separate eccentric control. |
-| [DE641796](../patents/DE641796.md) | 1937 |  | A typewriter-like keyboard moves a transparency with the character set into the light beam, and a perforated disc scans it to make current pulses. |
+| [DE641796](../patents/DE641796.md) | 1937 | Corp, Internat Inv S | A typewriter-like keyboard moves a transparency with the character set into the light beam, and a perforated disc scans it to make current pulses. |
+| [JP121662](../patents/JP121662.md) | 1937 | Katō, Kenjirō | At the end of travel a base slider swings the sideways-feed rack out of mesh, letting the stored spring force return the carriage, and the rack swing turns the platen one line. |
 | [DE648312](../patents/DE648312.md) | 1937 | Kreuzer, Friedrich | The writing elements are arranged on a type wheel that turns synchronously with the transmitter; the wheel brings each needed element into the print field in turn, and a cam wheel times a print hammer to imprint them one after another. |
-| [DE759613](../patents/DE759613.md) | 1938 |  | A slide rail with two alternating extensions is shifted by stops in the ribbon, so an indexing pawl pair switches to the other reel gear and the ribbon reverses direction. |
-| [DE656088](../patents/DE656088.md) | 1938 |  | A type wheel with grooves and teeth carries two offset rows of types, and one of two print hammer extensions engages depending on the groove arrangement, so letters and figures print in different rows. |
+| [DE759613](../patents/DE759613.md) | 1938 | Ltd, Creed & Co | A slide rail with two alternating extensions is shifted by stops in the ribbon, so an indexing pawl pair switches to the other reel gear and the ribbon reverses direction. |
+| [DE656088](../patents/DE656088.md) | 1938 | Akt, Standard Elek Zitaets Ges | A type wheel with grooves and teeth carries two offset rows of types, and one of two print hammer extensions engages depending on the groove arrangement, so letters and figures print in different rows. |
 | [DE661262](../patents/DE661262.md) | 1938 | Bauder, Josef | A transmitter stores every typed character in one buffer so the shift character is sent automatically, decoupling the key rate from the transmission. |
 | [DE668821](../patents/DE668821.md) | 1938 | Hell, - Rudolf | The character picture lines are grouped into line groups, one per text line, and recorded by a magnet system with a cutting edge against a rotating roller, so that a whole sheet of text is recorded as lines. |
 | [DE670673](../patents/DE670673.md) | 1939 | Griffith, Ronald George | A pair of levers acts as the intermediate link: a cam pushes the two legs apart at right angles to the control movement so that one leg engages or disengages the controlled member. |
@@ -124,8 +128,8 @@ Printing telegraph or remote printing
 | [DE689963](../patents/DE689963.md) | 1940 | Geissler, Friedrich | A tensioned resilient drive member, released by received characters, drives the print hammer so the moved masses are small. |
 | [DE700441](../patents/DE700441.md) | 1940 | Bauder, Josef | A switch rail in the memory transmitter keys the type-group change character into the perforated tape by a second stamp or stamps of the existing set, so an ordinary typewriter keyboard can be used. |
 | [DE701607](../patents/DE701607.md) | 1941 | Adams, Arthur Herman | A light type wheel on a travelling carriage in front of a fixed platen is turned by a closed band whose length is changed by five laterally movable rollers, each adding a step count of 1, 2, 4, 8 or 16, so the wheel goes directly from one character to the next. |
-| [DE923552](../patents/DE923552.md) | 1941 |  | Colour the platen itself with a solid ink stick, either full platen length or travelling along the platen, so the writing system transfers colour from platen to paper. |
-| [DE703331](../patents/DE703331.md) | 1941 |  | Recording writing levers driven by a camshaft rest on the paper in alternation, each writing a line that is widened to form the transmitted picture elements. |
+| [DE923552](../patents/DE923552.md) | 1941 | Ag, Lorenz C | Colour the platen itself with a solid ink stick, either full platen length or travelling along the platen, so the writing system transfers colour from platen to paper. |
+| [DE703331](../patents/DE703331.md) | 1941 | C, Lorenz Akt Ges | Recording writing levers driven by a camshaft rest on the paper in alternation, each writing a line that is widened to form the transmitted picture elements. |
 | [DE703624](../patents/DE703624.md) | 1941 | Dressler, Max | One or two common stop rails at a fixed distance from the key levers limit the rail travel and hold the same end position at every setting. |
 | [DE706265](../patents/DE706265.md) | 1941 | Engel, Herbert | The largest travel of the type wheel is assigned to a later adjusting member, and the adjusting members are set by a cam drive in place of magnets. |
 | [DE709955](../patents/DE709955.md) | 1941 | Nichols, Harry James | An endless belt moving with the record carrier senses the marks, and a synchronising pulse keeps the registration movement in phase. |
@@ -140,8 +144,8 @@ Printing telegraph or remote printing
 | [DE744545](../patents/DE744545.md) | 1944 | Lahl, - Alfred | The special key is locked after it is pressed, so the feedback signal is sent once only after the connection is set up. |
 | [DE745629](../patents/DE745629.md) | 1944 | Ab, Venturo | Types are fixed on a chain or band moved past the paper, and staggered electromagnets select each type so that several letters can be written in one pass. |
 | [DE745913](../patents/DE745913.md) | 1944 | Willers, Hans Bodo | Two groups of control discs each drive a lever system: one shifts the type carrier axially and the other rotates it, so the selection needs at most 64 steps split across two shorter paths. |
-| [DE872517](../patents/DE872517.md) | 1948 |  | A brush soaked in ink, with bristles free to move in every direction, paints the type. A slowly rotating disc brush or a longer brush spreads wear, and it is fed ink from a pitted rotating roller or sphere in a sealed container. |
+| [DE872517](../patents/DE872517.md) | 1948 | Ag, Lorenz C | A brush soaked in ink, with bristles free to move in every direction, paints the type. A slowly rotating disc brush or a longer brush spreads wear, and it is fed ink from a pitted rotating roller or sphere in a sealed container. |
 | [DE1086072](../patents/DE1086072.md) | 1948 | Dirks, Gerhard | Mark the signal sequence to be corrected with identification signals that trigger scanning of a separate memory location holding the correction sequence, which is then output in its place. |
 | [DE1113945](../patents/DE1113945.md) | 1948 | Dirks, Gerhard | Address symbol combinations call pre-stored partial messages from a magnetic selection memory, matched by relay comparison groups, into a writing or printing machine. |
-| [DE866664](../patents/DE866664.md) | 1949 |  | A dye tube or cylinder with its outlet as a nozzle sits so the rotating brush passes over it, letting dye out slowly so the brush soaks it up during rotation. |
-| [DE863357](../patents/DE863357.md) | 1950 |  | After each impression the type wheel is shifted axially so the last-printed type brushes over an ink body beside the print point and the printed letter is uncovered. |
+| [DE866664](../patents/DE866664.md) | 1949 | Ag, Lorenz C | A dye tube or cylinder with its outlet as a nozzle sits so the rotating brush passes over it, letting dye out slowly so the brush soaks it up during rotation. |
+| [DE863357](../patents/DE863357.md) | 1950 | Ag, Lorenz C | After each impression the type wheel is shifted axially so the last-printed type brushes over an ink body beside the print point and the printed letter is uncovered. |

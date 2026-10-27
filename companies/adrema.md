@@ -5,7 +5,7 @@ Name variants: ADREMA MASCHINENBAU; Adrema Maschb G M B H; Adrema Werke Ges Mit 
 
 ## Inventors
 
-[Maschinenbau, Adrema](../people/maschinenbau-a.md) (9)
+[Maschinenbau, Adrema](../people/maschinenbau-a.md) (9), [Beschraen, Adrema Werke Ges Mit](../people/beschraen-a.md) (2)
 
 ## Patents assigned (14)
 
@@ -20,8 +20,8 @@ Name variants: ADREMA MASCHINENBAU; Adrema Maschb G M B H; Adrema Werke Ges Mit 
 | [DE654560](../patents/DE654560.md) | 1937-12-27 | Maschinenbau, Adrema | Embossing machine for address printing or similar printing plates with an &hellip; |  |
 | [DE700102](../patents/DE700102.md) | 1940-12-13 | Maschinenbau, Adrema | back panels |  |
 | [DE707814](../patents/DE707814.md) | 1941-07-04 | Maschinenbau, Adrema | Spring winding mechanism for the plate holder trolley of stamping machines u. &hellip; |  |
-| [DE926134](../patents/DE926134.md) | 1943-07-13 |  | Address printing plate made of stampable sheet metal |  |
-| [DE830650](../patents/DE830650.md) | 1947-05-16 |  | Line switching for address printing plate holders on stamping machines |  |
-| [DE846697](../patents/DE846697.md) | 1947-05-29 |  | Guide of the slide for address printing plate holder on embossing machines |  |
-| [DE915089](../patents/DE915089.md) | 1948-03-16 |  | Die for embossing underlines |  |
-| [DE819243](../patents/DE819243.md) | 1948-10-02 |  | Spring winding mechanism, especially for the plate holder trolley of stamping &hellip; |  |
+| [DE926134](../patents/DE926134.md) | 1943-07-13 | Beschraen, Adrema Werke Ges Mit | Address printing plate made of stampable sheet metal |  |
+| [DE830650](../patents/DE830650.md) | 1947-05-16 | H, Adrema Maschb G M B | Line switching for address printing plate holders on stamping machines |  |
+| [DE846697](../patents/DE846697.md) | 1947-05-29 | H, Adrema Maschb G M B | Guide of the slide for address printing plate holder on embossing machines |  |
+| [DE915089](../patents/DE915089.md) | 1948-03-16 | Beschraen, Adrema Werke Ges Mit | Die for embossing underlines |  |
+| [DE819243](../patents/DE819243.md) | 1948-10-02 | H, Adrema Maschb G M B | Spring winding mechanism, especially for the plate holder trolley of stamping &hellip; |  |

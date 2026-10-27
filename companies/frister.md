@@ -24,4 +24,4 @@ Name variants: A.G. vorm. Frister & Rossmann; Frister & Rossmann A.G; FRISTER & 
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE403521](../patents/DE403521.md) | 1924-10-01 |  | Ribbon switching device for typewriters |  |
+| [DE403521](../patents/DE403521.md) | 1924-10-01 | G, Frister & Rossmann A | Ribbon switching device for typewriters |  |

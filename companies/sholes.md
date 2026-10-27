@@ -5,7 +5,7 @@ Name variants: The Sholes Standard Typewriter Comp; SHOLES STANDARD TYPEWRITER C
 
 ## Inventors
 
-[Sholes, Zalmon G](../people/sholes-z.md) (4)
+[Sholes, Zalmon G](../people/sholes-z.md) (4), [Co, Sholes Standard Typewriter](../people/co-s.md) (1)
 
 ## Patents assigned (5)
 
@@ -15,4 +15,4 @@ Name variants: The Sholes Standard Typewriter Comp; SHOLES STANDARD TYPEWRITER C
 | [US1165546](../patents/US1165546.md) | 1915-12-28 | Sholes, Zalmon G. | Ribbon-Shift for Type-Writers |  |
 | [US1165547](../patents/US1165547.md) | 1915-12-28 | Sholes, Zalmon G. | Line-Spacing Adjustment for Type-Writers |  |
 | [US1166390](../patents/US1166390.md) | 1915-12-28 | Sholes, Zalmon G. | Type-Writer Platen |  |
-| [DE324145](../patents/DE324145.md) | 1920-08-23 |  | Removable paper cart carrier |  |
+| [DE324145](../patents/DE324145.md) | 1920-08-23 | Co, Sholes Standard Typewriter | Removable paper cart carrier |  |

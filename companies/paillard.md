@@ -23,7 +23,7 @@ Name variants: PAILLARD & CIE SA E; Paillard Sa; E. Paillard & Cie. A.G; E.Paill
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE348154](../patents/DE348154.md) | 1922-01-31 |  | Table writer |  |
+| [DE348154](../patents/DE348154.md) | 1922-01-31 | E, Paillard & Co | Table writer |  |
 | [DE630774](../patents/DE630774.md) | 1936-06-05 | E, Paillard & Cie Sa | Device on typewriters for moving the universal shaft |  |
 | [DE634646](../patents/DE634646.md) | 1936-09-01 | E, Paillard & Cie Sa | Kinematograph fuer Filme verschiedener Breite |  |
 | [DE644340](../patents/DE644340.md) | 1937-04-29 | E, Paillard & Cie Sa | Device for the automatic reversal of the ribbon length movement on typewriters &hellip; |  |

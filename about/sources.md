@@ -8,6 +8,7 @@ description: "Where the patents, machines, summaries, timelines and links in Typ
 
 - **US patents (1829–1951):** the typewriter patent list behind this library, with texts, drawings and classes from [Google Patents](https://patents.google.com) (public domain documents). Drawings are linked from Google, not copied.
 - **German patents (1877–1950):** lists from [DEPATISnet](https://depatisnet.dpma.de) (the German patent office, DPMA) and Google Patents; texts and the English translation of old German patents from Google Patents; every German patent page links its original scan at DEPATISnet. Dates of old German patents without a listed date are estimated from the patent number.
+- **Japanese patents and utility models (1892–1949):** the list and the scans from [J-PlatPat](https://www.j-platpat.inpit.go.jp) (the Japan Patent Office's database, INPIT); the transcriptions and English translations were made by machine from the page images and checked against OCR. Every Japanese patent page links its original at J-PlatPat. More are added as they are translated.
 - **Summaries** (the Summary and Reading on patent pages, feature tags, patent families) were made by machine from the patent text and OCR. Check the patent and its drawings before relying on a detail.
 
 ## Machines

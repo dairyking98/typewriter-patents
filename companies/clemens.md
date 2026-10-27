@@ -29,21 +29,21 @@ Name variants: CLEMENS MUELLER AKT GES; Clemens Müller GmbH; Clemens Müller A.
 
 ## Inventors
 
-[Voigt, Clemens A](../people/voigt-c.md) (2), [Storch, Otto](../people/storch-o.md) (1)
+[Ges, Clemens Mueller Akt](../people/ges-c.md) (8), [Voigt, Clemens A](../people/voigt-c.md) (2), [Storch, Otto](../people/storch-o.md) (1)
 
 ## Patents assigned (12)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE348774](../patents/DE348774.md) | 1922-02-15 |  | Line switch |  |
-| [DE348775](../patents/DE348775.md) | 1922-02-15 |  | Clutch for the line indexing wheel of the paper roller |  |
-| [DE348778](../patents/DE348778.md) | 1922-02-15 |  | Type lever bearing segment for typewriters | typebar |
-| [DE348777](../patents/DE348777.md) | 1922-02-17 |  | Device for fixing the tiltable carriage carrier |  |
-| [DE351949](../patents/DE351949.md) | 1922-04-19 |  | Device for guiding removable paper roll frames on typewriters |  |
-| [DE358708](../patents/DE358708.md) | 1922-09-15 |  | Locking device for the hold-ups on tabs |  |
-| [DE427661](../patents/DE427661.md) | 1926-04-10 |  | Device for locking the paper cart, in particular portable typewriters |  |
-| [DE436210](../patents/DE436210.md) | 1926-10-28 |  | Rechnende Schreibmaschine |  |
-| [DE628468](../patents/DE628468.md) | 1936-04-04 |  | Selbstkassierende Sperrvorrichtung fuer Schreibmaschinen |  |
+| [DE348774](../patents/DE348774.md) | 1922-02-15 | Ges, Clemens Mueller Akt | Line switch |  |
+| [DE348775](../patents/DE348775.md) | 1922-02-15 | Ges, Clemens Mueller Akt | Clutch for the line indexing wheel of the paper roller |  |
+| [DE348778](../patents/DE348778.md) | 1922-02-15 | Ges, Clemens Mueller Akt | Type lever bearing segment for typewriters | typebar |
+| [DE348777](../patents/DE348777.md) | 1922-02-17 | Ges, Clemens Mueller Akt | Device for fixing the tiltable carriage carrier |  |
+| [DE351949](../patents/DE351949.md) | 1922-04-19 | Ges, Clemens Mueller Akt | Device for guiding removable paper roll frames on typewriters |  |
+| [DE358708](../patents/DE358708.md) | 1922-09-15 | Ges, Clemens Mueller Akt | Locking device for the hold-ups on tabs |  |
+| [DE427661](../patents/DE427661.md) | 1926-04-10 | G, Clemens Mueller A | Device for locking the paper cart, in particular portable typewriters |  |
+| [DE436210](../patents/DE436210.md) | 1926-10-28 | Ges, Clemens Mueller Akt | Rechnende Schreibmaschine |  |
+| [DE628468](../patents/DE628468.md) | 1936-04-04 | Ges, Clemens Mueller Akt | Selbstkassierende Sperrvorrichtung fuer Schreibmaschinen |  |
 | [DE754967](../patents/DE754967.md) | 1937-05-30 | Voigt, Clemens A | Rubber key for typewriters u. like |  |
 | [DE743836](../patents/DE743836.md) | 1944-01-04 | Storch, Otto | Key button, especially for typewriters |  |
 | [DE852320](../patents/DE852320.md) | 1950-08-10 | Voigt, Clemens August | Elastic, flexible component, preferably for supporting typewriters and &hellip; |  |

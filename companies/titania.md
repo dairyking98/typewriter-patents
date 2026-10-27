@@ -18,4 +18,4 @@ Name variants: The Titania Schreibmaschinen Gesellschaft m. b. H; TITANIA SCHREI
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
 | [US1153582](../patents/US1153582.md) | 1915-09-14 | Steiner, Adolf | Keyboard-machine |  |
-| [DE345368](../patents/DE345368.md) | 1921-12-13 |  | Typewriter with a plunger |  |
+| [DE345368](../patents/DE345368.md) | 1921-12-13 | B, Titania Schreibmaschinen G M | Typewriter with a plunger |  |

@@ -9,4 +9,4 @@
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE861757](../patents/DE861757.md) | 1950-10-31 |  | Paper guides for writing or printing business machines, especially adding, &hellip; |  |
+| [DE861757](../patents/DE861757.md) | 1950-10-31 | H, Exacta Bueromaschinen G M B | Paper guides for writing or printing business machines, especially adding, &hellip; |  |

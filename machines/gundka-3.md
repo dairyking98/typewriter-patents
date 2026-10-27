@@ -12,7 +12,7 @@ strike: "front strike"
 inking: "ribbon"
 shift: "double shift"
 characters: "84"
-patents: 5
+patents: 0
 tags: ["machine"]
 ---
 
@@ -41,15 +41,10 @@ tags: ["machine"]
 - 1924-26: same. "Normal-width carriage"; ads say 64 characters in 1924, 84 characters in 1926
 - 1925-26: same. Differences only in platen length, key shape or "index"
 
-## Patents (11)
+## Patents (6)
 
 | Patent | Year | Inventor | Title | Confidence | Evidence |
 |---|---|---|---|---|---|
-| [DE413386](../patents/DE413386.md) | 1925 | Muchajer, Paul | Typewriter frame made of sheet metal | high | inventor = designer; patent 1925, machine 1924; assignee = maker |
-| [DE417060](../patents/DE417060.md) | 1925 | Muchajer, Paul | Type cylinder typewriter | high | inventor = designer; patent 1925, machine 1924; assignee = maker; both wheel |
-| [DE428718](../patents/DE428718.md) | 1926 | Muchajer, Paul | Ribbon switching device for type cylinder typewriters | high | inventor = designer; patent 1926, machine 1924; assignee = maker |
-| [DE446207](../patents/DE446207.md) | 1927 | Muchajer, Paul | Device for fine adjustment of the type cylinder of typewriters | high | inventor = designer; patent 1927, machine 1924; assignee = maker; both wheel |
-| [DE446282](../patents/DE446282.md) | 1927 | Muchajer, Paul | Type strips for the production of type cylinders | high | inventor = designer; patent 1927, machine 1924; assignee = maker; both wheel |
 | [DE329783](../patents/DE329783.md) | 1920 | Muchajer, Paul | Device for holding type wheels on their axes | medium | inventor = designer; patent 1920, machine 1924; both wheel |
 | [DE386471](../patents/DE386471.md) | 1923 | Muchajer, Paul | Type cylinder typewriter | medium | inventor = designer; patent 1923, machine 1924; both wheel |
 | [DE386555](../patents/DE386555.md) | 1923 | Muchajer, Paul | Stylus typewriter with type wheel | medium | inventor = designer; patent 1923, machine 1924; both wheel |

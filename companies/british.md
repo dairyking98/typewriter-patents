@@ -12,10 +12,10 @@ Name variants: British Typewriters Ltd; BRITISH DRIVER HARRIS CO LTD
 
 ## Inventors
 
-
+[Ltd, Bell Punch Co](../people/ltd-b.md) (1)
 
 ## Patents assigned (1)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE667042](../patents/DE667042.md) | 1938-11-03 |  | Chrom-Nickel-Legierungen fuer elektrische Widerstaende |  |
+| [DE667042](../patents/DE667042.md) | 1938-11-03 | Ltd, British Driver Harris Co | Chrom-Nickel-Legierungen fuer elektrische Widerstaende |  |

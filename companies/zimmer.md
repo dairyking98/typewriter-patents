@@ -12,10 +12,10 @@ Name variants: ZIMMER & CO KOMMANDITGESELLSCH; Zimmer &Co. K.a.A; Zimmer & Co. K
 
 ## Inventors
 
-
+[Kommanditgesellsch, Zimmer & Co](../people/kommanditgesellsch-z.md) (1)
 
 ## Patents assigned (1)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE420856](../patents/DE420856.md) | 1925-11-03 |  | Type rod drive for typewriters | sliding bars |
+| [DE420856](../patents/DE420856.md) | 1925-11-03 | Kommanditgesellsch, Zimmer & Co | Type rod drive for typewriters | sliding bars |

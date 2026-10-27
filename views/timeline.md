@@ -169,7 +169,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1890s
 
-1490 patents (75 German), 1489 read, 55 index-type.
+1491 patents (75 German, 1 Japanese), 1490 read, 56 index-type.
 
 **First seen:**
 
@@ -191,7 +191,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1900s
 
-2431 patents (99 German), 2430 read, 26 index-type.
+2435 patents (99 German, 4 Japanese), 2434 read, 26 index-type.
 
 **First seen:**
 
@@ -212,7 +212,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1910s
 
-2122 patents (113 German), 2121 read, 15 index-type.
+2142 patents (113 German, 20 Japanese), 2141 read, 20 index-type.
 
 **Index machines:** [Darling (A)](../machines/darling-a.md) (1910, type wheel), [Darling (B)](../machines/darling-b.md) (1910, type disc), [Famos](../machines/famos.md) (1910, type wheel), [Trebla](../machines/trebla.md) (1910, type wheel), [Nouveau Siècle](../machines/nouveau-siecle.md) (1912, type disc), [Aktiv](../machines/aktiv.md) (1913, type wheel), [Mignon 3](../machines/mignon-3.md) (1913, type cylinder), [Virotyp (B)](../machines/virotyp-b.md) (1914, type disc), [Nippon](../machines/nippon.md) (1917, ), [Yu Ess](../machines/yu-ess.md) (1918, type cylinder), [Gerda 1](../machines/gerda-1.md) (1919, type wheel), [Heady](../machines/heady.md) (1919, type wheel)
 
@@ -225,45 +225,49 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 - [US1083646](../patents/US1083646.md) 1914, Wilson, Charles N.: A platen-end attachment with a numbered bell that counts line spaces and rings when the chosen line is reached.
 - [US1138851](../patents/US1138851.md) 1915, des Jardins, Benjamin M.: A hand-turned type wheel with a matching index is coupled to a stack of spring-return stop disks which, stopped one after another by an escapement ring, shift the…
 - [US1146393](../patents/US1146393.md) 1915, Bates - Smith, Harry - Charles E.: A pointer joined to the two margin stops through racks and a loose pinion always sits midway between them.
-- [US1153252](../patents/US1153252.md) 1915, Pritzl, Lorenz L.: A second scale rides on the right margin stop, with an auxiliary half-value scale, so the left stop's pointers read the line length and the centre letter-space directly.
+- [JP34472](../patents/JP34472.md) 1919, Sugimoto, Kyōta: Cover the sliding type magazine with a fixed index plate of the same characters and add a pointer that follows the magazine forward and back and the frame left and…
 
 ## 1920s
 
-1502 patents (1498 German), 1500 read, 26 index-type.
+1554 patents (1498 German, 52 Japanese), 1552 read, 30 index-type.
 
 **Index machines:** [Chinese (B)](../machines/chinese-b.md) (1920, individual type), [Gescha](../machines/gescha.md) (1920, type wheel), [Junior GSN](../machines/junior-gsn.md) (1920, type wheel), [Gerda 2](../machines/gerda-2.md) (1921, type wheel), [Hogar](../machines/hogar.md) (1921, type cylinder), [Die kleine Gundka](../machines/die-kleine-gundka.md) (1924, index (pointer + type wheel)), [Mignon 4](../machines/mignon-4.md) (1924, type cylinder), [Typen](../machines/typen.md) (1924, type wheel), [Karli 1 Einreihig](../machines/karli-1-einreihig.md) (1927, individual type), [Karli 2 Zweireihig](../machines/karli-2-zweireihig.md) (1928, individual type)
 
 **Key patents:**
 
-- [DE334712](../patents/DE334712.md) 1921, inventor unknown: Radial pins pushed out by a cone bear on the middle of balls arranged around them, so the balls clamp the line-space wheel to the platen axle much more firmly.
+- [DE334712](../patents/DE334712.md) 1921, Furtwaengle, Uhrenfabrik Vorm L: Radial pins pushed out by a cone bear on the middle of balls arranged around them, so the balls clamp the line-space wheel to the platen axle much more firmly.
 - [DE332718](../patents/DE332718.md) 1921, Vester, Heinrich: A pointer-driven type cylinder carries several fonts as spring-loaded type pistons, positioned by rotation and axial slide, struck from above by a hammer-tipped key and…
 - [DE381359](../patents/DE381359.md) 1923, Hundt, Otto: A rod sliding in the hollow platen axle carries a driver that engages the line wheel bore, held by springs and released by pushing a button at either end.
 - [DE377030](../patents/DE377030.md) 1923, inventor unknown: Several writing keys per letter field, where the extra keys also move the type cylinder (rotationally or lengthwise) through a gear, so case is chosen by which key is…
 - [DE387764](../patents/DE387764.md) 1924, Herlt, Franz: Two pointers, one each side of the print point, each with two tips at fixed distances, read against the normal carriage scale.
 - [DE406096](../patents/DE406096.md) 1924, inventor unknown: Mount the line pointer on a slider on the clamping strip so it lifts and folds down with the clamp in one motion.
-- [DE387763](../patents/DE387763.md) 1924, inventor unknown: Two double-forked tendons press grooved rollers into engagement with the line wheel, released by turning a handle between the line wheel and lever.
-- [DE434842](../patents/DE434842.md) 1926, inventor unknown: A tooth clutch of spring-loaded swing arms is engaged by a conical hub and released by a plunger through the hollow platen axle, needing a short movement.
+- [JP66476](../patents/JP66476.md) 1925, Akimoto, Takejirō: A concentric index cylinder, carrying the same characters as the type cylinder in a mirrored axial order, turns with the type cylinder but does not slide, so a sight…
+- [DE434842](../patents/DE434842.md) 1926, Fa, A E G I Deutsche Werke A G: A tooth clutch of spring-loaded swing arms is engaged by a conical hub and released by a plunger through the hollow platen axle, needing a short movement.
 
 ## 1930s
 
-1363 patents (1359 German), 1362 read, 10 index-type.
+1440 patents (1359 German, 77 Japanese), 1439 read, 14 index-type.
 
 **Index machines:** [Ludolf](../machines/ludolf.md) (1930, type disc), [Pellaton](../machines/pellaton.md) (1932, type wheel), [Olympia Plurotyp](../machines/olympia-plurotyp.md) (1933, type cylinder), [Carissima](../machines/carissima.md) (1934, type wheel), [Dial De Luxe](../machines/dial-de-luxe.md) (1934, type wheel), [Junior Typewriter](../machines/junior-typewriter.md) (1935, type wheel), [Tip-Tip](../machines/tip-tip.md) (1936, type cylinder), [Shimada](../machines/shimada.md) (1938, ), [Shimada 2](../machines/shimada-2.md) (1938, )
 
 **Key patents:**
 
 - [DE489650](../patents/DE489650.md) 1930, Arondel, Maurice Leon: Incline the type carriers and their guide plate downward so they rest below the writing line, leaving it visible and shortening the machine.
-- [DE521627](../patents/DE521627.md) 1931, inventor unknown: The pivoting upper part is pressed by a torsion spring against a horizontally rotatable flatted disc, so turning the disc sets the holder to the working or rest position.
-- [DE524809](../patents/DE524809.md) 1931, inventor unknown: Both the cable and its sheath are hung in sprung open eyes so the owner can detach and replace the Bowden cable.
+- [JP94148](../patents/JP94148.md) 1931, Katō, Kenjirō: Lay two sliding index plates with alternating windows and index faces over the flat type tray, and move them with a pawl on sloped projections so that only the…
+- [DE521627](../patents/DE521627.md) 1931, Winklhofer, Wanderer Werke Vorm: The pivoting upper part is pressed by a torsion spring against a horizontally rotatable flatted disc, so turning the disc sets the holder to the working or rest position.
 - [DE545922](../patents/DE545922.md) 1932, Sa, Stenotype Grandjean: A one-piece pawl with a switching tooth and a trailing safety tooth, plus an adjustable stop on the holder, moves the ratchet exactly one tooth per stroke.
+- [JP111430](../patents/JP111430.md) 1935, Miki, Chinji: Link the index pointer to the type drum with paired four-bar linkages, and hold the paper in a curved, two-part meshed frame that swings between the index plate and the…
 - [DE639898](../patents/DE639898.md) 1936, Schneider, Julius: Drum is machined in one piece with radial bores and a common ring groove; each square-headed matrix slides in its bore, the heads engage the groove, and return springs…
-- [DE647101](../patents/DE647101.md) 1937, Banholzer, Friedrich: Drive the line indicator with semi-rigid flexible steel strips actuated only from the lower edge, so the other three edges of the holder plate stay free.
-- [DE653658](../patents/DE653658.md) 1937, inventor unknown: Both line indicator bars on a common carrier follow the platen shift and can be moved by one handle between a close-fitting position and a slightly raised position,…
+- [JP127819](../patents/JP127819.md) 1938, Hosoya, Shinji: One handle turns a disc type magazine, a character-table band and pointers together, so the group shown in the window is already under the printing levers and a numbered…
 - [DE673875](../patents/DE673875.md) 1939, inventor unknown: All sheet holding, feeding and switching is combined in one unit at the top edge of the board, with the lower feed roller advanced by a ratchet driven by the clamp bar.
 
 ## 1940s
 
-675 patents (673 German), 672 read, 4 index-type.
+713 patents (673 German, 38 Japanese), 710 read, 5 index-type.
+
+**First seen:**
+
+- 1943: Spacing and escapement: [Platen sideways feed](../features/esc-platen-sideways-feed.md) in [JP163319](../patents/JP163319.md) (Ochiai, Isamu): The platen (not a carriage) is slid sideways along its axis, driven by a rack and pinion, to space the line
 
 **Key patents:**
 
@@ -271,6 +275,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 - [DE714685](../patents/DE714685.md) 1941, Maul, Michael: Four printed index marks at fixed positions identify each character for photoelectric sensing; combinations of marks encode the meaning.
 - [DE708642](../patents/DE708642.md) 1941, Maul, Michael: A single light cell reads each character by moving the card past a sensing point while a beam-guiding device, moved synchronously, scans the index points.
 - [DE720260](../patents/DE720260.md) 1942, Soc, Stenotype Grandjean: A double lever under the hood is dragged out at one end by the ribbon-end buckle, showing a coloured tip outside the hood.
+- [JP159441](../patents/JP159441.md) 1943, Kawahara, Kenji: Label each type with its half-width in platen-feed units and turn a feed dial by the sum of the previous and next type's half-widths before each strike.
 
 ## 1950s
 

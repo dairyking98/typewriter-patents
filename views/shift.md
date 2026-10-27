@@ -8,13 +8,13 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [Shift by moving the platen](../features/shift-platen.md) | Platen or carriage moves to change case | 709 | 7 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▅██▃▁▁▁` |  |
-| [Three or more cases](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 342 | 3 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▄▃▂▁▁ ` |  |
-| [Shift by sliding the element](../features/shift-axial.md) | Element slides along its axis to change case or row | 322 | 11 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▅▂▂▂▁▁` |  |
+| [Shift by moving the platen](../features/shift-platen.md) | Platen or carriage moves to change case | 710 | 7 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▅██▃▁▁▁` |  |
+| [Three or more cases](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 345 | 3 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▄▃▂▁▁ ` |  |
+| [Shift by sliding the element](../features/shift-axial.md) | Element slides along its axis to change case or row | 326 | 12 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▅▂▂▂▁▁` |  |
 | [Shift lock](../features/shift-lock.md) | Shift lock | 186 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁██▆▂▁▁▁` |  |
 | [Shift by turning the element](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 133 | 13 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▄█▄▂▁▁▁ ` |  |
 
-## Index-type patents, oldest first (30)
+## Index-type patents, oldest first (31)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | 1901 | [US666176](../patents/US666176.md) | Blickensderfer, George C. | index | A hand-turned character dial positions a type wheel on one shaft, and after each impression a spring-driven pin-disk escapement automatically rotates the wheel relative… | Shift by sliding the element |
 | 1904 | [US755545](../patents/US755545.md) | Quentell - Judge, William P. - Franklin | index | A printing escapement that holds the wheel from dipping until the stop-arm has hit its stop, plus a cam-driven pawl and ratchet on the index gear that grabs the arm to… | Shift by sliding the element |
 | 1906 | [US824418](../patents/US824418.md) | Farnum, William C. | index | A pivoted pointer on the frame is raised by a link to the platen carriage and is snapped against the platen only at the end of the lift, by a double-acting over-centre… | Shift by moving the platen |
+| 1911 | [JP22193](../patents/JP22193.md) | Sakai, Yasujirō | index | A multi-row type cylinder that is turned and slid by hand on its shaft, with a matching index drum and pointer, and a paper cylinder that is swung against the type… | Shift by sliding the element |
 | 1911 | [US1011366](../patents/US1011366.md) | Payne - Wray, Halbert E. - Silas G. | index | A stamped sheet-metal frame carrying a hand-slid ribbon guide and a spring-loaded pointer is screwed to the platen-shift frame. | Shift by moving the platen |
 | 1920 | [DE327166](../patents/DE327166.md) | Langguth, Robert | index | Each plate field serves two types (for example capital and lower-case letter), and a thumb button on the pointer handle shortens or lengthens the setting slide so the… | Shift by turning the element |
 | 1923 | [DE377030](../patents/DE377030.md) |  | index | Several writing keys per letter field, where the extra keys also move the type cylinder (rotationally or lengthwise) through a gear, so case is chosen by which key is… | Shift by turning the element, Shift by sliding the element |
-| 1937 | [DE653658](../patents/DE653658.md) |  | index | Both line indicator bars on a common carrier follow the platen shift and can be moved by one handle between a close-fitting position and a slightly raised position,… | Shift by moving the platen |
+| 1937 | [DE653658](../patents/DE653658.md) | Winklhofer, Wanderer Werke Vorm | index | Both line indicator bars on a common carrier follow the platen shift and can be moved by one handle between a close-fitting position and a slightly raised position,… | Shift by moving the platen |

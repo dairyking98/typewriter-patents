@@ -4,13 +4,13 @@
 
 Bell near the line end
 
-**255 patents**, 1852–1935. Often together with:
+**261 patents**, 1852–1935. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79)
 - **Typebars:** [Typebars](../features/elem-typebar.md) (78)
-- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (72), [Ribbon feed](../features/ink-ribbon-feed.md) (71)
-- **Spacing and escapement:** [Margin stops](../features/esc-margin-stop.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (113)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (124), [Line spacing](../features/pap-line-space.md) (101)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (73), [Ribbon feed](../features/ink-ribbon-feed.md) (71)
+- **Spacing and escapement:** [Margin stops](../features/esc-margin-stop.md) (118), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (117)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (129), [Line spacing](../features/pap-line-space.md) (106)
 
 **Machines:** [Mercury 3](../machines/mercury-3.md) (3), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (3), [Blickensderfer 7](../machines/blickensderfer-7.md) (3), [Blickensderfer 8](../machines/blickensderfer-8.md) (3), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (3), [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (3), [L. C. Smith 6](../machines/l-c-smith-6.md) (3), [L. C. Smith 7](../machines/l-c-smith-7.md) (3), [Caligraph 3](../machines/caligraph-3.md) (2), [Caligraph 4](../machines/caligraph-4.md) (2), [Caligraph 5](../machines/caligraph-5.md) (2), [Caligraph 6, 7](../machines/caligraph-6-7.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2)
 
@@ -261,13 +261,19 @@ Bell near the line end
 | [US1139080](../patents/US1139080.md) | 1915 | Stickney, Burnham C. | Shift the platen carriage by swinging its hinged supporting frame upward to select upper case, while keeping the escapement working the same. |
 | [US1146148](../patents/US1146148.md) | 1915 | Foothorap, Harry A. | Key levers act on two guided slides with graduated contact rollers, which rotate the wheel through a vibrator and pinion until a stop rack meets the depressed key's stop, then carry the wheel to the platen. |
 | [US1159427](../patents/US1159427.md) | 1915 | Smith, Stephen T. | Four alternating margin gages and a rocking rack bar across both frames set line limits and trigger the bell and line locks for each zone while letting the carriage pass between zones. |
+| [JP30202](../patents/JP30202.md) | 1916 | Sugimoto, Kyōta | A frame carrying a large paper cylinder and a lever that lifts one loose type out of a cell magazine, inks it and strikes it on the paper, with automatic character spacing from the same lever and added line-space, clamp and spring-adjust devices. |
+| [JP31977](../patents/JP31977.md) | 1917 | Shinozawa, Yūsaku | A single handle moved over a flat chart board turns a large type drum (forward-back) and slides the paper-cylinder carriage along the drum (left-right), so the pointer position on the chart maps to the type at the print point. |
+| [JP37752](../patents/JP37752.md) | 1919 | Uwagawa, Atsushi | Pressing a handle lifts a loose two-character type from a tray into a swinging seal cylinder, which then turns to print it on a roller; a turn of the handle head changes lift height to choose the upper or lower character. |
+| [JP37919](../patents/JP37919.md) | 1919 | Shimada, Minokichi | A hook hanging from an upper lever on the cylinder frame engages a lower key-driven lever, and a spring-loaded pin on the hook drives a ratchet and gear on a rack so one key stroke traverses the paper cylinder one character. |
+| [JP39836](../patents/JP39836.md) | 1920 | Yoshimi, Masao | Keep all characters right-reading on one flat stereotype-like plate, move a pointer frame over it by hand, and print through an endless transfer band that takes ink from the type face and deposits it on the paper cylinder. |
 | [DE366618](../patents/DE366618.md) | 1923 | Navarre, Gaston | A carriage-mounted ratchet wheel with a presettable pointer counts line feeds and rings a bell at the chosen line. |
 | [DE369307](../patents/DE369307.md) | 1923 | Fries, Rudolf | A cord from the line-adjuster lever runs through the cover to a crank-driven roller outside, letting the operator advance lines and feel or see the carriage position without opening the box. |
+| [JP60744](../patents/JP60744.md) | 1923 | Yoshimi, Masao | A hand-guided frame carrying a spring-struck printing lever is slid over a flat plate of right-reading characters, and each stroke prints one character onto a narrow continuous tape that feeds on automatically. |
 | [DE381433](../patents/DE381433.md) | 1923 | Reisser, Adolf | One right margin handle sets both the bell and the first key lock and the second lock position, with a special release for the second lock. |
 | [DE385377](../patents/DE385377.md) | 1923 | Sandor, Franz | Make the rail's stop pivot so it yields to the shift rod until that has fully returned, and make the margin stop yield on the backward pass. |
 | [DE403511](../patents/DE403511.md) | 1924 | Reisser, Adolf | A group of stop members is moved by one selectable lever in set sequence, so one hand action sets several carriage stops together. |
 | [DE482198](../patents/DE482198.md) | 1929 | Geb, Merz | A double-armed auxiliary lever drives the bell hammer on one side only; its other arm is picked up by the intermediate lever only during part of the stroke, so the bell is released at the same carriage position whatever the carriage height. |
-| [DE550852](../patents/DE550852.md) | 1932 |  | A pawl carrier for the bell clapper slides vertically and horizontally on a bridge linked to the bell carrier by parallel joint pieces, and hooks onto a rail on the switchover part so it follows its movement. |
+| [DE550852](../patents/DE550852.md) | 1932 | Winklhofer, Wanderer Werke Vorm | A pawl carrier for the bell clapper slides vertically and horizontally on a bridge linked to the bell carrier by parallel joint pieces, and hooks onto a rail on the switchover part so it follows its movement. |
 | [DE564060](../patents/DE564060.md) | 1932 | Soschinski, Bruno | A projection on the platen disc and a fixed trip clapper repeat the signal on the last line and before it. |
 | [DE590241](../patents/DE590241.md) | 1933 | Huellen, Josef | A friction wheel on a housing clamped to the carriage is driven by the platen knob and counts revolutions, with a scale that shows the lines; when the last line is reached a bell signal sounds, and a lever sets the speed for any sheet length. |
 | [DE606911](../patents/DE606911.md) | 1934 | Fa, E D A M S A | A single drive electromagnet pushes a plate carrying the type wheel against the platen, and a cord-and-spring drive rotates the wheel until a lever hits a stop set by the key's small control electromagnet. |

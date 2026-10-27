@@ -9,4 +9,4 @@
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE758943](../patents/DE758943.md) | 1940-07-18 |  | Device for controlling the slide movement of office machines, such as computing &hellip; |  |
+| [DE758943](../patents/DE758943.md) | 1940-07-18 | G, Kabelindustrie A | Device for controlling the slide movement of office machines, such as computing &hellip; |  |

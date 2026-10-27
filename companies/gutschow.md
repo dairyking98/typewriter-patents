@@ -9,4 +9,4 @@
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE357977](../patents/DE357977.md) | 1922-09-04 |  | Ribbon switching device for calculating machines |  |
+| [DE357977](../patents/DE357977.md) | 1922-09-04 | H, Gutschow & Co G M B | Ribbon switching device for calculating machines |  |

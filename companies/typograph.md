@@ -24,5 +24,5 @@ Name variants: The Typograph Comp; TYPOGRAPH G M B H; TYPOGRAPH GMBH; Typograph 
 | [US428891](../patents/US428891.md) | 1890-05-27 | Cash, Arthur W. | Type-Writing Machine |  |
 | [US464944](../patents/US464944.md) | 1891-12-08 | Secor, Jerome B. | Type-Writing Machine |  |
 | [US466600](../patents/US466600.md) | 1892-01-05 | Cash, Arthur Wise | Type-Writing Machine |  |
-| [DE620890](../patents/DE620890.md) | 1935-10-29 |  | Tastwerk mit Kraftantrieb fuer Matrizensetz- und Zeilengiessmaschinen in einem saemtliche Tastwerkteile aufnehmenden Gehaeuse |  |
+| [DE620890](../patents/DE620890.md) | 1935-10-29 | H, Typograph G M B | Tastwerk mit Kraftantrieb fuer Matrizensetz- und Zeilengiessmaschinen in einem saemtliche Tastwerkteile aufnehmenden Gehaeuse |  |
 | [DE741419](../patents/DE741419.md) | 1943-11-11 | Bendorff, Kurt | Keyboard for a die setting and line casting machine for setting syllables and &hellip; | typebar |

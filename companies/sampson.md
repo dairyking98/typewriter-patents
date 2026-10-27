@@ -11,10 +11,10 @@ Name variants: SAMPSON PERMAGRAPH CO; Sampson Permagraph Co. Inc
 
 ## Inventors
 
-
+[Co, Sholes Standard Typewriter](../people/co-s.md) (1)
 
 ## Patents assigned (1)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE619021](../patents/DE619021.md) | 1935-09-25 |  | Typewriter with drum-shaped cylindrical type carrier continuously driven by a &hellip; | rotating carrier |
+| [DE619021](../patents/DE619021.md) | 1935-09-25 | Co, Sampson Permagraph | Typewriter with drum-shaped cylindrical type carrier continuously driven by a &hellip; | rotating carrier |

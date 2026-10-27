@@ -11,8 +11,8 @@ Typewriters & Patents is a library of typewriter history built from the patent r
 
 ## How it was made, and what to trust
 
-- Patent data, text and drawings come from Google Patents; German patent lists and original scans from DEPATISnet (DPMA). Patent documents are public domain; drawings are linked from Google, not copied.
-- Patent summaries, feature tags and patent-to-machine links were made by machine from OCR and from Google's translation of old German patents. Check the patent and its drawings before relying on a detail.
+- Patent data, text and drawings come from Google Patents; German patent lists and original scans from DEPATISnet (DPMA); Japanese patents and their scans from J-PlatPat. Patent documents are public domain; drawings are linked from Google, not copied.
+- Patent summaries, feature tags and patent-to-machine links were made by machine from OCR and from Google's translation of old German patents; Japanese patents were transcribed and translated by machine from the scans. Check the patent and its drawings before relying on a detail.
 - Patent-to-machine links marked low or medium are inferences from the inventor's name. Dates of old German patents without a listed date are estimated from the patent number; titles starting with ~ were derived from the text.
 - Machine facts come from Dingwerth's Lexikon (1997); its text is not reproduced. Every source is listed in [Sources and credits](sources.md).
 

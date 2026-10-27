@@ -11,7 +11,7 @@ Name variants: DAIMLER MOTOREN; DAIMLER BENZ AG; DAIMLER BENZ AKT GES; Daimler M
 
 ## Inventors
 
-[Motoren, Daimler](../people/motoren-d.md) (8), [Katzung, Hugo](../people/katzung-h.md) (1)
+[Motoren, Daimler](../people/motoren-d.md) (8), [Ag, Daimler Benz](../people/ag-d.md) (2), [Katzung, Hugo](../people/katzung-h.md) (1)
 
 ## Patents assigned (11)
 
@@ -25,6 +25,6 @@ Name variants: DAIMLER MOTOREN; DAIMLER BENZ AG; DAIMLER BENZ AKT GES; Daimler M
 | [DE426155](../patents/DE426155.md) | 1926-03-03 | Motoren, Daimler | Device for fastening the cover plate on the frame of typewriters |  |
 | [DE428489](../patents/DE428489.md) | 1926-05-06 | Motoren, Daimler | Device for switching off the ribbon movement through the space key on &hellip; |  |
 | [DE421575](../patents/DE421575.md) | 1926-08-30 | Motoren, Daimler | Removable paper trolley for typewriters |  |
-| [DE456355](../patents/DE456355.md) | 1928-02-21 |  | Arrangement of type lever bearing segment and intermediate lever bearing &hellip; | typebar |
-| [DE456356](../patents/DE456356.md) | 1928-02-23 |  | Switching device for the ribbon drive of typewriters |  |
+| [DE456355](../patents/DE456355.md) | 1928-02-21 | Ag, Daimler Benz | Arrangement of type lever bearing segment and intermediate lever bearing &hellip; | typebar |
+| [DE456356](../patents/DE456356.md) | 1928-02-23 | Ag, Daimler Benz | Switching device for the ribbon drive of typewriters |  |
 | [DE693135](../patents/DE693135.md) | 1940-07-03 | Katzung, Hugo | Device for vehicles with multi-wheel steering for switching on and off the &hellip; |  |

@@ -3,7 +3,7 @@
 
 ## Inventors
 
-[Fa, Wuensch & Marcrander](../people/fa-w.md) (1)
+[Fa, Weilwerke Akt Ges](../people/fa-w.md) (1)
 
 ## Patents assigned (1)
 

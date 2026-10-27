@@ -9,4 +9,4 @@
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE363223](../patents/DE363223.md) | 1922-11-06 |  | Schutzkastenanordnung fuer Maschinen, Apparate und Geraete |  |
+| [DE363223](../patents/DE363223.md) | 1922-11-06 | H, Hommelwerke G M B | Schutzkastenanordnung fuer Maschinen, Apparate und Geraete |  |

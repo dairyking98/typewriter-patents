@@ -19,18 +19,18 @@ The features typewriters gained between the 1860s and 1950, in the order they fi
 | **QWERTY keyboard** | 1878, [US207559](../patents/US207559.md) (Sholes, C. Latham) | 1874, [Sholes & Glidden](../machines/sholes-glidden-3.md) | 1900s | ` ▁ ▁▄█▁▃  ` | Still the standard layout of computer and phone keyboards. |
 | **Shift key (case shift)** | 1878, [US202923](../patents/US202923.md) (Brooks, Byron A.) | 1878, [Remington 2](../machines/remington-2.md) | 1900s | ` ▁▁▃█▆▃▂▁▁` | The Shift key. |
 | **Line-end bell** | 1880, [US224088](../patents/US224088.md) (Hammond, James B.) | 1878, Remington blind models (No. 2 era)? |  | `  ▁█▆▄▁▁▁ ` | The terminal bell (BEL in ASCII). |
-| **Interchangeable type** | 1880, [US224088](../patents/US224088.md) (Hammond, James B.) | 1880, Hammond No. 1 (Ideal keyboard) |  | `  ██▅▃▇▅▁ ` | Changeable fonts: the Selectric's golf ball (1961), daisy wheels, then digital fonts. |
+| **Interchangeable type** | 1880, [US224088](../patents/US224088.md) (Hammond, James B.) | 1880, Hammond No. 1 (Ideal keyboard) |  | `  ██▅▃▇▅▃ ` | Changeable fonts: the Selectric's golf ball (1961), daisy wheels, then digital fonts. |
 | **Proportional spacing** | 1881, [US251338](../patents/US251338.md) (Crandall, Lucien S.) | 1944, IBM Executive |  | `  ▃█▆▃    ` | Proportional fonts: nearly all text today. |
 | **Correction and erasing** | 1881, [US246960](../patents/US246960.md) (Lindgren, Justus F.) |  |  | ` ▁▁▄█▅▁▁▁▁` | Delete and undo. |
 | **Automatic ribbon reverse** | 1884, [US309272](../patents/US309272.md) (Whitcomb, James A.) | 1896, [Remington 7](../machines/remington-7.md) |  | `  ▁▄█▇▂▁▁▁` |  |
 | **Carriage return and line space** | 1885, [US315700](../patents/US315700.md) (Belden, Edwin S.) | 1874, [Sholes & Glidden](../machines/sholes-glidden-3.md) |  | `  ▁▃▇▇▄█▅▁` | The Return or Enter key; CR and LF in character codes (ASCII, 1963). |
 | **Margin stops and release** | 1886, [US349349](../patents/US349349.md) (Jenne, William K.) |  |  | `  ▁▃█▇▂▃▂▁` | Page margins in word processors. |
-| **Electric drive** | 1886, [US335669](../patents/US335669.md) (Worrall, Thomas D.) | 1902, Blickensderfer Electric |  | `  ▁▂██▅▇▄▁` | Electric and electronic typewriters, then computer keyboards. |
+| **Electric drive** | 1886, [US335669](../patents/US335669.md) (Worrall, Thomas D.) | 1902, Blickensderfer Electric |  | `  ▁▂██▅█▄▁` | Electric and electronic typewriters, then computer keyboards. |
 | **Visible writing** | 1889, [US400265](../patents/US400265.md) (Spiro, Charles) | 1889, Columbia Bar-Lock | 1900s | ` ▁▁▁▇█▁▁▁▁` | Seeing the text as you type, on every later typewriter and every screen. |
 | **Tabulator** | 1890, [US436916](../patents/US436916.md) (Gathright, Josiah B.) | 1890, Underwood (tabulator later controlled by Underwood) |  | `  ▁▁▇█▂▃▂▁` | The Tab key and tab stops (HT in ASCII). |
 | **Shift lock** | 1891, [US457673](../patents/US457673.md) (Scudder, Wilbur S.) |  |  | `   ▂▆█▂▁▁ ` | Caps Lock. |
 | **Decimal tabulator** | 1896, [US559449](../patents/US559449.md) (Gorin, Fred P.) | 1898, [Remington 8](../machines/remington-8.md) |  | `   ▁▂█▂▂▂ ` | Decimal tab stops in word processors. |
-| **Backspace** | 1897, [US589387](../patents/US589387.md) (Gilbert, Justin) | 1898, [Hammond 2 Ideal](../machines/hammond-2-ideal.md) |  | `   ▁▅█▁▁▂▁` | The Backspace key (BS in ASCII). |
+| **Backspace** | 1897, [US589387](../patents/US589387.md) (Gilbert, Justin) | 1898, [Hammond 2 Ideal](../machines/hammond-2-ideal.md) |  | `   ▁▅█▂▂▂▁` | The Backspace key (BS in ASCII). |
 | **Two-colour ribbon** | 1905, [US787566](../patents/US787566.md) (Dowlen, Connell H.) | 1909, Standard office machines (e.g. Underwood No. 5) |  | `  ▁▁██▂▃▂ ` | Coloured text in word processors. |
 
 ## What each one did
@@ -39,19 +39,19 @@ The features typewriters gained between the 1860s and 1950, in the order they fi
 
 Small, light machines with a case, for travel and the home.
 
-Earliest patent here that mentions it: [US39296](../patents/US39296.md), 1863, Livermoore, Benjamin. 153 patents in the library deal with it. **Today:** Laptops took the idea over.
+Earliest patent here that mentions it: [US39296](../patents/US39296.md), 1863, Livermoore, Benjamin. 158 patents in the library deal with it. **Today:** Laptops took the idea over.
 
 ### Ink ribbon
 
 An inked fabric ribbon between the type and the paper, in place of ink pads and rollers.
 
-Earliest patent here that mentions it: [US65807](../patents/US65807.md), 1867, Hall, Thomas. 2601 patents in the library deal with it. First machine in the Lexikon with it: [Ravizza](../machines/ravizza.md) (1867). Share of new machines (inking = ribbon): 1850s 0/7, 1860s 1/5, 1870s 5/8, 1880s 15/49, 1890s 89/136, 1900s 121/151, 1910s 102/120, 1920s 164/173, 1930s 157/162. **Today:** Typewriters to the end; impact and receipt printers still use ribbons.
+Earliest patent here that mentions it: [US65807](../patents/US65807.md), 1867, Hall, Thomas. 2622 patents in the library deal with it. First machine in the Lexikon with it: [Ravizza](../machines/ravizza.md) (1867). Share of new machines (inking = ribbon): 1850s 0/7, 1860s 1/5, 1870s 5/8, 1880s 15/49, 1890s 89/136, 1900s 121/151, 1910s 102/120, 1920s 164/173, 1930s 157/162. **Today:** Typewriters to the end; impact and receipt printers still use ribbons.
 
 ### Space bar
 
 One long bar under the keys that moves the carriage one space without printing.
 
-Earliest patent here that mentions it: [US175051](../patents/US175051.md), 1876, Deming, Philander. 572 patents in the library deal with it. **Today:** The space bar.
+Earliest patent here that mentions it: [US175051](../patents/US175051.md), 1876, Deming, Philander. 573 patents in the library deal with it. **Today:** The space bar.
 
 ### QWERTY keyboard
 
@@ -63,7 +63,7 @@ Earliest patent here that mentions it: [US207559](../patents/US207559.md), 1878,
 
 Two characters on each type bar or row, and a key that shifts the carriage or the type basket so the second one prints: half the keys for the same character set.
 
-Earliest patent here that mentions it: [US202923](../patents/US202923.md), 1878, Brooks, Byron A.. 841 patents in the library deal with it. First machine in the Lexikon with it: [Burt](../machines/burt.md) (1829). Share of new machines (shift = single shift): 1850s 1/9, 1860s 0/7, 1870s 2/8, 1880s 8/40, 1890s 39/132, 1900s 78/156, 1910s 61/121, 1920s 131/178, 1930s 155/170. **Today:** The Shift key.
+Earliest patent here that mentions it: [US202923](../patents/US202923.md), 1878, Brooks, Byron A.. 843 patents in the library deal with it. First machine in the Lexikon with it: [Burt](../machines/burt.md) (1829). Share of new machines (shift = single shift): 1850s 1/9, 1860s 0/7, 1870s 2/8, 1880s 8/40, 1890s 39/132, 1900s 78/156, 1910s 61/121, 1920s 131/178, 1930s 155/170. **Today:** The Shift key.
 
 ### Line-end bell
 
@@ -75,7 +75,7 @@ Earliest patent here that mentions it: [US224088](../patents/US224088.md), 1880,
 
 A type wheel, shuttle or sleeve that lifts out, so one machine writes in several typefaces or languages.
 
-Earliest patent here that mentions it: [US224088](../patents/US224088.md), 1880, Hammond, James B.. 28 patents in the library deal with it. **Today:** Changeable fonts: the Selectric's golf ball (1961), daisy wheels, then digital fonts.
+Earliest patent here that mentions it: [US224088](../patents/US224088.md), 1880, Hammond, James B.. 29 patents in the library deal with it. **Today:** Changeable fonts: the Selectric's golf ball (1961), daisy wheels, then digital fonts.
 
 ### Proportional spacing
 
@@ -111,7 +111,7 @@ Earliest patent here that mentions it: [US349349](../patents/US349349.md), 1886,
 
 A motor or magnets do the work of the type stroke and carriage, so a light touch prints evenly.
 
-Earliest patent here that mentions it: [US335669](../patents/US335669.md), 1886, Worrall, Thomas D.. 583 patents in the library deal with it. **Today:** Electric and electronic typewriters, then computer keyboards.
+Earliest patent here that mentions it: [US335669](../patents/US335669.md), 1886, Worrall, Thomas D.. 587 patents in the library deal with it. **Today:** Electric and electronic typewriters, then computer keyboards.
 
 ### Visible writing
 
@@ -141,7 +141,7 @@ Earliest patent here that mentions it: [US559449](../patents/US559449.md), 1896,
 
 A key that moves the carriage back one space, to correct or to overstrike.
 
-Earliest patent here that mentions it: [US589387](../patents/US589387.md), 1897, Gilbert, Justin. 122 patents in the library deal with it. **Today:** The Backspace key (BS in ASCII).
+Earliest patent here that mentions it: [US589387](../patents/US589387.md), 1897, Gilbert, Justin. 131 patents in the library deal with it. **Today:** The Backspace key (BS in ASCII).
 
 ### Two-colour ribbon
 

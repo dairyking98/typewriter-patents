@@ -9,4 +9,4 @@
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE401203](../patents/DE401203.md) | 1924-08-27 |  | Lithographic ribbon |  |
+| [DE401203](../patents/DE401203.md) | 1924-08-27 | H, Maschb Und Vertriebs Ges M B | Lithographic ribbon |  |

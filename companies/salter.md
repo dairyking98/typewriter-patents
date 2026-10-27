@@ -21,4 +21,4 @@ Name variants: George Salter & Co; SALTER & CO LTD G; George Salter & Co. Ltd
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE506051](../patents/DE506051.md) | 1930-08-28 |  | Tab device for typewriters |  |
+| [DE506051](../patents/DE506051.md) | 1930-08-28 | G, Salter & Co Ltd | Tab device for typewriters |  |

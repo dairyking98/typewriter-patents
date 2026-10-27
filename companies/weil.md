@@ -25,31 +25,31 @@ Name variants: WEILWERKE A G; WEILWERKE AKT GES FA; WEILWERKE AKT GES; Weilwerke
 
 ## Inventors
 
-[Etheridge, Herbert](../people/etheridge-h.md) (2)
+[Fa, Weilwerke Akt Ges](../people/fa-w.md) (6), [Ges, Wanderer Werke Akt](../people/ges-w.md) (3), [Etheridge, Herbert](../people/etheridge-h.md) (2)
 
 ## Patents assigned (22)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE381435](../patents/DE381435.md) | 1923-09-20 |  | Adjustment device for the rotation of the paper roller |  |
-| [DE395641](../patents/DE395641.md) | 1924-05-10 |  | Paper feeding device for typewriters |  |
-| [DE412035](../patents/DE412035.md) | 1925-04-09 |  | Guide of the support columns for the liftable and lowerable car with &hellip; |  |
-| [DE414329](../patents/DE414329.md) | 1925-06-03 |  | Device for the longitudinal movement of the ribbon of typewriters and &hellip; |  |
-| [DE414331](../patents/DE414331.md) | 1925-06-03 |  | Travel typewriter |  |
-| [DE417062](../patents/DE417062.md) | 1925-08-04 |  | Recoil device for the type lever of typewriters | typebar |
-| [DE419962](../patents/DE419962.md) | 1925-10-13 |  | Typewriter to take with you on trips in a housing |  |
-| [DE434847](../patents/DE434847.md) | 1926-10-04 |  | Typewriter with type levers and a universal rail moved by lugs on the type &hellip; |  |
-| [DE451859](../patents/DE451859.md) | 1927-11-04 |  | Column setting device for typewriters and calculating machines |  |
+| [DE381435](../patents/DE381435.md) | 1923-09-20 | Ges, Weilwerke Akt | Adjustment device for the rotation of the paper roller |  |
+| [DE395641](../patents/DE395641.md) | 1924-05-10 | G, Weilwerke A | Paper feeding device for typewriters |  |
+| [DE412035](../patents/DE412035.md) | 1925-04-09 | Fa, Weilwerke Akt Ges | Guide of the support columns for the liftable and lowerable car with &hellip; |  |
+| [DE414329](../patents/DE414329.md) | 1925-06-03 | Fa, Weilwerke Akt Ges | Device for the longitudinal movement of the ribbon of typewriters and &hellip; |  |
+| [DE414331](../patents/DE414331.md) | 1925-06-03 | Fa, Weilwerke Akt Ges | Travel typewriter |  |
+| [DE417062](../patents/DE417062.md) | 1925-08-04 | Fa, Weilwerke Akt Ges | Recoil device for the type lever of typewriters | typebar |
+| [DE419962](../patents/DE419962.md) | 1925-10-13 | Fa, Weilwerke Akt Ges | Typewriter to take with you on trips in a housing |  |
+| [DE434847](../patents/DE434847.md) | 1926-10-04 | Fa, Weilwerke A G | Typewriter with type levers and a universal rail moved by lugs on the type &hellip; |  |
+| [DE451859](../patents/DE451859.md) | 1927-11-04 | G, Weilwerke A | Column setting device for typewriters and calculating machines |  |
 | [DE454230](../patents/DE454230.md) | 1928-01-25 | Etheridge, Herbert | Device for typewriters for the automatic reversal of the longitudinal movement &hellip; |  |
-| [DE455947](../patents/DE455947.md) | 1928-02-13 |  | Flat edge stop for the car of typewriters or similar machines |  |
-| [DE457528](../patents/DE457528.md) | 1928-03-17 |  | Device for the detachable connection of the paper trolley bed with the frame of &hellip; |  |
-| [DE471883](../patents/DE471883.md) | 1929-02-16 |  | Two-part edge stop for the paper trolley of typewriters and similar machines |  |
+| [DE455947](../patents/DE455947.md) | 1928-02-13 | G, Weilwerke A | Flat edge stop for the car of typewriters or similar machines |  |
+| [DE457528](../patents/DE457528.md) | 1928-03-17 | G, Weilwerke A | Device for the detachable connection of the paper trolley bed with the frame of &hellip; |  |
+| [DE471883](../patents/DE471883.md) | 1929-02-16 | G, Weilwerke A | Two-part edge stop for the paper trolley of typewriters and similar machines |  |
 | [DE506271](../patents/DE506271.md) | 1930-09-02 | Etheridge, Herbert | Papierschlittenschaltvorrichtung fuer Schreibmaschinen |  |
-| [DE524898](../patents/DE524898.md) | 1931-05-15 |  | Booking device on typewriters |  |
-| [DE529228](../patents/DE529228.md) | 1931-07-10 |  | Small typewriter with lifting and lowering lever segment |  |
-| [DE529407](../patents/DE529407.md) | 1931-07-13 |  | Spring winding mechanism |  |
-| [DE532788](../patents/DE532788.md) | 1931-09-07 |  | Papierwagenschaltvorrichtung fuer Schreibmaschinen mit ausschwingbaren, abwechselnd in das Hemmrad eingreifenden paarigen Klinken |  |
-| [DE540844](../patents/DE540844.md) | 1931-12-29 |  | Ribbon guide for typewriters |  |
-| [DE542355](../patents/DE542355.md) | 1932-01-23 |  | Randbegrenzungsvorrichtung fuer Schreibmaschinen mit an dem Papierwagen angelenktem Papiertisch |  |
-| [DE545352](../patents/DE545352.md) | 1932-02-29 |  | Paper guiding device for typewriters |  |
-| [DE547357](../patents/DE547357.md) | 1932-04-01 |  | Paper guide for typewriters |  |
+| [DE524898](../patents/DE524898.md) | 1931-05-15 | G, Weilwerke A | Booking device on typewriters |  |
+| [DE529228](../patents/DE529228.md) | 1931-07-10 | G, Weilwerke A | Small typewriter with lifting and lowering lever segment |  |
+| [DE529407](../patents/DE529407.md) | 1931-07-13 | G, Weilwerke A | Spring winding mechanism |  |
+| [DE532788](../patents/DE532788.md) | 1931-09-07 | G, Weilwerke A | Papierwagenschaltvorrichtung fuer Schreibmaschinen mit ausschwingbaren, abwechselnd in das Hemmrad eingreifenden paarigen Klinken |  |
+| [DE540844](../patents/DE540844.md) | 1931-12-29 | Ges, Weilwerke Akt | Ribbon guide for typewriters |  |
+| [DE542355](../patents/DE542355.md) | 1932-01-23 | G, Weilwerke A | Randbegrenzungsvorrichtung fuer Schreibmaschinen mit an dem Papierwagen angelenktem Papiertisch |  |
+| [DE545352](../patents/DE545352.md) | 1932-02-29 | Ges, Weilwerke Akt | Paper guiding device for typewriters |  |
+| [DE547357](../patents/DE547357.md) | 1932-04-01 | G, Weilwerke A | Paper guide for typewriters |  |

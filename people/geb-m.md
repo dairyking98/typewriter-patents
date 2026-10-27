@@ -2,9 +2,9 @@
 
 ## Assigned to
 
-- [MERZ GEB; MERZ WERKE](../companies/merz.md) (9)
+- [MERZ GEB; MERZ WERKE](../companies/merz.md) (10)
 
-## Patents (9)
+## Patents (10)
 
 | Patent | Date | Title | Carrier | Index score |
 |---|---|---|---|---|
@@ -15,5 +15,6 @@
 | [DE482198](../patents/DE482198.md) | 1929-09-10 | Glockenhammerantrieb fuer Schreibmaschinen |  | 0.0 |
 | [DE492836](../patents/DE492836.md) | 1930-02-27 | Car lock for typewriters |  | 0.0 |
 | [DE495259](../patents/DE495259.md) | 1930-04-04 | Device for disengaging and engaging the rack on typewriters |  | 0.0 |
+| [DE505406](../patents/DE505406.md) | 1930-08-20 | Line switch for typewriters |  | 0.0 |
 | [DE546833](../patents/DE546833.md) | 1932-03-19 | Typewriter with an exchangeable paper trolley that can be raised and lowered &hellip; |  | 0.0 |
 | [DE558156](../patents/DE558156.md) | 1932-09-02 | Type lever drive for typewriters |  | 0.0 |

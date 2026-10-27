@@ -46,41 +46,41 @@ Name variants: ADLERWERKE KLEYER AG H; Adlerwerke vorm. Heinr. Kleyer AG; Adlerw
 |---|---|---|---|---|
 | [US964924](../patents/US964924.md) | 1910-07-19 | Lindenberg, Alfred | Type-Writing Machine | sliding bars |
 | [US981895](../patents/US981895.md) | 1911-01-17 | Strauss, Franz Paul | Type-Writing Machine | sliding bars |
-| [DE365591](../patents/DE365591.md) | 1922-12-18 |  | Type carrier guide for type bar typewriters | sliding bars |
-| [DE375562](../patents/DE375562.md) | 1923-05-15 |  | Rechenschreibmaschine |  |
-| [DE389077](../patents/DE389077.md) | 1924-01-25 |  | Billing device for typewriters |  |
-| [DE403510](../patents/DE403510.md) | 1924-10-02 |  | Type guide head for typewriters with type bars | sliding bars |
-| [DE431519](../patents/DE431519.md) | 1926-07-12 |  | Paper guide rail for typewriters |  |
-| [DE436724](../patents/DE436724.md) | 1926-11-06 |  | Type bar typewriter | sliding bars |
-| [DE437412](../patents/DE437412.md) | 1926-11-20 |  | Schaltvorrichtung fuer den Papierwagen von Schreibmaschinen |  |
-| [DE438189](../patents/DE438189.md) | 1926-12-08 |  | Hemmvorrichtung fuer den Papierwagen von Schreibmaschinen |  |
-| [DE441007](../patents/DE441007.md) | 1927-02-21 |  | Process for making typewriter types | typebar |
-| [DE444066](../patents/DE444066.md) | 1927-05-14 |  | Reverse gear clutch for typewriters |  |
-| [DE464939](../patents/DE464939.md) | 1928-09-03 |  | Damping device for type bar typewriters | typebar |
-| [DE506154](../patents/DE506154.md) | 1930-08-29 |  | Paper guide for typewriters |  |
-| [DE551518](../patents/DE551518.md) | 1932-06-01 |  | Typewriter for writing on a plurality of form tapes |  |
-| [DE569363](../patents/DE569363.md) | 1933-02-02 |  | Paper holder for typewriters |  |
-| [DE571797](../patents/DE571797.md) | 1933-03-09 |  | Decimal tab |  |
-| [DE577949](../patents/DE577949.md) | 1933-06-07 |  | Device in typewriters for setting the writing paper on the first line to be &hellip; |  |
-| [DE588882](../patents/DE588882.md) | 1933-12-04 |  | Typewriter with type stop mechanism that can be moved in line direction |  |
-| [DE645557](../patents/DE645557.md) | 1937-05-29 |  | Type guide for type bar typewriters | sliding bars |
-| [DE651859](../patents/DE651859.md) | 1937-10-21 |  | Decimal tab |  |
-| [DE668412](../patents/DE668412.md) | 1938-12-02 |  | Type bar typewriter | sliding bars |
-| [DE678186](../patents/DE678186.md) | 1939-07-10 |  | Paper slides for typewriters |  |
-| [DE758283](../patents/DE758283.md) | 1939-09-26 |  | Catcher for accounting slip on accounting machines |  |
-| [DE754374](../patents/DE754374.md) | 1940-04-30 |  | Switch frame mounting |  |
+| [DE365591](../patents/DE365591.md) | 1922-12-18 | H, Adlerwerke Kleyer Ag | Type carrier guide for type bar typewriters | sliding bars |
+| [DE375562](../patents/DE375562.md) | 1923-05-15 | H, Adlerwerke Kleyer Ag | Rechenschreibmaschine |  |
+| [DE389077](../patents/DE389077.md) | 1924-01-25 | H, Adlerwerke Kleyer Ag | Billing device for typewriters |  |
+| [DE403510](../patents/DE403510.md) | 1924-10-02 | H, Adlerwerke Kleyer Ag | Type guide head for typewriters with type bars | sliding bars |
+| [DE431519](../patents/DE431519.md) | 1926-07-12 | H, Adlerwerke Kleyer Ag | Paper guide rail for typewriters |  |
+| [DE436724](../patents/DE436724.md) | 1926-11-06 | H, Adlerwerke Kleyer Ag | Type bar typewriter | sliding bars |
+| [DE437412](../patents/DE437412.md) | 1926-11-20 | H, Adlerwerke Kleyer Ag | Schaltvorrichtung fuer den Papierwagen von Schreibmaschinen |  |
+| [DE438189](../patents/DE438189.md) | 1926-12-08 | H, Adlerwerke Kleyer Ag | Hemmvorrichtung fuer den Papierwagen von Schreibmaschinen |  |
+| [DE441007](../patents/DE441007.md) | 1927-02-21 | H, Adlerwerke Kleyer Ag | Process for making typewriter types | typebar |
+| [DE444066](../patents/DE444066.md) | 1927-05-14 | H, Adlerwerke Kleyer Ag | Reverse gear clutch for typewriters |  |
+| [DE464939](../patents/DE464939.md) | 1928-09-03 | H, Adlerwerke Kleyer Ag | Damping device for type bar typewriters | typebar |
+| [DE506154](../patents/DE506154.md) | 1930-08-29 | H, Adlerwerke Kleyer Ag | Paper guide for typewriters |  |
+| [DE551518](../patents/DE551518.md) | 1932-06-01 | H, Adlerwerke Kleyer Ag | Typewriter for writing on a plurality of form tapes |  |
+| [DE569363](../patents/DE569363.md) | 1933-02-02 | H, Adlerwerke Kleyer Ag | Paper holder for typewriters |  |
+| [DE571797](../patents/DE571797.md) | 1933-03-09 | H, Adlerwerke Kleyer Ag | Decimal tab |  |
+| [DE577949](../patents/DE577949.md) | 1933-06-07 | H, Adlerwerke Kleyer Ag | Device in typewriters for setting the writing paper on the first line to be &hellip; |  |
+| [DE588882](../patents/DE588882.md) | 1933-12-04 | H, Adlerwerke Kleyer Ag | Typewriter with type stop mechanism that can be moved in line direction |  |
+| [DE645557](../patents/DE645557.md) | 1937-05-29 | H, Adlerwerke Kleyer Ag | Type guide for type bar typewriters | sliding bars |
+| [DE651859](../patents/DE651859.md) | 1937-10-21 | H, Adlerwerke Kleyer Ag | Decimal tab |  |
+| [DE668412](../patents/DE668412.md) | 1938-12-02 | H, Adlerwerke Kleyer Ag | Type bar typewriter | sliding bars |
+| [DE678186](../patents/DE678186.md) | 1939-07-10 | H, Adlerwerke Kleyer Ag | Paper slides for typewriters |  |
+| [DE758283](../patents/DE758283.md) | 1939-09-26 | H, Adlerwerke Kleyer Ag | Catcher for accounting slip on accounting machines |  |
+| [DE754374](../patents/DE754374.md) | 1940-04-30 | H, Adlerwerke Kleyer Ag | Switch frame mounting |  |
 | [DE728805](../patents/DE728805.md) | 1942-12-05 | Nocken, Heinrich | Device on booking machines for labeling form strips |  |
-| [DE923253](../patents/DE923253.md) | 1943-01-31 |  | Typewriter, in particular accounting machine |  |
+| [DE923253](../patents/DE923253.md) | 1943-01-31 | H, Adlerwerke Kleyer Ag | Typewriter, in particular accounting machine |  |
 | [DE736798](../patents/DE736798.md) | 1943-06-28 | Andreas, Salzberger | Key lever spring tension regulator |  |
 | [DE737649](../patents/DE737649.md) | 1943-07-19 | Andreas, Salzberger | Type lever segment switchover |  |
 | [DE740192](../patents/DE740192.md) | 1943-10-14 | Nocken, Heinrich | Card collection box for booking machines |  |
-| [DE921387](../patents/DE921387.md) | 1943-11-18 |  | Trolley frame for writing office machines |  |
+| [DE921387](../patents/DE921387.md) | 1943-11-18 | H, Adlerwerke Kleyer Ag | Trolley frame for writing office machines |  |
 | [DE745564](../patents/DE745564.md) | 1944-03-16 | Lehmann, Alexander | Determination of the setting tab |  |
-| [DE963431](../patents/DE963431.md) | 1944-08-28 |  | Segment guidance on typewriters | typebar |
-| [DE920304](../patents/DE920304.md) | 1944-09-20 |  | Insertion device for typewriters, calculating and accounting machines |  |
-| [DE947799](../patents/DE947799.md) | 1946-07-30 |  | Tabulation device for a typewriter, especially a booking machine, with a fixed &hellip; |  |
-| [DE971816](../patents/DE971816.md) | 1947-08-29 |  | Paper guidance on office machines, in particular typewriters |  |
-| [DE972010](../patents/DE972010.md) | 1947-11-07 |  | Car jumping device on office machines, e.g. B. Typewriters |  |
-| [DE851349](../patents/DE851349.md) | 1950-09-02 |  | Friction clutch for row ratchet of office machines |  |
-| [DE851350](../patents/DE851350.md) | 1950-09-02 |  | Platen for office machines |  |
-| [DE851351](../patents/DE851351.md) | 1950-12-16 |  | Device on typewriters for writing non-erasable writing |  |
+| [DE963431](../patents/DE963431.md) | 1944-08-28 | H, Adlerwerke Kleyer Ag | Segment guidance on typewriters | typebar |
+| [DE920304](../patents/DE920304.md) | 1944-09-20 | H, Adlerwerke Kleyer Ag | Insertion device for typewriters, calculating and accounting machines |  |
+| [DE947799](../patents/DE947799.md) | 1946-07-30 | H, Adlerwerke Kleyer Ag | Tabulation device for a typewriter, especially a booking machine, with a fixed &hellip; |  |
+| [DE971816](../patents/DE971816.md) | 1947-08-29 | H, Adlerwerke Kleyer Ag | Paper guidance on office machines, in particular typewriters |  |
+| [DE972010](../patents/DE972010.md) | 1947-11-07 | H, Adlerwerke Kleyer Ag | Car jumping device on office machines, e.g. B. Typewriters |  |
+| [DE851349](../patents/DE851349.md) | 1950-09-02 | H, Adlerwerke Kleyer Ag | Friction clutch for row ratchet of office machines |  |
+| [DE851350](../patents/DE851350.md) | 1950-09-02 | H, Adlerwerke Kleyer Ag | Platen for office machines |  |
+| [DE851351](../patents/DE851351.md) | 1950-12-16 | H, Adlerwerke Kleyer Ag | Device on typewriters for writing non-erasable writing |  |

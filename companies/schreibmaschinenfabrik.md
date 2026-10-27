@@ -24,13 +24,13 @@ Name variants: SCHREIBMASCHINENFABRIK AUGSBUR; Schreibmaschinenfabrik Sundem; Sc
 
 ## Inventors
 
-
+[Augsbur, Schreibmaschinenfabrik](../people/augsbur-s.md) (4)
 
 ## Patents assigned (4)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE364058](../patents/DE364058.md) | 1922-11-16 |  | Device for reversing the direction of movement of the paper carriage |  |
-| [DE374424](../patents/DE374424.md) | 1923-04-26 |  | Type lever for typewriters with impact device | typebar |
-| [DE385563](../patents/DE385563.md) | 1923-11-26 |  | Device for optionally moving the type lever | typebar |
-| [DE403514](../patents/DE403514.md) | 1924-10-02 |  | Switching device for typewriters |  |
+| [DE364058](../patents/DE364058.md) | 1922-11-16 | Augsbur, Schreibmaschinenfabrik | Device for reversing the direction of movement of the paper carriage |  |
+| [DE374424](../patents/DE374424.md) | 1923-04-26 | Augsbur, Schreibmaschinenfabrik | Type lever for typewriters with impact device | typebar |
+| [DE385563](../patents/DE385563.md) | 1923-11-26 | Augsbur, Schreibmaschinenfabrik | Device for optionally moving the type lever | typebar |
+| [DE403514](../patents/DE403514.md) | 1924-10-02 | Augsbur, Schreibmaschinenfabrik | Switching device for typewriters |  |

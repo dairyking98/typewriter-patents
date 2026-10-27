@@ -48,6 +48,6 @@ Name variants: AEG; AEG Deutsche Werke A.G; AEG FAHRKARTENDRUCKER G M B H; Aeg F
 | [DE655163](../patents/DE655163.md) | 1938-01-10 | Haseloff, Fritz | Wertscheindrucker |  |
 | [DE673396](../patents/DE673396.md) | 1939-03-21 | Schueller, - Eduard | Elektromagnetisches Verfahren und elektromagnetische Vorrichtung zum Zaehlen oder Sortieren von Gegenstaenden aus nicht magnetisierbaren Werkstoffen |  |
 | [DE683985](../patents/DE683985.md) | 1939-11-20 | Genschmer, - Kurt | Nib with ink container |  |
-| [DE931322](../patents/DE931322.md) | 1941-08-05 |  | Device for selecting and automatically conveying cardboard boxes according to &hellip; |  |
+| [DE931322](../patents/DE931322.md) | 1941-08-05 | H, Aeg Fahrkartendrucker G M B | Device for selecting and automatically conveying cardboard boxes according to &hellip; |  |
 | [DE924591](../patents/DE924591.md) | 1943-07-23 |  | Dictation device working according to the magnetic sound process with line- &hellip; |  |
-| [DE917878](../patents/DE917878.md) | 1946-07-16 |  | Device for selecting and automatically conveying cardboard boxes according to &hellip; |  |
+| [DE917878](../patents/DE917878.md) | 1946-07-16 | H, Aeg Fahrkartendrucker G M B | Device for selecting and automatically conveying cardboard boxes according to &hellip; |  |

@@ -4,15 +4,14 @@
 
 Elastic or rubber types
 
-**130 patents**, 1872–1949. Often together with:
+**132 patents**, 1872–1949. Often together with:
 
 - **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (62)
-- **Type element:** [Alignment lock at the print point](../features/elem-alignment-lock.md) (41)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (49)
-- **Inking:** [Ink pad](../features/ink-pad.md) (47)
-- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (72), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (71)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (53)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (49)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (49), [Hand presses the type through](../features/imp-press-through.md) (41)
+- **Inking:** [Ink pad](../features/ink-pad.md) (48)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (73), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (73)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (54)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (50)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (4), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Travis](../machines/travis.md) (2), [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Mercury 3](../machines/mercury-3.md) (1)
 
@@ -136,17 +135,19 @@ Elastic or rubber types
 | [US825967](../patents/US825967.md) | 1906 | Hammond, James B. | Make the shuttle a very thin hard-rubber ring whose top flange both stiffens it and connects to the shuttle arm, and add independent speed-dogs between the key drivers and the arm so the shuttle can reverse without recentring. |
 | [US825968](../patents/US825968.md) | 1906 | Hammond, James Bartlett | A ring-form hard-rubber shuttle reinforced by an inner metal flange molded in, driven by a radially releasable shuttle-arm finger so the shuttle can be twirled to a different font set without lifting. |
 | [US893882](../patents/US893882.md) | 1908 | Spooner, John A. | Two rotating wheels of pivoted rubber type on a slide are turned by hand to bring the wanted type to the bottom, locked by a centering pin in the dial, struck by finger pressure, and stepped along by an oscillating space rod. |
+| [JP16023](../patents/JP16023.md) | 1908 | Motoki, Yonekichi | A rubber-ringed disc cut into spring fingers, each carrying a type underneath and a matching button on top, turned to a notch and pressed by finger to print, while the press also feeds a rack to slide the paper-holding slider along a rail. |
 | [US953489](../patents/US953489.md) | 1910 | Petit, Nelzire Francis | A rubber type disk carried on a small hand-moved carriage is turned by a pointer arm over a serrated-edge dial, and pressing the carriage down onto a rolling platen prints the selected type while an alternating tooth pair advances the carriage one space. |
 | [US974487](../patents/US974487.md) | 1910 | Hay, Howard Morton | A rubber cushion cap with inlaid characters sits in a two-cup sheet-metal holder that clips onto the key. |
 | [US974488](../patents/US974488.md) | 1910 | Hay, Howard Morton | A cushion with inlaid characters is held in a sheet-metal shell that is secured to the finger key. |
 | [US1037564](../patents/US1037564.md) | 1912 | Viry, Henry | A continuously rotatable finger-type wheel on a hinged plate; pressing the plate down prints and a toothed disc with ratchet gear locks the wheel in exact position. |
+| [JP61699](../patents/JP61699.md) | 1921 | Ishii, Yoshio | Insert types into square holes in elastic rubber bands stretched on a removable frame, supported by sliding bars between holes, so pressing a type's back prints it accurately. |
 | [DE359608](../patents/DE359608.md) | 1922 | Payne, Halbert Edwin | Most of the type band's travel to the platen is done by swinging its holder, so the hammer only has to flex the band slightly at the print point. |
 | [DE397320](../patents/DE397320.md) | 1924 | Fachetti, Guido | The print button moves a spring-tensioned slide whose pawl catches the rack, and the slide's stroke is set by an adjustable stop to vary the step. |
 | [DE498604](../patents/DE498604.md) | 1930 | Schmid, Max | The paper sledge's forward and backward stroke itself advances the roller carrier one hole: perforated walls on the roller carrier engage fixed tapered pins of different strength. |
 | [DE574363](../patents/DE574363.md) | 1933 | Stein, Wilhelm | Several thin type wheels on one axis, each carrying a few types, float on elastic rings and a shaped punch pushes only the selected wheel against the print surface. |
-| [DE631942](../patents/DE631942.md) | 1936 |  | An adhesive layer of rubber mixed with a heat-hardening thermoplastic resin, the two components mutually insoluble, is placed between the rubber and the rigid base. |
+| [DE631942](../patents/DE631942.md) | 1936 | F, Goodrich Co B | An adhesive layer of rubber mixed with a heat-hardening thermoplastic resin, the two components mutually insoluble, is placed between the rubber and the rigid base. |
 | [DE649279](../patents/DE649279.md) | 1937 | Stein, Wilhelm | The rubber cover gets a non-stretchable base and a clamping device with pins, holes and screws that fix it at the same position on the roller both in the typewriter and on the transfer roller. |
 | [DE663712](../patents/DE663712.md) | 1938 | Lungershausen, Hermann | Rubber clichés for letterhead and signature are mounted in a letterpress form, a blanket is stretched over the typewriter text, and the whole form is inked and printed in one pass on any letterpress machine. |
 | [DE747162](../patents/DE747162.md) | 1944 | Graeve, Martha Meyer Geb | A thin embossed plastic shield bearing the special character is placed behind the ribbon at the stop point and printed by the blow of an ordinary typebar. |
-| [DE850530](../patents/DE850530.md) | 1949 |  | A rigid metal disc with bent-over teeth on its rim is moulded into the type material, so that each bent tooth backs one character and the moulding holds on dovetail anchors. |
-| [DE866858](../patents/DE866858.md) | 1949 |  | Mould the wheel around a toothed metal support disc inside a split, springy steel-band die engraved with the characters, which springs open to release the finished wheel. |
+| [DE850530](../patents/DE850530.md) | 1949 | Co, Ncr | A rigid metal disc with bent-over teeth on its rim is moulded into the type material, so that each bent tooth backs one character and the moulding holds on dovetail anchors. |
+| [DE866858](../patents/DE866858.md) | 1949 | Co, Ncr | Mould the wheel around a toothed metal support disc inside a split, springy steel-band die engraved with the characters, which springs open to release the finished wheel. |

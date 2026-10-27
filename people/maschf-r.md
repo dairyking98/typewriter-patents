@@ -3,8 +3,9 @@
 ## Assigned to
 
 - [RHEINISCHE METALLW & MASCHF](../companies/rheinische.md) (13)
+- [RUETI AG MASCHF](../companies/rueti.md) (1)
 
-## Patents (13)
+## Patents (14)
 
 | Patent | Date | Title | Carrier | Index score |
 |---|---|---|---|---|
@@ -21,3 +22,4 @@
 | [DE510204](../patents/DE510204.md) | 1930-10-17 | Device for producing the correct position of the type body on the type levers &hellip; |  | 0.0 |
 | [DE610138](../patents/DE610138.md) | 1935-08-28 | Nullendruckvorrichtung |  | -2.5 |
 | [DE619119](../patents/DE619119.md) | 1935-09-26 | Summendruckvorrichtung fuer rechnende Schreibmaschinen |  | -0.8 |
+| [DE728754](../patents/DE728754.md) | 1942-12-03 | Haltevorrichtung fuer die Fadenanfaenge der Ersatzspulen einer Spulenauswechselvorrichtung |  | 0.0 |

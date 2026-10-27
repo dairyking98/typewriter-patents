@@ -14,10 +14,10 @@ Name variants: WAFFENFABRIK; WALTHER CARL; Waffenfabrik J.P. Sauer & Sohn; Waffe
 
 ## Inventors
 
-[Carl, Walther](../people/carl-w.md) (1)
+
 
 ## Patents assigned (1)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [DE725123](../patents/DE725123.md) | 1942-09-14 | Carl, Walther | Automatic switching device for the longitudinal movement of the ribbon on &hellip; |  |
+| [DE725123](../patents/DE725123.md) | 1942-09-14 |  | Automatic switching device for the longitudinal movement of the ribbon on &hellip; |  |

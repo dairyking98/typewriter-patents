@@ -16,7 +16,7 @@ Name variants: MERZ GEB; MERZ WERKE; Merz-Werke; MERZ MERZ WERKE GEB
 
 ## Inventors
 
-[Geb, Merz](../people/geb-m.md) (9)
+[Geb, Merz](../people/geb-m.md) (10)
 
 ## Patents assigned (10)
 
@@ -29,6 +29,6 @@ Name variants: MERZ GEB; MERZ WERKE; Merz-Werke; MERZ MERZ WERKE GEB
 | [DE482198](../patents/DE482198.md) | 1929-09-10 | Geb, Merz | Glockenhammerantrieb fuer Schreibmaschinen |  |
 | [DE492836](../patents/DE492836.md) | 1930-02-27 | Geb, Merz | Car lock for typewriters |  |
 | [DE495259](../patents/DE495259.md) | 1930-04-04 | Geb, Merz | Device for disengaging and engaging the rack on typewriters |  |
-| [DE505406](../patents/DE505406.md) | 1930-08-20 |  | Line switch for typewriters |  |
+| [DE505406](../patents/DE505406.md) | 1930-08-20 | Geb, Merz Merz Werke | Line switch for typewriters |  |
 | [DE546833](../patents/DE546833.md) | 1932-03-19 | Geb, Merz | Typewriter with an exchangeable paper trolley that can be raised and lowered &hellip; |  |
 | [DE558156](../patents/DE558156.md) | 1932-09-02 | Geb, Merz | Type lever drive for typewriters |  |
