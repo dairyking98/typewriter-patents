@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | [Rose Typewriter Co](../companies/rose.md) |
 | Designer | [Rose, Frank S](../people/rose-f.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 81 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [Elliott-Fisher Comp](../companies/elliott.md) |
 | Designer | [Elliott, Crawford](../people/elliott-c.md), [Hatch, W](../people/hatch-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 76 |

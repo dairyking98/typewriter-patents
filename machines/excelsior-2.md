@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [SCHREIBMASCHINENFABRIK AUGSBUR](../companies/schreibmaschinenfabrik.md) |
 | Designer | [Blümel, Heinrich](../people/blumel-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Maker | [Zalmon G. Sholes Typewriter Comp](../companies/zalmon.md) |
 | Designer | [Sholes, Zalmon G](../people/sholes-z.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 76 |

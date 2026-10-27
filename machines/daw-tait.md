@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1884 |
 | Maker | wahrscheinlich nicht fabriziert |
 | Designer | [Daw, T. G](../people/daw-t.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 41 |

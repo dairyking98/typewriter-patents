@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1903 |
 | Maker | [Bernh. Stoewer A.G](../companies/bernh.md) |
 | Designer | [Grützmann, Paul](../people/grutzmann-p.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

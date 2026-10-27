@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [Yetman Typewriter-Transmitter Comp](../companies/yetman.md) |
 | Designer | [Yetman, Charles E](../people/yetman-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 78 |

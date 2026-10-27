@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [BING WERKE VORM GEBR BING A G](../companies/bing.md) |
 | Designer | [Reisch, Ludwig](../people/reisch-l.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

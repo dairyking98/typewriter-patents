@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1927 |
 | Maker | [Hammond Typewriter Comp](../companies/hammond.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type shuttle |
 | Characters | 90 |

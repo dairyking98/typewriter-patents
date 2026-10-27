@@ -20,7 +20,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [Soc. Anonima Invicta](../companies/soc.md) |
 | Designer | [Giachero, Gius](../people/giachero-g.md) |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Characters | 88 |
 | Strike | front strike |
 | Shift | single shift |

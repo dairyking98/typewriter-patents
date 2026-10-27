@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [Maschinenfabrik G.F. Grosser](../companies/maschinenfabrik.md) |
 | Designer | [Rößler, O](../people/ro-ler-o.md), [Dost, B](../people/dost-b.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 | Characters | 88 |
 | Strike | front strike |

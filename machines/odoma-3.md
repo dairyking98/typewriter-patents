@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1933 |
 | Maker | [Odoma-Werk Eugen Eßwein](../companies/odoma.md) |
 | Designer | [Wasem, Hermann](../people/wasem-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

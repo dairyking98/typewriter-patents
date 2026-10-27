@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1908 |
 | Maker | [Bumett Typewriter Co](../companies/bumett.md) |
 | Designer | (Triumph Visible) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1905 |
 | Maker | [RemingtonSholes Co](../companies/remingtonsholes.md) |
 | Designer | [Sholes](../people/sholes.md), [Remington](../people/remington.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 76/84 |

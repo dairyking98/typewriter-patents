@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [ARCHO SCHREIBMASCHINEN COMPANY](../companies/archo.md) |
 | Designer | [Winterling, Carl](../people/winterling-c.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
 | Characters | 90 |

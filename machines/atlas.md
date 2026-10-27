@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1915 |
 | Maker | [Atlas Typewriter Co](../companies/atlas.md) |
 | Designer | [Uhlig, Richard W](../people/uhlig-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 87 |

@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1891 |
 | Maker | [Hammond Typewriter Comp](../companies/hammond.md) |
 | Designer | [Hammond, James B](../people/hammond-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type shuttle |
 | Characters | 90 |

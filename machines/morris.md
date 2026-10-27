@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1885 |
 | Maker | [Hoggsen & Pettis Mfg. Co](../companies/hoggsen.md) |
 | Designer | [Morris, Robert C](../people/morris-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type plate |
 | Characters | 45 |

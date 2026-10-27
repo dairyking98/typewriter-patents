@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [Schreibm.industrie Glashütte GmbH](../companies/industrie.md) |
 | Designer | [Steinhardt, C](../people/steinhardt-c.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

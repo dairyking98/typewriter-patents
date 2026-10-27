@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1905 |
 | Maker | [Postal Typewriter Co](../companies/postal.md) |
 | Designer | [Quentell, William P](../people/quentell-w.md), [Judge](../people/judge.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

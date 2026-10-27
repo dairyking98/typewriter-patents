@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1891 |
 | Maker | [Garvin Machine Comp](../companies/garvin.md) |
 | Designer | [Brooks, Byron A](../people/brooks-b.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type wheel |
 | Characters | 72 |

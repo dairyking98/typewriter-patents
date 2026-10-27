@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1904 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Nuese, Karl](../people/nuese-k.md), [Berlin](../people/berlin.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type segment |
 | Characters | 84 |

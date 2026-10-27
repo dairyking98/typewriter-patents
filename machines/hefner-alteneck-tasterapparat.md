@@ -20,7 +20,7 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1902 |
 | Maker | [AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies](../companies/aeg.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | index (pointer) |
 

@@ -23,7 +23,7 @@ tags: ["machine/index"]
 |---|---|
 | Maker | wahrscheinlich nicht fabriziert |
 | Designer | [Wood, A. Brown](../people/wood-a.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type disc |
 | Characters | ca. 80 |

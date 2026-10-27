@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Hazen, Marshman W](../people/hazen-m.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type wheel |
 | Characters | 66 |

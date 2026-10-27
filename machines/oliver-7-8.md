@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | [Oliver Typewriter Comp](../companies/oliver.md) |
 | Designer | [Oliver, Thomas](../people/oliver-t.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type bow |
 | Characters | 84 / 96 |

@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1931 |
 | Maker | [WEILWERKE A G](../companies/weil.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar portable |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

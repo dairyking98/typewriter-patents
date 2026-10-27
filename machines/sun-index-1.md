@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1884 |
 | Maker | [Sun Typewriter Co](../companies/sun.md) |
 | Designer | [Burridge, Lee S](../people/burridge-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type bar (straight) |
 | Strike | top strike |

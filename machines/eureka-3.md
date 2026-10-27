@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [Nähmasch.fabrik H. Kochendörfer](../companies/nahmasch.md) |
 | Designer | [Kochendörfer, K. H](../people/kochendorfer-k.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | single key |
 | Type carrier | type plate |
 | Characters | 76 |

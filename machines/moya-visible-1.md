@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1903 |
 | Maker | [Moya Typewniter Co](../companies/moya.md) |
 | Designer | [Moya, Hidalgo](../people/moya-h.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type cylinder |
 | Characters | 84 |

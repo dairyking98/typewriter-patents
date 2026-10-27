@@ -23,7 +23,7 @@ tags: ["machine"]
 |---|---|
 | Maker | [Munson Type Writer Comp](../companies/munson.md) |
 | Designer | [Seifried](../people/seifried.md), [Munson](../people/munson.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type cylinder |
 | Characters | 90 |

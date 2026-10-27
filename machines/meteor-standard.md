@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1922 |
 | Maker | [Sächsische Strickmaschinen-Fabrik "Meteor" / Vasanta Schreibund Strickmaschinenfabrik AG](../companies/sachsische.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | push-rod (Stoßstangen) standard |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

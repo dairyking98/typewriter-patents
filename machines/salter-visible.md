@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [George Salter & Co](../companies/salter.md) |
 | Designer | (Weiterentwickig.) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1908 |
 | Maker | [Imperial Typewriter Co. Ltd](../companies/imperial.md) |
 | Designer | [Moya, Hidalgo](../people/moya-h.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 96 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1931 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
 | Designer | (Triumph 10 Simpl.) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

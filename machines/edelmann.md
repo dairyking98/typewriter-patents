@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1897 |
 | Maker | [Wemicke](../companies/wemicke.md) |
 | Designer | Firmeningenieure |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 84 |

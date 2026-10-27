@@ -21,7 +21,7 @@ tags: ["machine"]
 | Year | 1868 |
 | Maker | nicht produziert |
 | Designer | [Sholes](../people/sholes.md), [Glidden](../people/glidden.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Characters | 22 |
 | Strike | understrike (blind) |

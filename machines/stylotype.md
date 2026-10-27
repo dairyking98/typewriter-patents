@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [Stylotyp Kleinmaschinen GmbH](../companies/stylotyp.md) |
 | Designer | [Unger, Alfred A](../people/unger-a.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | single key |
 | Type carrier | type wheel |
 | Characters | 84 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1931 |
 | Maker | [BURROUGHS ADDING MACHINE CO](../companies/burroughs.md) |
 | Designer | [Bower, Raymond G](../people/bower-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

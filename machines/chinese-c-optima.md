@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1955 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
 | Designer | Firmeningenieure |
-| Country | East Germany |
+| Country | [East Germany](../countries/east-germany.md) |
 | Selection | index |
 | Characters | ca. 3000 |
 | Strike | front strike |

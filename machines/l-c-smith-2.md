@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1904 |
 | Maker | [L. C. Smith and Bros. Typewriter Comp](../companies/smith.md) |
 | Designer | [Gabrielson, Carl](../people/gabrielson-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

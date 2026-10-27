@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1929 |
 | Maker | [SAMPSON PERMAGRAPH CO](../companies/sampson.md) |
 | Designer | [Sampson, Charles H](../people/sampson-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 80 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [Shimer ) Typewriter Co. *](../companies/shimer.md) |
 | Designer | [Shimer, Elmer S](../people/shimer-e.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | ca. 76 |

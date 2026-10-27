@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1904 |
 | Maker | [Monarch Typewriter Comp](../companies/monarch.md) |
 | Designer | [Felbel](../people/felbel.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

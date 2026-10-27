@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Soc. Anonima Invicta](../companies/soc.md) |
 | Designer | [Giachero, Gius](../people/giachero-g.md) |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

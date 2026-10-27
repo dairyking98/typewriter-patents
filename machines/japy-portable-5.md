@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1931 |
 | Maker | [Japy Freres & Cie](../companies/japy.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1892 |
 | Maker | [R.Ingersoll & Bros](../companies/ingersoll.md) |
 | Designer | [Ingersoll, Robert H](../people/ingersoll-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Type carrier | type plungers |
 | Characters | 46 |
 | Strike | top strike |

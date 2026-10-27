@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1936 |
 | Maker | [Etablissements M. & J. Rooy](../companies/etablissements.md) |
 | Designer | [Felix, Auguste](../people/felix-a.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

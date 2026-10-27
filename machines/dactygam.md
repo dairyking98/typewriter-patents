@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1920 |
 | Maker | wahrscheinlich nicht fabriziert |
 | Designer | [Moulin, Georges](../people/moulin-g.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
 | Characters | 90 |

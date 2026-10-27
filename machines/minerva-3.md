@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [Dt.-Am. Masch.- fabrik vorm. G. Krebs](../companies/dt.md) |
 | Designer | [Kührt, Carl F](../people/kuhrt-c.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

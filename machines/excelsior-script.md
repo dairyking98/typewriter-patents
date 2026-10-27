@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1895 |
 | Maker | [Excelsior Script and Typewniting Co](../companies/excelsior.md) |
 | Designer | [Halstrick, Mr](../people/halstrick-m.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 78 |

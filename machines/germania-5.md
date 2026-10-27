@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [SCHREIBMASCHINENFABRIK AUGSBUR](../companies/schreibmaschinenfabrik.md) |
 | Designer | (Nachbau Jewett) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 80 |

@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1910 |
 | Maker | [Helios Schreibmaschinen GmbH](../companies/helios.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | same machine, other name |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1940 |
 | Maker | [Serio S.p. A](../companies/serio.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

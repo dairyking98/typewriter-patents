@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1932 |
 | Maker | [Etablissement Continsouza](../companies/etablissement.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

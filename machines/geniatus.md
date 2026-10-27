@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | Unbekannt |
 | Designer | Unbekannt |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | single key |
 | Type carrier | type band |
 | Characters | 90 |

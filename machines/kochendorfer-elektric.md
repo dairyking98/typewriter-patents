@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1901 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Kochendörfer, H](../people/kochendorfer-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 81 |

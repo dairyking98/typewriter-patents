@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | wahrscheinl. nicht fabrikmäßig prod |
 | Designer | [Müller, Dr. Frank](../people/muller-d.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 84+ 48 |
 | Strike | front strike |

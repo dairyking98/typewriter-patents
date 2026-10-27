@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1920 |
 | Maker | [BauchwitzPscherer A.G](../companies/bauchwitzpscherer.md) |
 | Designer | [Pscherer, Emst](../people/pscherer-e.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

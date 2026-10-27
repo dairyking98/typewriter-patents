@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [Venus-Werke Müller & Zentsch](../companies/venus.md) |
 | Designer | [Garbell, Max](../people/garbell-m.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

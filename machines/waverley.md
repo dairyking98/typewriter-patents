@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1889 |
 | Maker | [Waverley Typewriter Co. Lid](../companies/waverley.md) |
 | Designer | [Higgins, E](../people/higgins-e.md), [Jenkins](../people/jenkins.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 80 |

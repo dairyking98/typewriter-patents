@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1899 |
 | Maker | [Index Typewriter Co](../companies/index-name.md) |
 | Designer | Unbekannt (Uhlig?) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 90 |

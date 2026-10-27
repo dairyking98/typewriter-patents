@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1927 |
 | Maker | [RUF BUCHHALTUNG AKT GES](../companies/ruf.md) |
 | Designer | (Hermes) |
-| Country | Switzerland |
+| Country | [Switzerland](../countries/switzerland.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

@@ -24,7 +24,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1906 |
 | Maker | [Manograph Company](../companies/manograph.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | single key |
 | Type carrier | type band |
 | Characters | 39 |

@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1854 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Thomas, Robert S](../people/thomas-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type rods |
 | Characters | ca. 52 |

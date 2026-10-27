@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1889 |
 | Maker | [National Typewriter Comp](../companies/national.md) |
 | Designer | [Unz, Henry H](../people/unz-h.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Type carrier | typebar |
 | Characters | 81 |
 | Strike | understrike (blind) |

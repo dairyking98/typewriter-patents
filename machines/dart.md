@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1899 |
 | Maker | [Dart Marking Machine Co](../companies/dart.md) |
 | Designer | [Dart, L](../people/dart-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 41 |

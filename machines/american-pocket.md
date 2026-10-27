@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [Rochester Industries Inc](../companies/rochester.md) |
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
 | Characters | 84 |

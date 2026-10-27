@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [Dayton Portable TypewriterCo](../companies/dayton.md) |
 | Designer | Firmeningenieure |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1913 |
 | Maker | [Deutsche Waffenund Munitions-Fabriken](../companies/deutsche-waffenund-de.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar (presumably) |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

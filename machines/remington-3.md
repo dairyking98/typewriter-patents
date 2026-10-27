@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1879 |
 | Maker | [Remington Typewriter Comp](../companies/remington.md) |
 | Designer | [Yost, George W. N](../people/yost-g.md), [Brooks](../people/brooks.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

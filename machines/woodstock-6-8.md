@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1922 |
 | Designer | A. E. Roebuck Hersteller. Woodstock Typewriter Co. |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

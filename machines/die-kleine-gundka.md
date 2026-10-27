@@ -20,7 +20,7 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1924 |
 | Maker | [GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER](../companies/gundka.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | index (pointer + type wheel) |
 

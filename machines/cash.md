@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1887 |
 | Maker | [Typograph Comp](../companies/typograph.md) |
 | Designer | [Cash](../people/cash.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

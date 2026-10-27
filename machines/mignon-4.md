@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1924 |
 | Maker | [AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies](../companies/aeg.md) |
 | Designer | v.Hefner-Alteneci |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type cylinder |
 | Characters | 84 |

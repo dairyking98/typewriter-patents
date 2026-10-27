@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1920 |
 | Maker | [GOURLAND TYPEWRITER CORP](../companies/gourland.md) |
 | Designer | [Spiro, Charles](../people/spiro-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

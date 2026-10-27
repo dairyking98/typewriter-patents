@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1893 |
 | Maker | [Columbia Typewniter Mfg. Co](../companies/columbia-typewniter.md) |
 | Designer | [Spiro, Charles](../people/spiro-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 78 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [siehe unter „Venus“](../companies/siehe.md) |
 | Designer | [Gebhardt, Hugo](../people/gebhardt-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

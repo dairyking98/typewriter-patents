@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1928 |
 | Maker | [Oliver Typewriter Comp](../companies/oliver.md) |
 | Designer | [Oliver, Thomas](../people/oliver-t.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type bow |
 | Characters | 84 / 96 |

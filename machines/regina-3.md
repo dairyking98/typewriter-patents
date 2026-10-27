@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | [Schilling & Krämer](../companies/schilling.md) |
 | Designer | [Schweitzer, Heinr](../people/schweitzer-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

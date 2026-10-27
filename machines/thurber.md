@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1843 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Thurber, Charles](../people/thurber-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type rods |
 | Characters | 44 |

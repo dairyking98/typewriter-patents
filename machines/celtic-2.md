@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [Celtic Nähund Schreibm.fabrik](../companies/celtic.md) |
 | Designer | [Devlaminck, R. S](../people/devlaminck-r.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

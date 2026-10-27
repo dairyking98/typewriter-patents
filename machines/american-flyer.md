@@ -23,7 +23,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1934 |
 | Maker | [American Flyer Manufactoring Co](../companies/american-flyer.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Type carrier | type wheel |
 | Characters | ca. 40 |
 | Strike | front strike |

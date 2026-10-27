@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1891 |
 | Maker | [Franklin Typewriter Co](../companies/franklin.md) |
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 80/84 |

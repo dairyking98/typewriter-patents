@@ -21,7 +21,7 @@ tags: ["machine/index"]
 | | |
 |---|---|
 | Maker | [American Typewriter Co](../companies/american.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type plate |
 | Characters | 92Aufschlag Oberaufschlag |

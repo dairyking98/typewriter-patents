@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1931 |
 | Maker | [Fabrik in Ligov bei Leningrad](../companies/in.md) |
 | Designer | unbekannt |
-| Country | Russia |
+| Country | [Russia](../countries/russia.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

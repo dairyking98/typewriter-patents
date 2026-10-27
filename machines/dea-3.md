@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [Concordia Maschinenbau AG](../companies/concordia.md) |
 | Designer | [Schliephack](../people/schliephack.md), [Herlt](../people/herlt.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

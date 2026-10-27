@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [Hammond Typewriter Comp](../companies/hammond.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type shuttle |
 | Characters | 90 |

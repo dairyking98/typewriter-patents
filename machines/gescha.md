@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1920 |
 | Maker | [MAX SCHMID](../companies/schmid.md) |
 | Designer | Firmeningenieure |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 65 |

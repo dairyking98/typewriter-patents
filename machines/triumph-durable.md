@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1933 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1920 |
 | Maker | [Rex Typewriter Co](../companies/rex.md) |
 | Designer | [Henry, Mc](../people/henry-m.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

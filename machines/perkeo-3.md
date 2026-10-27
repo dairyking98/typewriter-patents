@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1924 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | small portable |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

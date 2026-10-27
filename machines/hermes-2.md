@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [PAILLARD & CIE SA E](../companies/paillard.md) |
 | Designer | Firmeningenieure |
-| Country | Switzerland |
+| Country | [Switzerland](../countries/switzerland.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

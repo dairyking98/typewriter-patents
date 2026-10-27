@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Maker | [Parish Manufactoring Co](../companies/parish.md) |
 | Designer | [Crandall, Lucien S](../people/crandall-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 76 |

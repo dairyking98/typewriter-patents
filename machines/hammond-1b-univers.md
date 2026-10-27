@@ -23,7 +23,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1890 |
 | Designer | J. B. Hammond Herstellere Hammond Typewniter Co. |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type shuttle |
 | Characters | 90 |

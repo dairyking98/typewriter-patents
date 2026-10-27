@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1885 |
 | Maker | Herrington Pocket Typewriter Co |
 | Designer | [Herrington](../people/herrington.md), [Millison](../people/millison.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 46 |

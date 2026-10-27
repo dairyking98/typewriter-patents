@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1887 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Myers, Frederick](../people/myers-f.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 42 |

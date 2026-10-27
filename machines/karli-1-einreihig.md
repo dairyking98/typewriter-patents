@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1927 |
 | Maker | [Karl Dietrich](../companies/dietrich.md) |
 | Designer | [Dietrich, Karl](../people/dietrich-k.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | individual type |
 | Characters | 78 |

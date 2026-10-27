@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1896 |
 | Maker | [Simplex Typewr. Co](../companies/simplex.md) |
 | Designer | A.M.English u.a.* |
-| Country | USA, France |
+| Country | [USA](../countries/usa.md), [France](../countries/france.md) |
 | Selection | index |
 | Type carrier | type ring |
 | Characters | 71 |

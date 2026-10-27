@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1919 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar, bookkeeping |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

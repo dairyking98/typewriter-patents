@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
 | Characters | 90 |

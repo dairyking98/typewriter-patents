@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1893 |
 | Maker | [American Typewriter Co](../companies/american.md) |
 | Designer | [Valiquet, Louis P](../people/valiquet-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type ring |
 | Characters | 71/73 |

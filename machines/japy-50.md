@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [Japy Freres & Cie](../companies/japy.md) |
 | Designer | (Hermes 2000) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

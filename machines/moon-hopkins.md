@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1902 |
 | Maker | [Moon-Hopkins Billing Machine Comp](../companies/moon.md) |
 | Designer | [Hopkins, Hubert](../people/hopkins-h.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 76/80 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1931 |
 | Maker | [UnderwoodElliott-Fisher Co](../companies/underwoodelliott.md) |
 | Designer | [Wagner, Franz X](../people/wagner-f.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

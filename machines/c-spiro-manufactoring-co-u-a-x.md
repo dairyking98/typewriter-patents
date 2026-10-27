@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Maker | [C.Spiro Manufactoring Co u.a](../companies/spiro.md) |
 | Designer | [Spiro, Charles](../people/spiro-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

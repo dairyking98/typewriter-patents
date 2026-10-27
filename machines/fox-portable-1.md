@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1917 |
 | Maker | [Fox Machine Comp](../companies/fox.md) |
 | Designer | [Nordmark, H](../people/nordmark-h.md), [Roß](../people/ro.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

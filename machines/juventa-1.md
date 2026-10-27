@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [S. A. Industria Dattilografica](../companies/industria.md) |
 | Designer | Firmeningenieure |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 78 |

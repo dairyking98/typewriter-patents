@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [Granville Manufactoring Co](../companies/granville.md) |
 | Designer | [Granville, Bernard](../people/granville-b.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
 | Characters | 84 |

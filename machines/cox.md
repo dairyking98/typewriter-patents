@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1860 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Cox, John](../people/cox-j.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | ? |

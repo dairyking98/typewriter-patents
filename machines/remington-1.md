@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1877 |
 | Maker | [E. Reminton & Sons](../companies/reminton.md) |
 | Designer | [Sholes](../people/sholes.md), [Glidden](../people/glidden.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | early keyboard |
 | Type carrier | typebar |
 | Characters | 43 |

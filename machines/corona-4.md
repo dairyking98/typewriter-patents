@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [L C SMITH & CORONA TYPEWRITERS](../companies/smith-corona.md) |
 | Designer | [Petermann, Otto](../people/petermann-o.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

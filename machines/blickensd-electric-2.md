@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1918 |
 | Maker | [Blickensderfer Manufacturing Comp](../companies/blickensderfer.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

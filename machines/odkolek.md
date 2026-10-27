@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1860 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Odkolek, J](../people/odkolek-j.md), [Prag](../people/prag.md) |
-| Country | Czechia |
+| Country | Czechoslovakia |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type rods |
 | Characters | 49 |

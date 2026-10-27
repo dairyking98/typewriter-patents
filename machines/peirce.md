@@ -22,7 +22,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1912 |
 | Maker | [Peirce Accounting Machine Co](../companies/peirce.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 96 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1938 |
 | Maker | [WEILWERKE A G](../companies/weil.md) |
 | Designer | [Winterling, Carl](../people/winterling-c.md), [Etheridge, Herbert](../people/etheridge-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

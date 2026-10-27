@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1854 |
 | Maker | [Enoch Prouty](../companies/enoch.md) |
 | Designer | [Thomas, Robert S](../people/thomas-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type bar (straight) |
 | Characters | ? |

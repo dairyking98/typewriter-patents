@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1891 |
 | Maker | [Liberty Mfg. Co](../companies/liberty.md) |
 | Designer | [Edland, Joe E](../people/edland-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type wheel |
 | Characters | 87 |

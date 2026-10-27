@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1963 |
 | Maker | [Siemag Siegener Maschb Akt Ges](../companies/siemag.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

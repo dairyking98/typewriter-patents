@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1879 |
 | Maker | nicht serienmäßig hergestellt |
 | Designer | [Slocum, William H](../people/slocum-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 40? |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [L C SMITH & CORONA TYPEWRITERS](../companies/smith-corona.md) |
 | Designer | Firmeningenieure |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

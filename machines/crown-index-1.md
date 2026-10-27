@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1888 |
 | Maker | [National Meter Co](../companies/national-meter.md) |
 | Designer | [Brooks, Byron A](../people/brooks-b.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 81 |

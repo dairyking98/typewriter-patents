@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER](../companies/gundka.md) |
 | Designer | [Muchajer, Paul](../people/muchajer-p.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | single key |
 | Type carrier | type wheel |
 | Characters | 84 |

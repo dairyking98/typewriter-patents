@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Maker | [Remington Typewriter Comp](../companies/remington.md) |
 | Designer | Firmeningenieure |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

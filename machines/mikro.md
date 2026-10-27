@@ -22,7 +22,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1925 |
 | Maker | [Paul Schütze GmbH](../companies/schutze.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 48 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1919 |
 | Maker | [Blick Typewriter Co](../companies/blick.md) |
 | Designer | [Roberts, Lyman R](../people/roberts-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 9% |

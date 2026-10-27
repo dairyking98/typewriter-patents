@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1897 |
 | Maker | wahrscheinlich nicht fabriziert |
 | Designer | [Brackelsberg, E. W](../people/brackelsberg-e.md) |
-| Country | Germany, England |
+| Country | [Germany](../countries/germany.md), [England](../countries/england.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | type segment |
 | Characters | 108 |

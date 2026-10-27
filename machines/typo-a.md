@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1908 |
 | Maker | [Manufacture Franc. d’ Armes et Cycles](../companies/manufacture.md) |
 | Designer | (Imperial) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 96 |

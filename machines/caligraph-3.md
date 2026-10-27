@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1890 |
 | Maker | [American Writing Machine Comp](../companies/american-writing.md) |
 | Designer | [Yost](../people/yost.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 78 |

@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1922 |
 | Maker | [Schreibm.industrie Glashütte GmbH](../companies/industrie.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar, visible writing |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

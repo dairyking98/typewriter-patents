@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1910 |
 | Maker | [Japy Freres & Cie](../companies/japy.md) |
 | Designer | (Nachbau Rem-Sho) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

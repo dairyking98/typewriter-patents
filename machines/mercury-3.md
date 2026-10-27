@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1887 |
 | Maker | [Mercury Type Writing Machine Comp](../companies/mercury.md) |
 | Designer | [Myers, Frederick](../people/myers-f.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
 | Characters | 60 |

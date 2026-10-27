@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1895 |
 | Maker | [Duplex Typewriter Comp](../companies/duplex.md) |
 | Designer | [Dennis, Adolphus S](../people/dennis-a.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 100 |

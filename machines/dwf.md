@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [Berlin-Karlsruher Industrie-Werke AG](../companies/berlin.md) |
 | Designer | Firmeningenieure |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
 | Characters | 90 |

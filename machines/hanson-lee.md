@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1899 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Hanson, Walter H](../people/hanson-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 76 |

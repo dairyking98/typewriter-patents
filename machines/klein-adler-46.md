@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1946 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | portable |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

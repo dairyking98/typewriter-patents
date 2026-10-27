@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [Corona Typewriter Comp. Inc](../companies/corona.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

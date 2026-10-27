@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1856 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Beach, A. Ely](../people/beach-a.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 38 |

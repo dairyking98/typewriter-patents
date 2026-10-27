@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | nicht produziert |
 | Designer | [Livock, Frederick](../people/livock-f.md), [Hermann, L. A](../people/hermann-l.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | ? |

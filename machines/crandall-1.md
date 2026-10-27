@@ -23,7 +23,7 @@ tags: ["machine"]
 |---|---|
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Crandall, Lucien S](../people/crandall-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type cylinder |
 | Characters | 78 |

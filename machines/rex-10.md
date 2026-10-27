@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1918 |
 | Maker | [Rex Typewriter Co](../companies/rex.md) |
 | Designer | [Harris, De Witt C](../people/harris-d.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 96 |

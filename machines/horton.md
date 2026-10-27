@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1885 |
 | Maker | [Horton Typewriter Co](../companies/horton.md) |
 | Designer | [Horton, Edward E](../people/horton-e.md) |
-| Country | Canada |
+| Country | [Canada](../countries/canada.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 73 |

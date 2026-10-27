@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1859 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Guillemot, Charles](../people/guillemot-c.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
 | Characters | 3 × ca. 26 |

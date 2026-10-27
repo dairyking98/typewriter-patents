@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [British Typewriters Ltd](../companies/british.md) |
 | Designer | Salter-Ingenieure |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

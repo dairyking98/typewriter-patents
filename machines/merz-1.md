@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [MERZ GEB; MERZ WERKE](../companies/merz.md) |
 | Designer | [Schauss, Adolf](../people/schauss-a.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

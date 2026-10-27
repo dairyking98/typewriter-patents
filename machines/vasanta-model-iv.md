@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1923 |
 | Maker | [Sächsische Strickmaschinen-Fabrik "Meteor" / Vasanta Schreibund Strickmaschinenfabrik AG](../companies/sachsische.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar portable, three-row |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

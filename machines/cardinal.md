@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [UHRENFABRIK VORM L FURTWAENGLE](../companies/uhrenfabrik.md) |
 | Designer | [Wallenstein, Alfred](../people/wallenstein-a.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1905 |
 | Maker | [Hartford Typewriter Comp](../companies/hartford.md) |
 | Designer | [Fairfield, John M](../people/fairfield-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

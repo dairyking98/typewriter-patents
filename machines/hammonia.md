@@ -21,7 +21,7 @@ tags: ["machine"]
 | Year | 1882 |
 | Maker | [Guhl & Harbeck](../companies/guhl.md) |
 | Designer | [Hansen, Andrew P](../people/hansen-a.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | single key |
 | Characters | 45 |
 | Strike | top strike |

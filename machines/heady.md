@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1919 |
 | Maker | [Rooy Sa](../companies/rooy.md) |
 | Designer | (Nachbau Mignon) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 84 |

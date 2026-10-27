@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1898 |
 | Maker | [Friedr. Rehmann](../companies/rehmann.md) |
 | Designer | [Beyer](../people/beyer.md), [Markworth](../people/markworth.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 76 |

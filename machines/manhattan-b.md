@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [Manhattan Typewriter Comp](../companies/manhattan.md) |
 | Designer | [Remington, Nachbau](../people/remington-n.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

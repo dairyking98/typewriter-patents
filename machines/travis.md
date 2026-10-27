@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1905 |
 | Maker | [Philadelphia Typewriter Comp](../companies/philadelphia.md) |
 | Designer | [Brooks, Byron A](../people/brooks-b.md), [Travis, William H](../people/travis-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 80 |

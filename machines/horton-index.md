@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1883 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Horton](../people/horton.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type plate |
 | Characters | ? |

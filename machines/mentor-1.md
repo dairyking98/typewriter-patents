@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Metall-Industrie Schönbeck A.-G](../companies/metall.md) |
 | Designer | H. Grützmann u. |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

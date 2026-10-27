@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1890 |
 | Maker | [Lasar Typewris= Co](../companies/lasar.md) |
 | Designer | [Lasar, Godfrey H](../people/lasar-g.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 46 |

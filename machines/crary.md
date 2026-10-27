@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1894 |
 | Maker | [Garvin Machine Comp](../companies/garvin.md) |
 | Designer | [Crary, Joseph M](../people/crary-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 80 |

@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1894 |
 | Maker | [Hartford Typewriter Comp](../companies/hartford.md) |
 | Designer | [Fairfield, John M](../people/fairfield-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 75 |

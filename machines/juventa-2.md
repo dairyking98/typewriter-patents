@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [S.A. Brevetta Bassa](../companies/brevetta.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

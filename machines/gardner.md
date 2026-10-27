@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1890 |
 | Maker | [KARL LIPP](../companies/lipp.md) |
 | Designer | [Gardner, John](../people/gardner-j.md) |
-| Country | England, Germany, France |
+| Country | [England](../countries/england.md), [Germany](../countries/germany.md), [France](../countries/france.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type cylinder |
 | Characters | 84 |

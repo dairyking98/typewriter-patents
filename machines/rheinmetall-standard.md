@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Rhein. Metallwarenu.Maschinenfabrik](../companies/rhein.md) |
 | Designer | [Schweitzer, Heinr](../people/schweitzer-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1880 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Kinley, Carl Mc](../people/kinley-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type wheel |
 | Characters | ? |

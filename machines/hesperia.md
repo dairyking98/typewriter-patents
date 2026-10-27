@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [Comp. Italiana Macchine da Scrivere Hesperia](../companies/italiana.md) |
 | Designer | (Fontana) |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

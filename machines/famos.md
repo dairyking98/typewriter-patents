@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1910 |
 | Maker | [Gustav Tietze A.G](../companies/tietze.md) |
 | Designer | [Tietze, Gustav](../people/tietze-g.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 85 |

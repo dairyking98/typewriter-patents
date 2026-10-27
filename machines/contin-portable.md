@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1933 |
 | Designer | (Remington Port.) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

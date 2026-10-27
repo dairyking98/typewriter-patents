@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1924 |
 | Maker | [GUNDKA WERK VEREINIGTE BLECH S; PAUL MUCHAJER](../companies/gundka.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | same |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1890 |
 | Maker | [Bums Typewriter Co](../companies/bums.md) |
 | Designer | [Bums, Frank](../people/bums-f.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 76 |

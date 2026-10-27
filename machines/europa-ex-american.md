@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1904 |
 | Maker | [Justin Wm. Bamberger & Co](../companies/justin.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

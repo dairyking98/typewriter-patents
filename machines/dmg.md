@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [DAIMLER MOTOREN](../companies/daimler.md) |
 | Designer | Firmeningenieure |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

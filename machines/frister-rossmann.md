@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1904 |
 | Maker | [A.G. vorm. Fris & Rossmann](../companies/fris.md) |
 | Designer | [Caligraj, (Nachbau](../people/caligraj.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 78 |

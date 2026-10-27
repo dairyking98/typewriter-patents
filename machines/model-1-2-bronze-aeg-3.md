@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1912 |
 | Maker | [AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies](../companies/aeg.md) |
 | Designer | [Helm](../people/helm.md), [Carstensen](../people/carstensen.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

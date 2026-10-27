@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1901 |
 | Maker | [American Typewriter Co](../companies/american.md) |
 | Designer | [Burridge, Marshman. L](../people/burridge-m.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 81 |

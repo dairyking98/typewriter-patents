@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1932 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Pellaton, G](../people/pellaton-g.md) |
-| Country | Switzerland |
+| Country | [Switzerland](../countries/switzerland.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 84 |

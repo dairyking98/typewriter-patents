@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [A.G. vorm. Frister & Rossmann](../companies/frister.md) |
 | Designer | Firmeningenieure |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

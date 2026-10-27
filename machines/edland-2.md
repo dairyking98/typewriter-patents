@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1894 |
 | Maker | [Liberty Mfg. Co](../companies/liberty.md) |
 | Designer | [Edland, Joe E](../people/edland-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type disc |
 | Characters | 78 |

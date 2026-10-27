@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | [WOODSTOCK TYPEWRITER COMPANY](../companies/woodstock.md) |
 | Designer | [Roebuck, A. E](../people/roebuck-a.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

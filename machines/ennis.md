@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1901 |
 | Maker | [Electric Typewriter Comp. Inc](../companies/electric.md) |
 | Designer | [Ennis, George H](../people/ennis-g.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | ca. 80 |

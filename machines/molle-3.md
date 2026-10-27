@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1918 |
 | Maker | [Molle Typewriter Co](../companies/molle.md) |
 | Designer | [Molle, John E](../people/molle-j.md), [Bay, S](../people/bay-s.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 90 |
 | Strike | front strike |

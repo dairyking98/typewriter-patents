@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [Fisher Book Typewriter Comp](../companies/fisher.md) |
 | Designer | [Fisher, Robert Joseph](../people/fisher-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 78 |

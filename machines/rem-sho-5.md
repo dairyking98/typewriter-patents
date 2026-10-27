@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [Rem.-Sholes Co](../companies/rem.md) |
 | Designer | [Sholes, Zalmon G](../people/sholes-z.md), [Remington, C](../people/remington-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

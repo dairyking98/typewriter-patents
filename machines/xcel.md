@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [Xcel Typewriter Co](../companies/xcel.md) |
 | Designer | [Bennington, W. H](../people/bennington-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 + 13 Silben* |

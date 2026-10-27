@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1902 |
 | Maker | [A.G. vorm. Frister & Rossmann](../companies/frister.md) |
 | Designer | (Nachbau Caligraph) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 78 |

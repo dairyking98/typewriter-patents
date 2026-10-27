@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | [Thürey-Schreibmaschinen-Gesellschaft mbH](../companies/thurey.md) |
 | Designer | [Thürey, Eduard](../people/thurey-e.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | type wheel |
 | Characters | 84 |
 | Strike | front strike |

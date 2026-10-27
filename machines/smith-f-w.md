@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1891 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Smith, F. W](../people/smith-f.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | index |
 | Type carrier | type disc |
 | Characters | 47 |

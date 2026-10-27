@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1893 |
 | Maker | [Cahill Writing Machine Co](../companies/cahill.md) |
 | Designer | [Cahill, Thaddeus](../people/cahill-t.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 80 |

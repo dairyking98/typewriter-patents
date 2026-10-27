@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1907 |
 | Maker | [Oskar Picht / Herde & Wendt](../companies/picht.md) |
 | Designer | [Picht, Oskar](../people/picht-o.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 84 |

@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1884 |
 | Maker | [Emst Wilhelm Brackelsberg &Co](../companies/brackelsberg.md) |
 | Designer | [Brackelsberg, E. W](../people/brackelsberg-e.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | linear type rule |
 | Characters | 86/87 |

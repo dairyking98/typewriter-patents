@@ -20,7 +20,7 @@ tags: ["machine"]
 |---|---|
 | Maker | [MERCEDES BUEROMASCHINEN WERKE](../companies/mercedes.md) |
 | Designer | [Schlüns, Carl](../people/schluns-c.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 88 |
 | Strike | front strike |

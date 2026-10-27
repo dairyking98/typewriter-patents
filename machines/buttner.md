@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1896 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Büttner, Dr](../people/buttner-d.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | ? |

@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1917 |
 | Maker | [Nippon Typewriter Co](../companies/nippon.md) |
 | Designer | [Sugimoto, Kyōta](../people/sugimoto-k.md) |
-| Country | Japan |
+| Country | [Japan](../countries/japan.md) |
 | Selection | index |
 | Characters | 2.380 |
 | Strike | top strike |

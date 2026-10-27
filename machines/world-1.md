@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1886 |
 | Maker | [Typewriter Improvement Comp](../companies/improvement.md) |
 | Designer | [Becker, John](../people/becker-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type plate |
 | Characters | 44 |

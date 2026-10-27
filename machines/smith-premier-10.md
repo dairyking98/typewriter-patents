@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1908 |
 | Maker | [Smith Premier Typewriter Comp](../companies/smith-premier.md) |
 | Designer | [Brown, Alexander T](../people/brown-a.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 84 |

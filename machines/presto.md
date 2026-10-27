@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Presto Büromaschinenbau GmbH](../companies/presto.md) |
 | Designer | (Nachbau Senta) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

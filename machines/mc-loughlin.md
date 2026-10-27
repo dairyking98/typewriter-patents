@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1884 |
 | Maker | [Mc Loughlin Bros](../companies/mcloughlin.md) |
 | Designer | [Loughlin, Mc](../people/loughlin-m.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type plate |
 | Characters | 45 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1923 |
 | Maker | [Maschinenfabrik G.F. Grosser](../companies/maschinenfabrik.md) |
 | Designer | [Reißer, Adolf](../people/rei-er-a.md) |
-| Country | Austria |
+| Country | [Austria](../countries/austria.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

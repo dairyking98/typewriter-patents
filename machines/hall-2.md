@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1887 |
 | Maker | [Hall Type Writer Co](../companies/hall.md) |
 | Designer | [Hall, Thomas](../people/hall-t.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type plate |
 | Characters | 81 |

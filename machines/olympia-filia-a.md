@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [EUROPA SCHREIBMASCHINEN A G](../companies/europa.md) |
 | Designer | Firmeningenieure |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 80 |

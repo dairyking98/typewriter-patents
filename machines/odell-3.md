@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1894 |
 | Maker | [Odell Typewriter Co](../companies/odell.md) |
 | Designer | [Odell, Levi J](../people/odell-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type bar (straight) |
 | Characters | 78 |

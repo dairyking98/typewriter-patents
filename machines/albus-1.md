@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Maschinenfabrik G.F. Grosser](../companies/maschinenfabrik.md) |
 | Designer | [Endemann, Ing](../people/endemann-i.md) |
-| Country | Austria |
+| Country | [Austria](../countries/austria.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 81 |

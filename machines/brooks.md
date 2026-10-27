@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1887 |
 | Maker | [United States Wireless Printing Telegraph Comp](../companies/united.md) |
 | Designer | [Brooks, Byron A](../people/brooks-b.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 81/84 |

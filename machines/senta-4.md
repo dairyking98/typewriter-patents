@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [A.G. vorm. Frister & Rossmann](../companies/frister.md) |
 | Designer | [Keller, Peter](../people/keller-p.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

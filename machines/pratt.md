@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1863 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Pratt, John](../people/pratt-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type plate |
 | Characters | 36 |

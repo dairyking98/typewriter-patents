@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1890 |
 | Maker | [Gilman Typewniter Co](../companies/gilman.md) |
 | Designer | Mr. Gilman * |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type wheel |
 | Characters | ca. 52 |

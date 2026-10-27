@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1905 |
 | Maker | [Hammond Typewriter Comp](../companies/hammond.md) |
 | Designer | [Hammond, James B](../people/hammond-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type shuttle |
 | Characters | 90 |

@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1908 |
 | Maker | [Secor Typewriter Comp](../companies/secor.md) |
 | Designer | [Secor, Jerome B](../people/secor-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

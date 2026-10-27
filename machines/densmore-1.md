@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1891 |
 | Maker | [Densmore Typewriter Comp](../companies/densmore.md) |
 | Designer | A. Densmore u.a. |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 76 |

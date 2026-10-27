@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1956 |
 | Maker | [OLYMPIA BUEROMASCHINENWERKE A](../companies/olympia.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar travel |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

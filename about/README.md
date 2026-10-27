@@ -4,15 +4,26 @@ Typewriters & Patents is a library of typewriter history built from the patent r
 
 ## How it is organised
 
-- **Timelines**: the history in order, from the readable American landmarks to the interactive browser.
-- **Guides**: introductions to each kind of machine (typebar, type element, index).
-- **Machines & mechanisms**: overviews generated from the data (index machines, mechanisms, inventors).
-- **Browse**: one page per machine, patent, person, company, patent family and mechanism feature.
+The library has two kinds of thing in it, **patents** and **machines**, and one page for each. Everything else is a way into them:
+
+- **Every patent** belongs to the country that granted it, and gets the same treatment whatever the country: its facts, a summary (what problem it took on, what it does), the mechanism features it shows, the machines it is linked to, similar patents, and a link to the original document.
+- **Every machine** belongs to the country it was made in, with its facts from the Lexikon, its patents, and links to collectors' pages.
+- **Mechanism features** (a pointer over a chart, a pawl-and-rack escapement, a backspace key…) tie the two together. They are grouped in ten subsystems, from selecting the character to the frame.
+
+The sections read that one library in different ways:
+
+- **Timelines**: in order of time, all countries together.
+- **Guides**: by kind of machine (typebar, type element, index), all countries together.
+- **Countries**: by country, each with the same analysis (patents by decade and kind, what they worked on, features first seen there, inventors and companies, the machines made there).
+- **Machines & mechanisms**: by mechanism, all countries together.
+- **Browse**: every page by kind.
+
+The analysis is the same everywhere: the decade counts, the feature pages, the timelines and the country pages all count from the same patents and readings, so a figure on one page agrees with the others. When another country's patents come in, they join all of it at once.
 
 ## How it was made, and what to trust
 
-- Patent data, text and drawings come from Google Patents; German patent lists and original scans from DEPATISnet (DPMA); Japanese patents and their scans from J-PlatPat. Patent documents are public domain; drawings are linked from Google, not copied.
-- Patent summaries, feature tags and patent-to-machine links were made by machine from OCR and from Google's translation of old German patents; Japanese patents were transcribed and translated by machine from the scans. Check the patent and its drawings before relying on a detail.
+- Patent documents are public domain. US and German texts and drawings come from Google Patents (drawings are linked, not copied); German lists and original scans from DEPATISnet (DPMA); Japanese lists and scans from J-PlatPat. Each country's page says how its text was made.
+- Patent summaries, feature tags and patent-to-machine links were made by machine: from OCR for US patents, from Google's translation for German ones, and from machine transcriptions and translations of the scans for Japanese ones. Check the patent and its drawings before relying on a detail.
 - Patent-to-machine links marked low or medium are inferences from the inventor's name. Dates of old German patents without a listed date are estimated from the patent number; titles starting with ~ were derived from the text.
 - Machine facts come from Dingwerth's Lexikon (1997); its text is not reproduced. Every source is listed in [Sources and credits](sources.md).
 

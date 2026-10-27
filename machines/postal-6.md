@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1906 |
 | Maker | [Postal Typewriter Co](../companies/postal.md) |
 | Designer | (Weiterentwickig.) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

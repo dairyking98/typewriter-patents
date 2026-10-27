@@ -21,7 +21,7 @@ tags: ["machine"]
 | Year | 1899 |
 | Maker | [E. Stauder](../companies/stauder.md) |
 | Designer | [Meyer-Teuber, F](../people/meyer-teuber-f.md) |
-| Country | Switzerland |
+| Country | [Switzerland](../countries/switzerland.md) |
 | Characters | 72 |
 | Strike | understrike (blind) |
 | Inking | ribbon |

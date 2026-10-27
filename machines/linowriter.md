@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1910 |
 | Maker | [Empire Type Foundry](../companies/empire.md) |
 | Designer | (Smith Premier 17 |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 88 |

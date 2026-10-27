@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Dt.-Am. Masch.- fabrik vorm. G. Krebs](../companies/dt.md) |
 | Designer | [Bamberger, J. W](../people/bamberger-j.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1929 |
 | Maker | [Remington Typewriter Comp](../companies/remington.md) |
 | Designer | [Smith, Arthur W](../people/smith-a.md), [Barr, John H](../people/barr-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

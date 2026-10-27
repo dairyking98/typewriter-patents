@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1929 |
 | Maker | [Smith Premier Typewriter Comp](../companies/smith-premier.md) |
 | Designer | (Remington Port.5) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

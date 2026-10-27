@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1912 |
 | Maker | [Apparate-Industrie A.-G](../companies/apparate.md) |
 | Designer | (Imperial) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

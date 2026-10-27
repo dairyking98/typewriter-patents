@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1892 |
 | Maker | [Williams Typewriter Comp](../companies/williams.md) |
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
-| Country | Canada |
+| Country | [Canada](../countries/canada.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
 | Characters | 84 |

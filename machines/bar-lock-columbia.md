@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1903 |
 | Maker | [Columbia Typewriter Mfg. Co](../companies/columbia.md) |
 | Designer | [Spiro, Charles](../people/spiro-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84/90 |

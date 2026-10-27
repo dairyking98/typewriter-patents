@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Bar-Lock Typewriter Comp. Ltd](../companies/bar.md) |
 | Designer | [Etheridge, Herbert](../people/etheridge-h.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

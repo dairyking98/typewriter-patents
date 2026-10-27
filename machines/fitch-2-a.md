@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1888 |
 | Maker | [Brady Manufactoring Co](../companies/brady.md) |
 | Designer | [Fitch, Eugene](../people/fitch-e.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 78 |

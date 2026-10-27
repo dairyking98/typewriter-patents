@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1890 |
 | Maker | [R.Ingersoll & Bros](../companies/ingersoll.md) |
 | Designer | [Ingersoll, Robert H](../people/ingersoll-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 46 |

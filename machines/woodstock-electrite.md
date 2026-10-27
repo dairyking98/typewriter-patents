@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [WOODSTOCK TYPEWRITER COMPANY](../companies/woodstock.md) |
 | Designer | [Hokanson, ©. A](../people/hokanson.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 84 |
 | Strike | front strike |

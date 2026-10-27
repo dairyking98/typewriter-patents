@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1910 |
 | Maker | [Nova Maschinenbauu. Vertriebs-GmbH](../companies/nova.md) |
 | Designer | [Burridge, Lee S](../people/burridge-l.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 81 |

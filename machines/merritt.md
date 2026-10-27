@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1889 |
 | Maker | [Lyon Manufactoring Co](../companies/lyon.md) |
 | Designer | [Mermitt, M. G](../people/mermitt-m.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Characters | 78 |
 | Strike | understrike (blind) |

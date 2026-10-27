@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1906 |
 | Maker | [Fox Machine Comp](../companies/fox.md) |
 | Designer | [Barrett, Glenn J](../people/barrett-g.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

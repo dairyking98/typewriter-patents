@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1930 |
 | Maker | noch unbekannt |
 | Designer | Ludolf * |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type disc |
 | Characters | 91 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1919 |
 | Maker | [Underwood Typewriter Comp](../companies/underwood.md) |
 | Designer | Firmeningenieure |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

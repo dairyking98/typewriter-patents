@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1914 |
 | Maker | [Virotyp Co](../companies/virotyp.md) |
 | Designer | [Viry, Henry](../people/viry-h.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | index |
 | Type carrier | type disc |
 | Characters | 92 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1895 |
 | Maker | [Jewett Typewriter Comp](../companies/jewett.md) |
 | Designer | (aus Duplex entw.) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 80 |

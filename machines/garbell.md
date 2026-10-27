@@ -21,7 +21,7 @@ tags: ["machine"]
 | Year | 1919 |
 | Maker | [Garbell Typewriter Co](../companies/garbell.md) |
 | Designer | [Garbell, Max](../people/garbell-m.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Type carrier | push-rod typebars |
 | Characters | 84 |
 | Strike | front strike |

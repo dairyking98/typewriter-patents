@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1899 |
 | Maker | [American (Williams) Typewriter Co](../companies/american-williams.md) |
 | Designer | [Marshman](../people/marshman.md), [Buridge, L](../people/buridge-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 81 |

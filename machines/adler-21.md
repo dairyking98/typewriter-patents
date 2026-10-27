@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | push-rod typebars |
 | Characters | 84 |
 | Strike | front strike |

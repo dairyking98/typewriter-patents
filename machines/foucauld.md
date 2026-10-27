@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1851 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Foucauld, Pierre](../people/foucauld-p.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 60 |

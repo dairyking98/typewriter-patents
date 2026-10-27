@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1912 |
 | Maker | [Soblick Schreibmaschinen GmbH](../companies/soblick.md) |
 | Designer | [Soblick, Max](../people/soblick-m.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | ca. 84 |

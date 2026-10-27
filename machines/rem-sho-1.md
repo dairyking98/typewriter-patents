@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [Remington Typewriter Comp](../companies/remington.md) |
 | Designer | [Sholes, Zalmon G](../people/sholes-z.md), [Remington, F. u. C](../people/remington-f.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

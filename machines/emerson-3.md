@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Emerson Typewriter Comp](../companies/emerson.md) |
 | Designer | [Uhlig, Richard W](../people/uhlig-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

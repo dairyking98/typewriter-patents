@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1901 |
 | Maker | [Fabrik in Ligov bei Leningrad](../companies/in.md) |
 | Designer | [Peterson](../people/peterson.md), [Cox, R. C](../people/cox-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

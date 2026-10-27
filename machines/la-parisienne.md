@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1886 |
 | Maker | [Emest Enjalbert](../companies/enjalbert.md) |
 | Designer | [Enjalbert, Emest](../people/enjalbert-e.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | index |
 | Type carrier | type band |
 | Characters | 78 |

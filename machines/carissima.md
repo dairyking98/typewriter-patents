@@ -23,7 +23,7 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1934 |
 | Designer | [Knaur-Hübel, Edgar Hoffmann Hersteller. Th](../people/knaur-hubel-e.md), [Denk](../people/denk.md), [Leipzig](../people/leipzig.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 87 |

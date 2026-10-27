@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1900 |
 | Maker | [NH. Kochendörfer](../companies/nh.md) |
 | Designer | [Kochendörfer, H](../people/kochendorfer-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

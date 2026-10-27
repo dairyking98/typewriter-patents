@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | [Kanzler Schreibmaschinen A.-G](../companies/kanzler.md) |
 | Designer | [Grützmann, Paul](../people/grutzmann-p.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar (thrust-swing) |
 | Characters | 88 |

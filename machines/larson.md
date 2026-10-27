@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1894 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Larson, Swante P](../people/larson-s.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | ? |

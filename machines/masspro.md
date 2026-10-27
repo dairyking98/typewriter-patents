@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1932 |
 | Maker | [Mass Production Corporation](../companies/mass.md) |
 | Designer | [Rose, George F](../people/rose-g.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 90 |
 | Strike | front strike |

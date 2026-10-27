@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1881 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Maggi, Fa](../people/maggi-f.md), [Comp](../people/comp.md) |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 38 |

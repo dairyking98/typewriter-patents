@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1887 |
 | Maker | [Crown Typewriter Mfg. Co](../companies/crown.md) |
 | Designer | [Donnelly, Alexander G](../people/donnelly-a.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 78 |

@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1901 |
 | Maker | [Blickensderfer Manufacturing Comp](../companies/blickensderfer.md) |
 | Designer | [Blickensderfer*, C](../people/blickensderfer-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 84 |

@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1918 |
 | Maker | [Yu-EssTypewriter Co](../companies/yu.md) |
 | Designer | (Mignon) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type cylinder |
 | Characters | 84 |

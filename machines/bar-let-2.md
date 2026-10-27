@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1936 |
 | Maker | [Bar-Lock Typewriter Comp. Ltd](../companies/bar.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

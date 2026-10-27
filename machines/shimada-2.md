@@ -21,7 +21,7 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1938 |
 | Maker | [Shimada Typewriter Works](../companies/shimada.md) |
-| Country | Japan |
+| Country | [Japan](../countries/japan.md) |
 | Selection | index |
 | Characters | 2.740 |
 | Inking | ink roller |

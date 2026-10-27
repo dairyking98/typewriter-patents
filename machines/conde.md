@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1885 |
 | Maker | [Conde Typewriter Co](../companies/conde.md) |
 | Designer | [Condé, Samuel L](../people/conde-s.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 76 |

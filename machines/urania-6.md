@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [CLEMENS MUELLER AKT GES](../companies/clemens.md) |
 | Designer | [GmbH, Heinr. Schweitzer Hersteller. Clemens Müller](../people/gmbh-h.md), [Dresden](../people/dresden.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

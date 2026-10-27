@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [American Typewriter Co](../companies/american.md) |
 | Designer | [Marshman](../people/marshman.md), [Burndge, L](../people/burndge-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Type carrier | type shuttle |
 | Characters | 37 |
 | Strike | front strike |

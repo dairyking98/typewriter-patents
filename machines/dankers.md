@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1935 |
 | Maker | [Heinrich Dankers jun](../companies/dankers.md) |
 | Designer | Firmeningenieure |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

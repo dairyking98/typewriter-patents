@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1878 |
 | Maker | nicht serienmäßig hergestellt |
 | Designer | [Brady](../people/brady.md), [Warner](../people/warner.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | °? |

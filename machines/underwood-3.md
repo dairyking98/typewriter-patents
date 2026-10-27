@@ -20,7 +20,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1900 |
 | Designer | Franz X. Wagner Hersteller. Wagner Typewriter Co. |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Type carrier | typebar |
 | Characters | 84 |
 | Strike | front strike |

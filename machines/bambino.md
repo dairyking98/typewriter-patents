@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1954 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | child's |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1900 |
 | Maker | [George Salter & Co](../companies/salter.md) |
 | Designer | [Foley, J. S](../people/foley-j.md), [Birch, J](../people/birch-j.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

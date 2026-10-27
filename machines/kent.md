@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1892 |
 | Maker | [Kent Writing Machine Co](../companies/kent.md) |
 | Designer | Kent * |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | type wheel |
 | Characters | 72 |

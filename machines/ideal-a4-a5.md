@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
 | Designer | [Barney, Edwin E](../people/barney-e.md), [Tanner](../people/tanner.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

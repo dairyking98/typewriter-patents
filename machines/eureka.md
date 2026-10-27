@@ -24,7 +24,7 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1896 |
 | Maker | [World Type Writer Comp](../companies/world.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | ca. 40 |

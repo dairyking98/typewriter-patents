@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1904 |
 | Maker | [WANDERER WERKE VORM WINKLHOFER](../companies/wanderer.md) |
 | Designer | [Mohns, Julius](../people/mohns-j.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

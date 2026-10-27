@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Reliable Schreibmaschinenfabrik](../companies/reliable.md) |
 | Designer | [Kührt, Amo](../people/kuhrt-a.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

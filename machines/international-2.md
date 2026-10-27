@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1892 |
 | Maker | [Parish Manufactoring Co](../companies/parish.md) |
 | Designer | [Crandall, Lucien S](../people/crandall-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 73 |

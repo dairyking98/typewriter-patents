@@ -23,7 +23,7 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1890 |
 | Designer | F. Soennecken Hersteller. nicht fabrikmäßig hergestellt |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | linear type rule |
 | Characters | 88 |

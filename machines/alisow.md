@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1872 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Alisow, M. J](../people/alisow-m.md) |
-| Country | Russia |
+| Country | [Russia](../countries/russia.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 240 |

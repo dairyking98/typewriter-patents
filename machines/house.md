@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1865 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [House, G](../people/house-g.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Characters | 41 |
 | Strike | understrike (blind) |

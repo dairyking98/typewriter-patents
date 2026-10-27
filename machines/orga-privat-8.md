@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [BING WERKE VORM GEBR BING A G](../companies/bing.md) |
 | Designer | [Reischl, Ludwig](../people/reischl-l.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 | Characters | 84 |
 | Strike | front strike |

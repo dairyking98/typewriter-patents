@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [ZIMMER & CO KOMMANDITGESELLSCH](../companies/zimmer.md) |
 | Designer | (Nachbau Adler 7) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
 | Characters | 9%0 |

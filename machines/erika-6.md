@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1932 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 | Characters | 88 |
 | Strike | front strike |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1890 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | Mr. Pierce * |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 72 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1929 |
 | Maker | [DIAMANT SCHREIBMASCHINENFABRIK](../companies/diamant.md) |
 | Designer | [Heil, Jakob](../people/heil-j.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

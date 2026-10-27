@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1890 |
 | Maker | [Essex Typewriter Comp](../companies/essex.md) |
 | Designer | unbekannt |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type segment |
 | Strike | front strike |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Duke Typewriter Co](../companies/duke.md) |
 | Designer | [Duke](../people/duke.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 76 |

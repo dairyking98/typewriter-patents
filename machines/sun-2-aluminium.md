@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1906 |
 | Maker | [Sun Typewriter Co](../companies/sun.md) |
 | Designer | [Burridge, Lee S](../people/burridge-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 81 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1926 |
 | Designer | (Weiterentwicklg.) Herstellere Hammond Typewriter Co. |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type shuttle |
 | Characters | 90 |

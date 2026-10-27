@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [Williams Typewriter Comp](../companies/williams.md) |
 | Designer | [Williams, John N](../people/williams-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

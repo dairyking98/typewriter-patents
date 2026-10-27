@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1897 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Burridge, Lee S](../people/burridge-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type rail |
 | Characters | 81 |

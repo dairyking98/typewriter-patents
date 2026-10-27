@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [Mach.- u. Metallwerke vorm. A.F.Bechmann](../companies/mach.md) |
 | Designer | [Endemann, Ing](../people/endemann-i.md) |
-| Country | Austria |
+| Country | [Austria](../countries/austria.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 93 |

@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Hammond Typewriter Comp](../companies/hammond.md) |
 | Designer | [Noack, Charles ©](../people/noack-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 90 |
 | Strike | front strike |

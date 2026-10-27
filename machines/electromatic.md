@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1930 |
 | Maker | [ELECTROMATIC TYPEWRITERS INC](../companies/electromatic.md) |
 | Designer | R.G. Thompson u.a. |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

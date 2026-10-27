@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1892 |
 | Maker | [Blickensderfer Manufacturing Comp](../companies/blickensderfer.md) |
 | Designer | [Blickensderfer, George C](../people/blickensderfer-g.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

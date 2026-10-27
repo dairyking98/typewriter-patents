@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1856 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Cooper, John Joseph](../people/cooper-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Characters | ca. 40 |
 | Strike | front strike |

@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1894 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Mahron, Albert](../people/mahron-a.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type cylinder |
 | Characters | 66 |

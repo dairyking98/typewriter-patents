@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1887 |
 | Maker | [Pocket Typewriter Co](../companies/pocket.md) |
 | Designer | [Dobson](../people/dobson.md), [Wynn](../people/wynn.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type disc |
 | Characters | ca. 36 |

@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1930 |
 | Maker | [Underwood Typewriter Comp](../companies/underwood.md) |
 | Designer | (Rem.-Noiseless) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 84 |
 | Strike | front strike |

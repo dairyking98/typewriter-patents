@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1937 |
 | Designer | (Urania 8) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

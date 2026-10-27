@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1916 |
 | Maker | [A.B. Halda Fabriker](../companies/halda.md) |
 | Designer | [Hammarlund, H](../people/hammarlund-h.md) |
-| Country | Sweden |
+| Country | [Sweden](../countries/sweden.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 92 |
 | Strike | front strike |

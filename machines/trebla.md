@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1910 |
 | Maker | [Sullivan & Cie](../companies/sullivan.md) |
 | Designer | [Erfinder, Berliner](../people/erfinder-b.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 54 |

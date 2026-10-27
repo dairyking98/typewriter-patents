@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Kührt & Riegelmann GmbH](../companies/kuhrt.md) |
 | Designer | [Kührt, Carl F](../people/kuhrt-c.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

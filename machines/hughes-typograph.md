@@ -23,7 +23,7 @@ tags: ["machine/index"]
 | Year | 1850 |
 | Maker | Eigenbau (bzw. in kleiner Werkstatt) |
 | Designer | [Hughes, William](../people/hughes-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Characters | 34 |
 | Strike | top strike |

@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1889 |
 | Maker | [Columbia Typewriter Mfg. Co](../companies/columbia.md) |
 | Designer | [Spiro, Charles](../people/spiro-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 72Aufschlag Oberaufschlag |

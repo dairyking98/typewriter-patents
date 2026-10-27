@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1892 |
 | Maker | [North American Machine Comp](../companies/north.md) |
 | Designer | [Cooper, G](../people/cooper-g.md), [Donne](../people/donne.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 78 |

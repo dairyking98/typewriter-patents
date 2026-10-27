@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1901 |
 | Maker | [A. D. Meiselbach Typewriter Co](../companies/meiselbach.md) |
 | Designer | [Sholes, C. Latham](../people/sholes-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 76 |

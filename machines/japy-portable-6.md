@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1937 |
 | Maker | [Japy Freres & Cie](../companies/japy.md) |
 | Designer | (Nachbau Patria) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

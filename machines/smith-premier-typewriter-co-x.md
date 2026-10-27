@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Maker | [Smith Premier Typewriter Comp](../companies/smith-premier.md) |
 | Designer | (Remington N.7x) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1911 |
 | Maker | [Ing. C. Olovetti & C](../companies/ing.md) |
 | Designer | [Olivetti, Camillo](../people/olivetti-c.md) |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

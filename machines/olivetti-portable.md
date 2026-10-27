@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1931 |
 | Maker | [Ing. C. Olovetti & C](../companies/ing.md) |
 | Designer | Firmeningenieure |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1955 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
 | Designer | Firmeningenieure |
-| Country | East Germany |
+| Country | [East Germany](../countries/east-germany.md) |
 | Selection | index |
 | Type carrier | individual type |
 | Characters | ca. 3000 |

@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1833 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Progin, Xavier](../people/progin-x.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Type carrier | typebar |
 | Characters | 66 |
 | Strike | top strike |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | [Societ€ des Machi- & Ecrire Map nes](../companies/societ.md) |
 | Designer | [Ellis, Halcolm](../people/ellis-h.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

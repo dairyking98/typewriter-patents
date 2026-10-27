@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1932 |
 | Maker | [Ing. C. Olovetti & C](../companies/ing.md) |
 | Designer | [Firmeningenieum](../people/firmeningenieum.md) |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

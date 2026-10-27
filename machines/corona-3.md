@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1912 |
 | Maker | [Corona Typewriter Comp. Inc](../companies/corona.md) |
 | Designer | [Petermann, Otto](../people/petermann-o.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

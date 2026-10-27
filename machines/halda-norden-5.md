@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1935 |
 | Maker | [A.B. Halda Fabriker](../companies/halda.md) |
 | Designer | [Lindberg](../people/lindberg.md), [Rasmussen](../people/rasmussen.md) |
-| Country | Sweden |
+| Country | [Sweden](../countries/sweden.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1892 |
 | Maker | [Pneumatic Typewriter Co](../companies/pneumatic.md) |
 | Designer | [Weird, A](../people/weird-a.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | push-rod typebars |
 | Characters | 90 |

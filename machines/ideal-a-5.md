@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1912 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
 | Designer | [Bamey, E](../people/bamey-e.md), [Tanner](../people/tanner.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1920 |
 | Maker | [GEORGES PERPETE; HUBERT PUTTEMANS](../companies/georges.md) |
 | Designer | [Devlaminck, R. S](../people/devlaminck-r.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

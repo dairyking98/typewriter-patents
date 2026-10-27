@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [BING WERKE VORM GEBR BING A G](../companies/bing.md) |
 | Designer | [Grützmann, Heinr](../people/grutzmann-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

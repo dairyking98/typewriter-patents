@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | [Royal Typewriter Comp](../companies/royal.md) |
 | Designer | [Heß, Edward B](../people/he-e.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

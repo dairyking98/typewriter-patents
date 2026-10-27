@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [A.B. Halda Fabriker](../companies/halda.md) |
 | Designer | [Hammarlund, H](../people/hammarlund-h.md) |
-| Country | Sweden |
+| Country | [Sweden](../countries/sweden.md) |
 | Type carrier | typebar |
 | Characters | 84 |
 | Strike | top strike |

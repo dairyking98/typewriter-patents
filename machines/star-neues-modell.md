@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1912 |
 | Maker | [Sun Typewriter Co](../companies/sun.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 81 |

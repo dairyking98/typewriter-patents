@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [Allen Typewriter Mfg. Co](../companies/allen.md) |
 | Designer | [Uhlig, Richard W](../people/uhlig-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 87 |

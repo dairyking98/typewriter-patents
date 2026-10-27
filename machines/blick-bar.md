@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | [Blickensderfer Manufacturing Comp](../companies/blickensderfer.md) |
 | Designer | Emmet G. l.atta |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

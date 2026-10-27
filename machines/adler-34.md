@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1935 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
 | Designer | (Triumph 12) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1857 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Hood, Peter](../people/hood-p.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | ca. 40 |

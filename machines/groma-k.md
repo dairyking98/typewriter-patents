@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1926 |
 | Maker | Maschinenfabrik G. F. Grosser |
 | Designer | [Pfau, Max](../people/pfau-m.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 9% |

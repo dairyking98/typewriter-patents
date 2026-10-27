@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1936 |
 | Maker | [RHEINMETALL BORSIG AKT GES](../companies/rheinmetall.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

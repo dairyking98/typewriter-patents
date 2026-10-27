@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1920 |
 | Maker | [L. C. Smith and Bros. Typewriter Comp](../companies/smith.md) |
 | Designer | (Blick-Bar) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1925 |
 | Maker | [ADLERWERKE KLEYER AG H](../companies/adler.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 92 |
 | Strike | front strike |

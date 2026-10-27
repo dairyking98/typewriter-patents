@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1910 |
 | Maker | [R.Ingersoll & Bros](../companies/ingersoll.md) |
 | Designer | Robert Ingersoll * |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type disc |
 | Characters | 52 |

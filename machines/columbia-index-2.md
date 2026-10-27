@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1885 |
 | Maker | [Columbia Typewriter Mfg. Co](../companies/columbia.md) |
 | Designer | [Spiro, Charles](../people/spiro-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 78 |

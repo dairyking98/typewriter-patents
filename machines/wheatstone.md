@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1856 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Wheatstone, Charles](../people/wheatstone-c.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type segment |
 | Characters | 56 |

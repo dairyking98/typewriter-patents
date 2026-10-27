@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1908 |
 | Designer | [Schilling, Heinr. Schweitzer Hersteller](../people/schilling-h.md), [Krämer](../people/kramer.md), [Suhl](../people/suhl.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

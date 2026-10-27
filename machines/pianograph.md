@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1903 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Wasem, Hermann](../people/wasem-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 87 |

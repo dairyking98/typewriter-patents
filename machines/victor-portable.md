@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1927 |
 | Maker | [VICTOR ADDING MACHINE COMPANY](../companies/victor-adding.md) |
 | Designer | [Garbell, Max](../people/garbell-m.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

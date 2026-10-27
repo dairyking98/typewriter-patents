@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [TORPEDO WERKE A G FAHRRAEDER U](../companies/torpedo.md) |
 | Designer | Firmeningenieure |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

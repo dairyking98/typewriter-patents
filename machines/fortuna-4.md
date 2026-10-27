@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1928 |
 | Maker | [J.P. Sauer & Sohn Fortuna G.m.b.H](../companies/sauer.md) |
 | Designer | [Schlüns, Carl](../people/schluns-c.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

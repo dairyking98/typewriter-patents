@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1892 |
 | Maker | wahrscheinl. nicht in Serie produziert |
 | Designer | [Eckels](../people/eckels.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | type wheel |
 | Characters | 86 |

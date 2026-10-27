@@ -21,7 +21,7 @@ tags: ["machine"]
 | Year | 1899 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Stander, E](../people/stander-e.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Characters | 64 |
 | Strike | understrike (blind) |

@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1895 |
 | Maker | [Leo Kamm](../companies/leo.md) |
 | Designer | [Kamm, Leo](../people/kamm-l.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
 | Characters | 78 |

@@ -22,7 +22,7 @@ tags: ["machine/index"]
 |---|---|
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Mill, Henry](../people/mill-h.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | index |
 | Type carrier | type rods |
 | Characters | ? |

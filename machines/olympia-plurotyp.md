@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1933 |
 | Maker | [OLYMPIA BUEROMASCHINENWERKE A](../companies/olympia.md) |
 | Designer | (Nachbau Mignon) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type cylinder |
 | Characters | 76 |

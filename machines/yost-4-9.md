@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1894 |
 | Maker | [Yost Writing Machine Comp](../companies/yost.md) |
 | Designer | [Yost](../people/yost.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 78 |

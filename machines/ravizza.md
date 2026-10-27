@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1867 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Ravizza, Guiseppe](../people/ravizza-g.md) |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 23 |

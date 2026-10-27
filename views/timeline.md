@@ -6,7 +6,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1820s
 
-1 patents (0 German), 1 read, 0 index-type.
+1 patents (1 US), 1 read, 0 index-type.
 
 **First seen:**
 
@@ -22,7 +22,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1840s
 
-2 patents (0 German), 2 read, 0 index-type.
+2 patents (2 US), 2 read, 0 index-type.
 
 **First seen:**
 
@@ -43,7 +43,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1850s
 
-11 patents (0 German), 11 read, 0 index-type.
+11 patents (11 US), 11 read, 0 index-type.
 
 **First seen:**
 
@@ -75,7 +75,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1860s
 
-12 patents (0 German), 11 read, 0 index-type.
+12 patents (12 US), 11 read, 0 index-type.
 
 **First seen:**
 
@@ -100,7 +100,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1870s
 
-76 patents (0 German), 76 read, 2 index-type.
+76 patents (76 US), 76 read, 2 index-type.
 
 **First seen:**
 
@@ -138,7 +138,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1880s
 
-449 patents (49 German), 448 read, 31 index-type.
+449 patents (400 US, 49 German), 448 read, 31 index-type.
 
 **First seen:**
 
@@ -169,7 +169,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1890s
 
-1491 patents (75 German, 1 Japanese), 1490 read, 56 index-type.
+1491 patents (1415 US, 75 German, 1 Japanese), 1490 read, 56 index-type.
 
 **First seen:**
 
@@ -191,7 +191,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1900s
 
-2435 patents (99 German, 4 Japanese), 2434 read, 26 index-type.
+2435 patents (2332 US, 99 German, 4 Japanese), 2434 read, 26 index-type.
 
 **First seen:**
 
@@ -212,7 +212,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1910s
 
-2142 patents (113 German, 20 Japanese), 2141 read, 20 index-type.
+2142 patents (2009 US, 113 German, 20 Japanese), 2141 read, 20 index-type.
 
 **Index machines:** [Darling (A)](../machines/darling-a.md) (1910, type wheel), [Darling (B)](../machines/darling-b.md) (1910, type disc), [Famos](../machines/famos.md) (1910, type wheel), [Trebla](../machines/trebla.md) (1910, type wheel), [Nouveau Siècle](../machines/nouveau-siecle.md) (1912, type disc), [Aktiv](../machines/aktiv.md) (1913, type wheel), [Mignon 3](../machines/mignon-3.md) (1913, type cylinder), [Virotyp (B)](../machines/virotyp-b.md) (1914, type disc), [Nippon](../machines/nippon.md) (1917, ), [Yu Ess](../machines/yu-ess.md) (1918, type cylinder), [Gerda 1](../machines/gerda-1.md) (1919, type wheel), [Heady](../machines/heady.md) (1919, type wheel)
 
@@ -229,7 +229,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1920s
 
-1554 patents (1498 German, 52 Japanese), 1552 read, 30 index-type.
+1554 patents (4 US, 1498 German, 52 Japanese), 1552 read, 30 index-type.
 
 **Index machines:** [Chinese (B)](../machines/chinese-b.md) (1920, individual type), [Gescha](../machines/gescha.md) (1920, type wheel), [Junior GSN](../machines/junior-gsn.md) (1920, type wheel), [Gerda 2](../machines/gerda-2.md) (1921, type wheel), [Hogar](../machines/hogar.md) (1921, type cylinder), [Die kleine Gundka](../machines/die-kleine-gundka.md) (1924, index (pointer + type wheel)), [Mignon 4](../machines/mignon-4.md) (1924, type cylinder), [Typen](../machines/typen.md) (1924, type wheel), [Karli 1 Einreihig](../machines/karli-1-einreihig.md) (1927, individual type), [Karli 2 Zweireihig](../machines/karli-2-zweireihig.md) (1928, individual type)
 
@@ -246,7 +246,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1930s
 
-1440 patents (1359 German, 77 Japanese), 1439 read, 14 index-type.
+1440 patents (4 US, 1359 German, 77 Japanese), 1439 read, 14 index-type.
 
 **Index machines:** [Ludolf](../machines/ludolf.md) (1930, type disc), [Pellaton](../machines/pellaton.md) (1932, type wheel), [Olympia Plurotyp](../machines/olympia-plurotyp.md) (1933, type cylinder), [Carissima](../machines/carissima.md) (1934, type wheel), [Dial De Luxe](../machines/dial-de-luxe.md) (1934, type wheel), [Junior Typewriter](../machines/junior-typewriter.md) (1935, type wheel), [Tip-Tip](../machines/tip-tip.md) (1936, type cylinder), [Shimada](../machines/shimada.md) (1938, ), [Shimada 2](../machines/shimada-2.md) (1938, )
 
@@ -263,7 +263,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1940s
 
-713 patents (673 German, 38 Japanese), 710 read, 5 index-type.
+713 patents (2 US, 673 German, 38 Japanese), 710 read, 5 index-type.
 
 **First seen:**
 
@@ -279,7 +279,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1950s
 
-67 patents (66 German), 66 read, 1 index-type.
+67 patents (1 US, 66 German), 66 read, 1 index-type.
 
 **Index machines:** [Chinese (C) Optima](../machines/chinese-c-optima.md) (1955, ), [Optima (Chinese)](../machines/optima-chinese.md) (1955, individual type)
 

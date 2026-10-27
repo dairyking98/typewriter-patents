@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1903 |
 | Maker | [Wyckoff](../companies/wyckoff.md) |
 | Designer | [Yost, George W. N](../people/yost-g.md), [Brooks](../people/brooks.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

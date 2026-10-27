@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Maschinenfabrik G.F. Grosser](../companies/maschinenfabrik.md) |
 | Designer | [Paciorkiewicz, W](../people/paciorkiewicz-w.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

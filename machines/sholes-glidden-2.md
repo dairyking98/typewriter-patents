@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1872 |
 | Maker | noch nicht fabrikmäßig produziert |
 | Designer | [Sholes](../people/sholes.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | early keyboard |
 | Type carrier | typebar |
 | Characters | 43 |

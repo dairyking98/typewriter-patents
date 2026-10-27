@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1902 |
 | Maker | [Sears](../companies/sears.md) |
 | Designer | [Coffman, Dr.G. W](../people/coffman-d.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type band |
 | Characters | 39 |

@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1896 |
 | Maker | nicht fabrikmäßig ' hergestellt |
 | Designer | H. Kochendörfer ' |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type plate |
 | Characters | ? |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1936 |
 | Maker | [Patria Schreibmaschinen A.G](../companies/patria.md) |
 | Designer | [Haas, Otto](../people/haas-o.md), [Wasem, Hermann](../people/wasem-h.md) |
-| Country | Switzerland |
+| Country | [Switzerland](../countries/switzerland.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

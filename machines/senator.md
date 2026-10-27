@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [Falcon-Werke AG Oberramstadt](../companies/falcon.md) |
 | Designer | [Kolbe, H](../people/kolbe-h.md), [Maurer](../people/maurer.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90‚ |

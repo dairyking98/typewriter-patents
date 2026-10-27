@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1901 |
 | Maker | [Sun Typewriter Co](../companies/sun.md) |
 | Designer | [Burridge, Lee S](../people/burridge-l.md) |
-| Country | USA + Deutschl |
+| Country | [USA](../countries/usa.md), [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 81 |

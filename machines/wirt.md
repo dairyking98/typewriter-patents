@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Wirt](../people/wirt.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type cylinder |
 | Characters | 280 |

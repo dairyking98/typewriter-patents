@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1922 |
 | Maker | [Mitex Schreibmaschinen GmbH](../companies/mitex.md) |
 | Designer | [Kraudzun, Franz](../people/kraudzun-f.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

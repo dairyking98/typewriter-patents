@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1934 |
 | Maker | [Louis Marx Co](../companies/marx.md) |
 | Designer | Firmeningenieure |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 40 |

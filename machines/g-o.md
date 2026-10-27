@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1939 |
 | Maker | [KARL GRAF](../companies/graf.md) |
 | Designer | [Kersting, Erich](../people/kersting-e.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

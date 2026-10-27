@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1908 |
 | Maker | [Pittsburg Writing Machine Co](../companies/pittsburg.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1907 |
 | Maker | [Justin Wm. Bamberger & Co](../companies/justin.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | type wheel |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

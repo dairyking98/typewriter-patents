@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1888 |
 | Maker | [Guhl & Harbeck](../companies/guhl.md) |
 | Designer | [Guhl, Heinrich August Hermann](../people/guhl-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | type plate |
 | Characters | 90 |
 | Strike | top strike |

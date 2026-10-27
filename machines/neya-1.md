@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1925 |
 | Maker | [A NEY METALLWARENFABRIK](../companies/ney.md) |
 | Designer | [Krejniker, Arpad](../people/krejniker-a.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

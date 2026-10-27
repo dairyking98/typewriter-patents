@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1936 |
 | Maker | [British Typewriters Ltd](../companies/british.md) |
 | Designer | (Hermes Baby) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1909 |
 | Maker | [Dt.-Am. Masch.- fabrik vorm. G. Krebs](../companies/dt.md) |
 | Designer | [Bamberg, J. W](../people/bamberg-j.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | single key |
 | Type carrier | type disc |
 | Characters | 90 |

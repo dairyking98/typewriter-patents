@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1886 |
 | Maker | wahrscheinlich nicht serienmäßig produziert |
 | Designer | [Fitch, Eugene](../people/fitch-e.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 78 |

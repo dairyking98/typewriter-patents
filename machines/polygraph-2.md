@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1904 |
 | Maker | [PolyphonMusikwerke](../companies/polyphonmusik.md) |
 | Designer | [Rießner, Paul](../people/rie-ner-p.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 9% |

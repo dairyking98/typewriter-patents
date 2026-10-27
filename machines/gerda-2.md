@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1921 |
 | Maker | [GEORG EMIG; WALTER OEHMKE](../companies/emig.md) |
 | Designer | [Emig, Georg](../people/emig-g.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 81 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [UnderwoodElliott-Fisher Co](../companies/underwoodelliott.md) |
 | Designer | Firmeningenieure |
-| Country | USA, Deutschld |
+| Country | [USA](../countries/usa.md), [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

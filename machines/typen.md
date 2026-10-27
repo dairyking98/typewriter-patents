@@ -24,7 +24,7 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1924 |
 | Maker | [Wetherill](../companies/wetherill.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | ca. 42 |

@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1904 |
 | Maker | ? |
 | Designer | ? |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 77 |

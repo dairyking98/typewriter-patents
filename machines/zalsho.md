@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [Lawrence Manufacturing Comp. Ltd](../companies/lawrence.md) |
 | Designer | [Sholes, Zalmon G](../people/sholes-z.md) |
-| Country | England, USA |
+| Country | [England](../countries/england.md), [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

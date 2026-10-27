@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1891 |
 | Maker | [Fitch Typewriter Comp](../companies/fitch.md) |
 | Designer | [Fitch, Eugene](../people/fitch-e.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 81 |

@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1915 |
 | Maker | [Noiseless Typewriter Comp](../companies/noiseless.md) |
 | Designer | [Kidder, W. P](../people/kidder-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 84 |
 | Strike | front strike |

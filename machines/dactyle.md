@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1900 |
 | Maker | [Blickensderfer Manufacturing Comp](../companies/blickensderfer.md) |
 | Designer | [Blickensderfer](../people/blickensderfer.md) |
-| Country | USA, France |
+| Country | [USA](../countries/usa.md), [France](../countries/france.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1903 |
 | Maker | [Elliott-Fisher Comp](../companies/elliott.md) |
 | Designer | (Weiterentw. Fisher) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 80 |

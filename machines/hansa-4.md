@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1925 |
 | Maker | [HANSA SCHREIBMASCHINENFABRIK G; LEHMANN GEB](../companies/hansa.md) |
 | Designer | [Lehmann, Curt](../people/lehmann-c.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1911 |
 | Maker | [Bar-Lock Typewriter Comp. Ltd](../companies/bar.md) |
 | Designer | [Spiro, Charles](../people/spiro-c.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 84 |

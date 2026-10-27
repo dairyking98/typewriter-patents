@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1919 |
 | Maker | [American Writing Machine Comp](../companies/american-writing.md) |
 | Designer | (Remington Junior) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1961 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | full electric |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

@@ -24,7 +24,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1899 |
 | Maker | [Keystone Typewriter Comp](../companies/keystone.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type shuttle |
 | Characters | 84 |

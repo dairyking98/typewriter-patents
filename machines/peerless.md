@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1895 |
 | Maker | [Peerless Check Protecting Comp](../companies/peerless.md) |
 | Designer | Leroy H. Smith u.a |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | typebar |
 | Characters | 76 |

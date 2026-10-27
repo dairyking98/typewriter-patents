@@ -22,7 +22,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1925 |
 | Maker | [BING WERKE VORM GEBR BING A G](../companies/bing.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 70 |

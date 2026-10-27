@@ -23,7 +23,7 @@ tags: ["machine/index"]
 |---|---|
 | Maker | [A. Schapiro](../companies/schapiro.md) |
 | Designer | [Schapiro, A](../people/schapiro-a.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 90 |

@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1902 |
 | Maker | [Eagle Typewriter Co](../companies/eagle.md) |
 | Designer | [Paulson, Charles J](../people/paulson-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

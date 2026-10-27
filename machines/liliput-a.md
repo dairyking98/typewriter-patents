@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | [Justin Wm. Bamberger & Co](../companies/justin.md) |
 | Designer | [Bamberger, J. W](../people/bamberger-j.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | single key |
 | Type carrier | type disc |
 | Characters | 86 |

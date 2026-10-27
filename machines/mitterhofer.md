@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1864 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Mitterhofer, Peter](../people/mitterhofer-p.md) |
-| Country | Austria (Tyrol) |
+| Country | [Austria](../countries/austria.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 28 |

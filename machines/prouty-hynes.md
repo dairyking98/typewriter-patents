@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1885 |
 | Maker | [Messrs Egry Ltd](../companies/messrs.md) |
 | Designer | [Prouty, E](../people/prouty-e.md), [Hynes, O](../people/hynes-o.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 44 |

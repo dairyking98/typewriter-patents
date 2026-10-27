@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1910 |
 | Maker | [Blickensderfer Manufacturing Comp](../companies/blickensderfer.md) |
 | Designer | [Blickensderfer, George C](../people/blickensderfer-g.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Type carrier | type wheel |
 | Characters | 84 |
 | Strike | top strike |

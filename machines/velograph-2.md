@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1887 |
 | Maker | [Rymtowi--Prince & Cie](../companies/rymtowi.md) |
 | Designer | [Eggis, Adolphe Prosper](../people/eggis-a.md) |
-| Country | Switzerland |
+| Country | [Switzerland](../countries/switzerland.md) |
 | Selection | index |
 | Type carrier | type disc |
 | Characters | 80 |

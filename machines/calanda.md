@@ -22,7 +22,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1942 |
 | Maker | [SA Sport A.G](../companies/sport.md) |
-| Country | Switzerland |
+| Country | [Switzerland](../countries/switzerland.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

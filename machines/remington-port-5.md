@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1929 |
 | Maker | [Remington Typewriter Comp](../companies/remington.md) |
 | Designer | (Weiterentwicklg |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1910 |
 | Maker | [Elliott-Fisher Comp](../companies/elliott.md) |
 | Designer | [Bennett, Charles A](../people/bennett-c.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

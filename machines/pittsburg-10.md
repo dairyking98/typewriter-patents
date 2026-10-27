@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1902 |
 | Maker | [Pittsburg Writing Machine Co](../companies/pittsburg.md) |
 | Designer | [Daugherthy, J. D](../people/daugherthy-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 80 |

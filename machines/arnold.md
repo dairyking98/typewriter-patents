@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1876 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Amold, Benjamin](../people/amold-b.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type segment |
 | Characters | ca. 32 |

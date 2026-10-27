@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [Bavaria Schreibm. Gebr. Siegel](../companies/bavaria.md) |
 | Designer | [Siegel, Ludwig](../people/siegel-l.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

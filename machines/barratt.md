@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1915 |
 | Maker | [Barratt Typewriter Co. Ltd](../companies/barratt.md) |
 | Designer | (Nachbau Stoewer) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

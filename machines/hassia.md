@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1907 |
 | Maker | [JEAN BERGMANN](../companies/jean.md) |
 | Designer | [Wasem, Hermann](../people/wasem-h.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1901 |
 | Maker | [Simplex Typewr. Co](../companies/simplex.md) |
 | Designer | [English, A. M](../people/english-a.md), [Becker, P](../people/becker-p.md), [Thompson](../people/thompson.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type disc |
 | Characters | 36 |

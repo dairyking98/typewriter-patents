@@ -21,7 +21,7 @@ tags: ["machine"]
 | Year | 1908 |
 | Maker | [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) |
 | Designer | [Klaczko, Max](../people/klaczko-m.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 | Characters | 84 |
 | Strike | front strike |

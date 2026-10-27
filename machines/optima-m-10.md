@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1950 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
 | Designer | (Weiterentwicklg |
-| Country | East Germany |
+| Country | [East Germany](../countries/east-germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

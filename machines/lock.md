@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | nicht in Serie gebaut |
 | Designer | [Lock](../people/lock.md), [Stegmann](../people/stegmann.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

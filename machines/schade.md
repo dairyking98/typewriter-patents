@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [R.Schade Schreibmaschinenfabrik](../companies/schade.md) |
 | Designer | [Schade, Rudolf](../people/schade-r.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | type rods |
 | Characters | 84 |

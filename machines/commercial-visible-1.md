@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1898 |
 | Maker | [Commercial Visible Typewriter Co](../companies/commercial.md) |
 | Designer | [Uhlig, Richard W](../people/uhlig-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

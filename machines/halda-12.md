@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [A.B. Halda Fabriker](../companies/halda.md) |
 | Designer | [Hammarlund, H](../people/hammarlund-h.md) |
-| Country | Sweden |
+| Country | [Sweden](../countries/sweden.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 88 |

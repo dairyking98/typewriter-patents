@@ -24,7 +24,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1906 |
 | Maker | [Cram Writing Machien Comp](../companies/cram.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type wheel |
 | Characters | 51 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1913 |
 | Maker | [Arlington (Uhlig) Typewriter Co](../companies/arlington.md) |
 | Designer | [Uhlig, Richard W](../people/uhlig-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 87 |

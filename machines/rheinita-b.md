@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1935 |
 | Maker | [Rhein. Metallwarenu.Maschinenfabrik](../companies/rhein.md) |
 | Designer | (Weiterentwicklg |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 92 |

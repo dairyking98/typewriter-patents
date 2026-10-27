@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1980 |
 | Maker | [Ibm Deutschland](../companies/ibm.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | type wheel |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

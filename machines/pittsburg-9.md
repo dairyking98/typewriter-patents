@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1897 |
 | Maker | [Pittsburg Writing Machine Co](../companies/pittsburg.md) |
 | Designer | [Daugherty, James Denny](../people/daugherty-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 80 |

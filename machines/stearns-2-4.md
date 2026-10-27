@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1900 |
 | Maker | [E.C .Steams & Co](../companies/steams.md) |
 | Designer | [Schneeloch, John E. Thomas u. A](../people/schneeloch-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

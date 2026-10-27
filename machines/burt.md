@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1829 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Burt, Wiliam A](../people/burt-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | index |
 | Type carrier | type segment |
 | Characters | ? |

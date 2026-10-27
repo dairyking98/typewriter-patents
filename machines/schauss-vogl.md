@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1934 |
 | Maker | [Schauss & Vogl K.G](../companies/schauss.md) |
 | Designer | [Schauss, Adolf](../people/schauss-a.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

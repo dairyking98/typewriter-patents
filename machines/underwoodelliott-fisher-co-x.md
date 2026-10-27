@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Maker | [UnderwoodElliott-Fisher Co](../companies/underwoodelliott.md) |
 | Designer | (Remington) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

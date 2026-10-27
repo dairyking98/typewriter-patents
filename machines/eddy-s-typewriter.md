@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1850 |
 | Maker | nicht serienmäßig hergestellt |
 | Designer | [Eddy, Oliver T](../people/eddy-o.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type bar (straight) |
 | Characters | 78 |

@@ -24,7 +24,7 @@ tags: ["machine/index"]
 |---|---|
 | Year | 1908 |
 | Maker | [Torrani & Cie. Vertrieb Füllfeder-Industrie in Deutschl.: Albert Fink](../companies/torrani.md) |
-| Country | Italy |
+| Country | [Italy](../countries/italy.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 42 |

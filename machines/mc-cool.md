@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1903 |
 | Maker | [Acme-Keystone Manufacturing Comp](../companies/acme.md) |
 | Designer | [Cool, Wm. Mc](../people/cool-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

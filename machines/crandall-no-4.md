@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1881 |
 | Maker | [Crandall Type-Writer Comp](../companies/crandall.md) |
 | Designer | [Crandall](../people/crandall.md), [Bamey](../people/bamey.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type cylinder |
 | Characters | 84 |

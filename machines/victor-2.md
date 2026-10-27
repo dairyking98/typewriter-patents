@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1910 |
 | Maker | [Victor Typewr.Co](../companies/victor-typewr.md) |
 | Designer | [Campbell, J. A. Hagerström u. G. W](../people/campbell-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

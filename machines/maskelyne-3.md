@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1897 |
 | Maker | [Maskeiyne Typewriter Mfg. Co](../companies/maskeiyne.md) |
 | Designer | [Maskelyne, John Nevil, Jr](../people/maskelyne-j.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 96 |

@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1896 |
 | Maker | [Lambert Typewriter Co. u.a](../companies/lambert.md) |
 | Designer | [Lambert, Frank](../people/lambert-f.md) |
-| Country | USA, France, England, Germany |
+| Country | [USA](../countries/usa.md), [France](../countries/france.md), [England](../countries/england.md), [Germany](../countries/germany.md) |
 | Type carrier | type plate |
 | Characters | 84 |
 | Strike | top strike |

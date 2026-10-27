@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [D. Anavi](../companies/anavi.md) |
 | Designer | [Anavi, Rissim](../people/anavi-r.md) |
-| Country | Austria |
+| Country | [Austria](../countries/austria.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

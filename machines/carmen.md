@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1921 |
 | Maker | [CARMEN WERK A G](../companies/carmen.md) |
 | Designer | [Pistorius, Carl](../people/pistorius-c.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

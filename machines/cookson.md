@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1885 |
 | Maker | wahrscheinlich nicht fabriziert |
 | Designer | [Cookson, Frederick Nesfield](../people/cookson-f.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | index |
 | Type carrier | type ring |
 | Characters | 48 |

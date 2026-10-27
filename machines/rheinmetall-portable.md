@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1935 |
 | Maker | [Rhein. Metallwarenu.Maschinenfabrik](../companies/rhein.md) |
 | Designer | [Kuphal, J](../people/kuphal-j.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 | Characters | 88 |
 | Strike | front strike |

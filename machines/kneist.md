@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1893 |
 | Maker | [Wunder & Kneist Hannover](../companies/wunder.md) |
 | Designer | [Mayer](../people/mayer.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | single key |
 | Type carrier | type plate |
 | Characters | 81 |

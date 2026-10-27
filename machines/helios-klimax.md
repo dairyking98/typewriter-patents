@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | Schreibmaschinenfabrik A. Ney |
 | Designer | [Bamberger, J. W](../people/bamberger-j.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

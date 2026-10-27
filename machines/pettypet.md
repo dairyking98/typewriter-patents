@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1930 |
 | Maker | [E D A M S A FA](../companies/fa.md) |
 | Designer | [Podleci](../people/podleci.md), [Unger](../people/unger.md), [Winterling, Carl](../people/winterling-c.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index; QWERTY-type keyboard |
 | Type carrier | type wheel |
 | Characters | 84 |

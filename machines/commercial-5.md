@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1914 |
 | Maker | [CommereialSchreibm.-Fabrik K.F. Kührt](../companies/commereialschreibm.md) |
 | Designer | [Kührt, Karl F](../people/kuhrt-k.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

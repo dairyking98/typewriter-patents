@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1890 |
 | Maker | [English Typewriter Co. Ltd](../companies/english.md) |
 | Designer | [Heam, M](../people/heam-m.md), [Donne](../people/donne.md) |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 87 |

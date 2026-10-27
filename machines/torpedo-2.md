@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1906 |
 | Maker | [PETER WILHELM BRANDENBURG](../companies/peter.md) |
 | Designer | (aus Hassia entw.) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

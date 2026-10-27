@@ -24,7 +24,7 @@ tags: ["machine"]
 | Year | 1895 |
 | Maker | [C. F. Kindermann & Co](../companies/kindermann.md) |
 | Designer | [Kindermann, C. F](../people/kindermann-c.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | single key |
 | Type carrier | type plate |
 | Characters | 72 |

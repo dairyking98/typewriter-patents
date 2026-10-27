@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1920 |
 | Maker | [WANDERER WERKE VORM WINKLHOFER](../companies/wanderer.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

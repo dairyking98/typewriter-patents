@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1893 |
 | Maker | [Crandali Machine Co](../companies/crandali.md) |
 | Designer | [Crandall, Lucien S](../people/crandall-l.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | type cylinder |
 | Characters | 84 |

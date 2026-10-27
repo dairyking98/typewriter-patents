@@ -21,7 +21,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1910 |
 | Designer | Lee S. Burridge Hersteller. Sun Type- writer Co. |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

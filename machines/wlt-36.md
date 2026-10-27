@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1936 |
 | Maker | [TRIUMPH WERKE NUERNBERG AG](../companies/triumph.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | telegraph |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

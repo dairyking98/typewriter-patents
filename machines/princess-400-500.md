@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1967 |
 | Maker | [GEORG KELLER](../companies/keller.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1900 |
 | Maker | [Century Machine Comp](../companies/century.md) |
 | Designer | Firmeningenieure |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | Ideal (DHIATENSOR) keyboard |
 | Type carrier | typebar |
 | Characters | 81 |

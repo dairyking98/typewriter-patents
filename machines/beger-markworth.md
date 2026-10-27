@@ -25,7 +25,7 @@ tags: ["machine/index"]
 | Year | 1897 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Beger](../people/beger.md), [Markworth](../people/markworth.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | index |
 | Type carrier | type wheel |
 | Characters | 76 |

@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1901 |
 | Maker | nicht fabrikmäßig hergestellt |
 | Designer | [Faber, Pastor](../people/faber-p.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | full keyboard (one key per character) |
 | Type carrier | push-rod typebars |
 | Characters | 80 |

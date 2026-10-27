@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1932 |
 | Maker | [PAILLARD & CIE SA E](../companies/paillard.md) |
 | Designer | [Prezioso, H](../people/prezioso-h.md) |
-| Country | Switzerland |
+| Country | [Switzerland](../countries/switzerland.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 86 |

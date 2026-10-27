@@ -23,7 +23,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1920 |
 | Maker | Georg A. Berbig |
-| Country | Deutschl, USA |
+| Country | [Germany](../countries/germany.md), [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type rail |
 | Characters | 98 |

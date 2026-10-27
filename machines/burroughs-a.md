@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1915 |
 | Maker | [BURROUGHS ADDING MACHINE CO](../companies/burroughs.md) |
 | Designer | [Bower, Raymond G](../people/bower-r.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 78 |
 | Strike | understrike (blind) |

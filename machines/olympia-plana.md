@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1939 |
 | Maker | [OLYMPIA BUEROMASCHINENWERKE A](../companies/olympia.md) |
 | Designer | [Krüger, Johannes](../people/kruger-j.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1918 |
 | Maker | [Fox Machine Comp](../companies/fox.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 |

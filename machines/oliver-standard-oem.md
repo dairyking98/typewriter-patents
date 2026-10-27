@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1958 |
 | Maker | [SCHREIBMASCHINENFABRIK AUGSBUR](../companies/schreibmaschinenfabrik.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | same |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

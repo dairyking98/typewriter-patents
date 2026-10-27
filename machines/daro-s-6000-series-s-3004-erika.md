@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1970 |
 | Maker | [VEB Optima Büromasch.werk](../companies/optima.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | electromechanical, electronic |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

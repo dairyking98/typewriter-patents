@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1927 |
 | Maker | [Imperial Typewriter Co. Ltd](../companies/imperial.md) |
 | Designer | Firmeningenieure |
-| Country | England |
+| Country | [England](../countries/england.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 90 |

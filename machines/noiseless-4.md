@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1917 |
 | Maker | [Noiseless Typewriter Comp](../companies/noiseless.md) |
 | Designer | (Weiterentwicklg.) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 84 |
 | Strike | front strike |

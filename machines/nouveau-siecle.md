@@ -24,7 +24,7 @@ tags: ["machine/index"]
 | Year | 1912 |
 | Maker | [Meyer to Nuese](../companies/meyer.md) |
 | Designer | [Meyer, G](../people/meyer-g.md) |
-| Country | France |
+| Country | [France](../countries/france.md) |
 | Selection | index |
 | Type carrier | type disc |
 | Characters | 87 |

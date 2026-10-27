@@ -25,7 +25,7 @@ tags: ["machine"]
 | Year | 1888 |
 | Maker | [Boston Type Writer Company](../companies/boston.md) |
 | Designer | [Kempster, Daniel E](../people/kempster-d.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | single key |
 | Type carrier | type wheel |
 | Characters | 84 |

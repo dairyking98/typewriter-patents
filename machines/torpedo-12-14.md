@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1924 |
 | Maker | [WEILWERKE A G](../companies/weil.md) |
 | Designer | Firmeningenieure |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Selection | QWERTY-type keyboard |
 | Characters | 88 |
 | Strike | front strike |

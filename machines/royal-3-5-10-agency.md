@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1910 |
 | Maker | [A.G. vorm. Frister & Rossmann](../companies/frister.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar, front strike |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

@@ -19,7 +19,7 @@ tags: ["machine"]
 |---|---|
 | Year | 1902 |
 | Maker | [AEG (Allgemeine Elektricitäts-Gesellschaft) and its typewriter companies](../companies/aeg.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | type cylinder, electric |
 
 ## Notes from Dingwerth's *Geschichte der deutschen Schreibmaschinen-Fabriken*

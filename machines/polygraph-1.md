@@ -22,7 +22,7 @@ tags: ["machine"]
 | Year | 1903 |
 | Maker | [PolyphonMusikwerke](../companies/polyphonmusik.md) |
 | Designer | [Rießner, Paul](../people/rie-ner-p.md) |
-| Country | Germany |
+| Country | [Germany](../countries/germany.md) |
 | Type carrier | typebar |
 | Characters | 102 |
 | Strike | top strike |

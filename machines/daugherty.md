@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1892 |
 | Maker | [Daugherty Typewriting Comp](../companies/daugherty.md) |
 | Designer | [Daugherty, James Denny](../people/daugherty-j.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 80 |

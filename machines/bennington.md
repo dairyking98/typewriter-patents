@@ -23,7 +23,7 @@ tags: ["machine"]
 | Year | 1903 |
 | Maker | [Bennington Typewriter Co](../companies/bennington.md) |
 | Designer | [Bennington, W. H](../people/bennington-w.md) |
-| Country | USA |
+| Country | [USA](../countries/usa.md) |
 | Selection | QWERTY-type keyboard |
 | Type carrier | typebar |
 | Characters | 84 + 26 Wörter |
