@@ -33,7 +33,7 @@ tags: ["machine"]
 | Price when new | 450 marks |
 | Rarity (Lexikon's scale) | 3-4 |
 
-## Patents (14)
+## Patents (15)
 
 | Patent | Year | Inventor | Title | Confidence | Evidence |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@ tags: ["machine"]
 | [US783432](../patents/US783432.md) | 1905 | Hammond, James B. | Carriage Mechanism forType-Writers | low | inventor = designer; patent 1905, machine 1905; carrier differs (wheel vs plate) |
 | [US800149](../patents/US800149.md) | 1905 | Hammond, James B. | Type-Writer for the Blind | low | inventor = designer; patent 1905, machine 1905 |
 | [US800150](../patents/US800150.md) | 1905 | Hammond, James B. | Type-Writing Machine for the Blind | low | inventor = designer; patent 1905, machine 1905 |
+| [JP8673](../patents/JP8673.md) | 1905 | Hammond, James B. | Writing machine | low | inventor = designer; patent 1905, machine 1905 |
 | [US825966](../patents/US825966.md) | 1906 | Hammond, James B. | Printing Mechanism for Type-Writers | low | inventor = designer; patent 1906, machine 1905; carrier differs (wheel vs plate) |
 | [US825967](../patents/US825967.md) | 1906 | Hammond, James B. | Type-Writer Shuttle and Driving Mechanism Therefor | low | inventor = designer; patent 1906, machine 1905; carrier differs (wheel vs plate) |
 | [US825968](../patents/US825968.md) | 1906 | Hammond, James Bartlett | Type-Writer Shuttle and Driving Mechanism | low | inventor = designer; patent 1906, machine 1905; carrier differs (wheel vs plate) |

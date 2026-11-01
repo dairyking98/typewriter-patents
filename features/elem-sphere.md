@@ -4,12 +4,13 @@
 
 Types on a sphere or hemisphere
 
-**15 patents**, 1872–1913. Often together with:
+**17 patents**, 1872–1943. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (6), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (5)
-- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (10), [Element struck to the platen](../features/imp-element-to-platen.md) (7)
-- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (7), [Space key or bar](../features/esc-space-key.md) (5)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (6), [Flat bed or book typewriter](../features/pap-flat-bed.md) (6)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (7), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (6)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (11), [Element struck to the platen](../features/imp-element-to-platen.md) (9)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (6)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (8)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (8), [Flat bed or book typewriter](../features/pap-flat-bed.md) (6)
 
 ## Patents, oldest first
 
@@ -30,3 +31,5 @@ Types on a sphere or hemisphere
 | [US1005158](../patents/US1005158.md) | 1911 | Clevenger, Shobal V. | A spherical-shell universal type carrier is tilted by the depressed key plunger to bring that character under the printing opening, then pressed down onto the paper. |
 | [DE266582](../patents/DE266582.md) | 1913 | Loy, Alois Van | The stylus sits on the end of a one-armed vertical-plane lever that carries the spherical type carrier at an intermediate point, so the hand force at the free end is only a fraction of the force needed at the type. |
 | [US1079812](../patents/US1079812.md) | 1913 | van Loy, Alois | A spherical segmental type carrier hangs from a long single-armed printing lever, with the pointing key at the lever end, so a light press prints and the pointer key and carrier move together by a jointed parallelogram. |
+| [JP73268](../patents/JP73268.md) | 1927 | Nishimatsu, Kikujirō | Telescoping stroke multipliers (nested sliding bars joined by chains, each doubling the travel of the previous) are arranged radially so that type boxes at their tips form a spherical type block, one key per type. |
+| [JP157458](../patents/JP157458.md) | 1943 | Hasegawa, Kichisaburō | Replace the cylinder with a ball that turns freely in two directions, with types on its lower half and index hollows on its upper half, so no sliding part is needed. |

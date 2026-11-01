@@ -8,22 +8,22 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [Pawl-and-rack escapement](../features/esc-pawl-rack.md) | Escapement by pawl or dogs on a rack | 1518 | 66 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁ ▁▁▃█▅▄▂▂▁▁` | [Nippon](../machines/nippon.md), [American Index](../machines/american-index.md) |
-| [Mainspring-drawn carriage](../features/esc-spring-drum.md) | Carriage pulled by a mainspring or drum | 813 | 11 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▂█▆▅▂▂▁ ` | [Nippon](../machines/nippon.md) |
-| [Tabulator](../features/esc-tabulator.md) | Tabulator | 631 | 6 | 1890 [US436916](../patents/US436916.md) | 1910s | `       ▁▇█▂▃▁ ` |  |
-| [Space key or bar](../features/esc-space-key.md) | Separate space key or bar | 576 | 30 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▃█▄▃▁▁▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [Margin stops](../features/esc-margin-stop.md) | Margin stops or line lock | 573 | 14 | 1867 [US65807](../patents/US65807.md) | 1910s | `    ▁▁▁▆██▃▂▁▁` |  |
-| [Prints and spaces in one stroke](../features/esc-print-and-space.md) | The single print action also spaces the carriage | 571 | 62 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁ ▁▁▁▁▅█▄▂▂▂▁ ` | [Nippon](../machines/nippon.md), [American Index](../machines/american-index.md) |
-| [Carriage release](../features/esc-carriage-release.md) | Carriage release | 548 | 19 | 1875 [US170233](../patents/US170233.md) | 1900s | `     ▁▂▇█▅▁▂▁ ` | [American Index](../machines/american-index.md) |
-| [Carriage return](../features/esc-carriage-return.md) | Carriage return lever or mechanism (often with line space) | 494 | 9 | 1852 [US8980](../patents/US8980.md) | 1900s | `   ▁▁▁▃██▇▄▄▂▁` |  |
-| [Escape-wheel escapement](../features/esc-escape-wheel.md) | Escape wheel or star wheel escapement with fixed and loose dogs | 487 | 2 | 1868 [US79868](../patents/US79868.md) | 1900s | `    ▁▁▂▄██▂▂▁▁` |  |
-| [Proportional spacing](../features/esc-variable-spacing.md) | Proportional or variable letter spacing | 359 | 8 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▃▃▂▁ ` |  |
-| [Line-end bell](../features/esc-bell.md) | Bell near the line end | 261 | 15 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▂█▃▃▁▁  ` |  |
-| [Moving print head](../features/esc-moving-print-head.md) | The print head moves along a fixed paper carriage | 167 | 22 | 1872 [US133841](../patents/US133841.md) | 1890s | `     ▁▃█▄▂▁▁▂▁` |  |
-| [Backspace](../features/esc-backspace.md) | Backspace | 120 | 1 | 1884 [US309272](../patents/US309272.md) | 1900s | `      ▁▂█▇▂▃▃ ` |  |
+| [Pawl-and-rack escapement](../features/esc-pawl-rack.md) | Escapement by pawl or dogs on a rack | 1556 | 69 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁ ▁▁▃█▆▄▂▂▁▁` | [Nippon](../machines/nippon.md), [American Index](../machines/american-index.md) |
+| [Mainspring-drawn carriage](../features/esc-spring-drum.md) | Carriage pulled by a mainspring or drum | 837 | 12 | 1856 [US15164](../patents/US15164.md) | 1890s | `   ▁▁▁▂█▆▆▂▂▁ ` | [Nippon](../machines/nippon.md) |
+| [Tabulator](../features/esc-tabulator.md) | Tabulator | 638 | 7 | 1890 [US436916](../patents/US436916.md) | 1910s | `       ▁▇█▂▃▁ ` |  |
+| [Prints and spaces in one stroke](../features/esc-print-and-space.md) | The single print action also spaces the carriage | 598 | 65 | 1829 [USX5581](../patents/USX5581.md) | 1890s | `▁ ▁▁▁▁▅█▄▂▂▂▁ ` | [Nippon](../machines/nippon.md), [American Index](../machines/american-index.md) |
+| [Space key or bar](../features/esc-space-key.md) | Separate space key or bar | 591 | 32 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▃█▅▃▁▁▁▁` | [American Index](../machines/american-index.md), [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Margin stops](../features/esc-margin-stop.md) | Margin stops or line lock | 584 | 15 | 1867 [US65807](../patents/US65807.md) | 1910s | `    ▁▁▁▆██▃▂▁▁` |  |
+| [Carriage release](../features/esc-carriage-release.md) | Carriage release | 554 | 20 | 1875 [US170233](../patents/US170233.md) | 1900s | `     ▁▂▇█▅▁▂▁ ` | [American Index](../machines/american-index.md) |
+| [Carriage return](../features/esc-carriage-return.md) | Carriage return lever or mechanism (often with line space) | 502 | 10 | 1852 [US8980](../patents/US8980.md) | 1900s | `   ▁▁▁▃▇█▇▄▄▂▁` |  |
+| [Escape-wheel escapement](../features/esc-escape-wheel.md) | Escape wheel or star wheel escapement with fixed and loose dogs | 493 | 2 | 1868 [US79868](../patents/US79868.md) | 1900s | `    ▁▁▂▄██▂▂▁▁` |  |
+| [Proportional spacing](../features/esc-variable-spacing.md) | Proportional or variable letter spacing | 365 | 8 | 1843 [US3228](../patents/US3228.md) | 1890s | `  ▁▁▁▁▄█▅▃▃▂▂ ` |  |
+| [Line-end bell](../features/esc-bell.md) | Bell near the line end | 271 | 17 | 1852 [US8980](../patents/US8980.md) | 1890s | `   ▁ ▁▂█▃▃▁▁  ` |  |
+| [Moving print head](../features/esc-moving-print-head.md) | The print head moves along a fixed paper carriage | 176 | 22 | 1872 [US133841](../patents/US133841.md) | 1890s | `     ▁▃█▄▂▁▂▂▁` |  |
+| [Backspace](../features/esc-backspace.md) | Backspace | 126 | 2 | 1884 [US309272](../patents/US309272.md) | 1900s | `      ▁▂█▇▂▃▃ ` |  |
 | [Platen sideways feed](../features/esc-platen-sideways-feed.md) | The platen (not a carriage) is slid sideways along its axis, driven by a rack and pinion, to space the line | 3 | 0 | 1943 [JP163319](../patents/JP163319.md) | 1940s | `            █ ` |  |
 
-## Index-type patents, oldest first (103)
+## Index-type patents, oldest first (106)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -121,12 +121,15 @@
 | 1918 | [JP34070](../patents/JP34070.md) | Sugimoto, Kyōta | linked | A flat plate engraved with all characters, with a matching index plate fixed on top, lies over the ribbon and paper, and a guide on a key is joined directly to a hammer… | Pawl-and-rack escapement, Mainspring-drawn carriage, Prints and spaces in one stroke |
 | 1919 | [JP37882](../patents/JP37882.md) | Sugimoto, Kyōta | linked | Move a type plate under a fixed index board with one handle; a conical point seating in a perforated plate corrects the position, and pressing the same handle strikes… | Prints and spaces in one stroke, Pawl-and-rack escapement, Mainspring-drawn carriage |
 | 1920 | [DE327166](../patents/DE327166.md) | Langguth, Robert | index | Each plate field serves two types (for example capital and lower-case letter), and a thumb button on the pointer handle shortens or lengthens the setting slide so the… | Pawl-and-rack escapement, Space key or bar |
+| 1921 | [JP43667](../patents/JP43667.md) | Matsumoto, Eiichi | index | Put the frequent characters on typebars with four-level carriage shift, and keep the rare characters as loose types in a rotating and sliding cylindrical store, chosen… | Pawl-and-rack escapement, Prints and spaces in one stroke, Space key or bar, Backspace, Tabulator, Margin stops, Line-end bell, Carriage release, Carriage return, Mainspring-drawn carriage |
 | 1923 | [DE366618](../patents/DE366618.md) | Navarre, Gaston | index | A carriage-mounted ratchet wheel with a presettable pointer counts line feeds and rings a bell at the chosen line. | Line-end bell |
 | 1923 | [DE377030](../patents/DE377030.md) |  | index | Several writing keys per letter field, where the extra keys also move the type cylinder (rotationally or lengthwise) through a gear, so case is chosen by which key is… | Space key or bar |
 | 1924 | [DE393929](../patents/DE393929.md) | Emig, Georg | index | Put the pointer and character plate in the machine's symmetry plane directly above the type wheel axis, and have the pointer drive the wheel through a toothed segment… | Space key or bar |
 | 1924 | [DE393934](../patents/DE393934.md) |  | index | A pair of spring-loaded pinch rollers on pawls couples roller and ratchet wheel steplessly, and a single lever, swung by a twist of the central knob rod, retracts all… | Carriage release |
 | 1925 | [JP65172](../patents/JP65172.md) | Kiritō, Shinzaburō | index | A drum carries several thousand short spring-retracted types in its rim, with a matching dial and comb pointer so the operator finds a character's column number, and… | Prints and spaces in one stroke, Space key or bar |
 | 1926 | [DE426869](../patents/DE426869.md) | Fa, A E G Deutsche Werke A G | index | A backspace key lever depresses the writing-key switch frame to disengage the forward pawl and, through a parallelogram linkage, engages a reset pawl that pulls the… | Backspace, Pawl-and-rack escapement, Prints and spaces in one stroke |
+| 1927 | [JP75116](../patents/JP75116.md) | Inoue, Jin | index | A single type key swung over an arc-shaped chart turns a double-row type wheel through a sector gear, and the button on it presses the platen against the wheel; ink… | Pawl-and-rack escapement, Prints and spaces in one stroke, Space key or bar, Line-end bell |
+| 1931 | [JP96395](../patents/JP96395.md) | Kawahara | index | Rubber endless type belts, one per row, are shifted by a single key lever that also slides on an operating box to choose the row; pressing the lever strikes the chosen… | Pawl-and-rack escapement, Prints and spaces in one stroke |
 | 1932 | [DE545922](../patents/DE545922.md) | Sa, Stenotype Grandjean | index | A one-piece pawl with a switching tooth and a trailing safety tooth, plus an adjustable stop on the holder, moves the ratchet exactly one tooth per stroke. | Pawl-and-rack escapement |
 | 1935 | [JP111430](../patents/JP111430.md) | Miki, Chinji | index | Link the index pointer to the type drum with paired four-bar linkages, and hold the paper in a curved, two-part meshed frame that swings between the index plate and the… | Moving print head |
 | 1943 | [JP159441](../patents/JP159441.md) | Kawahara, Kenji | index | Label each type with its half-width in platen-feed units and turn a feed dial by the sum of the previous and next type's half-widths before each strike. | Proportional spacing |

@@ -4,14 +4,14 @@
 
 Ribbon lift or vibrator to the print point
 
-**452 patents**, 1880–1950. Often together with:
+**460 patents**, 1880–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (208)
-- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (139)
-- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (306), [Two-colour ribbon](../features/ink-ribbon-color.md) (170), [Ribbon feed](../features/ink-ribbon-feed.md) (140)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (76)
-- **Frame and body:** [Visible writing](../features/frm-writing-visible.md) (123)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (87)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (216)
+- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (145)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (313), [Two-colour ribbon](../features/ink-ribbon-color.md) (173), [Ribbon feed](../features/ink-ribbon-feed.md) (147)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (84)
+- **Frame and body:** [Visible writing](../features/frm-writing-visible.md) (128)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (6), [Alexander (2)](../machines/alexander-2.md) (6), [Alexander (3)](../machines/alexander-3.md) (5), [Monarch Pioneer](../machines/monarch-pioneer.md) (4), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Corona 3](../machines/corona-3.md) (4), [Cash](../machines/cash.md) (2), [Daugherty](../machines/daugherty.md) (2), [Pittsburg 9](../machines/pittsburg-9.md) (2), [Fisher 2](../machines/fisher-2.md) (2), [American Armstrong 7](../machines/american-armstrong-7.md) (2), [Nova](../machines/nova.md) (2), [Star](../machines/star.md) (2), [Sun 2, 4](../machines/sun-2-4.md) (2)
 
@@ -104,6 +104,7 @@ Ribbon lift or vibrator to the print point
 | [US720992](../patents/US720992.md) | 1903 | Alexander, Jesse | Ribbon spools with ratchet wheels driven by gravity dogs from a rock shaft, shifted by a sliding bar to reverse the feed. |
 | [DE150531](../patents/DE150531.md) | 1903 |  | A resilient articulated connection so that the accent dead-key always moves the ribbon fork in the same way regardless of carriage height. |
 | [US730456](../patents/US730456.md) | 1903 | Helmont - Kavle, William F. - Oscar C. | A crank on a rock-shaft driven by the silent key lifts the ribbon guide through a carrier, with a vertical guideway so it works in either shift position. |
+| [JP7850](../patents/JP7850.md) | 1903 | Donning, George Washington | A flat tilting platen with a self-levelling sliding book rest, a gantry carriage running on a tiltable track, and typebars whose heads carry three types and are rocked to the case by a half-ring behind the bars. |
 | [DE171047](../patents/DE171047.md) | 1903 |  | Two guide jaws on either side of the stop point are carried by two pairs of rods, so they resist twisting and can be lowered to expose the writing point and ribbon. |
 | [US752210](../patents/US752210.md) | 1904 | Diss, Louis P. | A ribbon vibrator with conoidal bearing cones and oblique guide fingers that equalise the slack from edge to edge, mounted on a support linked to the platen shift so the ribbon rises with the case shift. |
 | [US753651](../patents/US753651.md) | 1904 | Alexander, Jesse | Mount each typebar between two adjustable ball bearings, and carry the print-point guide and ribbon guides on a block that swings in only at the instant of impression, driven by the universal bar. |
@@ -132,6 +133,7 @@ Ribbon lift or vibrator to the print point
 | [US835509](../patents/US835509.md) | 1906 | Felbel, Jacob | The ribbon vibrator lever is shifted between two stop devices to change ribbon field or color and arrest the throw at a predetermined position. |
 | [US835722](../patents/US835722.md) | 1906 | Anderson, Neal L. | A threader with prongs and an intervening back holds the ribbon in shape; placed on the vibrator, the ribbon slides into the openings and the threader is withdrawn. |
 | [US837032](../patents/US837032.md) | 1906 | Brown, Alexander T. | The escapement is connected to the keys so it starts after a variable part of the key stroke, while the ribbon vibrator still completes its movement and a line-lock holds the key. |
+| [JP12644](../patents/JP12644.md) | 1906 | Holford, John Carbery | A typebar writing machine with a platen-shift upper case, a ribbon lift tied to the type bar and platen rail, a spring-drum carriage on a double-dog escapement, and removable platen, ribbon spools and key-lever units. |
 | [US839408](../patents/US839408.md) | 1906 | McLaughlin, John C. | An adjustable actuator on the universal-bar frame, set by a side rock-shaft, selects upper or lower ribbon edge. |
 | [US839409](../patents/US839409.md) | 1906 | McLaughlin, John C. | Stepped piece between universal bar and ribbon-vibrating lever, selected by finger-piece, gives two lifts or none. |
 | [US841352](../patents/US841352.md) | 1907 | Swenson, Gustaf | Two axially sliding wrists coupled to move oppositely so one engages the ribbon-vibrating lever's slotted actuator while the other is silenced. |
@@ -235,9 +237,11 @@ Ribbon lift or vibrator to the print point
 | [US935280](../patents/US935280.md) | 1909 | Spiro, Charles | A universal bail movable on the rock shaft arms toward or from the pivot, varying the vibrator throw, with a connect and disconnect bar. |
 | [US936044](../patents/US936044.md) | 1909 | Schaaff, John T. | A ribbon vibrator mechanism with field selection, automatic compensation for platen shift, a disconnect for stencils and a cross feed of the ribbon. |
 | [US936834](../patents/US936834.md) | 1909 | Uhlig, Richard W. | Drive the ribbon spools straight through a sliding bevel-pinion feed shaft ratcheted by the universal bar's link bar, with the same link bar cam-lifting a hinged ribbon holder and a shift lever to hold it up for the second colour. |
+| [JP21617](../patents/JP21617.md) | 1909 | Hazen, Marshman Williams | A typebar machine with three-character type heads (lower, capital, figure) in which the whole carriage bed, platen, escapement and ribbon mechanism are lifted by shift levers to three heights and fold back over the keys for transport. |
 | [US937413](../patents/US937413.md) | 1909 | Brown, Alexander T. | A ribbon vibrator thrown at each operation to one of several elevations. |
 | [US938119](../patents/US938119.md) | 1909 | Brown, Alexander T. | A single ribbon key that always returns to the same position toggles a pivoted shifting member alternately in opposite directions on successive presses, changing the ribbon vibrator's throw to select the black field, the red field, or (via a finger piece) no ribbon for stencil work. |
 | [US938178](../patents/US938178.md) | 1909 | Steiger, Andrew W. | A ribbon carrier mounted on a guide that shifts with the platen, driven by an operating lever on two fulcrums, one fixed and one movable. |
+| [JP21618](../patents/JP21618.md) | 1909 | Petermann, Otto | A typebar machine whose platen, carriage, escapement and ribbon mechanism lift together on a slide to several locked heights (each type head carries figure, capital and small letter) and fold over the key levers for transport. |
 | [US938562](../patents/US938562.md) | 1909 | Felbel, Jacob | A ribbon mechanism with a ribbon vibrator carried in an upright portion of the frame, moving the ribbon to the print point, with spool and ribbon arrangement under the top plate. |
 | [US942137](../patents/US942137.md) | 1909 | Felbel, Jacob | A ribbon normally removed from the print point, with several fields, that the printing keys move so the chosen field covers the print point, applied to a Monarch machine and adaptable to others. |
 | [US942776](../patents/US942776.md) | 1909 | Crutchley, Harry | A rocker arm driving the ribbon lever can be uncoupled from the constantly vibrating arm by sliding a wrist out of its slot with a finger-piece marked S and R. |
@@ -351,6 +355,7 @@ Ribbon lift or vibrator to the print point
 | [US1072899](../patents/US1072899.md) | 1913 | Barr, John H. | A bell crank and slotted lever pair give a selectable ribbon vibrator throw that works in either platen position and has a stencil position. |
 | [US1077238](../patents/US1077238.md) | 1913 | Alexander, Jesse | Everything runs from the universal bar: spring pawls turn the ribbon spools, a lever lifts the guide, and the lift pivot rides on the platen shift bar so the lift grows when shifted. |
 | [US1077675](../patents/US1077675.md) | 1913 | Crawley, Mansfield C. | Keys only select a typebar by raising a coupler, and a single electromagnet with a push bar then drives the selected typebar to print. |
+| [JP33896](../patents/JP33896.md) | 1913 | Underwood Typewriter Company | Fit an Underwood typebar machine with sideways Korean types that do not trigger the escapement, plus separate space keys that step the carriage after each syllable group, with Roman letters on the shifted position. |
 | [JP26699](../patents/JP26699.md) | 1914 | Shinozawa, Yūsaku | A row of independently turnable type wheels on one shaft, each turned by a toothed-rim key disc set eccentric to it, with a spring-driven paper table that runs to the turned wheel and stays there after printing, spacing by a row of spacer pieces. |
 | [US1087990](../patents/US1087990.md) | 1914 | Smith, George H. | Drop the automatic cross-feed and give the operator a hand-set control that places the ribbon carrier in one of several fixed positions so different widthwise strips of the ribbon are used. |
 | [US1091179](../patents/US1091179.md) | 1914 | Alexander, Jesse | Feed the ribbon spools from the carriage tension drum, with a clutched shaft pair and cam slide to reverse the direction, while the universal bar only lifts the ribbon guide. |
@@ -391,6 +396,7 @@ Ribbon lift or vibrator to the print point
 | [US1165941](../patents/US1165941.md) | 1915 | Buschmann, Theodor Eugen | One driving member lifts the ribbon guide from the universal bar for normal keys or via a transmission from dead keys for accents. |
 | [US1165942](../patents/US1165942.md) | 1915 | Buschmann, Theodor Eugen | An extra ribbon lift triggered only for type levers with high signs, also usable to select the second colour of a bichrome ribbon. |
 | [US1166111](../patents/US1166111.md) | 1915 | Chapin, John J. | Beveled gears on a sliding shaft are alternately engaged so the ribbon feed stops during a tabulating advance of the carriage, and a simplified ribbon vibrator is driven from the spring drum through this gearing. |
+| [JP31868](../patents/JP31868.md) | 1916 | Roebuck, Alvah Curtis | Build the machine as two sub-assemblies, a base carrying the actuating parts and a top plate carrying the working parts, joined by simple connecting links. |
 | [USRE14491](../patents/USRE14491.md) | 1918 | Latta, Emmit G. | A compact ribbon feed moves the ribbon lengthwise, and a ribbon vibrator with an adjustable throw can be raised or lowered to bring different fields of the ribbon to the print point; the mechanism folds with the collapsible machine. |
 | [DE321663](../patents/DE321663.md) | 1920 | Co, Remington Typewriter | Two movable links permanently but independently connected to the ribbon fork, so one stays in range of the adjustable drive while the other is set. |
 | [DE324217](../patents/DE324217.md) | 1920 | Birsner, Franz | A step-shaped thrust piece with a visible setting rod that locks in three positions, so the stroke setting can be seen. |
@@ -398,6 +404,8 @@ Ribbon lift or vibrator to the print point
 | [DE332684](../patents/DE332684.md) | 1921 | Furtwaengle, Uhrenfabrik Vorm L | The rear end of each double-armed key lever acts directly on an inclined surface of the universal rail, so the rail moves straight from the keys and can lock the keys. |
 | [DE335768](../patents/DE335768.md) | 1921 | Ag, Vorm Seidel & Naumann | A swinging tooth moved by the key lever engages a gap in the ratchet wheel and holds it, and a trigger pawl releases the ratchet near the end of the stroke, so the roller carriage's spring returns the tooth and parts after key release. |
 | [DE335772](../patents/DE335772.md) | 1921 | Ag, Seidel & Naumann | A lever parallel to the lever that drives the ribbon fork pivots when the platen is switched, and the ribbon lift height is changed by shifting that lever's pivot axis. |
+| [JP61016](../patents/JP61016.md) | 1921 | Sandor, Franz | Split a visible-writing typebar typewriter into a front frame (keys, type levers, ribbon gear) and a rear frame (carriage, escapement, platen frame) joined by four screws, so either half can be exchanged. |
+| [JP43667](../patents/JP43667.md) | 1921 | Matsumoto, Eiichi | Put the frequent characters on typebars with four-level carriage shift, and keep the rare characters as loose types in a rotating and sliding cylindrical store, chosen by an index on the drum and a pointer and printed by a type-catching bar that grips the type, prints, and returns it. |
 | [DE347698](../patents/DE347698.md) | 1922 | Leidenroth, Gustav | The ribbon carrier hangs from the height-adjustable lift frame by two links, one an angle lever, so its fork moves on a straight line and the writing part of the ribbon stays at a constant distance from the platen. |
 | [DE347699](../patents/DE347699.md) | 1922 | Leidenroth, Gustav | A key lever and bell-crank linkage with a roller and a notched leaf spring sets the ribbon carrier to a few fixed lift heights, and the set position is recognisable from the key. |
 | [DE348961](../patents/DE348961.md) | 1922 | Leidenroth, Gustav | Two buttons linked by a linkage so one rises as the other is pressed, with rigid projections against firm stops, set the angle lever for three ribbon lift heights. |

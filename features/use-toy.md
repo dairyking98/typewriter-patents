@@ -4,14 +4,14 @@
 
 Toy or educational machine
 
-**44 patents**, 1876–1951. Often together with:
+**45 patents**, 1876–1951. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (8), [Selection locked for printing](../features/sel-selector-locking.md) (7)
-- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (8)
-- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (9), [Separate print key or lever](../features/imp-print-lever.md) (6)
-- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (7)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (9)
+- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (10)
+- **Inking:** [Ink roller](../features/ink-roller.md) (7), [Ink ribbon](../features/ink-ribbon.md) (7)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (9)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (24)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (25)
 
 ## Patents, oldest first
 
@@ -60,4 +60,5 @@ Toy or educational machine
 | [DE673088](../patents/DE673088.md) | 1939 | Randzio, Reinhold | The wrist bar and table clamps are height-adjustable, and the bar is spring-cushioned so the wrists are supported gently rather than rigidly. |
 | [DE694372](../patents/DE694372.md) | 1940 | Karstedt, Paul | A self-coiling spring steel type tape is pulled through a spaced carriage on a guide frame and struck with a thimble hammer worn on a finger. |
 | [USD154849](../patents/USD154849.md) | 1949 | Hertz, Henry C. | Claims the ornamental design of a toy typewriter as shown in the drawing; no mechanism described. |
+| [JP372706](../patents/JP372706.md) | 1949 | Ichimaru, Masakoto | Two radial type wheels, capitals and small letters, with spring-held blocks pressed by finger knobs through slots, turned by a crank to an arrow. |
 | [USD163039](../patents/USD163039.md) | 1951 | Hertz, Henry C. | An ornamental design for a toy typewriter, shown in perspective, side, rear and opposite side views; the text describes no mechanism. |

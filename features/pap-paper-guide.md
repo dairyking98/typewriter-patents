@@ -4,12 +4,12 @@
 
 Paper table
 
-**1369 patents**, 1868–1950. Often together with:
+**1374 patents**, 1868–1950. Often together with:
 
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (118)
-- **Paper and carriage:** [Feed rollers and paper release](../features/pap-feed-rollers.md) (448), [Roller platen](../features/pap-platen-roller.md) (401), [Line spacing](../features/pap-line-space.md) (164), [Line and point indicator](../features/pap-line-indicator.md) (150)
-- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (105), [Visible writing](../features/frm-writing-visible.md) (95)
-- **Uses:** [Attachment or accessory](../features/use-accessory.md) (172)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (122)
+- **Paper and carriage:** [Feed rollers and paper release](../features/pap-feed-rollers.md) (451), [Roller platen](../features/pap-platen-roller.md) (402), [Line spacing](../features/pap-line-space.md) (167), [Line and point indicator](../features/pap-line-indicator.md) (151)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (106), [Visible writing](../features/frm-writing-visible.md) (96)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (173)
 
 **Machines:** [Caligraph 3](../machines/caligraph-3.md) (4), [Caligraph 4](../machines/caligraph-4.md) (4), [Caligraph 5](../machines/caligraph-5.md) (4), [Caligraph 6, 7](../machines/caligraph-6-7.md) (4), [Williams 1 S](../machines/williams-1-s.md) (4), [Williams 2](../machines/williams-2.md) (4), [Williams 3](../machines/williams-3.md) (4), [Williams 4](../machines/williams-4.md) (4), [Williams 6](../machines/williams-6.md) (4), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Remington Port. Tab](../machines/remington-port-tab.md) (4), [Mercury 3](../machines/mercury-3.md) (3), [Yost 15 - 19](../machines/yost-15-19.md) (3), [L. C. Smith 3, 4](../machines/l-c-smith-3-4.md) (3)
 
@@ -513,6 +513,7 @@ Paper table
 | [US903482](../patents/US903482.md) | 1908 | Knapp, Theron L. | Resilient paper guides attached to a standard hold the card against the platen at the printing point. |
 | [US904002](../patents/US904002.md) | 1908 | McCormack, Harry S. | The top pressure rolls are carried on a rod that can be moved forward and back so they bear on the platen at the exact point needed for the width and stiffness of the sheet; the pendent parts can be inclined to compensate, and the rolls can be cast off to withdraw a check. |
 | [US908622](../patents/US908622.md) | 1909 | Stickney, Burnham C. | A stripper and adjustable paper guide at the front of the platen guide the paper away from the platen at the right moment, with a scale pressed against the platen by springs. |
+| [JP16207](../patents/JP16207.md) | 1909 | International Typewriter Company | Hold the paper by its top edge on a fan-shaped horizontal holder that swings about a vertical axis for letter spacing and rises for line spacing, while typebars with several types each strike a small disc platen that is shifted vertically to choose the type. |
 | [US912118](../patents/US912118.md) | 1909 | Greenwood, George A. | The side-edge gauge is carried on a threaded, flattened shank fed by a nut, with a positioning block, giving a finer and quicker adjustment of the gauge along the platen. |
 | [US912327](../patents/US912327.md) | 1909 | Shepard, Charles H. | A printing-point indicator, shown at the printing point in front of the platen, along with card or paper feeding devices and a front paper guiding device, each part of the paper handling of the machine. |
 | [US912525](../patents/US912525.md) | 1909 | Barker, England J. | A supply rack carrying the paper rolls is removably attached to the reciprocating carrier so it moves with the platen, and a cutter blade in front of the shield tears off the written work. |
@@ -554,6 +555,7 @@ Paper table
 | [DE230047](../patents/DE230047.md) | 1909 |  | A stop on a rail, sized to the largest sheet, slides in an extension of the rail so the lower writing limit is set directly for each sheet length. |
 | [US936617](../patents/US936617.md) | 1909 | Felbel, Jacob | A separate special key brings the leading-edge stops into operation against the platen independently of the release key, and they release automatically when the feed mechanism is restored. |
 | [US938059](../patents/US938059.md) | 1909 | Kidder, Wellington Parker | A locking means that holds the universal key bar against movement at a set carriage position, so the key levers cannot move once the line end is reached. |
+| [JP21618](../patents/JP21618.md) | 1909 | Petermann, Otto | A typebar machine whose platen, carriage, escapement and ribbon mechanism lift together on a slide to several locked heights (each type head carries figure, capital and small letter) and fold over the key levers for transport. |
 | [US938885](../patents/US938885.md) | 1909 | McCulley, Arthur F. | U-shaped supporting frames pivot on a central shaft in the carriage and carry removable roll shafts with conical sleeves; spring-loaded rod frames press the paper rolls to stop unrolling, with a cutter for the paper. |
 | [US939579](../patents/US939579.md) | 1909 | Yaw, Clio B. | A carbon-roll holder with a guide roller and a material-feeding device carries the carbon, with paper controlling mechanism around the platen; it is shown on a front-strike machine but said to be adaptable to other styles. |
 | [US940765](../patents/US940765.md) | 1909 | White, Herbert R. | A retarding apparatus on the typewriting machine, with its actuating devices shown in the drawings, to slow the moving part. The exact action is not clear from the OCR. |
@@ -1047,7 +1049,7 @@ Paper table
 | [DE469129](../patents/DE469129.md) | 1928 | Inc, Royal Typewriter Co | A foldable guide finger forms a continuation of the scale rail, and the scale rail has slotted legs for vertical and sideways adjustment to the writing line. |
 | [JP81180](../patents/JP81180.md) | 1928 | Inoue, Jin | A differential platen, driven through a circulating gear with a slightly different tooth count and a prime-toothed ratchet, never repeats its phase, so the type always strikes a fresh part of a carbon surface stored inside the platen, while roll writing and copy paper are fed and taken up. |
 | [DE469383](../patents/DE469383.md) | 1928 | Post, Otto | Each supply and take-up roll is fitted with a spring-loaded friction disc, and gears equalize the spring tensions so the web stays taut and only the supply roll's inertia is overcome. |
-| [JP81625](../patents/JP81625.md) | 1928 | Kataoka, Kōtarō | Two working levers linked by a guide rod rise and fall to stop the ratchet wheel's teeth alternately, and one lever can be held or slid along the rod to give a full or half step. |
+| [JP81625](../patents/JP81625.md) | 1928 | Ōtani, Nihei | Two working levers linked by a guide rod rise and fall to stop the ratchet wheel's teeth alternately, and one lever can be held or slid along the rod to give a full or half step. |
 | [DE469841](../patents/DE469841.md) | 1928 | Mahler, Marie Antonie | The sheet is stretched between two separated wheel rims at its unembossed edges, so the sheet never rests on the roller surface. |
 | [DE471270](../patents/DE471270.md) | 1929 | Ag, Vorm Seidel & Naumann | A one-piece frame with pins hooks into the paper pressure arms in place of the paper roller, and rollers press the template to the platen while the existing release lever lifts it. |
 | [DE472664](../patents/DE472664.md) | 1929 | Ag, Anker Werke | Two independently attached check strips receive different imprints and may be coloured differently, and a common printing unit prints both. |
@@ -1078,7 +1080,7 @@ Paper table
 | [DE496243](../patents/DE496243.md) | 1930 | Winklho, Wanderer Werke Vormals | The holding rail is carried on one leg of a toggle (knee) joint, and a cam roller on the line-switch hand lever lifts it in an arc before the sheet arrives. |
 | [DE498605](../patents/DE498605.md) | 1930 | Schmid, Max | The platen housing slides on cross bars of a U-section support rail that runs on machine rods, and loose brass sleeves with rubber rollers on the guide rods also feed paper. |
 | [DE498749](../patents/DE498749.md) | 1930 | Winklhofer, Wanderer Werke Vorm | Two or more adjustable guide rollers are placed diagonally on the carriage frame, so a front and a rear roller both engage the rear carriage rail and resist twist. |
-| [JP88414](../patents/JP88414.md) | 1930 | Yokota, Masao | A hand-turned type wheel of spring-linked plungers sits on a tipping support plate; pressing a plunger locks the wheel, prints, and on return a pawl on a side arm advances the carriage along a rack. |
+| [JP88414](../patents/JP88414.md) | 1930 | Shimada, Minokichi | A hand-turned type wheel of spring-linked plungers sits on a tipping support plate; pressing a plunger locks the wheel, prints, and on return a pawl on a side arm advances the carriage along a rack. |
 | [DE500084](../patents/DE500084.md) | 1930 | Mueller, Wilhelm | A single lever lowers the type lever segment and folds the type guide, ribbon guide, line scale and paper holder away from the platen, held by a locking spring. |
 | [DE500300](../patents/DE500300.md) | 1930 | Spa, Olivetti & Co | Front and rear pinch roller pairs are each sprung independently on supported pivots so they can take an inclined position over varying paper thickness. |
 | [DE506056](../patents/DE506056.md) | 1930 | G, Europa Schreibmaschinen A | Each roller floats on the guide rod by a stepped coil spring, and flat springs keep the rollers from being dragged along the rod. |
@@ -1093,6 +1095,7 @@ Paper table
 | [DE509851](../patents/DE509851.md) | 1930 | Knotz, Alois | A U-shaped frame fixed to the back of the housing carries a supply roll for the receipt strip and a bracket that holds the ribbon path. |
 | [DE512140](../patents/DE512140.md) | 1930 | Winklhofer, Wanderer Werke Vorm | Make the shift lever an angle lever, one arm engaging a slot on a lever on the control shaft, the other reaching up over the keyboard to a grip plate pressed briefly downward. |
 | [DE513464](../patents/DE513464.md) | 1930 | Kaddatz, Arthur | A swinging wiper rail on a square rod strips the hanging sheets off the pins and presses them against the platen when it swings out, with a rocker that releases the pressure roller. |
+| [JP91477](../patents/JP91477.md) | 1930 | Egawa, Yoshimitsu | A continuously spinning type disc is stopped by a key-operated stop dropping into a hole of a selector cylinder on the same shaft, then a clutch-started one-turn shaft lowers the disc shaft to print and advances the paper box. |
 | [DE516204](../patents/DE516204.md) | 1931 | Co, Ncr | Two lifting disks on one axle, joined by a rail and operated by a single lever, lift the printing roller pressure roller and the ejector pressure roller together with one grip. |
 | [DE518614](../patents/DE518614.md) | 1931 | E, Greve John | A narrower second paper guide sits under a raised platen, and a tab key skips the paper carriage by set distances so that both sheets index together. |
 | [DE520631](../patents/DE520631.md) | 1931 | Winklhofer, Wanderer Werke Vorm | Each rear roller is eccentrically mounted so it can be set vertically, and a screw adjusts it horizontally, giving two-way adjustment against the sliding guide. |
@@ -1185,6 +1188,7 @@ Paper table
 | [DE603256](../patents/DE603256.md) | 1934 | Co, Ncr | A foldable bar along the paper roller edge, at a slot parallel to it, lets each form be set on any line without moving the others. |
 | [DE605263](../patents/DE605263.md) | 1934 | Kropff, Wilhelm | Rotating a fixed disc that carries the paper rolls switches the strip between display and print position with only a short loop. |
 | [DE606804](../patents/DE606804.md) | 1934 | Hom, Albert | A folding strip with recesses in its fold edge, and colour sheets with tabs that engage those recesses, so the copy sheets stay in register like the leaves of a book. |
+| [JP110135](../patents/JP110135.md) | 1934 | Yoshimura, Sotoo | A presser bar swung against or away from a paper guide plate clamps the copy paper so only the original feeds, or releases it so both feed together. |
 | [DE609557](../patents/DE609557.md) | 1935 | Mueller, Wilhelm | A desk-like inclined plate with an adjustable clamp holds carbon sheets offset from the writing sheets, so each carbon sheet is used over a different area, and sheets are laid and separated easily. |
 | [DE609811](../patents/DE609811.md) | 1935 | Hoffmann, Edgar | Mount the type wheel and its gear on a slide plate guided straight against the platen in the base plate, with a fixed ratchet comb that a pin on the setting rack enters during the stroke. |
 | [JP111430](../patents/JP111430.md) | 1935 | Miki, Chinji | Link the index pointer to the type drum with paired four-bar linkages, and hold the paper in a curved, two-part meshed frame that swings between the index plate and the machine rear. |
@@ -1268,6 +1272,7 @@ Paper table
 | [DE682151](../patents/DE682151.md) | 1939 | Werke, Mercedes Bueromaschinen | A device lets several superposed paper-guide arch groups move independently of the main line feed rollers while the normal paper guides still work. |
 | [DE683321](../patents/DE683321.md) | 1939 | Ges, Wanderer Werke Akt | Paper guide means are arranged so sheets can be inserted while keeping the writing line visible; the specific mechanism is cut off in the excerpt. |
 | [DE755158](../patents/DE755158.md) | 1939 | Ag, Zeiss Ikon | A coupling with a switching lever and two slots lets the front rail move alone or both rails move together. |
+| [JP135868](../patents/JP135868.md) | 1939 | Fujii, Riichi | Grip only the two side edges of the sheet between paired upper and lower rollers on a travelling carriage, and feed the sheet in fixed steps that leave a blank band between lines for braille written from the back. |
 | [DE685282](../patents/DE685282.md) | 1939 | Werke, Mercedes Bueromaschinen | One platen or pressure-roller release lever simultaneously disengages the bow holder and carriage lock when writing, and reverses them when the paper is out of use. |
 | [DE685896](../patents/DE685896.md) | 1939 | Co, Ncr | A line window is held approximately vertical by arms on inclined slots and springs, and only swings into the insertion position while the roller is swung out. |
 | [DE688250](../patents/DE688250.md) | 1940 | Eller, Friedrich | A sliding frame moves the paper strips so special entries print with a special block in the normal heading area. |

@@ -4,10 +4,10 @@
 
 Types on a ring or annulus
 
-**61 patents**, 1878–1949. Often together with:
+**62 patents**, 1878–1949. Often together with:
 
 - **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (14)
-- **Type element:** [Separate type slugs or plungers](../features/elem-individual-slugs.md) (13), [Interchangeable element](../features/elem-interchangeable.md) (12)
+- **Type element:** [Separate type slugs or plungers](../features/elem-individual-slugs.md) (13), [Interchangeable element](../features/elem-interchangeable.md) (13)
 - **Impression:** [Hand presses the type through](../features/imp-press-through.md) (18), [Element struck to the platen](../features/imp-element-to-platen.md) (13)
 - **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (15), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (13)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (12)
@@ -58,6 +58,7 @@ Types on a ring or annulus
 | [US573841](../patents/US573841.md) | 1896 | Hoff - Munson, John A. - John W. | Matrix segments are mounted in a skeleton wheel and patrices on yielding arms are forced down by a plunger; a spacing finger and toothed spacer wheel advance the wheel. |
 | [US581500](../patents/US581500.md) | 1897 | Webb, George B. | Two spool frames ride on ball bearings and are shifted transversely by a rock shaft while spring-fork-driven ratchet pawls wind the ribbon lengthwise. |
 | [US607270](../patents/US607270.md) | 1898 | Pastre - Lambert, Eugène - Frank | A single nutating disc key with all characters marked on it carries a rigid spherical type-ring beneath it; pressing the edge at a character tilts the ring until a stop pin seats in a recess, and continued pressure drives the ring straight down to print and release a spring carriage for one space. |
+| [JP8673](../patents/JP8673.md) | 1905 | Hammond, James B. | A ring-shaped hard-rubber shuttle with an inner metal flange running between a two-part anvil, notched for several character sets and released from its driving arm by a slide, driven by swinging speed dogs, with a small seven-character shuttle for Braille where two keys build each character. |
 | [US795605](../patents/US795605.md) | 1905 | Görwitz, Oskar | A device holds the type-bar links and the type-ring in an abnormal position, clear of the pad, so the inking pad can be mounted and removed without interference. |
 | [US825966](../patents/US825966.md) | 1906 | Hammond, James B. | Two spring-held retainer bars with overhanging fingers clamp over the shuttle's top flange and are squeezed inward to release it for vertical removal. |
 | [US825967](../patents/US825967.md) | 1906 | Hammond, James B. | Make the shuttle a very thin hard-rubber ring whose top flange both stiffens it and connects to the shuttle arm, and add independent speed-dogs between the key drivers and the arm so the shuttle can reverse without recentring. |

@@ -1,4 +1,4 @@
-# Patents (10,393)
+# Patents (10,518)
 
 Every patent in the library, oldest first, with the country that granted it ([by country](../countries/README.md)).
 
@@ -409,6 +409,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US393142](US393142.md) | 1888-11-20 | USA | Chrysty, James W. | Type-Writing Machine |
 | [US393259](US393259.md) | 1888-11-20 | USA | Perry, Charles H. | Type-Writing Machine |
 | [US393318](US393318.md) | 1888-11-20 | USA | Wagner, Franz X. | Type-Writing Machine |
+| [JP940](JP940.md) | 1888-12-06 | Japan | Fujiki, Sueoto | Shorthand device |
 | [US394178](US394178.md) | 1888-12-11 | USA | Harrison, Thomas B. | Type-Writing Machine |
 | [US394449](US394449.md) | 1888-12-11 | USA | Bloemeke, Richard W. | Copy-Holder |
 | [DE46365](DE46365.md) | 1888-12-13 | Germany |  | typewriter |
@@ -580,6 +581,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US421836](US421836.md) | 1890-02-18 | USA | McLaughlin, James F. | Type-Writing Machine |
 | [US421837](US421837.md) | 1890-02-18 | USA | McLaughlin, James F. | Type-Writing Machine |
 | [US421838](US421838.md) | 1890-02-18 | USA | McLaughlin, James F. | Type-Writer |
+| [JP1309](JP1309.md) | 1890-02-19 | Japan | Shida, Yasaku | Shorthand machine |
 | [US421921](US421921.md) | 1890-02-25 | USA | Frankey, James F. | Type-Writer |
 | [US421972](US421972.md) | 1890-02-25 | USA | Redfield, Casper L. | Impression Device for Matrix-Making Machines |
 | [US422042](US422042.md) | 1890-02-25 | USA | Spiro, Charles | Type-Writing Machine |
@@ -1076,6 +1078,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE62612](DE62612.md) | 1892-05-18 | Germany |  | Lever type typewriter of the type known from patent specification No. 41 163 |
 | [DE62613](DE62613.md) | 1892-05-18 | Germany |  | Typewriter |
 | [DE62618](DE62618.md) | 1892-05-18 | Germany |  | An electric typewriter |
+| [JP2306](JP2306.md) | 1892-05-22 | Japan | Takayama, Kinsaku | Printing device |
 | [US475443](US475443.md) | 1892-05-24 | USA | Densmore, Amos | Type-Writing Machine |
 | [US475623](US475623.md) | 1892-05-24 | USA | Spiro, Charles | Type-Writing Machine |
 | [US475777](US475777.md) | 1892-05-31 | USA | Keatinge, John R. | Type-Cleaner for Type-Writing Machines |
@@ -2625,6 +2628,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US731076](US731076.md) | 1903-06-16 | USA | Singleton, George W. | Card-Holding Platen for Type-Writing Machines |
 | [US731187](US731187.md) | 1903-06-16 | USA | Irish, James W. | Carbon Copying Apparatus |
 | [US731386](US731386.md) | 1903-06-16 | USA | Oliver, Thomas | Tabulating Attachment for Type-Writing Machines |
+| [JP7850](JP7850.md) | 1903-06-23 | Japan | Donning, George Washington | Flat-platen typewriter |
 | [US731528](US731528.md) | 1903-06-23 | USA | Wagner, Franz X. | Printing or Type-Bar Mechanism for Type-Writing Machines |
 | [US731564](US731564.md) | 1903-06-23 | USA | Halle, Hiram Joseph | Type-Writing Machine |
 | [US731834](US731834.md) | 1903-06-23 | USA | Anderson, Frederick F. | Type-Writing Machine |
@@ -3029,6 +3033,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE171150](DE171150.md) | 1905-02-14 | Germany |  | ~The previously known dye and liquid moisteners consist either of rollers |
 | [US782542](US782542.md) | 1905-02-14 | USA | Burridge, Lee S. | Type-Writing Machine |
 | [US782635](US782635.md) | 1905-02-14 | USA | Winters, George W. | Type-Writer |
+| [JP8673](JP8673.md) | 1905-02-15 | Japan | Hammond, James B. | Writing machine |
 | [US782871](US782871.md) | 1905-02-21 | USA | Nolan, Thomas F. | Platen or Roller for Type-Writing Machines or the Like |
 | [US782999](US782999.md) | 1905-02-21 | USA | Vanderpool, Albion Alexander | Type-Writing Machine |
 | [US783415](US783415.md) | 1905-02-28 | USA | Brown, Alexander T. | Type-Writing Machine |
@@ -3110,6 +3115,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US796020](US796020.md) | 1905-08-01 | USA | Singleton, George W. | Tabulating Mechanism for Type-Writing Machines |
 | [US796075](US796075.md) | 1905-08-01 | USA | Kavle, Oscar C. | Type-Writing Machine |
 | [US796092](US796092.md) | 1905-08-01 | USA | Seib, George A. | Type-Writing Machine |
+| [JP11961](JP11961.md) | 1905-08-07 | Japan | Rieu-Madrassy, Marcel | Printing machine |
 | [US796679](US796679.md) | 1905-08-08 | USA | Sherin, Gilbert W. | Type-Writing Machine |
 | [US797043](US797043.md) | 1905-08-15 | USA | Briggs, Herbert A. | Attachment for Type-Writing Machines |
 | [US798079](US798079.md) | 1905-08-29 | USA | Smith - Gabrielson, Wilbert L. - Carl | Type-Bar Cushion |
@@ -3404,6 +3410,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US838073](US838073.md) | 1906-12-11 | USA | Bolton, Herbert D. | Ribbon-Guide for Type-Writing Machines |
 | [US838328](US838328.md) | 1906-12-11 | USA | Helmond, William F. | Type-Writing Machine |
 | [US838396](US838396.md) | 1906-12-11 | USA | Felbel, Jacob | Type-Writing Machine |
+| [JP12644](JP12644.md) | 1906-12-21 | Japan | Holford, John Carbery | Writing machine |
 | [US839129](US839129.md) | 1906-12-25 | USA | Fox, William R. | Tabulator for Type-Writers |
 | [US839408](US839408.md) | 1906-12-25 | USA | McLaughlin, John C. | Type-Writing Machine |
 | [US839409](US839409.md) | 1906-12-25 | USA | McLaughlin, John C. | Type-Writing Machine |
@@ -3749,6 +3756,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US873304](US873304.md) | 1907-12-10 | USA | du Belle, Charles Sumner | Type-Writer |
 | [US873487](US873487.md) | 1907-12-10 | USA | Barron - Merritt, Walter J. - Henry W. | Type-Writing Machine |
 | [US873641](US873641.md) | 1907-12-10 | USA | Wagner, Franz X. | Type-Writing Machine |
+| [JP14514](JP14514.md) | 1907-12-17 | Japan | Suzuki, Yoshikuni | Braille writing frame |
 | [US873730](US873730.md) | 1907-12-17 | USA | Cumner, Matthew S. | Type-Writer Shift-Key Mechanism |
 | [US873782](US873782.md) | 1907-12-17 | USA | Poole, Charles Clarence | Line-Space-Indicating Device |
 | [US873964](US873964.md) | 1907-12-17 | USA | Smith, Charles E. | Type-Writing Machine |
@@ -3939,6 +3947,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US891047](US891047.md) | 1908-06-16 | USA | Doane, John C. | Type-Writing Machine |
 | [US891073](US891073.md) | 1908-06-16 | USA | Hutchinson, John | Type-Writing Machine |
 | [US891095](US891095.md) | 1908-06-16 | USA | Pfunder, Emil L. | Type-Writing Machine |
+| [JP15038](JP15038.md) | 1908-06-22 | Japan | Billing, Noel Pemberton | New typewriter |
 | [US891274](US891274.md) | 1908-06-23 | USA | Luce - Richards, Otis A. - John C. | Carriage-Shift and Platen-Rotator |
 | [US891453](US891453.md) | 1908-06-23 | USA | Barney, Edwin E. | Type-Writing Machine |
 | [US891806](US891806.md) | 1908-06-23 | USA | Seib, George A. | Type-Writing Machine |
@@ -4029,6 +4038,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US900931](US900931.md) | 1908-10-13 | USA | Jackson, Joseph H. | Type-Writing Machine |
 | [US901092](US901092.md) | 1908-10-13 | USA | Glasner - Glasier, Frank P. - Johnson J. | Computing-Machine |
 | [US901259](US901259.md) | 1908-10-13 | USA | Pool, Morris W. | Type-Writing Machine |
+| [JP16522](JP16522.md) | 1908-10-14 | Japan | Benicke, Wilhelm | Keyboard |
 | [US901682](US901682.md) | 1908-10-20 | USA | Collier, William H. | Combined Type-Writing and Printing Machine |
 | [DE203431](DE203431.md) | 1908-10-22 | Germany | Schnell, Setzmaschinen Gmbh | Device for achieving different switching ranges for the paper trolleys of &hellip; |
 | [US901973](US901973.md) | 1908-10-27 | USA | Labofish, Charles S. | Tabulating Device for Type-Writers |
@@ -4045,6 +4055,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US902507](US902507.md) | 1908-10-27 | USA | Paul, John W. | Type-Writing Machine |
 | [US902519](US902519.md) | 1908-10-27 | USA | Barney, Edwin E. | Type-Writing Machine |
 | [US902525](US902525.md) | 1908-10-27 | USA | Farnum, William C. | Type-Writing Machine |
+| [JP16174](JP16174.md) | 1908-11-03 | Japan | Benicke, Wilhelm | Writing machine worked automatically by air or water power |
 | [US902566](US902566.md) | 1908-11-03 | USA | Downey, Clement Lee | Type-Writer Attachment |
 | [US902571](US902571.md) | 1908-11-03 | USA | Faverio, Louis | Type-Writing Machine |
 | [US902572](US902572.md) | 1908-11-03 | USA | Felbel, Jacob | Type-Writing Machine |
@@ -4118,6 +4129,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US910900](US910900.md) | 1909-01-26 | USA | Brown, Alexander T. | Type-Writing Machine |
 | [US910987](US910987.md) | 1909-01-26 | USA | Brown, Alexander T. | Type-Writing Machine |
 | [US911014](US911014.md) | 1909-01-26 | USA | Joerissen, Carl A. | Type-Writing Machine |
+| [JP16207](JP16207.md) | 1909-02-02 | Japan | International Typewriter Company | Improvements in printing machines |
 | [US911198](US911198.md) | 1909-02-02 | USA | Brown, Alexander T. | Type-Writing Machine |
 | [US911275](US911275.md) | 1909-02-02 | USA | Smith, Arthur W. | Type-Writing Machine |
 | [US911644](US911644.md) | 1909-02-09 | USA | Burridge, Lee S. | Type-Writing Machine |
@@ -4405,6 +4417,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US936617](US936617.md) | 1909-10-12 | USA | Felbel, Jacob | Type-Writing Machine |
 | [US936833](US936833.md) | 1909-10-12 | USA | Uhlig, Richard W. | Printing-Mechanism for Type-Writers |
 | [US936834](US936834.md) | 1909-10-12 | USA | Uhlig, Richard W. | Ribbon Feeding Mechanism for Type-Writers |
+| [JP21617](JP21617.md) | 1909-10-14 | Japan | Hazen, Marshman Williams | Typewriter |
 | [US937336](US937336.md) | 1909-10-19 | USA | Stickney, Burnham C. | Type-Writing Machine |
 | [US937374](US937374.md) | 1909-10-19 | USA | Lewis, Edward Z. | Manifolding-Platen for Type-Writing Machines |
 | [US937382](US937382.md) | 1909-10-19 | USA | Nielsen, Stefanus | Type-Writing Machine |
@@ -4421,6 +4434,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US938354](US938354.md) | 1909-10-26 | USA | Tompkins, Webster A. | Type-Writer Attachment |
 | [US938439](US938439.md) | 1909-10-26 | USA | Secor, Jerome B. | Type-Writing Machine |
 | [US938454](US938454.md) | 1909-10-26 | USA | Broughton, Lyman D. | Type-Writing Machine |
+| [JP21618](JP21618.md) | 1909-10-30 | Japan | Petermann, Otto | Typewriter |
 | [US938480](US938480.md) | 1909-11-02 | USA | Hagerstrom, John A. | Type-Writing Machine |
 | [US938500](US938500.md) | 1909-11-02 | USA | Myers, Lewis C. | Type-Writing Machine |
 | [US938507](US938507.md) | 1909-11-02 | USA | Pfunder, Emil L. | Type-Writing Machine |
@@ -4599,6 +4613,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US953938](US953938.md) | 1910-04-05 | USA | Anderson, Neal Larkin | Type-Writer Carriage-Return Mechanism |
 | [US953988](US953988.md) | 1910-04-05 | USA | Drewell, Heinrich | Shifting-Device |
 | [US954138](US954138.md) | 1910-04-05 | USA | Sargent, Marshall B. | Back-Feed Mechanism for Type-Writers |
+| [JP19787](JP19787.md) | 1910-04-07 | Japan | Crisp, Charles | Typewriter or similar machine |
 | [DE247194](DE247194.md) | 1910-04-12 | Germany |  | ~Paper guide device for typewriters |
 | [US954439](US954439.md) | 1910-04-12 | USA | Kavle, Oscar C. | Type-Writing Machine |
 | [US954470](US954470.md) | 1910-04-12 | USA | Schauer, Oliver V. | Attachment for Type-Writers |
@@ -5314,6 +5329,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US1018986](US1018986.md) | 1912-02-27 | USA | Pfau, Max | Type-Bar Mounting |
 | [US1018989](US1018989.md) | 1912-02-27 | USA | Raber, Joseph | Type-Bar-Supporting Frame |
 | [US1018995](US1018995.md) | 1912-02-27 | USA | Stieg, August | Back-Feed Mechanism for Type-Writers |
+| [JP23485](JP23485.md) | 1912-02-28 | Japan | Shinozawa, Yūsaku | Typewriter |
 | [US1019077](US1019077.md) | 1912-03-05 | USA | Oliver, Charles V. | Type-Writing Machine |
 | [US1019205](US1019205.md) | 1912-03-05 | USA | Vaughan, Henry M. | Erasing Device for Type-Writers |
 | [US1019328](US1019328.md) | 1912-03-05 | USA | Lockwood, Marquis H. | Type-Writer Escapement Mechanism |
@@ -5397,6 +5413,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US1027225](US1027225.md) | 1912-05-21 | USA | Thieme, Otto | Tabulating Mechanism for Type-Writing Machines |
 | [US1027391](US1027391.md) | 1912-05-21 | USA | Raber, Joseph | Platen Mechanism for Type-Writing Machines |
 | [US1027395](US1027395.md) | 1912-05-21 | USA | Swank, Calvin P. | Type-Writer Attachment |
+| [JP22786](JP22786.md) | 1912-05-23 | Japan | Pfeifler, John William | Printing machine |
 | [US1027488](US1027488.md) | 1912-05-28 | USA | Lockwood, Marquis H. | Type-Writer Ribbon-Carrier |
 | [US1027717](US1027717.md) | 1912-05-28 | USA | Flugel, Bernhard John Valentine Adolph | Type-Writing Machine |
 | [US1027732](US1027732.md) | 1912-05-28 | USA | Hopkins, Hubert | Ribbon-Reverse Mechanism for Type-Writers and the Like |
@@ -5646,6 +5663,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US1056657](US1056657.md) | 1913-03-18 | USA | Friedman, Leslie Harold | Type-Writing Machine |
 | [US1056703](US1056703.md) | 1913-03-18 | USA | Lux, Julius K. | Type-Writing Machine |
 | [US1056721](US1056721.md) | 1913-03-18 | USA | Walter, Edward C. | Type-Writer |
+| [JP23518](JP23518.md) | 1913-03-21 | Japan | Friedman, Leslie Harold | Typewriter |
 | [US1057013](US1057013.md) | 1913-03-25 | USA | Smith, Charles E. | Type-Writing Machine |
 | [US1057365](US1057365.md) | 1913-03-25 | USA | Ursbruck, Frank C. | Type-Writing Machine |
 | [US1057802](US1057802.md) | 1913-04-01 | USA | Carpenter, Daniel A. | Type-Writing Machine |
@@ -5741,6 +5759,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US1065531](US1065531.md) | 1913-06-24 | USA | Kavle, Oscar C. | Ribbon Mechanism for Type-Writing Machines |
 | [US1065599](US1065599.md) | 1913-06-24 | USA | Elliott, Albert E. | Type-Writer Keyboard-Cover |
 | [US1065769](US1065769.md) | 1913-06-24 | USA | Barrett, Glenn J. | Automatic Ink-Ribbon-Reversing Mechanism |
+| [JP24024](JP24024.md) | 1913-06-27 | Japan | Kishitaka, Takeo | Kishitaka-type Braille writer |
 | [US1065970](US1065970.md) | 1913-07-01 | USA | Seib, George A. | Type-Writing Machine |
 | [US1065980](US1065980.md) | 1913-07-01 | USA | Steele, Herbert H. | Type-Writing Machine |
 | [US1066029](US1066029.md) | 1913-07-01 | USA | McLaughlin, John C. | Type-Writing Machine |
@@ -5856,6 +5875,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US1078626](US1078626.md) | 1913-11-18 | USA | Kelley, Blane | Electrically-Operated Duplicate Type-Writing Machine |
 | [USRE13649](USRE13649.md) | 1913-11-18 | USA | Hagerstrom, John A. | Type-Writing Machine |
 | [DE288802](DE288802.md) | 1913-11-19 | Germany |  | ~In the case of machines of the latter type |
+| [JP33896](JP33896.md) | 1913-11-22 | Japan | Underwood Typewriter Company | Typewriter |
 | [US1079447](US1079447.md) | 1913-11-25 | USA | Soblik, Max | Pneumatic Printing Mechanism for Type-Writers |
 | [US1079526](US1079526.md) | 1913-11-25 | USA | Vogel, Charles Herman | Type-Writing Machine |
 | [US1079548](US1079548.md) | 1913-11-25 | USA | Fengler - Rouillot, Hermann V. - Victor B. | Type-Writing Machine |
@@ -6415,6 +6435,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US1147299](US1147299.md) | 1915-07-20 | USA | Briggs, Arthur J. | Type-Writing Machine |
 | [US1147300](US1147300.md) | 1915-07-20 | USA | Briggs, Arthur J. | Type-Writing Machine |
 | [US1147442](US1147442.md) | 1915-07-20 | USA | Roberts, Lyman R. | Automatic Type-Writer Actuator |
+| [JP29942](JP29942.md) | 1915-07-24 | Japan | Stickney, Burnham C. | Type printing machine |
 | [US1147821](US1147821.md) | 1915-07-27 | USA | Smith, Arthur W. | Type-Writing Machine |
 | [US1147902](US1147902.md) | 1915-07-27 | USA | Smith, Arthur W. | Type-Writing Machine |
 | [US1147981](US1147981.md) | 1915-07-27 | USA | Smith, Arthur W. | Type-Writing Machine |
@@ -6433,6 +6454,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US1149794](US1149794.md) | 1915-08-10 | USA | Smith, Jesse A. B. | Type-Writing Machine |
 | [US1149803](US1149803.md) | 1915-08-10 | USA | Ammon, Karl | Cryptographic Type-Writing Machine |
 | [US1149855](US1149855.md) | 1915-08-10 | USA | Pierce, Percy E. | Carbon Copy Attachment for Type-Writers |
+| [JP29984](JP29984.md) | 1915-08-13 | Japan | Takenaga, Jirō | Kanji typewriter |
 | [US1150164](US1150164.md) | 1915-08-17 | USA | Becker, Richard M. | Type-Writing Machine |
 | [US1150287](US1150287.md) | 1915-08-17 | USA | Mikkelsen, Harry | Type-Writing Machine |
 | [US1150345](US1150345.md) | 1915-08-17 | USA | Dennis, Adolphus S. | Type-Writing Machine |
@@ -6596,6 +6618,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [US1166390](US1166390.md) | 1915-12-28 | USA | Sholes, Zalmon G. | Type-Writer Platen |
 | [DE289775](DE289775.md) | 1916-01-19 | Germany |  | ~Bearing for levers, in particular for the type |
 | [DE289847](DE289847.md) | 1916-01-24 | Germany | Underwood, Typewriter Co | Paper insertion and feeding device for typewriters with conveyor belts and an &hellip; |
+| [JP31868](JP31868.md) | 1916-02-10 | Japan | Roebuck, Alvah Curtis | Typewriter |
 | [DE309590](DE309590.md) | 1916-03-22 | Germany |  | ~GREAT When writing invoices it is desirable to look at the copies that are not should be s |
 | [DE290911](DE290911.md) | 1916-03-29 | Germany |  | ~Typewriters known which have column and digit tabs combined |
 | [DE291446](DE291446.md) | 1916-04-19 | Germany |  | ~Further embodiment of the table writing device according to the patent 290911 |
@@ -6620,13 +6643,19 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [JP37752](JP37752.md) | 1919-04-02 | Japan | Uwagawa, Atsushi | Uwagawa-type printing machine |
 | [JP34924](JP34924.md) | 1919-06-04 | Japan | Shimada, Minokichi | Shimada-type printing machine |
 | [JP43693](JP43693.md) | 1919-06-04 | Japan | Katō, Kenjirō | Character-spacing change-over device for a typewriter |
+| [JP35670](JP35670.md) | 1919-07-14 | Japan | Murooka, Sōshichi | Rotary typewriter |
+| [JP67656](JP67656.md) | 1919-07-14 | Japan | Underwood Typewriter Company | Typewriter |
+| [JP39929](JP39929.md) | 1919-08-15 | Japan | The Hammond Typewriter Company | Improvements in folding typewriters |
 | [JP55053](JP55053.md) | 1919-09-03 | Japan | Shimada, Minokichi | Shimada-type printing machine |
+| [JP37607](JP37607.md) | 1919-09-22 | Japan | Matsushita, Daisaburō | Typewriter |
+| [JP40516](JP40516.md) | 1919-09-24 | Japan | Matsushita, Daisaburō | Typewriter |
 | [JP37882](JP37882.md) | 1919-10-22 | Japan | Sugimoto, Kyōta | Typewriter |
 | [JP37919](JP37919.md) | 1919-11-19 | Japan | Shimada, Minokichi | Shimada-type printing machine |
-| [JP38396](JP38396.md) | 1920-02-02 | Japan | Spiro, Charles | Line-spacing adjusting mechanism for a typewriter |
+| [JP38396](JP38396.md) | 1920-02-02 | Japan | Gourland Typewriter Corporation | Line-spacing adjusting mechanism for a typewriter |
 | [DE318805](DE318805.md) | 1920-02-11 | Germany | Birsner, Franz | Reversible type lever bearing segment |
 | [DE331594](DE331594.md) | 1920-02-15 | Germany | Co, Remington Typewriter | Device for fixing the bearing wire for the type lever of typewriters |
 | [DE318736](DE318736.md) | 1920-02-21 | Germany |  | ~Device on typewriters with which Characters and words as well as entire sentences are unde |
+| [JP38893](JP38893.md) | 1920-03-01 | Japan | Murooka, Sōshichi | Rotary typewriter |
 | [DE319715](DE319715.md) | 1920-03-15 | Germany | Maschb, Mechanik Automobil Und | Typewriter for the simultaneous generation of Braille and ordinary writing |
 | [DE319752](DE319752.md) | 1920-03-30 | Germany | W, Mercedes Buero Maschinen Und | Type lever bearing for typewriters with a curved swing axis and slot guide for &hellip; |
 | [DE320000](DE320000.md) | 1920-04-15 | Germany | Cie, Charles Noerther & | Note typewriter |
@@ -6676,6 +6705,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE323145](DE323145.md) | 1920-07-16 | Germany | Fenton, Walter | Paper cart |
 | [DE323245](DE323245.md) | 1920-07-19 | Germany | C, Ingegnere C Olivetti & | Type lever movement device for typewriters |
 | [DE323636](DE323636.md) | 1920-08-03 | Germany | Herzer, Jacques | Schreibmaschinengummireiniger |
+| [JP39915](JP39915.md) | 1920-08-09 | Japan | Burg, Hubert | Improvements in typewriters |
 | [DE324208](DE324208.md) | 1920-08-20 | Germany | Fertsch, Richard | Type cylinder typewriter with two buttons and an adjustment pen |
 | [DE324209](DE324209.md) | 1920-08-20 | Germany | Moehling, Paul | Type lever drive |
 | [DE324210](DE324210.md) | 1920-08-20 | Germany | Wasem, Hermann | Device to prevent the type lever stop in the event of incomplete switching |
@@ -6700,6 +6730,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE325078](DE325078.md) | 1920-09-07 | Germany | Winklhofer, Wanderer Werke Vorm | Display device for typewriters |
 | [DE350160](DE350160.md) | 1920-09-08 | Germany |  | ~Tabellenschreibvorrichtung |
 | [DE325235](DE325235.md) | 1920-09-10 | Germany | Winklhofer, Wanderer Werke Vorm | Switching device for the platen |
+| [JP43652](JP43652.md) | 1920-09-12 | Japan | Aoyagi, Eiji | Typewriter |
 | [DE325364](DE325364.md) | 1920-09-13 | Germany | Ges, Siemens & Halske Akt | Wirbelstromgetriebe |
 | [DE325476](DE325476.md) | 1920-09-13 | Germany | Winklhofer, Wanderer Werke Vorm | Paper guide |
 | [DE325570](DE325570.md) | 1920-09-15 | Germany | Ge, Triumph Werke Nuernberg Akt | Type lever stop mechanism |
@@ -6725,6 +6756,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE327932](DE327932.md) | 1920-10-19 | Germany | Tavoukdji, Paul | Sound absorbing pad |
 | [DE327931](DE327931.md) | 1920-10-22 | Germany | Co, Underwood Typewriter | Typewriter for writing on paper webs |
 | [DE328880](DE328880.md) | 1920-11-06 | Germany | Reinicke, Georg | Typewriter for Turkish, Hindostan and related script |
+| [JP39625](JP39625.md) | 1920-11-11 | Japan | Aoyagi, Eiji | Typewriter |
 | [DE328871](DE328871.md) | 1920-11-12 | Germany | Underwood, John Thomas | typewriter |
 | [DE329612](DE329612.md) | 1920-11-25 | Germany | Gremmels, Felix | Rechenschreibmaschine mit vom Papierwagen bewegten Zaehlwerken |
 | [DE329663](DE329663.md) | 1920-11-27 | Germany | F, Naehmaschinen Und Fahrraeder | tab |
@@ -6787,6 +6819,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE336775](DE336775.md) | 1921-05-17 | Germany | Kornbusch, Kurt | Locking device for the paper trolley |
 | [DE336776](DE336776.md) | 1921-05-17 | Germany |  | Vorschubvorrichtung an Schreibmaschinen |
 | [DE336981](DE336981.md) | 1921-05-20 | Germany | Baumgartner, Josef | Device for refreshing worn ink ribbons for typewriters |
+| [JP61016](JP61016.md) | 1921-05-25 | Japan | Sandor, Franz | Visible-writing typewriter |
 | [DE337286](DE337286.md) | 1921-05-28 | Germany |  | Sheeter |
 | [DE338616](DE338616.md) | 1921-06-04 | Germany | Petermann, Otto | Drive device for the universal rail |
 | [DE337650](DE337650.md) | 1921-06-06 | Germany | Co, Underwood Computing Machine | Schreibrechenmaschine |
@@ -6812,6 +6845,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE339789](DE339789.md) | 1921-08-10 | Germany | Sandor, Franz | Type lever typewriter |
 | [DE339790](DE339790.md) | 1921-08-10 | Germany | Graff, Maximilian | Device for adjusting the edge stops |
 | [DE339864](DE339864.md) | 1921-08-16 | Germany | Abramsohn, Tobias | Vorrichtung zum Justieren und Aufloeten der Typen fuer Schreibmaschinen u. dgl. |
+| [JP42654](JP42654.md) | 1921-08-19 | Japan | Matsushita, Daisaburō | Typewriter |
 | [DE340363](DE340363.md) | 1921-09-09 | Germany | Schuster, Carl | Maschine, insbesondere zum Zeichnen von Waeschestuecken |
 | [JP64135](JP64135.md) | 1921-09-10 | Japan | Shimada, Minokichi | Shimada-type printing machine |
 | [JP61699](JP61699.md) | 1921-09-17 | Japan | Ishii, Yoshio | Simple (portable) printing device |
@@ -6827,6 +6861,8 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE343623](DE343623.md) | 1921-11-05 | Germany | Brune, Hans | Vorrichtung zum Verschieben des Wagens von Schreibmaschinen, insbesondere schreibenden Addiermaschinen |
 | [DE343934](DE343934.md) | 1921-11-11 | Germany | Ges, Siemens & Halske Akt | Electric type printing device |
 | [DE343935](DE343935.md) | 1921-11-11 | Germany | Himmer, Gustav | Method and typewriter for producing a letterpress-like font |
+| [JP43667](JP43667.md) | 1921-11-11 | Japan | Matsumoto, Eiichi | Matsumoto-type high-speed Japanese-script printing machine |
+| [JP61127](JP61127.md) | 1921-11-11 | Japan | Matsumoto, Eiichi | Improvement in the arrangement of the typebars in a printing machine |
 | [DE344036](DE344036.md) | 1921-11-12 | Germany | Luckhard, Karl Ludwig | typewriter |
 | [DE345366](DE345366.md) | 1921-12-08 | Germany | Tolle, Heinrich | Writing, printing and Like. Power-driven machine |
 | [DE345367](DE345367.md) | 1921-12-08 | Germany | Ges, Fried Krupp Akt | Switching device |
@@ -6839,7 +6875,10 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE345902](DE345902.md) | 1921-12-19 | Germany | Ges, Fried Krupp Akt | Printing unit for calculating machines |
 | [DE345961](DE345961.md) | 1921-12-20 | Germany |  | Ribbon switching device for ribbon printing devices with reciprocating pressure roller |
 | [DE346002](DE346002.md) | 1921-12-21 | Germany |  | Inking device for printing forms with intermittently switched ink ribbon |
+| [JP43117](JP43117.md) | 1921-12-21 | Japan | The Noiseless Typewriter Company | Typewriter |
 | [DE346067](DE346067.md) | 1921-12-22 | Germany | Simon, Erwin | Maschine zur Erzielung einer der Schreibmaschinenschrift aehnlichen Schrift auf dem Vervielfaeltigungswege |
+| [JP64651](JP64651.md) | 1921-12-22 | Japan | The Noiseless Typewriter Company | Frame-shifting mechanism in a typewriter |
+| [JP80962](JP80962.md) | 1921-12-31 | Japan | Gesellschaft, Polygraphische | Printing machine |
 | [DE346585](DE346585.md) | 1922-01-03 | Germany | Co, Underwood Typewriter | tab |
 | [DE346586](DE346586.md) | 1922-01-04 | Germany | Co, Underwood Typewriter | Key lever bearing |
 | [DE346702](DE346702.md) | 1922-01-05 | Germany | Gruetzmann, Heinrich | Column adjuster |
@@ -7122,6 +7161,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE376721](DE376721.md) | 1923-06-02 | Germany | Co, Underwood Typewriter | typewriter |
 | [DE376723](DE376723.md) | 1923-06-04 | Germany | Lantos, Bernhard | Device for making typewriter writing visible without a ribbon |
 | [DE376820](DE376820.md) | 1923-06-06 | Germany | Kramer, Paul | Einrichtung an Moebeln zum Versenken der Aufstellplatte fuer Schreibmaschinen u. dgl. |
+| [JP60142](JP60142.md) | 1923-06-06 | Japan | Sugihara, Jinzō | Japanese-script typewriter |
 | [DE376722](DE376722.md) | 1923-06-07 | Germany | Co, Underwood Typewriter | Stroke adjustment device for the ribbon guide |
 | [DE377030](DE377030.md) | 1923-06-08 | Germany |  | Type cylinder typewriter with letter board and setting pointer |
 | [DE377031](DE377031.md) | 1923-06-08 | Germany | Co, Underwood Typewriter | Switching device for the platen |
@@ -7141,6 +7181,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE378166](DE378166.md) | 1923-07-06 | Germany | Winklhofer, Wanderer Werke Vorm | Device for reversing the longitudinal movement of the ribbon in calculating &hellip; |
 | [DE378167](DE378167.md) | 1923-07-07 | Germany | Dalichau, Hans | Rechenmaschine |
 | [JP63658](JP63658.md) | 1923-07-18 | Japan | Komatsu, Kiichirō | Printing device for a typewriter |
+| [JP60291](JP60291.md) | 1923-07-27 | Japan | Aoyagi, Eiji | Printing element of a typewriter |
 | [DE378775](DE378775.md) | 1923-08-01 | Germany | Weidmann, Hubert | Alarmsicherung fuer Schreibmaschinen, bei welcher ein mit Antriebsfeder versehenes Laeutewerk durch Abheben der Maschine von ihrer Unterlage ausgeloest wird |
 | [DE379054](DE379054.md) | 1923-08-11 | Germany | Ag, Anker Werke | Hebelregistrierkasse zum Drucken von Einzelbetraegen und Endsummen |
 | [DE378950](DE378950.md) | 1923-08-16 | Germany | Wenzel, Carl | Puffer- oder Stossdaempfervorrichtung |
@@ -7325,6 +7366,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE396317](DE396317.md) | 1924-05-28 | Germany | Co, Ncr | Schaltvorrichtung fuer den Kontrollstreifen an Registrierkassen |
 | [DE396224](DE396224.md) | 1924-05-30 | Germany | Lebeis, Martin | Arrangement of punched characters for punched strips for automatic drives, &hellip; |
 | [DE396581](DE396581.md) | 1924-06-04 | Germany | H, Bueromoebel Fabriken M B | Schreibtisch mit Schreibmaschinenversenkvorrichtung |
+| [JP61217](JP61217.md) | 1924-06-04 | Japan | Shimada, Minokichi | Typewriter for both Japanese and English text |
 | [DE396742](DE396742.md) | 1924-06-10 | Germany | Co, Ncr | Registrierkasse mit Druckvorrichtung |
 | [JP62663](JP62663.md) | 1924-06-18 | Japan | Murakami, Masaomi | Typewriter |
 | [DE397326](DE397326.md) | 1924-06-19 | Germany | Zientek, Josef | Interchangeable eraser for typewriters |
@@ -7470,6 +7512,9 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE409999](DE409999.md) | 1925-02-20 | Germany | Reisser, Adolf | Typewriter frame |
 | [DE410110](DE410110.md) | 1925-02-23 | Germany | Schlesinger, Alfred | Verfahren zur Herstellung von Stereotypiematrizen mittels einer Schreibmaschine |
 | [DE410548](DE410548.md) | 1925-02-28 | Germany | Menzel, Martin | Ribbon reel |
+| [JP70471](JP70471.md) | 1925-03-06 | Japan | Aoyagi, Eiji | Electromagnetic printing machine |
+| [JP70475](JP70475.md) | 1925-03-06 | Japan | Aoyagi, Eiji | Electromagnetic printing machine |
+| [JP70477](JP70477.md) | 1925-03-06 | Japan | Aoyagi, Eiji | Electromagnetic printing machine |
 | [DE410269](DE410269.md) | 1925-03-07 | Germany | Winklhofer, Wanderer Werke Vorm | Vorrichtung zum Drucken von Zahlen, die nicht addiert oder subtrahiert werden |
 | [DE410547](DE410547.md) | 1925-03-10 | Germany | Co, Underwood Typewriter | Line switch |
 | [DE410777](DE410777.md) | 1925-03-13 | Germany |  | Guide for typewriters |
@@ -7500,15 +7545,17 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE412416](DE412416.md) | 1925-04-21 | Germany | Co, Underwood Typewriter | Typewriter working in conjunction with a calculating machine |
 | [DE412777](DE412777.md) | 1925-04-27 | Germany | Samburg, Maurice | Mit einer Schreibmaschine verbundene Addiermaschine |
 | [DE412930](DE412930.md) | 1925-04-28 | Germany | Co, Remington Typewriter | Typewriter with an accent type lever |
+| [JP67194](JP67194.md) | 1925-04-29 | Japan | La Pegna, Raffaello | Duplex (multiple) typewriter |
 | [DE413104](DE413104.md) | 1925-05-01 | Germany | Co, Ncr | Druckvorrichtung fuer Registrierkassen |
 | [DE413322](DE413322.md) | 1925-05-08 | Germany | Jaenisch, Ernst | Kraftfahrzeug, insbesondere Motorrad, bei welchem der Motor nebst Zubehoer in einem in senkrechter Ebene geteilten Gehaeuse aus zwei flanschenverbundenen Schalen eingeschlossen ist |
 | [DE413385](DE413385.md) | 1925-05-08 | Germany | Fa, Mercedes Buero Maschinen | Automatic or manually activated mechanical carriage return device for &hellip; |
 | [DE413386](DE413386.md) | 1925-05-09 | Germany | Werk, Gundka | Typewriter frame made of sheet metal |
 | [DE408949](DE408949.md) | 1925-05-14 | Germany | Fa, Scherbius & Ritter | Braking device for rotating type wheels |
 | [JP66476](JP66476.md) | 1925-05-18 | Japan | Akimoto, Takejirō | Printing machine |
+| [JP66208](JP66208.md) | 1925-05-20 | Japan | Tsukuda, Shōe | Printing device for a typewriter |
 | [DE414031](DE414031.md) | 1925-05-26 | Germany | Osterwald, Albert | Schreibmaschinentisch mit versenkbarer Maschinenplatte |
 | [DE414330](DE414330.md) | 1925-05-28 | Germany | Pegna, Raffaello La | Typewriter for making bookings |
-| [JP65827](JP65827.md) | 1925-05-29 | Japan | Shimada, Minokichi | Continuous printing device for a Japanese-text typewriter |
+| [JP65827](JP65827.md) | 1925-05-29 | Japan | Tōyō Typewriter Co., Ltd. | Continuous printing device for a Japanese-text typewriter |
 | [DE414430](DE414430.md) | 1925-06-02 | Germany | Stroedel, Georg A | Sheet music printing machine with type disc and cross support as workpiece &hellip; |
 | [DE414308](DE414308.md) | 1925-06-03 | Germany | W, Mercedes Buero Maschinen Und | Postcard holder for typewriters |
 | [DE414329](DE414329.md) | 1925-06-03 | Germany | Fa, Weilwerke Akt Ges | Device for the longitudinal movement of the ribbon of typewriters and &hellip; |
@@ -7544,6 +7591,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE412886](DE412886.md) | 1925-07-17 | Germany |  | Typewriter |
 | [DE416568](DE416568.md) | 1925-07-20 | Germany | Ges, Carl Lindstroem Akt | Druckwerk fuer Rechenmaschinen |
 | [JP67025](JP67025.md) | 1925-07-29 | Japan | Tsukuda, Shōe | Typewriter |
+| [JP67842](JP67842.md) | 1925-07-29 | Japan | Aoyagi, Eiji | Typewriter |
 | [DE416919](DE416919.md) | 1925-07-31 | Germany |  | Typewriter and card punch |
 | [DE417061](DE417061.md) | 1925-08-04 | Germany | Inc, Royal Typewriter Co | Typewriter with intermediate lever drive |
 | [DE417062](DE417062.md) | 1925-08-04 | Germany | Fa, Weilwerke Akt Ges | Recoil device for the type lever of typewriters |
@@ -7558,7 +7606,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE417733](DE417733.md) | 1925-08-20 | Germany | Ge, Triumph Werke Nuernberg Akt | Key lever bearing for typewriters |
 | [DE417734](DE417734.md) | 1925-08-20 | Germany | F, A E G Deutsche Werke Akt Ges | Type lever support for typewriters and calculators |
 | [DE409648](DE409648.md) | 1925-08-27 | Germany | Hahn, Martin | Doppelampulle |
-| [JP66710](JP66710.md) | 1925-09-02 | Japan | Shimada, Minokichi | Improvement in the continuous printing device for a Japanese-text typewriter |
+| [JP66710](JP66710.md) | 1925-09-02 | Japan | Tōyō Typewriter Co., Ltd. | Improvement in the continuous printing device for a Japanese-text typewriter |
 | [DE418388](DE418388.md) | 1925-09-05 | Germany | Co, Underwood Typewriter | Inhibiting device for the feed movement of the paper cart of typewriters |
 | [DE418444](DE418444.md) | 1925-09-06 | Germany |  | Typewriter |
 | [DE419315](DE419315.md) | 1925-09-24 | Germany | Maschf, Rheinische Metallw & | Vorrichtung zum Loeschen und Sperren der Tastaturen an Rechen- und Additionsmaschinen |
@@ -7569,7 +7617,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE419961](DE419961.md) | 1925-10-14 | Germany | Ficker, Theodor | Syllable typewriter |
 | [DE420298](DE420298.md) | 1925-10-20 | Germany | Co, Ncr | Ribbon conveyor for cash registers |
 | [DE420397](DE420397.md) | 1925-10-20 | Germany | Winklhofer, Wanderer Werke Vorm | Edge ruler with adjusting slide |
-| [JP67249](JP67249.md) | 1925-10-23 | Japan | Shimada, Minokichi | High-speed Japanese-character typewriter |
+| [JP67249](JP67249.md) | 1925-10-23 | Japan | Tōyō Typewriter Co., Ltd. | High-speed Japanese-character typewriter |
 | [DE420262](DE420262.md) | 1925-10-24 | Germany | Ludwig, Ferdinand | Device for the accelerated solution of arithmetic tasks |
 | [DE420398](DE420398.md) | 1925-10-24 | Germany | Winklhofer, Wanderer Werke Vorm | Ribbon holder for typewriters |
 | [DE420448](DE420448.md) | 1925-10-24 | Germany |  | Line switch for typewriters |
@@ -7642,6 +7690,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE427809](DE427809.md) | 1926-04-14 | Germany |  | Ball holder for paper roll carts of typewriters |
 | [JP69296](JP69296.md) | 1926-04-14 | Japan | Takashima, Kan | Japanese-language typewriter |
 | [DE427733](DE427733.md) | 1926-04-16 | Germany | Lacasse, Valentin | Device for typewriters for underlining and drawing lines |
+| [JP69747](JP69747.md) | 1926-04-23 | Japan | Yamashita, Hikosaburō | Typewriter |
 | [DE428141](DE428141.md) | 1926-04-24 | Germany |  | Switching device for typewriters with upward and downward movable type lever &hellip; |
 | [DE428227](DE428227.md) | 1926-04-27 | Germany | Co, Underwood Typewriter | Roller storage for the writing carriage |
 | [DE428298](DE428298.md) | 1926-04-30 | Germany | B, Elek Sche Schreibmaschinen M | Types for typewriter writing |
@@ -7793,6 +7842,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE442700](DE442700.md) | 1927-04-08 | Germany | Fa, Alfred Ransmayer | Verfahren und Maschine zum Praegen in Gesenken |
 | [DE442891](DE442891.md) | 1927-04-09 | Germany | F, Naehmaschinen Und Fahrraeder | Paper guide for accounting typewriters |
 | [DE442844](DE442844.md) | 1927-04-12 | Germany | Winklhofer, Wanderer Werke Vorm | Mechanical drive device for writing and similar machines |
+| [JP73604](JP73604.md) | 1927-04-25 | Japan | Uchiyama, Michirō | Curved lever for a Japanese-script typewriter |
 | [DE443474](DE443474.md) | 1927-04-27 | Germany | Jun, Heinrich Hartung | Schreibmaschinentisch mit in der Hoehe einstellbarer Tragplatte fuer die Schreibmaschine sowie mit umlegbarer und einschiebbarer Vorderwand |
 | [DE443576](DE443576.md) | 1927-04-27 | Germany | Winklhofer, Wanderer Werke Vorm | Device for the longitudinal movement of the ribbon of typewriters |
 | [DE443675](DE443675.md) | 1927-04-29 | Germany | Fiala, Karl | Manuscript holder for typewriters |
@@ -7804,6 +7854,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [JP73882](JP73882.md) | 1927-05-18 | Japan | Uchiyama, Michirō | Method of printing European types of various widths with even gaps on a Japanese-script typewriter |
 | [DE444519](DE444519.md) | 1927-05-24 | Germany | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters |
 | [DE444853](DE444853.md) | 1927-05-30 | Germany | Ag, Anker Werke | Registrierkasse |
+| [JP73268](JP73268.md) | 1927-06-01 | Japan | Nishimatsu, Kikujirō | Printing machine |
 | [DE444995](DE444995.md) | 1927-06-02 | Germany | Co, Ncr | Druckvorrichtung fuer Registrierkassen mit seitlich verschiebbarem Betragstypenraedersatz |
 | [DE445077](DE445077.md) | 1927-06-03 | Germany | Ges, Mebus Maschb | Revolverlochzange zum Lochen von Leder und anderen Stoffen |
 | [JP73560](JP73560.md) | 1927-06-03 | Japan | Kataoka, Kōtarō | Japanese-script typewriter |
@@ -7821,6 +7872,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE446573](DE446573.md) | 1927-07-06 | Germany | Co, Ncr | Registrierkassen-Druckvorrichtung |
 | [DE446574](DE446574.md) | 1927-07-06 | Germany | Co, Ncr | Tastenhebel-Registrierkasse mit Einzelbetrag- und Summendruckvorrichtung |
 | [DE446572](DE446572.md) | 1927-07-07 | Germany | Co, Ncr | Registrierkassen-Druckvorrichtung, bei welcher der eingelegte Belegschein durch eine mit der Druckhammersperrung zusammenwirkende Fuehlvorrichtung abgetastet wird |
+| [JP74087](JP74087.md) | 1927-07-08 | Japan | Ōtani, Tamotsu | Printing mechanism of a printing machine |
 | [DE446799](DE446799.md) | 1927-07-09 | Germany | Gaar, Georg | Sound-absorbing foot pad for typewriters |
 | [DE446798](DE446798.md) | 1927-07-11 | Germany | Liegener, Luise Milling Geb | Device on typewriters and calculating machines for importing and exporting &hellip; |
 | [DE446800](DE446800.md) | 1927-07-11 | Germany | Nestler, Curt | Automatic type cleaner for typewriters |
@@ -7849,6 +7901,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE449536](DE449536.md) | 1927-09-16 | Germany | H, Clusor G M B | Device for layering sheets of paper one on top of the other |
 | [DE449407](DE449407.md) | 1927-09-17 | Germany | Ag, Triumph Werke Nuernberg | Paper guide for typewriters |
 | [DE450035](DE450035.md) | 1927-09-27 | Germany | Winklhofer, Wanderer Werke Vorm | Vorrichtung zum Verdecken der Tastatur bei Schreibmaschinen |
+| [JP75116](JP75116.md) | 1927-09-30 | Japan | Inoue, Jin | Kana typewriter |
 | [DE450249](DE450249.md) | 1927-10-04 | Germany | G, Optische Anstalt C P Goerz A | Type box for printing devices, especially calculating machines |
 | [DE450248](DE450248.md) | 1927-10-06 | Germany | Cash, Ekron Adding Machine And | Selbsttaetige Merkzeichen-Druck-, Kontrollstreifen-Abschneide- und -Transportvorrichtung fuer eine vereinigte Duplex-Addiermaschine und Registrierkasse oder aehnliche Maschinen |
 | [DE450288](DE450288.md) | 1927-10-06 | Germany | Stiebel, Drpl Theodor | Type typing machine with power drive |
@@ -7891,7 +7944,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE453322](DE453322.md) | 1927-12-03 | Germany | Co, Underwood Typewriter | Typewriter with a sound-absorbing housing |
 | [DE453510](DE453510.md) | 1927-12-08 | Germany | H, Erich F Huth G M B | Device for moving printing types, punching, stamping or the like. |
 | [DE453512](DE453512.md) | 1927-12-08 | Germany | Co, Remington Typewriter | Typewriter with a center lock that fixes the paper carriage in the center &hellip; |
-| [JP76007](JP76007.md) | 1927-12-09 | Japan | Katō, Kenjirō | Vertical (column) feed device for a typewriter |
+| [JP76007](JP76007.md) | 1927-12-09 | Japan | Nippon Typewriter Co., Ltd. | Vertical (column) feed device for a typewriter |
 | [DE452587](DE452587.md) | 1927-12-10 | Germany | Weiskopf, Otto | Vorrichtung zum selbsttaetigen Zurueckziehen des Schreib- und Rechenschlittens an Schreibrechenmaschinen |
 | [DE453509](DE453509.md) | 1927-12-10 | Germany | G, Typar Co A | Type setting device for line typing, line setting machines or the like. |
 | [DE453511](DE453511.md) | 1927-12-10 | Germany | Ges, Feinmechanik G M B H | Inking device for types of typewriters and similar machines |
@@ -7905,7 +7958,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE454400](DE454400.md) | 1928-01-07 | Germany | Me, Fahrradfabrik Rhenania Carl | Verloeten von mit ihren Enden ineinandergesteckten Rohren |
 | [DE454808](DE454808.md) | 1928-01-16 | Germany | Ag, Anker Werke | Einstellvorrichtung fuer die Betragstypen bei Registrierkassen mit umlaufender Druckwalze |
 | [DE454749](DE454749.md) | 1928-01-17 | Germany |  | Letter switching device for powered typewriters |
-| [JP77019](JP77019.md) | 1928-01-18 | Japan | Uchiyama, inventors Michirō | Typewriter with automatically changing character spacing |
+| [JP77019](JP77019.md) | 1928-01-18 | Japan | Tanshiki Insatsu K.K. | Typewriter with automatically changing character spacing |
 | [DE454288](DE454288.md) | 1928-01-19 | Germany |  | Clear checking device for typewriters with a transverse counter |
 | [DE454289](DE454289.md) | 1928-01-19 | Germany |  | Typewriter |
 | [DE455061](DE455061.md) | 1928-01-23 | Germany | W, Mercedes Buero Maschinen Und | Device for the automatic switching off of mechanically driven typewriters, &hellip; |
@@ -7927,7 +7980,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE455947](DE455947.md) | 1928-02-13 | Germany | G, Weilwerke A | Flat edge stop for the car of typewriters or similar machines |
 | [DE456355](DE456355.md) | 1928-02-21 | Germany | Ag, Daimler Benz | Arrangement of type lever bearing segment and intermediate lever bearing &hellip; |
 | [DE456357](DE456357.md) | 1928-02-21 | Germany | Koehler, Max | Interchangeable button for office machines |
-| [JP77326](JP77326.md) | 1928-02-22 | Japan | Katō, Kenjirō | Horizontal (sideways) feed device for a typewriter |
+| [JP77326](JP77326.md) | 1928-02-22 | Japan | Nippon Typewriter Co., Ltd. | Horizontal (sideways) feed device for a typewriter |
 | [DE456356](DE456356.md) | 1928-02-23 | Germany | Ag, Daimler Benz | Switching device for the ribbon drive of typewriters |
 | [DE456486](DE456486.md) | 1928-02-24 | Germany | Fa, Bernhard Koehler | Stempelvorrichtung |
 | [DE456533](DE456533.md) | 1928-02-25 | Germany | Co, Ncr | An- und abstellbare Scheckausgabevorrichtung fuer Registrierkassen |
@@ -7976,11 +8029,11 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE462094](DE462094.md) | 1928-07-04 | Germany | Burkhardt, Robert | Device on typewriters for combining a main sheet and several account sheets |
 | [DE462095](DE462095.md) | 1928-07-04 | Germany | Ag, Triumph Werke Nuernberg | Paper holder for typewriters |
 | [DE462096](DE462096.md) | 1928-07-04 | Germany | Liess, Andreas | Auxiliary device for type lever typewriters |
-| [JP79268](JP79268.md) | 1928-07-06 | Japan | Katō, Kenjirō | Typewriter for certificates |
+| [JP79268](JP79268.md) | 1928-07-06 | Japan | Nippon Typewriter Co., Ltd. | Typewriter for certificates |
 | [DE462359](DE462359.md) | 1928-07-10 | Germany | Ag, Triumph Werke Nuernberg | Decimal tab for typewriters |
 | [DE462360](DE462360.md) | 1928-07-10 | Germany | Inc, Royal Typewriter Co | Switching device for typewriters |
 | [DE462482](DE462482.md) | 1928-07-12 | Germany | Otto, Werner | Relais, insbesondere zur Strombegrenzung mit auf Quecksilber als Kontaktfluessigkeit wirkendem elektromagnetisch bewegten Verdraenger |
-| [JP80138](JP80138.md) | 1928-07-13 | Japan | Kataoka, Kōtarō | Japanese-script typewriter |
+| [JP80138](JP80138.md) | 1928-07-13 | Japan | Ōtani, Nihei | Japanese-script typewriter |
 | [DE462586](DE462586.md) | 1928-07-14 | Germany | Ges, Fried Krupp Akt | Zeileneinstellvorrichtung fuer Belegzettel an Registrierkassen |
 | [DE462656](DE462656.md) | 1928-07-14 | Germany | Kaeppler, Paul | Ribbon fork drive for typewriters |
 | [DE462684](DE462684.md) | 1928-07-14 | Germany | Geb, Weinitschke | Schreibende Rechenmaschine |
@@ -8014,7 +8067,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE465299](DE465299.md) | 1928-09-15 | Germany | Kassner, Ernst | Ribbon guide for cash registers, calculating machines, etc. like |
 | [DE465427](DE465427.md) | 1928-09-17 | Germany | Co, Remington Typewriter | Typewriter with tabulator and power drive for automatic return of the car |
 | [DE465500](DE465500.md) | 1928-09-19 | Germany | Winklhofer, Wanderer Werke Vorm | Paper roll unwinding device for typewriters u. like |
-| [JP79547](JP79547.md) | 1928-09-19 | Japan | Shimada, Minokichi | Cylindrical type magazine for a Japanese-script typewriter |
+| [JP79547](JP79547.md) | 1928-09-19 | Japan | Tōyō Typewriter Co., Ltd. | Cylindrical type magazine for a Japanese-script typewriter |
 | [DE465573](DE465573.md) | 1928-09-20 | Germany | Inc, Royal Typewriter Co | Drive device for the type lever of typewriters |
 | [DE465575](DE465575.md) | 1928-09-20 | Germany | Kaeppler, Paul | Lightweight typewriter |
 | [DE465574](DE465574.md) | 1928-09-22 | Germany | Ag, Triumph Werke Nuernberg | Bureau machine with manual and power drive |
@@ -8046,11 +8099,12 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE469041](DE469041.md) | 1928-11-29 | Germany | Milkiewicz, Jakob | Key button for typing, calculating and similar machines and apparatus |
 | [DE469130](DE469130.md) | 1928-12-03 | Germany | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters |
 | [DE469129](DE469129.md) | 1928-12-04 | Germany | Inc, Royal Typewriter Co | Card guide device for typewriters |
+| [JP81344](JP81344.md) | 1928-12-05 | Japan | Matsumoto, Eiichi | Printing device |
 | [DE469294](DE469294.md) | 1928-12-06 | Germany | Bergmann, Jean | Rechenvorrichtung mit Druckvorrichtung, Einstell- und Kontrollgliedern |
 | [DE469382](DE469382.md) | 1928-12-08 | Germany | Zangenberg, Ludwig Walther | Paper carriage switching device for typewriters |
 | [JP81180](JP81180.md) | 1928-12-10 | Japan | Inoue, Jin | Continuous copying device for typewriters |
 | [DE469383](DE469383.md) | 1928-12-14 | Germany | Post, Otto | Winding and tensioning device for paper webs on typewriters and calculating &hellip; |
-| [JP81625](JP81625.md) | 1928-12-14 | Japan | Kataoka, Kōtarō | Sideways-feed device for a Japanese-script typewriter |
+| [JP81625](JP81625.md) | 1928-12-14 | Japan | Ōtani, Nihei | Sideways-feed device for a Japanese-script typewriter |
 | [DE469608](DE469608.md) | 1928-12-18 | Germany | Persson, Gottfrid | Einrichtung zum geraeuschlosen Zurueckfuehren des Papierschlittens von Schreibmaschinen |
 | [DE469705](DE469705.md) | 1928-12-18 | Germany | Pinckert, Friedrich | Vorrichtung zum Pruefen von Kohlepapier und Farbbaendern |
 | [DE469811](DE469811.md) | 1928-12-21 | Germany | Geoffrey, Wheeler | Verfahren zur Behandlung photographischer Silberbilder auf Platten, Filmen o. dgl. |
@@ -8073,11 +8127,12 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE472561](DE472561.md) | 1929-03-02 | Germany | Mueller, Wessel & | Deckelstuetze, insbesondere fuer Sprechmaschinengehaeuse |
 | [DE472664](DE472664.md) | 1929-03-04 | Germany | Ag, Anker Werke | Registrierkasse mit einfacher und doppelter Scheckausgabe |
 | [DE472706](DE472706.md) | 1929-03-04 | Germany | M, Hentzschel Elektro Bucher G | Elektrische Ferneinstellvorrichtung fuer Datumraedchen |
-| [JP82670](JP82670.md) | 1929-03-06 | Japan | Uchiyama, inventors Michirō | Character-spacing adjusting device for a Japanese-script typewriter |
+| [JP82670](JP82670.md) | 1929-03-06 | Japan | Tanshiki Insatsu K.K. | Character-spacing adjusting device for a Japanese-script typewriter |
 | [DE472983](DE472983.md) | 1929-03-08 | Germany |  | Typewriter |
 | [DE473035](DE473035.md) | 1929-03-09 | Germany | B, Elek Sche Schreibmaschinen M | Switching device for the paper trolley of typewriters |
 | [DE474083](DE474083.md) | 1929-03-26 | Germany | G, Bing Werke Vorm Gebr Bing A | Transport lock for typewriters |
 | [DE473945](DE473945.md) | 1929-03-28 | Germany | App, Beldam Werke Maschinen Und | Kurvenscheibe mit verstellbarer Schubkurve und Vorrichtung zur Einstellung der Schubkurve |
+| [JP82321](JP82321.md) | 1929-03-29 | Japan | Frank, L. | European-script printing machine |
 | [DE474562](DE474562.md) | 1929-04-05 | Germany | Inc, Royal Typewriter Co | Paper support plate with an upper part that can be folded back to expose the &hellip; |
 | [DE474865](DE474865.md) | 1929-04-10 | Germany | Blaesing, Heinrich | Template holder for office machines |
 | [DE474866](DE474866.md) | 1929-04-11 | Germany | Blaesing, Heinrich | Template holder for office machines with a line indicator arranged on a slide &hellip; |
@@ -8105,7 +8160,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE477380](DE477380.md) | 1929-06-06 | Germany | Jun, Adolf Zoellin | Vorrichtung zum Auf- oder Abwickeln von Papierstreifen in stets gleichbleibenden Wegstrecken, z. B. bei Registrierkassen oder bei Schalterfahrkartendruckern |
 | [DE477191](DE477191.md) | 1929-06-07 | Germany | Gansert, Hermann | Registrierkasse mit drehbarem Typenkopf und seitlich verschiebbarem Papierstreifentraeger |
 | [DE477459](DE477459.md) | 1929-06-08 | Germany | Keller, Hermann | Rechnende Schreibmaschine |
-| [JP83663](JP83663.md) | 1929-06-11 | Japan | Uchiyama, inventors Michirō | Paper-cylinder fine-shift and character-spacing adjusting device for a Japanese-script typewriter |
+| [JP83663](JP83663.md) | 1929-06-11 | Japan | Tanshiki Insatsu K.K. | Paper-cylinder fine-shift and character-spacing adjusting device for a Japanese-script typewriter |
 | [JP83146](JP83146.md) | 1929-06-14 | Japan | Iguchi, Ihei | Copying device for a typewriter |
 | [DE477964](DE477964.md) | 1929-06-18 | Germany | Bessler, August | Druckwerk fuer Registrierkassen |
 | [DE478036](DE478036.md) | 1929-06-19 | Germany |  | Electric type printer with tiltable type wheel |
@@ -8116,7 +8171,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE478656](DE478656.md) | 1929-06-29 | Germany | Werke, Mercedes Bueromaschinen | Paper guiding device for typewriters or the like. |
 | [DE478655](DE478655.md) | 1929-07-01 | Germany | Winklhofer, Wanderer Werke Vorm | Carriage guide for typewriters with a round bar |
 | [DE478920](DE478920.md) | 1929-07-04 | Germany | Winklhofer, Wanderer Werke Vorm | Side support for typewriters with a long platen |
-| [JP83937](JP83937.md) | 1929-07-05 | Japan | Katō, Kenjirō | Feed device for a typewriter |
+| [JP83937](JP83937.md) | 1929-07-05 | Japan | Nippon Typewriter Co., Ltd. | Feed device for a typewriter |
 | [DE478821](DE478821.md) | 1929-07-09 | Germany | Co, Ncr | Registrierkasse mit zylindrischem Tastenfeld und einer durch Sondertasten beeinflussten Druckvorrichtung zur wahlweise erfolgenden Ausgabe eines Schecks oder einer Rechnung |
 | [DE479530](DE479530.md) | 1929-07-17 | Germany |  | Typewriter |
 | [DE479848](DE479848.md) | 1929-07-23 | Germany | Co, Underwood Elliott Fisher | Typewriter, in which the paper roller carriage is moved back to the starting &hellip; |
@@ -8152,6 +8207,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE483249](DE483249.md) | 1929-10-02 | Germany | Co, Burroughs Adding Machine | Druckwerk fuer Rechenmaschinen |
 | [DE483642](DE483642.md) | 1929-10-03 | Germany | Milling, Hans | Device for holding collective sheets in typewriters and calculating machines |
 | [DE483940](DE483940.md) | 1929-10-07 | Germany | Wallenstein, Alfred | Type lever for typewriters |
+| [JP86077](JP86077.md) | 1929-10-07 | Japan | Betsuyaku, Man'ai | Printing machine |
 | [JP86009](JP86009.md) | 1929-10-11 | Japan | Shimada, Minokichi | Japanese-script typewriter |
 | [DE483927](DE483927.md) | 1929-10-14 | Germany | D, Maschines A Ecrire Map Soc | Paper carriage switching device for typewriters |
 | [DE484001](DE484001.md) | 1929-10-15 | Germany | G, A E G Deutsche Werke A | Chiffriereinrichtung mit periodischem Wechsel der Grundstellung fuer Schreibmaschinen mit Typenfeld, Einstellzeiger und Typenwalze |
@@ -8159,6 +8215,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE485157](DE485157.md) | 1929-10-26 | Germany |  | Drive and control mechanism for the arithmetic unit of typewriters |
 | [DE485374](DE485374.md) | 1929-10-30 | Germany | Verlags, Athenaeum | Workbench for note typewriters |
 | [DE485375](DE485375.md) | 1929-10-30 | Germany | Verlags, Athenaeum | Type arrangement for note typewriters |
+| [JP85509](JP85509.md) | 1929-10-30 | Japan | Katō, Kenjirō | Typewriter |
 | [DE486353](DE486353.md) | 1929-11-13 | Germany | Werke, Mercedes Bueromaschinen | Table writer |
 | [DE486376](DE486376.md) | 1929-11-15 | Germany | Winklhofer, Wanderer Werke Vorm | Federhaus-Aufwickeltrommel fuer das Wagenzugorgan von Rechenmaschinen und aehnlichenMaschinen |
 | [DE486352](DE486352.md) | 1929-11-16 | Germany |  | Device for moving the writing plate of typewriters |
@@ -8216,6 +8273,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE494787](DE494787.md) | 1930-04-03 | Germany | Breitling, Ernst | Kontrollstreifenfoerdervorrichtung an Registrierkassen |
 | [DE495126](DE495126.md) | 1930-04-03 | Germany |  | Device for cutting glass ribbons that are moved in a supporting manner and that are in a warm and plastic state |
 | [DE495259](DE495259.md) | 1930-04-04 | Germany | Geb, Merz | Device for disengaging and engaging the rack on typewriters |
+| [JP87308](JP87308.md) | 1930-04-07 | Japan | Mayer, Paul Otto | Type-wheel printing machine |
 | [USD80881](USD80881.md) | 1930-04-08 | USA | Dowd, Bernard J. | Design for a Mask for Typewriting Machines |
 | [DE495819](DE495819.md) | 1930-04-11 | Germany |  | Device for releasably connecting the cover and the base plate of housings for &hellip; |
 | [DE495823](DE495823.md) | 1930-04-11 | Germany | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine, Rechenmaschine o. dgl. mit Einrichtungen fuer den Abdruck von die Nullstellung der Zaehlwerke anzeigenden Klarzeichen |
@@ -8244,7 +8302,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE498925](DE498925.md) | 1930-05-29 | Germany |  | Switching device for type wheels in counters, time stamps or the like. |
 | [DE498606](DE498606.md) | 1930-05-30 | Germany | Co, Remington Typewriter | Typewriter with a carbon sheet connected to the roller and lateral guide belts &hellip; |
 | [DE498900](DE498900.md) | 1930-05-30 | Germany | Spiegel, Paul | Device for attaching and removing the steel clips used to fasten the ribbon on &hellip; |
-| [JP88414](JP88414.md) | 1930-05-30 | Japan | Yokota, Masao | Printing machine |
+| [JP88414](JP88414.md) | 1930-05-30 | Japan | Shimada, Minokichi | Printing machine |
 | [DE499508](DE499508.md) | 1930-06-07 | Germany | A, Ransmayer A & Rodrian | Process for the production of matrices for typewriter types with a recessed &hellip; |
 | [DE499762](DE499762.md) | 1930-06-12 | Germany | Mach, Accounting And Tabulating | Verbindung einer Kartenlochmaschine mit einer Registriermaschine (Schreibmaschine, Rechenmaschine o. dgl.) |
 | [DE499864](DE499864.md) | 1930-06-13 | Germany | Ag, Triumph Werke Nuernberg | Umschaltvorrichtung an mit einem Rechenwerk ausgestatteten Schreibmaschinen |
@@ -8336,17 +8394,18 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE512139](DE512139.md) | 1930-11-08 | Germany | Winklhofer, Wanderer Werke Vorm | Paper roll with lines for typewriters |
 | [DE512140](DE512140.md) | 1930-11-08 | Germany | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters |
 | [DE512141](DE512141.md) | 1930-11-08 | Germany | Winklhofer, Wanderer Werke Vorm | Typewriter with a removable paper trolley |
-| [JP90195](JP90195.md) | 1930-11-12 | Japan | Katō, Kenjirō | Sideways-feed (line-change) device in a Japanese-script typewriter |
+| [JP90195](JP90195.md) | 1930-11-12 | Japan | Nippon Typewriter Co., Ltd. | Sideways-feed (line-change) device in a Japanese-script typewriter |
 | [DE512569](DE512569.md) | 1930-11-13 | Germany | Eckland, Emil Otto | Device for dyeing ribbons on typewriters |
 | [DE512870](DE512870.md) | 1930-11-18 | Germany |  | Typewriter with several transverse summing units |
 | [DE513129](DE513129.md) | 1930-11-22 | Germany | Inc, Royal Typewriter Co | Type lever drive device for typewriters |
 | [DE513464](DE513464.md) | 1930-11-27 | Germany | Kaddatz, Arthur | Device on typewriters for line-by-line filing of sheets with perforated edges |
 | [DE501988](DE501988.md) | 1930-11-28 | Germany | Mach, Accounting And Tabulating | Einstellvorrichtung an Rechenwerken, insbesondere fuer statistische Tabelliermaschinen |
 | [DE513881](DE513881.md) | 1930-12-04 | Germany | Linstrom, Eric Brother | Fixing device for typewriters on the table top |
-| [JP91083](JP91083.md) | 1930-12-08 | Japan | Shima, Matakichi | Japanese-script typewriter |
+| [JP91083](JP91083.md) | 1930-12-08 | Japan | Tōa Daifu Kōshi K.K. | Japanese-script typewriter |
 | [DE514252](DE514252.md) | 1930-12-10 | Germany | Zinn, Julius | Font holder for typewriters |
 | [DE514540](DE514540.md) | 1930-12-14 | Germany |  | Device for temporarily ineffective the clear character printing device on typewriters u. like |
 | [DE514749](DE514749.md) | 1930-12-17 | Germany | G, Kienzle Taxameter Und App A | Device for driving a letter counter on typewriters and similar machines |
+| [JP91477](JP91477.md) | 1930-12-26 | Japan | Egawa, Yoshimitsu | Power-driven rotary printing machine |
 | [DE515469](DE515469.md) | 1931-01-05 | Germany | Co, Underwood Elliott Fisher | Edge limiting device for typewriters |
 | [DE515809](DE515809.md) | 1931-01-13 | Germany | Matheis, Franz | Lern- und UEbungstastatur fuer das Schreibmaschinenschreiben |
 | [DE516204](DE516204.md) | 1931-01-20 | Germany | Co, Ncr | Einrichtung an Registrierkassen und aehnlichen Maschinen, um das Einfuehren von Scheckstreifen zu erleichtern |
@@ -8456,13 +8515,14 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE530898](DE530898.md) | 1931-08-03 | Germany | Co, Underwood Elliott Fisher | Momentary switch for typewriters with a carriage retraction motor |
 | [DE492816](DE492816.md) | 1931-08-07 | Germany | Knoll, Hans | Rechenmaschine |
 | [DE531678](DE531678.md) | 1931-08-13 | Germany | Moehler, Erhard | Verfahren zur Herstellung von Druckformen mit buchdruckaehnlicher Schrift mittels Schreibmaschine |
+| [JP93910](JP93910.md) | 1931-08-19 | Japan | Sekiguchi | Type-selecting device for typesetting, distributing type, and printing machines |
 | [JP94273](JP94273.md) | 1931-08-24 | Japan | Ishii, Shōkichi | European-style Japanese-language typewriter |
 | [DE532026](DE532026.md) | 1931-08-25 | Germany | Maschf, Kappel | Device for the noiseless return of the paper cart to typewriters |
 | [DE517214](DE517214.md) | 1931-09-01 | Germany | G, Astra Werke A | Invoicing and booking machine |
 | [DE532275](DE532275.md) | 1931-09-02 | Germany | Junkers, Hugo | Nockentrieb mit neben dem Nocken liegender zylindrischer, zur Nockenwelle gleichachsiger Ruhebahn |
 | [DE532787](DE532787.md) | 1931-09-02 | Germany | Maschf, Kappel | Device for adjusting and resetting the column stops on typewriters |
 | [DE532788](DE532788.md) | 1931-09-07 | Germany | G, Weilwerke A | Papierwagenschaltvorrichtung fuer Schreibmaschinen mit ausschwingbaren, abwechselnd in das Hemmrad eingreifenden paarigen Klinken |
-| [JP93912](JP93912.md) | 1931-09-09 | Japan | Iisaku, Takichirō | Paper-cylinder vertical (column) feed device for a Japanese typewriter |
+| [JP93912](JP93912.md) | 1931-09-09 | Japan | Tōyō Typewriter Co., Ltd. | Paper-cylinder vertical (column) feed device for a Japanese typewriter |
 | [DE533594](DE533594.md) | 1931-09-17 | Germany | G, Europa Schreibmaschinen A | Paper guide for typewriters |
 | [DE533697](DE533697.md) | 1931-09-17 | Germany | Co, Dictatype Shorthand Machine | Typewriter for simultaneous typing of several types |
 | [DE533854](DE533854.md) | 1931-09-19 | Germany | Gmbh, Mergenthaler Setzmaschfab | Device for producing cast lines, in which negative lines are embossed from a &hellip; |
@@ -8471,14 +8531,14 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE533944](DE533944.md) | 1931-09-21 | Germany | Winklhofer, Wanderer Werke Vorm | Device on typewriters for writing on stencil cards u. like |
 | [DE534406](DE534406.md) | 1931-09-28 | Germany | Co, Underwood Elliott Fisher | Center lock for portable typewriters |
 | [DE534649](DE534649.md) | 1931-09-30 | Germany | Jarecki, Georg | Device for folding original, carbon and carbon paper in the order required for &hellip; |
-| [JP94148](JP94148.md) | 1931-09-30 | Japan | Katō, Kenjirō | Index-plate operating device for a Japanese-script typewriter |
+| [JP94148](JP94148.md) | 1931-09-30 | Japan | Nippon Typewriter Co., Ltd. | Index-plate operating device for a Japanese-script typewriter |
 | [JP95068](JP95068.md) | 1931-10-02 | Japan | Ishikawa, Toyoji | Japanese-script printing machine |
 | [DE535258](DE535258.md) | 1931-10-08 | Germany | Inhoffen, Walther | Typewriter tab |
 | [DE535361](DE535361.md) | 1931-10-09 | Germany | Co, Dictatype Shorthand Machine | Keyboard for typewriters to hit several types at the same time |
 | [DE535362](DE535362.md) | 1931-10-09 | Germany | Werke, Mercedes Bueromaschinen | Paper guide device for typewriters |
 | [DE535363](DE535363.md) | 1931-10-09 | Germany | H, Iris Type G M B | Type body for typewriters |
 | [DE535579](DE535579.md) | 1931-10-13 | Germany | Co, Ncr | Cash register or accounting machine with a line feed device for accounting &hellip; |
-| [JP94690](JP94690.md) | 1931-10-14 | Japan | Kataoka, Kōtarō | Japanese-language typewriter |
+| [JP94690](JP94690.md) | 1931-10-14 | Japan | Yamamoto, Masaharu | Japanese-language typewriter |
 | [DE535580](DE535580.md) | 1931-10-16 | Germany |  | Printing business machine controlled by punch cards |
 | [DE535861](DE535861.md) | 1931-10-16 | Germany | Corp, Barr Morse | Type lever drive for typewriters |
 | [DE535911](DE535911.md) | 1931-10-16 | Germany | Bauer, Emil | Lichtschreibmaschine |
@@ -8487,14 +8547,16 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE535890](DE535890.md) | 1931-10-22 | Germany | Co, Ncr | Registrierkasse oder Buchungsmaschine mit Scheckausgabe und Zetteldruck |
 | [DE536364](DE536364.md) | 1931-10-22 | Germany | Winklhofer, Wanderer Werke Vorm | Paper guide for typewriters and calculating machines |
 | [DE536682](DE536682.md) | 1931-10-23 | Germany |  | Druckvorrichtung an Tabelliermaschinen |
+| [JP94664](JP94664.md) | 1931-10-23 | Japan | Miwa, Mataichi | Crank-type typewriter |
 | [DE536814](DE536814.md) | 1931-10-26 | Germany | Inc, Elektromatic Typewriters | Typewriter with a continuously rotating drive roller and lifting disks that &hellip; |
 | [DE536895](DE536895.md) | 1931-10-26 | Germany | Inc, Royal Typewriter Co | Reverse gear clutch for typewriters |
 | [DE536896](DE536896.md) | 1931-10-26 | Germany | Bing, Bing Werke Vorm Gebrueder | Paper guiding device for accounting typewriters |
 | [DE536892](DE536892.md) | 1931-10-28 | Germany | Maschinenbau, Adrema | Shock absorber for address plate holder of stamping machines |
 | [DE536894](DE536894.md) | 1931-10-28 | Germany |  | Device for pressing down and smoothing the paper in book typewriters |
-| [JP94713](JP94713.md) | 1931-10-28 | Japan | Iisaku, Takichirō | Paper-cylinder lateral feed device for a Japanese-text typewriter |
+| [JP94713](JP94713.md) | 1931-10-28 | Japan | Tōyō Typewriter Co., Ltd. | Paper-cylinder lateral feed device for a Japanese-text typewriter |
+| [JP95768](JP95768.md) | 1931-10-30 | Japan | Fukumoto, Yoshio | Typewriter |
 | [DE537368](DE537368.md) | 1931-11-02 | Germany | Maschinenbau, Adrema | Adressplattenhalter fuer Praegemaschinen, bei denen die Platte durch einen von Hand zurueckziehbaren Riegel in ihrer Lage gehalten wird |
-| [JP94714](JP94714.md) | 1931-11-02 | Japan | Iisaku, Takichirō | Back-spacing device for the paper-cylinder lateral feed of a Japanese-text typewriter |
+| [JP94714](JP94714.md) | 1931-11-02 | Japan | Tōyō Typewriter Co., Ltd. | Back-spacing device for the paper-cylinder lateral feed of a Japanese-text typewriter |
 | [DE509940](DE509940.md) | 1931-11-05 | Germany | Weissfloch, Konrad Karl | Typewriter with a letter-wise and line-wise switchable paper roller or paper &hellip; |
 | [DE537615](DE537615.md) | 1931-11-05 | Germany | Werke, Mercedes Bueromaschinen | Paper cart switching device with multiple switching for typewriters, &hellip; |
 | [DE537851](DE537851.md) | 1931-11-09 | Germany |  | Car guide for book typewriters |
@@ -8513,13 +8575,14 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE539827](DE539827.md) | 1931-12-01 | Germany |  | Durch Lochkarten gesteuerte Geschaeftsmaschine mit Einrichtung zum Umsetzen von Steuerimpulsen |
 | [DE539645](DE539645.md) | 1931-12-02 | Germany | Mahler, Marie Antonie | Typewriter for the blind |
 | [DE539646](DE539646.md) | 1931-12-02 | Germany | Ag, Vorm Seidel & Naumann | Paper carriage switching device on typewriters |
-| [JP95419](JP95419.md) | 1931-12-04 | Japan | Shimada, Minokichi | Rack device in a right-hand-operated Japanese typewriter with a moving type tray |
+| [JP95419](JP95419.md) | 1931-12-04 | Japan | Tōa Daifu Kōshi K.K. | Rack device in a right-hand-operated Japanese typewriter with a moving type tray |
 | [DE540137](DE540137.md) | 1931-12-07 | Germany | Luce, Hans | Device for checking and producing the correct bending of the type lever head in &hellip; |
 | [DE540076](DE540076.md) | 1931-12-08 | Germany | Haberfeld, Erwin O | Device on typewriters for inserting and setting an account sheet in front of a &hellip; |
 | [DE540170](DE540170.md) | 1931-12-11 | Germany | G, Kienzle Taxameter Und App A | Leistungsmesser, insbesondere fuer Schreibmaschinen, Buchdruckmaschinen und Textilmaschinen |
 | [DE540319](DE540319.md) | 1931-12-15 | Germany | Breitling, Ernst | Druckwerk fuer Buchungsmaschinen |
-| [JP96359](JP96359.md) | 1931-12-21 | Japan | Makabe, Masaya | Typewriter |
+| [JP96359](JP96359.md) | 1931-12-21 | Japan | Nippon Typewriter Co., Ltd. | Typewriter |
 | [DE540613](DE540613.md) | 1931-12-22 | Germany | Sebastian, Friedmann | Ratchet clutch for typewriters and similar machines |
+| [JP96395](JP96395.md) | 1931-12-28 | Japan | Kawahara | Japanese-script typewriter |
 | [DE540844](DE540844.md) | 1931-12-29 | Germany | Ges, Weilwerke Akt | Ribbon guide for typewriters |
 | [DE536717](DE536717.md) | 1931-12-30 | Germany | Geiger, Gustav | Schreibmaschinen-Postkarte mit umlegbarer Anschriftklappe |
 | [DE540843](DE540843.md) | 1931-12-30 | Germany | Anschuetz, Wilhelm | Chiffrier- und Dechiffriervorrichtung fuer Schreibmaschinen |
@@ -8612,6 +8675,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE555009](DE555009.md) | 1932-07-19 | Germany | Jungtow, Otto | Flat typewriter |
 | [DE555243](DE555243.md) | 1932-07-21 | Germany | Werke, Mercedes Bueromaschinen | Fixing device for motors on small machines |
 | [DE555529](DE555529.md) | 1932-07-25 | Germany | Ge, Europa Schreibmaschinen Akt | Paper guiding device for accounting typewriters |
+| [JP99147](JP99147.md) | 1932-07-27 | Japan | Kawakita, Hideo | Indicator board for a typewriter |
 | [DE555947](DE555947.md) | 1932-08-01 | Germany | Pasqualini, Don Guido | Note typewriter |
 | [DE556270](DE556270.md) | 1932-08-06 | Germany | Inc, Royal Typewriter Co | Type bar typewriter |
 | [DE556370](DE556370.md) | 1932-08-09 | Germany | Werke, Mercedes Bueromaschinen | Power-driven switching device for the paper cart of typewriters, typewriters &hellip; |
@@ -8649,6 +8713,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE559529](DE559529.md) | 1932-09-21 | Germany | Co, Remington Typewriter | Paper guiding device on typewriters |
 | [DE559741](DE559741.md) | 1932-09-23 | Germany | Co, Addressograph | Keyboard with a register for pressing the keys, which does not interfere with &hellip; |
 | [DE560417](DE560417.md) | 1932-10-01 | Germany | Radecker, Ludwig | Rollenartig aufgewickelte Streifenkarten |
+| [JP100196](JP100196.md) | 1932-10-01 | Japan | Miwa, Mataichi | Rotary typewriter |
 | [DE560591](DE560591.md) | 1932-10-04 | Germany |  | Self-reversing ribbon switching device, especially for address printing machines |
 | [DE560695](DE560695.md) | 1932-10-06 | Germany | Inc, Royal Typewriter Co | typewriter |
 | [DE561087](DE561087.md) | 1932-10-10 | Germany | G, Europa Schreibmaschinen A | Paper guide for typewriters |
@@ -8714,6 +8779,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE571609](DE571609.md) | 1933-03-02 | Germany | O, Accounting & Tabulating Corp | Tabelliermaschine zum Drucken von Kontoaufstellungen o. dgl. |
 | [DE571798](DE571798.md) | 1933-03-06 | Germany | Fa, Guenther Wagner | Tape reel |
 | [DE571855](DE571855.md) | 1933-03-06 | Germany | Wolfsohn, Jakob | typewriter |
+| [JP102227](JP102227.md) | 1933-03-08 | Japan | Kataoka, Kōtarō | Japanese-script typewriter |
 | [DE571797](DE571797.md) | 1933-03-09 | Germany | H, Adlerwerke Kleyer Ag | Decimal tab |
 | [DE572169](DE572169.md) | 1933-03-11 | Germany | Lefebvre, Paul Joseph Louis | Fliehkraftreibungskupplung |
 | [DE572362](DE572362.md) | 1933-03-14 | Germany | Hundhausen, Johannes | Typewriter for producing documents in a variety of different fonts or &hellip; |
@@ -8736,8 +8802,9 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE574082](DE574082.md) | 1933-04-10 | Germany | Inc, Royal Typewriter Co | Multiplier for typewriters |
 | [DE574363](DE574363.md) | 1933-04-12 | Germany | Stein, Wilhelm | Printing device |
 | [DE574364](DE574364.md) | 1933-04-13 | Germany | Co, Remington Typewriter | Typewriter frame |
+| [JP102142](JP102142.md) | 1933-04-19 | Japan | Kataoka, Kōtarō | Japanese-script typewriter |
 | [DE574816](DE574816.md) | 1933-04-21 | Germany | Boutet, Rene Edmond | Kombinierte Schreib- und Rechenmaschine |
-| [JP102040](JP102040.md) | 1933-04-21 | Japan | Shimizu, Jirō | Paper-cylinder feed device in a Japanese-script typewriter |
+| [JP102040](JP102040.md) | 1933-04-21 | Japan | Nippon Typewriter Co., Ltd. | Paper-cylinder feed device in a Japanese-script typewriter |
 | [DE575117](DE575117.md) | 1933-04-24 | Germany | G, Bing Werke Vorm Gebr Bing A | Writing device with type wheel |
 | [USD89709](USD89709.md) | 1933-04-25 | USA | Kurowski, Alfred G. F. | Design for a Braille-Writing Machine |
 | [DE575269](DE575269.md) | 1933-04-26 | Germany | Ltd, Ici | Verfahren zum Herstellen lichtechter Schreibmaschinenschriftstuecke und Kopien |
@@ -8797,11 +8864,14 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE580989](DE580989.md) | 1933-07-19 | Germany | Gerson, Adolf | Pocket typewriter |
 | [DE580990](DE580990.md) | 1933-07-19 | Germany | Co, Remington Typewriter | Automatic switching device for the ribbon length movement in typewriters |
 | [DE581078](DE581078.md) | 1933-07-20 | Germany | Co, Remington Typewriter | Line switch |
+| [JP103468](JP103468.md) | 1933-07-28 | Japan | Jitsu, Takeo | Selective automatic printing device |
 | [DE581566](DE581566.md) | 1933-07-29 | Germany | Ag, Triumph Werke Nuernberg | Einrichtung zum Ausschalten der Umschaltvorrichtung fuer das Rechenwerk an Schreibmaschinen |
 | [DE581601](DE581601.md) | 1933-07-31 | Germany | Charles, Ernest Ridley Debenham | Vorrichtung zum Abdrucken von mehrstelligen Faktoren und des Produktes einer multiplizierenden Rechenmaschine |
 | [DE581663](DE581663.md) | 1933-07-31 | Germany | Inc, Royal Typewriter Co | Adjustment device for the edge stops of typewriters |
 | [DE581662](DE581662.md) | 1933-08-01 | Germany | Rudolf, Herbert | Device for the silent return of the paper cart from typewriters |
 | [DE581679](DE581679.md) | 1933-08-01 | Germany | Bethke, Gerhard | Rueckenlehne, insbesondere fuer Schreibmaschinenstuehle |
+| [JP103830](JP103830.md) | 1933-08-02 | Japan | Yoshida, Tashi | Braille shorthand machine |
+| [JP104336](JP104336.md) | 1933-08-04 | Japan | Masuda, Kichie | Printing machine |
 | [JP104642](JP104642.md) | 1933-08-04 | Japan | Miwa, Mataichi | Feed device for a typewriter |
 | [DE582391](DE582391.md) | 1933-08-14 | Germany | Ag, Triumph Werke Nuernberg | Typewriter in which part of the type lever only carries one and the other part &hellip; |
 | [DE582551](DE582551.md) | 1933-08-17 | Germany | Winklhofer, Wanderer Werke Vorm | Device on typewriters for the production of forgery-proof writing |
@@ -8837,8 +8907,11 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE587430](DE587430.md) | 1933-11-06 | Germany | Hausheer, Max Emile | Line typewriter writing on a flat plane |
 | [DE587741](DE587741.md) | 1933-11-08 | Germany | Jahnz, Erwin | Tastatur fuer Zehntasten-Rechenmaschinen mit Stiftekasten |
 | [DE588051](DE588051.md) | 1933-11-11 | Germany | Fa, Guenther Wagner | Tape reel |
+| [JP109170](JP109170.md) | 1933-11-13 | Japan | Kawashima, Saichirō | Printing machine |
+| [JP104938](JP104938.md) | 1933-11-15 | Japan | Koyanagi, Hōsaku | Japanese-script typewriter |
 | [DE588563](DE588563.md) | 1933-11-20 | Germany | Zellmann, Rudolf | Desensibilisierung von Thoriumdioxydsol |
 | [JP105151](JP105151.md) | 1933-11-29 | Japan | Oshitari, Kingo | Printing machine |
+| [JP105244](JP105244.md) | 1933-11-29 | Japan | Kataoka, Kusumatsu | Japanese-script typewriter |
 | [DE588882](DE588882.md) | 1933-12-04 | Germany | H, Adlerwerke Kleyer Ag | Typewriter with type stop mechanism that can be moved in line direction |
 | [DE570379](DE570379.md) | 1933-12-09 | Germany | Coenen, Paul | Note typewriter |
 | [DE589719](DE589719.md) | 1933-12-13 | Germany | Lokomotiv, Schweizerische | Zeilensetz- und Druckmaschine mit umlaufenden Patrizen |
@@ -8872,8 +8945,10 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE594958](DE594958.md) | 1934-03-27 | Germany | Last, James | Verfahren zur Sicherung uebereinstimmender Lage und Bewegung einzelner Merkkarten oder eines zusammenhaengenden Merkstreifens einerseits und koerperlicher Gegenstaende, z. B. Schecks, andererseits |
 | [DE595030](DE595030.md) | 1934-03-28 | Germany | Hochman, Julius Cornelius | Auxiliary ribbon device on typewriters |
 | [DE595105](DE595105.md) | 1934-04-07 | Germany | Simson, Donald Petrie | Druckeinrichtung fuer Rechenmaschinen o. dgl. |
-| [JP106965](JP106965.md) | 1934-04-20 | Japan | Shimizu, Jirō | Paper-cylinder feed device for a printing machine |
+| [JP106965](JP106965.md) | 1934-04-20 | Japan | Nippon Typewriter Co., Ltd. | Paper-cylinder feed device for a printing machine |
+| [JP107529](JP107529.md) | 1934-04-20 | Japan | Benzing, Hugo | Shift device for typewriters, typing calculating machines and the like |
 | [JP107636](JP107636.md) | 1934-04-20 | Japan | Suganuma, Seiichi | Line-spacing (sideways feed) device for a typewriter |
+| [JP107644](JP107644.md) | 1934-04-20 | Japan | Shimada, Minokichi | Japanese-script electric printing machine |
 | [JP108026](JP108026.md) | 1934-04-20 | Japan | Miwa, Mataichi | Typewriter feed device |
 | [DE595898](DE595898.md) | 1934-04-21 | Germany | Winklhofer, Wanderer Werke Vorm | Line switch for typewriters |
 | [DE595944](DE595944.md) | 1934-04-24 | Germany |  | List conveyor device for office printing machines, in particular address &hellip; |
@@ -8882,9 +8957,12 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE596284](DE596284.md) | 1934-04-30 | Germany | Com, Monroe Calculating Machine | Rechenmaschine |
 | [JP107786](JP107786.md) | 1934-04-30 | Japan | Abe, Okujirō | Type-frame holding device in a Japanese-script typewriter |
 | [DE596260](DE596260.md) | 1934-05-04 | Germany | Haberfeld, Erwin O | Device on typewriters for inserting and setting an account sheet in front of a &hellip; |
+| [JP107846](JP107846.md) | 1934-05-04 | Japan | Benzing, Hugo | Typebar drive for typewriters, typing calculating machines and the like |
 | [DE596259](DE596259.md) | 1934-05-05 | Germany | Werke, Mercedes Bueromaschinen | Multiple table writing device for typewriters u. like |
 | [DE596723](DE596723.md) | 1934-05-09 | Germany | Dietrich, Karl | Selbstkassierender, als Zusatzgeraet an Schreibmaschinen anbringbarer Sperrautomat |
 | [DE596961](DE596961.md) | 1934-05-12 | Germany | Haberfeld, Erwin O | Paper cup arrangement on typewriters |
+| [JP107976](JP107976.md) | 1934-05-18 | Japan | Shimada, Minokichi | One-hand electric printing machine |
+| [JP107977](JP107977.md) | 1934-05-18 | Japan | Shimada, Minokichi | Single-strike device for an electric printing machine |
 | [DE597328](DE597328.md) | 1934-05-23 | Germany | Pfeiffer, Frank Edward | Vorrichtung zum Verschieben mehrerer zusammengehoeriger Papierbahnen an Schreib- und aehnlichen Maschinen |
 | [DE597329](DE597329.md) | 1934-05-25 | Germany | Stern, Milton Charles | Typewriter and similar machine for copying purposes |
 | [DE597675](DE597675.md) | 1934-05-29 | Germany | Oberhausen, Gutehoffnungshuette | Multi-color printing device for punch card tabulating machines |
@@ -8895,9 +8973,9 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE598144](DE598144.md) | 1934-06-06 | Germany | Den, Outer Marius | Syllable typewriter |
 | [DE598482](DE598482.md) | 1934-06-13 | Germany | Teissedre, Gustav | Type cylinder typewriter |
 | [DE598915](DE598915.md) | 1934-06-21 | Germany | Aurbach, - Kurt | Druckwerk fuer registrierende Maschinen, z. B. Registrierkassen |
-| [JP107719](JP107719.md) | 1934-06-22 | Japan | Shimizu, Jirō | Paper-cylinder back-feed device for a Japanese-script typewriter |
+| [JP107719](JP107719.md) | 1934-06-22 | Japan | Nippon Typewriter Co., Ltd. | Paper-cylinder back-feed device for a Japanese-script typewriter |
 | [DE598882](DE598882.md) | 1934-06-25 | Germany | Marchthal, Eduard | Height switching device for type drums or the like of writing and similar &hellip; |
-| [JP108301](JP108301.md) | 1934-06-25 | Japan | Iisaku, Takichirō | Type push-up device in a typewriter |
+| [JP108301](JP108301.md) | 1934-06-25 | Japan | Miyazawa, Tomojirō | Type push-up device in a typewriter |
 | [DE599388](DE599388.md) | 1934-06-30 | Germany |  | Automatic ribbon switching device, especially for address printing machines |
 | [JP108017](JP108017.md) | 1934-07-02 | Japan | Kawana, Hikoichi | Paper cylinder (platen) for a Japanese-script typewriter |
 | [JP109043](JP109043.md) | 1934-07-02 | Japan | Ōya, Takeshi | Character-feed and line-feed mechanism for a typewriter |
@@ -8906,7 +8984,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE599733](DE599733.md) | 1934-07-07 | Germany | Inhoffen, Walther | Typewriter frame |
 | [DE600556](DE600556.md) | 1934-07-25 | Germany | Schluder, Margarete | Ribbon for calculators and like |
 | [JP108280](JP108280.md) | 1934-07-27 | Japan | Hashizume, Jinnosuke | Paper-table return device for a horizontal-writing printing machine |
-| [JP108761](JP108761.md) | 1934-07-27 | Japan | Yokota, Yoshitarō | Feed device for a Japanese-script printing machine |
+| [JP108761](JP108761.md) | 1934-07-27 | Japan | Tōa Daifu Kōshi K.K. | Feed device for a Japanese-script printing machine |
 | [DE601240](DE601240.md) | 1934-08-10 | Germany | Gruetzmann, Paul | Device for moving the type lever or type bars of typewriters |
 | [JP109162](JP109162.md) | 1934-08-22 | Japan | Kawana, Jun | Printing machine |
 | [DE602017](DE602017.md) | 1934-08-30 | Germany | Werke, Mercedes Bueromaschinen | Schaltwerkrahmen fuer Rechenmaschinen |
@@ -8934,6 +9012,9 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE604492](DE604492.md) | 1934-10-23 | Germany |  | Typewriter with power drive |
 | [DE604495](DE604495.md) | 1934-10-23 | Germany | Opel, Fritz | Keyboard for purposes of sound release, sound recording and registration &hellip; |
 | [DE604557](DE604557.md) | 1934-10-26 | Germany | Co, Ncr | Registrierkasse mit unmittelbarem Summendruck |
+| [JP110117](JP110117.md) | 1934-10-26 | Japan | Nippon Typewriter Co. | Electric typewriter |
+| [JP110118](JP110118.md) | 1934-10-29 | Japan | Nippon Typewriter Co. | Electric typewriter |
+| [JP110119](JP110119.md) | 1934-10-29 | Japan | Nippon Typewriter Co. | Electric typewriter |
 | [DE604894](DE604894.md) | 1934-11-01 | Germany |  | Typewriter |
 | [DE605197](DE605197.md) | 1934-11-06 | Germany | Wolff, Robert | Paper carriage switching device on typewriters |
 | [DE605198](DE605198.md) | 1934-11-06 | Germany | Winklhofer, Wanderer Werke Vorm | Reverse gear clutch on typewriters |
@@ -8943,7 +9024,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE605642](DE605642.md) | 1934-11-15 | Germany | Benzing, Hugo | Spring winding mechanism |
 | [DE605797](DE605797.md) | 1934-11-17 | Germany | Eibert, Fritz | Paper carriage switching device on typewriters |
 | [DE605641](DE605641.md) | 1934-11-19 | Germany | Benzing, Hugo | Switching device for writing, writing arithmetic or similar machines |
-| [JP110488](JP110488.md) | 1934-11-30 | Japan | Katō, Kenjirō | Back-spacing device for a printing machine |
+| [JP110488](JP110488.md) | 1934-11-30 | Japan | Tōa Daifu Kōshi K.K. | Back-spacing device for a printing machine |
 | [DE606571](DE606571.md) | 1934-12-05 | Germany |  | Tastensperrvorrichtung fuer rechnende Schreibmaschinen |
 | [DE606616](DE606616.md) | 1934-12-06 | Germany | Benzing, Hugo | Sound and shock absorbing foot for office machines |
 | [DE606663](DE606663.md) | 1934-12-07 | Germany | Ag, Vorm Seidel & Naumann | Device for moving the universal rail in typewriters or the like. |
@@ -8951,9 +9032,12 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE606804](DE606804.md) | 1934-12-11 | Germany | Hom, Albert | Einrichtung fuer die Durchschreibebuchhaltung, bestehend aus einem Streifen mit Anlegefalz aus Papier o. dgl. |
 | [DE606881](DE606881.md) | 1934-12-13 | Germany |  | Rechenmaschine |
 | [DE606911](DE606911.md) | 1934-12-13 | Germany | Fa, E D A M S A | Electric typewriter with type wheel |
+| [JP111343](JP111343.md) | 1934-12-14 | Japan | Shimada, Minokichi | Keyboard Japanese-script printing machine |
 | [DE607152](DE607152.md) | 1934-12-20 | Germany | Inc, Royal Typewriter Co | Type lever drive for typewriters |
-| [JP110673](JP110673.md) | 1934-12-21 | Japan | Katō, Kenjirō | Japanese-script typewriter |
+| [JP110673](JP110673.md) | 1934-12-21 | Japan | Nippon Typewriter Co. | Japanese-script typewriter |
 | [JP110895](JP110895.md) | 1934-12-21 | Japan | Abe, Okujirō | Typewriter |
+| [JP111344](JP111344.md) | 1934-12-21 | Japan | Shimada, Minokichi | Type magazine for a Japanese-script printing machine |
+| [JP110135](JP110135.md) | 1934-12-24 | Japan | Yoshimura, Sotoo | Device for switching between single and duplicate writing in a copying typewriter |
 | [DE607463](DE607463.md) | 1934-12-28 | Germany |  | Type lever drive for small typewriters |
 | [US1986244](US1986244.md) | 1935-01-01 | USA | Bates, Harry | Typewriter |
 | [DE607543](DE607543.md) | 1935-01-02 | Germany | Inc, Royal Typewriter Co | Line break device on typewriters |
@@ -8970,6 +9054,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE609316](DE609316.md) | 1935-02-12 | Germany | H, Taylorix Organisation G M B | Device for introducing and aligning a sheet of paper to be introduced from the &hellip; |
 | [DE609317](DE609317.md) | 1935-02-14 | Germany | Inc, Royal Typewriter Co | Multiplying device for typewriters |
 | [DE609480](DE609480.md) | 1935-02-15 | Germany | Hentig, Albert | Flat pocket typewriter |
+| [JP110739](JP110739.md) | 1935-02-15 | Japan | Schüler, Hugo | Silent-printing typewriter |
 | [DE609557](DE609557.md) | 1935-02-18 | Germany | Mueller, Wilhelm | Device for laying and straightening writing and carbon paper sheets to be &hellip; |
 | [DE609623](DE609623.md) | 1935-02-19 | Germany | Pfeiffer, Otto | Device for adjusting the type cylinder of typewriters |
 | [DE609624](DE609624.md) | 1935-02-19 | Germany | Inc, Royal Typewriter Co | Paper trolley storage on typewriters etc. like |
@@ -9061,6 +9146,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE619119](DE619119.md) | 1935-09-26 | Germany | Maschf, Rheinische Metallw & | Summendruckvorrichtung fuer rechnende Schreibmaschinen |
 | [DE619248](DE619248.md) | 1935-09-30 | Germany | Inc, Royal Typewriter Co | Schreibmaschine mit Vervielfaeltigungsvorrichtung |
 | [DE755110](DE755110.md) | 1935-10-01 | Germany | Haberfeld, Erwin O | Device for inserting several sheets of paper in a typewriter |
+| [JP114709](JP114709.md) | 1935-10-02 | Japan | Sugihara, Jinzō | Power control device for a Japanese-script printing machine |
 | [DE619539](DE619539.md) | 1935-10-03 | Germany | Sherman, John Q | Vervielfaeltigungsblaetter, insbesondere fuer Schreibmaschinen |
 | [DE619672](DE619672.md) | 1935-10-05 | Germany | Dapper, Josef | Vorrichtung zum Schneiden von Nahrungsmitteln, insbesondere Fleisch |
 | [DE755109](DE755109.md) | 1935-10-05 | Germany | Haberfeld, Erwin O | Device for inserting several sheets of paper in a typewriter with inserting &hellip; |
@@ -9075,6 +9161,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE620552](DE620552.md) | 1935-10-23 | Germany | Knoc, Naehmaschinenfabrik Adolf | Naehmaschinenmoebel mit Verschlusshaube |
 | [DE620655](DE620655.md) | 1935-10-24 | Germany | Co, Ncr | Druckvorrichtung fuer registrierende Maschinen, besonders Registrierkassen und Buchungsmaschinen |
 | [DE620890](DE620890.md) | 1935-10-29 | Germany | H, Typograph G M B | Tastwerk mit Kraftantrieb fuer Matrizensetz- und Zeilengiessmaschinen in einem saemtliche Tastwerkteile aufnehmenden Gehaeuse |
+| [JP115557](JP115557.md) | 1935-11-04 | Japan | Shimada, Minokichi | Motion mechanism for a keyboard Japanese-script printing machine |
 | [DE619740](DE619740.md) | 1935-11-05 | Germany | Benzing, Hugo | Type lever drive for writing, writing arithmetic and similar machines |
 | [DE620936](DE620936.md) | 1935-11-06 | Germany | Schrader, Heinrich | Drehzapfenlager fuer eine um ihre Mittelachse schwenkbare Zylinderhaube, insbesondere fuer Schreibmaschinentische |
 | [DE621361](DE621361.md) | 1935-11-06 | Germany | Joksch, Rudolf | Template holder for typewriters |
@@ -9089,6 +9176,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE622665](DE622665.md) | 1935-12-03 | Germany | Knutsen, Knut Andreas | Druckvorrichtung |
 | [DE623454](DE623454.md) | 1935-12-28 | Germany |  | ~Writing «. machine, in particular for booking purposes |
 | [JP116933](JP116933.md) | 1936-01-10 | Japan | Kawashima, Saichirō | Sideways paper-cylinder moving device for a Japanese-script printing machine |
+| [JP115697](JP115697.md) | 1936-01-13 | Japan | Knutsen, Knut Andreas | Automatic printing machine |
 | [JP116073](JP116073.md) | 1936-01-17 | Japan | Matsubayashi, Yoshiaki | Wheel-aligning device for a Japanese-script printing machine using type wheels |
 | [DE624283](DE624283.md) | 1936-01-24 | Germany | Inc, Royal Typewriter Co | Typewriter, in particular for writing continuous strips of coherent individual &hellip; |
 | [DE624624](DE624624.md) | 1936-01-24 | Germany | Haas, Otto | Type lever bearing segment |
@@ -9102,6 +9190,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE625267](DE625267.md) | 1936-02-10 | Germany | Inc, Royal Typewriter Co | Farbbandschalt- und -feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
 | [DE625422](DE625422.md) | 1936-02-10 | Germany | Loewenbuck, Sebastian | Type wheel typewriter |
 | [DE625690](DE625690.md) | 1936-02-13 | Germany |  | Elektromagnetische Steuerung an Lochkartenmaschinen |
+| [JP114887](JP114887.md) | 1936-02-13 | Japan | Sugihara, Jinzō | Power control device for a Japanese-script printing machine |
 | [DE625727](DE625727.md) | 1936-02-14 | Germany | Arnold, Karl | Mechanisches Spielzeug in Darstellung eines Schreibmaschinenmodells mit Spielfigur |
 | [DE755620](DE755620.md) | 1936-02-17 | Germany | Co, Burroughs Adding Machine | Booking engine |
 | [DE626090](DE626090.md) | 1936-02-20 | Germany | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
@@ -9118,6 +9207,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE628325](DE628325.md) | 1936-04-03 | Germany | Nolte, Paul | Tastbrett fuer Tastaturmaschinen mit drehbaren, mehrflaechigen Tastenknoepfen, die reihenweise gemeinsam verstellt werden koennen |
 | [DE628468](DE628468.md) | 1936-04-04 | Germany | Ges, Clemens Mueller Akt | Selbstkassierende Sperrvorrichtung fuer Schreibmaschinen |
 | [DE628559](DE628559.md) | 1936-04-06 | Germany | Devlaminck, Robert Stephane | Device for drawing lines for typewriters |
+| [JP116470](JP116470.md) | 1936-04-10 | Japan | Zen, Keinosuke | Japanese-script typewriter |
 | [DE628803](DE628803.md) | 1936-04-16 | Germany | Winklhofer, Wanderer Werke Vorm | Device on writing business machines to secure the writing limit on the lower &hellip; |
 | [DE628802](DE628802.md) | 1936-04-17 | Germany | Werke, Mercedes Bueromaschinen | Tabulation device on typing, writing calculators, adding machines, etc. |
 | [DE628894](DE628894.md) | 1936-04-18 | Germany | Inc, Royal Typewriter Co | Dust protection plate for typewriters |
@@ -9153,6 +9243,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE633394](DE633394.md) | 1936-07-25 | Germany | Winklhofer, Wanderer Werke Vorm | Table writing device for writing business machines |
 | [JP117994](JP117994.md) | 1936-07-27 | Japan | Ishido, Harutarō | Japanese-script typewriter |
 | [DE633541](DE633541.md) | 1936-07-30 | Germany | Benzing, Hugo | Type lever drive for writing, writing arithmetic and similar machines |
+| [JP118778](JP118778.md) | 1936-08-10 | Japan | Sugihara, Jinzō | Power control device for a Japanese-script printing machine |
 | [DE634221](DE634221.md) | 1936-08-22 | Germany | Co, Ncr | Druckwerk fuer Registrierkassen oder Buchungsmaschinen |
 | [DE634372](DE634372.md) | 1936-08-27 | Germany | Co, Ncr | Zeileneinstellvorrichtung fuer Registrierkassen und Buchungsmaschinen |
 | [DE634646](DE634646.md) | 1936-09-01 | Germany | E, Paillard & Cie Sa | Kinematograph fuer Filme verschiedener Breite |
@@ -9173,11 +9264,13 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE635848](DE635848.md) | 1936-09-25 | Germany | Ag, Vorm Seidel & Naumann | Paper carriage for typewriters or the like. |
 | [DE635622](DE635622.md) | 1936-09-26 | Germany | H, Powers G M B | Registriermaschine mit Druckhaemmern |
 | [DE635847](DE635847.md) | 1936-09-29 | Germany | Schneider, Oscar | Additional device that can be easily attached to writing or similar machines &hellip; |
-| [JP118800](JP118800.md) | 1936-09-30 | Japan | Hariu, Kiyotake | Line-spacing adjusting device for a printing machine |
+| [JP118800](JP118800.md) | 1936-09-30 | Japan | Nippon Typewriter Co., Ltd. | Line-spacing adjusting device for a printing machine |
+| [JP118804](JP118804.md) | 1936-09-30 | Japan | Nippon Typewriter Co., Ltd. | Device for winding up and letting down a spiral spring |
 | [DE636150](DE636150.md) | 1936-10-02 | Germany | Winterling, Carl | Type bar typewriter |
 | [DE636272](DE636272.md) | 1936-10-06 | Germany | Semmelrath, Robert | Typewriter or the like with two interchangeable paper trolleys of different &hellip; |
 | [DE636416](DE636416.md) | 1936-10-09 | Germany |  | Typewriter with clear character printing mechanism |
 | [DE636417](DE636417.md) | 1936-10-09 | Germany | Co, Ncr | Rechen- oder Buchhaltungsmaschine |
+| [JP119581](JP119581.md) | 1936-10-09 | Japan | Shimada, Minokichi | Striking-force regulator for an electric printing machine |
 | [DE636701](DE636701.md) | 1936-10-13 | Germany | Co, Ncr | Einrichtung zum unmittelbaren Summendruck an Registrierkassen, Buchungs- und aehnlichen Maschinen |
 | [DE636624](DE636624.md) | 1936-10-14 | Germany |  | Switching regulator for the winding of goods on ribbon looms |
 | [DE636644](DE636644.md) | 1936-10-14 | Germany | Typewriters, L C Smith & Corona | Device for applying paint to a tape |
@@ -9187,7 +9280,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE636946](DE636946.md) | 1936-10-21 | Germany | Sl, Erga | Note typewriter |
 | [DE637103](DE637103.md) | 1936-10-23 | Germany | Callan, John Gurney | Schreibmaschinenpapier |
 | [DE637333](DE637333.md) | 1936-10-26 | Germany | Grob, Heinrich | Als Hausbar, Schreibmaschinen-, Buchhaltungs-, Naeh- oder Naehmaschinentisch verwendbarer Tisch mit versenkbarer Tischplatte |
-| [JP119719](JP119719.md) | 1936-10-28 | Japan | Suzuki, Kuraji | Vertical/horizontal typing change-over device for a Japanese-script typewriter |
+| [JP119719](JP119719.md) | 1936-10-28 | Japan | Nichiman Typewriter Co., Ltd. | Vertical/horizontal typing change-over device for a Japanese-script typewriter |
 | [DE637511](DE637511.md) | 1936-10-30 | Germany | Auerswald, Ottilie Menzel Geb | Versenkeinrichtung fuer Naeh- oder Schreibmaschinen |
 | [DE637951](DE637951.md) | 1936-11-11 | Germany | Machines, Bull Sa | Druckvorrichtung |
 | [DE638179](DE638179.md) | 1936-11-11 | Germany | Schulze, Fritz | Telegraphenempfangsapparat fuer wahlweises oder gleichzeitiges Drucken und Lochen, bei dem die an den Waehlschienen angebrachten Ansatz- oder Zwischenstuecke je nach der Zeichenkombination in den ... |
@@ -9197,19 +9290,22 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE638139](DE638139.md) | 1936-11-14 | Germany | Duemling, Adolf | Type cylinder typewriter with keys |
 | [DE638140](DE638140.md) | 1936-11-14 | Germany |  | ~Duplicating device for typewriters with a rotatable |
 | [DE638442](DE638442.md) | 1936-11-16 | Germany | Haas, Otto | Downshift device for the paper cart on typewriters |
-| [JP119718](JP119718.md) | 1936-11-18 | Japan | Suzuki, Kuraji | Vertical-and-horizontal line-spacing device for a Japanese-script typewriter |
+| [JP119718](JP119718.md) | 1936-11-18 | Japan | Nichiman Typewriter Co., Ltd. | Vertical-and-horizontal line-spacing device for a Japanese-script typewriter |
 | [DE638472](DE638472.md) | 1936-11-23 | Germany | Aurbach, - Kurt | Zeileneinstellvorrichtung fuer Belege bei Registrierkassen und Buchungsmaschinen |
 | [DE638782](DE638782.md) | 1936-11-23 | Germany |  | Lochmaschine zum Duplizieren von gelochten Musterkarten |
-| [JP119646](JP119646.md) | 1936-12-02 | Japan | Katō, Kenjirō | Platen sideways-feed device for a typewriter |
-| [JP119647](JP119647.md) | 1936-12-02 | Japan | Katō, Kenjirō | Platen sideways-feed device in a typewriter |
+| [JP119646](JP119646.md) | 1936-12-02 | Japan | Nippon Typewriter Co., Ltd. | Platen sideways-feed device for a typewriter |
+| [JP119647](JP119647.md) | 1936-12-02 | Japan | Nippon Typewriter Co., Ltd. | Platen sideways-feed device in a typewriter |
 | [DE634156](DE634156.md) | 1936-12-03 | Germany | Schneider, Julius | Einrichtung zum Herstellen von Letternzeilen oder Einzellettern, bestehend aus einer umlaufenden Trommel mit mehreren Typen- oder Matrizenkraenzen, die etwa durch Tastenanschlag mit einer Druck- ... |
 | [DE639295](DE639295.md) | 1936-12-03 | Germany |  | Printing device with several adjacently arranged adjustable type carriers for a plurality of types |
 | [DE639371](DE639371.md) | 1936-12-04 | Germany | H, Iris Type G M B | Device for placing types on the type carrier of typewriters or the like. |
 | [DE639372](DE639372.md) | 1936-12-04 | Germany | Zschimmer, Moritz | Method and device for attaching the type pieces to the type levers of &hellip; |
+| [JP119496](JP119496.md) | 1936-12-04 | Japan | Abe, Tatsuo | Device connecting the typebars and key levers in a printing machine |
+| [JP119648](JP119648.md) | 1936-12-04 | Japan | Nippon Typewriter Co., Ltd. | Electric typewriter |
 | [DE639542](DE639542.md) | 1936-12-07 | Germany | Haselhorst, Ewald | Holding device for typewriter arches |
+| [JP120549](JP120549.md) | 1936-12-09 | Japan | Sugihara, Jinzō | Power control device for a Japanese-script printing machine |
 | [DE639715](DE639715.md) | 1936-12-11 | Germany | Inc, Royal Typewriter Co | Edge stop for typewriters |
 | [DE639714](DE639714.md) | 1936-12-12 | Germany | Inc, Royal Typewriter Co | Adjustment device for changing the strength of the type lever springs in hand- &hellip; |
-| [JP120536](JP120536.md) | 1936-12-14 | Japan | Suganuma, Seiichi | Fine adjusting device for the printing spacing of a typewriter |
+| [JP120536](JP120536.md) | 1936-12-14 | Japan | Adachi, Kenji | Fine adjusting device for the printing spacing of a typewriter |
 | [DE639898](DE639898.md) | 1936-12-16 | Germany | Schneider, Julius | Letterngiessmaschine o. dgl., bei der die aus einem Kopf und einem Fuehrungsschaft kleineren Querschnittes bestehenden Typen oder Matrizen radial nach aussen verschieblich auf einer kreisenden ... |
 | [DE639956](DE639956.md) | 1936-12-16 | Germany | H, Original Checko G M B | Insert sheet for typewriters u. Like. To achieve non-erasable writing |
 | [DE639934](DE639934.md) | 1936-12-17 | Germany | Stein, Wilhelm | Verfahren zum Herstellen von Flachdruckformen fuer Buch- oder Zeitungsdruck durch Umdrucken eines mit der Schreibmaschine hergestellten Schriftsatzes |
@@ -9221,6 +9317,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [JP120239](JP120239.md) | 1937-01-06 | Japan | Kobayashi, Kaichi | Typewriter |
 | [JP121102](JP121102.md) | 1937-01-08 | Japan | Miwa, Mataichi | Typewriter feed device |
 | [DE640738](DE640738.md) | 1937-01-11 | Germany | Hafner, Karl | Device for refreshing ink ribbons on typewriters |
+| [JP121089](JP121089.md) | 1937-01-11 | Japan | Miwa, Mataichi | Pneumatic typewriter |
 | [DE641030](DE641030.md) | 1937-01-19 | Germany | Werke, Mercedes Bueromaschinen | Portable typewriter |
 | [DE640982](DE640982.md) | 1937-01-23 | Germany | Co, Burroughs Adding Machine | Scheckschreibmaschine |
 | [DE641105](DE641105.md) | 1937-01-23 | Germany | Co, Ncr | Buchungsmaschine |
@@ -9240,7 +9337,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE643001](DE643001.md) | 1937-03-22 | Germany | Benzing, Hugo | Bremsvorrichtung fuer den ausgeloesten Wagen von Schreib-, Rechen-, Buchungs- und aehnlichen Maschinen |
 | [DE589017](DE589017.md) | 1937-03-24 | Germany | Winklhofer, Wanderer Werke Vorm | Platen for typewriters and calculating machines |
 | [DE643308](DE643308.md) | 1937-04-03 | Germany | Co, Ncr | Nullendruckvorrichtung fuer Registrierkassen, Rechen- oder Buchungsmaschinen |
-| [JP121662](JP121662.md) | 1937-04-07 | Japan | Katō, Kenjirō | Automatic platen feed device in a typewriter |
+| [JP121662](JP121662.md) | 1937-04-07 | Japan | Nippon Typewriter Co., Ltd. | Automatic platen feed device in a typewriter |
 | [DE643803](DE643803.md) | 1937-04-17 | Germany | Tauschek, Gustav | Electromagnetic memory for numbers and other information, especially for &hellip; |
 | [DE571214](DE571214.md) | 1937-04-20 | Germany | Bossert, Fritz | Vorrichtung an Buchungsmaschinen zur Verhuetung von Falschbuchungen |
 | [DE619831](DE619831.md) | 1937-04-20 | Germany | Schneider, Julius | Process for the production of a continuous, castable matrix strip, which is &hellip; |
@@ -9248,7 +9345,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE620072](DE620072.md) | 1937-04-22 | Germany | Schneider, Julius | Device for producing embossed strips that are folded in the spaces between the &hellip; |
 | [DE620515](DE620515.md) | 1937-04-22 | Germany | Schneider, Julius | Embossing strip, which is stretched to the desired line length after folding in &hellip; |
 | [DE644340](DE644340.md) | 1937-04-29 | Germany | E, Paillard & Cie Sa | Device for the automatic reversal of the ribbon length movement on typewriters &hellip; |
-| [JP122207](JP122207.md) | 1937-05-03 | Japan | Katō, Kenjirō | Sideways-spacing control device in an automatic-feed (spring-driven carriage) typewriter, usable for feed in either direction |
+| [JP122207](JP122207.md) | 1937-05-03 | Japan | Nippon Typewriter Co., Ltd. | Sideways-spacing control device in an automatic-feed (spring-driven carriage) typewriter, usable for feed in either direction |
 | [DE644650](DE644650.md) | 1937-05-10 | Germany | Winklhofer, Wanderer Werke Vorm | Device on typewriters for adjusting the platen in the direction of the stroke &hellip; |
 | [DE644840](DE644840.md) | 1937-05-14 | Germany | Ges, Ruf Buchhaltung Akt | Device on typewriters for inserting a prefix sheet in front of a base sheet |
 | [DE644883](DE644883.md) | 1937-05-14 | Germany | Inc, Royal Typewriter Co | typewriter |
@@ -9370,6 +9467,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE658354](DE658354.md) | 1938-04-01 | Germany | Co, Underwood Elliott Fisher | Tabulator on typewriters or the like. |
 | [DE658672](DE658672.md) | 1938-04-09 | Germany | Werke, Mercedes Bueromaschinen | Case for portable machines, especially office machines, such as typewriters and &hellip; |
 | [DE658677](DE658677.md) | 1938-04-13 | Germany | Co, Ncr | Nullendruckvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
+| [JP125767](JP125767.md) | 1938-04-13 | Japan | Hitachi, Ltd. | Alternating-current electromagnet |
 | [DE658820](DE658820.md) | 1938-04-19 | Germany | Inc, Royal Typewriter Co | Farbbandschalt- und -feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
 | [DE658821](DE658821.md) | 1938-04-19 | Germany | Inc, Royal Typewriter Co | Farbbandschalt- und -feststellvorrichtung, insbesondere fuer Schreibmaschinen, bei denen die Durchschlaege mit Hilfe von Hilfsfarbbaendern hergestellt werden |
 | [DE658822](DE658822.md) | 1938-04-19 | Germany | Inc, Royal Typewriter Co | Ribbon switching and locking device, especially for typewriters, in which the &hellip; |
@@ -9414,6 +9512,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE657364](DE657364.md) | 1938-08-24 | Germany |  | Paper trolley switching device for power-driven typewriters |
 | [JP127896](JP127896.md) | 1938-09-02 | Japan | Shimada, Minokichi | Paper-cylinder moving device for a Japanese-script printing machine |
 | [JP127897](JP127897.md) | 1938-09-03 | Japan | Shimada, Minokichi | Automatic striking-force regulator for a Japanese-language typewriter |
+| [JP128795](JP128795.md) | 1938-09-03 | Japan | Sugihara, Jinzō | Power control device for a Japanese-script printing machine |
 | [DE664554](DE664554.md) | 1938-09-05 | Germany | Co, Ncr | Druckvorrichtung fuer Registrierkassen oder Buchungsmaschinen |
 | [DE664838](DE664838.md) | 1938-09-10 | Germany | Brugger, Herbert | Keyboard for typewriters |
 | [DE665019](DE665019.md) | 1938-09-12 | Germany | Ag, Vorm Seidel & Naumann | Permanent switching device for the car of writing, calculating and similar &hellip; |
@@ -9483,6 +9582,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE753903](DE753903.md) | 1939-02-12 | Germany |  | Typewriter with an automatic multiplier |
 | [DE671886](DE671886.md) | 1939-02-15 | Germany | Typewriters, L C Smith & Corona | Line switching device on typewriters or the like. |
 | [JP130157](JP130157.md) | 1939-02-15 | Japan | Yōtō, Osamu | Vertical (column) feed device for a typewriter |
+| [JP130425](JP130425.md) | 1939-02-18 | Japan | Shin-Nihon Kei Taipuraitā Seisakusho | Japanese-script typewriter |
 | [DE672394](DE672394.md) | 1939-03-01 | Germany | Co, Burroughs Adding Machine | Scheckschreibende Rechenmaschine, Buchungsmaschine o. dgl. |
 | [DE672436](DE672436.md) | 1939-03-02 | Germany | Ag, Vorm Seidel & Naumann | Key lever bearing for type lever typewriters with inclined segment |
 | [DE672568](DE672568.md) | 1939-03-06 | Germany | Werke, Mercedes Bueromaschinen | Schreibrechenmaschine |
@@ -9522,7 +9622,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE657453](DE657453.md) | 1939-05-11 | Germany |  | Printing device with a system of several sets of printing type wheels |
 | [DE675676](DE675676.md) | 1939-05-13 | Germany | Benzing, Hugo | Type lever rest bearing for typewriters |
 | [DE675729](DE675729.md) | 1939-05-15 | Germany | Co, Burroughs Adding Machine | Calculating machine or the like |
-| [JP131880](JP131880.md) | 1939-05-15 | Japan | Katō, Kenjirō | Typewriter |
+| [JP131880](JP131880.md) | 1939-05-15 | Japan | Nippon Typewriter Co., Ltd. | Typewriter |
 | [DE675769](DE675769.md) | 1939-05-17 | Germany | Co, Ncr | Scheckdruckwerk fuer registrierende Maschinen, z.B. Registrierkassen oder Buchungsmaschinen |
 | [DE675790](DE675790.md) | 1939-05-20 | Germany | Co, Burroughs Adding Machine | Buchungsmaschine o. dgl. |
 | [DE676015](DE676015.md) | 1939-05-24 | Germany |  | Typewriter system for the simultaneous production of scheme letters under &hellip; |
@@ -9537,7 +9637,9 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE676564](DE676564.md) | 1939-06-08 | Germany | Werke, Mercedes Bueromaschinen | Tabulator for typewriters, typewriters, adding machines or the like. |
 | [DE676760](DE676760.md) | 1939-06-10 | Germany | Co, Burroughs Adding Machine | Rechenmaschine o. dgl. |
 | [DE676921](DE676921.md) | 1939-06-15 | Germany | William, Miles Joseph | Device on printing business machines for pulling back sheets of carbon paper |
+| [JP133177](JP133177.md) | 1939-06-15 | Japan | Shimada, Minokichi | Paper-cylinder feed device for an electric typewriter |
 | [DE677131](DE677131.md) | 1939-06-19 | Germany | Ges, Wanderer Werke Akt | Aus mehreren Lagen bestehender und in Abschnitte entsprechend den Schreibbogen unterteilter Schreibpapierstreifen |
+| [JP132558](JP132558.md) | 1939-06-20 | Japan | Shin-Nihon Kei Taipuraitā Seisakusho | Japanese-script typewriter |
 | [DE677518](DE677518.md) | 1939-06-27 | Germany | Haberfeld, Erwin O | Device for conveying paper sheets in typewriters, calculating machines, &hellip; |
 | [DE754457](DE754457.md) | 1939-07-02 | Germany | Zuckrigl, Max | Document holder for typewriters |
 | [DE677804](DE677804.md) | 1939-07-03 | Germany | Nv, Kamatec Fa | Vorrichtung zum Einstellen eines Organs, insbesondere eines Typentraegers |
@@ -9571,8 +9673,9 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE679841](DE679841.md) | 1939-08-17 | Germany | Hilgers, Wilhelm | Vorrichtung zum Zerschneiden von durch Transportwalzen absatzweise gefoerderten fortlaufenden Bahnen |
 | [DE679967](DE679967.md) | 1939-08-18 | Germany | Ges, Siemens & Halske Akt | Verfahren zum geheimen Signalisieren mit einem intermittierenden Lichtstrom |
 | [DE679993](DE679993.md) | 1939-08-18 | Germany | Schwarzbach, Alfred | Versenkvorrichtung fuer Schreibmaschinen |
-| [JP133596](JP133596.md) | 1939-08-19 | Japan | Kataoka, Kōtarō | Japanese-script typewriter |
+| [JP133596](JP133596.md) | 1939-08-19 | Japan | Nihon Kei Typewriter Works | Japanese-script typewriter |
 | [DE680048](DE680048.md) | 1939-08-21 | Germany | Kornhass, Hugo | Tisch, insbesondere Schreibmaschinentisch, mit voneinander abhaengig bewegbaren Tischplattenteilen |
+| [JP134304](JP134304.md) | 1939-08-22 | Japan | Yamauchi, Teita | Electromagnetic Japanese-script printing machine |
 | [DE680320](DE680320.md) | 1939-08-28 | Germany | Max, Jacob | Drucktisch fuer Buchungsmaschinen |
 | [DE680441](DE680441.md) | 1939-08-30 | Germany | Co, Ncr | Druckwerk fuer Registrierkassen und Buchungsmaschinen |
 | [DE680665](DE680665.md) | 1939-09-02 | Germany | Koch, Mia Kramer Geb | Shorthand and concept holder |
@@ -9593,7 +9696,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE758283](DE758283.md) | 1939-09-26 | Germany | H, Adlerwerke Kleyer Ag | Catcher for accounting slip on accounting machines |
 | [DE681272](DE681272.md) | 1939-09-30 | Germany | Mansel, Paul | Typewriter with offset letters |
 | [DE682151](DE682151.md) | 1939-10-12 | Germany | Werke, Mercedes Bueromaschinen | Device for typewriters o. The like. For the independent moving of several &hellip; |
-| [JP135179](JP135179.md) | 1939-10-16 | Japan | Kataoka, Kōtarō | Printing mechanism in a Japanese-language typewriter |
+| [JP135179](JP135179.md) | 1939-10-16 | Japan | Shin-Nihon Kei Taipuraitā Seisakusho | Printing mechanism in a Japanese-language typewriter |
 | [JP135489](JP135489.md) | 1939-10-16 | Japan | Miwa, Mataichi | Vertical-feed return device for a Japanese-script typewriter |
 | [DE761426](DE761426.md) | 1939-10-24 | Germany |  | Typewriters with automatic summation device |
 | [DE682916](DE682916.md) | 1939-10-26 | Germany | Berger, Hans | Keyboard for typewriters or the like |
@@ -9609,6 +9712,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE683818](DE683818.md) | 1939-11-16 | Germany | Ag, Mauser Werke | Plug-in device with a platen for adding and accounting machines, which is fixed &hellip; |
 | [DE683955](DE683955.md) | 1939-11-18 | Germany | Strauss, Emil | Typewriter Like. With a type carrier movable in two directions at right angles &hellip; |
 | [DE683985](DE683985.md) | 1939-11-20 | Germany | Genschmer, - Kurt | Nib with ink container |
+| [JP135868](JP135868.md) | 1939-11-20 | Japan | Fujii, Riichi | Double-sided braille shorthand machine |
 | [DE684461](DE684461.md) | 1939-11-29 | Germany | Aurbach, - Kurt | Druckwerk fuer Buchungs- und aehnliche Maschinen |
 | [DE684606](DE684606.md) | 1939-12-01 | Germany | Aurbach, - Kurt | Zeilenschaltvorrichtung fuer Registrierkassen, Buchungs- oder aehnliche Maschinen |
 | [DE685035](DE685035.md) | 1939-12-11 | Germany | Co, Underwood Elliott Fisher | Paper trolley lift device on typewriters driven by an electric motor |
@@ -9638,7 +9742,9 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE688136](DE688136.md) | 1940-02-13 | Germany | Werke, Mercedes Bueromaschinen | Ribbon switching device on typewriters or the like. |
 | [DE688210](DE688210.md) | 1940-02-15 | Germany | Pautze, Hermann | Druckplatte fuer Schalter-Fahrkartendruckmaschinen |
 | [DE688250](DE688250.md) | 1940-02-15 | Germany | Eller, Friedrich | Registrierkasse mit Druckvorrichtung |
+| [JP136394](JP136394.md) | 1940-02-15 | Japan | Mita, Kikuji | Typewriter |
 | [DE687971](DE687971.md) | 1940-02-16 | Germany | Sherman, John Quirk | Papierfuehrungsvorrichtung an der Schreibwalze von Schreib- und Buchungsmaschinen |
+| [JP136570](JP136570.md) | 1940-02-20 | Japan | Nakano, Tomijirō | Japanese–Western typewriter |
 | [JP136653](JP136653.md) | 1940-02-23 | Japan | Ishii, Shōkichi | European-style Japanese-language typewriter |
 | [DE688608](DE688608.md) | 1940-02-26 | Germany | Ges, Wanderer Werke Akt | Line switching device for the platen of writing business machines |
 | [DE681589](DE681589.md) | 1940-02-28 | Germany | List, Heinrich | Elektromagnetische Wirbelstrombremse |
@@ -9661,10 +9767,12 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE691530](DE691530.md) | 1940-05-29 | Germany | H, Iris Type G M B | Method and device for the manufacture of flush-mounted characters provided with &hellip; |
 | [JP138315](JP138315.md) | 1940-05-30 | Japan | Kataoka, Kōtarō | Return (back-space) device in a Japanese-script typewriter |
 | [DE691711](DE691711.md) | 1940-06-04 | Germany | Ag, Vorm Seidel & Naumann | Sound absorbing stop for typewriters |
+| [JP139414](JP139414.md) | 1940-06-05 | Japan | Itō, Yoshisuke | Belt fastener |
 | [DE691874](DE691874.md) | 1940-06-07 | Germany | Ag, Vorm Seidel & Naumann | Device for moving the universal rail for typewriters or the like. |
 | [DE691949](DE691949.md) | 1940-06-08 | Germany | Co, Ncr | Registrierkasse oder Buchungsmaschine |
 | [DE691974](DE691974.md) | 1940-06-10 | Germany | Andreas, Salzberger | grinding office machines |
 | [DE692224](DE692224.md) | 1940-06-15 | Germany | Werke, Mercedes Bueromaschinen | Paper guiding device for typewriters |
+| [JP138459](JP138459.md) | 1940-06-15 | Japan | Amano, Fumio | Touch-regulating mechanism in a Western-script typewriter |
 | [DE692462](DE692462.md) | 1940-06-20 | Germany | Naumann, Willy | Druckvorrichtung fuer Buchungsmaschinen, Registrierkassen und aehnliche Maschinen |
 | [DE692463](DE692463.md) | 1940-06-25 | Germany | Aurbach, - Kurt | Druckvorrichtung an Registrierkassen |
 | [DE692612](DE692612.md) | 1940-06-25 | Germany |  | Ribbon holder for copy devices |
@@ -9702,6 +9810,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE698373](DE698373.md) | 1940-11-08 | Germany | Gerber, Paul | Type lever rest bearing for typewriters or the like. |
 | [DE698548](DE698548.md) | 1940-11-12 | Germany | Mueller, Louis | Device for clamping auxiliary ribbons on typewriters |
 | [JP141834](JP141834.md) | 1940-11-18 | Japan | Katō, Kenjirō | Platen sideways-feed device for a Japanese typewriter |
+| [JP141961](JP141961.md) | 1940-11-18 | Japan | Shin-Nihon Kei Taipuraitā Seisakusho | Japanese-script typewriter |
 | [DE698940](DE698940.md) | 1940-11-20 | Germany | Kottmann, August | Schreibende Addiermaschine |
 | [DE699381](DE699381.md) | 1940-11-28 | Germany | Co, Ncr | Printing unit with exchangeable printing plate for cash registers or accounting &hellip; |
 | [DE699521](DE699521.md) | 1940-11-30 | Germany | Co, Ncr | to be printed document serving device in calculating or accounting machines |
@@ -9851,7 +9960,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE720926](DE720926.md) | 1942-05-19 | Germany | Ag, Wanderer Werke | Papierfuehrungsvorrichtung an Schreibmaschinen und aehnlichen Maschinen |
 | [JP152097](JP152097.md) | 1942-05-20 | Japan | Morishita, Shōkichi | Platen sideways-feed device in a Japanese typewriter |
 | [JP152547](JP152547.md) | 1942-05-25 | Japan | Suzuki, Kuraji | Vertical (cylinder) feed device in a Japanese typewriter |
-| [JP152989](JP152989.md) | 1942-05-25 | Japan | Kataoka, Kōtarō | Printing (striking) device for a Japanese-language typewriter |
+| [JP152989](JP152989.md) | 1942-05-25 | Japan | Shin-Nihon Kei Taipuraitā Seisakusho | Printing (striking) device for a Japanese-language typewriter |
 | [JP152991](JP152991.md) | 1942-05-25 | Japan | Kataoka, Kōtarō | Platen back-feed device for a typewriter |
 | [DE721302](DE721302.md) | 1942-06-01 | Germany | Simon, Walter | Embossing of plastic lines |
 | [DE721382](DE721382.md) | 1942-06-03 | Germany | Bohr, Richard | Type printing machine with a number of paper carriage switching devices adapted &hellip; |
@@ -9861,6 +9970,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE705654](DE705654.md) | 1942-06-09 | Germany | Mueller, Wolfgang | Plug-in device for typewriters, accounting machines or the like. |
 | [DE721226](DE721226.md) | 1942-06-10 | Germany | Page, Ralph Eugene | Registriermaschine, vorzeugsweise Kartenlochmaschine |
 | [JP152935](JP152935.md) | 1942-06-10 | Japan | Suzuki, Kuraji | Sideways-feed device for a Japanese-script typewriter |
+| [JP153606](JP153606.md) | 1942-06-10 | Japan | Hasegawa, Kichisaburō | Printing machine |
 | [DE721607](DE721607.md) | 1942-06-12 | Germany |  | Typewriter with automatic total printing device |
 | [DE721608](DE721608.md) | 1942-06-12 | Germany |  | Counter for typewriters with automatic totalizing device |
 | [DE721668](DE721668.md) | 1942-06-15 | Germany | Liebold, Erich | Type body for typewriters u. Like. As well as the method for its production and &hellip; |
@@ -9871,9 +9981,11 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE722341](DE722341.md) | 1942-07-08 | Germany | Pascher, Leopold Ferdinand | Ribbon switching for typewriters u. like |
 | [DE722450](DE722450.md) | 1942-07-10 | Germany |  | Counter for typewriters, calculating machines, adding machines or the like with post counter |
 | [DE722470](DE722470.md) | 1942-07-10 | Germany | Karstedt, Paul | Line drawing device for typewriters |
+| [JP153852](JP153852.md) | 1942-07-10 | Japan | Yamamoto, Genji | Typewriter |
 | [DE722543](DE722543.md) | 1942-07-11 | Germany | Werke, Mercedes Bueromaschinen | Key ring for the keys of typewriters, typewriters etc. like |
 | [DE722555](DE722555.md) | 1942-07-13 | Germany | Pascher, Leopold Ferdinand | Reverse gear clutch for typewriters |
 | [DE689312](DE689312.md) | 1942-07-17 | Germany | Ag, Seidel & Naumann | Rack frame drawn from a piece of sheet metal with bottom edge for type lever &hellip; |
+| [JP154431](JP154431.md) | 1942-07-25 | Japan | Mukai, Makoto | Improvement in typewriters |
 | [DE723117](DE723117.md) | 1942-07-29 | Germany | Frik, Hans | Key for typesetting machines, calculators, typewriters, cash registers, etc. &hellip; |
 | [DE657070](DE657070.md) | 1942-07-31 | Germany | Sander, Ernst | Typewriter with type carriers that can be swiveled parallel to the writing &hellip; |
 | [DE723281](DE723281.md) | 1942-08-01 | Germany | Decker, Heinrich | Device on typewriters for writing on copy sheets |
@@ -9938,18 +10050,19 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE730434](DE730434.md) | 1943-01-14 | Germany | Dronigke, Erich | Einrichtung an rechnenden Schreibmaschinen oder aehnlichen Bueromaschinen |
 | [DE730417](DE730417.md) | 1943-01-18 | Germany | Kuttner, Hans | Pruefeinrichtung fuer Springschreiber, Tastenlocher, Schreibmaschinen u. dgl. |
 | [DE730792](DE730792.md) | 1943-01-18 | Germany | Baer, Karl Heinz | Type bar typewriter |
+| [JP157458](JP157458.md) | 1943-01-30 | Japan | Hasegawa, Kichisaburō | Printing machine |
 | [DE879551](DE879551.md) | 1943-01-31 | Germany | Corp, Underwood | Paper roller bearings in typewriters |
 | [DE923253](DE923253.md) | 1943-01-31 | Germany | H, Adlerwerke Kleyer Ag | Typewriter, in particular accounting machine |
 | [DE731136](DE731136.md) | 1943-02-02 | Germany | Langenegger, Adolf | Typewriter or similar machine |
 | [DE722134](DE722134.md) | 1943-02-03 | Germany | Lennartz, Walter | Schreibmaschinenpostkarte |
 | [DE731248](DE731248.md) | 1943-02-04 | Germany | Honnolke, Franz | Typewriter with an immovably arranged writing surface |
 | [DE731249](DE731249.md) | 1943-02-04 | Germany | Werke, Mercedes Bueromaschinen | Vorrichtung fuer Schreibmaschinen, Schreibrechenmaschinen o. dgl. |
-| [JP157600](JP157600.md) | 1943-02-05 | Japan | Kataoka, Kōtarō | Japanese-language typewriter with interchangeable type cylinders |
+| [JP157600](JP157600.md) | 1943-02-05 | Japan | Takeuchi, Hideo | Japanese-language typewriter with interchangeable type cylinders |
 | [JP157669](JP157669.md) | 1943-02-05 | Japan | Kataoka, Kōtarō | Feed device in a Japanese-language typewriter |
-| [JP157670](JP157670.md) | 1943-02-05 | Japan | Kataoka, Kōtarō | Back-feed (reverse spacing) device for a Japanese-language typewriter |
-| [JP157671](JP157671.md) | 1943-02-05 | Japan | Kataoka, Kōtarō | Device for stopping the sideways (character) feed of a Japanese-language typewriter |
-| [JP157672](JP157672.md) | 1943-02-05 | Japan | Kataoka, Kōtarō | Type cylinder for a Japanese-language typewriter |
-| [JP157673](JP157673.md) | 1943-02-05 | Japan | Kataoka, Kōtarō | Type cylinder for a Japanese-language typewriter |
+| [JP157670](JP157670.md) | 1943-02-05 | Japan | Takeuchi, Hideo | Back-feed (reverse spacing) device for a Japanese-language typewriter |
+| [JP157671](JP157671.md) | 1943-02-05 | Japan | Takeuchi, Hideo | Device for stopping the sideways (character) feed of a Japanese-language typewriter |
+| [JP157672](JP157672.md) | 1943-02-05 | Japan | Takeuchi, Hideo | Type cylinder for a Japanese-language typewriter |
+| [JP157673](JP157673.md) | 1943-02-05 | Japan | Takeuchi, Hideo | Type cylinder for a Japanese-language typewriter |
 | [DE731478](DE731478.md) | 1943-02-10 | Germany | Dennis, Salmon Reginald | UEbersetzereinrichtung fuer Typendrucktelegrapenempfaenger, bei welcher das Typenrad mit Hilfe einer Reihe ineinandergreifender Planetengetriebe eingestellt wird |
 | [DE731526](DE731526.md) | 1943-02-10 | Germany | Ag, Wanderer Werke | Paper holding rail, in particular for note typewriters |
 | [DE709186](DE709186.md) | 1943-02-11 | Germany | Pascher, Leopold | typewriter |
@@ -10029,6 +10142,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE738766](DE738766.md) | 1943-08-31 | Germany | Kuhrt, Ernst | Paper insert for typewriters, accounting machines and calculating machines |
 | [DE739067](DE739067.md) | 1943-09-10 | Germany | Werke, Mercedes Bueromaschinen | Paper guide device on typewriters, typewriters and the like like |
 | [JP162305](JP162305.md) | 1943-09-10 | Japan | Nakazono, Sadaji | Automatic platen-feed adjusting device for a Japanese-language typewriter |
+| [JP162439](JP162439.md) | 1943-09-10 | Japan | Ochiai, Isamu | Automatic winding device for the platen-drive spring of a Japanese typewriter |
 | [DE921627](DE921627.md) | 1943-09-12 | Germany | Inc, Royal Typewriter Co | Power drive device for typewriters u. like |
 | [DE739175](DE739175.md) | 1943-09-13 | Germany | Rodrian, - Erich | Process for the production of types and type bars or levers for writing, &hellip; |
 | [DE739190](DE739190.md) | 1943-09-16 | Germany | H, Hollerith Maschinen Ges M B | Druckende Geschaeftsmaschine mit einer Anzahl von je fuer sich einstellbaren Typentraegern |
@@ -10261,26 +10375,31 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE812917](DE812917.md) | 1949-04-14 | Germany | Herling, Hans | Lighting device for typewriters or similar office machines |
 | [DE832442](DE832442.md) | 1949-04-14 | Germany | G, Karl Endrich A | Device for forwarding and setting a forwarding sheet on writing and similar &hellip; |
 | [DE968505](DE968505.md) | 1949-04-19 | Germany | Perosa, Riv Officine Di Villar | Device for the automatic reversal of the ribbon drive direction in printing &hellip; |
+| [JP366004](JP366004.md) | 1949-04-22 | Japan | Yaskawa Electric Manufacturing Co., Ltd. | Device for stopping a moving body at a set position |
 | [DE830657](DE830657.md) | 1949-04-25 | Germany | Sa, Paillard | Display device for margin stops on typewriters |
 | [DE836042](DE836042.md) | 1949-04-26 | Germany | W, Kuester & Co K G | typewriter |
 | [DE900756](DE900756.md) | 1949-04-26 | Germany | Ag, Anker Werke | Printing unit for booking machines |
 | [DE833045](DE833045.md) | 1949-04-27 | Germany | Sa, Paillard | Device on typewriters for reversing the direction of movement of the paper &hellip; |
 | [JP366048](JP366048.md) | 1949-04-28 | Japan | Nakata, Tōzaburō | Type holder for a simple typewriter |
+| [JP367765](JP367765.md) | 1949-04-28 | Japan | Araki, Gorō | Type for a typewriter |
 | [DE836043](DE836043.md) | 1949-05-03 | Germany | Mueller, Hubert | Type cleaner for typewriters |
 | [DE870860](DE870860.md) | 1949-05-05 | Germany | H, Friedrich Heidenpeter G M B | Numbering hammer for drawing wood and tree trunks with a rotatable single disc &hellip; |
 | [DE891843](DE891843.md) | 1949-05-06 | Germany | Corp, Underwood | Ribbon guide and drive device for typewriters and similar machines |
-| [JP180245](JP180245.md) | 1949-05-06 | Japan | Kataoka, Kōtarō | Typewriter return (back-feed) device |
-| [JP180246](JP180246.md) | 1949-05-06 | Japan | Kataoka, Kōtarō | Typewriter feed-changing device |
+| [JP180245](JP180245.md) | 1949-05-06 | Japan | Shin-Nihon Kei Taipuraitā Seisakusho | Typewriter return (back-feed) device |
+| [JP180246](JP180246.md) | 1949-05-06 | Japan | Shin-Nihon Kei Taipuraitā Seisakusho | Typewriter feed-changing device |
 | [JP366260](JP366260.md) | 1949-05-06 | Japan | Nakata, Tōzaburō | Platen sideways-feed device in a simple typewriter |
+| [JP180163](JP180163.md) | 1949-05-13 | Japan | Nakata, Tōzaburō | Type magazine for a typewriter |
 | [DE850530](DE850530.md) | 1949-05-19 | Germany | Co, Ncr | Type element as printing form |
 | [DE850454](DE850454.md) | 1949-06-01 | Germany | A, Olympia Bueromaschinenwerke | Paper slides for office machines, e.g. B. Typewriters |
 | [DE801638](DE801638.md) | 1949-06-02 | Germany | P, Gossen & Co G M B H | Roller freewheel on typewriters, accounting machines and calculating machines |
 | [DE802075](DE802075.md) | 1949-06-02 | Germany | P, Gossen & Co G M B H | Stand for small typewriters |
 | [DE820068](DE820068.md) | 1949-06-03 | Germany | Bittner, Franz | Process for the production of monolithic masonry between removable formwork and &hellip; |
-| [JP180679](JP180679.md) | 1949-06-03 | Japan | Kataoka, Kōtarō | Actuating device for a Japanese-script typewriter |
+| [JP180679](JP180679.md) | 1949-06-03 | Japan | Shin-Nihon Kei Taipuraitā Seisakusho | Actuating device for a Japanese-script typewriter |
 | [DE866858](DE866858.md) | 1949-06-04 | Germany | Co, Ncr | Process for the production of compression wheels |
 | [DE866944](DE866944.md) | 1949-06-10 | Germany | Ziegler, Kurt | Template holder for typewriters, accounting and calculating machines or the &hellip; |
+| [JP181056](JP181056.md) | 1949-06-10 | Japan | Kawakami, Akira | Improvement in the keyboard of a rōmaji typewriter |
 | [DE1081256](DE1081256.md) | 1949-06-14 | Germany | Corp, Burroughs | Print hammer drive for calculating machines |
+| [JP181464](JP181464.md) | 1949-06-17 | Japan | The Minister of Telecommunications | Keyboard testing machine |
 | [DE906460](DE906460.md) | 1949-06-25 | Germany | Inc, Remington Rand | Type lever movement device for electrically powered typewriters |
 | [DE906461](DE906461.md) | 1949-06-25 | Germany | H, Remington Rand G M B | Friction disc clutch for car lift devices of office machines |
 | [DE850300](DE850300.md) | 1949-06-26 | Germany | Deutschland, Ibm | Edge limiting device on typewriters and similar machines |
@@ -10294,8 +10413,12 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE912571](DE912571.md) | 1949-06-30 | Germany | Kuentzel, Hellmuth | Spring-loaded stop for the type levers of office machines |
 | [DE912933](DE912933.md) | 1949-06-30 | Germany | Kuentzel, Hellmuth | Type lever for typewriters u. like |
 | [JP367759](JP367759.md) | 1949-07-15 | Japan | Nakata, Tōzaburō | Platen sideways-feed device in a typewriter |
+| [JP367760](JP367760.md) | 1949-07-15 | Japan | Nakata, Tōzaburō | Typewriter type magazine with a device to stop it running free |
+| [JP367761](JP367761.md) | 1949-07-15 | Japan | Nakata, Tōzaburō | Typewriter printing mechanism |
 | [DE867548](DE867548.md) | 1949-07-19 | Germany | Ag, Triumph Werke Nuernberg | Typewriter with hinged and removable cover |
 | [DE867760](DE867760.md) | 1949-08-02 | Germany | Deutschland, Ibm | Printing device for calculating and accounting machines |
+| [JP369543](JP369543.md) | 1949-08-12 | Japan | Itō, Gohei | Palm-operated Western-letter typewriter |
+| [JP369702](JP369702.md) | 1949-08-12 | Japan | Nakata, Tōzaburō | Typewriter |
 | [DE850009](DE850009.md) | 1949-08-14 | Germany | H, Olympia Werke West G M B | Paper trolley switching device for office machines, especially typewriters |
 | [DE903340](DE903340.md) | 1949-08-16 | Germany | Inc, Royal Typewriter Co | Device for especially power-driven typewriters for the variable setting of the &hellip; |
 | [USD154849](USD154849.md) | 1949-08-16 | USA | Hertz, Henry C. | Design for a Toy Typewriter |
@@ -10308,15 +10431,16 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE837478](DE837478.md) | 1949-09-26 | Germany | Ag, Anker Werke | Type carrier for cash registers, calculating and accounting machines |
 | [DE1076151](DE1076151.md) | 1949-09-27 | Germany | Corp, Burroughs | Control device on a card-controlled wire printing machine |
 | [DE825611](DE825611.md) | 1949-10-07 | Germany | Ag, Anker Werke | Receipt printer for cash registers, calculating and accounting machines |
+| [JP371303](JP371303.md) | 1949-10-11 | Japan | Nakata, Tōzaburō | Type-magazine operating device for a typewriter |
 | [DE825092](DE825092.md) | 1949-10-19 | Germany | Graff, Maximiliano | Type body with directional signs for writing business machines and recording &hellip; |
 | [DE846098](DE846098.md) | 1949-10-19 | Germany | Ruttenstock, Walter | Device on typewriters for writing on paper webs, in particular adhesive &hellip; |
 | [DE832441](DE832441.md) | 1949-10-26 | Germany | Fa, P Baumer | Device on typewriters, calculating machines or accounting machines for the &hellip; |
-| [JP182442](JP182442.md) | 1949-10-28 | Japan | Kataoka, Kōtarō | Typewriter reverse (back-turn) device |
+| [JP182442](JP182442.md) | 1949-10-28 | Japan | Shin-Nihon Kei Taipuraitā Seisakusho | Typewriter reverse (back-turn) device |
 | [DE836263](DE836263.md) | 1949-10-29 | Germany | Gmbh, Licentia | Catching device for stamp printer, especially ticket printer |
 | [DE806675](DE806675.md) | 1949-11-01 | Germany | Gelling, Helmut | Automatic switching device for the ribbon length movement of typewriters and &hellip; |
 | [DE832002](DE832002.md) | 1949-11-01 | Germany | Westermeier, Konrad | Automatic ribbon switching for electrically operated typewriters and accounting &hellip; |
 | [DE838447](DE838447.md) | 1949-11-04 | Germany | U, Torpedo Werke A G Fahrraeder | Line switching device for small typewriters |
-| [JP182406](JP182406.md) | 1949-11-04 | Japan | Kataoka, Kōtarō | Typewriter back-feed (return) device |
+| [JP182406](JP182406.md) | 1949-11-04 | Japan | Shin-Nihon Kei Taipuraitā Seisakusho | Typewriter back-feed (return) device |
 | [DE821638](DE821638.md) | 1949-11-08 | Germany | Zeuzem, Achim | typewriter |
 | [DE847959](DE847959.md) | 1949-11-15 | Germany | King, Hans | Carrier for a flat type portable typewriter |
 | [DE844598](DE844598.md) | 1949-11-16 | Germany | Soehne, Aug Birchmeier S | Support plate for portable typewriters |
@@ -10330,6 +10454,7 @@ Every patent in the library, oldest first, with the country that granted it ([by
 | [DE1088741](DE1088741.md) | 1949-12-19 | Germany | Corp, Burroughs | Printing unit for the printing of characters |
 | [DE1622625](DE1622625.md) | 1949-12-20 | Germany | P, Gossen & Co Gmbh | AUTOMATIC RIBBON CHANGE IN WRITING AND SIMILAR MACHINES. |
 | [DE896811](DE896811.md) | 1949-12-20 | Germany |  | Multiple typewriter |
+| [JP372706](JP372706.md) | 1949-12-23 | Japan | Ichimaru, Masakoto | Latin-letter printing machine |
 | [DE896496](DE896496.md) | 1950-01-03 | Germany | Broecker, Ludwine | Type typing machine |
 | [DE900349](DE900349.md) | 1950-01-12 | Germany | Kuentzel, Hellmuth | Key drive for typing or similar machines driven by pressing a key |
 | [DE834864](DE834864.md) | 1950-01-20 | Germany | C, Lorenz A G | Type basket for teleprinters |

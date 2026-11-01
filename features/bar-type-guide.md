@@ -4,14 +4,14 @@
 
 A guide that steadies the typebar at the print point for exact alignment
 
-**48 patents**, 1886–1947. Often together with:
+**55 patents**, 1886–1947. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (19)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (48), [Type basket and bearings](../features/bar-basket-bearings.md) (19), [Typebar action](../features/bar-type-action.md) (18)
-- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (11)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (16)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (11)
-- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (15)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (25)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (55), [Typebar action](../features/bar-type-action.md) (23), [Type basket and bearings](../features/bar-basket-bearings.md) (23)
+- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (17)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (21)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (16)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (17)
 
 **Machines:** [Underwood 4](../machines/underwood-4.md) (2), [Underwood 5](../machines/underwood-5.md) (2), [Yost 1](../machines/yost-1.md) (2), [Yost 2](../machines/yost-2.md) (2), [Yost 4 - 9](../machines/yost-4-9.md) (2), [Yost 10 - 14](../machines/yost-10-14.md) (2), [Remington Junior](../machines/remington-junior.md) (2), [Remington Port. 1, 2](../machines/remington-port-1-2.md) (2), [Underwood 2](../machines/underwood-2.md) (1), [Remington 5](../machines/remington-5.md) (1), [Remington 6](../machines/remington-6.md) (1), [Remington 7](../machines/remington-7.md) (1), [Remington 8](../machines/remington-8.md) (1), [Remington 9](../machines/remington-9.md) (1), [Daugherty](../machines/daugherty.md) (1)
 
@@ -45,12 +45,18 @@ A guide that steadies the typebar at the print point for exact alignment
 | [US758197](../patents/US758197.md) | 1904 | Wagner, Franz X. | Pivot each typebar through an angular pivot that enters keyhole slots in the segment, and make the bar two sliding sections whose type section self-centres against a beveled gage pin entering a guide aperture. |
 | [US775332](../patents/US775332.md) | 1904 | Kavle, Oscar C. | The scale is pivoted on the stationary segment and sprung toward the platen, with a toe and stop limiting travel, so it stays put when the platen shifts. |
 | [US823010](../patents/US823010.md) | 1906 | Walker, Charles Wellington | Keep every typebar straight, with its types one behind another in the bar's own radial plane, and change case by shifting the pivots of the drivers radially in that same plane with a common shift plate. |
+| [JP12644](../patents/JP12644.md) | 1906 | Holford, John Carbery | A typebar writing machine with a platen-shift upper case, a ribbon lift tied to the type bar and platen rail, a spring-drum carriage on a double-dog escapement, and removable platen, ribbon spools and key-lever units. |
 | [US858343](../patents/US858343.md) | 1907 | Hess, Edward B. | A guide stop on the bent part of each type bar enters the channel of the typebar guide and bears against the underside of a guide jaw, fixing the vertical position of the type head at the print point; the guide face is bevelled. |
 | [US918480](../patents/US918480.md) | 1909 | Smith, George H. | Key levers and segmental type bars pivot on a wire, with a type guide whose rounded portions run concentric with the pivot so the bars are held in their vertical travel and swing to the print point. |
+| [JP21617](../patents/JP21617.md) | 1909 | Hazen, Marshman Williams | A typebar machine with three-character type heads (lower, capital, figure) in which the whole carriage bed, platen, escapement and ribbon mechanism are lifted by shift levers to three heights and fold back over the keys for transport. |
+| [JP21618](../patents/JP21618.md) | 1909 | Petermann, Otto | A typebar machine whose platen, carriage, escapement and ribbon mechanism lift together on a slide to several locked heights (each type head carries figure, capital and small letter) and fold over the key levers for transport. |
 | [US958778](../patents/US958778.md) | 1910 | Smith, Arthur W. | A Yost type action with bell cranks that fulcrum first on one pivot then another (changing leverage to accelerate the typebar), jointed typebars that lock rigid at the end of the stroke, compensated key-lever linkage and leaf-spring key levers, all carried on a detachable auxiliary frame. |
 | [US990306](../patents/US990306.md) | 1911 | Smith, Arthur W. | Connect adjacent keys to widely separated typebars on opposite sides of the type circle, using two banks of bell cranks at different heights, long horizontal draw links and adjustable hangers so every action works in one plane. |
 | [DE272230](../patents/DE272230.md) | 1912 |  | Mount the type lever segments on a frame that tilts vertically, with intermediate levers and parallel guide arms arranged so the tie rods are not strained in their length during shift. |
 | [US1121808](../patents/US1121808.md) | 1914 | Dench, William L. | A key lifts the type guide so its fingers block the wide typebar shanks short of the platen, while the key action still runs. |
+| [JP31868](../patents/JP31868.md) | 1916 | Roebuck, Alvah Curtis | Build the machine as two sub-assemblies, a base carrying the actuating parts and a top plate carrying the working parts, joined by simple connecting links. |
+| [JP43667](../patents/JP43667.md) | 1921 | Matsumoto, Eiichi | Put the frequent characters on typebars with four-level carriage shift, and keep the rare characters as loose types in a rotating and sliding cylindrical store, chosen by an index on the drum and a pointer and printed by a type-catching bar that grips the type, prints, and returns it. |
+| [JP61127](../patents/JP61127.md) | 1921 | Matsumoto, Eiichi | Set the resting position of each type block progressively further inward from the middle toward both ends, by making the bars progressively shorter toward the ends or by setting their pivots progressively further back. |
 | [DE349015](../patents/DE349015.md) | 1922 | Schueler, Franz | Put a roller on the guide arm so that it runs onto the guide plate surface just before the type reaches the platen, so almost no sliding wear occurs. |
 | [DE389565](../patents/DE389565.md) | 1924 |  | Fix two bodies to each typebar: one with no characters to run in the guide, and one carrying the characters above it. |
 | [DE415691](../patents/DE415691.md) | 1925 | Pfahl, Winterling & | A sequence-dependent interlock between latch bolts, a locking comb that holds the intermediate levers, and the protective cover. |
@@ -60,6 +66,7 @@ A guide that steadies the typebar at the print point for exact alignment
 | [DE453511](../patents/DE453511.md) | 1927 | Ges, Feinmechanik G M B H | A single small wing, only as high as one character, swings out on the snout of a liquid storage container against a spring; soaked with ink, it is struck by the returning type and inks only the character that hits it. |
 | [DE464939](../patents/DE464939.md) | 1928 | H, Adlerwerke Kleyer Ag | A thin wire is set into holes in the type bar guide cover, just proud of its face, so the bars land on the wire and do not strike the cover. |
 | [DE557522](../patents/DE557522.md) | 1932 | Wolff, Robert | The whole type guide, or its guide legs, is adjustable in height and along the type body so each lever strikes a fresh guide point. |
+| [JP110739](../patents/JP110739.md) | 1935 | Schüler, Hugo | Two-type typebars hung on two links rest on a 90-degree arc near platen height and travel almost straight to the print point, freed from the key just before impact so they print by momentum. |
 | [DE624624](../patents/DE624624.md) | 1936 | Haas, Otto | The segment's top face is bevelled so its edges are two eccentric circular arcs, making the guide slots deepest at the outside and shallowest in the middle. |
 | [DE645557](../patents/DE645557.md) | 1937 | H, Adlerwerke Kleyer Ag | Use a very thin (about 0.2 mm) watch-spring steel plate screwed only on the platen side, loosely resting on the guide frame on the other side. |
 | [DE653587](../patents/DE653587.md) | 1937 | Winklhofer, Wanderer Werke Vorm | Mount the line-height pointer and ribbon lifter on parts independent of the in-and-out adjustment of the platen carriage, so they keep a constant distance from the type guide. |

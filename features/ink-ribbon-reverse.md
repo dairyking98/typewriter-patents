@@ -4,13 +4,13 @@
 
 Automatic ribbon reversing
 
-**442 patents**, 1871–1950. Often together with:
+**449 patents**, 1871–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (68)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (111)
-- **Inking:** [Ribbon feed](../features/ink-ribbon-feed.md) (412), [Ink ribbon](../features/ink-ribbon.md) (299), [Ribbon lift](../features/ink-ribbon-lift.md) (73)
-- **Spacing and escapement:** [Mainspring-drawn carriage](../features/esc-spring-drum.md) (102), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (80)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (62)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (73)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (116)
+- **Inking:** [Ribbon feed](../features/ink-ribbon-feed.md) (418), [Ink ribbon](../features/ink-ribbon.md) (306), [Ribbon lift](../features/ink-ribbon-lift.md) (77)
+- **Spacing and escapement:** [Mainspring-drawn carriage](../features/esc-spring-drum.md) (107), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (85)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (67)
 
 **Machines:** [L. C. Smith 7](../machines/l-c-smith-7.md) (3), [Caligraph 2](../machines/caligraph-2.md) (2), [Caligraph 3](../machines/caligraph-3.md) (2), [Caligraph 4](../machines/caligraph-4.md) (2), [Caligraph 5](../machines/caligraph-5.md) (2), [Caligraph 6, 7](../machines/caligraph-6-7.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Chicago 2](../machines/chicago-2.md) (2)
 
@@ -172,6 +172,7 @@ Automatic ribbon reversing
 | [US720992](../patents/US720992.md) | 1903 | Alexander, Jesse | Ribbon spools with ratchet wheels driven by gravity dogs from a rock shaft, shifted by a sliding bar to reverse the feed. |
 | [US725919](../patents/US725919.md) | 1903 | Barron, Walter J. | At the end of longitudinal ribbon travel, the keyboard and printing mechanism are automatically locked and a signal is given, prompting the operator to reverse the ribbon shifting mechanism. |
 | [US729815](../patents/US729815.md) | 1903 | Wagner, Franz X. | The spring that throws the ribbon-reversing clutch is re-cocked by every platen shift-key stroke, and a latch holds it until the ribbon's end pin trips it. |
+| [JP7850](../patents/JP7850.md) | 1903 | Donning, George Washington | A flat tilting platen with a self-levelling sliding book rest, a gantry carriage running on a tiltable track, and typebars whose heads carry three types and are rocked to the case by a half-ring behind the bars. |
 | [US735089](../patents/US735089.md) | 1903 | Green, John J. | Two ribbon rolls each act alternately as supply and take-up, driven by ratchets and pawls on oscillating carriers linked together and operated by the key action. |
 | [US738935](../patents/US738935.md) | 1903 | Pike, William H., Jr. | Friction-braked spools with ratchet and pawl reversing devices whose pawls are thrown over when the ribbon goes taut and the working ratchet stops turning. |
 | [US739100](../patents/US739100.md) | 1903 | Myers, Louis | The ribbon-spool holder carries a pin that, when the spool is exhausted, raises a switch into the carriage path, which then throws a reversing lever between two ratchet feeds. |
@@ -194,6 +195,7 @@ Automatic ribbon reversing
 | [US777282](../patents/US777282.md) | 1904 | Ford, David L. | A dog on each spool drops into a toothed wheel when the ribbon runs out, and the resulting turning shifts a rack rod that moves an axial shaft with clutch wheels to swap the driven spool. |
 | [US779188](../patents/US779188.md) | 1905 | Shepard, Charles H. | A ribbon feed from the carriage spring drum with a longitudinally shiftable drive shaft and automatically actuated locking means that confine feed to the chosen field and reverse it. |
 | [US794923](../patents/US794923.md) | 1905 | Brown, Alexander T. | A mechanism reverses the direction of ribbon feed automatically as an end of the ribbon is reached, with simpler parts than earlier designs. |
+| [JP11961](../patents/JP11961.md) | 1905 | Rieu-Madrassy, Marcel | About twenty keys each swing a type arm carrying two types, two shift keys slide the type-arm carriage so one or the other type is at the print point, and a common bar under all key levers steps the strip drum, strip feed and ribbon by ratchets. |
 | [DE187547](../patents/DE187547.md) | 1905 |  | The spring drum gets low rounded symmetrical teeth, and the ribbon-reversing arm carries a roller that rides over the teeth on return travel and engages to transmit motion only on the forward carriage movement. |
 | [US818745](../patents/US818745.md) | 1906 | Cooke, William L. | Halve the crank throw so the ribbon spools reciprocate only the width of one stripe, and give the pitman two spring-clip bearings for the crank pin so a keyboard-side key-lever can move the spools to the other stripe. |
 | [US819963](../patents/US819963.md) | 1906 | Wagner, Franz X. | Quickly detachable carriage and feed dogs so interchangeable carriages and dog sets can be substituted, plus a spring-drum feed. |
@@ -212,6 +214,7 @@ Automatic ribbon reversing
 | [US837031](../patents/US837031.md) | 1906 | Brown, Alexander T. | Ribbon spools with a releasable engaging device, a ribbon vibrator arm and guide pulley, and mechanism that reverses ribbon feed at each end. |
 | [US837131](../patents/US837131.md) | 1906 | Seib, George A. | Disconnect or control ribbon feed during carriage release and tabulator runs. |
 | [US837554](../patents/US837554.md) | 1906 | Fox - Barrett, William R. - Glenn J. | Improved automatic reverse, ribbon guide, lateral ribbon movement and spool guides, with a hinged guide to swing the ribbon aside for cleaning type. |
+| [JP12644](../patents/JP12644.md) | 1906 | Holford, John Carbery | A typebar writing machine with a platen-shift upper case, a ribbon lift tied to the type bar and platen rail, a spring-drum carriage on a double-dog escapement, and removable platen, ribbon spools and key-lever units. |
 | [US840120](../patents/US840120.md) | 1907 | Donning, George W. | A key with several contact stages first energizes a selecting magnet, then a power magnet, then cuts both, so a positioned typebar or type-head shifter is driven by the power device. |
 | [US846027](../patents/US846027.md) | 1907 | Hammond, James B. | Rearrange the ribbon spools to turn on horizontal axes transverse to the machine, so a larger anvil and shuttle fit with more characters. |
 | [US848402](../patents/US848402.md) | 1907 | Seidelinger, Robie | Automatically reverse the ribbon feed direction when a given length has passed from one spool to the other, and feed it crosswise so the whole width is used. |
@@ -238,6 +241,7 @@ Automatic ribbon reversing
 | [US886759](../patents/US886759.md) | 1908 | Brown, Alexander T. | A ribbon mechanism for multi-colour ribbons with automatic and manual reversal of feed, and a transmission between the two spool shafts. |
 | [US889102](../patents/US889102.md) | 1908 | Brown - Briggs, Alexander T. - Arthur J. | A ribbon mechanism that drives the ribbon transversely and longitudinally from a spring drum, with a reversing device for the striped ribbon. |
 | [US891047](../patents/US891047.md) | 1908 | Doane, John C. | Each pair of spools gets its own horizontal driving shaft, and a switching device silences one shaft while the other runs at the type strokes. |
+| [JP15038](../patents/JP15038.md) | 1908 | Billing, Noel Pemberton | A single-key index typewriter: a lever dropped into one tooth of a saw-toothed index plate turns a spring-returned type wheel through a rack and pinion, and pressing on prints and spaces. |
 | [US892618](../patents/US892618.md) | 1908 | Pool, Morris W. | The vibrator throw is varied so impressions follow several parallel paths along the ribbon, including separate fields of different character. |
 | [US896539](../patents/US896539.md) | 1908 | Hess, Edward B. | The ribbon mechanism provides automatic reversal and direct manual operation in either direction, and adjusts the ribbon throw so the type strikes a selected zone of the ribbon. |
 | [US896803](../patents/US896803.md) | 1908 | Cram, Edwin B. | Lateral ribbon movement is driven by the dog mechanism that steps the carriage, longitudinal feed is driven by the carriage motor, and a cam collar on the spool gearing reverses the ribbon when it has wound off one spool. |
@@ -367,12 +371,15 @@ Automatic ribbon reversing
 | [US1162689](../patents/US1162689.md) | 1915 | Edwards - Russell, Alrah B. - Frank K. | Two spool ratchets driven by spring-pressed pawls on levers that ride on the universal bar, with dogs that detect an empty spool and a lever-and-cam arrangement that swaps which pawl drives. |
 | [US1163580](../patents/US1163580.md) | 1915 | Alexander, Jesse | Drive only one spool shaft with two opposed ratchets and a loose-sleeve ratchet linked to the other spool shaft by a belt; the engaged drive pawl sets the feed direction. |
 | [US1165546](../patents/US1165546.md) | 1915 | Sholes, Zalmon G. | An automatic ribbon reverse where an empty bobbin's window lets a feeler move to shift the driving shaft to the other bobbin. |
+| [JP31868](../patents/JP31868.md) | 1916 | Roebuck, Alvah Curtis | Build the machine as two sub-assemblies, a base carrying the actuating parts and a top plate carrying the working parts, joined by simple connecting links. |
+| [JP35670](../patents/JP35670.md) | 1919 | Murooka, Sōshichi | A hand-pushed row of types is selected on a fan-shaped character board and struck upward electrically, while a wheel of paper cylinders turns step by step so the same character prints on each sheet in turn. |
 | [DE321333](../patents/DE321333.md) | 1920 |  | A lever carries a control pin, and a pawl moved by each downstroke of the pressure lever turns the lever by the pin position, so the drive switches to the other ribbon roll when the first roll fills. |
 | [DE324215](../patents/DE324215.md) | 1920 | Birsner, Franz | A switching device keeps all force and motion directions in parallel planes; a pin-and-lever arrangement alternately engages the right or left drive shaft to wind the ribbon one way or the other. |
 | [DE324218](../patents/DE324218.md) | 1920 | Moehling, Paul | A feeler lever resting on the wound ribbon trips a small weighted lever carried on a full-width switching lever, so one keystroke reverses the ribbon direction immediately and directly. |
 | [DE326967](../patents/DE326967.md) | 1920 | Birsner, Franz | Sector-shaped control disks with a flap and an obliquely recessed channel, driven by feeler levers in the ribbon, keep the switching lever moving so the correct reel drive is engaged. |
 | [DE326844](../patents/DE326844.md) | 1920 | Furtwaengle, Uhrenfabrik Vorm L | Tension in the run-off ribbon pulls a lever that shifts a shaft along its axis, so bevel gears alternately couple each reel shaft to the ratchet drive. |
 | [DE342369](../patents/DE342369.md) | 1921 |  | An adjustable link on the push-off lever carries inclined surfaces that act on spring-loaded switching pawls of each ribbon spool; the spring-loaded angle-lever arms resting on each coil move the link so that the ribbon reverses at the right time. |
+| [JP43667](../patents/JP43667.md) | 1921 | Matsumoto, Eiichi | Put the frequent characters on typebars with four-level carriage shift, and keep the rare characters as loose types in a rotating and sliding cylindrical store, chosen by an index on the drum and a pointer and printed by a type-catching bar that grips the type, prints, and returns it. |
 | [DE345961](../patents/DE345961.md) | 1921 |  | Cam-operated double levers, tripped by the roller axle on each pass, drive pawls on ratchet wheels that wind a main ribbon across the type set and auxiliary ribbon strips along it. |
 | [DE347700](../patents/DE347700.md) | 1922 | Inc, Royal Typewriter Co | A spool is punched from two sheet-metal discs, with the hub webs and drive pin cut from the plate, and a reversing lever is formed from one strip. |
 | [DE357977](../patents/DE357977.md) | 1922 | H, Gutschow & Co G M B | A single unitary lever, which pivots around its drive attachment point and has a ratchet at each end, is held by a spring against one of two ribbon ratchet wheels; when the ribbon tension changes, the lever engages the other wheel and reverses the ribbon feed. |

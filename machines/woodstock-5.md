@@ -33,12 +33,13 @@ tags: ["machine"]
 | Sales | very many |
 | Price when new | 540 marks |
 
-## Patents (2)
+## Patents (3)
 
 | Patent | Year | Inventor | Title | Confidence | Evidence |
 |---|---|---|---|---|---|
 | [US1149293](../patents/US1149293.md) | 1915 | Roebuck, Alvah C. | Type-Writer | medium | inventor = designer; patent 1915, machine 1916; both typebar |
 | [US1146959](../patents/US1146959.md) | 1915 | Roebuck, Alvah C. | Type-Writing Machine | low | inventor = designer; patent 1915, machine 1916 |
+| [JP31868](../patents/JP31868.md) | 1916 | Roebuck, Alvah Curtis | Typewriter | low | inventor = designer; patent 1916, machine 1916 |
 
 ## Same maker
 

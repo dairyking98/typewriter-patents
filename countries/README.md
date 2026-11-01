@@ -12,7 +12,7 @@ The library is organised so that every country gets the same treatment: its pate
 |---|---|---|---|---|
 | [USA](usa.md) | 6,269 | 1829–1951 | 6,266 | Google Patents; Google Patents OCR |
 | [Germany](germany.md) | 3,932 | 1880–1950 | 3,923 | DEPATISnet and Google Patents; Google Patents OCR |
-| [Japan](japan.md) | 192 | 1892–1949 | 192 | J-PlatPat; English translation of the Japanese text |
+| [Japan](japan.md) | 317 | 1888–1949 | 317 | J-PlatPat; English translation of the Japanese text |
 
 ## Machines, by the country they were made in
 
@@ -29,7 +29,7 @@ From Dingwerth's Lexikon. A machine made in two countries counts in both.
 | [Sweden](sweden.md) | 8 | 1896–1935 | 0 | not yet |
 | [Austria](austria.md) | 6 | 1864–1924 | 0 | not yet |
 | [Canada](canada.md) | 4 | 1885–1892 | 0 | not yet |
-| [Japan](japan.md) | 3 | 1917–1938 | 3 | 192 |
+| [Japan](japan.md) | 3 | 1917–1938 | 3 | 317 |
 | [Russia](russia.md) | 3 | 1872–1935 | 1 | not yet |
 | [East Germany](east-germany.md) | 3 | 1950–1955 | 2 | not yet |
 

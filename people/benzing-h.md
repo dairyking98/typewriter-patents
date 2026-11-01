@@ -3,15 +3,17 @@
 ## Assigned to
 
 - [VORM SEIDEL & NAUMANN AG](../companies/seidel.md) (17)
+- [Aktiengesellschaft vormals Seidel & Naumann](../companies/vormals.md) (3)
 - [HUGO KORNHASS](../companies/hugo.md) (2)
 - [AKTIGENGESELLSCHAFT VORM SEIDE](../companies/aktigengesellschaft.md) (1)
-- [VORMALS SEIDEL & NAUMANN AG](../companies/vormals.md) (1)
 
-## Patents (22)
+## Patents (24)
 
 | Patent | Date | Title | Carrier | Index score |
 |---|---|---|---|---|
 | [DE576313](../patents/DE576313.md) | 1933-06-14 | Power drive for typewriters, calculating machines or the like. |  | -20.0 |
+| [JP107529](../patents/JP107529.md) | 1934-04-20 | Shift device for typewriters, typing calculating machines and the like |  | -20.0 |
+| [JP107846](../patents/JP107846.md) | 1934-05-04 | Typebar drive for typewriters, typing calculating machines and the like |  | -22.4 |
 | [DE603479](../patents/DE603479.md) | 1934-10-01 | Device for limiting the beginning and end of a line on writing, calculating and &hellip; |  | -20.0 |
 | [DE605642](../patents/DE605642.md) | 1934-11-15 | Spring winding mechanism |  | 0.0 |
 | [DE605641](../patents/DE605641.md) | 1934-11-19 | Switching device for writing, writing arithmetic or similar machines |  | 0.0 |

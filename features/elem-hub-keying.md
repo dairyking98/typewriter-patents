@@ -4,10 +4,10 @@
 
 How the element mounts and keys to its shaft or hub
 
-**79 patents**, 1875–1949. Often together with:
+**80 patents**, 1875–1949. Often together with:
 
 - **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (19)
-- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (36), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (27), [How the element is made](../features/elem-element-construction.md) (19), [Alignment lock at the print point](../features/elem-alignment-lock.md) (18)
+- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (37), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (27), [How the element is made](../features/elem-element-construction.md) (20), [Alignment lock at the print point](../features/elem-alignment-lock.md) (19)
 - **Shift and cases:** [Shift by sliding the element](../features/shift-axial.md) (26)
 - **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (20), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (19)
 
@@ -52,6 +52,7 @@ How the element mounts and keys to its shaft or hub
 | [US707548](../patents/US707548.md) | 1902 | Campbell, Walter Hope | Several shuttles share one circular anvil, each with a fin gap that a spring driving-arm snaps into, so the operator swaps the working shuttle by pushing the shuttles around or by raising the anvil to a second groove. |
 | [US747105](../patents/US747105.md) | 1903 | Wendt, Willhelm | A segment on the type-wheel socket is stopped by raised stop-pins and an angle-lever entering a slit in a driven disc, with an adjustable spring-loaded hammer. |
 | [US749000](../patents/US749000.md) | 1904 | Tyberg, Oluf | A type wheel kept continuously revolving by a geared drive is bodily moved sideways at the moment of impression by an amount that cancels the surface motion of the chosen type, so that type is momentarily stationary for the hammer to strike. |
+| [JP8673](../patents/JP8673.md) | 1905 | Hammond, James B. | A ring-shaped hard-rubber shuttle with an inner metal flange running between a two-part anvil, notched for several character sets and released from its driving arm by a slide, driven by swinging speed dogs, with a small seven-character shuttle for Braille where two keys build each character. |
 | [US825966](../patents/US825966.md) | 1906 | Hammond, James B. | Two spring-held retainer bars with overhanging fingers clamp over the shuttle's top flange and are squeezed inward to release it for vertical removal. |
 | [US825967](../patents/US825967.md) | 1906 | Hammond, James B. | Make the shuttle a very thin hard-rubber ring whose top flange both stiffens it and connects to the shuttle arm, and add independent speed-dogs between the key drivers and the arm so the shuttle can reverse without recentring. |
 | [US825968](../patents/US825968.md) | 1906 | Hammond, James Bartlett | A ring-form hard-rubber shuttle reinforced by an inner metal flange molded in, driven by a radially releasable shuttle-arm finger so the shuttle can be twirled to a different font set without lifting. |
@@ -91,7 +92,7 @@ How the element mounts and keys to its shaft or hub
 | [DE695069](../patents/DE695069.md) | 1940 | Zinter, Richard | The type block slides onto a slideway at the typebar head from below and is held by a pawl-like retaining spring snapping into a locking groove, with a fixed stop above. |
 | [DE709024](../patents/DE709024.md) | 1941 | Alfredo, Tombolini | Each type lever hooks onto a bearing pin of the neighbouring connecting plate and can be detached and moved around the segment pin; the plate carries a tooth sector. |
 | [DE710355](../patents/DE710355.md) | 1941 | A, Ransmayer A & Rodrian | The type body is spot-welded to the type lever while clamped in heat-conducting jaws, with a narrowed heat path and cooling, so the printing face stays hard. |
-| [JP157673](../patents/JP157673.md) | 1943 | Kataoka, Kōtarō | Case ends sit in notches round ring plates, held by an outer ring whose groove and hollows catch spring-loaded balls, with a notch to release a case. |
+| [JP157673](../patents/JP157673.md) | 1943 | Takeuchi, Hideo | Case ends sit in notches round ring plates, held by an outer ring whose groove and hollows catch spring-loaded balls, with a notch to release a case. |
 | [DE834609](../patents/DE834609.md) | 1948 | Ag, Anker Werke | Gears or type wheels are riveted to short tubes that are carried by a guide plate in a guide comb, which is screwed to a support part, so no long hollow shaft is needed. |
 | [JP366048](../patents/JP366048.md) | 1949 | Nakata, Tōzaburō | A turnable disc with radial wedge spacers forming type-wide recesses holds several tiers of types, clamped by a notched-rib holding plate with index characters on top. |
 | [DE850530](../patents/DE850530.md) | 1949 | Co, Ncr | A rigid metal disc with bent-over teeth on its rim is moulded into the type material, so that each bent tooth backs one character and the moulding holds on dovetail anchors. |

@@ -4,13 +4,12 @@
 
 Dial or knob turned to the character; carrier coupled rotationally
 
-**101 patents**, 1856–1949. Often together with:
+**111 patents**, 1856–1949. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (38)
-- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (33)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (36), [Separate print key or lever](../features/imp-print-lever.md) (34), [Hand presses the type through](../features/imp-press-through.md) (31)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (42)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (35), [Separate type slugs or plungers](../features/elem-individual-slugs.md) (33)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (42), [Separate print key or lever](../features/imp-print-lever.md) (41), [Hand presses the type through](../features/imp-press-through.md) (32)
 - **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (41), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (39)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (31)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (2), [Columbia Index 1](../machines/columbia-index-1.md) (1), [Columbia Index 2](../machines/columbia-index-2.md) (1)
 
@@ -103,12 +102,14 @@ Dial or knob turned to the character; carrier coupled rotationally
 | [DE438630](../patents/DE438630.md) | 1926 | Schnabel, Karl | Matrices and male molds sit in several rows on roller segments with convex faces toward each other; a hand lever on a scale plate sets the character by rotating the segments in opposite directions, and the segments are pressed together to emboss. |
 | [JP76345](../patents/JP76345.md) | 1927 | Nishihara, Kiyohiko | Divide the work: one hand-held handle moves the printing cylinder left-right (by turning) and fore-aft (by pushing and pulling), while a foot pedal does the printing action. |
 | [DE463942](../patents/DE463942.md) | 1928 |  | A cheap adding machine that also prints totals and sales receipts: sprocket wheels set digits, gears carry the motion to toothed-rack type rods that print, and the type bars return to zero after each print. |
-| [JP79547](../patents/JP79547.md) | 1928 | Shimada, Minokichi | A cylindrical magazine with ring grooves of loose types is wrapped by curved L-section support frames that hold the types by a side groove, leaving a gap at the top where the printing lever lifts the chosen type. |
+| [JP79547](../patents/JP79547.md) | 1928 | Tōyō Typewriter Co., Ltd. | A cylindrical magazine with ring grooves of loose types is wrapped by curved L-section support frames that hold the types by a side groove, leaving a gap at the top where the printing lever lifts the chosen type. |
 | [DE477191](../patents/DE477191.md) | 1929 | Gansert, Hermann | A dial-set type disk carries inner and outer type rings; a finger on the disk turns a lever that lifts a locking hook, so the drawer opens only after the seller has removed the receipt. |
 | [DE492009](../patents/DE492009.md) | 1930 |  | A whorl on a bolt fixed to the control plate clamps the plate against the box plate and driver plate, and releases it for one-hand adjustment through notches and a spring-loaded head. |
 | [JP89443](../patents/JP89443.md) | 1930 | Uchida, Kōichi | A boxed recorder with a turntable of radial swinging type arms and an outside index disc: turn the disc to a character, press a centre spindle to print it on a paper strip, and the release stroke feeds the strip one step. |
+| [JP93910](../patents/JP93910.md) | 1931 | Sekiguchi | A lifting curved frame of tiers and cells with drawable type containers, positioned by an indicator dial, whose selected tier is pushed out by a handle so a push-button gripper can pick one type and carry it to a composing plate (or a paper sheet to print). |
 | [JP94273](../patents/JP94273.md) | 1931 | Ishii, Shōkichi | Set many rim-typed magazine discs side by side on an arc shaft, each with its own key and type bar, so that once the magazines are turned to one row, any of the types in that row can be printed one after another from the keys. |
 | [DE580989](../patents/DE580989.md) | 1933 | Gerson, Adolf | Trapezoidal type sticks lie side by side forming a closed ring that is turned along a fixed rail with a cutout where one stick is pressed down. |
+| [JP103468](../patents/JP103468.md) | 1933 | Jitsu, Takeo | A motor-driven printing drum and cutter feed and cut paper, a hand-set selection drum stamps the chosen face, and a copying roller then copies it onto a take-up strip. |
 | [JP105151](../patents/JP105151.md) | 1933 | Oshitari, Kingo | A tilting round box holds a hand-turned disc carrying a half circle of swinging type keys, one of which is aligned with a notch to be pressed, and each press-and-release spaces the whole box one ratchet step along a bar over the fixed paper. |
 | [JP110895](../patents/JP110895.md) | 1934 | Abe, Okujirō | Type cases ride on a swinging frame turned by a hand wheel, and a spring-coupled cover plate with openings slides over them to expose a chosen case or to cover all when the frame is swung fully forward. |
 | [DE614344](../patents/DE614344.md) | 1935 |  | A single adjustment shaft sets all printing disks and display disks at once through interlocking gears, so the day advances one step as the shaft turns. |
@@ -116,6 +117,14 @@ Dial or knob turned to the character; carrier coupled rotationally
 | [DE654560](../patents/DE654560.md) | 1937 | Maschinenbau, Adrema | Swinging the adjusting handwheel engages the clutch and the pawl into the gear of the type wheel shaft, the clutch disengages automatically after one turn, and a V-belt connects the handwheel shaft to the type wheel shaft. |
 | [JP127819](../patents/JP127819.md) | 1938 | Hosoya, Shinji | One handle turns a disc type magazine, a character-table band and pointers together, so the group shown in the window is already under the printing levers and a numbered key prints it. |
 | [JP128089](../patents/JP128089.md) | 1938 | Hosoya, Shinji | A disc-shaped type magazine is turned by a crank in step with a character index pointer and window, and a shift lever slides it forward or back one or two character spaces so that the wanted type sits under one of a few fixed printing levers. |
+| [JP136394](../patents/JP136394.md) | 1940 | Mita, Kikuji | Select a character with two telephone dials, one sliding a multi-ring type cylinder along its axis to the right ring and the other turning it to the right type, with the print released by spring when the second dial finishes its turn. |
+| [JP141961](../patents/JP141961.md) | 1940 | Shin-Nihon Kei Taipuraitā Seisakusho | One handle's stroke first lifts a cam-driven locking piece into the wheel's gear teeth, then tips the rocking frame to print, with a roller on a guide piece keeping the lock engaged throughout. |
 | [DE713496](../patents/DE713496.md) | 1941 |  | The actuator is a cam disk with several points of action, arranged over the control piece so it can set the control piece without ever moving it automatically. |
 | [JP178253](../patents/JP178253.md) | 1948 | Kobayashi, Kaichi | Pack the types loosely round the whole ring with a single follower, and use a plunger with ratchet and cap to print and step in one stroke or step alone. |
 | [JP366048](../patents/JP366048.md) | 1949 | Nakata, Tōzaburō | A turnable disc with radial wedge spacers forming type-wide recesses holds several tiers of types, clamped by a notched-rib holding plate with index characters on top. |
+| [JP180163](../patents/JP180163.md) | 1949 | Nakata, Tōzaburō | Pivot many type holders round the lower rim of a drum, each holder carrying several rows of types on one vertical centre line and also acting as the striking bar, with the drum able to turn and move up and down. |
+| [JP367760](../patents/JP367760.md) | 1949 | Nakata, Tōzaburō | A spring-loaded roller engages one of a ring of waves inside the drum, one per type column, holding the drum at each position while the drum can still rise and fall. |
+| [JP367761](../patents/JP367761.md) | 1949 | Nakata, Tōzaburō | A cylindrical type magazine turns and slides on an outer shaft while a coaxial inner shaft doubles as the print lever that flips a type holder to strike. |
+| [JP369543](../patents/JP369543.md) | 1949 | Itō, Gohei | A hand-held palm-operated device with a thumb-turned type belt, a pressing lever and polygonal wheels that step it along the paper. |
+| [JP371303](../patents/JP371303.md) | 1949 | Nakata, Tōzaburō | Concentric inner and outer shafts: turning the inner shaft rotates the magazine through a pin-and-slot, a hand gear on a rack slides the outer shaft for the tier, pressing the inner shaft prints. |
+| [JP372706](../patents/JP372706.md) | 1949 | Ichimaru, Masakoto | Two radial type wheels, capitals and small letters, with spring-held blocks pressed by finger knobs through slots, turned by a crank to an arrow. |

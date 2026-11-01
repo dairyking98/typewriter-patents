@@ -7,7 +7,7 @@ Name variants: L C SMITH & CORONA TYPEWRITERS; L.C. Smith & Corona Typewr. Co; L
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Corona 4](../machines/corona-4.md) | 1924 | QWERTY-type keyboard | typebar | 35 |
+| [Corona 4](../machines/corona-4.md) | 1924 | QWERTY-type keyboard | typebar | 36 |
 | [L. C. Smith 8/10](../machines/l-c-smith-8-10.md) | 1928 | QWERTY-type keyboard | typebar | 0 |
 | [Corona Sterling](../machines/corona-sterling.md) | 1932 | QWERTY-type keyboard | typebar | 2 |
 | [Corona Silent](../machines/corona-silent.md) | 1934 | QWERTY-type keyboard | typebar | 0 |

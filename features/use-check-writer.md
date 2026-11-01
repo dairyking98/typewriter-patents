@@ -4,14 +4,13 @@
 
 Check writer or amount printer
 
-**103 patents**, 1886–1950. Often together with:
+**106 patents**, 1886–1950. Often together with:
 
-- **Selection:** [Dial or knob](../features/sel-dial.md) (8), [Selection locked for printing](../features/sel-selector-locking.md) (8)
-- **Type element:** [Type disc (types on the face)](../features/elem-disc-face.md) (9), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (8)
-- **Impression:** [Separate print key or lever](../features/imp-print-lever.md) (16)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (9), [Selection locked for printing](../features/sel-selector-locking.md) (9), [Dial or knob](../features/sel-dial.md) (8)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (10), [Type disc (types on the face)](../features/elem-disc-face.md) (10)
+- **Impression:** [Separate print key or lever](../features/imp-print-lever.md) (17)
 - **Paper and carriage:** [Feed rollers and paper release](../features/pap-feed-rollers.md) (19)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (7)
-- **Uses:** [Typewriter with adding machine](../features/use-calculating.md) (10)
+- **Uses:** [Typewriter with adding machine](../features/use-calculating.md) (11)
 
 ## Patents, oldest first
 
@@ -81,6 +80,7 @@ Check writer or amount printer
 | [DE374937](../patents/DE374937.md) | 1923 | Ges, Anker Werke Akt | A gear and lever linkage ties the setting elements so that only one check is printed for some items and two for others. |
 | [DE391462](../patents/DE391462.md) | 1924 | Co, Ncr | The cut check is moved out by eccentric disks working with conveyor disks that have flats, so the flats face the counter disks in the normal position and the strip can advance unhindered. |
 | [DE402629](../patents/DE402629.md) | 1924 | Lang, Heinrich | Typebars made as punch tools, with counter levers striking from below through a slotted plate, punch characters like typing. |
+| [JP67194](../patents/JP67194.md) | 1925 | La Pegna, Raffaello | Several groups of typebar linkages, one per column, share one set of keys, and a hand-set selector puts chosen groups in working state so one key stroke prints the same figure in all selected columns. |
 | [DE423591](../patents/DE423591.md) | 1926 | Co, Ncr | A setting selects single or double printing; a Maltese cross driven by pins from a disc lifts the pressure plate that presses the paper against the type wheels, and one of two pins can be disengaged to give a single stroke. |
 | [DE430000](../patents/DE430000.md) | 1926 | Co, Ncr | A spring-loaded coupling member with two locking arms, controlled by the control knob and the cash-sale button, engages or disengages the check printing and issuing gear and prevents the member from taking its clutch position when no check is to be issued. |
 | [DE432437](../patents/DE432437.md) | 1926 | Co, Ncr | A special check-issue key acts through a crank mechanism to set an eccentric so the conveyor rollers repeatedly engage for a chosen number of checkouts, then they are released. |
@@ -94,10 +94,12 @@ Check writer or amount printer
 | [DE472664](../patents/DE472664.md) | 1929 | Ag, Anker Werke | Two independently attached check strips receive different imprints and may be coloured differently, and a common printing unit prints both. |
 | [DE478821](../patents/DE478821.md) | 1929 | Co, Ncr | The main drive shaft turns through three rotations; intermediate members drive the check device in the first and third rotation, and special keys disable it, though the OCR leaves the defect only partly clear. |
 | [DE498649](../patents/DE498649.md) | 1930 | Bornkessel, Bruno | A spring-held control member, moved against the spring by two adjusting means, switches the lifting means set during machine operation; the check is issued only when it is moved. |
+| [JP91477](../patents/JP91477.md) | 1930 | Egawa, Yoshimitsu | A continuously spinning type disc is stopped by a key-operated stop dropping into a hole of a selector cylinder on the same shaft, then a clutch-started one-turn shaft lowers the disc shaft to print and advances the paper box. |
 | [JP92610](../patents/JP92610.md) | 1931 | Uchida, Kōichi | A row of identical arc-shaped type frames, one per digit position, each turned by a space-advancing sliding piece driven from control levers so the chosen type comes to the top, then all pushed together into a stamp holder. |
 | [DE524258](../patents/DE524258.md) | 1931 | Radermacher, August | The check transport path is split into several sections, each tied to a plunger movement, which can be switched on or off per operation so checks of different lengths and marks are issued. |
 | [DE526571](../patents/DE526571.md) | 1931 | Co, Ncr | Check printing and dispensing apparatus are made dependent on receipt presence and are switched in or out by special setting elements such as transaction keys. |
 | [DE527808](../patents/DE527808.md) | 1931 | Co, Ncr | Interchangeable name cliches and facsimile signatures are printed together with the amount and date, locked so unauthorised people cannot insert or remove them. |
+| [JP104336](../patents/JP104336.md) | 1933 | Masuda, Kichie | Digit-keys stop spring-pulled rack plates that turn per-place type wheels, with a common control bar that releases the racks and returns them all. |
 | [DE582551](../patents/DE582551.md) | 1933 | Winklhofer, Wanderer Werke Vorm | The platen is wrapped with closely wound fine steel wire, ends soldered to the body so the wire rests resiliently, which embosses and cuts the paper for indelible characters. |
 | [JP105151](../patents/JP105151.md) | 1933 | Oshitari, Kingo | A tilting round box holds a hand-turned disc carrying a half circle of swinging type keys, one of which is aligned with a notch to be pressed, and each press-and-release spaces the whole box one ratchet step along a bar over the fixed paper. |
 | [DE594958](../patents/DE594958.md) | 1934 | Last, James | Memo cards or strips are conveyed in step with the checks through the same machine so each card stays matched to its check. |

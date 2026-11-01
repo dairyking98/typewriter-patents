@@ -4,12 +4,12 @@
 
 Frame or casing construction (cast
 
-**474 patents**, 1845–1950. Often together with:
+**478 patents**, 1845–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (79)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (131), [Type basket and bearings](../features/bar-basket-bearings.md) (61), [Typebar action](../features/bar-type-action.md) (54)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (79)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (100), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (89), [Portable or compact](../features/frm-compact-portable.md) (59)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (82)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (134), [Type basket and bearings](../features/bar-basket-bearings.md) (63), [Typebar action](../features/bar-type-action.md) (56)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (82)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (101), [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (90), [Portable or compact](../features/frm-compact-portable.md) (61)
 
 **Machines:** [Remington Port. 1, 2](../machines/remington-port-1-2.md) (6), [Corona 3](../machines/corona-3.md) (5), [Smith Premier 10](../machines/smith-premier-10.md) (4), [Bar-Lock 12](../machines/bar-lock-12.md) (4), [Bar-Lock 14](../machines/bar-lock-14.md) (4), [Bar-Lock 15](../machines/bar-lock-15.md) (4), [Visigraph](../machines/visigraph.md) (4), [Remington Junior](../machines/remington-junior.md) (4), [Remington Portable 3](../machines/remington-portable-3.md) (4), [Fisher 2](../machines/fisher-2.md) (3), [Monarch Pioneer](../machines/monarch-pioneer.md) (3), [Smith Premier Simplex](../machines/smith-premier-simplex.md) (3), [Smith Premier Ratiotyp](../machines/smith-premier-ratiotyp.md) (3), [Remington Port. Tab](../machines/remington-port-tab.md) (3), [Remington 6](../machines/remington-6.md) (2)
 
@@ -167,6 +167,7 @@ Frame or casing construction (cast
 | [US927425](../patents/US927425.md) | 1909 | McLaughlin, John C. | Rails with opposing grooves carry rollers in pairs with axes at right angles; one rail is adjustable by holding and set screws to give a close fit, and a channel rail is removable for substituting carriage lengths. |
 | [US932176](../patents/US932176.md) | 1909 | Roderick, Charles | A base plate with a lower forward part and an elevated rear part, carrying upright standards that support the type-bar sets pivoted on them. |
 | [US933209](../patents/US933209.md) | 1909 | Steele, Herbert H. | Carriage retarding mechanism in a case mounted to the top plate near the escapement pinion, with a spring in one form. |
+| [JP21618](../patents/JP21618.md) | 1909 | Petermann, Otto | A typebar machine whose platen, carriage, escapement and ribbon mechanism lift together on a slide to several locked heights (each type head carries figure, capital and small letter) and fold over the key levers for transport. |
 | [US942366](../patents/US942366.md) | 1909 | Deeter, William M. | A single spring-metal blank bent into a clamp that snaps over the typewriter frame and holds a circular or oblong eraser within reach. |
 | [US942853](../patents/US942853.md) | 1909 | Barr, John H. | Felt strips in sheet-metal casings, one per key row, arrest the key-stem collars below the keyboard plate. |
 | [US943108](../patents/US943108.md) | 1909 | Cage, Gustavus A. | An upright at the front of the machine, beside the spacing key, is engaged by the thumbs to fix the hand position over the keyboard. |
@@ -259,7 +260,9 @@ Frame or casing construction (cast
 | [US1163966](../patents/US1163966.md) | 1915 | Anderson, Nils H. | A stamped sheet-metal ball retainer with openings for the balls and a pinion-carrying tongue, with flat forked keepers that surround and hold each ball in place. |
 | [US1164056](../patents/US1164056.md) | 1915 | Barr - Barney, John H. - Edwin E. | A front-stroke typewriter whose typebar action, pusher device and frame of five castings are rearranged so the segment, not the platen, shifts for case change. |
 | [US1166390](../patents/US1166390.md) | 1915 | Sholes, Zalmon G. | A light platen whose body is ground pith (corn stalk, rush or sunflower stem) bound with printers' roll gelatine that is poured in hot around a core and covered with rubber, so it is quiet and light. |
+| [JP31868](../patents/JP31868.md) | 1916 | Roebuck, Alvah Curtis | Build the machine as two sub-assemblies, a base carrying the actuating parts and a top plate carrying the working parts, joined by simple connecting links. |
 | [USRE14495](../patents/USRE14495.md) | 1918 | Latta, Emmit G. | The frame is split into a stationary lower section holding type bars and keys and a movable section carrying carriage, platen and ribbon that lowers into it, so the machine collapses to about the height of the keyboard. |
+| [JP39929](../patents/JP39929.md) | 1919 | The Hammond Typewriter Company | Rigid fingers on the hinged keyboard extension seat in grooves in the base and are held by a spring catch, while a spring-loaded bar locks the key levers automatically on folding and a rock-shaft arm carries the shift keys across the fold. |
 | [DE322035](../patents/DE322035.md) | 1920 | Garlanda, Eligio | Two stamped sheet-metal segment plates with lobes twisted 90 degrees so they interlock, carrying three-armed levers pinned on tabs. |
 | [DE323045](../patents/DE323045.md) | 1920 | Gistl, Alois | A housing with an internal groove holds a multi-tongued expanding spring that carries the foot load and spreads vibration to the housing, with an interchangeable spring for different weights. |
 | [DE324145](../patents/DE324145.md) | 1920 | Co, Sholes Standard Typewriter | A removable plate with beveled edges carries the carriage support and engages one recess; the plate is held by rotary holders and a hook on the spring drum band. |
@@ -275,6 +278,7 @@ Frame or casing construction (cast
 | [DE337504](../patents/DE337504.md) | 1921 |  | Key levers split into two groups swing sideways into a non-use position parallel to the roller axis, and the front wall hinges into a box base so the machine folds into a rectangular case. |
 | [DE336672](../patents/DE336672.md) | 1921 | Co, Remington Typewriter | A single link carrying both the reversing (sliding) feed pawl and a lock that keeps the feed rack engaged is attached to the oscillating shaft and shifts with the push rod and paper carriage. |
 | [DE336675](../patents/DE336675.md) | 1921 | Furtwaengle, Uhrenfabrik Vorm L | Multi-layer leaf-spring shock absorbers wrap the platen pivot pins; air gaps between layers damp the transmitted noise. |
+| [JP61016](../patents/JP61016.md) | 1921 | Sandor, Franz | Split a visible-writing typebar typewriter into a front frame (keys, type levers, ribbon gear) and a rear frame (carriage, escapement, platen frame) joined by four screws, so either half can be exchanged. |
 | [DE339006](../patents/DE339006.md) | 1921 | Maschf, Rheinische Metallw & | The tubes have only one constriction at one point, which acts as the stroke limiter, and the spring is retained by constrictions on the inner tube end. |
 | [DE339259](../patents/DE339259.md) | 1921 | Dressler, Wilhelm | The type lever bearing axles have an angular cross-section instead of round, and the bearing is a pair of threaded cones with a ring body holding balls, so larger balls fit and the flat rods are removed. |
 | [DE339406](../patents/DE339406.md) | 1921 | Sandor, Franz | Split a visible-writing typewriter along a transverse vertical plane into two complete frames, keyboard-and-typebar front and carriage rear, joined by a light hand-releasable coupling. |

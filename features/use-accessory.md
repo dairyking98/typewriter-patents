@@ -4,12 +4,12 @@
 
 Attachment or accessory for an existing typewriter
 
-**1024 patents**, 1875–1950. Often together with:
+**1030 patents**, 1875–1950. Often together with:
 
 - **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (71)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (70)
-- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (103)
-- **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (172), [Line and point indicator](../features/pap-line-indicator.md) (106), [Roller platen](../features/pap-platen-roller.md) (97), [Line spacing](../features/pap-line-space.md) (93)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (71)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (104)
+- **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (173), [Line and point indicator](../features/pap-line-indicator.md) (107), [Roller platen](../features/pap-platen-roller.md) (98), [Line spacing](../features/pap-line-space.md) (95)
 - **Frame and body:** [Cleaning access](../features/frm-cleaning-access.md) (69)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (4), [Blickensderfer 3](../machines/blickensderfer-3.md) (4), [Blickensderfer 4](../machines/blickensderfer-4.md) (4), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (4), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (4), [Blickensderfer 7](../machines/blickensderfer-7.md) (4), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (4), [Dactyle](../machines/dactyle.md) (4), [Blickensderfer 8](../machines/blickensderfer-8.md) (3), [Fisher 2](../machines/fisher-2.md) (2), [Underwood 4](../machines/underwood-4.md) (2), [Underwood 5](../machines/underwood-5.md) (2), [Oliver 5](../machines/oliver-5.md) (2), [Oliver 6](../machines/oliver-6.md) (2), [Oliver 7, 8](../machines/oliver-7-8.md) (2)
@@ -157,6 +157,7 @@ Attachment or accessory for an existing typewriter
 | [US473718](../patents/US473718.md) | 1892 | Webb - Chapin, George B. - Louis N. | The ribbon is packed in a box of distinctive construction, and the machine has a receptacle shaped to take that box. |
 | [US474236](../patents/US474236.md) | 1892 | Free, John R. | A wick-fed ink pad and a flexible rubber inking cup stand at the centre of the type basket, and each rising typebar tips the cup against the pad to re-ink and then takes ink from the cup. |
 | [US474733](../patents/US474733.md) | 1892 | Graff, George E. | A brush mounted outside the machine on a slide in a way on the top plate, moved to clean each type separately with the face visible. |
+| [JP2306](../patents/JP2306.md) | 1892 | Takayama, Kinsaku | Add a thumb push-button and ratchet to advance the paper while the left hand holds the box, and give each vowel-stamp ring a screw adjustment plus a spring-loaded second type for nasal sounds. |
 | [US475777](../patents/US475777.md) | 1892 | Keatinge, John R. | A rotary brush on a vertical shaft in a frame with telescoping extensions and thumb-screws, cranked over the types. |
 | [US475807](../patents/US475807.md) | 1892 | Sears, Charles | A second type-writer wheel with fonts on a matrix machine's shaft prints onto a paper carrier linked to the matrix. |
 | [US476727](../patents/US476727.md) | 1892 | Brower - Ross, John H. - Herbert C. | A magazine on the feed carriage holds a series of envelopes under a follower, and a feeder removes them one at a time to the platen. |
@@ -670,6 +671,7 @@ Attachment or accessory for an existing typewriter
 | [US1052012](../patents/US1052012.md) | 1913 | Purdy, John | A paper gage on the platen shaft and paper table is adjustable along most of the platen length and can be removed from the machine when wanted. |
 | [US1052046](../patents/US1052046.md) | 1913 | Elliott, Howard | A light detachable shelf rests on the front bar of a visible-writer typewriter, carries a memorandum pad in line with the visual angle to the printing point, and slides along the bar. |
 | [US1056644](../patents/US1056644.md) | 1913 | Donning, George W. | A flat-platen typewriter where the writing mechanism runs on tracks over a hinged flat platen, with a book support underneath. |
+| [JP23518](../patents/JP23518.md) | 1913 | Friedman, Leslie Harold | An attachment for any typewriter that returns the carriage and turns the platen automatically at the end of a line (or earlier at a key), using one spring that drives the carriage both ways through a clutch and is kept wound automatically. |
 | [US1058868](../patents/US1058868.md) | 1913 | Kepple - Anderson - Hickok, William A. - Samuel - William O., 3rd. | A card feeder in which a weight rests on the pile, held to a dovetailed gage, and descends by gravity as the cards are fed from the bottom. |
 | [US1062386](../patents/US1062386.md) | 1913 | Corcoran, Cornelius B. | A cutting blade extends along the platen, is adjustable in slots in the platen-frame ears, and is held by clamping devices. |
 | [US1063948](../patents/US1063948.md) | 1913 | Bates, Harry | A coin-operated lever withdraws the key-locking arm and a latch from a clockwork-driven latching wheel; the machine relocks when the latch drops into a notch. |
@@ -872,6 +874,7 @@ Attachment or accessory for an existing typewriter
 | [DE471169](../patents/DE471169.md) | 1929 |  | A detachable lever mechanism attached to the printing-unit switch slide alternately sets and triggers that switch, easing series entry on keyboard machines. |
 | [DE471270](../patents/DE471270.md) | 1929 | Ag, Vorm Seidel & Naumann | A one-piece frame with pins hooks into the paper pressure arms in place of the paper roller, and rollers press the template to the platen while the existing release lever lifts it. |
 | [DE459534](../patents/DE459534.md) | 1929 |  | The computing drive is mounted on the front wall, with slides driven by the number key pull rods, a control shaft with a screw cam, and a drive gear arch that engages the counter drive wheel. |
+| [JP82321](../patents/JP82321.md) | 1929 | Frank, L. | Two identical 36-sign button groups, one per hand, with each character selected by pressing the matching row button on one and column button on the other, closing a circuit to an electromagnet that pulls the typebar's key lever. |
 | [DE474865](../patents/DE474865.md) | 1929 | Blaesing, Heinrich | A holder plate on T-shaped rails with snap-ball detents and a double bearing locks in any position by pressure without screws. |
 | [DE474866](../patents/DE474866.md) | 1929 | Blaesing, Heinrich | Line indicator guided on pins under compression springs presses lightly on any template, staying horizontal for thick or thin originals. |
 | [DE474864](../patents/DE474864.md) | 1929 | Corp, Standard Products | A finely pounded sponge is mixed into the fibre mass, roughly 75 percent mulberry fibre and 25 percent sponge, so the ribbon absorbs and re-releases ink and recovers quickly. |
@@ -910,6 +913,7 @@ Attachment or accessory for an existing typewriter
 | [DE550853](../patents/DE550853.md) | 1932 | Ag, Vorm Seidel & Naumann | A lever carrying a small set of settable type wheels is pivoted on an axis beside the print point so it swings in and strikes the ordinary ribbon next to the normal print position. |
 | [DE554912](../patents/DE554912.md) | 1932 | Schroeder, Otto | A glue stripe applied and pre-dried before the flap is glued stiffens the free edge strip so it curls inward and stays closed. |
 | [DE555243](../patents/DE555243.md) | 1932 | Werke, Mercedes Bueromaschinen | Motor mounts on bolts with spring-pin detents and plug-in pin connections; an axial push releases or makes both drive and power contacts. |
+| [JP99147](../patents/JP99147.md) | 1932 | Kawakita, Hideo | A translucent indicator board showing the type layout is lit from behind, one character at a time, by lamps whose position follows the two relative motions of types and printing device and whose circuit closes only when the two are exactly in line. |
 | [DE557835](../patents/DE557835.md) | 1932 | G, Europa Schreibmaschinen A | A cylindrical hood in a table is pivoted down below the base plate by a foot lever, which drives a gear segment and gear on the hood axis, with a spring returning and closing the hood. |
 | [DE557974](../patents/DE557974.md) | 1932 | Tauschek, Gustav | Keys on a removable step board limit key travel to engagement; crankable key shafts remap keys for a cipher keyboard. |
 | [DE560417](../patents/DE560417.md) | 1932 | Radecker, Ludwig | The roll ends are closed with a coloured or plain embossing, which is destroyed on unwinding and shows tampering. |
@@ -934,6 +938,7 @@ Attachment or accessory for an existing typewriter
 | [DE602699](../patents/DE602699.md) | 1934 | Rittig, Curt | Envelopes are joined in a web with a separable strip glued to the rear edge of the previous envelope, so each envelope's front is fully exposed. |
 | [DE603254](../patents/DE603254.md) | 1934 | Hinrichs, Herbert | A set of letter rolls on the paper carriage, stepped as each letter is written, gives cipher values and is attached as a code device to the existing typewriter. |
 | [DE605409](../patents/DE605409.md) | 1934 | Moussier, Leandre | A foot pedal drives a rod and cam that lift the roller smoothly, and the device fits on existing machines. |
+| [JP110135](../patents/JP110135.md) | 1934 | Yoshimura, Sotoo | A presser bar swung against or away from a paper guide plate clamps the copy paper so only the original feeds, or releases it so both feed together. |
 | [JP111688](../patents/JP111688.md) | 1935 | Suganuma, Seiichi | Three interlocked button levers on the spring-urged platen cylinder, caught by a sawtooth spring claw, set the cylinder to the upper, middle or lower tier when the matching button is pressed. |
 | [DE612167](../patents/DE612167.md) | 1935 | Roemmler, Hans R | A toothed push rod moved by the line shift lever runs in a straight line until a pawl-carrying slide meets an adjustable slide stop, locking the lever after a preset number of line spaces. |
 | [DE612339](../patents/DE612339.md) | 1935 | Schmidt, Ferdinand | A loose additional manuscript roller on bearing blocks seats on the carriage with a hook under the platen shaft, and its line lever rests on the platen's line lever so both can advance together or separately. |
@@ -941,6 +946,7 @@ Attachment or accessory for an existing typewriter
 | [DE619248](../patents/DE619248.md) | 1935 | Inc, Royal Typewriter Co | Put the auxiliary ribbon spools in a basket that slides out of a spool frame fixed to the carriage so they travel with it and all come out at once. |
 | [DE621361](../patents/DE621361.md) | 1935 | Joksch, Rudolf | A spring (flexible member) between the line-space lever and the holder's clamping slide rod lets an adjustable stop set the line advance of the template independently of the platen's line spacing. |
 | [JP116073](../patents/JP116073.md) | 1936 | Matsubayashi, Yoshiaki | Two or more cross rods carried on spring-loaded levers press outward on the inner circumference of all type wheels to hold them centred on the shaft, and are pulled inward by the existing cords when a wheel is pushed out to print. |
+| [JP114887](../patents/JP114887.md) | 1936 | Sugihara, Jinzō | A motor-driven attachment with a keyboard whose keys serve as stops moves the typewriter's carriage and print lever to the type through differentials, then works the print lever. |
 | [DE627224](../patents/DE627224.md) | 1936 | Durlach, Georg | Coin-operated lock is a flat box above the machine, with a roller-driven lever that releases key levers through a displaceable locking member. |
 | [DE628468](../patents/DE628468.md) | 1936 | Ges, Clemens Mueller Akt | The locking member is spring-loaded on a pivoting axis linked to the drive lever; an arm holds the counter drive blocked while the control button is pressed and the coin has not yet dropped, and a locking slide engages on slight arm movement. |
 | [DE628559](../patents/DE628559.md) | 1936 | Devlaminck, Robert Stephane | A prismatic body with an ink reservoir and writing wheel has two perpendicular wing lugs that seat in the type guide, holding the wheel horizontal or vertical for straight ruled lines. |

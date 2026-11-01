@@ -4,12 +4,11 @@
 
 Carbon paper or inked strip instead of ribbon
 
-**156 patents**, 1856–1948. Often together with:
+**159 patents**, 1856–1948. Often together with:
 
-- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (36)
-- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (12)
-- **Paper and carriage:** [Carbon copies](../features/pap-manifold.md) (54), [Paper table and guides](../features/pap-paper-guide.md) (36), [Roller platen](../features/pap-platen-roller.md) (27), [Feed rollers and paper release](../features/pap-feed-rollers.md) (20), [Flat bed or book typewriter](../features/pap-flat-bed.md) (16)
-- **Uses:** [Attachment or accessory](../features/use-accessory.md) (20)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (37)
+- **Paper and carriage:** [Carbon copies](../features/pap-manifold.md) (55), [Paper table and guides](../features/pap-paper-guide.md) (36), [Roller platen](../features/pap-platen-roller.md) (28), [Feed rollers and paper release](../features/pap-feed-rollers.md) (21), [Flat bed or book typewriter](../features/pap-flat-bed.md) (16), [Line spacing](../features/pap-line-space.md) (15)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (21)
 
 **Machines:** [Nippon](../machines/nippon.md) (1)
 
@@ -29,7 +28,9 @@ Carbon paper or inked strip instead of ribbon
 | [US364343](../patents/US364343.md) | 1887 | Hall, George W. | A grid of keys positions a movable type-form in two perpendicular directions through two rocking finger-bars with distance-proportional strokes, and an electromagnet hammer prints only when the key has reached its stop and closed a circuit. |
 | [DE41676](../patents/DE41676.md) | 1887 |  | A rail carrying all characters is swung horizontally by a spring-driven axis whose travel is limited by a row of plates whose total length is set by combinations of six keys. |
 | [US392258](../patents/US392258.md) | 1888 | Carpenter, Wilbur M. | Two parallel sets of marker keys, extra keys, and keys pressable in pairs, threes or fours with one finger. |
+| [JP940](../patents/JP940.md) | 1888 | Fujiki, Sueoto | Record only the vowels, by stamping with fingertip-worn vowel stamps on ruled paper whose columns are labelled with consonants. |
 | [US410941](../patents/US410941.md) | 1889 | Spiegel, William G. | A stamped sheet-metal wheel carrying both type rim and indicator rim is stepped by a key through a duplex ratchet and held by an opposing pawl while a hammer key prints and feeds the paper strip. |
+| [JP2306](../patents/JP2306.md) | 1892 | Takayama, Kinsaku | Add a thumb push-button and ratchet to advance the paper while the left hand holds the box, and give each vowel-stamp ring a screw adjustment plus a spring-loaded second type for nasal sounds. |
 | [US488143](../patents/US488143.md) | 1892 | Davis, John T. | A platen roller carries raised marginal rings, and a wide carbon ribbon fills the space between them; the copy sheet rides on the rings and only meets the carbon at the striking point. |
 | [US575147](../patents/US575147.md) | 1897 | Burridge - Marshman, Lee S. - Newman R. | A sheet inker, carried on the paper carriage, is automatically stepped across the carriage's travel and at right angles by the platen's line-feed, then restored by a mutilated pinion. |
 | [US607270](../patents/US607270.md) | 1898 | Pastre - Lambert, Eugène - Frank | A single nutating disc key with all characters marked on it carries a rigid spherical type-ring beneath it; pressing the edge at a character tilts the ring until a stop pin seats in a recess, and continued pressure drives the ring straight down to print and release a spring carriage for one space. |
@@ -69,6 +70,7 @@ Carbon paper or inked strip instead of ribbon
 | [US945986](../patents/US945986.md) | 1910 | Seddon, Harry I. | A carriage-mounted casing with a hinged cover holds a roll holder; a chute guides the material to the platen and a blade cuts it. |
 | [US947269](../patents/US947269.md) | 1910 | Yaw, Clio B. | A carbon-roll mechanism applied to a Remington machine, with improved devices for handling the roll of carbon or transfer medium and modified machine parts. |
 | [US952203](../patents/US952203.md) | 1910 | Kunath, Edward F. | An endless inking band and web run around the platen with the bill, duplicating the typed amounts onto one tally strip. |
+| [JP19787](../patents/JP19787.md) | 1910 | Crisp, Charles | A row of side-by-side type wheels is each released in turn by a key stroke, spins under a weight, and is stopped at the chosen character by a key-raised pawl catching a projection on the wheel; the finished line is then printed at once by one lever. |
 | [US964856](../patents/US964856.md) | 1910 | Foster, Charles E. | A roll holding a duplicating strip is attached to the carriage and turns automatically when the sheet is drawn away, rewound by a spring. |
 | [US970195](../patents/US970195.md) | 1910 | Donning, George W. | A flat-platen book typewriter with a suspended writing carriage that travels laterally on a longitudinally travelling carriage over a laterally moving book support. |
 | [US978369](../patents/US978369.md) | 1910 | Hainer, Whitfield | The carbon roll shaft carries a pinion meshing with a spur wheel that turns as the carbon feeds; an adjustable arm on the wheel sounds an alarm at a set point, and the wheel is then turned back to rewind the carbon until a fixed stop arrests it. |

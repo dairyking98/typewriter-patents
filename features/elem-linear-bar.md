@@ -4,13 +4,13 @@
 
 Types along a straight bar or rule
 
-**59 patents**, 1854–1950. Often together with:
+**66 patents**, 1854–1950. Often together with:
 
-- **Selection:** [Slider along a straight index](../features/sel-linear-slider.md) (28), [Pointer into a hole or notch](../features/sel-pointer-hole.md) (17)
-- **Impression:** [Hand presses the type through](../features/imp-press-through.md) (19), [Element struck to the platen](../features/imp-element-to-platen.md) (17)
-- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (22), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (21)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (18)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (18)
+- **Selection:** [Slider along a straight index](../features/sel-linear-slider.md) (31), [Pointer into a hole or notch](../features/sel-pointer-hole.md) (17)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (21), [Hand presses the type through](../features/imp-press-through.md) (19)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (23), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (22)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (20)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (19)
 
 **Machines:** [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (2), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (2), [Odell 1 B](../machines/odell-1-b.md) (2), [Odell 2](../machines/odell-2.md) (2), [Odell 3](../machines/odell-3.md) (2), [Odell 4](../machines/odell-4.md) (2), [Pearl](../machines/pearl.md) (1), [Thomas](../machines/thomas.md) (1), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1)
 
@@ -57,6 +57,12 @@ Types along a straight bar or rule
 | [US884742](../patents/US884742.md) | 1908 | Lemblé, Joseph | Let a group of key levers act through a common rocking shaft on one contact wheel that closes three contacts in turn for type-carrier positioning, carriage control, and return, locking and current cut-off. |
 | [US932167](../patents/US932167.md) | 1909 | Odell, Levi J. | A single rocking type bar on a sliding frame, positioned by a stylus over a slotted character bar, printing the character chosen. |
 | [US977448](../patents/US977448.md) | 1910 | Harrison, Samuel A. | A hand-indexed rotatable multi-alphabet type bar in a swinging cradle prints onto a platen carriage whose single spacing lever, through a shiftable double pawl, can advance the carriage in either direction. |
+| [JP35670](../patents/JP35670.md) | 1919 | Murooka, Sōshichi | A hand-pushed row of types is selected on a fan-shaped character board and struck upward electrically, while a wheel of paper cylinders turns step by step so the same character prints on each sheet in turn. |
+| [JP37607](../patents/JP37607.md) | 1919 | Matsushita, Daisaburō | Many long many-sided rotary type carriers, one per row of keys, are turned and slid by key-driven bars so that any of thousands of characters is thrown onto the same point of the paper cylinder. |
+| [JP40516](../patents/JP40516.md) | 1919 | Matsushita, Daisaburō | Long slidable (and optionally many-sided, turnable) type bars each carry a row of characters; each key throws its bar and also slides the bar and shifts the paper cylinder by zone so every character reaches one common printing point. |
+| [JP38893](../patents/JP38893.md) | 1920 | Murooka, Sōshichi | Many side-by-side sliding type boxes, each holding the whole character set in one row, are set by hand handles to line up a whole line of types, which electromagnet push-rods strike upward at once onto a rotating wheel of paper sheets. |
+| [JP42654](../patents/JP42654.md) | 1921 | Matsushita, Daisaburō | Engrave 45 characters in a long row on each of 52 type bars and bring the paper cylinder to the wanted spot on the row by a two-layer carriage support: a lower layer shifted by four shift keys (5 zones) and an upper layer shifted by the character keys themselves (9 places). |
+| [JP80962](../patents/JP80962.md) | 1921 | Gesellschaft, Polygraphische | A keyboard machine that assembles a whole line from full-width sliding type bars drawn out of type cases, justifies it with spaces, and prints the whole line at once with a paper cylinder. |
 | [DE364325](../patents/DE364325.md) | 1922 | Weinsziehr, Jean | A springy type comb carrying several types per tine is positioned by hand in two axes under a pressure lever; one stroke of the single print lever presses the tine, spaces the carriage one tooth and advances the ribbon. |
 | [DE386399](../patents/DE386399.md) | 1923 | Corp, Garbel Typewriter | Each button lever turns a toothed segment that engages a rack on the rear of the stamped type bar; cover plates riding over each other keep the segment in line with the rack and relieve tooth loading. |
 | [DE420978](../patents/DE420978.md) | 1925 | Fa, Polygraphische Ges | A common main ratchet drives the magazine linkage, the line-straightening roller, the inking roller and paper-roller pressing, through belts and bevel gears. |
@@ -64,6 +70,7 @@ Types along a straight bar or rule
 | [DE435991](../patents/DE435991.md) | 1926 | Howard, Ebenezer | Key levers are pivoted on stepped spindles and each U-shaped bracket drives a type bar that slides in a straight line within a compact block; the type bars have transverse channels for universal rods, and keys can be struck together or one after another to print at different heights. |
 | [DE453321](../patents/DE453321.md) | 1927 | G, Typar Co A | A two-stage locking drive first restricts the mobility of the type carrier so it can be pre-merged and aligned while still movable, then brings it to the exact final line length, with the colouring device working only after final closing. |
 | [DE483249](../patents/DE483249.md) | 1929 | Co, Burroughs Adding Machine | Two-part type rails whose types are interleaved (the second rail passes through the first) so that more types fit on one rail without increasing the adjustment travel; each rail is set by its own drive segment and stop. |
+| [JP86077](../patents/JP86077.md) | 1929 | Betsuyaku, Man'ai | A rotatable polygonal type bar slides sideways in a hinged cover frame by a key-pinion on a rack; a jab on the key drops the frame to print, and the rise of the frame inks the type and ratchets the paper frame one space. |
 | [DE485014](../patents/DE485014.md) | 1929 |  | Printing units whose type carriers each carry several types in a short row on one side, so many types can sit on one type bar, with type groups selectable by the bar's setting and only one type of a carrier printed at a time. |
 | [DE506645](../patents/DE506645.md) | 1930 | Leysieffer, Richard | Adjacent type bars carrying numerals, the alphabet and symbols sit in a pressure frame that lifts for form insertion and lowers to press the form against the bars and a roller. |
 | [DE518145](../patents/DE518145.md) | 1931 | Co, Burroughs Adding Machine | A hinge pin on the type rail shaft passes through the drive segment and is locked by a latch part with a slot, held by a head pin and spring, allowing quick release. |

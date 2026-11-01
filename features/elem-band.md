@@ -4,13 +4,13 @@
 
 Flexible type band or belt
 
-**39 patents**, 1886–1950. Often together with:
+**43 patents**, 1886–1950. Often together with:
 
-- **Selection:** [Pointer over a chart](../features/sel-pointer-chart.md) (9), [Selection locked for printing](../features/sel-selector-locking.md) (9)
-- **Impression:** [Separate print key or lever](../features/imp-print-lever.md) (9)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (13), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (12)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (9)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (10), [Visible writing](../features/frm-writing-visible.md) (9)
+- **Selection:** [Pointer over a chart](../features/sel-pointer-chart.md) (12), [Slider along a straight index](../features/sel-linear-slider.md) (10)
+- **Impression:** [Separate print key or lever](../features/imp-print-lever.md) (13), [Element struck to the platen](../features/imp-element-to-platen.md) (11)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (14), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (14)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (11)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (12)
 
 ## Patents, oldest first
 
@@ -41,11 +41,14 @@ Flexible type band or belt
 | [DE445649](../patents/DE445649.md) | 1927 | Ges, A E G Deutsche Werke Akt | Interchangeable small rooms with endless belts carry the characters, and tapes set the order, so the symbol set changes without changing the machine. |
 | [DE448896](../patents/DE448896.md) | 1927 |  | The strip is first given bent-down edges, then embossed, then cut off by a punch that leaves no bend or burr, so the order of operations is changed. |
 | [DE449355](../patents/DE449355.md) | 1927 | Leon, Karl Oscar | A moving illustrated strip with ad and blank fields lets a clock movement be inserted into the blank fields, shown alternately. |
-| [JP80138](../patents/JP80138.md) | 1928 | Kataoka, Kōtarō | An endless chain of pivoted links carries rods that clamp loose bar types on the straight run and spread open on the curve around a sprocket, so the selected type can be taken out of the chain, raised in front of the paper and struck from behind by a hammer. |
+| [JP80138](../patents/JP80138.md) | 1928 | Ōtani, Nihei | An endless chain of pivoted links carries rods that clamp loose bar types on the straight run and spread open on the curve around a sprocket, so the selected type can be taken out of the chain, raised in front of the paper and struck from behind by a hammer. |
 | [DE484001](../patents/DE484001.md) | 1929 | G, A E G Deutsche Werke A | Letter rows of the character field are endless belts, shifted by a hand crank in alternation with the write key, giving a periodic key change. |
 | [DE498604](../patents/DE498604.md) | 1930 | Schmid, Max | The paper sledge's forward and backward stroke itself advances the roller carrier one hole: perforated walls on the roller carrier engage fixed tapered pins of different strength. |
 | [DE509940](../patents/DE509940.md) | 1931 | Weissfloch, Konrad Karl | A poster typewriter with large types on an endless cloth band moved past the print point by a pointer lever over a letter scale, struck from the front by a hammer so the writing is visible. |
+| [JP96395](../patents/JP96395.md) | 1931 | Kawahara | Rubber endless type belts, one per row, are shifted by a single key lever that also slides on an operating box to choose the row; pressing the lever strikes the chosen character on the cylinder, takes up belt slack and advances the paper. |
+| [JP100196](../patents/JP100196.md) | 1932 | Miwa, Mataichi | Each row of types is a belt or chain on sprockets in a swinging frame; turning one common shaft runs all belts to choose the character along the column, a sliding carriage handle picks the frame, and pressing the handle swings only that frame to print. |
 | [DE576185](../patents/DE576185.md) | 1933 | Knorr, Alfred | A button moves a type wheel sector with a type plate tape about a vertical axis to the letter, and pressing the button swings the whole sector against the platen and locks it with a pawl. |
+| [JP105244](../patents/JP105244.md) | 1933 | Kataoka, Kusumatsu | Mount the type frames in holders riveted to an endless steel or leather belt whose rivet heads engage recesses in a rotating plate, so the whole belt of type frames circulates, and print by pushing one type up from a frame at the feed-out point. |
 | [DE619831](../patents/DE619831.md) | 1937 | Schneider, Julius | Punchings for folding and stretching are made in the same stroke as embossing, on the type wheel carrying the dies. |
 | [DE620072](../patents/DE620072.md) | 1937 | Schneider, Julius | Two pairs of pliers clamp the strip at the hole ends, a cam brings them together to form the fold, and a sensing feeler locates the holes. |
 | [DE620515](../patents/DE620515.md) | 1937 | Schneider, Julius | Cut-outs are closed by edge bridges, and grooves stiffen the strip along the cut-outs to stop tearing. |
@@ -53,5 +56,6 @@ Flexible type band or belt
 | [DE670190](../patents/DE670190.md) | 1939 | Goldberg, Emanuel | A negative search plate with the wanted identifier is placed in the beam path between the documents and a radiation-sensitive device, so the beam is interrupted only on a match; a photographic registration can then be triggered. |
 | [DE694372](../patents/DE694372.md) | 1940 | Karstedt, Paul | A self-coiling spring steel type tape is pulled through a spaced carriage on a guide frame and struck with a thimble hammer worn on a finger. |
 | [DE745629](../patents/DE745629.md) | 1944 | Ab, Venturo | Types are fixed on a chain or band moved past the paper, and staggered electromagnets select each type so that several letters can be written in one pass. |
+| [JP369543](../patents/JP369543.md) | 1949 | Itō, Gohei | A hand-held palm-operated device with a thumb-turned type belt, a pressing lever and polygonal wheels that step it along the paper. |
 | [DE894463](../patents/DE894463.md) | 1950 | G, Tefi Appbau Daniel K | A tape with micro-acoustic mechanically scannable writing is sealed in a cassette so only a short piece is exposed. |
 | [DE882709](../patents/DE882709.md) | 1950 | Siech, Erika | Type carriers hang from vertical sliders in the housing and are moved by a hand lever and a drop slide, so the carrier is neither pulled nor bent. |

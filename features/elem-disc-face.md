@@ -4,12 +4,12 @@
 
 Types on the face of a disc (face perpendicular to axis)
 
-**132 patents**, 1858–1948. Often together with:
+**134 patents**, 1858–1948. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (34)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (36), [Hand presses the type through](../features/imp-press-through.md) (33), [Separate print key or lever](../features/imp-print-lever.md) (32)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (46), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (42)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (33)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (35)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (37), [Hand presses the type through](../features/imp-press-through.md) (33), [Separate print key or lever](../features/imp-print-lever.md) (33)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (48), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (44)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (34)
 - **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (29)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (1), [Blickensderfer 2](../machines/blickensderfer-2.md) (1), [Blickensderfer 3](../machines/blickensderfer-3.md) (1), [Blickensderfer 4](../machines/blickensderfer-4.md) (1), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (1), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (1), [Blickensderfer 7](../machines/blickensderfer-7.md) (1), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (1), [Dactyle](../machines/dactyle.md) (1), [Mercury 3](../machines/mercury-3.md) (1), [Postal 5](../machines/postal-5.md) (1), [Moya Visible 1](../machines/moya-visible-1.md) (1), [Moya Visible 2](../machines/moya-visible-2.md) (1), [Bennett](../machines/bennett.md) (1)
@@ -136,6 +136,7 @@ Types on the face of a disc (face perpendicular to axis)
 | [DE441005](../patents/DE441005.md) | 1927 | Buck, Conrad | Characters are embossed into thin sheet-steel discs so they read correctly from the back, letting the upper disc be used as a setting disc while the strip is embossed between the paired discs. |
 | [DE466818](../patents/DE466818.md) | 1928 | Kaftanski, Alfons | A hand-held device with a type wheel whose faces carry note marks, pressed by a button onto an ink pad; a geared rack sets four heights and a linear scale moves the device along the staff lines. |
 | [DE498604](../patents/DE498604.md) | 1930 | Schmid, Max | The paper sledge's forward and backward stroke itself advances the roller carrier one hole: perforated walls on the roller carrier engage fixed tapered pins of different strength. |
+| [JP91477](../patents/JP91477.md) | 1930 | Egawa, Yoshimitsu | A continuously spinning type disc is stopped by a key-operated stop dropping into a hole of a selector cylinder on the same shaft, then a clutch-started one-turn shaft lowers the disc shaft to print and advances the paper box. |
 | [JP102722](../patents/JP102722.md) | 1933 | Hamada, Hatsujirō | Printing plates sit on the rim of a motor-turned wheel with one staggered cam per plate; a key-positioned slider selects one cam, which alone triggers the shared inking and pressing rollers as that plate comes round. |
 | [DE587430](../patents/DE587430.md) | 1933 | Hausheer, Max Emile | Type discs carry control and print marks on the tooth tips so the same teeth lock the set position, repeat the mark on consecutive lines, and drive exchangeable addition and subtraction counters; the print line sits below the disc axis for flat printing. |
 | [JP105151](../patents/JP105151.md) | 1933 | Oshitari, Kingo | A tilting round box holds a hand-turned disc carrying a half circle of swinging type keys, one of which is aligned with a notch to be pressed, and each press-and-release spaces the whole box one ratchet step along a bar over the fixed paper. |
@@ -146,6 +147,7 @@ Types on the face of a disc (face perpendicular to axis)
 | [JP136653](../patents/JP136653.md) | 1940 | Ishii, Shōkichi | A hand-turned compound magazine of many type discs on one shaft presents one row of loose types at a time under a fan of key-driven type bars, each of which picks up and prints its own type. |
 | [DE700102](../patents/DE700102.md) | 1940 | Maschinenbau, Adrema | The type head is built from a hub with an annular cut and two cast rings that carry the chambers for the embossing stamps, so only minor reworking is needed. |
 | [DE701607](../patents/DE701607.md) | 1941 | Adams, Arthur Herman | A light type wheel on a travelling carriage in front of a fixed platen is turned by a closed band whose length is changed by five laterally movable rollers, each adding a step count of 1, 2, 4, 8 or 16, so the wheel goes directly from one character to the next. |
+| [JP154431](../patents/JP154431.md) | 1942 | Mukai, Makoto | A type store of many resiliently mounted cylindrical disc elements, each holding one radial row of types, is turned as a whole to bring the type to the top and a lifter raises only the chosen element against the paper cylinder. |
 | [DE725924](../patents/DE725924.md) | 1942 | Aurbach, - Kurt | Control disks on a hollow shaft system drive the switching gears that turn the type wheels from blank to zero, in one plane parallel to the wheels. |
 | [DE727825](../patents/DE727825.md) | 1942 | Werke, Mercedes Bueromaschinen | Foils are punched and pressed in one stroke in a heated die, with the top foil printed with the character, forming a solid laminated disc. |
 | [JP159459](../patents/JP159459.md) | 1943 | Tsujimoto, Hidegorō | A turning disc of kana types is rocked on a hinged carrier to press a character onto one of many gear-linked printing rollers, sliding along a rail across the roller axis. |

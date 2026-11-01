@@ -4,14 +4,14 @@
 
 The operator's force presses the type through directly
 
-**272 patents**, 1843–1949. Often together with:
+**279 patents**, 1843–1949. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (84)
-- **Type element:** [Separate type slugs or plungers](../features/elem-individual-slugs.md) (69)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (72)
-- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (116), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (115)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (77), [Flat bed or book typewriter](../features/pap-flat-bed.md) (65)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (97)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (87)
+- **Type element:** [Separate type slugs or plungers](../features/elem-individual-slugs.md) (71)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (75)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (120), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (119)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (80), [Flat bed or book typewriter](../features/pap-flat-bed.md) (66)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (102)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Adlerwerke vorm. Heinr. Kleyer AG machine, 1898](../machines/adlerwerke-vorm-heinr-kleyer-ag-1898.md) (2), [Adler 8](../machines/adler-8.md) (2), [Empire 1 (A) (Canada)](../machines/empire-1-a-canada.md) (2), [Empire 1 (B) (Canada)](../machines/empire-1-b-canada.md) (2), [Empire 1 (C) (Canada)](../machines/empire-1-c-canada.md) (2), [Empire 2 (Canada)](../machines/empire-2-canada.md) (2), [Franklin 3, 4](../machines/franklin-3-4.md) (2)
 
@@ -246,6 +246,7 @@ The operator's force presses the type through directly
 | [DE256302](../patents/DE256302.md) | 1911 |  | A helically wound plate (screw) fixed to the type carrier shaft is turned to a key-dependent angle when one of several equally spaced vertical keys hits it, and the same key push presses the shaft down to print. |
 | [US1012583](../patents/US1012583.md) | 1911 | Bach - Dreyer, Leopold - Hans | A type-cylinder machine whose type are offset to one side of the cylinder's axial section, selected by a knob over a character board, with several space keys of adjustable stroke for justifying spacing. |
 | [US1037981](../patents/US1037981.md) | 1912 | Pickett, John B. | A simple typewriter of about 130 parts whose type carrying arms rest on an ink pad and strike the paper directly without a ribbon. |
+| [JP24024](../patents/JP24024.md) | 1913 | Kishitaka, Takeo | Six finger-keys lift six pins against a die through rocking levers while a spring-driven slide steps the paper one cell left per stroke. |
 | [US1066372](../patents/US1066372.md) | 1913 | Bowie, John R. | A key-operated eraser on a bracket on the type bar; a serrated eccentric steel eraser wipes the paper when the key is depressed. |
 | [DE266582](../patents/DE266582.md) | 1913 | Loy, Alois Van | The stylus sits on the end of a one-armed vertical-plane lever that carries the spherical type carrier at an intermediate point, so the hand force at the free end is only a fraction of the force needed at the type. |
 | [US1079812](../patents/US1079812.md) | 1913 | van Loy, Alois | A spherical segmental type carrier hangs from a long single-armed printing lever, with the pointing key at the lever end, so a light press prints and the pointer key and carrier move together by a jointed parallelogram. |
@@ -273,7 +274,7 @@ The operator's force presses the type through directly
 | [DE434835](../patents/DE434835.md) | 1926 | Meissner, Johann Ferdinand | A setting pin is put into the hole for the wanted character in a type wheel and turns the wheel to a stop, then the same pin swings the wheel against the platen to print and the paper strip is stepped. |
 | [DE440774](../patents/DE440774.md) | 1927 | Dietrich, Karl | A slide-rule-sized typewriter in which spring-loaded metal types sit in holes of a double rail that is stepped along a frame by a spring drum each time the single print button is pressed. |
 | [DE460751](../patents/DE460751.md) | 1928 |  | A movable stamp box carries multiple letters per die part, raised or lowered by a keyed lever, with projections so only one letter contacts the strip, which runs in a channel. |
-| [JP88414](../patents/JP88414.md) | 1930 | Yokota, Masao | A hand-turned type wheel of spring-linked plungers sits on a tipping support plate; pressing a plunger locks the wheel, prints, and on return a pawl on a side arm advances the carriage along a rack. |
+| [JP88414](../patents/JP88414.md) | 1930 | Shimada, Minokichi | A hand-turned type wheel of spring-linked plungers sits on a tipping support plate; pressing a plunger locks the wheel, prints, and on return a pawl on a side arm advances the carriage along a rack. |
 | [DE508099](../patents/DE508099.md) | 1930 | Schwarze, Hermann | Six triangular swinging frames, each carrying a stamp on a bridge near the rear tip, are pushed by cutouts under the key levers. |
 | [DE508485](../patents/DE508485.md) | 1930 | Ge, Triumph Werke Nuernberg Akt | Slides are moved onto each key lever, carrying the drive pin and the key stop, and are moved together by one rod. |
 | [DE518877](../patents/DE518877.md) | 1931 | Niessing, Franz | A swivel ruler sets the base height after each ring change, and the types are pressed into the ring by a rotating shaft. |
@@ -285,9 +286,15 @@ The operator's force presses the type through directly
 | [JP120239](../patents/JP120239.md) | 1937 | Kobayashi, Kaichi | Loose types stand in a ring between two nested cylinders, held by a ridge in cross-grooves; turning the outer cylinder brings the chosen type under a spring plunger that carries it down to print and, through a slanted plate and pawl, steps the whole double cylinder one space sideways. |
 | [DE654891](../patents/DE654891.md) | 1938 | Harhaus, Carl | Pliers hold a steel letter type pushed through a square bar in one jaw and held by a pin; squeezing the jaws stamps the letter, and the ring is turned by one letter width for the next. |
 | [DE662687](../patents/DE662687.md) | 1938 | Sellgrad, Georg | The switch-on lever is bent back and to the side with a foot step at its lower end, so the operator can lean on the hanger and work it by foot. |
+| [JP130425](../patents/JP130425.md) | 1939 | Shin-Nihon Kei Taipuraitā Seisakusho | Pivot a main and an auxiliary printing lever side by side so the main lifts the type case and the auxiliary prints, feeds, and handles spare types alone. |
+| [JP135868](../patents/JP135868.md) | 1939 | Fujii, Riichi | Grip only the two side edges of the sheet between paired upper and lower rollers on a travelling carriage, and feed the sheet in fixed steps that leave a blank band between lines for braille written from the back. |
 | [DE694372](../patents/DE694372.md) | 1940 | Karstedt, Paul | A self-coiling spring steel type tape is pulled through a spaced carriage on a guide frame and struck with a thimble hammer worn on a finger. |
+| [JP153606](../patents/JP153606.md) | 1942 | Hasegawa, Kichisaburō | A type cylinder that slides and turns on a spring-raised swinging rod, detented by a ball in index hollows, is pressed down onto a paper cylinder that is advanced a step by the return stroke. |
+| [JP153852](../patents/JP153852.md) | 1942 | Yamamoto, Genji | Pressing a plate lowers a type cylinder and, through a spring-pulled cord, turns it until a stud meets a stop set by a push-button, so the chosen face is at the bottom at the end of the stroke. |
+| [JP157458](../patents/JP157458.md) | 1943 | Hasegawa, Kichisaburō | Replace the cylinder with a ball that turns freely in two directions, with types on its lower half and index hollows on its upper half, so no sliding part is needed. |
 | [JP159459](../patents/JP159459.md) | 1943 | Tsujimoto, Hidegorō | A turning disc of kana types is rocked on a hinged carrier to press a character onto one of many gear-linked printing rollers, sliding along a rail across the roller axis. |
 | [DE882405](../patents/DE882405.md) | 1943 | Goebel, Joseph | A small hand-held machine is operated with one hand: finger keys emboss or punch a row of dots into a ribbon tape, which feeds forward automatically after each impression. |
 | [DE911373](../patents/DE911373.md) | 1947 | Corp, Underwood | A second transfer link is hinged to the swivel arm with a longer lever arm than the drive link, so a constant drive movement gives an accelerated working stroke; the driven part is released from the driving toothed roller automatically during the stroke. |
 | [JP178253](../patents/JP178253.md) | 1948 | Kobayashi, Kaichi | Pack the types loosely round the whole ring with a single follower, and use a plunger with ratchet and cap to print and step in one stroke or step alone. |
 | [DE905140](../patents/DE905140.md) | 1949 | Kuentzel, Hellmuth | A bumper stop (adjustable or an eccentric) limits key-lever travel, and a slot-guide freewheel lets the type lever keep its momentum after the key lever stops. |
+| [JP372706](../patents/JP372706.md) | 1949 | Ichimaru, Masakoto | Two radial type wheels, capitals and small letters, with spring-held blocks pressed by finger knobs through slots, turned by a crank to an arrow. |

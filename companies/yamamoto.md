@@ -1,4 +1,4 @@
-# YAMAMOTO Masaharu
+# Yamamoto Masaharu
 
 
 ## Inventors
@@ -9,4 +9,4 @@
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
-| [JP94690](../patents/JP94690.md) | 1931-10-14 | Kataoka, Kōtarō | Japanese-language typewriter | plate / case |
+| [JP102227](../patents/JP102227.md) | 1933-03-08 | Kataoka, Kōtarō | Japanese-script typewriter | rotating carrier |

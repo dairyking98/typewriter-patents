@@ -4,14 +4,14 @@
 
 Adjustment of impression force or depth
 
-**206 patents**, 1866–1950. Often together with:
+**213 patents**, 1866–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (65), [Selection locked for printing](../features/sel-selector-locking.md) (49)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (74)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (58)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (66), [Selection locked for printing](../features/sel-selector-locking.md) (49)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (75)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (60)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (60), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (50)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (52)
-- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (65)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (53)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (67)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (6), [Alexander (2)](../machines/alexander-2.md) (6), [Alexander (3)](../machines/alexander-3.md) (5), [Noiseless 1](../machines/noiseless-1.md) (3), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (2), [Bar-Lock 6](../machines/bar-lock-6.md) (2), [Bar-Lock 7](../machines/bar-lock-7.md) (2), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (2), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (2), [Blickensderfer 5 Alu](../machines/blickensderfer-5-alu.md) (2), [Blickensderfer 6](../machines/blickensderfer-6.md) (2), [Blickensderfer 8](../machines/blickensderfer-8.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Adler 21](../machines/adler-21.md) (2), [Bar-Lock 1](../machines/bar-lock-1.md) (1)
 
@@ -174,6 +174,7 @@ Adjustment of impression force or depth
 | [JP30202](../patents/JP30202.md) | 1916 | Sugimoto, Kyōta | A frame carrying a large paper cylinder and a lever that lifts one loose type out of a cell magazine, inks it and strikes it on the paper, with automatic character spacing from the same lever and added line-space, clamp and spring-adjust devices. |
 | [JP37882](../patents/JP37882.md) | 1919 | Sugimoto, Kyōta | Move a type plate under a fixed index board with one handle; a conical point seating in a perforated plate corrects the position, and pressing the same handle strikes the paper onto the chosen character. |
 | [DE342548](../patents/DE342548.md) | 1921 |  | Each finger-piece sector gets its own adjustable spring loading, so the spring tension for each item type can be set independently. |
+| [JP43117](../patents/JP43117.md) | 1921 | The Noiseless Typewriter Company | A weighted energy-storing member and a toggle linkage on each typebar slow the bar in its last swing and press the type on rather than strike it, so printing is nearly silent. |
 | [DE346704](../patents/DE346704.md) | 1922 | Bormann, Friedrich | A small electric motor with a crank pin pulls the key lever through a slack cord, engaged only when a push button or a contact on the letter pointer fires an electromagnet. |
 | [JP60744](../patents/JP60744.md) | 1923 | Yoshimi, Masao | A hand-guided frame carrying a spring-struck printing lever is slid over a flat plate of right-reading characters, and each stroke prints one character onto a narrow continuous tape that feeds on automatically. |
 | [DE377919](../patents/DE377919.md) | 1923 | Fries, Rudolf | An auxiliary keyboard above the main keys, whose lightly pressed keys are caught by constantly driven gears or freewheels and thrown down onto the real keys. |
@@ -203,8 +204,14 @@ Adjustment of impression force or depth
 | [DE562670](../patents/DE562670.md) | 1932 |  | Type levers on a rotating drum are driven by separate cam bodies, shaped for the desired blow strength at any drum speed, instead of by hook stops catching the levers themselves. |
 | [DE568010](../patents/DE568010.md) | 1933 | Inc, Royal Typewriter Co | The platen pressure abutment has two pressure faces of different hardness (hard metal and soft rubber insert) and is reversible or adjustable on its support arms so either face can be brought to the type. |
 | [DE568788](../patents/DE568788.md) | 1933 | Co, Remington Typewriter | A releasable stop limits the adjusting crank in normal use; a special handle disengages it so the adjustment can go past the normal limit, and it snaps back to the locked position afterwards. |
+| [JP107644](../patents/JP107644.md) | 1934 | Shimada, Minokichi | Pressing the handle only engages a clutch between a constantly running motor shaft and an intermittent shaft whose striker flicks the tail of the printing mechanism's starting lever, so the motor supplies the blow. |
+| [JP107976](../patents/JP107976.md) | 1934 | Shimada, Minokichi | Use the same handle that steers the movable type magazine over the fixed character chart to engage a clutch between a constantly running motor shaft and a second shaft whose arm strikes the printing mechanism's starting parts. |
+| [JP110118](../patents/JP110118.md) | 1934 | Nippon Typewriter Co. | A ball governor on the motor shaft, set by a hand-worked regulating handle, changes motor speed and so the printing lever's momentum. |
 | [DE606911](../patents/DE606911.md) | 1934 | Fa, E D A M S A | A single drive electromagnet pushes a plate carrying the type wheel against the platen, and a cord-and-spring drive rotates the wheel until a lever hits a stop set by the key's small control electromagnet. |
+| [JP114709](../patents/JP114709.md) | 1935 | Sugihara, Jinzō | A differential between a one-way motor shaft, with a brake and belt-tightening roller worked by the keys, drives the shaft forward or back and sets its speed by key pressure. |
+| [JP119581](../patents/JP119581.md) | 1936 | Shimada, Minokichi | A slot-and-pin stroke changer in the drive link, worked by twisting the print handle, shortens the lift of the printing lever so it strikes more by its own momentum and more softly. |
 | [DE639714](../patents/DE639714.md) | 1936 | Inc, Royal Typewriter Co | A pointer linked to the spring holder moves inside the frame and shows the spring tension on a scale visible through a window, while a separate adjuster changes the tension. |
+| [JP121089](../patents/JP121089.md) | 1937 | Miwa, Mataichi | An air valve serves as the print key, so a fingertip press admits compressed air that lifts the selected type and then swings it against the platen. |
 | [DE651112](../patents/DE651112.md) | 1937 | A, Olympia Bueromaschinenwerke | Pull the alignment knife fully into the selected comb notch by the key lever itself, and only then release a latched, pre-tensioned impression spring, whose tension is adjustable by an eccentric. |
 | [DE653587](../patents/DE653587.md) | 1937 | Winklhofer, Wanderer Werke Vorm | Mount the line-height pointer and ribbon lifter on parts independent of the in-and-out adjustment of the platen carriage, so they keep a constant distance from the type guide. |
 | [DE658285](../patents/DE658285.md) | 1938 | A, Olympia Bueromaschinenwerke | Raise the type lever with a continuously coupled eccentric drive and then press its head to the platen with a rotating pressure cam near the print point. |

@@ -13,10 +13,11 @@
 - [Standard Typewriter Comp](../companies/standard.md) (11)
 - [OTTO PETERMANN](../companies/petermann.md) (1)
 
-## Patents (35)
+## Patents (36)
 
 | Patent | Date | Title | Carrier | Index score |
 |---|---|---|---|---|
+| [JP21618](../patents/JP21618.md) | 1909-10-30 | Typewriter |  | -0.2 |
 | [US1062027](../patents/US1062027.md) | 1913-05-20 | Type-Writing-Machine Construction |  | -2.1 |
 | [US1064372](../patents/US1064372.md) | 1913-06-10 | Type-Writing Machine |  | -0.3 |
 | [US1081140](../patents/US1081140.md) | 1913-12-09 | Keyboard for Type-Writing Machines |  | -27.4 |

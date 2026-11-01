@@ -4,13 +4,13 @@
 
 Arm swung over an arc or semicircular scale to choose the character
 
-**64 patents**, 1871–1935. Often together with:
+**66 patents**, 1871–1949. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (38), [Pointer over a chart](../features/sel-pointer-chart.md) (33)
-- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
-- **Impression:** [Separate print key or lever](../features/imp-print-lever.md) (32), [Element struck to the platen](../features/imp-element-to-platen.md) (31)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (44), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (43)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (34)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (39), [Pointer over a chart](../features/sel-pointer-chart.md) (34)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (32)
+- **Impression:** [Separate print key or lever](../features/imp-print-lever.md) (33), [Element struck to the platen](../features/imp-element-to-platen.md) (31)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (45), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (44)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (35)
 
 **Machines:** [Boston](../machines/boston.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Travis](../machines/travis.md) (1), [American Index](../machines/american-index.md) (1), [Gundka 3](../machines/gundka-3.md) (1), [Gundka 5](../machines/gundka-5.md) (1), [Gerda 2](../machines/gerda-2.md) (1)
 
@@ -80,5 +80,7 @@ Arm swung over an arc or semicircular scale to choose the character
 | [DE393929](../patents/DE393929.md) | 1924 | Emig, Georg | Put the pointer and character plate in the machine's symmetry plane directly above the type wheel axis, and have the pointer drive the wheel through a toothed segment and gear. |
 | [JP62663](../patents/JP62663.md) | 1924 | Murakami, Masaomi | A ring-shaped rotating type tray has a post at its centre carrying a swinging rail, and a carriage with paper cylinder and a two-tube printing arm slides on it, pushing up an inked type, flipping it 180 degrees automatically and printing it, in either columns or rows. |
 | [DE417060](../patents/DE417060.md) | 1925 | S, Gundka Werk Vereinigte Blech | One cross-machine axis carries both the swivel plate and the shift lever, with a single key lever and stop buttons on the pushers limiting the shift to three rows. |
+| [JP75116](../patents/JP75116.md) | 1927 | Inoue, Jin | A single type key swung over an arc-shaped chart turns a double-row type wheel through a sector gear, and the button on it presses the platen against the wheel; ink rollers on a rocking arm are swung by the same key. |
 | [DE576185](../patents/DE576185.md) | 1933 | Knorr, Alfred | A button moves a type wheel sector with a type plate tape about a vertical axis to the letter, and pressing the button swings the whole sector against the platen and locks it with a pawl. |
 | [US1986244](../patents/US1986244.md) | 1935 | Bates, Harry | A swinging arm with a button is dropped onto a depression in a keyboard-shaped plate, which turns an arcuate type segment to that character, and pressing down tilts the keyboard and platen frame so the paper meets the type. |
+| [JP369702](../patents/JP369702.md) | 1949 | Nakata, Tōzaburō | A sloping-topped case with a U-shaped trough for the platen and a U-shaped slot in which a type magazine swings. |

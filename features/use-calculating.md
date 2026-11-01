@@ -4,12 +4,12 @@
 
 Combined with adding or calculating
 
-**567 patents**, 1890–1950. Often together with:
+**570 patents**, 1890–1950. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (64), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (42)
-- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (33)
-- **Spacing and escapement:** [Tabulator](../features/esc-tabulator.md) (52)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (66), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (43)
+- **Type element:** [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (32)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (34)
+- **Spacing and escapement:** [Tabulator](../features/esc-tabulator.md) (53)
 - **Paper and carriage:** [Paper table and guides](../features/pap-paper-guide.md) (36)
 - **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (36)
 - **Uses:** [Attachment or accessory](../features/use-accessory.md) (41)
@@ -54,6 +54,7 @@ Combined with adding or calculating
 | [US896913](../patents/US896913.md) | 1908 | Hopkins, William W. | Key levers do both jobs in one stroke: the first half of travel positions the type carrier vertically and laterally, the second half fires the hammer. |
 | [US899229](../patents/US899229.md) | 1908 | Mays, James Francis | Pressing the keys alone sets the type digits, carries the total and returns the keys; printing is independent of calculation and can be used or not. |
 | [US901092](../patents/US901092.md) | 1908 | Glasner - Glasier, Frank P. - Johnson J. | Keys operate typebars and number wheels together so each stroke prints and adds or subtracts. |
+| [JP16174](../patents/JP16174.md) | 1908 | Benicke, Wilhelm | A closed pneumatic or hydraulic pipe system branched by keyboard-operated converters drives turbines that rotate and slide a type cylinder to the shortest path, with locking drop pieces to stop each exactly. |
 | [US910410](../patents/US910410.md) | 1909 | McLaughlin, John C. | Make the higher denomination keys reversible, one face with a comma or blank and the other face a denomination, so the same stops serve a short or long range. |
 | [US920940](../patents/US920940.md) | 1909 | Ferry, Henry M. | Electric couplers and a cable link the keys of the adding machine and the keys of the typewriter so that the items typed and the items added correspond. |
 | [US926318](../patents/US926318.md) | 1909 | Crandall, Lucien S. | A compound bar of two hinged members whose types interleave in each other's gaps, so many types fit with only a small shift. |
@@ -185,6 +186,7 @@ Combined with adding or calculating
 | [DE412071](../patents/DE412071.md) | 1925 | Winklhofer, Wanderer Werke Vorm | Finger-shaped or tongue-shaped blockers, fitted to the hood or ribbon guide and slid over selected type carriers, hold those carriers down so that the matching keys do nothing in printing or addition. |
 | [DE412416](../patents/DE412416.md) | 1925 | Co, Underwood Typewriter | The sheet carriage guideway extends rearward above the selector mechanisms, and the platen folds up to a height where the paper web runs parallel to the guideway; the platen gear disengages from the drive wheel when folded. |
 | [DE412777](../patents/DE412777.md) | 1925 | Samburg, Maurice | A self-contained adding unit with its own keyboard clips onto the front frame of an ordinary typewriter and drives the typewriter's keys by force fit, so the typewriter can write without affecting the adder and an addition can be made at any time. |
+| [JP67194](../patents/JP67194.md) | 1925 | La Pegna, Raffaello | Several groups of typebar linkages, one per column, share one set of keys, and a hand-set selector puts chosen groups in working state so one key stroke prints the same figure in all selected columns. |
 | [DE413104](../patents/DE413104.md) | 1925 | Co, Ncr | The higher-order racks are moved out of the zero-pressure position by a special device, and then automatically return, so leading zeros or dashes can be printed in front of each number while the lowest-order wheels stay at zero. |
 | [DE414405](../patents/DE414405.md) | 1925 | Weinmann, Alfred | A card frame runs between the printing unit and the paper roller on the carriage, shifts sideways to the column positions, advances one line with each indexing of the paper, and a second ribbon and a translucent strip give simultaneous copies. |
 | [DE415053](../patents/DE415053.md) | 1925 | Fa, Hollerith Maschinen G M B H | A current-monitoring electromagnet in the circuit interrupts or weakens the card circuit while the counter magnet is excited, and the counter magnet circuit stays closed so no spark forms; ball contacts can replace the brushes. |
@@ -415,6 +417,7 @@ Combined with adding or calculating
 | [DE620109](../patents/DE620109.md) | 1935 | Foereni, Kooperativa Foerbundet | Receipt printing method and device that prints text across the original and the shorter-offset copy of a folded slip. |
 | [DE620655](../patents/DE620655.md) | 1935 | Co, Ncr | Print hammer is driven by a cocked spring and released from the drive so it returns to rest on its own spring. |
 | [DE622049](../patents/DE622049.md) | 1935 | Knutsen, Knut Andreas | Keep the type wheel turning in drive while its carrier moves so the type rolls on the paper with zero relative speed. |
+| [JP115697](../patents/JP115697.md) | 1936 | Knutsen, Knut Andreas | A type wheel is rolled over a stopped ratchet gear so its selected type has zero speed relative to the paper, then thrown against the paper by a guide edge. |
 | [DE624725](../patents/DE624725.md) | 1936 | Ges, Astrawerke Akt | An endless band carrying stops cooperates with the drum to set the counters, replacing separate stop arrangements. |
 | [DE624726](../patents/DE624726.md) | 1936 | Ges, Astrawerke Akt | Counter stops are on a helical line on the drum, so the drum can take an intermediate position for subtraction. |
 | [DE625690](../patents/DE625690.md) | 1936 |  | Brushes have no direct connection to the magnet; a thermionic valve under brush control lets a capacitor discharge excite the electromagnet. |

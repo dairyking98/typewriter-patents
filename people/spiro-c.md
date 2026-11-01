@@ -19,11 +19,7 @@
 - [Visigraph](../machines/visigraph.md) (1910)
 - [C.Spiro Manufactoring Co u.a machine, ?](../machines/c-spiro-manufactoring-co-u-a-x.md) (?)
 
-## Assigned to
-
-- [GOURLAND TYPEWRITER CORP](../companies/gourland.md) (1)
-
-## Patents (67)
+## Patents (66)
 
 | Patent | Date | Title | Carrier | Index score |
 |---|---|---|---|---|
@@ -93,4 +89,3 @@
 | [US1072784](../patents/US1072784.md) | 1913-09-09 | Type-Bar Action |  | -17.5 |
 | [US1151059](../patents/US1151059.md) | 1915-08-24 | Platen-Release Mechanism |  | 0.0 |
 | [US1160665](../patents/US1160665.md) | 1915-11-16 | Stenographic Type-Writer |  | 0.0 |
-| [JP38396](../patents/JP38396.md) | 1920-02-02 | Line-spacing adjusting mechanism for a typewriter |  | 0.0 |

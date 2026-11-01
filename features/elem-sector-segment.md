@@ -4,13 +4,13 @@
 
 Curved type sector or segment (e.g. Hammond shuttle)
 
-**173 patents**, 1829–1950. Often together with:
+**176 patents**, 1829–1950. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (54), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (44)
-- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (33)
-- **Impression:** [Hammer behind the paper](../features/imp-hammer-behind.md) (55)
-- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (46)
-- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (48), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (43), [Space key or bar](../features/esc-space-key.md) (42)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (55), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (45)
+- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (34)
+- **Impression:** [Hammer behind the paper](../features/imp-hammer-behind.md) (56)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (47)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (49), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (44), [Space key or bar](../features/esc-space-key.md) (44)
 
 **Machines:** [Postal 5](../machines/postal-5.md) (3), [Gardner](../machines/gardner.md) (1), [American Index](../machines/american-index.md) (1)
 
@@ -116,6 +116,7 @@ Curved type sector or segment (e.g. Hammond shuttle)
 | [US752422](../patents/US752422.md) | 1904 | Schuckers, Jacobs W. | A full-keyboard machine in which each key moves an adjustable pivoted deflector that shoves a reciprocating bar by a set amount, oscillating a type-wheel segment to that character, with a hammer printing from behind the paper. |
 | [US767508](../patents/US767508.md) | 1904 | Voget, Peter Alexander | A Hammond-based shorthand typewriter that uses a character's raised or lowered position to indicate a vowel or heavy type for another, and combines common consonant clusters and prefixes on single keys. |
 | [US780102](../patents/US780102.md) | 1905 | Hammond, James B. | Make the Hammond universal by giving it a reversible carriage drive, a turret hammer with several faces, an exchangeable shuttle and rotating multi-face keys, built on a U-shaped frame that backs the anvil. |
+| [JP8673](../patents/JP8673.md) | 1905 | Hammond, James B. | A ring-shaped hard-rubber shuttle with an inner metal flange running between a two-part anvil, notched for several character sets and released from its driving arm by a slide, driven by swinging speed dogs, with a small seven-character shuttle for Braille where two keys build each character. |
 | [US787968](../patents/US787968.md) | 1905 | Winsor, John | A support inclined to the vertical with type-bars disposed toward a central point below, so each bar pivots about a horizontal axis and bar lengths can be shorter. |
 | [US794851](../patents/US794851.md) | 1905 | Campbell, Walter Hope | A vertically movable shuttle anvil with guide horns on the spindle and turn-table seats a stack of shuttles accurately, with added stroke-regulated shift keys, a graduated paper-roll index for printing above/below the line, and two ribbons with a double-headed hammer for two colors. |
 | [US799627](../patents/US799627.md) | 1905 | Brown, Alexander T. | The type-bar is pivoted in a hanger fixed to a segment, with improved construction of the type-bar, the hanger and their mounting so the bar is guided and steadied at the printing moment. |
@@ -150,6 +151,7 @@ Curved type sector or segment (e.g. Hammond shuttle)
 | [US1002266](../patents/US1002266.md) | 1911 | Groyen, Ferdinand | A hand-moved rack with a pointer on a staff scale turns a toothed cylinder as long as the platen, which turns a gear on the platen axle to set the platen angle. |
 | [US1007098](../patents/US1007098.md) | 1911 | Hammond, James B. | Tabulating keys of different denominations set a swinging stop arm whose shoulders limit the hammer lever's backward throw, so the escapement wheel advances one or more letter spaces. |
 | [US1016297](../patents/US1016297.md) | 1912 | Seidelinger, Robie | Type bars are arranged segmentally on a type bar segment, each on a bifurcated hanger, with anti-friction rollers and spacing rings. |
+| [JP23485](../patents/JP23485.md) | 1912 | Shinozawa, Yūsaku | A quarter-circle type plate carried on a pivoted arm is swung by a single key lever that is moved along a notched character table to choose the character, then pressed straight down to strike it, the same press also advancing the paper by one mainspring-driven space. |
 | [DE255125](../patents/DE255125.md) | 1912 |  | A ball set in a fork bearing or type lever circle segment, positioned by a screw with a fine thread; the screw presses the ball so the type lever is pushed against the fork wall. |
 | [US1023805](../patents/US1023805.md) | 1912 | Bridgwater, Herbert E. | Type bars are supported on an adjustable fulcrum and guided radially in a segment so that each bar has its own individual adjustment. |
 | [US1026056](../patents/US1026056.md) | 1912 | Soles - Fraaz, Zalmon G. - Joseph M. | Flat hangers slide into notches in the segment and are fixed by screws, so a hanger with its type bars can be removed and replaced in a single move. |
@@ -165,6 +167,7 @@ Curved type sector or segment (e.g. Hammond shuttle)
 | [US1142151](../patents/US1142151.md) | 1915 | Duiven, Jacob | A make-and-break contact driven by the hammer lets a held key repeat the print. |
 | [US1155828](../patents/US1155828.md) | 1915 | Lopez, Arthur | A reversing attachment under the base plate whose bevel pinions are shifted alternately into mesh with the spool shafts, shifted automatically by a gravity rod running through the hollow spool shaft to a worm on the reversing shaft. |
 | [DE289046](../patents/DE289046.md) | 1915 | Hammond, Typewriter C | A bracket mounted on the carrier axis against a coil spring lifts first the two type segments and only then the carrier, so the carrier can be raised and rotated to exchange the segments. |
+| [JP39929](../patents/JP39929.md) | 1919 | The Hammond Typewriter Company | Rigid fingers on the hinged keyboard extension seat in grooves in the base and are held by a spring catch, while a spring-loaded bar locks the key levers automatically on folding and a rock-shaft arm carries the shift keys across the fold. |
 | [DE327165](../patents/DE327165.md) | 1920 | Holtze, Hans | Several independent, individually removable type sets are built in side by side, and a lever switches between them in mid-writing. |
 | [DE330818](../patents/DE330818.md) | 1920 | Holtze, Hans | The height is set by one rear joint of the control pentagon, with control plates or a disc-shaped link with bolts that catch in projections on the fishing-rod, so the type locks at each of five writing positions even with joint play. |
 | [DE340363](../patents/DE340363.md) | 1921 | Schuster, Carl | A single numbered segment is turned by a cam-set setting segment; each key's cam sets it to the right position, and striking the key prints the number. |

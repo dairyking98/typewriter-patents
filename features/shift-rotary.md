@@ -4,14 +4,14 @@
 
 Element turns by a fixed angle to change case
 
-**133 patents**, 1875–1949. Often together with:
+**140 patents**, 1875–1949. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (52), [Selection locked for printing](../features/sel-selector-locking.md) (47)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (56)
-- **Shift and cases:** [Three or more cases](../features/shift-triple.md) (42)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (61)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (39), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (38)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (38)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (57), [Selection locked for printing](../features/sel-selector-locking.md) (50)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (58)
+- **Shift and cases:** [Three or more cases](../features/shift-triple.md) (48)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (65)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (42), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (40)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (40)
 
 **Machines:** [Fisher 2](../machines/fisher-2.md) (4), [Velograph 2](../machines/velograph-2.md) (2), [Cash](../machines/cash.md) (2), [Chicago 2](../machines/chicago-2.md) (2), [Munson 1](../machines/munson-1.md) (2), [Fisher 1](../machines/fisher-1.md) (2), [Crandall No. 3](../machines/crandall-no-3.md) (1), [Morris](../machines/morris.md) (1), [Columbia Index 1](../machines/columbia-index-1.md) (1), [Columbia Index 2](../machines/columbia-index-2.md) (1), [National](../machines/national.md) (1), [Postal 5](../machines/postal-5.md) (1), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1)
 
@@ -109,16 +109,20 @@ Element turns by a fixed angle to change case
 | [US684807](../patents/US684807.md) | 1901 | Ferguson, Arthur C. | One multi-faced type bar on a sliding cross-head is shifted sideways to the chosen position by the bevelled foot of the pressed key post, then the same key stroke swings the bar down onto the platen and spaces the carriage. |
 | [US708213](../patents/US708213.md) | 1902 | Fisher, Robert Joseph | A type-head with characters at an angle to each other is pivoted to the type-bar and turned between its two positions. A trip and buffer on the type-bar set the shift and a trigger locks the head rigid in each position. |
 | [US725855](../patents/US725855.md) | 1903 | Loyd, William Frank | A cup-shaped head with elbow typebars carrying three-faced rotating type-heads, all turned together to the required case by a ring with finger-piece. |
+| [JP7850](../patents/JP7850.md) | 1903 | Donning, George Washington | A flat tilting platen with a self-levelling sliding book rest, a gantry carriage running on a tiltable track, and typebars whose heads carry three types and are rocked to the case by a half-ring behind the bars. |
 | [US734044](../patents/US734044.md) | 1903 | Cantelo, John L. | A tubular type sleeve on a pivoted arm is slid axially to pick the row, rotated to pick the column, and swung down onto the platen, all driven by the one key lever that is pressed. |
 | [US743259](../patents/US743259.md) | 1903 | Donning, George W. | Several shift-key levers rock a shaft that raises a semiring to tilt each typebar's pivoted head to one of three characters, with a yielding adjustable member that indexes and locks the position. |
 | [US781918](../patents/US781918.md) | 1905 | Smith, John Asbury | Insert switchable differential gearing between the carriage feed pinion and the escapement wheel so that the same uniform escapement step moves the carriage either 10 or 6 characters to the inch. |
+| [JP8673](../patents/JP8673.md) | 1905 | Hammond, James B. | A ring-shaped hard-rubber shuttle with an inner metal flange running between a two-part anvil, notched for several character sets and released from its driving arm by a slide, driven by swinging speed dogs, with a small seven-character shuttle for Braille where two keys build each character. |
 | [US793689](../patents/US793689.md) | 1905 | Smith, John A. | Give each typebar a pivoted two-type head with a trigger that both shifts and positively locks the head, operated by a movable trip and restored by a buffer. |
 | [US799034](../patents/US799034.md) | 1905 | Curtis, Henry E. | A balanced vertically moving type-bar segment, shifted by links and a rock-shaft, with adjustable stops and a latch to lock it shifted. |
 | [US824579](../patents/US824579.md) | 1906 | Paul, John W. | The whole typebar frame is pivoted and rocked between two adjustable stops to bring upper or lower case type to the print line, with flexing links from the key levers. |
 | [US825968](../patents/US825968.md) | 1906 | Hammond, James Bartlett | A ring-form hard-rubber shuttle reinforced by an inner metal flange molded in, driven by a radially releasable shuttle-arm finger so the shuttle can be twirled to a different font set without lifting. |
 | [US840120](../patents/US840120.md) | 1907 | Donning, George W. | A key with several contact stages first energizes a selecting magnet, then a power magnet, then cuts both, so a positioned typebar or type-head shifter is driven by the power device. |
 | [US877179](../patents/US877179.md) | 1908 | Duchesne, Robert | Key levers rise against striker rods, and each striker drives a hammer that presses the paper against a letter plate; a pedal rocks the plate about a pivot so one of several rows of letters comes above the hammer, and the paper passes under a fed ink ribbon. |
+| [JP15038](../patents/JP15038.md) | 1908 | Billing, Noel Pemberton | A single-key index typewriter: a lever dropped into one tooth of a saw-toothed index plate turns a spring-returned type wheel through a rack and pinion, and pressing on prints and spaces. |
 | [US895652](../patents/US895652.md) | 1908 | Macis, Gabriel | Each typebar carries a separate hinged multi-sided type block that can be turned to present a different alphabet and is held by a spring. |
+| [JP16174](../patents/JP16174.md) | 1908 | Benicke, Wilhelm | A closed pneumatic or hydraulic pipe system branched by keyboard-operated converters drives turbines that rotate and slide a type cylinder to the shortest path, with locking drop pieces to stop each exactly. |
 | [US911805](../patents/US911805.md) | 1909 | Billing, Noel Pemberton | A single lever dipped into a stepped plate rotates a type disk (via rack, pinion and one-way ratchet) to the chosen character, and the same stroke trips a spring striker behind the paper and spaces the carriage. |
 | [US917248](../patents/US917248.md) | 1909 | Chambonnaud, Léon | Multi-character typebars in four groups, each converging on its own printing point, with a shift key that moves the bar-carrying frame sideways to pick the character. |
 | [US932167](../patents/US932167.md) | 1909 | Odell, Levi J. | A single rocking type bar on a sliding frame, positioned by a stylus over a slotted character bar, printing the character chosen. |
@@ -135,10 +139,13 @@ Element turns by a fixed angle to change case
 | [US1138427](../patents/US1138427.md) | 1915 | Thompson, Samuel Alexander | Type fingers on a wheel carry types in pairs with a notch so both of a pair can be struck. |
 | [US1141831](../patents/US1141831.md) | 1915 | Russell, William Ernest | A carriage carrying a rotatable type drum is traversed across stationary paper; depressing a key first rotates the drum a key-dependent amount, then lowers the carriage to print. |
 | [DE289046](../patents/DE289046.md) | 1915 | Hammond, Typewriter C | A bracket mounted on the carrier axis against a coil spring lifts first the two type segments and only then the carrier, so the carrier can be raised and rotated to exchange the segments. |
+| [JP37607](../patents/JP37607.md) | 1919 | Matsushita, Daisaburō | Many long many-sided rotary type carriers, one per row of keys, are turned and slid by key-driven bars so that any of thousands of characters is thrown onto the same point of the paper cylinder. |
+| [JP40516](../patents/JP40516.md) | 1919 | Matsushita, Daisaburō | Long slidable (and optionally many-sided, turnable) type bars each carry a row of characters; each key throws its bar and also slides the bar and shifts the paper cylinder by zone so every character reaches one common printing point. |
 | [DE327166](../patents/DE327166.md) | 1920 | Langguth, Robert | Each plate field serves two types (for example capital and lower-case letter), and a thumb button on the pointer handle shortens or lengthens the setting slide so the cylinder turns to the second type of the field; electromagnets can optionally do the printing and spacing strikes. |
 | [DE328880](../patents/DE328880.md) | 1920 | Reinicke, Georg | Break the letters into common parts (basic shapes, dots, final swashes) on separate keys struck together so that combined impressions form the letters, cutting 110 types to a few dozen. |
 | [DE377030](../patents/DE377030.md) | 1923 |  | Several writing keys per letter field, where the extra keys also move the type cylinder (rotationally or lengthwise) through a gear, so case is chosen by which key is struck. |
 | [DE393930](../patents/DE393930.md) | 1924 | Langguth, Robert | Each chart field serves four types on the cylinder, selected by an extra constant rotation, a constant axial withdrawal, both together, or neither. |
+| [JP61217](../patents/JP61217.md) | 1924 | Shimada, Minokichi | A polygon-shaped wheel carries sets of multi-type typebars and is turned by a handle to bring the wanted set to the keys, while the key also drops the paper cylinder to pick the row of type on the bar. |
 | [DE398643](../patents/DE398643.md) | 1924 | Kriebel, Walter | A thumb-driven slide, latched by a pawl, sets a stop that rotates the type head to the upper case; the latch releases when the type lever falls so the shift returns on its own. |
 | [DE434837](../patents/DE434837.md) | 1926 | Thorsch, Siegfried | One common movable stop bar, positioned by one shift key, limits the swing of all typebars so that either type of the two on a bar prints. |
 | [DE465928](../patents/DE465928.md) | 1928 |  | A tension spring is attached to the type lever and engages the type head through a semicircular rod, so that the line between the spring's two attachment points straddles the head's fulcrum in both end positions, forcing the head over and holding it in each. |

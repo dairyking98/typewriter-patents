@@ -4,11 +4,11 @@
 
 Carbon copies or manifolding emphasis
 
-**281 patents**, 1867–1949. Often together with:
+**289 patents**, 1867–1949. Often together with:
 
-- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (54), [Carbon paper or inked strip](../features/ink-carbon.md) (54), [Ribbon feed](../features/ink-ribbon-feed.md) (40)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (88), [Paper table and guides](../features/pap-paper-guide.md) (79), [Feed rollers and paper release](../features/pap-feed-rollers.md) (54), [Line spacing](../features/pap-line-space.md) (44)
-- **Uses:** [Attachment or accessory](../features/use-accessory.md) (40)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (58), [Carbon paper or inked strip](../features/ink-carbon.md) (55), [Ribbon feed](../features/ink-ribbon-feed.md) (42)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (90), [Paper table and guides](../features/pap-paper-guide.md) (81), [Feed rollers and paper release](../features/pap-feed-rollers.md) (55), [Line spacing](../features/pap-line-space.md) (48)
+- **Uses:** [Attachment or accessory](../features/use-accessory.md) (41)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (4), [Alexander (2)](../machines/alexander-2.md) (4), [Alexander (3)](../machines/alexander-3.md) (3), [Blickensderfer 2](../machines/blickensderfer-2.md) (2), [Blickensderfer 3](../machines/blickensderfer-3.md) (2), [Blickensderfer 4](../machines/blickensderfer-4.md) (2), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (2), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (2), [Blickensderfer 7](../machines/blickensderfer-7.md) (2), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (2), [Dactyle](../machines/dactyle.md) (2), [Boston](../machines/boston.md) (1), [Remington 5](../machines/remington-5.md) (1), [Remington 6](../machines/remington-6.md) (1), [Remington 7](../machines/remington-7.md) (1)
 
@@ -27,6 +27,7 @@ Carbon copies or manifolding emphasis
 | [US353965](../patents/US353965.md) | 1886 | Peck, Joseph W. | A rack bar and gear turn the common type carrier by a fixed amount independently of the stylus arm, so the same stylus holes print capitals or small letters, and the paper clips on the roller have adjustable pressure. |
 | [US357090](../patents/US357090.md) | 1887 | Moore, Nathan Grier | A lever hinged to the type disc is swung around a fixed index disc to the wanted character, then pressed down on a sliding shaft, which locks the disc, tilts the paper roller against the type, and on return spaces the carriage one tooth. |
 | [US384142](../patents/US384142.md) | 1888 | Ferris, George L. | A single hand lever, geared directly to a vertical type wheel and engaged with a notched lettered bar, rotates the wheel to the chosen character, presses it onto the paper and, by the same downstroke, feeds the paper table one tooth. |
+| [JP940](../patents/JP940.md) | 1888 | Fujiki, Sueoto | Record only the vowels, by stamping with fingertip-worn vowel stamps on ruled paper whose columns are labelled with consonants. |
 | [US405606](../patents/US405606.md) | 1889 | Sargent, Charles E. | A pivoted gravity paper-holding device replaces the feed roll, holds single or manifold sheets on the platen, and carries a scale board. |
 | [US414588](../patents/US414588.md) | 1889 | Robinson, John R. | The Hall printing frame is held stationary lengthwise while the paper carriage steps along, with pointer, flexible type form and indicator unchanged. |
 | [US427118](../patents/US427118.md) | 1890 | Sauder, Henry K. | A pivoted strap lever on the carriage plate is swung down on the printing stud so the hand's effort drives the stud with multiplied force; an improved stud and a detachable fitting are included. |
@@ -93,6 +94,7 @@ Carbon copies or manifolding emphasis
 | [US709893](../patents/US709893.md) | 1902 | Eylar, Matthew S. | An insulating sheet fixed to the paper-confining frame is slid under the carbon sheet to stop it transferring print onto selected areas of the lower copy. |
 | [US714132](../patents/US714132.md) | 1902 | Black, William C. | An auxiliary inked ribbon strip fitted to the machine in place of carbon sheets to make additional copies. |
 | [US718758](../patents/US718758.md) | 1903 | Harrison, John S. | Key depression closes an electric circuit so an electromagnet moves the type-wheel and releases the hammer and carriage, leaving the operator only the small contact stroke. |
+| [JP7850](../patents/JP7850.md) | 1903 | Donning, George Washington | A flat tilting platen with a self-levelling sliding book rest, a gantry carriage running on a tiltable track, and typebars whose heads carry three types and are rocked to the case by a half-ring behind the bars. |
 | [US734660](../patents/US734660.md) | 1903 | Bellamy, Charles J. | An attachment that feeds continuous paper from rolls or sheets, with tension devices and means to join the manifold apron. |
 | [US771224](../patents/US771224.md) | 1904 | Bellamy, Charles J. | The platen body within the type range is made of a material that yields transferable pigment under the blow of the type, with a sheath that covers it when copying is not wanted. |
 | [US773287](../patents/US773287.md) | 1904 | Halle, Hiram J. | A platen attachment with hinged transfer elements that are inserted between manifold folds and moved apart to free the sheet, with a clamping and cutting device at the front edge of the platen. |
@@ -224,6 +226,8 @@ Carbon copies or manifolding emphasis
 | [DE309590](../patents/DE309590.md) | 1916 |  | Two sets of feed rollers and endless belts advance the outer sheets at a different speed from the platen so the inner sheets slip behind, with equal sheet widths. |
 | [JP30202](../patents/JP30202.md) | 1916 | Sugimoto, Kyōta | A frame carrying a large paper cylinder and a lever that lifts one loose type out of a cell magazine, inks it and strikes it on the paper, with automatic character spacing from the same lever and added line-space, clamp and spring-adjust devices. |
 | [DE307964](../patents/DE307964.md) | 1916 |  | A second feed roller for the original sheet is geared to the main platen feed, so both move together at a chosen ratio, with an intermediate gear that a hand lever disengages for setting the original. |
+| [JP35670](../patents/JP35670.md) | 1919 | Murooka, Sōshichi | A hand-pushed row of types is selected on a fan-shaped character board and struck upward electrically, while a wheel of paper cylinders turns step by step so the same character prints on each sheet in turn. |
+| [JP38893](../patents/JP38893.md) | 1920 | Murooka, Sōshichi | Many side-by-side sliding type boxes, each holding the whole character set in one row, are set by hand handles to line up a whole line of types, which electromagnet push-rods strike upward at once onto a rotating wheel of paper sheets. |
 | [DE320676](../patents/DE320676.md) | 1920 | Browning, Walter Henry | Before each advance the strip is withdrawn a short distance from the supply reel, so the feed needles do not pull the reel during the switching stroke. |
 | [DE323145](../patents/DE323145.md) | 1920 | Fenton, Walter | A movable carrier alternately brings a pressure bar or a roller into the writing position, so one paper cart serves both original-only and original-plus-copy work. |
 | [DE327931](../patents/DE327931.md) | 1920 | Co, Underwood Typewriter | U-shaped clamps with counter rails hold the folds, a cutter severs each edge on withdrawal, and an adjustable scaled stop sets the position. |
@@ -257,11 +261,13 @@ Carbon copies or manifolding emphasis
 | [DE498606](../patents/DE498606.md) | 1930 | Co, Remington Typewriter | Form sheets are fed from a stack into the acute angle between a carbon sheet and guide bands, and a switching device gives the platen several full turns so the forms wind on with carbon copies. |
 | [DE500605](../patents/DE500605.md) | 1930 | Uttenweiler, Hugo | Carbon or colour paper is placed between the paper layers before printing so each layer gets its impression from the colour sheet. |
 | [DE506908](../patents/DE506908.md) | 1930 | Kirsch, Rudolf | Transparent cellulose film is used as the carbonless copy sheet, with an opaque front coating and copy ink sprayed on the back. |
+| [JP91477](../patents/JP91477.md) | 1930 | Egawa, Yoshimitsu | A continuously spinning type disc is stopped by a key-operated stop dropping into a hole of a selector cylinder on the same shaft, then a clutch-started one-turn shaft lowers the disc shaft to print and advances the paper box. |
 | [DE519399](../patents/DE519399.md) | 1931 | Schob, Werner | The glue layer of a folded postcard is mixed with a dye, so the adhesive itself copies when a sheet is placed on it, and folding covers it. |
 | [DE525929](../patents/DE525929.md) | 1931 | Meyerheim, Hugo | A setup plate with set-up pins aligns the sheets, and a marking device on it, linked to the staple slide, marks the line being used when the sheets are stapled. |
 | [DE534649](../patents/DE534649.md) | 1931 | Jarecki, Georg | Device folds original, carbon and carbon paper in the required order before typing. |
 | [DE535580](../patents/DE535580.md) | 1931 |  | The platen and its counter roller are made movable so a loose sheet is pushed in, gripped, and then pinched between the rollers so it arrives at the print point together with the registration tape. |
 | [DE528026](../patents/DE528026.md) | 1931 | Lehmann, Karl August | The original is made in one checkout pass and each duplicate in a further pass: a repetition organ re-prints the stored entries while the adder is switched off, so the value is added only once. |
+| [JP95768](../patents/JP95768.md) | 1931 | Fukumoto, Yoshio | A writing board made of many close-packed spring keys is written on directly; the keys under the pen strokes drive typebar tips that print the shape as a reduced cluster of dots on a print cylinder. |
 | [DE542876](../patents/DE542876.md) | 1932 | Werke, Mercedes Bueromaschinen | Each sheet of different width has its own row of holes at a different distance from the margin, so all sheets align on the same single pin row. |
 | [DE547675](../patents/DE547675.md) | 1932 | Tauschek, Gustav | A transfer-printing roller (or optical projection onto a photosensitive web) copies the card's written text onto the same paper web on which the tabulator's type units print the punched data. |
 | [DE548600](../patents/DE548600.md) | 1932 | Haberfeld, Erwin O | The inlet funnel has a fixed left edge and a spring-loaded right edge; the spring presses each sheet to the left stop so the columns always align. |
@@ -271,6 +277,8 @@ Carbon copies or manifolding emphasis
 | [DE591122](../patents/DE591122.md) | 1934 | Kanold, Otto | A pressure-sensitive adhesive is applied to the edges of the carbon sheets themselves, so they can be stacked and pressed onto writing sheets at any time without extra tools. |
 | [DE592209](../patents/DE592209.md) | 1934 | Typewriters, L C Smith & Corona | Ink sheet holders move in longitudinal grooves in the platen itself, clamping the paper webs and ink sheets against the roller, so the machine is no larger than an ordinary typewriter and existing machines can be converted. |
 | [DE597329](../patents/DE597329.md) | 1934 | Stern, Milton Charles | A row of separating rollers above the main pin-belt feed separates the perforated web tracks so they are fed one after another and aligned from a single supply roll. |
+| [JP110135](../patents/JP110135.md) | 1934 | Yoshimura, Sotoo | A presser bar swung against or away from a paper guide plate clamps the copy paper so only the original feeds, or releases it so both feed together. |
+| [JP110739](../patents/JP110739.md) | 1935 | Schüler, Hugo | Two-type typebars hung on two links rest on a 90-degree arc near platen height and travel almost straight to the print point, freed from the key just before impact so they print by momentum. |
 | [DE619248](../patents/DE619248.md) | 1935 | Inc, Royal Typewriter Co | Put the auxiliary ribbon spools in a basket that slides out of a spool frame fixed to the carriage so they travel with it and all come out at once. |
 | [DE619539](../patents/DE619539.md) | 1935 | Sherman, John Q | Edge holes of carbon and writing sheets are made different sizes so the pins seat in the stack without stressing the thin sheets. |
 | [DE634899](../patents/DE634899.md) | 1936 | Inc, Royal Typewriter Co | Each pair of guide rails sits on its own mounting rail on the carriage behind the paper table, so each pair can be placed independently, letting sheets of different widths sit side by side on either side of the platen. |

@@ -4,13 +4,13 @@
 
 Keeping typebars from rebounding, clashing or jamming
 
-**117 patents**, 1880–1950. Often together with:
+**120 patents**, 1880–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (35)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (117), [Typebar action](../features/bar-type-action.md) (88), [Type basket and bearings](../features/bar-basket-bearings.md) (54), [Key touch and even impression](../features/bar-touch.md) (13)
-- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (11)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (44)
-- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (24)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (38)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (120), [Typebar action](../features/bar-type-action.md) (91), [Type basket and bearings](../features/bar-basket-bearings.md) (56), [Key touch and even impression](../features/bar-touch.md) (15)
+- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (13)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (47)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (25)
 
 **Machines:** [Ideal A4 / A5](../machines/ideal-a4-a5.md) (3), [Pittsburg 9](../machines/pittsburg-9.md) (2), [Alexander (1)](../machines/alexander-1.md) (2), [Alexander (2)](../machines/alexander-2.md) (2), [Alexander (3)](../machines/alexander-3.md) (2), [Daugherty](../machines/daugherty.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (1), [Bar-Lock Columbia](../machines/bar-lock-columbia.md) (1), [Bar-Lock 12](../machines/bar-lock-12.md) (1), [Bar-Lock 14](../machines/bar-lock-14.md) (1), [Bar-Lock 15](../machines/bar-lock-15.md) (1), [Visigraph](../machines/visigraph.md) (1), [Underwood 4](../machines/underwood-4.md) (1), [Underwood 5](../machines/underwood-5.md) (1)
 
@@ -107,7 +107,9 @@ Keeping typebars from rebounding, clashing or jamming
 | [US1162194](../patents/US1162194.md) | 1915 | Sholes, Zalmon G. | A cam groove in an upright lever, driven by a pin on the key lever, accelerates the typebar, and notched bearing rods let levers be slid on and off their pivots. |
 | [US1163986](../patents/US1163986.md) | 1915 | Drewell, Heinrich | Make the shift movement that changes the key-lever/universal-bar cooperation take place in a direction toward or away from the key-lever projections, so partly-made shifts cannot foul. |
 | [US1164660](../patents/US1164660.md) | 1915 | Moyer, Harvey A. | A rocker-armed key linkage and cam slot give a variable-leverage shift that starts slowly, accelerates, then retards and locks without rebound. |
+| [JP67656](../patents/JP67656.md) | 1919 | Underwood Typewriter Company | Short typebars swinging about 120 degrees backward from a back-tilted segment let the platen sit very low behind the keyboard, so a standard-keyboard machine is portable without folding. |
 | [DE339406](../patents/DE339406.md) | 1921 | Sandor, Franz | Split a visible-writing typewriter along a transverse vertical plane into two complete frames, keyboard-and-typebar front and carriage rear, joined by a light hand-releasable coupling. |
+| [JP43117](../patents/JP43117.md) | 1921 | The Noiseless Typewriter Company | A weighted energy-storing member and a toggle linkage on each typebar slow the bar in its last swing and press the type on rather than strike it, so printing is nearly silent. |
 | [DE350262](../patents/DE350262.md) | 1922 | Winklhofer, Wanderer Werke Vorm | A narrow arched rail buffer stop is fixed at both ends over thin sound-absorbing spacers on the bearing segment, so it does not touch the bearing directly; it is easily replaced and adjusted. |
 | [DE374424](../patents/DE374424.md) | 1923 | Augsbur, Schreibmaschinenfabrik | A resilient arm, cut free from the type-lever shaft by a slot, takes up the excess force of the stroke at the bounce stop, so the lever stops more softly while the spring-back is still driven by the stored energy. |
 | [DE383031](../patents/DE383031.md) | 1923 | G, Hansa Schreibmaschinenfabrik | A separate, stronger rail runs under all key levers and is moved by the release button, pulling the knocked-together type levers apart without touching the universal rail. |
@@ -125,6 +127,7 @@ Keeping typebars from rebounding, clashing or jamming
 | [DE573910](../patents/DE573910.md) | 1933 | Co, Remington Typewriter | Type levers rotate on an arc around a fixed centre and are pressed noiselessly onto the paper roller by a toggle joint; an auxiliary knee-lever joint is stretched in the rest position and bent only when the key is struck, so the stroke is light and the type is held against rebound. |
 | [DE576533](../patents/DE576533.md) | 1933 | Co, Remington Typewriter | A pin on the type lever runs along a thrust cam on the swing weight, so the weight is accelerated smoothly, brakes the lever, and returns its stored energy when the type reaches the platen. |
 | [DE587130](../patents/DE587130.md) | 1933 | Inc, Electromatic Typewriters | The drive arm of each type lever pivots as one part of a toggle linkage whose other joint is carried by the segment; the knee extends at impact to stop rebound and gives a long lever arm at the start of the stroke. |
+| [JP110739](../patents/JP110739.md) | 1935 | Schüler, Hugo | Two-type typebars hung on two links rest on a 90-degree arc near platen height and travel almost straight to the print point, freed from the key just before impact so they print by momentum. |
 | [DE640321](../patents/DE640321.md) | 1936 | Winterling, Carl | Type lever, intermediate lever and key lever of each drive all pivot in one radial slot of a single conical-sector bearing body, so assembly errors cancel. |
 | [DE645558](../patents/DE645558.md) | 1937 | Typewriters, L C Smith & Corona | Intermediate levers are linked to the key levers by a fixed connection and a spring acts through an intermediate piece, so the type lever returns in a straight line without bounce. |
 | [DE669731](../patents/DE669731.md) | 1939 | Co, Burroughs Adding Machine | The control bar is rigidly coupled to the drive shaft so no spring is needed for the print stroke, with strong return springs and an anti-rebound device to catch the type lever. |

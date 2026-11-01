@@ -154,7 +154,6 @@ Mechanism features whose earliest patent in the whole library is US.
 - 1886: [Check writer](../features/use-check-writer.md), [US334264](../patents/US334264.md) (Montgommery, James M., Jr.)
 - 1890: [Tabulator](../features/esc-tabulator.md), [US436916](../patents/US436916.md) (Gathright, Josiah B.)
 - 1890: [Typewriter with adding machine](../features/use-calculating.md), [US441232](../patents/US441232.md) (Felt, Dorr E.)
-- 1908: [Basket shift](../features/bar-basket-shift.md), [US902519](../patents/US902519.md) (Barney, Edwin E.)
 
 ### Inventors and companies
 
@@ -555,7 +554,7 @@ Typebar machines: 292 · Index machines: 61 · Type-element machines: 56 · Kind
 | [Underwood Portable](../machines/underwood-portable.md) | 1919 | Underwood Typewriter Comp | typebar |  |
 | [Victor 10](../machines/victor-10.md) | 1919 | Victor Typewr.Co | typebar |  |
 | [Allen 9](../machines/allen-9.md) | 1920 | Allen Typewriter Mfg. Co | typebar |  |
-| [Gourland](../machines/gourland.md) | 1920 | GOURLAND TYPEWRITER CORP | typebar | [JP38396](../patents/JP38396.md) |
+| [Gourland](../machines/gourland.md) | 1920 | GOURLAND TYPEWRITER CORP | typebar |  |
 | [Monarch Pioneer](../machines/monarch-pioneer.md) | 1920 | Remington Typewriter Comp | typebar | [US1016927](../patents/US1016927.md), [US1071383](../patents/US1071383.md), [US1072899](../patents/US1072899.md), [US1096010](../patents/US1096010.md) +3 |
 | [National Portable 5](../machines/national-portable-5.md) | 1920 | Rex Typewriter Co | typebar |  |
 | [Pocket](../machines/pocket-3.md) | 1920 |  | index |  |

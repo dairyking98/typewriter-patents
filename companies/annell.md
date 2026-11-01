@@ -5,4 +5,4 @@
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Woodstock Annell](../machines/woodstock-annell.md) | 1922 | QWERTY-type keyboard | typebar | 4 |
+| [Woodstock Annell](../machines/woodstock-annell.md) | 1922 | QWERTY-type keyboard | typebar | 5 |

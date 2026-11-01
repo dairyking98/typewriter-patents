@@ -1,9 +1,5 @@
 # Kandō, Midori
 
-## Assigned to
-
-- [sub-agent: patent attorney Ichikawa Hiroshi](../companies/sub.md) (1)
-
 ## Patents (2)
 
 | Patent | Date | Title | Carrier | Index score |

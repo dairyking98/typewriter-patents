@@ -2,11 +2,11 @@
 
 ## Assigned to
 
-- [Underwood Typewriter Comp](../companies/underwood.md) (34)
+- [Underwood Typewriter Comp](../companies/underwood.md) (35)
 - [Union Typewriter Comp](../companies/union.md) (30)
 - [Jacob Felbel](../companies/felbel.md) (6)
 
-## Patents (85)
+## Patents (86)
 
 | Patent | Date | Title | Carrier | Index score |
 |---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [US1124967](../patents/US1124967.md) | 1915-01-12 | Type-Writing Machine |  | 0.0 |
 | [US1125205](../patents/US1125205.md) | 1915-01-19 | Type-Writing Machine |  | 0.0 |
 | [US1139080](../patents/US1139080.md) | 1915-05-11 | Type-Writing Machine |  | 0.3 |
+| [JP29942](../patents/JP29942.md) | 1915-07-24 | Type printing machine |  | -5.9 |
 | [US1158408](../patents/US1158408.md) | 1915-10-26 | Type-Writing Machine |  | -1.1 |
 | [US1163790](../patents/US1163790.md) | 1915-12-14 | Type-Writing Machine |  | 0.0 |
 | [US1163791](../patents/US1163791.md) | 1915-12-14 | Type-Writing Machine |  | -5.2 |

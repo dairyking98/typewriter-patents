@@ -11,8 +11,8 @@ Name variants: The Hammond Typewriter Comp; The Hammond Type Writer Comp; Hammon
 | [Hammond 1B Ideal](../machines/hammond-1b-ideal.md) | 1891 | Ideal (DHIATENSOR) keyboard | type shuttle | 10 |
 | [Hammond 2 Ideal](../machines/hammond-2-ideal.md) | 1895 | Ideal (DHIATENSOR) keyboard | type shuttle | 10 |
 | [Hammond 2 Universal](../machines/hammond-2-universal.md) | 1895 | QWERTY-type keyboard | type shuttle | 10 |
-| [Hammond 12 Ideal](../machines/hammond-12-ideal.md) | 1905 | Ideal (DHIATENSOR) keyboard | type shuttle | 14 |
-| [Hammond 12 Universal](../machines/hammond-12-universal.md) | 1905 | QWERTY-type keyboard | type shuttle | 14 |
+| [Hammond 12 Ideal](../machines/hammond-12-ideal.md) | 1905 | Ideal (DHIATENSOR) keyboard | type shuttle | 15 |
+| [Hammond 12 Universal](../machines/hammond-12-universal.md) | 1905 | QWERTY-type keyboard | type shuttle | 15 |
 | [Hammond Multiplex](../machines/hammond-multiplex.md) | 1913 | QWERTY-type keyboard | type shuttle | 0 |
 | [Hammond Multiplex](../machines/hammond-multiplex-2.md) | 1913 | Ideal (DHIATENSOR) keyboard | type shuttle | 0 |
 | [Hammond Folding](../machines/hammond-folding.md) | 1921 | QWERTY-type keyboard |  | 0 |

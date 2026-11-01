@@ -4,14 +4,14 @@
 
 Index chart or scale swapped with the element for other fonts or languages
 
-**71 patents**, 1880–1946. Often together with:
+**79 patents**, 1880–1946. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (17)
-- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (23)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (19)
-- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (25), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (23)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (21), [Line spacing](../features/pap-line-space.md) (19)
-- **Uses:** [Special scripts and characters](../features/use-special-script.md) (22)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (20)
+- **Type element:** [Interchangeable element](../features/elem-interchangeable.md) (26)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (22)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (29), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (26)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (24), [Line spacing](../features/pap-line-space.md) (20)
+- **Uses:** [Special scripts and characters](../features/use-special-script.md) (28)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (1), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (1), [Odell 1 B](../machines/odell-1-b.md) (1), [Odell 2](../machines/odell-2.md) (1), [Odell 3](../machines/odell-3.md) (1), [Odell 4](../machines/odell-4.md) (1)
 
@@ -65,27 +65,35 @@ Index chart or scale swapped with the element for other fonts or languages
 | [DE257491](../patents/DE257491.md) | 1913 | Wanderer-Werke, Vorm Winklhofer & Jaenicke Akt-Ges | Several interchangeable column-stop rods, each set up for one form variety, let forms be written in any order after one setting. |
 | [US1056159](../patents/US1056159.md) | 1913 | Emeliantzeff, Gregory | Spring-loaded hooks grip the eye of each type plate while the holder is raised and turned, and are released by fixed levers when the holder is lowered so the driving pin can move the plate. |
 | [JP34078](../patents/JP34078.md) | 1918 | Shimada, Minokichi | Pointed-top types in spring-tensioned bands sit under a character board arranged in mirror image to the types, with a pointer on the moving frame, so the pointer always names the type that the plunger will print. |
+| [JP38893](../patents/JP38893.md) | 1920 | Murooka, Sōshichi | Many side-by-side sliding type boxes, each holding the whole character set in one row, are set by hand handles to line up a whole line of types, which electromagnet push-rods strike upward at once onto a rotating wheel of paper sheets. |
 | [JP57206](../patents/JP57206.md) | 1920 | Shimada, Minokichi | Make the sides of the reserve type frame into rails with rack teeth, driven by a hand-turned gear so the whole frame draws out to the front and serves as the rails of the moving frame. |
 | [JP64135](../patents/JP64135.md) | 1921 | Shimada, Minokichi | Put the character index plate on top of a drawer under the type case, pulled out to the front, so the type case pointer is aimed at the right-reading characters on it. |
 | [DE342311](../patents/DE342311.md) | 1921 | Fu, Correxwerke Maschinenfabrik | Transparent type plates on a common type disk are selected and projected onto film, which is advanced one frame per character; plates are detachable so they can be checked and replaced. |
 | [JP50934](../patents/JP50934.md) | 1923 | Sugimoto, Kyōta | Use the type tray's own side frames as the machine body and guide rails for the carriage, with folding rear rails and a folding-link index board so the whole machine collapses small. |
+| [JP60142](../patents/JP60142.md) | 1923 | Sugihara, Jinzō | Several multi-row type cylinders, only one of which is coupled to the mechanism at a time, are slid by a row key and turned by a character key, each driven by a weight or spring band and stopped by pins and notched stop cylinder, then hit by a hammer from behind the paper. |
 | [JP65094](../patents/JP65094.md) | 1925 | Ishii, Genko | A round rotating type magazine is turned by hand under several fixed hammer-and-push-button printing sets, with turning indicators showing the characters right way round, so adjacent characters in a row can be struck one after another without turning the magazine. |
-| [JP67249](../patents/JP67249.md) | 1925 | Shimada, Minokichi | A flat type case slides in four directions under the paper cylinder, carrying a comb of printing levers (one per column) sideways with it, and the lever hooked to the chosen type pulls it up through an arc guide to print on the front of the cylinder. |
+| [JP67249](../patents/JP67249.md) | 1925 | Tōyō Typewriter Co., Ltd. | A flat type case slides in four directions under the paper cylinder, carrying a comb of printing levers (one per column) sideways with it, and the lever hooked to the chosen type pulls it up through an arc guide to print on the front of the cylinder. |
 | [DE424224](../patents/DE424224.md) | 1926 | Ag, Vorm Seidel & Naumann | The character sheet and glass plate are combined in a cardboard cap made in stock, and this assembly is fixed to the key-lever plate with retaining tongues. |
 | [DE449355](../patents/DE449355.md) | 1927 | Leon, Karl Oscar | A moving illustrated strip with ad and blank fields lets a clock movement be inserted into the blank fields, shown alternately. |
+| [JP75116](../patents/JP75116.md) | 1927 | Inoue, Jin | A single type key swung over an arc-shaped chart turns a double-row type wheel through a sector gear, and the button on it presses the platen against the wheel; ink rollers on a rocking arm are swung by the same key. |
 | [DE482192](../patents/DE482192.md) | 1929 | G, Typar Co A | Each key moves a rod with projections; cross rails with recesses are shifted by longitudinal rails with eccentrics driven by racks and an adjustable lever, so the same keys act on different cross rails after adjustment, letting interchangeable fonts be used in one line. |
 | [DE484001](../patents/DE484001.md) | 1929 | G, A E G Deutsche Werke A | Letter rows of the character field are endless belts, shifted by a hand crank in alternation with the write key, giving a periodic key change. |
-| [JP94148](../patents/JP94148.md) | 1931 | Katō, Kenjirō | Lay two sliding index plates with alternating windows and index faces over the flat type tray, and move them with a pawl on sloped projections so that only the lengthwise column holding the wanted type is exposed. |
+| [JP87308](../patents/JP87308.md) | 1930 | Mayer, Paul Otto | One thumb-operated horizontal main lever, swinging about an upright pin, carries the type wheel, presses it to the paper roller, inks it, and feeds the carriage rack. |
+| [JP94148](../patents/JP94148.md) | 1931 | Nippon Typewriter Co., Ltd. | Lay two sliding index plates with alternating windows and index faces over the flat type tray, and move them with a pawl on sloped projections so that only the lengthwise column holding the wanted type is exposed. |
 | [DE535911](../patents/DE535911.md) | 1931 | Bauer, Emil | Each lamp has a socket on a control panel and a banana plug, inserted through a hole in a common plate, connects that lamp to a letter; removable guide templates ensure the plug is put in the right place. |
+| [JP96395](../patents/JP96395.md) | 1931 | Kawahara | Rubber endless type belts, one per row, are shifted by a single key lever that also slides on an operating box to choose the row; pressing the lever strikes the chosen character on the cylinder, takes up belt slack and advances the paper. |
+| [JP99147](../patents/JP99147.md) | 1932 | Kawakita, Hideo | A translucent indicator board showing the type layout is lit from behind, one character at a time, by lamps whose position follows the two relative motions of types and printing device and whose circuit closes only when the two are exactly in line. |
 | [DE558781](../patents/DE558781.md) | 1932 | Tauschek, Gustav | Exchangeable drive elements set the field selector automatically so that the printed field follows the card program without operator attention. |
 | [DE572362](../patents/DE572362.md) | 1933 | Hundhausen, Johannes | A circular-segment carrier holds a row of radial pushers, under which interchangeable type boxes of different fonts slide in, striking through a ribbon of different coloured strips. |
 | [US1986244](../patents/US1986244.md) | 1935 | Bates, Harry | A swinging arm with a button is dropped onto a depression in a keyboard-shaped plate, which turns an arcuate type segment to that character, and pressing down tilts the keyboard and platen frame so the paper meets the type. |
 | [DE607828](../patents/DE607828.md) | 1935 | Jr, Josef Heinrich Meckel | A standard calculating machine sits beside an unmodified typewriter, and a lever on the calculator carries a finger that drives an interchangeable switching ruler, which switches the typewriter carriage advance between typewriter and calculator movement. |
 | [JP112224](../patents/JP112224.md) | 1935 | Matsubayashi, Yoshiaki | Many footed types are wedged into the rims of spring-mounted type wheels on one shaft, turned together and located by a scrolling index cloth, and one wheel is pushed out to print onto a rubber plate behind the paper. |
+| [JP116470](../patents/JP116470.md) | 1936 | Zen, Keinosuke | Many types are held sideways by a comb spring in thin channel type cases arranged around disks as a cylindrical magazine; a key raises one case and a hammer arm strikes the rear of the chosen type. |
 | [JP117994](../patents/JP117994.md) | 1936 | Ishido, Harutarō | Types are strung on rods inside cases arranged in a cylindrical type drum; pressing the print lever pushes a case out and lowers it, and a fixed raising piece swings the wanted type up onto the paper. |
 | [JP127819](../patents/JP127819.md) | 1938 | Hosoya, Shinji | One handle turns a disc type magazine, a character-table band and pointers together, so the group shown in the window is already under the printing levers and a numbered key prints it. |
 | [DE666469](../patents/DE666469.md) | 1938 | Inhoffen, Walther | Lay all key lever rear ends in one transverse plane and link them to the radial stops by inclined intermediate levers with loosely fitted, conically collared pushers, so the stops and cylinder move far forward and assembly tolerances do not matter. |
 | [DE666524](../patents/DE666524.md) | 1938 | Inhoffen, Walther | Resilient tongue is cut with two perpendicular slots so the cap can be pushed on partly, with clearance for adjacent keys. |
+| [JP136394](../patents/JP136394.md) | 1940 | Mita, Kikuji | Select a character with two telephone dials, one sliding a multi-ring type cylinder along its axis to the right ring and the other turning it to the right type, with the print released by spring when the second dial finishes its turn. |
 | [DE716670](../patents/DE716670.md) | 1942 | H, Iris Type G M B | Alignment guide marks are glued in sets to the back of the key card and punched out with the key plates, so the underside marks are made in one step. |
 | [JP159441](../patents/JP159441.md) | 1943 | Kawahara, Kenji | Label each type with its half-width in platen-feed units and turn a feed dial by the sum of the previous and next type's half-widths before each strike. |
 | [JP162305](../patents/JP162305.md) | 1943 | Nakazono, Sadaji | A limiter of different height beside each type cell stops a riser at a height set by the picked type's width, which sets how many teeth the platen feed works. |

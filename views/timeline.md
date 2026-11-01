@@ -138,7 +138,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1880s
 
-449 patents (400 US, 49 German), 448 read, 31 index-type.
+450 patents (400 US, 49 German, 1 Japanese), 449 read, 31 index-type.
 
 **First seen:**
 
@@ -169,7 +169,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1890s
 
-1491 patents (1415 US, 75 German, 1 Japanese), 1490 read, 56 index-type.
+1493 patents (1415 US, 75 German, 3 Japanese), 1492 read, 56 index-type.
 
 **First seen:**
 
@@ -191,11 +191,11 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1900s
 
-2435 patents (2332 US, 99 German, 4 Japanese), 2434 read, 26 index-type.
+2446 patents (2332 US, 99 German, 15 Japanese), 2445 read, 26 index-type.
 
 **First seen:**
 
-- 1908: Typebars: [Basket shift](../features/bar-basket-shift.md) in [US902519](../patents/US902519.md) (Barney, Edwin E.): Case shift by moving the type basket or segment
+- 1903: Typebars: [Basket shift](../features/bar-basket-shift.md) in [JP7850](../patents/JP7850.md) (Donning, George Washington): Case shift by moving the type basket or segment
 
 **Index machines:** [Simplex Little Giant](../machines/simplex-little-giant.md) (1900, type disc), [Niagara](../machines/niagara.md) (1901, type wheel), [Simplex Special A](../machines/simplex-special-a.md) (1901, type disc), [Coffman](../machines/coffman.md) (1902, type band), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) (1902, index (pointer)), [Mignon 1](../machines/mignon-1.md) (1902, type cylinder), [Mignon 2](../machines/mignon-2.md) (1904, type cylinder), [Officine Galileo](../machines/officine-galileo.md) (1904, type wheel), [Simplex Spezial 1](../machines/simplex-spezial-1.md) (1906, type disc), [Picht Index](../machines/picht-index.md) (1907, type wheel), [Taurus Type](../machines/taurus-type.md) (1908, type wheel)
 
@@ -212,7 +212,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1910s
 
-2142 patents (2009 US, 113 German, 20 Japanese), 2141 read, 20 index-type.
+2156 patents (2009 US, 113 German, 34 Japanese), 2155 read, 20 index-type.
 
 **Index machines:** [Darling (A)](../machines/darling-a.md) (1910, type wheel), [Darling (B)](../machines/darling-b.md) (1910, type disc), [Famos](../machines/famos.md) (1910, type wheel), [Trebla](../machines/trebla.md) (1910, type wheel), [Nouveau Siècle](../machines/nouveau-siecle.md) (1912, type disc), [Aktiv](../machines/aktiv.md) (1913, type wheel), [Mignon 3](../machines/mignon-3.md) (1913, type cylinder), [Virotyp (B)](../machines/virotyp-b.md) (1914, type disc), [Nippon](../machines/nippon.md) (1917, ), [Yu Ess](../machines/yu-ess.md) (1918, type cylinder), [Gerda 1](../machines/gerda-1.md) (1919, type wheel), [Heady](../machines/heady.md) (1919, type wheel)
 
@@ -229,7 +229,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1920s
 
-1554 patents (4 US, 1498 German, 52 Japanese), 1552 read, 30 index-type.
+1583 patents (4 US, 1498 German, 81 Japanese), 1581 read, 32 index-type.
 
 **Index machines:** [Chinese (B)](../machines/chinese-b.md) (1920, individual type), [Gescha](../machines/gescha.md) (1920, type wheel), [Junior GSN](../machines/junior-gsn.md) (1920, type wheel), [Gerda 2](../machines/gerda-2.md) (1921, type wheel), [Hogar](../machines/hogar.md) (1921, type cylinder), [Die kleine Gundka](../machines/die-kleine-gundka.md) (1924, index (pointer + type wheel)), [Mignon 4](../machines/mignon-4.md) (1924, type cylinder), [Typen](../machines/typen.md) (1924, type wheel), [Karli 1 Einreihig](../machines/karli-1-einreihig.md) (1927, individual type), [Karli 2 Zweireihig](../machines/karli-2-zweireihig.md) (1928, individual type)
 
@@ -246,24 +246,24 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 ## 1930s
 
-1440 patents (4 US, 1359 German, 77 Japanese), 1439 read, 14 index-type.
+1487 patents (4 US, 1359 German, 124 Japanese), 1486 read, 19 index-type.
 
 **Index machines:** [Ludolf](../machines/ludolf.md) (1930, type disc), [Pellaton](../machines/pellaton.md) (1932, type wheel), [Olympia Plurotyp](../machines/olympia-plurotyp.md) (1933, type cylinder), [Carissima](../machines/carissima.md) (1934, type wheel), [Dial De Luxe](../machines/dial-de-luxe.md) (1934, type wheel), [Junior Typewriter](../machines/junior-typewriter.md) (1935, type wheel), [Tip-Tip](../machines/tip-tip.md) (1936, type cylinder), [Shimada](../machines/shimada.md) (1938, ), [Shimada 2](../machines/shimada-2.md) (1938, )
 
 **Key patents:**
 
-- [DE489650](../patents/DE489650.md) 1930, Arondel, Maurice Leon: Incline the type carriers and their guide plate downward so they rest below the writing line, leaving it visible and shortening the machine.
-- [JP94148](../patents/JP94148.md) 1931, Katō, Kenjirō: Lay two sliding index plates with alternating windows and index faces over the flat type tray, and move them with a pawl on sloped projections so that only the…
+- [JP94148](../patents/JP94148.md) 1931, Nippon Typewriter Co., Ltd.: Lay two sliding index plates with alternating windows and index faces over the flat type tray, and move them with a pawl on sloped projections so that only the…
 - [DE521627](../patents/DE521627.md) 1931, Winklhofer, Wanderer Werke Vorm: The pivoting upper part is pressed by a torsion spring against a horizontally rotatable flatted disc, so turning the disc sets the holder to the working or rest position.
-- [DE545922](../patents/DE545922.md) 1932, Sa, Stenotype Grandjean: A one-piece pawl with a switching tooth and a trailing safety tooth, plus an adjustable stop on the holder, moves the ratchet exactly one tooth per stroke.
+- [JP96395](../patents/JP96395.md) 1931, Kawahara: Rubber endless type belts, one per row, are shifted by a single key lever that also slides on an operating box to choose the row; pressing the lever strikes the chosen…
+- [JP99147](../patents/JP99147.md) 1932, Kawakita, Hideo: A translucent indicator board showing the type layout is lit from behind, one character at a time, by lamps whose position follows the two relative motions of types and…
+- [JP104938](../patents/JP104938.md) 1933, Koyanagi, Hōsaku: Many light sickle-shaped swinging pieces, each a quarter-circle type box with its index plate, pivoted side by side on one shaft, each holding few types.
 - [JP111430](../patents/JP111430.md) 1935, Miki, Chinji: Link the index pointer to the type drum with paired four-bar linkages, and hold the paper in a curved, two-part meshed frame that swings between the index plate and the…
-- [DE639898](../patents/DE639898.md) 1936, Schneider, Julius: Drum is machined in one piece with radial bores and a common ring groove; each square-headed matrix slides in its bore, the heads engage the groove, and return springs…
 - [JP127819](../patents/JP127819.md) 1938, Hosoya, Shinji: One handle turns a disc type magazine, a character-table band and pointers together, so the group shown in the window is already under the printing levers and a numbered…
 - [DE673875](../patents/DE673875.md) 1939, inventor unknown: All sheet holding, feeding and switching is combined in one unit at the top edge of the board, with the lower feed roller advanced by a ratchet driven by the clamp bar.
 
 ## 1940s
 
-713 patents (2 US, 673 German, 38 Japanese), 710 read, 5 index-type.
+734 patents (2 US, 673 German, 59 Japanese), 731 read, 6 index-type.
 
 **First seen:**
 
@@ -271,6 +271,7 @@ Decade by decade: the library, the mechanism features first seen, the index mach
 
 **Key patents:**
 
+- [JP136394](../patents/JP136394.md) 1940, Mita, Kikuji: Select a character with two telephone dials, one sliding a multi-ring type cylinder along its axis to the right ring and the other turning it to the right type, with the…
 - [DE694994](../patents/DE694994.md) 1940, Slee, Arthur Lloyd: A cardboard holder whose line-indicator strip is carried down by the sliding manuscript plate and held back by tongues on the stand plate, so it steps silently.
 - [DE714685](../patents/DE714685.md) 1941, Maul, Michael: Four printed index marks at fixed positions identify each character for photoelectric sensing; combinations of marks encode the meaning.
 - [DE708642](../patents/DE708642.md) 1941, Maul, Michael: A single light cell reads each character by moving the card past a sensing point while a beam-guiding device, moved synchronously, scans the index points.

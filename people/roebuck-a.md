@@ -11,11 +11,12 @@
 
 - [ALVAH CURTIS ROEBUCK](../companies/alvah.md) (2)
 
-## Patents (4)
+## Patents (5)
 
 | Patent | Date | Title | Carrier | Index score |
 |---|---|---|---|---|
 | [US1146959](../patents/US1146959.md) | 1915-07-20 | Type-Writing Machine |  | -0.7 |
 | [US1149293](../patents/US1149293.md) | 1915-08-10 | Type-Writer | typebar | 0.7 |
+| [JP31868](../patents/JP31868.md) | 1916-02-10 | Typewriter |  | -0.3 |
 | [DE376477](../patents/DE376477.md) | 1923-05-29 | Line finder for typewriters |  | 0.0 |
 | [DE377356](../patents/DE377356.md) | 1923-06-19 | Table writer |  | 0.0 |

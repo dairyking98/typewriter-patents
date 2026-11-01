@@ -4,10 +4,10 @@
 
 How the element itself is made or assembled
 
-**277 patents**, 1863–1950. Often together with:
+**279 patents**, 1863–1950. Often together with:
 
-- **Type element:** [Alignment lock at the print point](../features/elem-alignment-lock.md) (38), [Metal type](../features/elem-metal-type.md) (38), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (99), [Typebar action](../features/bar-type-action.md) (46), [Typebar and type-head construction](../features/bar-typebar-construction.md) (37), [Type basket and bearings](../features/bar-basket-bearings.md) (34)
+- **Type element:** [Alignment lock at the print point](../features/elem-alignment-lock.md) (39), [Metal type](../features/elem-metal-type.md) (39), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (31)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (100), [Typebar action](../features/bar-type-action.md) (46), [Typebar and type-head construction](../features/bar-typebar-construction.md) (38), [Type basket and bearings](../features/bar-basket-bearings.md) (34)
 - **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (29)
 
 **Machines:** [Blickensderfer 2](../machines/blickensderfer-2.md) (3), [Blickensderfer 3](../machines/blickensderfer-3.md) (3), [Blickensderfer 4](../machines/blickensderfer-4.md) (3), [Blickensderfer 5 (A)](../machines/blickensderfer-5-a.md) (3), [Blickensderfer 5 (B)](../machines/blickensderfer-5-b.md) (3), [Blickensderfer 7](../machines/blickensderfer-7.md) (3), [Blickensd. Electric 1](../machines/blickensd-electric-1.md) (3), [Dactyle](../machines/dactyle.md) (3), [Travis](../machines/travis.md) (2), [Columbia Index 2](../machines/columbia-index-2.md) (1), [Crown Index 1](../machines/crown-index-1.md) (1), [Crown Index 2](../machines/crown-index-2.md) (1), [Peoples](../machines/peoples.md) (1), [Commercial Visible 1](../machines/commercial-visible-1.md) (1), [Commercial Visible 6](../machines/commercial-visible-6.md) (1)
@@ -106,6 +106,7 @@ How the element itself is made or assembled
 | [US747259](../patents/US747259.md) | 1903 | Steiger, Andrew W. | Key-lever hangers and posts and their type-bar connections are arranged so the key-lever system fits within the width of the type-bar system without inclined connecting rods. |
 | [US758197](../patents/US758197.md) | 1904 | Wagner, Franz X. | Pivot each typebar through an angular pivot that enters keyhole slots in the segment, and make the bar two sliding sections whose type section self-centres against a beveled gage pin entering a guide aperture. |
 | [US764793](../patents/US764793.md) | 1904 | Broadhouse, John | Improvements to linotype matrices or type-dies for music printing; the specific construction is in the drawings and is not described in the first 3000 characters. |
+| [JP8673](../patents/JP8673.md) | 1905 | Hammond, James B. | A ring-shaped hard-rubber shuttle with an inner metal flange running between a two-part anvil, notched for several character sets and released from its driving arm by a slide, driven by swinging speed dogs, with a small seven-character shuttle for Braille where two keys build each character. |
 | [US797043](../patents/US797043.md) | 1905 | Briggs, Herbert A. | An auxiliary character such as an underscore is brought into the regular printing action at the operator's will, so it prints in place with the letter it belongs to. |
 | [US822386](../patents/US822386.md) | 1906 | Peterson, Frans A. | The pivotal end is a U-shaped shield formed from a separate thin metal blank, folded double, perforated and riveted to the bar. |
 | [US825967](../patents/US825967.md) | 1906 | Hammond, James B. | Make the shuttle a very thin hard-rubber ring whose top flange both stiffens it and connects to the shuttle arm, and add independent speed-dogs between the key drivers and the arm so the shuttle can reverse without recentring. |
@@ -273,8 +274,8 @@ How the element itself is made or assembled
 | [DE727825](../patents/DE727825.md) | 1942 | Werke, Mercedes Bueromaschinen | Foils are punched and pressed in one stroke in a heated die, with the top foil printed with the character, forming a solid laminated disc. |
 | [DE728088](../patents/DE728088.md) | 1942 | Florentin, Gautier Lucien | The joint surfaces are plated with a non-tin metal such as cadmium, which alloys with the solder, before soldering. |
 | [DE728754](../patents/DE728754.md) | 1942 | Maschf, Rueti Ag | Two plate clamps with one-directional hair pile grip the thread ends on the pulling stroke only, so the thread is held and the cut remnants are released on the return. |
-| [JP157672](../patents/JP157672.md) | 1943 | Kataoka, Kōtarō | Build the cylinder from many channel-section type cases whose ends fit into ring plates at both ends, fastened with locking rings. |
-| [JP157673](../patents/JP157673.md) | 1943 | Kataoka, Kōtarō | Case ends sit in notches round ring plates, held by an outer ring whose groove and hollows catch spring-loaded balls, with a notch to release a case. |
+| [JP157672](../patents/JP157672.md) | 1943 | Takeuchi, Hideo | Build the cylinder from many channel-section type cases whose ends fit into ring plates at both ends, fastened with locking rings. |
+| [JP157673](../patents/JP157673.md) | 1943 | Takeuchi, Hideo | Case ends sit in notches round ring plates, held by an outer ring whose groove and hollows catch spring-loaded balls, with a notch to release a case. |
 | [DE715691](../patents/DE715691.md) | 1943 | Weiner, Robert | The bath gets added polymerisation products of unsaturated ketones or aldehydes such as acrolein, giving mirror-bright deposits. |
 | [DE926134](../patents/DE926134.md) | 1943 | Beschraen, Adrema Werke Ges Mit | Flanged edges stiffen sheet-iron plates (0.26 to 0.38 mm) so they can be embossed repeatedly without warping, like zinc. |
 | [DE737890](../patents/DE737890.md) | 1943 | Ag, Seidel & Naumann | A firmly bonded lead coating is applied to type levers, graded in thickness for each lever, to lower the natural frequency and amplitude of the lever vibration. |
@@ -284,6 +285,7 @@ How the element itself is made or assembled
 | [DE744974](../patents/DE744974.md) | 1944 | Doering, Ulrich W | A recording medium such as wax or resin is heated to an easily polarised state in an electric field and then quickly cooled to fix the polarisation. |
 | [DE805882](../patents/DE805882.md) | 1948 | Ltd, P & M Co England | Material is redistributed so the tension side is larger than the compression side, with a flat contact surface against the sleeper. |
 | [DE1141409](../patents/DE1141409.md) | 1949 | Pont, Du | Cold stretching of linear polyamide threads in the solid state is controlled so the thread cross-section, elongation and dye affinity stay uniform. |
+| [JP367765](../patents/JP367765.md) | 1949 | Araki, Gorō | Cast a wire gauze into the type body as reinforcement at the time of casting. |
 | [DE850530](../patents/DE850530.md) | 1949 | Co, Ncr | A rigid metal disc with bent-over teeth on its rim is moulded into the type material, so that each bent tooth backs one character and the moulding holds on dovetail anchors. |
 | [DE866858](../patents/DE866858.md) | 1949 | Co, Ncr | Mould the wheel around a toothed metal support disc inside a split, springy steel-band die engraved with the characters, which springs open to release the finished wheel. |
 | [DE884808](../patents/DE884808.md) | 1949 | Kuentzel, Hellmuth | A lever is built from a standard profile middle piece cut to length, with a type head and bearing piece joined at its ends. |

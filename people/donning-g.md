@@ -1,9 +1,10 @@
 # Donning, George W
 
-## Patents (48)
+## Patents (49)
 
 | Patent | Date | Title | Carrier | Index score |
 |---|---|---|---|---|
+| [JP7850](../patents/JP7850.md) | 1903-06-23 | Flat-platen typewriter |  | -0.7 |
 | [US742609](../patents/US742609.md) | 1903-10-27 | Platen for Type-Writers |  | 0.0 |
 | [US742610](../patents/US742610.md) | 1903-10-27 | Carbon Sheet or Paper Holder, Lifter and Separator |  | 0.0 |
 | [US742611](../patents/US742611.md) | 1903-10-27 | Adjustible Marginal Stop Device |  | 0.0 |

@@ -4,13 +4,13 @@
 
 Book or flat-bed typewriter for bound records
 
-**168 patents**, 1881–1949. Often together with:
+**169 patents**, 1881–1949. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (34)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (44)
-- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (29)
-- **Spacing and escapement:** [Moving print head](../features/esc-moving-print-head.md) (51), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (27)
-- **Paper and carriage:** [Flat bed or book typewriter](../features/pap-flat-bed.md) (134), [Paper table and guides](../features/pap-paper-guide.md) (31), [Line spacing](../features/pap-line-space.md) (23)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (35)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (45)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (30)
+- **Spacing and escapement:** [Moving print head](../features/esc-moving-print-head.md) (52), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (28)
+- **Paper and carriage:** [Flat bed or book typewriter](../features/pap-flat-bed.md) (135), [Paper table and guides](../features/pap-paper-guide.md) (31), [Line spacing](../features/pap-line-space.md) (24)
 
 **Machines:** [Fisher 2](../machines/fisher-2.md) (4), [Elliott & Hatch 1](../machines/elliott-hatch-1.md) (1), [Elliott & Hatch 2](../machines/elliott-hatch-2.md) (1), [Elliott & Hatch 3](../machines/elliott-hatch-3.md) (1)
 
@@ -107,6 +107,7 @@ Book or flat-bed typewriter for bound records
 | [US726922](../patents/US726922.md) | 1903 | Hillard, Frederic  W. | Two book-rests that move independently, self-adjust when loose to the book thickness, and are then fixed for writing. |
 | [US727607](../patents/US727607.md) | 1903 | Fisher, Robert Joseph | A bell-crank in the draw-wire between key lever and typebar varies the motion ratio, moving the bar little at first and more late, and the bar is locked when retracted. |
 | [US727922](../patents/US727922.md) | 1903 | Eylar, Matthew S. | A table with hinged extension leaves that support the book carriage when open and form cabinet ends with a flexible top when closed over the machine. |
+| [JP7850](../patents/JP7850.md) | 1903 | Donning, George Washington | A flat tilting platen with a self-levelling sliding book rest, a gantry carriage running on a tiltable track, and typebars whose heads carry three types and are rocked to the case by a half-ring behind the bars. |
 | [US732557](../patents/US732557.md) | 1903 | Hillard, Frederic W. | An improved ribbon feeding and holding mechanism for a book typewriter, fitted to the existing machine layout. |
 | [US740426](../patents/US740426.md) | 1903 | Halle, Hiram Joseph | The flat platen carries main tracks that support the movable machine frame, extended beyond the printing area over a platen extension, so the machine can be lifted clear without disturbing the paper. |
 | [US742609](../patents/US742609.md) | 1903 | Donning, George W. | A thin sheet body-plate of aluminium or steel carries hard-rubber writing surfaces on both sides, and the platen is hinged so it can be reversed. |

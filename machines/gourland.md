@@ -12,7 +12,7 @@ strike: "front strike"
 inking: "ribbon"
 shift: "single shift"
 characters: "84"
-patents: 1
+patents: 0
 tags: ["machine"]
 ---
 
@@ -34,11 +34,10 @@ tags: ["machine"]
 | Price when new | $75 |
 | Rarity (Lexikon's scale) | 5-6 |
 
-## Patents (18)
+## Patents (17)
 
 | Patent | Year | Inventor | Title | Confidence | Evidence |
 |---|---|---|---|---|---|
-| [JP38396](../patents/JP38396.md) | 1920 | Spiro, Charles | Line-spacing adjusting mechanism for a typewriter | high | inventor = designer; patent 1920, machine 1920; assignee = maker |
 | [US893947](../patents/US893947.md) | 1908 | Spiro, Charles | Front-Strike Type-Writer | medium | inventor = designer; patent 1908, machine 1920; both typebar |
 | [US918790](../patents/US918790.md) | 1909 | Spiro, Charles | Type-Bar Movement | medium | inventor = designer; patent 1909, machine 1920; both typebar |
 | [US987762](../patents/US987762.md) | 1911 | Spiro, Charles | Type-Bar Mechanism | medium | inventor = designer; patent 1911, machine 1920; both typebar |

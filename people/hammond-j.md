@@ -13,7 +13,7 @@
 
 - [Hammond Typewriter Comp](../companies/hammond.md) (1)
 
-## Patents (23)
+## Patents (24)
 
 | Patent | Date | Title | Carrier | Index score |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [US501504](../patents/US501504.md) | 1893-07-18 | Type-Writing Machine | wheel / cylinder (face on periphery) | -2.4 |
 | [US701563](../patents/US701563.md) | 1902-06-03 | Adjustable Type-Writer Key |  | -14.1 |
 | [US780102](../patents/US780102.md) | 1905-01-17 | Printing Mechanism for Type-Writers | wheel / cylinder (face on periphery) | -2.5 |
+| [JP8673](../patents/JP8673.md) | 1905-02-15 | Writing machine |  | -5.4 |
 | [US783432](../patents/US783432.md) | 1905-02-28 | Carriage Mechanism forType-Writers | wheel / cylinder (face on periphery) | 0.4 |
 | [US800149](../patents/US800149.md) | 1905-09-26 | Type-Writer for the Blind |  | -2.5 |
 | [US800150](../patents/US800150.md) | 1905-09-26 | Type-Writing Machine for the Blind |  | -8.0 |

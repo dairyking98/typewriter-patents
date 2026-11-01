@@ -4,14 +4,14 @@
 
 Shift lock
 
-**186 patents**, 1883–1950. Often together with:
+**194 patents**, 1883–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (67)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (105)
-- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (123), [Three or more cases](../features/shift-triple.md) (50)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (38), [Space key or bar](../features/esc-space-key.md) (34)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (60)
-- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (71)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (73)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (112)
+- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (130), [Three or more cases](../features/shift-triple.md) (53)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (44), [Space key or bar](../features/esc-space-key.md) (39)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (65)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (75)
 
 **Machines:** [Corona 3](../machines/corona-3.md) (4), [Corona 4](../machines/corona-4.md) (4), [Rem-Sho 1](../machines/rem-sho-1.md) (2), [Rem-Sho 2](../machines/rem-sho-2.md) (2), [Rem-Sho 3](../machines/rem-sho-3.md) (2), [Empire 2 (Canada)](../machines/empire-2-canada.md) (2), [Franklin 9, 10](../machines/franklin-9-10.md) (2), [Williams 1 S](../machines/williams-1-s.md) (2), [Williams 2](../machines/williams-2.md) (2), [Williams 3](../machines/williams-3.md) (2), [Williams 4](../machines/williams-4.md) (2), [Williams 6](../machines/williams-6.md) (2), [L. C. Smith 6](../machines/l-c-smith-6.md) (2), [L. C. Smith 7](../machines/l-c-smith-7.md) (2), [Blickensderfer 2](../machines/blickensderfer-2.md) (1)
 
@@ -105,6 +105,7 @@ Shift lock
 | [US807919](../patents/US807919.md) | 1905 | Fahl, Eugene | Typebars with toothed hubs mesh with racks on L-shaped key-bars, all stacked on a square curved bar with wedge washers, in a frame that drops to shift case. |
 | [US821263](../patents/US821263.md) | 1906 | Shepard, Frank P. | An elastic connecting rod lets the shift key move fully at once while the platen follows, and a locking bar on the key's rock shaft holds the shifted position until the next type key or space bar releases it. |
 | [US833284](../patents/US833284.md) | 1906 | Alexander, Jesse | A key-operated platen shift that automatically locks the platen in upper case and releases it by another key. |
+| [JP12644](../patents/JP12644.md) | 1906 | Holford, John Carbery | A typebar writing machine with a platen-shift upper case, a ribbon lift tied to the type bar and platen rail, a spring-drum carriage on a double-dog escapement, and removable platen, ribbon spools and key-lever units. |
 | [US839908](../patents/US839908.md) | 1907 | Wagner, Herman L. | A separate finger lever latches the shifting frame in capital position through a normally idle spring, and a second key temporarily pulls the platen back to lower case against that spring for as long as it is held. |
 | [US847415](../patents/US847415.md) | 1907 | Latta, Emmit G. | An oscillating eccentric driven through a rock-lever gives greatest leverage at the start and accelerating then retarding motion. |
 | [US852721](../patents/US852721.md) | 1907 | Howell, Charles W. | The carriage track frame is carried on a key-operated vibrating frame in the base, guided by forward pivoted links and a vertical ball-and-groove guide so that it moves only up and down. |
@@ -131,6 +132,8 @@ Shift lock
 | [US929133](../patents/US929133.md) | 1909 | Horstmann, Henry C. | One solenoid-controlled two-part clutch per key lever grips a constantly rotating cylinder and is dragged down by it, depressing the key lever, then is released by short-circuiting the solenoid. |
 | [US929896](../patents/US929896.md) | 1909 | Tanner - Griffin, Frank J. - Edwin F. | A spring-loaded plunger acting on a double-armed rock shaft holds the platen in either shifted position yieldingly, and a shift key temporarily overrides it. |
 | [US932167](../patents/US932167.md) | 1909 | Odell, Levi J. | A single rocking type bar on a sliding frame, positioned by a stylus over a slotted character bar, printing the character chosen. |
+| [JP21617](../patents/JP21617.md) | 1909 | Hazen, Marshman Williams | A typebar machine with three-character type heads (lower, capital, figure) in which the whole carriage bed, platen, escapement and ribbon mechanism are lifted by shift levers to three heights and fold back over the keys for transport. |
+| [JP21618](../patents/JP21618.md) | 1909 | Petermann, Otto | A typebar machine whose platen, carriage, escapement and ribbon mechanism lift together on a slide to several locked heights (each type head carries figure, capital and small letter) and fold over the key levers for transport. |
 | [US944590](../patents/US944590.md) | 1909 | Beyerlein, Angelo | Combine the spacing bar with the shift key so depressing shift also spaces, and latch the shift until the next letter key releases it. |
 | [US945987](../patents/US945987.md) | 1910 | Sholes, Louis | A type-bar segment on a vertically guided carrier is shifted by a shift-key lever system with latch, and type-bars are individually adjustable on slides in the segment. |
 | [US954439](../patents/US954439.md) | 1910 | Kavle, Oscar C. | A spring-tempered lock lever sits just behind the shift key so the same finger can depress shift alone or shift plus lock, setting a latch that holds the shifted platen frame until either shift key is pressed again. |
@@ -154,6 +157,7 @@ Shift lock
 | [US1055520](../patents/US1055520.md) | 1913 | Cook, Frank A. | Two temporary shift keys, either of which releases a lock hook, plus a third key that raises and locks the platen. |
 | [US1057013](../patents/US1057013.md) | 1913 | Smith, Charles E. | An auxiliary key on the space bar, pressed further, advances the carriage by several letter spaces and shifts and locks the case in one action, and the lock releases automatically after the capital is typed. |
 | [DE265525](../patents/DE265525.md) | 1913 |  | A removable type lever carrier with coupling and a spacer that lets one swing arm pair be locked to the frame so the other pair moves to free the carrier for exchange. |
+| [JP33896](../patents/JP33896.md) | 1913 | Underwood Typewriter Company | Fit an Underwood typebar machine with sideways Korean types that do not trigger the escapement, plus separate space keys that step the carriage after each syllable group, with Roman letters on the shifted position. |
 | [US1089075](../patents/US1089075.md) | 1914 | Pfunder, Emil L. | Provide a temporary shift key at each end of the keyboard plus a separate shift-and-lock key, where either temporary key releases the lock dog. |
 | [US1100733](../patents/US1100733.md) | 1914 | Hess, Edward B. | A carriage raised on parallel links, counterbalanced by springs, with eccentric bolts to adjust platen alignment and a latch that releases on pressing either of two shift keys. |
 | [US1101588](../patents/US1101588.md) | 1914 | Trone, Maurice N. | Split the type-bar segment into two vertically sliding quadrants so the shifted weight is about half, and split the keyboard into separated left and right halves. |
@@ -169,11 +173,14 @@ Shift lock
 | [US1131640](../patents/US1131640.md) | 1915 | Lopez, Arthur | Several shift keys on one rock-shaft lift the anvil and shuttle to intermediate and upper positions, with locks. |
 | [US1146959](../patents/US1146959.md) | 1915 | Roebuck, Alvah C. | A lock lever on the shift key engages a pivoted latch in a notch to hold the key down. |
 | [US1147299](../patents/US1147299.md) | 1915 | Briggs, Arthur J. | Two sets of unequal-length links guide the platen carriage so its axis moves in a straight line, and the platen stops at three positions (lower, capitals, figures) chosen by two shift keys and stops. |
+| [JP29942](../patents/JP29942.md) | 1915 | Stickney, Burnham C. | Join two Underwood typebar machines side by side with one long carriage that runs from one printing zone to the other, each machine having its own escapement of different pitch. |
 | [US1150498](../patents/US1150498.md) | 1915 | Buschmann, Theodor Eugen | Two toggle levers on the shifting frame, worked by the shift key through bell cranks, hold and limit the platen in both positions, one extended when the other is bent. |
 | [US1151493](../patents/US1151493.md) | 1915 | Mann, Sylvanus M. | Two escapement shafts under one set of keys give full, half, and one-and-a-half-space advances. |
 | [US1159116](../patents/US1159116.md) | 1915 | Smith, Stephen T. | A long shift rail carrying the platen, lifted by pairs of shift keys (one pair per type set) coupled by rock shafts, with a cam-and-lever lock for upper case. |
 | [US1163564](../patents/US1163564.md) | 1915 | Schneeloch, August | A spring catch locks the shift key down for continuous capitals, and a second catch locks it only until the next keystroke, when a release block tripped by the universal bar frees it so the platen drops back to lower case. |
 | [US1163986](../patents/US1163986.md) | 1915 | Drewell, Heinrich | Make the shift movement that changes the key-lever/universal-bar cooperation take place in a direction toward or away from the key-lever projections, so partly-made shifts cannot foul. |
+| [JP31868](../patents/JP31868.md) | 1916 | Roebuck, Alvah Curtis | Build the machine as two sub-assemblies, a base carrying the actuating parts and a top plate carrying the working parts, joined by simple connecting links. |
+| [JP64651](../patents/JP64651.md) | 1921 | The Noiseless Typewriter Company | A floating shift lever on a cross shaft first turns slightly to cam a lock plate free, then moves the whole type frame up or down from its locked central position, depending on which of two shift keys is pressed. |
 | [DE377031](../patents/DE377031.md) | 1923 | Co, Underwood Typewriter | The locking member is made adjustable on a rotatable arm, fixed by a small screw in a slot concentric with the arm pivot, so the arm sets the lock position without reworking the notched lever. |
 | [DE377032](../patents/DE377032.md) | 1923 | Co, Underwood Typewriter | A friction-held locking arm grips an adjustable shoulder on the shift key lever, released by a light press on the shift key. |
 | [DE381278](../patents/DE381278.md) | 1923 | Co, Underwood Typewriter | The latching pawls are released automatically by pressing the held shift key down a little further. |
@@ -198,6 +205,7 @@ Shift lock
 | [DE569299](../patents/DE569299.md) | 1933 | Werke, Mercedes Bueromaschinen | The multi-step preparatory jumper is placed in the removable type lever basket while the members it actuates stay in the machine frame, so swapping the basket changes the spacing behaviour. |
 | [DE577708](../patents/DE577708.md) | 1933 | Kupfahl, Julius | Split the keyboard into two halves set so the same-height rows form an open angle toward the platen, leaving a trapezoidal gap, with keys stepped outward, shift and caps-lock keys in the gap, and a space bar for both thumbs. |
 | [DE577950](../patents/DE577950.md) | 1933 | Inc, Royal Typewriter Co | A pivoted locking bolt holds the carriage centered and, through a link to the shift lock key, releases the shift lock when it is set. |
+| [JP107529](../patents/JP107529.md) | 1934 | Benzing, Hugo | Move the segment through a U-shaped wing driven by two toggles at right angles, one carrying the other's middle joint, so speed rises gradually then falls to zero at both ends, with both end positions fixed by one soft common stop. |
 | [DE628468](../patents/DE628468.md) | 1936 | Ges, Clemens Mueller Akt | The locking member is spring-loaded on a pivoting axis linked to the drive lever; an arm holds the counter drive blocked while the control button is pressed and the coin has not yet dropped, and a locking slide engages on slight arm movement. |
 | [DE651037](../patents/DE651037.md) | 1937 | Werke, Mercedes Bueromaschinen | One common key drives a pin and slot connection that reverses both the calculation gear and the font switching device. |
 | [DE690900](../patents/DE690900.md) | 1940 | Andreas, Salzberger | A motion link between the shift key and the lock of the raised position holds the release linkage out of reach of the release drive as long as the key is depressed, while a brief tap lets the platen drop automatically after the next character. |

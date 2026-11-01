@@ -1,12 +1,12 @@
 # Typewriters & Patents
 
-The history of the typewriter through its patents and machines: 10,393 patents from the United States (1829–1951), Germany (1880–1950) and Japan (1892–1949), with drawings and plain-English summaries; 1,045 machines from 17 countries with makers, years, prices and features; and the mechanisms they used, from the first experiments to the electric office machine. Typebar, type-element and index machines are all here; index typewriters get the most depth.
+The history of the typewriter through its patents and machines: 10,518 patents from the United States (1829–1951), Germany (1880–1950) and Japan (1888–1949), with drawings and plain-English summaries; 1,045 machines from 17 countries with makers, years, prices and features; and the mechanisms they used, from the first experiments to the electric office machine. Typebar, type-element and index machines are all here; index typewriters get the most depth.
 
 !!! note "What's new"
 
+    - 2026-11-01: **317 Japanese patents**: 125 more, among them Japanese filings of the Corona, Billing's index typewriter, Roebuck's and Pickett's machines, linked to the same invention in the US or Germany; misfiled classes corrected and noted: [Japan](countries/japan.md).
     - 2026-10-27: **Countries**: a page per country, with its patents and the machines made there, analysed the same way for every one: [Countries](countries/README.md).
     - 2026-10-26: **Japanese patents**: the first 192 Japanese patents and utility models (1892–1949), translated from the scans and read in full; more are coming as they are translated: [Japan](countries/japan.md).
-    - 2026-10-26: **Every patent read**: all 10,189 US and German patents with text now have a plain-English summary and mechanism tags.
 
 ## What's here
 
@@ -14,7 +14,7 @@ The history of the typewriter through its patents and machines: 10,393 patents f
 |---|---|---|---|---|
 | [USA](countries/usa.md) | 6,269 | 1829–1951 | 6,266 | 423 |
 | [Germany](countries/germany.md) | 3,932 | 1880–1950 | 3,923 | 460 |
-| [Japan](countries/japan.md) | 192 | 1892–1949 | 192 | 3 |
+| [Japan](countries/japan.md) | 317 | 1888–1949 | 317 | 3 |
 | [England](countries/england.md), [France](countries/france.md), [Italy](countries/italy.md), [Switzerland](countries/switzerland.md) and more | not yet | | | 134 |
 
 Patents are counted by the country that granted them, machines by the country they were made in (from Dingwerth's Lexikon). Across all of them: 99 mechanism features in 10 subsystems, and 89 index machines. Every country has [its own page](countries/README.md).
@@ -96,7 +96,7 @@ The search box at the top finds any machine, patent, inventor or page.
 
     ---
 
-    All 10,393 patents, oldest first, with their country; 10,381 read and summarised.
+    All 10,518 patents, oldest first, with their country; 10,506 read and summarised.
 
 </div>
 

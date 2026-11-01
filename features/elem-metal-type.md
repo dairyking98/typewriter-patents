@@ -4,14 +4,15 @@
 
 Metal types (cast or stamped)
 
-**105 patents**, 1852–1943. Often together with:
+**110 patents**, 1852–1949. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (31)
-- **Type element:** [How the element is made](../features/elem-element-construction.md) (38), [Type wheel (types on the rim)](../features/elem-wheel-rim.md) (26)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (29)
-- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (34), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (32)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (32)
+- **Type element:** [How the element is made](../features/elem-element-construction.md) (39)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (32)
+- **Inking:** [Ink roller](../features/ink-roller.md) (28)
+- **Spacing and escapement:** [Prints and spaces in one stroke](../features/esc-print-and-space.md) (37), [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (34)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (36)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (32)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (33)
 
 **Machines:** [Columbia Index 2](../machines/columbia-index-2.md) (2), [Mercury 3](../machines/mercury-3.md) (2), [Postal 5](../machines/postal-5.md) (2), [Crandall No. 3](../machines/crandall-no-3.md) (1), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (1), [Bar-Lock 6](../machines/bar-lock-6.md) (1), [Bar-Lock 7](../machines/bar-lock-7.md) (1), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (1), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (1), [Bar-Lock 1](../machines/bar-lock-1.md) (1), [Bar-Lock 2, 3](../machines/bar-lock-2-3.md) (1), [Boston](../machines/boston.md) (1), [Columbia Index 1](../machines/columbia-index-1.md) (1), [Sholes Visible 1](../machines/sholes-visible-1.md) (1), [Dollar Typewriter](../machines/dollar-typewriter.md) (1)
 
@@ -100,7 +101,7 @@ Metal types (cast or stamped)
 | [DE361870](../patents/DE361870.md) | 1922 | Foerstel, Otto | Type wheels are produced by rotary embossing from an original roller, which is engraved with the type shape on a base of the curvature the wheel must have (flat for stamps, concave for typewriter wheels), so the type surface is correct for a single impression. |
 | [DE366622](../patents/DE366622.md) | 1923 | Luethje, Heinz | Metal types (silver, nickel silver or brass) are struck directly onto special paper that has mineral fillers such as chalk or barium carbonate in the surface, so the impression is legible without any ribbon. |
 | [DE385865](../patents/DE385865.md) | 1923 | Winklhofer, Wanderer Werke Vorm | The type is clamped against a support matrix and the lever head, and a mechanical lifting device pushes the type or die along the lever so it sits at the correct font height from the pivot point. |
-| [JP67249](../patents/JP67249.md) | 1925 | Shimada, Minokichi | A flat type case slides in four directions under the paper cylinder, carrying a comb of printing levers (one per column) sideways with it, and the lever hooked to the chosen type pulls it up through an arc guide to print on the front of the cylinder. |
+| [JP67249](../patents/JP67249.md) | 1925 | Tōyō Typewriter Co., Ltd. | A flat type case slides in four directions under the paper cylinder, carrying a comb of printing levers (one per column) sideways with it, and the lever hooked to the chosen type pulls it up through an arc guide to print on the front of the cylinder. |
 | [JP71128](../patents/JP71128.md) | 1926 | Matsumoto, Eiichi | Type bars carry an upright index character on top and the printing type on the bottom; a lever lifts the chosen bar into a gripping sleeve that turns it about 90 degrees as it rises so it strikes the paper squarely. |
 | [DE440774](../patents/DE440774.md) | 1927 | Dietrich, Karl | A slide-rule-sized typewriter in which spring-loaded metal types sit in holes of a double rail that is stepped along a frame by a spring drum each time the single print button is pressed. |
 | [DE441007](../patents/DE441007.md) | 1927 | H, Adlerwerke Kleyer Ag | The guide heads are embossed in the die together with the character, so they and their distance from the letter form in one stamping with no further rework. |
@@ -111,10 +112,14 @@ Metal types (cast or stamped)
 | [JP78051](../patents/JP78051.md) | 1928 | Betsuyaku, Man'ai | Each loose square-bar type carries its own sunk index character on its side as well as the raised printing character on its end, and the grooves are slanted so the type under the paper cylinder points obliquely at the cylinder centre, where a single key fires it up through a guide frame. |
 | [DE463735](../patents/DE463735.md) | 1928 | Ges, Siemens & Halske Akt | Type metal is deposited finely divided (vapour or galvanic) into the mould and then compacted by rolling or pressing, for a sharp and durable type wheel or drum. |
 | [DE467043](../patents/DE467043.md) | 1928 | A, Ransmayer A & Rodrian | The ridge raised by embossing is kept and bent down to form the lateral fastening tabs, so the type body is shaped from a smaller ingot without the separate burr removal and slotting steps. |
+| [JP86077](../patents/JP86077.md) | 1929 | Betsuyaku, Man'ai | A rotatable polygonal type bar slides sideways in a hinged cover frame by a key-pinion on a rack; a jab on the key drops the frame to print, and the rise of the frame inks the type and ratchets the paper frame one space. |
 | [JP86009](../patents/JP86009.md) | 1929 | Shimada, Minokichi | A horizontal, constantly motor-turned disc holds radially sliding type cases; a key energises magnets that raise guide plates which push only the wanted case inward, and that case picks up a normally idle printing starter which lifts one type and strikes it against the paper cylinder. |
 | [JP88112](../patents/JP88112.md) | 1930 | Kataoka, Kōtarō | A hand-turned type drum holds type cases whose faces are covered by swinging index plates; the key lifts the wanted case, flips its index plate away, and a surround and pin through the type grip it and swing it against the paper cylinder. |
 | [DE509518](../patents/DE509518.md) | 1930 | Gmbh, Mergenthaler Setzmaschfab | A soft metal such as lead is faced with a thin layer of a higher-melting metal such as brass or copper before embossing, so the matrix stays intact for line casting. |
+| [JP91477](../patents/JP91477.md) | 1930 | Egawa, Yoshimitsu | A continuously spinning type disc is stopped by a key-operated stop dropping into a hole of a selector cylinder on the same shaft, then a clutch-started one-turn shaft lowers the disc shaft to print and advances the paper box. |
+| [JP93910](../patents/JP93910.md) | 1931 | Sekiguchi | A lifting curved frame of tiers and cells with drawable type containers, positioned by an indicator dial, whose selected tier is pushed out by a handle so a push-button gripper can pick one type and carry it to a composing plate (or a paper sheet to print). |
 | [DE533854](../patents/DE533854.md) | 1931 | Gmbh, Mergenthaler Setzmaschfab | Mergenthaler device stamps negative lines from male moulds to cast lines. |
+| [JP94664](../patents/JP94664.md) | 1931 | Miwa, Mataichi | A pointer over a right-reading index board lines up a push-up rod that lifts one loose type into a sliding case; a crank rod then carries the case along a tubular guide bar, inking it, and at the end of travel the same push turns the bar to press the type on the paper cylinder. |
 | [DE543467](../patents/DE543467.md) | 1932 | Schneider, Julius | A non-stretchable strip is cut and folded in the word spaces so it stretches only there; the stretched strip is clamped between moulds and cast with liquid metal into a finished line. |
 | [DE553289](../patents/DE553289.md) | 1932 | Autzinger, Ludwig | The types are dabbed with a plastic mass containing excess film-forming oils, resins or lacquers, which cleans them and leaves a protective film against corrosion. |
 | [DE566765](../patents/DE566765.md) | 1932 | Gmbh, Mergenthaler Setzmaschfab | The blank is heated inside the same block that contains the die-line slot, so it is stamped at the right temperature. |
@@ -124,3 +129,4 @@ Metal types (cast or stamped)
 | [DE701180](../patents/DE701180.md) | 1941 | H, Iris Type G M B | The tail profile is rolled or drawn as a continuous bar, blanks are cut off transversely, and the head with its character is embossed in one step. |
 | [DE723813](../patents/DE723813.md) | 1942 | H, Iris Type G M B | Make the guide jaws of soapstone (ceramic), which is easily machined, non-magnetic and indifferent to solder and flux. |
 | [DE727630](../patents/DE727630.md) | 1943 | Schade, Karl Werner | Spin an idle type disc by an electric motor on keypress and stop it at the chosen character with an electromagnetic brake, with no frictional contact, then strike it against the platen under spring force. |
+| [JP367765](../patents/JP367765.md) | 1949 | Araki, Gorō | Cast a wire gauze into the type body as reinforcement at the time of casting. |

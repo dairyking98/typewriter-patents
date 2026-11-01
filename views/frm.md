@@ -8,15 +8,15 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [Adjustment and wear take-up](../features/frm-adjustment-wear.md) | Adjustment or wear take-up provisions | 1155 | 28 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁ ▁▁▂▇█▆▃▃▂▁` | [American Index](../machines/american-index.md) |
-| [Few parts, low cost](../features/frm-few-parts.md) | Explicit aim of few parts | 875 | 43 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▃█▅▄▅▄▂▁` | [Nippon](../machines/nippon.md), [Gerda 2](../machines/gerda-2.md) |
-| [Visible writing](../features/frm-writing-visible.md) | Writing visible to the operator while typing | 661 | 31 | 1876 [US175584](../patents/US175584.md) | 1900s | `     ▁▂▆█▄▂▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
-| [Frame construction](../features/frm-frame-construction.md) | Frame or casing construction (cast | 474 | 2 | 1845 [US4271](../patents/US4271.md) | 1920s | `  ▁▁  ▁▄▅▆█▄▂▁` |  |
-| [Cleaning access](../features/frm-cleaning-access.md) | Access for cleaning or element removal | 458 | 11 | 1876 [US183905](../patents/US183905.md) | 1890s | `     ▁▂█▇▅▅▃▁▁` |  |
-| [Portable or compact](../features/frm-compact-portable.md) | Small | 423 | 23 | 1863 [US39296](../patents/US39296.md) | 1920s | `    ▁▁▁▅▄▅█▅▃▁` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
-| [Cover or case](../features/frm-cover-enclosure.md) | Cover or enclosure of the mechanism | 269 | 7 | 1870 [US109161](../patents/US109161.md) | 1920s | `     ▁▂▄█▄█▇▄▁` | [Nippon](../machines/nippon.md) |
+| [Adjustment and wear take-up](../features/frm-adjustment-wear.md) | Adjustment or wear take-up provisions | 1167 | 28 | 1843 [US3228](../patents/US3228.md) | 1900s | `  ▁ ▁▁▂▇█▆▄▃▂▁` | [American Index](../machines/american-index.md) |
+| [Few parts, low cost](../features/frm-few-parts.md) | Explicit aim of few parts | 895 | 44 | 1868 [US79265](../patents/US79265.md) | 1890s | `    ▁▁▃█▅▄▅▅▃▁` | [Nippon](../machines/nippon.md), [Gerda 2](../machines/gerda-2.md) |
+| [Visible writing](../features/frm-writing-visible.md) | Writing visible to the operator while typing | 668 | 31 | 1876 [US175584](../patents/US175584.md) | 1900s | `     ▁▂▆█▄▂▁▁▁` | [Mignon 1](../machines/mignon-1.md), [Hefner-Alteneck Tasterapparat](../machines/hefner-alteneck-tasterapparat.md) |
+| [Frame construction](../features/frm-frame-construction.md) | Frame or casing construction (cast | 478 | 2 | 1845 [US4271](../patents/US4271.md) | 1920s | `  ▁▁  ▁▄▅▆█▄▂▁` |  |
+| [Cleaning access](../features/frm-cleaning-access.md) | Access for cleaning or element removal | 461 | 11 | 1876 [US183905](../patents/US183905.md) | 1890s | `     ▁▂█▇▅▅▃▁▁` |  |
+| [Portable or compact](../features/frm-compact-portable.md) | Small | 443 | 24 | 1863 [US39296](../patents/US39296.md) | 1920s | `    ▁▁▁▅▄▅█▆▃▁` | [American Index](../machines/american-index.md), [Gerda 2](../machines/gerda-2.md) |
+| [Cover or case](../features/frm-cover-enclosure.md) | Cover or enclosure of the mechanism | 273 | 7 | 1870 [US109161](../patents/US109161.md) | 1920s | `     ▁▂▄▇▄█▇▄▁` | [Nippon](../machines/nippon.md) |
 
-## Index-type patents, oldest first (101)
+## Index-type patents, oldest first (103)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -109,10 +109,12 @@
 | 1924 | [DE393934](../patents/DE393934.md) |  | index | A pair of spring-loaded pinch rollers on pawls couples roller and ratchet wheel steplessly, and a single lever, swung by a twist of the central knob rod, retracts all… | Adjustment and wear take-up |
 | 1924 | [DE406096](../patents/DE406096.md) |  | index | Mount the line pointer on a slider on the clamping strip so it lifts and folds down with the clamp in one motion. | Few parts, low cost |
 | 1925 | [JP65172](../patents/JP65172.md) | Kiritō, Shinzaburō | index | A drum carries several thousand short spring-retracted types in its rim, with a matching dial and comb pointer so the operator finds a character's column number, and… | Visible writing |
+| 1927 | [JP75116](../patents/JP75116.md) | Inoue, Jin | index | A single type key swung over an arc-shaped chart turns a double-row type wheel through a sector gear, and the button on it presses the platen against the wheel; ink… | Few parts, low cost |
 | 1929 | [DE476341](../patents/DE476341.md) | Kaeppler, Paul | index | An adjustment lever on the carriage side wall, positioned by an eccentric with knob and detent washer, sets the pawl's starting position so one stroke turns the ratchet… | Adjustment and wear take-up |
 | 1930 | [DE489650](../patents/DE489650.md) | Arondel, Maurice Leon | index | Incline the type carriers and their guide plate downward so they rest below the writing line, leaving it visible and shortening the machine. | Visible writing, Portable or compact |
 | 1931 | [DE524809](../patents/DE524809.md) | B, Elek Sche Schreibmaschinen M | index | Both the cable and its sheath are hung in sprung open eyes so the owner can detach and replace the Bowden cable. | Cleaning access |
 | 1931 | [DE540613](../patents/DE540613.md) | Sebastian, Friedmann | index | A slotted clamping ring between the line-spacing wheel and the platen cover is spread by the flats on the coupling bolt's end web, so the wheel keeps its round shape and… | Adjustment and wear take-up |
+| 1931 | [JP96395](../patents/JP96395.md) | Kawahara | index | Rubber endless type belts, one per row, are shifted by a single key lever that also slides on an operating box to choose the row; pressing the lever strikes the chosen… | Portable or compact |
 | 1932 | [DE545922](../patents/DE545922.md) | Sa, Stenotype Grandjean | index | A one-piece pawl with a switching tooth and a trailing safety tooth, plus an adjustable stop on the holder, moves the ratchet exactly one tooth per stroke. | Adjustment and wear take-up |
 | 1935 | [DE613630](../patents/DE613630.md) | Co, Underwood Elliott Fisher | index | The line-space ratchet wheel is clamped between a fixed flange and a sliding washer, pressed by two wedge levers inside the platen end that a cam on an axially sliding… | Portable or compact, Adjustment and wear take-up, Cleaning access |
 | 1935 | [JP111430](../patents/JP111430.md) | Miki, Chinji | index | Link the index pointer to the type drum with paired four-bar linkages, and hold the paper in a curved, two-part meshed frame that swings between the index plate and the… | Visible writing, Portable or compact |

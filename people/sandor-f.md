@@ -4,10 +4,11 @@
 
 - [FRANZ SANDOR](../companies/sandor.md) (16)
 
-## Patents (16)
+## Patents (17)
 
 | Patent | Date | Title | Carrier | Index score |
 |---|---|---|---|---|
+| [JP61016](../patents/JP61016.md) | 1921-05-25 | Visible-writing typewriter |  | -0.2 |
 | [DE339406](../patents/DE339406.md) | 1921-07-23 | typewriter |  | 0.2 |
 | [DE339789](../patents/DE339789.md) | 1921-08-10 | Type lever typewriter | typebar | 0.0 |
 | [DE346711](../patents/DE346711.md) | 1922-01-05 | Cart with paper roller frame |  | 0.0 |

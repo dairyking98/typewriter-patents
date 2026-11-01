@@ -4,12 +4,12 @@
 
 Key tension, touch adjustment and uniform impression across characters
 
-**148 patents**, 1856–1950. Often together with:
+**158 patents**, 1856–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (73)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (145), [Typebar action](../features/bar-type-action.md) (80), [Type basket and bearings](../features/bar-basket-bearings.md) (44)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (67), [Impression adjustment](../features/imp-impression-adjust.md) (24)
-- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (41), [Visible writing](../features/frm-writing-visible.md) (28)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (82)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (153), [Typebar action](../features/bar-type-action.md) (88), [Type basket and bearings](../features/bar-basket-bearings.md) (52)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (75), [Impression adjustment](../features/imp-impression-adjust.md) (25)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (46), [Visible writing](../features/frm-writing-visible.md) (31)
 
 **Machines:** [Alexander (1)](../machines/alexander-1.md) (14), [Alexander (2)](../machines/alexander-2.md) (14), [Alexander (3)](../machines/alexander-3.md) (11), [Williams 1 S](../machines/williams-1-s.md) (2), [Williams 2](../machines/williams-2.md) (2), [Williams 3](../machines/williams-3.md) (2), [Williams 4](../machines/williams-4.md) (2), [Williams 6](../machines/williams-6.md) (2), [Daugherty](../machines/daugherty.md) (2), [Pittsburg 9](../machines/pittsburg-9.md) (2), [Secor 2](../machines/secor-2.md) (2), [Caligraph 3](../machines/caligraph-3.md) (1), [Caligraph 4](../machines/caligraph-4.md) (1), [Caligraph 5](../machines/caligraph-5.md) (1), [Caligraph 6, 7](../machines/caligraph-6-7.md) (1)
 
@@ -100,7 +100,9 @@ Key tension, touch adjustment and uniform impression across characters
 | [US903810](../patents/US903810.md) | 1908 | Briggs, Herbert A. | Each type bar has individually removable connections giving a direct pull through quick leverage. |
 | [US904982](../patents/US904982.md) | 1908 | McKeever, Laurence A. | Add combination keys and typebars that print two characters at one touch, with a second escapement-control bar that feeds the carriage two spaces for them. |
 | [US923243](../patents/US923243.md) | 1909 | Brown, Alexander T. | Type bars hang in journal bearings on transverse pivot bars so that their arcs share a near-uniform radius, giving even touch; the platen can be shifted. |
+| [JP21617](../patents/JP21617.md) | 1909 | Hazen, Marshman Williams | A typebar machine with three-character type heads (lower, capital, figure) in which the whole carriage bed, platen, escapement and ribbon mechanism are lifted by shift levers to three heights and fold back over the keys for transport. |
 | [US938354](../patents/US938354.md) | 1909 | Tompkins, Webster A. | An electric attachment where a light key touch closes a circuit through a solenoid per key that rocks the typebar shaft with a constant stroke, plus a solenoid to turn the platen and space lines. |
+| [JP21618](../patents/JP21618.md) | 1909 | Petermann, Otto | A typebar machine whose platen, carriage, escapement and ribbon mechanism lift together on a slide to several locked heights (each type head carries figure, capital and small letter) and fold over the key levers for transport. |
 | [US950029](../patents/US950029.md) | 1910 | Roberts, Lyman R. | An added recovery spring on the key lever that speeds rebound without raising touch force. |
 | [US972255](../patents/US972255.md) | 1910 | Schaaff, John T. | Type action in which the type bar accelerates as it nears printing position, with adjustable leverage via anchored fulcrum links. |
 | [US972940](../patents/US972940.md) | 1910 | Steele, Herbert H. | Front-strike key and type action with uniform leverage, the escapement connected to the keys for a prompt and uniform let-off. |
@@ -146,6 +148,11 @@ Key tension, touch adjustment and uniform impression across characters
 | [US1156288](../patents/US1156288.md) | 1915 | Hausberg, Ernest | Each key closes a circuit to a small selective magnet that hooks its type-bar to a universal bar driven by a separate magnet, which is latched on until the stroke finishes. |
 | [US1161541](../patents/US1161541.md) | 1915 | Smith, Arthur W. | Key levers pivot on stepped fulcrum rods for vertical, equal key travel, and push links drive sub-levers and links to the typebars so that leverage grows through the stroke, more so for the middle bars, all in a removable, shiftable sub-assembly. |
 | [US1162194](../patents/US1162194.md) | 1915 | Sholes, Zalmon G. | A cam groove in an upright lever, driven by a pin on the key lever, accelerates the typebar, and notched bearing rods let levers be slid on and off their pivots. |
+| [JP67656](../patents/JP67656.md) | 1919 | Underwood Typewriter Company | Short typebars swinging about 120 degrees backward from a back-tilted segment let the platen sit very low behind the keyboard, so a standard-keyboard machine is portable without folding. |
+| [JP39915](../patents/JP39915.md) | 1920 | Burg, Hubert | The machine frame hangs from the case on parallelogram links, one extended to a crossbar that holds the typebars upright, so pushing the crossbar forward folds the machine and lays the typebars flat over the key levers. |
+| [JP43667](../patents/JP43667.md) | 1921 | Matsumoto, Eiichi | Put the frequent characters on typebars with four-level carriage shift, and keep the rare characters as loose types in a rotating and sliding cylindrical store, chosen by an index on the drum and a pointer and printed by a type-catching bar that grips the type, prints, and returns it. |
+| [JP61127](../patents/JP61127.md) | 1921 | Matsumoto, Eiichi | Set the resting position of each type block progressively further inward from the middle toward both ends, by making the bars progressively shorter toward the ends or by setting their pivots progressively further back. |
+| [JP43117](../patents/JP43117.md) | 1921 | The Noiseless Typewriter Company | A weighted energy-storing member and a toggle linkage on each typebar slow the bar in its last swing and press the type on rather than strike it, so printing is nearly silent. |
 | [DE350262](../patents/DE350262.md) | 1922 | Winklhofer, Wanderer Werke Vorm | A narrow arched rail buffer stop is fixed at both ends over thin sound-absorbing spacers on the bearing segment, so it does not touch the bearing directly; it is easily replaced and adjusted. |
 | [DE369308](../patents/DE369308.md) | 1923 | Reisser, Adolf | The guide arms get nose-like overlapping extensions that touch the opposite arm when swung apart, so each arm's nose acts as its own stroke limiter. |
 | [DE381431](../patents/DE381431.md) | 1923 | Sandor, Franz | A sliding lock on the pull rod with a toothed clamping lever lets each drive spring tension be adjusted without cutting it. |
@@ -153,11 +160,14 @@ Key tension, touch adjustment and uniform impression across characters
 | [DE411807](../patents/DE411807.md) | 1925 | W, Mercedes Buero Maschinen Und | The platen is replaced by a measuring device: each type lever strikes a bolt, the impact deflects a writing lever that records the impact energy as a curve on a paper strip, so type levers can be set mechanically. |
 | [DE432120](../patents/DE432120.md) | 1926 | Fa, Mercedes Buero Maschinen | A camshaft drives tension members that strike the type levers; stripping members set how long each tension member engages, adjusted individually by pivoting adjusting elements with hole rows, or together through a lever-driven transmission for fine adjustment. |
 | [DE432121](../patents/DE432121.md) | 1926 | Fa, Mercedes Buero Maschinen | Each type lever gets its own adjusting member with a resilient disc and eccentric on an axle, so each one can be set on its own; the arms and axles form a rigid whole. |
+| [JP81344](../patents/JP81344.md) | 1928 | Matsumoto, Eiichi | Join the typebar force point to the key lever's rear actuating point by one short link at set angles, so the typebar swings through about two right angles with an angular-speed ratio that starts near zero and rises steeply at the end. |
 | [DE521879](../patents/DE521879.md) | 1931 | Roth, Franz | Double-sided type bars carried in a frame that moves along and across the platen are struck by one hammer whose upward or downward stroke picks the upper or lower type. |
 | [DE579749](../patents/DE579749.md) | 1933 | Grah, Ernst | Make the type rods star-shaped so they touch the guide tube only along narrow edges, driven by low-pressure air. |
+| [JP107846](../patents/JP107846.md) | 1934 | Benzing, Hugo | Pivot a rocking lever to each key lever so its effective arm length changes along a rolling curve on a rail foot, with lever lengths graded by row so every key goes down the same depth and every typebar strikes with the same force. |
 | [DE639714](../patents/DE639714.md) | 1936 | Inc, Royal Typewriter Co | A pointer linked to the spring holder moves inside the frame and shows the spring tension on a scale visible through a window, while a separate adjuster changes the tension. |
 | [DE668229](../patents/DE668229.md) | 1938 | Werke, Mercedes Bueromaschinen | Rest bearing has collecting surfaces on the sides of the pressure elements, so only the sides touch and the back does not strike. |
 | [DE669731](../patents/DE669731.md) | 1939 | Co, Burroughs Adding Machine | The control bar is rigidly coupled to the drive shaft so no spring is needed for the print stroke, with strong return springs and an anti-rebound device to catch the type lever. |
+| [JP138459](../patents/JP138459.md) | 1940 | Amano, Fumio | Hang the key links on springs from a cross-bar that a handle-moved slide raises or lowers through slanted slots, changing spring tension. |
 | [DE709118](../patents/DE709118.md) | 1941 | Inc, Royal Typewriter Co | A slide behind the front plate moves transversely to the springs and moves both ends of the retaining plate equally, with a slot in the front panel as indicator. |
 | [DE749605](../patents/DE749605.md) | 1944 | Co, Ncr | Pressure members are driven rotationally and sensors on the document set each member against the type carrier, so only the selected member presses, scaled to the inserted thickness. |
 | [DE968905](../patents/DE968905.md) | 1947 | Deutschland, Ibm | Two adjusting means are used: one shifts the cutting-edge carrying rod to set where the cam engages the drive roller, and the other moves a stop finger to set the impact point and end of the drive; resilient stops add cushioning. |

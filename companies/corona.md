@@ -7,7 +7,7 @@ Name variants: The Corona Typewriter Comp. Inc; CORONA TYPEWRITER COMPANY INC; C
 
 | Machine | Year | Selection | Carrier | Patents linked |
 |---|---|---|---|---|
-| [Corona 3](../machines/corona-3.md) | 1912 | QWERTY-type keyboard | typebar | 33 |
+| [Corona 3](../machines/corona-3.md) | 1912 | QWERTY-type keyboard | typebar | 34 |
 | [Corona 3 XC-D](../machines/corona-3-xc-d.md) | 1922 | QWERTY-type keyboard | typebar | 0 |
 
 ## Inventors

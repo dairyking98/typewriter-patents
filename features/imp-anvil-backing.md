@@ -4,9 +4,9 @@
 
 Backing
 
-**178 patents**, 1856–1948. Often together with:
+**179 patents**, 1856–1948. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (53), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (42)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (53), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (43)
 - **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (43)
 - **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (56), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (53)
 - **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (81), [Line spacing](../features/pap-line-space.md) (47), [Feed rollers and paper release](../features/pap-feed-rollers.md) (45)
@@ -118,6 +118,7 @@ Backing
 | [US771216](../patents/US771216.md) | 1904 | Stickney, Burnham C. | A type-bar rest made of two nested helices of wire that is stiff but inelastic, so struck bars stay dead. |
 | [US771217](../patents/US771217.md) | 1904 | Stickney, Burnham C. | A flexible ring backing the typebars, with radial plungers held by friction between felt-lined plates, absorbs the return of each bar. |
 | [US780102](../patents/US780102.md) | 1905 | Hammond, James B. | Make the Hammond universal by giving it a reversible carriage drive, a turret hammer with several faces, an exchangeable shuttle and rotating multi-face keys, built on a U-shaped frame that backs the anvil. |
+| [JP8673](../patents/JP8673.md) | 1905 | Hammond, James B. | A ring-shaped hard-rubber shuttle with an inner metal flange running between a two-part anvil, notched for several character sets and released from its driving arm by a slide, driven by swinging speed dogs, with a small seven-character shuttle for Braille where two keys build each character. |
 | [US782871](../patents/US782871.md) | 1905 | Nolan, Thomas F. | A platen or roller of felt or compressed wool with a firm circular body and a yielding elastic interior, so the surface is quiet, elastic and resists impression marks. |
 | [US786067](../patents/US786067.md) | 1905 | Stuart, Charles Henry | A platen with a rubber covering loose on the wooden core, slightly larger than the core, that creeps or slides so each strike lands at a different point. |
 | [US811800](../patents/US811800.md) | 1906 | Small, William A. | A wooden tube roller holds soft-rubber cushions enclosed inside an outer rubber sheath, with an inner cushion insulating the tube from the journal rod, so the working surface stays soft. |

@@ -4,14 +4,14 @@
 
 Felt or ink pad inking the type
 
-**284 patents**, 1829–1950. Often together with:
+**294 patents**, 1829–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (85)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (103)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (105)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (107), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (92), [Space key or bar](../features/esc-space-key.md) (69)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (94)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (75)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (89)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (106)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (111)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (111), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (96), [Space key or bar](../features/esc-space-key.md) (71)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (102)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (78)
 
 **Machines:** [Yost 15 - 19](../machines/yost-15-19.md) (5), [Williams 1 S](../machines/williams-1-s.md) (4), [Williams 2](../machines/williams-2.md) (4), [Williams 3](../machines/williams-3.md) (4), [Williams 4](../machines/williams-4.md) (4), [Williams 6](../machines/williams-6.md) (4), [Bar-Lock 4, 5](../machines/bar-lock-4-5.md) (3), [Bar-Lock 6](../machines/bar-lock-6.md) (3), [Bar-Lock 7](../machines/bar-lock-7.md) (3), [Bar-Lock 8, 9](../machines/bar-lock-8-9.md) (3), [Bar-Lock 10, 11](../machines/bar-lock-10-11.md) (3), [Bar-Lock Columbia](../machines/bar-lock-columbia.md) (3), [Bar-Lock 12](../machines/bar-lock-12.md) (3), [Yost 20](../machines/yost-20.md) (3), [Remington Junior](../machines/remington-junior.md) (3)
 
@@ -82,6 +82,7 @@ Felt or ink pad inking the type
 | [US419396](../patents/US419396.md) | 1890 | Worall, Thomas D. | A type-holder in a swinging type-carriage is slid sideways under a toothed register-plate, which locates each character on a centring pin or wheel, and the carriage is pressed down on the paper. |
 | [DE51365](../patents/DE51365.md) | 1890 |  | Many type levers arranged in a circle swing each type to a common fixed print point at the centre when its key is pressed, with self-inking types. |
 | [US421702](../patents/US421702.md) | 1890 | Hall, Joseph | A vertically rotating type-wheel plus a figure sector are turned by one sliding rack lever to the chosen character, locked by a forked stay, and pressed down onto the paper; the return stroke spaces the head along a screw roller. |
+| [JP1309](../patents/JP1309.md) | 1890 | Shida, Yasaku | A spring-driven type wheel spins freely when any key is pressed and is stopped at the chosen character by a projection on its shaft meeting a projection under that key, after which a crank lowers the shaft to print while the paper table advances one space. |
 | [DE51498](../patents/DE51498.md) | 1890 |  | A visible-writing typebar machine with rubber types inked from a resting pad, three characters per bar selected by shifting the paper carriage, and a nested-frame escapement that gives each letter a width-dependent space. |
 | [US423622](../patents/US423622.md) | 1890 | Murray, David Ambrose | A treadle-driven horizontal type-wheel spins at speed, a pressed key raises a stop pin into the path of a lug on the wheel, and the sudden stop makes a loosely mounted upper disk drive the matching pivoted type down through a window onto the paper. |
 | [US423900](../patents/US423900.md) | 1890 | Brooks, Byron A. | A visible-writing typebar machine with thin two-part bell-crank typebars each carrying several types selected by a stepped stop, a screw-and-rack carriage whose step per key is set by adjustable screws, and an ink pad swept over the types by the space key. |
@@ -258,6 +259,7 @@ Felt or ink pad inking the type
 | [US1004175](../patents/US1004175.md) | 1911 | Kemper, Virgil A. | A sponge or absorbent pad on an adjustable arm bolted to the frame is placed so the typebar faces barely graze it on the way to the platen. |
 | [US1006202](../patents/US1006202.md) | 1911 | Futterknecht, Adolph | Each typebar is moved by a pair of crossed levers joined by a link, so the type touches an ink pad then strikes the platen, with two such sets stacked. |
 | [US1008394](../patents/US1008394.md) | 1911 | Turner, Samuel William | A felt pad with a square or other multi-sided body is twisted or turned so that a fresh unused face is brought into contact with the type, giving several uses from one pad. |
+| [JP22786](../patents/JP22786.md) | 1912 | Pfeifler, John William | A cheap pad-inked key machine in which each key swings a V-shaped lever that throws a type arm up and onto the paper along a curve that lifts straight off again, with the platen shoved back instead of a shift mechanism and a bowed leaf spring on a rack as the escapement. |
 | [US1037564](../patents/US1037564.md) | 1912 | Viry, Henry | A continuously rotatable finger-type wheel on a hinged plate; pressing the plate down prints and a toothed disc with ratchet gear locks the wheel in exact position. |
 | [US1037981](../patents/US1037981.md) | 1912 | Pickett, John B. | A simple typewriter of about 130 parts whose type carrying arms rest on an ink pad and strike the paper directly without a ribbon. |
 | [US1054874](../patents/US1054874.md) | 1913 | Smith, Arthur W. | Convert it to a shifting typebar basket guided and locked against lateral vibration, with spring return. |
@@ -273,6 +275,7 @@ Felt or ink pad inking the type
 | [DE347841](../patents/DE347841.md) | 1922 | Reintanz, Max | One eccentric on the main drive shaft swings a double lever that moves a slotted plate, carrying an ink pad under the type discs and then pressing it up against them; a spring-loaded stamp pushes the paper strip against the type discs and a cutter severs the strip. |
 | [DE360694](../patents/DE360694.md) | 1922 | Payne, Halbert Edwin | A flexible type strip on a swing frame is slid by a hand pointer over a staggered character board to bring the chosen type opposite a pressure arm, which presses it to the paper. |
 | [DE381964](../patents/DE381964.md) | 1923 | Deutsche, Correx Akt Ges | Add a mechanical printing type behind each transparent type on the same disc that prints a visible control line on a paper tape before the lamp exposes the film. |
+| [JP61217](../patents/JP61217.md) | 1924 | Shimada, Minokichi | A polygon-shaped wheel carries sets of multi-type typebars and is turned by a handle to bring the wanted set to the keys, while the key also drops the paper cylinder to pick the row of type on the bar. |
 | [JP62663](../patents/JP62663.md) | 1924 | Murakami, Masaomi | A ring-shaped rotating type tray has a post at its centre carrying a swinging rail, and a carriage with paper cylinder and a two-tube printing arm slides on it, pushing up an inked type, flipping it 180 degrees automatically and printing it, in either columns or rows. |
 | [DE410000](../patents/DE410000.md) | 1925 | Weis, Rudolf | A perforated threaded metal cylinder holds dye and the ribbon passes it tangentially, picking up dye by adhesion. |
 | [JP65172](../patents/JP65172.md) | 1925 | Kiritō, Shinzaburō | A drum carries several thousand short spring-retracted types in its rim, with a matching dial and comb pointer so the operator finds a character's column number, and pressing the numbered key slides the paper cylinder to that column while a hammer inside the drum pushes the type out to print. |
@@ -287,16 +290,23 @@ Felt or ink pad inking the type
 | [DE460999](../patents/DE460999.md) | 1928 | Ges, Feinmechanik G M B H | A small ink container feeds a felt inking pad drop by drop through a drip channel and hole above the highest liquid level, so only a little ink is needed. |
 | [DE466818](../patents/DE466818.md) | 1928 | Kaftanski, Alfons | A hand-held device with a type wheel whose faces carry note marks, pressed by a button onto an ink pad; a geared rack sets four heights and a linear scale moves the device along the staff lines. |
 | [JP89443](../patents/JP89443.md) | 1930 | Uchida, Kōichi | A boxed recorder with a turntable of radial swinging type arms and an outside index disc: turn the disc to a character, press a centre spindle to print it on a paper strip, and the release stroke feeds the strip one step. |
+| [JP95768](../patents/JP95768.md) | 1931 | Fukumoto, Yoshio | A writing board made of many close-packed spring keys is written on directly; the keys under the pen strokes drive typebar tips that print the shape as a reduced cluster of dots on a print cylinder. |
 | [DE509940](../patents/DE509940.md) | 1931 | Weissfloch, Konrad Karl | A poster typewriter with large types on an endless cloth band moved past the print point by a pointer lever over a letter scale, struck from the front by a hammer so the writing is visible. |
+| [JP96395](../patents/JP96395.md) | 1931 | Kawahara | Rubber endless type belts, one per row, are shifted by a single key lever that also slides on an operating box to choose the row; pressing the lever strikes the chosen character on the cylinder, takes up belt slack and advances the paper. |
 | [DE568947](../patents/DE568947.md) | 1933 | Pelton, George Ernest | An inking carrier (ribbon, carbon or pad) meant to release ink evenly over its life with a large ink reserve; the construction is only outlined in the first 3000 characters. |
+| [JP102142](../patents/JP102142.md) | 1933 | Kataoka, Kōtarō | An endless chain of type frames, each one piece with an index-character plate; the frame tilted at the chain corner opens its lid so the wanted type can be pushed up, gripped and printed. |
 | [DE575861](../patents/DE575861.md) | 1933 | Eckert, Eduard | The type lever is formed as a tube with a collar at its end and is guided on pins by fork-like caps, with an unequal-leg fork in front of the platen to stop each lever at the ink pad or platen. |
 | [DE576651](../patents/DE576651.md) | 1933 | Ges, Hartmann & Braun Akt | A flat box holds ink pads in the ribbon colours with raised partitions; the ribbon is passed over the pad and rolled until it is re-soaked. |
 | [DE577146](../patents/DE577146.md) | 1933 | Simon, Hans | A ribbon-like ink carrier on a pivoting carrier is advanced by a ratchet linked to each key, so the carrier presents fresh ink to the type at each stroke. |
+| [JP104336](../patents/JP104336.md) | 1933 | Masuda, Kichie | Digit-keys stop spring-pulled rack plates that turn per-place type wheels, with a common control bar that releases the racks and returns them all. |
 | [JP112224](../patents/JP112224.md) | 1935 | Matsubayashi, Yoshiaki | Many footed types are wedged into the rims of spring-mounted type wheels on one shaft, turned together and located by a scrolling index cloth, and one wheel is pushed out to print onto a rubber plate behind the paper. |
 | [DE613501](../patents/DE613501.md) | 1935 |  | A rubber air reservoir beside the paint tube is squeezed to pressurise the paint, which then flows to a wick nozzle; a stop controls the spread. |
+| [JP121089](../patents/JP121089.md) | 1937 | Miwa, Mataichi | An air valve serves as the print key, so a fingertip press admits compressed air that lifts the selected type and then swings it against the platen. |
 | [DE659966](../patents/DE659966.md) | 1938 | Stertz, Walter | A carrier fixed to the type guide holds the ink-cushion line wheel so the underline falls at the usual distance without platen adjustment and without fouling the ribbon. |
-| [JP133596](../patents/JP133596.md) | 1939 | Kataoka, Kōtarō | One handle's successive movements steady the type drum, raise the held type frame to the platen, then drive a circular-path striker against the back of the type. |
-| [JP135179](../patents/JP135179.md) | 1939 | Kataoka, Kōtarō | A bell crank with a slanting slot drives a roller that pushes a type support into the selected type to grip it, then swings the holder along an arc guide to the platen, with a sprung rocker and free roller cushioning the return. |
+| [JP130425](../patents/JP130425.md) | 1939 | Shin-Nihon Kei Taipuraitā Seisakusho | Pivot a main and an auxiliary printing lever side by side so the main lifts the type case and the auxiliary prints, feeds, and handles spare types alone. |
+| [JP133596](../patents/JP133596.md) | 1939 | Nihon Kei Typewriter Works | One handle's successive movements steady the type drum, raise the held type frame to the platen, then drive a circular-path striker against the back of the type. |
+| [JP134304](../patents/JP134304.md) | 1939 | Yamauchi, Teita | Keep the Japanese types fixed in a partial cylinder of loose plunger-types and move the platen (sliding and rotating) over the chosen type, with a key-per-character keyboard whose row and column contacts set the platen stops electromagnetically. |
+| [JP135179](../patents/JP135179.md) | 1939 | Shin-Nihon Kei Taipuraitā Seisakusho | A bell crank with a slanting slot drives a roller that pushes a type support into the selected type to grip it, then swings the holder along an arc guide to the platen, with a sprung rocker and free roller cushioning the return. |
 | [DE730122](../patents/DE730122.md) | 1943 | Bergschicker, Heinrich | Ribbons are soaked in a mix of volatile solvent and a small amount of oil that refreshes the ink and stays evenly distributed. |
 | [DE876481](../patents/DE876481.md) | 1944 | Perosa, Riv Officine Di Villar | A ring-clamped inking cloth (or inked disc) sits between roller and hammer and is indexed by a fixed angle each cycle, driven synchronously from the hammer drive. |
 | [DE872517](../patents/DE872517.md) | 1948 | Ag, Lorenz C | A brush soaked in ink, with bristles free to move in every direction, paints the type. A slowly rotating disc brush or a longer brush spreads wear, and it is fed ink from a pitted rotating roller or sphere in a sealed container. |

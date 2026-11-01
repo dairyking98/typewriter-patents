@@ -4,14 +4,14 @@
 
 How the typebars and the type heads on them are made
 
-**272 patents**, 1878–1950. Often together with:
+**278 patents**, 1878–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (61)
-- **Type element:** [How the element is made](../features/elem-element-construction.md) (37)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (267), [Typebar action](../features/bar-type-action.md) (201), [Type basket and bearings](../features/bar-basket-bearings.md) (106)
-- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (42)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (64)
-- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (79)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (65)
+- **Type element:** [How the element is made](../features/elem-element-construction.md) (38)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (273), [Typebar action](../features/bar-type-action.md) (204), [Type basket and bearings](../features/bar-basket-bearings.md) (110)
+- **Shift and cases:** [Shift by moving the platen](../features/shift-platen.md) (46)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (67)
+- **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (81)
 
 **Machines:** [Fisher 2](../machines/fisher-2.md) (4), [American Armstrong 7](../machines/american-armstrong-7.md) (4), [Nova](../machines/nova.md) (4), [Star](../machines/star.md) (4), [Sun 2, 4](../machines/sun-2-4.md) (4), [Sun 2 B](../machines/sun-2-b.md) (4), [Sun 2 Aluminium](../machines/sun-2-aluminium.md) (4), [Sun 3](../machines/sun-3.md) (4), [Sun 6](../machines/sun-6.md) (4), [Sun Standard](../machines/sun-standard.md) (4), [Bar-Lock 12](../machines/bar-lock-12.md) (4), [Bar-Lock 14](../machines/bar-lock-14.md) (4), [Bar-Lock 15](../machines/bar-lock-15.md) (4), [Visigraph](../machines/visigraph.md) (4), [Lasar](../machines/lasar.md) (3)
 
@@ -177,6 +177,8 @@ How the typebars and the type heads on them are made
 | [DE226337](../patents/DE226337.md) | 1909 |  | A ball bearing for type levers where balls run on a V-shaped path in the lever bore, held between conical extensions of a screw and a nut; the nut tightening relieves friction and locks the adjustment. |
 | [US936050](../patents/US936050.md) | 1909 | Sholes, Louis | A type-bar segment with radial recesses and slots, and independently adjustable fulcrum slides carrying the type-bar pivots, so each bar is aligned by its slide. |
 | [US936833](../patents/US936833.md) | 1909 | Uhlig, Richard W. | Proportion the key levers, link connections, cranks, springs, stops and universal bar so the key action and blow are equalised across all keys and banks. |
+| [JP21617](../patents/JP21617.md) | 1909 | Hazen, Marshman Williams | A typebar machine with three-character type heads (lower, capital, figure) in which the whole carriage bed, platen, escapement and ribbon mechanism are lifted by shift levers to three heights and fold back over the keys for transport. |
+| [JP21618](../patents/JP21618.md) | 1909 | Petermann, Otto | A typebar machine whose platen, carriage, escapement and ribbon mechanism lift together on a slide to several locked heights (each type head carries figure, capital and small letter) and fold over the key levers for transport. |
 | [US947253](../patents/US947253.md) | 1910 | Nielsen, Stefanus | Type bars are individually mounted and adjustable on longer pivots at the sides; connecting links are pulled in parallel lines. |
 | [US952021](../patents/US952021.md) | 1910 | Tomlinson, Charles E. | Front-strike typebar system and keyboard arranged for a large number of characters. |
 | [DE235144](../patents/DE235144.md) | 1910 |  | Type levers with two intersecting, curved arms joined by an articulated steering rod are arranged in two vertical parallel planes, grouped by identical mounting; the key lever lifts each type head off the ink pad and onto the paper roller and returns it on release. |
@@ -236,6 +238,8 @@ How the typebars and the type heads on them are made
 | [US1149293](../patents/US1149293.md) | 1915 | Roebuck, Alvah C. | The pivot wire sits in an undercut groove in the typebar segment and is clamped by an abutment screw at one end and a wedging screw at the other. |
 | [US1160134](../patents/US1160134.md) | 1915 | Briggs, Arthur J. | A type bar with a sheet-metal shank and a head made of a separate U-shaped piece welded on, giving a solid three-ply head that holds a printing type block. |
 | [DE289775](../patents/DE289775.md) | 1916 |  | Sheet-metal disks, spaced by intermediate links and held by riveting or similar, form the slot walls; they are overmolded with injection-molded material so the hard disk faces guide the type levers and keep the slot widths precise. |
+| [JP31868](../patents/JP31868.md) | 1916 | Roebuck, Alvah Curtis | Build the machine as two sub-assemblies, a base carrying the actuating parts and a top plate carrying the working parts, joined by simple connecting links. |
+| [JP67656](../patents/JP67656.md) | 1919 | Underwood Typewriter Company | Short typebars swinging about 120 degrees backward from a back-tilted segment let the platen sit very low behind the keyboard, so a standard-keyboard machine is portable without folding. |
 | [DE331594](../patents/DE331594.md) | 1920 | Co, Remington Typewriter | Clamping plates fixed to the head of the segment have openings that take the ends of the bearing wire and press it down into its slot with a moderate pressure, holding the pins aligned without warping. |
 | [DE319752](../patents/DE319752.md) | 1920 | W, Mercedes Buero Maschinen Und | The radius of the type-lever swing axis is set to about two thirds of the radius of the arc on which the type heads strike, which allows a shorter, rigid lever and a good mounting. |
 | [DE322035](../patents/DE322035.md) | 1920 | Garlanda, Eligio | Two stamped sheet-metal segment plates with lobes twisted 90 degrees so they interlock, carrying three-armed levers pinned on tabs. |
@@ -244,6 +248,7 @@ How the typebars and the type heads on them are made
 | [DE334713](../patents/DE334713.md) | 1921 | Furtwaengle, Uhrenfabrik Vorm L | The guide fork is placed on the type lever shaft at the level of the type body, which avoids grinding, and for double types the lowercase character sits on the outside so it stays visible. |
 | [DE335713](../patents/DE335713.md) | 1921 | Co, Remington Typewriter | The pin slides in a slot in the type lever foot with smooth walls and a larger hole at the pivot end, and a special finishing tool with scraper edges machines the slot so the linkage can be adjusted after assembly. |
 | [DE339259](../patents/DE339259.md) | 1921 | Dressler, Wilhelm | The type lever bearing axles have an angular cross-section instead of round, and the bearing is a pair of threaded cones with a ring body holding balls, so larger balls fit and the flat rods are removed. |
+| [JP61127](../patents/JP61127.md) | 1921 | Matsumoto, Eiichi | Set the resting position of each type block progressively further inward from the middle toward both ends, by making the bars progressively shorter toward the ends or by setting their pivots progressively further back. |
 | [DE347525](../patents/DE347525.md) | 1922 | Raap, Abraham Van | The inventor's arrangement lets the superimposed characters print in correct position without lifting the paper roller or the whole carriage; the excerpt states the problem and the full mechanism is not in the text read. |
 | [DE348778](../patents/DE348778.md) | 1922 | Ges, Clemens Mueller Akt | The bearing body is made of two sheet-metal discs or a hollowed piece spaced apart at their edges, so the slotted edges have reduced friction surfaces and the guide slots hold the type levers accurately. |
 | [DE351950](../patents/DE351950.md) | 1922 | Sandor, Franz | A pull rod on the front of the key housing releases the universal-rail lever so a type lever can be removed without holding the release. |
@@ -287,6 +292,7 @@ How the typebars and the type heads on them are made
 | [DE709024](../patents/DE709024.md) | 1941 | Alfredo, Tombolini | Each type lever hooks onto a bearing pin of the neighbouring connecting plate and can be detached and moved around the segment pin; the plate carries a tooth sector. |
 | [DE809815](../patents/DE809815.md) | 1948 | Ag, Siemag Siegener Maschb | An angle lever on a horizontal axis near the segment front, with its legs cranked so the eccentric tensile force is stepped, shortens and balances the rear connecting rods so the type head meets the platen smoothly. |
 | [DE820008](../patents/DE820008.md) | 1949 | Milbradt, Louise | A detachable inking device with a felt or microporous rubber roller on a pivoting lever, released by a control lever coupled to the swing-back of the struck type lever and returned by a tension spring. |
+| [JP367765](../patents/JP367765.md) | 1949 | Araki, Gorō | Cast a wire gauze into the type body as reinforcement at the time of casting. |
 | [DE884808](../patents/DE884808.md) | 1949 | Kuentzel, Hellmuth | A lever is built from a standard profile middle piece cut to length, with a type head and bearing piece joined at its ends. |
 | [DE891697](../patents/DE891697.md) | 1949 | Kuentzel, Hellmuth | A tubular bearing piece with hollow conical ends sits on conical pins in two cheeks held under spring tension, so wear is taken up elastically and lubricant stays inside. |
 | [DE912933](../patents/DE912933.md) | 1949 | Kuentzel, Hellmuth | The lever is three separately made pieces: a hardened head, a light sheet-steel hollow centre piece and a bearing piece, so the centre is lighter than the head. |

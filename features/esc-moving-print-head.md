@@ -4,14 +4,14 @@
 
 The print head moves along a fixed paper carriage
 
-**167 patents**, 1872–1950. Often together with:
+**176 patents**, 1872–1950. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (46)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (53), [Hand presses the type through](../features/imp-press-through.md) (42)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (67), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (64)
-- **Paper and carriage:** [Flat bed or book typewriter](../features/pap-flat-bed.md) (100)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (50)
-- **Uses:** [Book typewriter](../features/use-book-typewriter.md) (51)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (49), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (42)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (56)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (68), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (65)
+- **Paper and carriage:** [Flat bed or book typewriter](../features/pap-flat-bed.md) (102)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (51)
+- **Uses:** [Book typewriter](../features/use-book-typewriter.md) (52)
 
 **Machines:** [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Morris](../machines/morris.md) (1), [Century Index](../machines/century-index.md) (1), [Dollar Typewriter](../machines/dollar-typewriter.md) (1), [Fisher 2](../machines/fisher-2.md) (1), [Elliott & Hatch 1](../machines/elliott-hatch-1.md) (1), [Elliott & Hatch 2](../machines/elliott-hatch-2.md) (1), [Elliott & Hatch 3](../machines/elliott-hatch-3.md) (1)
 
@@ -114,6 +114,7 @@ The print head moves along a fixed paper carriage
 | [US691601](../patents/US691601.md) | 1902 | Consentino - Palumbo, Thomas - Frank | A hand-held rule carries an endless type band that one plunger advances until the chosen character shows opposite an index, while a second plunger fires a striker onto the band and then steps the striker and index one space along the line. |
 | [US696304](../patents/US696304.md) | 1902 | Thompson - Becker, William J. - Philip | A flexible type-form mounted for rotary movement in a basket carriage, turned by a finger-wheel to locate the type, with devices that flex the type to print and move the carriage to space. |
 | [US702706](../patents/US702706.md) | 1902 | Coffman, George W. | A flexible type band with lower- and upper-case rows is slid under a roller by a key placed in a hole of a character chart, and the roller presses the chosen type through a window onto the paper. |
+| [JP7850](../patents/JP7850.md) | 1903 | Donning, George Washington | A flat tilting platen with a self-levelling sliding book rest, a gantry carriage running on a tiltable track, and typebars whose heads carry three types and are rocked to the case by a half-ring behind the bars. |
 | [US740681](../patents/US740681.md) | 1903 | Myers, Louis | Each ball sits in a cage of crossed circular strips, and rods link the cages of balls in the same groove so they stay evenly spaced; stop collars on a rod limit the travel of the movable member. |
 | [US747917](../patents/US747917.md) | 1903 | Hillard, Frederic W. | A gear train driven by carriage spacing feeds the ribbon, a ribbon-held trip releases at spool end to slide a bevel-gear shaft and reverse, and a cross-feed moves the ribbon transversely. |
 | [US747953](../patents/US747953.md) | 1903 | Eckert, Herman F. | A work-guard plate that clamps or protects the top edge of the work and can be moved in the line-space direction to any point over the platen. |
@@ -150,6 +151,7 @@ The print head moves along a fixed paper carriage
 | [US1141831](../patents/US1141831.md) | 1915 | Russell, William Ernest | A carriage carrying a rotatable type drum is traversed across stationary paper; depressing a key first rotates the drum a key-dependent amount, then lowers the carriage to print. |
 | [US1146148](../patents/US1146148.md) | 1915 | Foothorap, Harry A. | Key levers act on two guided slides with graduated contact rollers, which rotate the wheel through a vibrator and pinion until a stop rack meets the depressed key's stop, then carry the wheel to the platen. |
 | [US1163966](../patents/US1163966.md) | 1915 | Anderson, Nils H. | A stamped sheet-metal ball retainer with openings for the balls and a pinion-carrying tongue, with flat forked keepers that surround and hold each ball in place. |
+| [JP35670](../patents/JP35670.md) | 1919 | Murooka, Sōshichi | A hand-pushed row of types is selected on a fan-shaped character board and struck upward electrically, while a wheel of paper cylinders turns step by step so the same character prints on each sheet in turn. |
 | [DE344036](../patents/DE344036.md) | 1921 | Luckhard, Karl Ludwig | A light type-wheel machine set on the writing surface, with key-lever lengths pulling Bowden cables to turn the wheel by the amount for each character and press the wheel onto the paper. |
 | [DE348153](../patents/DE348153.md) | 1922 | Hoffmann, Ferdinand | One swingable, radially pressable bracket on the housing both sets the type wheel and prints, and its return stroke advances the whole machine and the ribbon. |
 | [JP45118](../patents/JP45118.md) | 1922 | Kataoka, Kōtarō | One control lever, moved over a character index plate, both selects the type (left/right turns the type cylinder by cords, forward/back moves the paper cylinder along the cylinder) and, pressed down, rocks the paper cylinder onto the type to print. |
@@ -166,23 +168,30 @@ The print head moves along a fixed paper carriage
 | [JP105151](../patents/JP105151.md) | 1933 | Oshitari, Kingo | A tilting round box holds a hand-turned disc carrying a half circle of swinging type keys, one of which is aligned with a notch to be pressed, and each press-and-release spaces the whole box one ratchet step along a bar over the fixed paper. |
 | [JP111430](../patents/JP111430.md) | 1935 | Miki, Chinji | Link the index pointer to the type drum with paired four-bar linkages, and hold the paper in a curved, two-part meshed frame that swings between the index plate and the machine rear. |
 | [DE619349](../patents/DE619349.md) | 1935 |  | Use piston-and-cylinder pneumatic drives to return both carriage and writing device simultaneously from one switching device. |
+| [JP115697](../patents/JP115697.md) | 1936 | Knutsen, Knut Andreas | A type wheel is rolled over a stopped ratchet gear so its selected type has zero speed relative to the paper, then thrown against the paper by a guide edge. |
 | [DE631596](../patents/DE631596.md) | 1936 | Corp, News Projection | A typewriter prints across the tape transversely, the tape advances one line spacing per line, the type basket moves along the paper carrier, and the tape is held taut on the projection window, with the paper lifted for large letters. |
+| [JP118778](../patents/JP118778.md) | 1936 | Sugihara, Jinzō | Two linked differentials let one motor drive the lengthwise and crosswise positioning together, so that when one axis stops the other gets the full drive, and then trigger the print. |
 | [DE638139](../patents/DE638139.md) | 1936 | Duemling, Adolf | Three type cylinders on an endless belt run past a fixed vertical platen, each stepped one character along the line, so a new cylinder takes over as the previous one leaves the line. |
+| [JP119648](../patents/JP119648.md) | 1936 | Nippon Typewriter Co., Ltd. | A spring-loaded, catch-held delay cam keeps the tray-locating device engaged until the type has had time to fall back. |
+| [JP120549](../patents/JP120549.md) | 1936 | Sugihara, Jinzō | The brake band and belt tightener are worked by a worm drive reversed by cone friction wheels on the motor shaft, so a light key press suffices. |
 | [JP128359](../patents/JP128359.md) | 1938 | Miwa, Mataichi | Arm the sideways-feed pawl at the end of the key's forward stroke but only release the actual feed near the end of the key's return or after it, with most of the key's travel free of the feed device. |
+| [JP128795](../patents/JP128795.md) | 1938 | Sugihara, Jinzō | Drive the frame from a motor through a two-link folding arm that works as a differential gear, so the frame follows the hand to any position within range. |
 | [JP129969](../patents/JP129969.md) | 1938 | Miwa, Mataichi | Make the cylinder's sideways feed happen during the printing key's down-stroke while the type lifter is dug into the tray, timed by printing-bar acceleration and cylinder inertia so the feed follows the strike, and keep a fixed pawl on the feed gear during character search. |
 | [JP132068](../patents/JP132068.md) | 1939 | Miwa, Mataichi | One press of a back key drives a reverse pawl that engages the feed gear, lifts the feed pawls out, turns the gear back a set amount, then lets the feed pawls drop back in and lock it. |
-| [JP131880](../patents/JP131880.md) | 1939 | Katō, Kenjirō | Link the tray locking piece to the horizontal/vertical changeover so that in horizontal writing it holds until the sideways platen feed finishes, and in vertical writing it releases as soon as the type has dropped back into the tray. |
+| [JP131880](../patents/JP131880.md) | 1939 | Nippon Typewriter Co., Ltd. | Link the tray locking piece to the horizontal/vertical changeover so that in horizontal writing it holds until the sideways platen feed finishes, and in vertical writing it releases as soon as the type has dropped back into the tray. |
+| [JP134304](../patents/JP134304.md) | 1939 | Yamauchi, Teita | Keep the Japanese types fixed in a partial cylinder of loose plunger-types and move the platen (sliding and rotating) over the chosen type, with a key-per-character keyboard whose row and column contacts set the platen stops electromagnetically. |
 | [DE701607](../patents/DE701607.md) | 1941 | Adams, Arthur Herman | A light type wheel on a travelling carriage in front of a fixed platen is turned by a closed band whose length is changed by five laterally movable rollers, each adding a step count of 1, 2, 4, 8 or 16, so the wheel goes directly from one character to the next. |
 | [DE923552](../patents/DE923552.md) | 1941 | Ag, Lorenz C | Colour the platen itself with a solid ink stick, either full platen length or travelling along the platen, so the writing system transfers colour from platen to paper. |
 | [DE717101](../patents/DE717101.md) | 1942 |  | Rectangular intermediate rails move in the plane of their wide faces on the fixed part and transfer selector settings positively to the selector rails of the moving basket, keeping the selector gear fixed. |
 | [DE657070](../patents/DE657070.md) | 1942 | Sander, Ernst | Each key's pin depresses a spring-mounted grate that first swings a fan of type carriers out until the carrier's stop meets the pressed key's pin, then trips the hammer and advance. |
 | [DE923253](../patents/DE923253.md) | 1943 | H, Adlerwerke Kleyer Ag | The type basket and key levers move laterally across a fixed writing pad, so the sheet stays still during writing. |
 | [DE731248](../patents/DE731248.md) | 1943 | Honnolke, Franz | Keep the writing surface fixed and move a slide carrying a swivelling type drum over it, with interchangeable slides and drums for different sizes and fonts. |
-| [JP157600](../patents/JP157600.md) | 1943 | Kataoka, Kōtarō | The type cylinder rests by grooved end rims on rollers in a support that slides on rails, so cylinders can be lifted off and exchanged as spares. |
+| [JP157600](../patents/JP157600.md) | 1943 | Takeuchi, Hideo | The type cylinder rests by grooved end rims on rollers in a support that slides on rails, so cylinders can be lifted off and exchanged as spares. |
 | [DE734728](../patents/DE734728.md) | 1943 | Loewe, Richard | A detachable, collapsible circular book typewriter: a loose circular writing device with keys in concentric circles sits on a foldable rail frame that carries the paper and does line feed. |
 | [JP159459](../patents/JP159459.md) | 1943 | Tsujimoto, Hidegorō | A turning disc of kana types is rocked on a hinged carrier to press a character onto one of many gear-linked printing rollers, sliding along a rail across the roller axis. |
 | [DE821065](../patents/DE821065.md) | 1948 | Elmqvist, Rune Med | A liquid jet is written from a fine glass-tube mouthpiece that is moved by a torsion-elastic band driven by the measured quantity. |
 | [JP178253](../patents/JP178253.md) | 1948 | Kobayashi, Kaichi | Pack the types loosely round the whole ring with a single follower, and use a plunger with ratchet and cap to print and step in one stroke or step alone. |
+| [JP369543](../patents/JP369543.md) | 1949 | Itō, Gohei | A hand-held palm-operated device with a thumb-turned type belt, a pressing lever and polygonal wheels that step it along the paper. |
 | [DE842207](../patents/DE842207.md) | 1949 | Broecker, Ludwine | Split the type carriage into a lower part that always moves to its far limit and an upper part carrying the type blocks that is stopped at the right position and decoupled. |
 | [DE821638](../patents/DE821638.md) | 1949 | Zeuzem, Achim | Arrange the type levers and their pivots side by side in a slide that moves along the platen, so each lever can be identical and the slide is moved to the chosen type before printing. |
 | [DE896496](../patents/DE896496.md) | 1950 | Broecker, Ludwine | A light, short shuttle carrying a row of side-by-side type blocks is shifted horizontally in front of the platen by the ordinary keys, stopped at the chosen position, and the selected block is pushed to the platen. |

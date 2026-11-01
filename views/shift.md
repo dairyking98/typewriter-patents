@@ -8,13 +8,13 @@
 
 | Feature | What | Cards | Index-type | First seen | Peak | 1820s→1950s | Index machines |
 |---|---|---|---|---|---|---|---|
-| [Shift by moving the platen](../features/shift-platen.md) | Platen or carriage moves to change case | 710 | 7 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▅██▃▁▁▁` |  |
-| [Three or more cases](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 345 | 3 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▄▃▂▁▁ ` |  |
-| [Shift by sliding the element](../features/shift-axial.md) | Element slides along its axis to change case or row | 326 | 12 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▅▂▂▂▁▁` |  |
-| [Shift lock](../features/shift-lock.md) | Shift lock | 186 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁██▆▂▁▁▁` |  |
-| [Shift by turning the element](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 133 | 13 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▄█▄▂▁▁▁ ` |  |
+| [Shift by moving the platen](../features/shift-platen.md) | Platen or carriage moves to change case | 726 | 8 | 1875 [US170239](../patents/US170239.md) | 1900s | `     ▁▁▅██▃▁▁▁` |  |
+| [Three or more cases](../features/shift-triple.md) | Three cases or more (e.g. lower / caps / figures) | 365 | 5 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▅▄▂▁▁ ` |  |
+| [Shift by sliding the element](../features/shift-axial.md) | Element slides along its axis to change case or row | 340 | 14 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▂█▅▂▂▂▁▁` |  |
+| [Shift lock](../features/shift-lock.md) | Shift lock | 194 | 1 | 1883 [US284231](../patents/US284231.md) | 1900s | `      ▁▇█▆▂▁▁▁` |  |
+| [Shift by turning the element](../features/shift-rotary.md) | Element turns by a fixed angle to change case | 140 | 13 | 1875 [US171408](../patents/US171408.md) | 1890s | `     ▁▄█▄▂▁▁▁ ` |  |
 
-## Index-type patents, oldest first (31)
+## Index-type patents, oldest first (34)
 
 | Year | Patent | Inventor | Why | What it does | Its features here |
 |---|---|---|---|---|---|
@@ -47,5 +47,8 @@
 | 1911 | [JP22193](../patents/JP22193.md) | Sakai, Yasujirō | index | A multi-row type cylinder that is turned and slid by hand on its shaft, with a matching index drum and pointer, and a paper cylinder that is swung against the type… | Shift by sliding the element |
 | 1911 | [US1011366](../patents/US1011366.md) | Payne - Wray, Halbert E. - Silas G. | index | A stamped sheet-metal frame carrying a hand-slid ribbon guide and a spring-loaded pointer is screwed to the platen-shift frame. | Shift by moving the platen |
 | 1920 | [DE327166](../patents/DE327166.md) | Langguth, Robert | index | Each plate field serves two types (for example capital and lower-case letter), and a thumb button on the pointer handle shortens or lengthens the setting slide so the… | Shift by turning the element |
+| 1921 | [JP43667](../patents/JP43667.md) | Matsumoto, Eiichi | index | Put the frequent characters on typebars with four-level carriage shift, and keep the rare characters as loose types in a rotating and sliding cylindrical store, chosen… | Shift by moving the platen, Three or more cases |
 | 1923 | [DE377030](../patents/DE377030.md) |  | index | Several writing keys per letter field, where the extra keys also move the type cylinder (rotationally or lengthwise) through a gear, so case is chosen by which key is… | Shift by turning the element, Shift by sliding the element |
+| 1927 | [JP75116](../patents/JP75116.md) | Inoue, Jin | index | A single type key swung over an arc-shaped chart turns a double-row type wheel through a sector gear, and the button on it presses the platen against the wheel; ink… | Shift by sliding the element |
 | 1937 | [DE653658](../patents/DE653658.md) | Winklhofer, Wanderer Werke Vorm | index | Both line indicator bars on a common carrier follow the platen shift and can be moved by one handle between a close-fitting position and a slightly raised position,… | Shift by moving the platen |
+| 1940 | [JP136394](../patents/JP136394.md) | Mita, Kikuji | index | Select a character with two telephone dials, one sliding a multi-ring type cylinder along its axis to the right ring and the other turning it to the right type, with the… | Shift by sliding the element, Three or more cases |

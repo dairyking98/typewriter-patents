@@ -4,11 +4,12 @@
 
 Typebars thrown by a motor or by electromagnets
 
-**128 patents**, 1875–1950. Often together with:
+**136 patents**, 1875–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (61)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (103), [Typebar action](../features/bar-type-action.md) (27), [Type basket and bearings](../features/bar-basket-bearings.md) (15), [Key touch and even impression](../features/bar-touch.md) (14)
-- **Impression:** [Electric drive](../features/imp-electric.md) (82), [Element struck to the platen](../features/imp-element-to-platen.md) (16), [Separate print key or lever](../features/imp-print-lever.md) (14)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (64)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (106), [Typebar action](../features/bar-type-action.md) (28), [Type basket and bearings](../features/bar-basket-bearings.md) (16)
+- **Impression:** [Electric drive](../features/imp-electric.md) (85), [Element struck to the platen](../features/imp-element-to-platen.md) (18), [Separate print key or lever](../features/imp-print-lever.md) (15)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (18)
 
 **Machines:** [Blick Ninety](../machines/blick-ninety.md) (1)
 
@@ -82,8 +83,10 @@ Typebars thrown by a motor or by electromagnets
 | [US1153582](../patents/US1153582.md) | 1915 | Steiner, Adolf | A device disables the additional locking device when the key is held down, so a repeatedly struck key can keep the mechanism working without interruption. |
 | [US1155445](../patents/US1155445.md) | 1915 | Sargent, Evlan | A spring-or-motor driven machine with a rotating paper cylinder and circle of type-bars whose keys only release the driving mechanism. |
 | [US1156061](../patents/US1156061.md) | 1915 | Crawley, Mansfield C. | A motor-driven shaft cocks a spring-loaded actuating bar that a key releases to throw the type-bar. |
+| [JP31868](../patents/JP31868.md) | 1916 | Roebuck, Alvah Curtis | Build the machine as two sub-assemblies, a base carrying the actuating parts and a top plate carrying the working parts, joined by simple connecting links. |
 | [DE327617](../patents/DE327617.md) | 1920 | Begas, Gottfried | A curved rail under each pull rod lifts the rod after the type strikes, so the cam disengages and a repeated involuntary strike cannot occur. |
 | [DE327618](../patents/DE327618.md) | 1920 | Kracke, Karl | A constantly rotating shaft carries articulated arms, and each key sets a switch disc that determines whether an arm grasps its type lever and brings it to the stop or passes it by. |
+| [JP39625](../patents/JP39625.md) | 1920 | Aoyagi, Eiji | Two opposed spring barrels pull the carriage by separate tapes; swinging gear frames disconnect each barrel from its spring so the idle barrel turns freely without changing spring tension, and weak auxiliary springs plus extra keys restore tension. |
 | [DE335645](../patents/DE335645.md) | 1921 | Tolle, Heinrich | Each keystroke trips an intermediate slide or rocker link that briefly engages the clutch with the power drive, and a blocking device stops repeated engagement until the key returns. |
 | [DE335878](../patents/DE335878.md) | 1921 | Gronemann, Albert | A round striking rod engages a semicircular groove as the key goes down, and it holds the drive engaged until it slides off, so the key needs to move only 2 to 3 mm for full force. |
 | [DE339630](../patents/DE339630.md) | 1921 | Knobloch, Wenzel | A typebar with a fixed pivot is driven through a pull rod by a friction wheel pressed on a rotating roller by the key; shifting a rail switches to manual drive. |
@@ -97,6 +100,7 @@ Typebars thrown by a motor or by electromagnets
 | [DE403513](../patents/DE403513.md) | 1924 | Knotz, Franz | An arm on the rear of each key lever reaches the intermediate lever and strikes it directly, so the type lever can be driven by hand without motor power. |
 | [DE406088](../patents/DE406088.md) | 1924 | W, Mercedes Buero Maschinen Und | A friction bar on the typebar linkage is pressed by a roller against a continuously rotating friction shaft, then released just before impact so inertia completes the stroke. |
 | [DE407417](../patents/DE407417.md) | 1924 | Ges, Polygraphische | A disengageable motor drive transfers loose type bars to a printing position after line setting, then returns them to rest after printing. |
+| [JP67194](../patents/JP67194.md) | 1925 | La Pegna, Raffaello | Several groups of typebar linkages, one per column, share one set of keys, and a hand-set selector puts chosen groups in working state so one key stroke prints the same figure in all selected columns. |
 | [DE424871](../patents/DE424871.md) | 1926 | Fa, Mercedes Buero Maschinen | A pivoted link with two teeth of finer pitch than the camshaft always engages at the same relative position, giving a fixed run-up of about 1 mm. |
 | [DE429381](../patents/DE429381.md) | 1926 | Fa, Mercedes Buero Maschinen | The coupling pawl is spring-mounted in a longitudinal slot so the key can still reach its end position. |
 | [DE432120](../patents/DE432120.md) | 1926 | Fa, Mercedes Buero Maschinen | A camshaft drives tension members that strike the type levers; stripping members set how long each tension member engages, adjusted individually by pivoting adjusting elements with hole rows, or together through a lever-driven transmission for fine adjustment. |
@@ -112,7 +116,9 @@ Typebars thrown by a motor or by electromagnets
 | [DE457479](../patents/DE457479.md) | 1928 | Jacobsen, Johannes | A latch lever on the type lever closes a contact spring and slides along it, giving a fixed current time regardless of key travel. |
 | [DE463228](../patents/DE463228.md) | 1928 | G, Typar Co A | The eccentric and its locking pawl are carried by a replaceable yoke, and the yoke's backward movement is limited by an adjustable stop acting on several push rods. |
 | [DE465574](../patents/DE465574.md) | 1928 | Ag, Triumph Werke Nuernberg | Switching the power source off sets each intermediate link back to rest, so keys pressed with the motor off cannot leave a type lever in the striking position. |
+| [JP82321](../patents/JP82321.md) | 1929 | Frank, L. | Two identical 36-sign button groups, one per hand, with each character selected by pressing the matching row button on one and column button on the other, closing a circuit to an electromagnet that pulls the typebar's key lever. |
 | [DE498212](../patents/DE498212.md) | 1930 | Ag, Triumph Werke Nuernberg | A pawl on the intermediate lever cooperates with a stationary lug and stop and a leaf spring, so the drive parts vibrate rather than jerk, and the drive is disengaged in manual operation. |
+| [JP91477](../patents/JP91477.md) | 1930 | Egawa, Yoshimitsu | A continuously spinning type disc is stopped by a key-operated stop dropping into a hole of a selector cylinder on the same shaft, then a clutch-started one-turn shaft lowers the disc shaft to print and advances the paper box. |
 | [DE521880](../patents/DE521880.md) | 1931 | Winklhofer, Wanderer Werke Vorm | The engaging part of the pawl swings on the rest of the pawl against its own spring, limited by a pin in an enlarged bore, so the return spring is independent of the pawl engagement part. |
 | [DE533943](../patents/DE533943.md) | 1931 | Inc, Electromatic Typewriters | Mount each lifting disc with its holding and pressure levers in a self-contained frame of two angled plates, detachably carried on a bearing part on the machine's cross rails. |
 | [DE536814](../patents/DE536814.md) | 1931 | Inc, Elektromatic Typewriters | Give each catch lever a second catch nose above the first, so a held key stops the disc after one stroke. |
@@ -128,6 +134,8 @@ Typebars thrown by a motor or by electromagnets
 | [DE576313](../patents/DE576313.md) | 1933 | Benzing, Hugo | Each friction rod is moved by an adjustable intermediate lever on a spring-loaded eccentric, released by the key lever and returned by the type-lever action, so the rod briefly presses on continuously running rollers for one stop. |
 | [DE579749](../patents/DE579749.md) | 1933 | Grah, Ernst | Make the type rods star-shaped so they touch the guide tube only along narrow edges, driven by low-pressure air. |
 | [DE604492](../patents/DE604492.md) | 1934 |  | One drive part moves out to set the counter and back to drive the number type, so printing can only follow counter setting. |
+| [JP118804](../patents/JP118804.md) | 1936 | Nippon Typewriter Co., Ltd. | A handle lever with a click and an operating lever with a pushing pawl share one pivot over a saw-tooth wheel, so holding the operating lever alone winds the spring and holding both lets it down. |
+| [JP121089](../patents/JP121089.md) | 1937 | Miwa, Mataichi | An air valve serves as the print key, so a fingertip press admits compressed air that lifts the selected type and then swings it against the platen. |
 | [DE754784](../patents/DE754784.md) | 1938 | Werke, Mercedes Bueromaschinen | Mount each type lever independently of other parts and let a shared segment-shaped electromagnet accelerate the lever through iron lamellae fixed to it, switched by the key lever. |
 | [DE669731](../patents/DE669731.md) | 1939 | Co, Burroughs Adding Machine | The control bar is rigidly coupled to the drive shaft so no spring is needed for the print stroke, with strong return springs and an anti-rebound device to catch the type lever. |
 | [DE756612](../patents/DE756612.md) | 1939 | Bromund, Arthur | A motor-driven gear sits between the drive member and power source; pressing a key couples the type lever's drive linkage to the mechanical drive and it uncouples automatically after the imprint, even with the key still held. |
@@ -139,6 +147,7 @@ Typebars thrown by a motor or by electromagnets
 | [DE701937](../patents/DE701937.md) | 1941 | Ag, Wanderer Werke | A fixture holds the type lever segment on a base; the lever is pivoted in and pressed against its bearing, and the type is held on a die with an alignment notch by electromagnet. |
 | [DE704720](../patents/DE704720.md) | 1941 | Andreas, Salzberger | A one-sided rising cam disc with locking parts lifts the carriage, and an intermediate member converts the lift into a rolling motion down an inclined slideway on return. |
 | [DE718676](../patents/DE718676.md) | 1942 | Werke, Mercedes Bueromaschinen | Power-driven intermediate levers, moved by the typewriter's type levers through a transmission, select the punch functions by key, giving a constant key stroke. |
+| [JP162439](../patents/JP162439.md) | 1943 | Ochiai, Isamu | A ratchet and pawl rewind the platen-drive spring using the irregular back-and-forth motion of the type tray, stopping automatically when the spring reaches a set tension. |
 | [DE921627](../patents/DE921627.md) | 1943 | Inc, Royal Typewriter Co | A control lever on the drive lever with the pawl snaps the pawl into the toothed roller on key press and disengages it on release, with stops at each end that couple and uncouple it. |
 | [DE975336](../patents/DE975336.md) | 1946 | Eibert, Friedrich | Replace the friction drive with a clamping coupling: a stirrup spanning slightly more than half the smooth drive roller is clamped to it by the self-tightening effect of static friction when the key is pressed. |
 | [DE911373](../patents/DE911373.md) | 1947 | Corp, Underwood | A second transfer link is hinged to the swivel arm with a longer lever arm than the drive link, so a constant drive movement gives an accelerated working stroke; the driven part is released from the driving toothed roller automatically during the stroke. |

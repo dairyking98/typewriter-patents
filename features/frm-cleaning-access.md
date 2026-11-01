@@ -4,13 +4,13 @@
 
 Access for cleaning or element removal
 
-**458 patents**, 1876–1950. Often together with:
+**461 patents**, 1876–1950. Often together with:
 
-- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (71)
-- **Typebars:** [Typebars](../features/elem-typebar.md) (172), [Type basket and bearings](../features/bar-basket-bearings.md) (66)
-- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (65)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (59)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (96)
+- **Selection:** [Full keyboard, a key per character](../features/sel-keyboard-full.md) (74)
+- **Typebars:** [Typebars](../features/elem-typebar.md) (175), [Type basket and bearings](../features/bar-basket-bearings.md) (67)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (68)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (62)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (99)
 - **Frame and body:** [Adjustment and wear take-up](../features/frm-adjustment-wear.md) (88)
 - **Uses:** [Attachment or accessory](../features/use-accessory.md) (69)
 
@@ -230,6 +230,7 @@ Access for cleaning or element removal
 | [US833283](../patents/US833283.md) | 1906 | Alexander, Jesse | A simplified, readily dismantled carriage and platen-shifting mechanism for a shift-type visible-writing machine. |
 | [US833287](../patents/US833287.md) | 1906 | Alexander, Jesse | Spools slip onto square-ended ribbon shafts carried by hinged levers with centring pins, with reversing feed. |
 | [US837554](../patents/US837554.md) | 1906 | Fox - Barrett, William R. - Glenn J. | Improved automatic reverse, ribbon guide, lateral ribbon movement and spool guides, with a hinged guide to swing the ribbon aside for cleaning type. |
+| [JP12644](../patents/JP12644.md) | 1906 | Holford, John Carbery | A typebar writing machine with a platen-shift upper case, a ribbon lift tied to the type bar and platen rail, a spring-drum carriage on a double-dog escapement, and removable platen, ribbon spools and key-lever units. |
 | [US841288](../patents/US841288.md) | 1907 | Walker, Charles Wellington | A vertical-shaft escapement with a spring-loaded two-part clutch lets the carriage be freed by one key or run back without driving the escape wheel, with a shaft-operated line lock and a detachable, plunger-locked platen frame. |
 | [US847613](../patents/US847613.md) | 1907 | Secor, Jerome B. | All escapement and carriage-feed parts are mounted on an independent frame that is detachably fixed in the machine, so the whole assembly can be removed and replaced as one unit. |
 | [US848151](../patents/US848151.md) | 1907 | Bentz - Capron, William T. - Marshall F. | A frame-mounted raisable bristle belt run by a crank brushes the typefaces. |
@@ -338,13 +339,15 @@ Access for cleaning or element removal
 | [US1162194](../patents/US1162194.md) | 1915 | Sholes, Zalmon G. | A cam groove in an upright lever, driven by a pin on the key lever, accelerates the typebar, and notched bearing rods let levers be slid on and off their pivots. |
 | [DE289046](../patents/DE289046.md) | 1915 | Hammond, Typewriter C | A bracket mounted on the carrier axis against a coil spring lifts first the two type segments and only then the carrier, so the carrier can be raised and rotated to exchange the segments. |
 | [US1163966](../patents/US1163966.md) | 1915 | Anderson, Nils H. | A stamped sheet-metal ball retainer with openings for the balls and a pinion-carrying tongue, with flat forked keepers that surround and hold each ball in place. |
-| [JP38396](../patents/JP38396.md) | 1920 | Spiro, Charles | A rock shaft with a pin moves a line-space lever carrying a feed pawl; an adjustable gauge hook limits the stroke to set the line space, and the pawl is drawn clear of the platen ratchet at rest so the platen lifts out freely. |
+| [JP31868](../patents/JP31868.md) | 1916 | Roebuck, Alvah Curtis | Build the machine as two sub-assemblies, a base carrying the actuating parts and a top plate carrying the working parts, joined by simple connecting links. |
+| [JP38396](../patents/JP38396.md) | 1920 | Gourland Typewriter Corporation | A rock shaft with a pin moves a line-space lever carrying a feed pawl; an adjustable gauge hook limits the stroke to set the line space, and the pawl is drawn clear of the platen ratchet at rest so the platen lifts out freely. |
 | [DE322750](../patents/DE322750.md) | 1920 | Wasem, Hermann | Slotted side cheeks take the platen axle; spring-loaded bearing bushes seat in conical recesses so the platen lifts out and seats without tools. |
 | [DE324221](../patents/DE324221.md) | 1920 | Geb, Lehmann | Removable side plates fit the frame to enclose the whole key-lever and typebar mechanism, with the type exposed only at the print point. |
 | [DE327165](../patents/DE327165.md) | 1920 | Holtze, Hans | Several independent, individually removable type sets are built in side by side, and a lever switches between them in mid-writing. |
 | [DE329723](../patents/DE329723.md) | 1920 | Schmidt, Richard C Fr | A rotating frame on a stand clamps the machine by its frame; lifting frees it to turn, and releasing the clamp holds it in place. |
 | [DE329783](../patents/DE329783.md) | 1920 | Muchajer, Paul | A cross wedge pin through the top of a plain axle engages a groove in the wheel top, with a compression spring pressing the wheel onto the wedge, so wheels are changed by pushing down and turning, with no nuts. |
 | [DE326845](../patents/DE326845.md) | 1921 | Wahls, Eduard | A ball-bearing swivel base with four radially adjustable screw columns holds the machine feet above the bench, giving access from all sides. |
+| [JP61016](../patents/JP61016.md) | 1921 | Sandor, Franz | Split a visible-writing typebar typewriter into a front frame (keys, type levers, ribbon gear) and a rear frame (carriage, escapement, platen frame) joined by four screws, so either half can be exchanged. |
 | [DE338613](../patents/DE338613.md) | 1921 | Furtwaengle, Uhrenfabrik Vorm L | Bearing bodies fully enclose the roll journals, held by a slip-over ring or a snap pawl, so the roll stays put and is exchangeable. |
 | [DE339406](../patents/DE339406.md) | 1921 | Sandor, Franz | Split a visible-writing typewriter along a transverse vertical plane into two complete frames, keyboard-and-typebar front and carriage rear, joined by a light hand-releasable coupling. |
 | [DE346703](../patents/DE346703.md) | 1922 | Burboa, Juan Gualberto Holguin | Selector disc valves between a few keys and the typebars route suction from foot-driven bellows to pneumatic bellows that move the typebars. |
@@ -460,8 +463,8 @@ Access for cleaning or element removal
 | [DE712556](../patents/DE712556.md) | 1941 | Graf, Phil Hugo | Using vapours of hydrocarbons of uniform boiling point saturates ribbons faster and reduces storage time. |
 | [DE728754](../patents/DE728754.md) | 1942 | Maschf, Rueti Ag | Two plate clamps with one-directional hair pile grip the thread ends on the pulling stroke only, so the thread is held and the cut remnants are released on the return. |
 | [DE879551](../patents/DE879551.md) | 1943 | Corp, Underwood | A toggle lever on the carriage holds the removable platen axle in its open bearing in the self-locking extended position and releases it when bent. |
-| [JP157600](../patents/JP157600.md) | 1943 | Kataoka, Kōtarō | The type cylinder rests by grooved end rims on rollers in a support that slides on rails, so cylinders can be lifted off and exchanged as spares. |
-| [JP157673](../patents/JP157673.md) | 1943 | Kataoka, Kōtarō | Case ends sit in notches round ring plates, held by an outer ring whose groove and hollows catch spring-loaded balls, with a notch to release a case. |
+| [JP157600](../patents/JP157600.md) | 1943 | Takeuchi, Hideo | The type cylinder rests by grooved end rims on rollers in a support that slides on rails, so cylinders can be lifted off and exchanged as spares. |
+| [JP157673](../patents/JP157673.md) | 1943 | Takeuchi, Hideo | Case ends sit in notches round ring plates, held by an outer ring whose groove and hollows catch spring-loaded balls, with a notch to release a case. |
 | [DE740552](../patents/DE740552.md) | 1943 | Schlenker, Alfred Eugen | A driven roller and spring-loaded counter-rollers are placed between the strip-feed and the container to guide the strip into a tighter roll. |
 | [DE938671](../patents/DE938671.md) | 1947 | Tombolini, Alfredo | The rear end of the type lever and a connecting plate are shaped to hook together and lie in the same plane within the unchanged segment slot, so the key action is soft and each type lever can be taken out individually for service. |
 | [DE885093](../patents/DE885093.md) | 1947 | Ettmueller, Walter | A pivoting flap on the paper carriage, mounted outside the platen area, has a collecting channel with a longitudinal discharge to catch and divert the erasing waste. |

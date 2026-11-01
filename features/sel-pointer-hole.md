@@ -4,13 +4,13 @@
 
 Pointer dropped into a hole or notch for each character; locates the carrier
 
-**120 patents**, 1852–1949. Often together with:
+**126 patents**, 1852–1949. Often together with:
 
-- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (52), [Press the pointer to print](../features/sel-pointer-press-prints.md) (47)
-- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (49), [Hand presses the type through](../features/imp-press-through.md) (47)
-- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (70), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (67)
-- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (51)
-- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (45)
+- **Selection:** [Selection locked for printing](../features/sel-selector-locking.md) (57), [Press the pointer to print](../features/sel-pointer-press-prints.md) (48)
+- **Impression:** [Element struck to the platen](../features/imp-element-to-platen.md) (53), [Hand presses the type through](../features/imp-press-through.md) (49)
+- **Spacing and escapement:** [Pawl-and-rack escapement](../features/esc-pawl-rack.md) (74), [Prints and spaces in one stroke](../features/esc-print-and-space.md) (72)
+- **Paper and carriage:** [Roller platen](../features/pap-platen-roller.md) (55)
+- **Frame and body:** [Few parts, low cost](../features/frm-few-parts.md) (49)
 
 **Machines:** [Velograph 2](../machines/velograph-2.md) (2), [Odell 1 (Gerade)](../machines/odell-1-gerade.md) (2), [Odell 1 A (Rund)](../machines/odell-1-a-rund.md) (2), [Odell 1 B](../machines/odell-1-b.md) (2), [Odell 2](../machines/odell-2.md) (2), [Odell 3](../machines/odell-3.md) (2), [Odell 4](../machines/odell-4.md) (2), [Pearl](../machines/pearl.md) (1), [Thomas](../machines/thomas.md) (1), [Hall 1](../machines/hall-1.md) (1), [Hall 2](../machines/hall-2.md) (1), [Brackelsberg (A)](../machines/brackelsberg-a.md) (1), [Century Index](../machines/century-index.md) (1)
 
@@ -110,6 +110,7 @@ Pointer dropped into a hole or notch for each character; locates the carrier
 | [US666176](../patents/US666176.md) | 1901 | Blickensderfer, George C. | A hand-turned character dial positions a type wheel on one shaft, and after each impression a spring-driven pin-disk escapement automatically rotates the wheel relative to the dial by an amount set by adjustable pins, producing a cipher that can be reversed with the same settings. |
 | [US682830](../patents/US682830.md) | 1901 | Melen, Charles F. | A check writer using type-wheels, a printing lever and a spring-drum carriage, with the duplicate held in a locked box. |
 | [US702706](../patents/US702706.md) | 1902 | Coffman, George W. | A flexible type band with lower- and upper-case rows is slid under a roller by a key placed in a hole of a character chart, and the roller presses the chosen type through a window onto the paper. |
+| [JP15038](../patents/JP15038.md) | 1908 | Billing, Noel Pemberton | A single-key index typewriter: a lever dropped into one tooth of a saw-toothed index plate turns a spring-returned type wheel through a rack and pinion, and pressing on prints and spaces. |
 | [US911805](../patents/US911805.md) | 1909 | Billing, Noel Pemberton | A single lever dipped into a stepped plate rotates a type disk (via rack, pinion and one-way ratchet) to the chosen character, and the same stroke trips a spring striker behind the paper and spaces the carriage. |
 | [US932167](../patents/US932167.md) | 1909 | Odell, Levi J. | A single rocking type bar on a sliding frame, positioned by a stylus over a slotted character bar, printing the character chosen. |
 | [US934218](../patents/US934218.md) | 1909 | Russell, William Ernest | A flat wheel carrying spring-returned radial typebars is turned by pegging an indicator arm through a hole in the top plate, and the same peg then presses a single main lever that drives one hammer to print and space. |
@@ -131,9 +132,14 @@ Pointer dropped into a hole or notch for each character; locates the carrier
 | [JP78051](../patents/JP78051.md) | 1928 | Betsuyaku, Man'ai | Each loose square-bar type carries its own sunk index character on its side as well as the raised printing character on its end, and the grooves are slanted so the type under the paper cylinder points obliquely at the cylinder centre, where a single key fires it up through a guide frame. |
 | [JP79080](../patents/JP79080.md) | 1928 | Toyama, Toshio | Each type body carries both vertical and horizontal character forms on one side, with an index character on its top; pressing a handle pushes the chosen type up on a leg into a type-holding plate where a hammer behind the paper strikes it, and vertical or horizontal writing is chosen merely by raising or lowering the platen. |
 | [DE469128](../patents/DE469128.md) | 1929 | Loewenbuck, Sebastian | Use one rotary stop arm that swings against a pen (stylus) inserted into a hole in a depressible letter board, so the pen position stops the type wheel and the same press prints. |
+| [JP87308](../patents/JP87308.md) | 1930 | Mayer, Paul Otto | One thumb-operated horizontal main lever, swinging about an upright pin, carries the type wheel, presses it to the paper roller, inks it, and feeds the carriage rack. |
 | [DE525926](../patents/DE525926.md) | 1931 | Holzer, Rudolf | A hand-held pen-shaped stylus moves a type selector in three dimensions through a zigzag-edged opening in a pivoted setting plate, so one motion selects the type lever on a disc and then fires the hammer. |
 | [DE535911](../patents/DE535911.md) | 1931 | Bauer, Emil | Each lamp has a socket on a control panel and a banana plug, inserted through a hole in a common plate, connects that lamp to a letter; removable guide templates ensure the plug is put in the right place. |
+| [JP94664](../patents/JP94664.md) | 1931 | Miwa, Mataichi | A pointer over a right-reading index board lines up a push-up rod that lifts one loose type into a sliding case; a crank rod then carries the case along a tubular guide bar, inking it, and at the end of travel the same push turns the bar to press the type on the paper cylinder. |
+| [JP119648](../patents/JP119648.md) | 1936 | Nippon Typewriter Co., Ltd. | A spring-loaded, catch-held delay cam keeps the tray-locating device engaged until the type has had time to fall back. |
 | [DE641105](../patents/DE641105.md) | 1937 | Co, Ncr | Hole combinations on a punched tape are sensed and selected by setting members so a single pass can route transactions to adders. |
+| [JP153606](../patents/JP153606.md) | 1942 | Hasegawa, Kichisaburō | A type cylinder that slides and turns on a spring-raised swinging rod, detented by a ball in index hollows, is pressed down onto a paper cylinder that is advanced a step by the return stroke. |
+| [JP157458](../patents/JP157458.md) | 1943 | Hasegawa, Kichisaburō | Replace the cylinder with a ball that turns freely in two directions, with types on its lower half and index hollows on its upper half, so no sliding part is needed. |
 | [JP159459](../patents/JP159459.md) | 1943 | Tsujimoto, Hidegorō | A turning disc of kana types is rocked on a hinged carrier to press a character onto one of many gear-linked printing rollers, sliding along a rail across the roller axis. |
 | [DE739189](../patents/DE739189.md) | 1943 | Aurbach, - Kurt | A movable display plate with notches guides the operator's finger against a stop that sets the printing table to the chosen line, then returns it to centre. |
 | [DE742224](../patents/DE742224.md) | 1943 | H, Hollerith Maschinen Ges M B | A punch machine is driven from a sensing device on the sample card through a control unit that passes hole combinations as pulses to the key magnets, and writes the values. |

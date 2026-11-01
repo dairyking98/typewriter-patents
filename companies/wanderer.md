@@ -20,9 +20,9 @@ Name variants: WANDERER WERKE VORM WINKLHOFER; WANDERER WERKE AG; The Wanderer W
 
 ## Inventors
 
-[Winklhofer, Wanderer Werke Vorm](../people/winklhofer-w.md) (155), [Ag, Wanderer Werke](../people/ag-w.md) (21), [Buschmann, Theodor Eugen](../people/buschmann-t.md) (12), [Mohns, Carl Julius](../people/mohns-c.md) (8), [Ges, Wanderer Werke Akt](../people/ges-w.md) (8), [Wanderer, Werke Vorm Winklhofer](../people/wanderer-w.md) (4), [Wanderer-Werke, Vorm Winklhofer & Jaenicke Akt-Ges](../people/wanderer-werke-v.md) (3), [Winklho, Wanderer Werke Vormals](../people/winklho-w.md) (2), [Buschmann, Eugen](../people/buschmann-e.md) (2), [Schueler, Hugo](../people/schueler-h.md) (2), [Eggers, Hugo](../people/eggers-h.md) (2), [Knackfuss, Walter](../people/knackfuss-w.md) (2), [Wanderer, Fahrradwerke](../people/wanderer-f.md) (1), [Winklbofer, Wanderer Werke Vorm](../people/winklbofer-w.md) (1), [Gruettner, Hans](../people/gruettner-h.md) (1), [Hans-Dietrich, Geiser](../people/hans-dietrich-g.md) (1), [Dronigke, Erich](../people/dronigke-e.md) (1), [Anschuetz, Franz Walther](../people/anschuetz-f.md) (1)
+[Winklhofer, Wanderer Werke Vorm](../people/winklhofer-w.md) (155), [Ag, Wanderer Werke](../people/ag-w.md) (21), [Buschmann, Theodor Eugen](../people/buschmann-t.md) (12), [Mohns, Carl Julius](../people/mohns-c.md) (8), [Ges, Wanderer Werke Akt](../people/ges-w.md) (8), [Wanderer, Werke Vorm Winklhofer](../people/wanderer-w.md) (4), [Wanderer-Werke, Vorm Winklhofer & Jaenicke Akt-Ges](../people/wanderer-werke-v.md) (3), [Winklho, Wanderer Werke Vormals](../people/winklho-w.md) (2), [Buschmann, Eugen](../people/buschmann-e.md) (2), [Schueler, Hugo](../people/schueler-h.md) (2), [Eggers, Hugo](../people/eggers-h.md) (2), [Knackfuss, Walter](../people/knackfuss-w.md) (2), [Wanderer, Fahrradwerke](../people/wanderer-f.md) (1), [Winklbofer, Wanderer Werke Vorm](../people/winklbofer-w.md) (1), [Schüler, Hugo](../people/schuler-h.md) (1), [Gruettner, Hans](../people/gruettner-h.md) (1), [Hans-Dietrich, Geiser](../people/hans-dietrich-g.md) (1), [Dronigke, Erich](../people/dronigke-e.md) (1), [Anschuetz, Franz Walther](../people/anschuetz-f.md) (1)
 
-## Patents assigned (227)
+## Patents assigned (228)
 
 | Patent | Date | Inventor | Title | Carrier |
 |---|---|---|---|---|
@@ -190,6 +190,7 @@ Name variants: WANDERER WERKE VORM WINKLHOFER; WANDERER WERKE AG; The Wanderer W
 | [DE595898](../patents/DE595898.md) | 1934-04-21 | Winklhofer, Wanderer Werke Vorm | Line switch for typewriters |  |
 | [DE605198](../patents/DE605198.md) | 1934-11-06 | Winklhofer, Wanderer Werke Vorm | Reverse gear clutch on typewriters |  |
 | [DE605451](../patents/DE605451.md) | 1934-11-10 | Winklhofer, Wanderer Werke Vorm | Adjustment device for the return spring of the universal rail of typewriters |  |
+| [JP110739](../patents/JP110739.md) | 1935-02-15 | Schüler, Hugo | Silent-printing typewriter |  |
 | [DE582550](../patents/DE582550.md) | 1935-02-20 | Winklhofer, Wanderer Werke Vorm | Type body with alignment marks, especially for typewriters | typebar |
 | [DE614373](../patents/DE614373.md) | 1935-06-08 | Winklhofer, Wanderer Werke Vorm | Device on writing business machines to secure the writing limit on the lower &hellip; |  |
 | [DE626187](../patents/DE626187.md) | 1936-02-21 | Winklhofer, Wanderer Werke Vorm | Device on writing business machines to secure the writing limit on the lower &hellip; |  |

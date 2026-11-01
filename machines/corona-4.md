@@ -34,7 +34,7 @@ tags: ["machine"]
 | Price when new | $60 |
 | Rarity (Lexikon's scale) | 2 |
 
-## Patents (35)
+## Patents (36)
 
 | Patent | Year | Inventor | Title | Confidence | Evidence |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@ tags: ["machine"]
 | [US1121039](../patents/US1121039.md) | 1914 | Petermann, Otto | Platen-Shift | medium | inventor = designer; patent 1914, machine 1924; both typebar |
 | [US1121041](../patents/US1121041.md) | 1914 | Petermann, Otto | Platen-Shift for Type-Writing Machines | medium | inventor = designer; patent 1914, machine 1924; both typebar |
 | [US1144238](../patents/US1144238.md) | 1915 | Petermann, Otto | Keyboard for Type-Writing Machines | medium | inventor = designer; patent 1915, machine 1924; both typebar |
+| [JP21618](../patents/JP21618.md) | 1909 | Petermann, Otto | Typewriter | low | inventor = designer; patent 1909, machine 1924 |
 | [US1062027](../patents/US1062027.md) | 1913 | Petermann, Otto | Type-Writing-Machine Construction | low | inventor = designer; patent 1913, machine 1924 |
 | [US1064372](../patents/US1064372.md) | 1913 | Petermann, Otto | Type-Writing Machine | low | inventor = designer; patent 1913, machine 1924 |
 | [US1081140](../patents/US1081140.md) | 1913 | Petermann, Otto | Keyboard for Type-Writing Machines | low | inventor = designer; patent 1913, machine 1924 |

@@ -4,13 +4,12 @@
 
 Shorthand or stenographic machine
 
-**96 patents**, 1868–1950. Often together with:
+**100 patents**, 1868–1950. Often together with:
 
-- **Selection:** [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) (29), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (23)
+- **Selection:** [Small keyboard with shift rows](../features/sel-keyboard-few-keys.md) (30), [Full keyboard, a key per character](../features/sel-keyboard-full.md) (23)
 - **Typebars:** [Typebars](../features/elem-typebar.md) (25)
-- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (19), [Ribbon feed](../features/ink-ribbon-feed.md) (13), [Automatic ribbon reverse](../features/ink-ribbon-reverse.md) (10)
-- **Spacing and escapement:** [Space key or bar](../features/esc-space-key.md) (10)
-- **Paper and carriage:** [Feed rollers and paper release](../features/pap-feed-rollers.md) (20)
+- **Inking:** [Ink ribbon](../features/ink-ribbon.md) (19), [Ribbon feed](../features/ink-ribbon-feed.md) (13)
+- **Paper and carriage:** [Feed rollers and paper release](../features/pap-feed-rollers.md) (22), [Roller platen](../features/pap-platen-roller.md) (11), [Line spacing](../features/pap-line-space.md) (10)
 
 ## Patents, oldest first
 
@@ -36,10 +35,13 @@ Shorthand or stenographic machine
 | [US352799](../patents/US352799.md) | 1886 | Bartholomew, Miles M. | A mainspring barrel drives a fly-governor train to a paper-feed roller, with a ribbon and keys that print the strokes. |
 | [US381506](../patents/US381506.md) | 1888 | Olcott - Ellacott, Charles S. - Joseph C. | A driven printing roller and feed roller on an adjustable arm reel the continuous paper into rolls, driven by an elastic band over two sheaves. |
 | [US392258](../patents/US392258.md) | 1888 | Carpenter, Wilbur M. | Two parallel sets of marker keys, extra keys, and keys pressable in pairs, threes or fours with one finger. |
+| [JP940](../patents/JP940.md) | 1888 | Fujiki, Sueoto | Record only the vowels, by stamping with fingertip-worn vowel stamps on ruled paper whose columns are labelled with consonants. |
 | [US399247](../patents/US399247.md) | 1889 | Damon, Charlie A. | A finger-key stenotype: key levers are paired in frames, each lever-frame carrying an independent marker, with a spacing key on one frame. |
 | [US410628](../patents/US410628.md) | 1889 | Anderson, George Kerr | A type plate over fourteen key bars, pressed down on the paper by whichever keys are struck together, in a straight line. |
+| [JP1309](../patents/JP1309.md) | 1890 | Shida, Yasaku | A spring-driven type wheel spins freely when any key is pressed and is stopped at the chosen character by a projection on its shaft meeting a projection under that key, after which a crank lowers the shaft to print while the paper table advances one space. |
 | [US440341](../patents/US440341.md) | 1890 | Anderson, George Kerr | A tachygraphic typewriter with few keys: characters are grouped into consonant, vowel and terminal sets, and combinations of keys print along a straight line. |
 | [US453233](../patents/US453233.md) | 1891 | Carpenter, Wilbur Marvin | Three sets of six keys with finger-plates grouped so one finger can press one, two or three adjoining keys at once, each key's marker printing a stroke that combines into composite characters. |
+| [JP2306](../patents/JP2306.md) | 1892 | Takayama, Kinsaku | Add a thumb push-button and ratchet to advance the paper while the left hand holds the box, and give each vowel-stamp ring a screw adjustment plus a spring-loaded second type for nasal sounds. |
 | [US496297](../patents/US496297.md) | 1893 | Craigmiles, Edwin Lee | Two banks of paired keys, each pair struck by one finger to print one or two stenographic signs at once, with a key-driven carriage feed that steps one or two type widths according to which bank was struck. |
 | [US541416](../patents/US541416.md) | 1895 | Bailey - Bailey, Joseph W. - Joseph K. | Six puncturing dies on longitudinally sliding bars are combined in permutations to form letters, punching a strip of paper. |
 | [US556533](../patents/US556533.md) | 1896 | Curtis, Frank E. | A stenographic typewriter with grouped character impressions, a carriage-locking pawl, a line-spacing lever clutched to the feed roll spindle, and a ribbon guide. |
@@ -103,6 +105,7 @@ Shorthand or stenographic machine
 | [DE556534](../patents/DE556534.md) | 1932 | Sa, Stenotype Grandjean | The writer tensions a reversing spring at any chosen moment with a key, and a lever driven by the ribbon end releases the spring so the worm gear reverses the ribbon automatically. |
 | [DE558756](../patents/DE558756.md) | 1932 | Co, Dictatype Shorthand Machine | Advance the paper by teeth acting on the paper itself, which turns the platen by friction, and take the ribbon drive from the platen rotation through a planetary gear on a swivel arm. |
 | [DE578491](../patents/DE578491.md) | 1933 | Kramer, Arnold | A portable writing surface with two spools moves a narrow paper strip; the spooled strip is removable and clamped to a frame above the keyboard. |
+| [JP103830](../patents/JP103830.md) | 1933 | Yoshida, Tashi | Moving the stylus box on by one saw-tooth pitch automatically, through a lever under the key levers and two alternating catches, as the fingers leave the keys. |
 | [DE584612](../patents/DE584612.md) | 1933 |  | A swing-out carrier with rubber feed rollers and a page turner, pressed by its own weight, turns each leaf one step at a time. |
 | [DE586252](../patents/DE586252.md) | 1933 | Stueber, Eugen | A honeycomb key layout allows one, two or three adjacent keys to be pressed with one finger, with superposed keys sharing one print point. |
 | [DE590367](../patents/DE590367.md) | 1934 | Beckhaus, Friedrich Karl | Each key carries the usual plain letter plus a shorthand character, with a switch selecting the second character and fine vertical adjustment of paper roller and type carrier so characters print above and below the baseline. |
